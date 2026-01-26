@@ -1,0 +1,12 @@
+apple | https://jobs.apple.com
+adobe | https://careers.adobe.com
+meta | https://www.meta.com/careers
+dell | https://jobs.dell.com
+inflection | https://www.inflection.com/careers
+snowflake | https://careers.snowflake.com
+facebook | https://careers.facebook.com
+descript | https://www.descript.com/careers
+zoominfo | https://www.zoominfo.com/careers
+superhuman | https://www.superhuman.com/careers
+tutanota | https://www.tutanota.com/jobs
+solr | https://solr.ai/careers

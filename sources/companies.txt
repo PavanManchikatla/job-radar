@@ -1,0 +1,5447 @@
+# Big Tech / FAANG+
+google
+alphabet
+amazon
+microsoft
+meta
+facebook
+apple
+netflix
+tesla
+nvidia
+oracle
+salesforce
+adobe
+ibm
+intel
+amd
+qualcomm
+broadcom
+dell
+hp
+hpe
+cisco
+vmware
+redhat
+suse
+canonical
+
+# AI / ML / Data Companies
+openai
+anthropic
+huggingface
+cohere
+scaleai
+databricks
+datarobot
+c3ai
+palantir
+snowflake
+deepmind
+stability.ai
+inflection
+mistral
+perplexity
+character.ai
+runway
+midjourney
+jasper
+copy.ai
+writesonic
+adept
+conjure
+typeface
+synthesia
+descript
+otter.ai
+fireflies.ai
+gong
+chorus.ai
+clari
+people.ai
+outreach
+salesloft
+apollo.io
+zoominfo
+clearbit
+6sense
+demandbase
+drift
+intercom
+qualified
+chili piper
+calendly
+mixmax
+yesware
+groove
+front
+superhuman
+spark
+hey
+protonmail
+tutanota
+hushmail
+mailbird
+newton
+spike
+polymail
+canary
+
+# Cloud & Infrastructure
+aws
+azure
+gcp
+digitalocean
+linode
+vultr
+cloudflare
+fastly
+akamai
+edgecast
+imperva
+incapsula
+sucuri
+mongodb
+redis
+elastic
+elasticsearch
+opensearch
+solr
+algolia
+meilisearch
+typesense
+confluent
+kafka
+pulsar
+rabbitmq
+nats
+zeromq
+activemq
+ibmmq
+tibco
+hashicorp
+terraform
+vault
+consul
+nomad
+waypoint
+boundary
+docker
+podman
+kubernetes
+rancher
+openshift
+eks
+aks
+gke
+pivotal
+cloudfoundry
+heroku
+netlify
+vercel
+railway
+render
+fly.io
+replit
+glitch
+codesandbox
+stackblitz
+gitpod
+codespaces
+coder
+daytona
+
+# DevOps & Developer Tools
+github
+gitlab
+bitbucket
+atlassian
+jira
+confluence
+trello
+asana
+monday.com
+clickup
+notion
+coda
+airtable
+smartsheet
+wrike
+basecamp
+teamwork
+workfront
+clarizen
+mavenlink
+scoro
+teamgantt
+projectmanager
+liquidplanner
+toggl
+harvest
+clockify
+timely
+everhour
+hubstaff
+time doctor
+rescuetime
+focusmate
+forest
+freedom
+cold turkey
+selfcontrol
+stayfocusd
+leechblock
+serene
+endel
+brain.fm
+focus@will
+noisli
+coffitivity
+mynoise
+ambient mixer
+rainy mood
+rainymood
+asoftmurmur
+defonic
+sound of colleagues
+jazz and rain
+
+# Version Control & Code Quality
+github
+gitlab
+bitbucket
+sourceforge
+launchpad
+gitea
+gogs
+phabricator
+reviewboard
+gerrit
+crucible
+sonarqube
+sonarsource
+codacy
+codebeat
+codeclimate
+coverity
+checkmarx
+veracode
+snyk
+whitesource
+blackduck
+sonatype
+nexus
+artifactory
+jfrog
+cloudsmith
+packagecloud
+gemfury
+npm
+yarn
+pnpm
+bower
+rubygems
+pypi
+maven
+gradle
+nuget
+cargo
+composer
+cocoapods
+carthage
+swift package manager
+pub
+hex
+mix
+rebar3
+leiningen
+boot
+clojars
+hackage
+stack
+cabal
+
+# Testing & QA
+selenium
+cypress
+playwright
+puppeteer
+testcafe
+webdriverio
+protractor
+nightwatch
+testim
+katalon
+ranorex
+tricentis
+microfocus
+smartbear
+testcomplete
+soapui
+postman
+insomnia
+paw
+httpie
+curl
+wget
+rest-client
+advanced rest client
+talend
+informatica
+alteryx
+knime
+rapidminer
+dataiku
+domino
+h2o.ai
+datarobot
+databricks
+anaconda
+jupyter
+zeppelin
+observable
+mode
+looker
+tableau
+powerbi
+qlik
+sisense
+domo
+thoughtspot
+microstrategy
+sap
+businessobjects
+cognos
+pentaho
+jaspersoft
+tibco spotfire
+yellowfin
+grow
+klipfolio
+databox
+geckoboard
+cyfe
+dasheroo
+reportz
+
+# Fintech & Payments
+stripe
+square
+block
+adyen
+checkout.com
+braintree
+authorize.net
+worldpay
+fiserv
+fis
+global payments
+tsys
+first data
+elavon
+merchant e-solutions
+bluepay
+payline
+fattmerchant
+stax
+payment depot
+dharma merchant services
+helcim
+national processing
+flagship merchant services
+clearent
+cayan
+heartland
+north american bancard
+eprocessing network
+transnational payments
+paymentcloud
+durango merchant services
+host merchant services
+cdgcommerce
+goepay
+paymentus
+paypal
+venmo
+zelle
+cashapp
+applypay
+googlepay
+samsungpay
+wechat pay
+alipay
+paytm
+phonepe
+gpay
+bhim
+mobikwik
+freecharge
+amazon pay
+payoneer
+wise
+transferwise
+remitly
+worldremit
+xoom
+azimo
+instarem
+currencyfair
+ofx
+torfx
+transfergo
+small world
+ria
+moneygram
+westernunion
+transfast
+uniteller
+vigo
+dolex
+orlandi valuta
+viamericas
+sigue
+rapid financial solutions
+ace cash express
+check into cash
+check n go
+cashnetusa
+moneytree
+check city
+loanmax
+titlemax
+checkmart
+pls
+money mart
+amscot
+qc holdings
+community financial services
+
+# Banking & Traditional Finance
+jpmorgan
+chase
+jpmorganchase
+bankofamerica
+bofa
+wellsfargo
+citigroup
+citi
+citibank
+usbank
+pnc
+truist
+td bank
+fifth third
+citizens
+regions
+huntington
+m&t bank
+keycorp
+comerica
+zions
+synovus
+valley national
+first horizon
+bok financial
+cullen frost
+webster
+signature bank
+silicon valley bank
+first republic
+western alliance
+pacwest
+east west bank
+cathay
+umpqua
+banner
+columbia
+first interstate
+glacier
+nbh bank
+texas capital
+prosperity
+southstate
+atlantic union
+united community banks
+home bancshares
+pinnacle
+first citizens
+old national
+simmons
+ameris
+cadence
+hope bancorp
+華美銀行
+華僑銀行
+中國信託
+國泰世華
+玉山銀行
+台新銀行
+聯邦銀行
+第一銀行
+華南銀行
+彰化銀行
+合作金庫
+土地銀行
+台灣銀行
+兆豐銀行
+中國銀行
+工商銀行
+建設銀行
+農業銀行
+交通銀行
+招商銀行
+中信銀行
+民生銀行
+興業銀行
+浦發銀行
+平安銀行
+光大銀行
+華夏銀行
+廣發銀行
+渤海銀行
+恆豐銀行
+
+# Investment Banks & Asset Management
+goldmansachs
+morganstanley
+jpmorgan
+bofa securities
+citi
+deutsche bank
+credit suisse
+ubs
+barclays
+hsbc
+bnp paribas
+societe generale
+unicredit
+santander
+bbva
+ing
+natixis
+nomura
+daiwa
+mizuho
+smbc nikko
+jefferies
+lazard
+evercore
+moelis
+pjt partners
+perella weinberg
+centerview
+guggenheim
+houlihan lokey
+greenhill
+rothschild
+allen & company
+raine group
+qatalyst
+lионgate
+raymond james
+stifel
+piper sandler
+william blair
+baird
+stephens
+cowen
+needham
+craig hallum
+benchmark
+oppenheimer
+wedbush
+lake street
+roth capital
+b riley
+dа davidson
+btig
+telsey
+loop capital
+imperial capital
+ladenburg
+maxim group
+noble capital
+small cap capital markets
+aegis capital
+alliance global
+ascendiant capital
+axiom capital
+chardan
+crystal research
+h.c. wainwright
+hallum
+kingswood
+laidlaw
+national securities
+pi financial
+rodman & renshaw
+taglich brothers
+wainwright
+
+# Private Equity & Venture Capital
+blackstone
+kkr
+carlyle
+apollo
+tpg
+warburg pincus
+advent
+vista equity
+thoma bravo
+silver lake
+general atlantic
+cvc
+permira
+pai partners
+cinven
+bc partners
+hellman & friedman
+leonard green
+bain capital
+providence equity
+neuberger berman
+fortress
+oaktree
+ares
+brookfield
+bridgewater
+millennium
+citadel
+two sigma
+de shaw
+renaissance technologies
+aqr
+man group
+winton
+marshall wace
+point72
+balyasny
+millennium
+citadel
+two sigma
+renaissance
+de shaw
+aqr
+bridgewater
+sequoia
+andreessen horowitz
+a16z
+accel
+benchmark
+greylock
+kleiner perkins
+lightspeed
+nea
+insight partners
+tiger global
+coatue
+iconiq
+index ventures
+bessemer
+battery ventures
+mayfield
+foundry group
+spark capital
+union square ventures
+first round
+redpoint
+khosla ventures
+founders fund
+lux capital
+ribbit capital
+addition
+altimeter
+durable capital
+sands capital
+dragoneer
+d1 capital
+greenoaks
+whale rock
+darsana
+lone pine
+viking global
+soroban
+glenview
+jana partners
+elliott management
+third point
+pershing square
+trian
+valueact
+starboard
+nelson peltz
+carl icahn
+dan loeb
+bill ackman
+jeff smith
+jeff ubben
+barry rosenstein
+keith meister
+
+# Hedge Funds & Trading
+citadel securities
+virtu
+flow traders
+jump trading
+tower research
+hudson river trading
+sig
+imc
+optiver
+akuna capital
+drw
+five rings
+jane street
+old mission
+headlands tech
+wolverine
+group one
+cumberland
+wintermute
+galaxy digital
+circle
+coinbase
+kraken
+binance
+gemini
+bitstamp
+bitfinex
+bittrex
+poloniex
+okx
+huobi
+kucoin
+bybit
+gate.io
+crypto.com
+ftx
+celsius
+blockfi
+nexo
+ledn
+unchained capital
+salt lending
+hodlnaut
+coinloan
+vauld
+babel finance
+genesis
+anchorage
+paxos
+bitgo
+fireblocks
+ledger
+trezor
+coldcard
+ngrave
+cobo
+ellipal
+safepal
+keystone
+gridplus
+arculus
+
+# Cryptocurrency & Blockchain
+consensys
+chainlink
+polygon
+avalanche
+algorand
+near
+solana
+cardano
+polkadot
+cosmos
+terra
+fantom
+harmony
+elrond
+hedera
+tezos
+eos
+tron
+neo
+waves
+icon
+zilliqa
+ontology
+vechain
+theta
+chainlink labs
+graph protocol
+filecoin
+arweave
+sia
+storj
+ocean protocol
+livepeer
+audius
+rarible
+opensea
+magic eden
+blur
+x2y2
+looksrare
+foundation
+superrare
+nifty gateway
+makersplace
+known origin
+async art
+veefriends
+bored ape yacht club
+cryptopunks
+azuki
+clone x
+doodles
+moonbirds
+world of women
+cool cats
+pudgy penguins
+goblintown
+cryptoadz
+nouns
+forgotten runes
+art blocks
+meebits
+vee friends
+otherside
+decentraland
+sandbox
+axie infinity
+gods unchained
+illuvium
+star atlas
+big time
+gala games
+enjin
+wax
+immutable x
+flow
+dapper labs
+nba top shot
+nfl all day
+ufc strike
+disney pinnacle
+laliga golazos
+formula 1
+mlb champions
+solitaire blitz
+star trek continuum
+
+# DeFi & Web3
+uniswap
+aave
+compound
+makerdao
+curve
+convex
+yearn
+synthetix
+balancer
+sushiswap
+pancakeswap
+1inch
+paraswap
+cowswap
+matcha
+kyber
+bancor
+dydx
+gmx
+perpetual protocol
+gains network
+level finance
+apollox
+mux protocol
+vertex
+lyra
+ribbon finance
+dopex
+jones dao
+umami finance
+vesta finance
+gns
+kwenta
+polynomial
+pika protocol
+mycelium
+mummy finance
+handlefi
+rage trade
+tigris trade
+
+# Insurance & InsurTech
+lemonade
+root
+hippo
+kin
+openly
+clearcover
+metromile
+next
+sure
+policygenius
+getsafe
+zego
+cuvva
+trov
+slice
+bought by many
+shift technology
+snapsheet
+tractable
+cape analytics
+hi marley
+betterview
+livegamic
+breathe life
+ladder
+ethos
+bestow
+haven life
+fabric
+wysh
+quotacy
+kindur
+naviplan
+rightsizing
+policygenius
+insurify
+the zebra
+coverage cat
+jerry
+gabi
+assurance
+iq
+breeze
+policyfly
+savvy
+coverbund
+
+# Real Estate & PropTech
+zillow
+redfin
+compass
+opendoor
+offerpad
+knock
+homelight
+realogy
+anywhere
+sothebys
+christies
+corcoran
+coldwell banker
+century 21
+era
+better homes
+cbre
+jll
+cushman wakefield
+colliers
+newmark
+savills
+knight frank
+engel völkers
+berkshire hathaway
+remax
+keller williams
+exp realty
+weichert
+howard hanna
+long foster
+edina realty
+ben kinney
+windermere
+climb real estate
+side
+ylopo
+opcity
+cinc
+bold leads
+market leader
+boomtown
+lion desk
+follow up boss
+kvcore
+chime
+lofty
+ixact contact
+wise agent
+top producer
+realvolve
+contactually
+propertybase
+velocify
+dotloop
+zipforms
+skyslope
+docusign
+evernote
+dropbox
+box
+google drive
+onedrive
+icloud
+zoho docs
+smartvault
+egnyte
+syncplicity
+sugarsync
+pcloud
+tresorit
+sync.com
+icedrive
+filen
+internxt
+mega
+mediafire
+4shared
+sendspace
+zippyshare
+rapidgator
+uploaded
+nitroflare
+keep2share
+fboom
+turbobit
+uptobox
+filejoker
+
+# Property Management Software
+appfolio
+buildium
+yardi
+resman
+entrata
+realpage
+rent manager
+propertyware
+tenant cloud
+cozy
+avail
+apartments.com
+rent.com
+zillow rental
+hotpads
+padmapper
+rentometer
+renthop
+lovely
+zumper
+abodo
+dwellsy
+apartment list
+doorsteps
+trulia rentals
+furnished finder
+landing
+zeus living
+blueground
+sonder
+stay alfred
+lyric
+domio
+mint house
+kasa
+locale
+domio
+whyhotel
+sentral
+starcity
+common
+ollie
+node
+hmlet
+coliwoo
+habyt
+the collective
+urban campus
+x+living
+quarters
+welive
+starcity
+
+# E-commerce & Marketplaces
+amazon
+ebay
+etsy
+shopify
+walmart marketplace
+target plus
+bestbuy marketplace
+homedepot
+lowes
+costco
+samsclub
+kroger
+albertsons
+safeway
+publix
+wegmans
+hy-vee
+meijer
+giant eagle
+food lion
+harris teeter
+fred meyer
+ralphs
+king soopers
+city market
+dillons
+smiths
+frys
+qfc
+mariano's
+pick n save
+metro market
+copps
+roundys
+baker's
+gerbes
+pay less
+owen's
+jay c
+scott's
+ruler foods
+cub foods
+shoppers food
+farm fresh
+hornbachers
+cash wise
+thrifty white
+sun fresh
+coborn's
+price chopper
+
+# Fashion & Apparel E-commerce
+farfetch
+ssense
+net-a-porter
+mytheresa
+matches fashion
+24s
+luisaviaroma
+browns
+forward
+revolve
+asos
+boohoo
+prettylittlething
+nasty gal
+missguided
+fashion nova
+shein
+romwe
+zaful
+yesstyle
+amiclubwear
+dollskill
+princess polly
+showpo
+beginning boutique
+peppermayo
+meshki
+meshki boutique
+white fox
+oh polly
+i saw it first
+in the style
+rebellious fashion
+edikted
+babyboo fashion
+house of cb
+forever 21
+h&m
+zara
+pull&bear
+bershka
+stradivarius
+massimo dutti
+cos
+&other stories
+monki
+weekday
+arket
+uniqlo
+gu
+muji
+theory
+j.crew
+madewell
+gap
+old navy
+banana republic
+athleta
+american eagle
+aerie
+abercrombie
+hollister
+urban outfitters
+anthropologie
+free people
+bhldn
+terrain
+
+# Luxury E-commerce
+farfetch
+yoox
+net-a-porter
+mr porter
+the outnet
+matches fashion
+ssense
+luisaviaroma
+24s
+mytheresa
+browns
+harrods
+selfridges
+harvey nichols
+liberty london
+fortnum mason
+neiman marcus
+bergdorf goodman
+saks fifth avenue
+nordstrom
+bloomingdales
+barneys
+henri bendel
+lord & taylor
+gilt
+rue la la
+hautelook
+ideeli
+beyond the rack
+zulily
+totsy
+fab
+one kings lane
+joss & main
+wayfair
+overstock
+houzz
+article
+apt2b
+castlery
+burrow
+floyd
+inside weather
+interior define
+joybird
+campaign
+maiden home
+benchmade modern
+medley
+sabai
+poly & bark
+allform
+thuma
+casper
+purple
+nectar
+tuft & needle
+leesa
+helix
+saatva
+avocado
+brooklyn bedding
+bear
+layla
+amerisleep
+loom & leaf
+dreamcloud
+winkbed
+birch
+silk & snow
+douglas
+endy
+novosbed
+polysleep
+recore
+logan & cove
+bloom
+goodmorning.com
+silk and snow
+ghost bed
+nest bedding
+alexander signature
+brooklyn aurora
+
+# Home & Furniture
+wayfair
+overstock
+houzz
+article
+apt2b
+castlery
+burrow
+floyd
+inside weather
+interior define
+joybird
+campaign
+maiden home
+benchmade modern
+medley
+sabai
+poly & bark
+allform
+thuma
+ikea
+west elm
+pottery barn
+pottery barn kids
+pottery barn teen
+williams sonoma
+rejuvenation
+mark and graham
+crate and barrel
+cb2
+land of nod
+restoration hardware
+rh modern
+rh contemporary
+rh teen
+rh baby child
+room & board
+design within reach
+herman miller
+knoll
+steelcase
+haworth
+teknion
+kimball
+allsteel
+hon
+basyx
+global
+offices to go
+cherryman
+mayline
+safco
+lorell
+office star
+boss
+flash furniture
+modway
+lexmod
+poly and bark
+fine mod imports
+emodern
+diamond sofa
+nuevo
+sunpan
+zuo modern
+nuevo living
+lumisource
+armen living
+baxton studio
+
+# Beauty & Cosmetics E-commerce
+sephora
+ulta
+bluemercury
+space nk
+cult beauty
+feel unique
+lookfantastic
+beauty bay
+beautylish
+dermstore
+skinstore
+lovelyskin
+paula's choice
+the ordinary
+glossier
+drunk elephant
+tatcha
+fresh
+kiehl's
+clinique
+estee lauder
+la mer
+sk-ii
+shiseido
+lancome
+dior beauty
+chanel beauty
+ysl beauty
+tom ford beauty
+giorgio armani
+givenchy
+burberry beauty
+guerlain
+sisley
+la prairie
+valmont
+cellular
+swiss perfection
+swiss line
+sarah chapman
+sarah chapman skinesis
+111skin
+augustinus bader
+biologique recherche
+revision skincare
+skinceuticals
+obagi
+neostrata
+exuviance
+zo skin health
+colorescience
+elta md
+isdin
+la roche posay
+vichy
+cerave
+neutrogena
+aveeno
+eucerin
+cetaphil
+vanicream
+aquaphor
+nivea
+dove
+olay
+pond's
+
+# Health & Wellness E-commerce
+iherb
+vitacost
+swanson
+puritan's pride
+now foods
+natural factors
+jarrow formulas
+doctor's best
+life extension
+source naturals
+bluebonnet
+solgar
+nature's way
+nature made
+nature's bounty
+centrum
+one a day
+vitafusion
+gummy vitamins
+smartypants
+mary ruth organics
+garden of life
+new chapter
+megafood
+rainbow light
+innate response
+enzymedica
+renew life
+culturelle
+align
+florastor
+phillips
+miralax
+metamucil
+benefiber
+citrucel
+fiber choice
+konsyl
+fibercon
+equalactin
+perdiem
+senokot
+dulcolax
+milk of magnesia
+ex-lax
+correctol
+fleet
+pedia-lax
+glycerin suppositories
+bisacodyl
+docusate
+senna
+cascara
+magnesium hydroxide
+polyethylene glycol
+lactulose
+sorbitol
+mannitol
+
+# Meal Kit & Food Delivery
+hellofresh
+blueapron
+sunbasket
+greenchef
+homeчеf
+everyplate
+dinnerly
+gobble
+marley spoon
+freshly
+factor
+trifecta
+territory
+freshology
+bistromd
+nutrisystem
+diet-to-go
+magic kitchen
+mom's meals
+silver cuisine
+snap kitchen
+metabolic meals
+clean eatz
+fit n fresh
+clean creations
+eat clean bro
+my fit foods
+prep to your door
+icon meals
+fit mens cook
+muscle meals 2 go
+eat the 80
+prep kitchen
+fitlife foods
+trifecta nutrition
+eat clean bro
+power supply
+factor meals
+fresh n lean
+green chef
+purple carrot
+hungryroot
+sakara life
+splendid spoon
+daily harvest
+mosaic foods
+cooksimple
+methodology
+kettlebell kitchen
+the good kitchen
+eat clean bro
+power supply
+provenance meals
+eat clean tc
+clean eatz kitchen
+
+# Grocery Delivery & Quick Commerce
+instacart
+shipt
+amazon fresh
+whole foods delivery
+kroger delivery
+walmart grocery
+target delivery
+doordash
+ubereats
+grubhub
+postmates
+seamless
+caviar
+chownow
+olo
+toast
+square
+clover
+lightspeed
+touchbistro
+upserve
+revel
+lavu
+shopkeep
+vend
+epos now
+kounta
+loyverse
+talech
+ehopper
+tillpoint
+3s pos
+cheddar up
+square for restaurants
+toast pos
+touchbistro pos
+lightspeed restaurant
+upserve pos
+revel systems
+lavu pos
+shopkeep pos
+vend pos
+epos now pos
+kounta pos
+loyverse pos
+talech pos
+ehopper pos
+tillpoint pos
+3s pos system
+
+# Social Media & Content Platforms
+facebook
+instagram
+twitter
+linkedin
+reddit
+pinterest
+snapchat
+tiktok
+youtube
+twitch
+discord
+telegram
+whatsapp
+signal
+viber
+line
+kakaotalk
+wechat
+qq
+weibo
+douyin
+kuaishou
+bilibili
+xiaohongshu
+zhihu
+momo
+tantan
+jiayuan
+baihe
+zhenai
+youyuan
+珍爱网
+世纪佳缘
+百合网
+有缘网
+我主良缘
+中国红娘
+嫁我网
+缘来客
+爱在四季
+久久结婚
+相约中国
+相伴一生
+真诚婚恋
+阳光婚恋
+幸福婚恋
+甜蜜婚恋
+浪漫婚恋
+缘分天空
+缘分到
+月老网
+红娘网
+丘比特
+鹊桥会
+花田网
+伊对
+他趣
+积目
+soul
+陌陌
+探探
+比心
+
+# Communication & Collaboration
+slack
+teams
+zoom
+google meet
+webex
+goto meeting
+bluejeans
+whereby
+around
+mmhmm
+loom
+descript
+riverside.fm
+squadcast
+zencastr
+anchor
+spotify for podcasters
+podbean
+buzzsprout
+transistor
+simplecast
+megaphone
+art19
+acast
+spreaker
+blubrry
+libsyn
+castos
+captivate
+whooshkaa
+fireside
+redcircle
+rss.com
+sounder
+backtracks
+chartable
+podsights
+podscribe
+magellan ai
+veritone
+claritas
+gumball
+podder
+authentic
+barometer
+podtrac
+triton digital
+megaphone spotify
+acast network
+spreaker network
+podbean network
+anchor spotify
+spotify studios
+gimlet
+parcast
+the ringer
+higher ground
+cutler media
+wondery
+exactly right
+all things comedy
+earwolf
+headgum
+forever dog
+kast media
+audioboom
+podglomerate
+qcode
+grim & mild
+realm
+futuro studios
+radiotopia
+pineapple street
+pushkin industries
+crooked media
+campside media
+lemonada
+the atlantic
+new york times audio
+washington post audio
+wsj podcasts
+npr podcasts
+bbc podcasts
+cbc podcasts
+abc audio
+pbs
+pbs news hour
+
+# Video Streaming & Entertainment
+netflix
+hulu
+disney+
+hbo max
+amazon prime video
+paramount+
+peacock
+apple tv+
+youtube premium
+youtube tv
+sling tv
+fubo tv
+philo
+vidgo
+frndly tv
+directv stream
+spectrum tv
+xfinity stream
+cox contour
+optimum tv
+verizon fios
+at&t tv
+dish network
+hulu live tv
+youtube tv
+sling orange
+sling blue
+philo tv
+frndly
+vidgo tv
+stirr
+pluto tv
+tubi
+crackle
+vudu
+fandango
+movies anywhere
+ultraviolet
+flixster
+crunchyroll
+funimation
+hidive
+vrv
+rooster teeth
+anime network
+retrocrush
+midnight pulp
+screambox
+shudder
+sundance now
+amc+
+acorn tv
+britbox
+mhz choice
+walter presents
+topic
+pongalo
+pantaya
+vix
+blim
+clarovideo
+globo play
+telecine play
+hbo go
+hbo now
+cinemax
+starz
+showtime
+epix
+mgm+
+
+# Music Streaming
+spotify
+apple music
+amazon music
+youtube music
+tidal
+deezer
+pandora
+soundcloud
+iheart
+tunein
+audible
+scribd
+libro.fm
+chirp
+downpour
+audiobooks.com
+hoopla
+overdrive
+libby
+kindle unlimited
+kobo plus
+storytel
+bookmate
+nextory
+storytel
+bookbeat
+beek
+booklava
+hibooks
+podimo
+play.ht
+speechify
+natural reader
+voice dream
+capti
+read aloud
+talk free
+narrator's voice
+text to speech
+balabolka
+natural readers
+ivona
+acapela
+cereproc
+neospeech
+nuance
+loquendo
+cepstral
+nextup
+panopreter
+ultra hal
+zabaware
+text speaker
+verbose
+reading bar
+claroread
+kurzweil
+read&write gold
+wynn wizard
+openbook
+dolphin easyreader
+readhow
+browsealoud
+readspeaker
+
+# Audio & Podcasting
+anchor
+spotify for podcasters
+podbean
+buzzsprout
+transistor
+simplecast
+megaphone
+art19
+acast
+spreaker
+blubrry
+libsyn
+castos
+captivate
+whooshkaa
+fireside
+redcircle
+rss.com
+sounder
+podchaser
+listen notes
+castro
+overcast
+pocket casts
+castbox
+stitcher
+tunein
+player fm
+podcast addict
+podcast republic
+podbean app
+google podcasts
+apple podcasts
+breaker
+laughable
+luminary
+podimo
+himalaya
+downcast
+instacast
+huffduffer
+podkicker
+beyondpod
+doggcatcher
+podcast guru
+podcast go
+acast app
+spreaker studio
+podchaser
+listen notes
+chartable
+podtrac
+podsights
+feedburner
+blubrry stats
+podbean stats
+buzzsprout stats
+transistor stats
+
+# Gaming - Publishers & Developers
+activision blizzard
+electronic arts
+ea sports
+ea dice
+respawn
+bioware
+criterion
+codemasters
+maxis
+popcap
+ubisoft
+rockstar games
+take-two interactive
+2k games
+gearbox
+private division
+zynga
+rockstar north
+rockstar san diego
+rockstar london
+rockstar leeds
+rockstar new england
+rockstar toronto
+rockstar lincoln
+rockstar india
+valve corporation
+half life
+portal
+counter-strike
+dota
+team fortress
+riot games
+league of legends
+valorant
+legends of runeterra
+teamfight tactics
+epic games
+fortnite
+unreal engine
+unreal tournament
+gears of war
+infinity blade
+bandai namco
+tekken
+dark souls
+elden ring
+pac-man
+dragon ball
+naruto
+one piece
+from software
+capcom
+street fighter
+resident evil
+monster hunter
+devil may cry
+mega man
+ace attorney
+konami
+metal gear solid
+silent hill
+castlevania
+pro evolution soccer
+yugioh
+square enix
+final fantasy
+kingdom hearts
+dragon quest
+tomb raider
+deus ex
+hitman
+just cause
+nier
+sega
+sonic
+total war
+yakuza
+persona
+phantasy star
+atlus
+bayonetta
+vanillaware
+13 sentinels
+odin sphere
+dragon's crown
+muramasa
+disgaea
+nippon ichi
+danganronpa
+trails
+legend of heroes
+ys
+falcom
+koei tecmo
+dynasty warriors
+dead or alive
+nioh
+fatal frame
+atelier
+fire emblem
+nintendo
+mario
+zelda
+pokemon
+animal crossing
+splatoon
+smash bros
+kirby
+metroid
+donkey kong
+star fox
+f-zero
+earthbound
+xenoblade
+fire emblem
+sony interactive
+playstation studios
+naughty dog
+insomniac
+sucker punch
+guerrilla games
+santa monica
+polyphony digital
+team asobi
+media molecule
+bend studio
+housemarque
+bluepoint
+nixxes
+haven
+firewalk
+firesprite
+bungie
+destiny
+marathon
+microsoft gaming
+xbox game studios
+343 industries
+coalition
+turn 10
+playground games
+mojang
+compulsion
+double fine
+ninja theory
+obsidian
+inxile
+undead labs
+rare
+bethesda
+id software
+arkane
+tango gameworks
+machinegames
+alpha dog
+roundhouse
+
+# Gaming - Indie & Mid-size
+supergiant games
+hades
+bastion
+transistor
+pyre
+motion twin
+dead cells
+team cherry
+hollow knight
+silksong
+studio mdhr
+cuphead
+the delicious last course
+thunderlotus
+spiritfarer
+sundered
+jotun
+coffee stain
+satisfactory
+goat simulator
+sanctum
+devolver digital
+hotline miami
+katana zero
+gris
+cult of the lamb
+inscryption
+annapurna interactive
+outer wilds
+what remains of edith finch
+stray
+neon white
+kena bridge of spirits
+giant squid
+abzu
+the pathless
+raw fury
+gonner
+kingdom
+sable
+norco
+night school
+oxenfree
+afterparty
+skybound
+telltale games
+the walking dead
+the wolf among us
+batman
+borderlands tales
+new tales from borderlands
+versus evil
+banner saga
+pillars of eternity
+obsidian
+wasteland
+tyranny
+grounded
+pentiment
+avowed
+outer worlds
+team17
+worms
+overcooked
+yooka-laylee
+escapists
+my time at portia
+blasphemous
+narita boy
+tinykin
+re-logic
+terraria
+klei entertainment
+don't starve
+oxygen not included
+mark of the ninja
+invisible inc
+griftlands
+concerned ape
+stardew valley
+studio wildcard
+ark survival evolved
+ark 2
+coffee stain studios
+satisfactory
+goat simulator
+valheim
+iron gate
+deep rock galactic
+ghost ship games
+pocketpair
+palworld
+craftopia
+emberlab
+kena bridge of spirits
+playdead
+inside
+limbo
+kojima productions
+death stranding
+quantic dream
+detroit become human
+heavy rain
+beyond two souls
+remedy entertainment
+control
+alan wake
+quantum break
+max payne
+
+# Gaming - Platforms & Services
+steam
+valve
+epic games store
+gog
+cd projekt
+humble bundle
+itch.io
+game jolt
+gamersgate
+greenmangaming
+fanatical
+chrono.gg
+indiegala
+dlgamer
+wingamestore
+nuuvem
+voidu
+gamesplanet
+2game
+gamivo
+g2a
+kinguin
+cdkeys
+eneba
+instant gaming
+allkeyshop
+gg.deals
+isthereanydeal
+cheapshark
+slickdeals gaming
+reddit gamedeals
+humblebundle
+monthly
+choice
+trove
+discord nitro
+ea play
+xbox game pass
+playstation plus
+nintendo online
+nvidia geforce now
+google stadia
+amazon luna
+shadow
+parsec
+rainway
+moonlight
+steam link
+xbox cloud
+playstation now
+utomik
+vortex
+blacknut
+antstream
+jump
+gloud
+netboom
+loudplay
+blade
+paperspace
+maximum settings
+vectordash
+
+# Esports & Gaming Orgs
+team liquid
+cloud9
+faze clan
+100 thieves
+tsm
+g2 esports
+fnatic
+natus vincere
+navi
+team vitality
+astralis
+og
+evil geniuses
+team secret
+psg esports
+t1
+gen.g
+damwon
+drx
+edg
+fpx
+lng
+blg
+jdg
+rng
+weibo
+tes
+omg
+lgd
+ig
+vg
+ehome
+newbee
+vici gaming
+psg.lgd
+virtus.pro
+team spirit
+alliance
+liquid dota
+eg dota
+secret dota
+nigma
+tundra
+gaimin gladiators
+shopify rebellion
+talon esports
+thunder awaken
+beastcoast
+infamous
+loud
+mibr
+furia
+imperial
+pain
+red canids
+fluxo
+liberty
+los
+vikings
+vivo keyd
+big
+mouz
+vitality cs
+navi cs
+faze cs
+heroic
+complexity
+ence
+nip
+furia cs
+imperial cs
+liquid cs
+c9 cs
+eg cs
+col cs
+
+# VR/AR & Metaverse
+meta quest
+oculus
+playstation vr
+psvr
+htc vive
+valve index
+windows mixed reality
+hp reverb
+samsung odyssey
+pimax
+varjo
+pico
+lynx
+bigscreen beyond
+somnium
+arpara
+shiftall
+megane
+pancake
+decagear
+apple vision pro
+magic leap
+microsoft hololens
+nreal
+rokid
+mad gaze
+vuzix
+epson moverio
+raptor
+oppo air glass
+tcl nxtwear
+xiaomi wireless ar
+lenovo glasses
+amazon echo frames
+bose frames
+razer anzu
+lucyd
+fauna
+solos
+viture
+xreal
+rayneo
+thunderbird
+rokid max
+nreal air
+mad gaze glow
+vuzix blade
+epson moverio bt
+north focals
+spectacles
+google glass
+intel vaunt
+meta ray ban
+snap spectacles
+
+# Semiconductors & Hardware
+tsmc
+samsung
+intel
+amd
+nvidia
+qualcomm
+broadcom
+texas instruments
+analog devices
+infineon
+stm
+nxp
+microchip
+renesas
+on semiconductor
+maxim
+skyworks
+qorvo
+marvell
+micron
+western digital
+seagate
+sk hynix
+kioxia
+sandisk
+crucial
+corsair
+gskill
+teamgroup
+adata
+kingston
+pny
+patriot
+mushkin
+ocz
+plextor
+silicon power
+transcend
+lexar
+samsung memory
+hynix
+micron memory
+nanya
+winbond
+etron
+elite
+zenith
+apacer
+gigastone
+strontium
+verbatim
+hp memory
+dell memory
+lenovo memory
+toshiba memory
+hitachi
+fujitsu
+
+# Chip Equipment & Materials
+asml
+lam research
+applied materials
+kla
+teradyne
+advantest
+screen holdings
+tokyo electron
+kokusai electric
+disco
+ebara
+semes
+asm international
+veeco
+entegris
+dupont
+shin-etsu
+sumco
+siltronic
+globalwafers
+sk siltron
+rs technologies
+wafer works
+episil
+awsc
+grinm
+tianjin zhonghuan
+nanjing guosheng
+jsmc
+luoyang monocrystalline
+wafer semiconductor
+jinko solar wafers
+longi wafers
+zhonghuan
+tcl zhonghuan
+canadian solar wafers
+jinkosolar
+longi solar
+trina solar
+ja solar
+canadian solar
+hanwha qcells
+risen energy
+suntech
+yingli
+first solar
+sharp solar
+kyocera solar
+panasonic solar
+lg solar
+rec solar
+winaico
+solarworld
+solaria
+sunpower
+vivint solar
+tesla solar
+lg energy solution
+
+# Display Technology
+samsung display
+lg display
+boe
+tianma
+innolux
+auo
+sharp
+japan display
+visionox
+csot
+tianma micro
+truly
+itech
+panda
+cec panda
+royole
+seeya
+kopin
+emagin
+microoled
+olightek
+jade bird display
+sony semiconductor
+sony display
+epson displays
+panasonic displays
+nec displays
+mitsubishi
+hitachi displays
+toshiba displays
+fujitsu displays
+viewsonic
+benq
+acer displays
+asus displays
+dell displays
+hp displays
+lenovo displays
+msi displays
+gigabyte displays
+aoc
+philips monitors
+lg monitors
+samsung monitors
+spectre
+huawei displays
+xiaomi displays
+oppo displays
+vivo displays
+realme displays
+oneplus displays
+nothing displays
+tcl displays
+hisense displays
+skyworth displays
+
+# Networking Equipment
+cisco
+juniper
+arista
+palo alto networks
+f5
+a10 networks
+extreme networks
+nokia
+ericsson
+huawei
+zte
+samsung networks
+nec
+fujitsu networks
+ciena
+infinera
+adtran
+adva
+ribbon communications
+commscope
+corning
+prysmian
+nexans
+general cable
+southwire
+belden
+amphenol
+te connectivity
+molex
+samtec
+harting
+phoenix contact
+weidmuller
+wago
+eaton
+schneider electric
+siemens networking
+abb networking
+emerson network power
+vertiv
+eaton network
+schneider apc
+liebert
+riello
+socomec
+chloride
+benning
+masterguard
+borri
+himoinsa
+sdmo
+kohler power
+caterpillar power
+cummins power
+mtu power
+wärtsilä
+rolls royce power
+perkins
+deutz
+yanmar
+kubota engines
+honda power
+yamaha power
+briggs stratton
+kawasaki engines
+subaru power
+generac
+champion power
+westinghouse
+duromax
+pulsar
+firman
+predator
+wen
+powermate
+sportsman
+durostar
+pulsetech
+yamaha generators
+honda generators
+subaru generators
+
+# Storage & Backup
+dell emc
+netapp
+pure storage
+nutanix
+vmware
+hewlett packard enterprise
+hpe storage
+hitachi vantara
+ibm storage
+lenovo storage
+huawei storage
+inspur
+supermicro
+wd
+seagate
+toshiba storage
+samsung storage
+sandisk
+crucial storage
+intel storage
+micron storage
+kioxia storage
+sk hynix storage
+synology
+qnap
+asustor
+terramaster
+netgear storage
+buffalo
+drobo
+western digital my cloud
+seagate personal cloud
+lacie
+g-technology
+sandisk professional
+wd elements
+wd easystore
+seagate backup plus
+seagate expansion
+toshiba canvio
+samsung portable ssd
+sandisk extreme
+crucial x6
+crucial x8
+adata
+silicon power
+transcend
+kingston storage
+pny storage
+patriot storage
+mushkin storage
+corsair storage
+gskill storage
+teamgroup storage
+lexar storage
+verbatim storage
+
+# Servers & Data Centers
+dell
+hpe
+lenovo
+cisco ucs
+huawei servers
+inspur
+supermicro
+sugon
+gigabyte servers
+asus servers
+tyan
+quanta
+inventec
+wistron
+foxconn servers
+pegatron
+compal
+asustek
+micro-star
+biostar
+aaeon
+advantech
+kontron
+portwell
+nexcom
+iei
+axiomtek
+arbor
+vecow
+cincoze
+neousys
+sintrones
+lanner
+syslogic
+avalue
+ibase
+iei integration
+bcm advanced
+artesyn
+emerson network
+delta electronics
+lite-on
+acbel
+fsp
+seasonic
+corsair psu
+evga
+thermaltake
+cooler master
+antec
+silverstone
+be quiet
+fractal design
+nzxt
+phanteks
+lian li
+in win
+raijintek
+deepcool
+enermax
+super flower
+rosewill
+cougar
+gamemax
+segotep
+darkflash
+vetroo
+zalman
+aerocool
+xigmatek
+jonsbo
+metallic gear
+montech
+sama
+silverstone tek
+
+# Telecom Carriers
+verizon
+at&t
+t-mobile
+sprint
+us cellular
+dish wireless
+boost mobile
+cricket
+metro pcs
+mint mobile
+visible
+xfinity mobile
+spectrum mobile
+cox mobile
+optimum mobile
+google fi
+us mobile
+ting
+tello
+red pocket
+simple mobile
+tracfone
+straight talk
+total wireless
+net10
+safelink
+page plus
+pure talk usa
+consumer cellular
+jitterbug
+greatcall
+lively
+republic wireless
+freedompop
+textme
+textnow
+textplus
+dingtone
+nextplus
+hushed
+burner
+line2
+sideline
+openphone
+grasshopper
+ringcentral
+vonage
+magicjack
+ooma
+phone.com
+callcentric
+voip.ms
+flowroute
+telnyx
+twilio
+plivo
+nexmo
+vonage api
+signalwire
+bandwidth
+inteliquent
+peerless network
+level 3
+lumen
+centurylink
+frontier
+windstream
+consolidated
+cincinnati bell
+earthlink
+megapath
+granite
+broadview
+cbeyond
+paetec
+tw telecom
+global crossing
+mcleodusa
+birch
+xo
+nextlink
+electric lightwave
+eschelon
+broadwing
+qwest
+alltel
+sprint nextel
+airtouch
+cellular one
+ameritech
+bell atlantic
+nynex
+pacific telesis
+southwestern bell
+bell south
+gte
+
+# International Telecom
+vodafone
+orange
+telefonica
+movistar
+telus
+bell canada
+rogers
+shaw
+videotron
+eastlink
+sasktel
+mts
+tbaytel
+northwestel
+ice wireless
+dta
+nwt
+ssimicro
+lynx mobility
+dt
+deutsche telekom
+swisscom
+proximus
+kpn
+telekom austria
+a1 telekom
+magenta
+tmobile austria
+three austria
+salt mobile
+sunrise
+tdc
+telia
+telenor
+ice norway
+tele2
+elisa
+dna
+moi
+virgin media
+bt
+ee
+o2
+three uk
+sky mobile
+smarty
+lebara
+lycamobile
+giffgaff
+asda mobile
+talktalk
+plusnet
+post office
+the phone coop
+utility warehouse
+telecom italia
+tim
+wind tre
+vodafone italy
+iliad italy
+fastweb
+tiscali
+infostrati
+telecom argentina
+claro americas
+movistar americas
+personal
+orange france
+sfr
+bouygues
+free mobile
+la poste mobile
+red by sfr
+sosh
+b&you
+nrj mobile
+prixtel
+coriolis
+lycamobile france
+lebara france
+reglo mobile
+
+# Cable & Internet Providers
+comcast
+charter spectrum
+cox
+altice
+optimum
+suddenlink
+cablevision
+mediacom
+cable one
+sparklight
+wow
+atlantic broadband
+rcn
+grande
+astound
+wave
+wideopenwest
+service electric
+blue ridge
+midcontinent
+cableamerica
+armstrong
+northland
+buckeye
+atlantic
+consolidated communications
+frontier communications
+windstream
+centurylink
+lumen
+quantum fiber
+kinetic
+bright speed
+ziply fiber
+sonic
+earthlink fiber
+att fiber
+verizon fios
+google fiber
+starry
+webpass
+rise broadband
+t-mobile home
+verizon lte home
+tmobile internet
+att fixed wireless
+starlink
+hughesnet
+viasat
+directv
+dish network
+sling
+philo
+frndly
+spectrum tv choice
+xfinity flex
+cox contour stream
+optimum core tv
+fios tv
+youtube tv
+hulu live
+sling blue
+sling orange
+directv stream
+fubo tv
+philo tv
+frndly tv
+vidgo
+stirr tv
+pluto tv
+xumo
+plex
+roku channel
+tubi tv
+crackle
+vudu free
+freevee
+peacock free
+
+# SaaS & Enterprise Software
+salesforce
+service cloud
+marketing cloud
+commerce cloud
+mulesoft
+tableau
+slack
+servicenow
+workday
+oracle
+sap
+microsoft dynamics
+hubspot
+zendesk
+freshworks
+zoho
+monday.com
+asana
+clickup
+notion
+airtable
+smartsheet
+basecamp
+trello
+wrike
+teamwork
+clarizen
+mavenlink
+scoro
+float
+forecast
+runn
+resource guru
+teamgantt
+project.co
+productive
+avaza
+scoro
+teamwork
+function point
+workamajig
+accelo
+bqe core
+synergist
+streamtime
+advantage
+cmap
+deltek
+kimble
+kantata
+epicor
+ifs
+infor
+netsuite
+acumatica
+sage intacct
+quickbooks enterprise
+xero
+freshbooks
+wave
+zoho books
+kashoo
+gnucash
+manager
+sunrise
+akaunting
+invoice ninja
+crater
+kill bill
+billy
+senta
+pandle
+clear books
+freeagent
+crunch
+quickfile
+gofreeserve
+andica
+sage business cloud
+sage 50
+sage 100
+sage 300
+sage 500
+sage x3
+sage people
+sage payroll
+
+# HR & Payroll Software
+adp
+workday
+ultimate software
+ukg
+kronos
+paychex
+paylocity
+paycom
+bamboohr
+namely
+zenefits
+gusto
+rippling
+justworks
+trinet
+insperity
+oasis
+paycor
+ceridian
+dayforce
+isolved
+proliant
+evolution
+patriot software
+surepayroll
+onpay
+square payroll
+quickbooks payroll
+waveapps payroll
+homebase
+when i work
+deputy
+tanda
+humanity
+shiftboard
+findmyshift
+schedulefly
+7shifts
+sling
+zip schedules
+planday
+quinyx
+timeforge
+hotschedules
+fourth
+crunchtime
+typsy
+7punches
+staff squared
+rotacloud
+orbital shift
+bizimply
+ameego
+tandemploy
+shiftplanning
+snap schedule
+employee scheduling
+work schedule
+schedule maker
+shift scheduler
+staff roster
+crew scheduler
+team scheduling
+rotation planner
+work roster
+duty roster
+rota planner
+shift rota
+employee rota
+staff planner
+workforce scheduler
+labour scheduler
+staff scheduler
+
+# Accounting & Finance Software
+intuit
+quickbooks
+turbotax
+mint
+credit karma
+mailchimp
+xero
+freshbooks
+wave
+sage
+netsuite
+oracle financials
+microsoft dynamics
+sap
+workday financials
+blackline
+floqast
+trintech
+certent
+longview
+onestream
+board
+prophix
+adaptive insights
+anaplan
+planful
+vena
+datarails
+jedox
+host analytics
+tidemark
+kaufman hall
+axiom
+lucanet
+tagetik
+bpc
+tm1
+hyperion
+essbase
+planning analytics
+cognos tm1
+ibm planning analytics
+oracle epm
+oracle hyperion
+sap bpc
+sap analytics cloud
+microsoft power bi
+tableau
+qlik
+looker
+sisense
+domo
+thoughtspot
+microstrategy
+cognos
+pentaho
+jaspersoft
+talend
+informatica
+alteryx
+dataiku
+knime
+rapidminer
+tibco
+sas
+stata
+spss
+matlab
+mathematica
+r studio
+jupyter
+anaconda
+python
+pandas
+numpy
+scipy
+scikit-learn
+tensorflow
+pytorch
+keras
+mxnet
+caffe
+theano
+lasagne
+chainer
+cntk
+paddle
+megengine
+oneflow
+mindspore
+jax
+flax
+
+# Marketing Automation
+hubspot
+marketo
+pardot
+eloqua
+mailchimp
+constant contact
+campaign monitor
+sendinblue
+brevo
+activecampaign
+drip
+convertkit
+klaviyo
+omnisend
+sendlane
+getresponse
+aweber
+infusionsoft
+keap
+ontraport
+autopilot
+customer.io
+iterable
+braze
+segment
+mparticle
+rudderstack
+freshpaint
+amplitude
+mixpanel
+heap
+fullstory
+logrocket
+hotjar
+crazy egg
+optimizely
+vwo
+google optimize
+ab tasty
+kameleoon
+dynamic yield
+monetate
+evergage
+certona
+barilliance
+nosto
+findify
+algolia
+constructor
+bloomreach
+attraqt
+coveo
+syte
+vue.ai
+slyce
+cortexica
+nyris
+pixyle
+clarifai
+google vision
+aws rekognition
+azure computer vision
+watson visual recognition
+alibaba vision
+baidu vision
+tencent vision
+yandex vision
+imagga
+cloudsight
+api.ai
+wit.ai
+luis
+rasa
+snips
+mycroft
+kalliope
+leon
+jasper
+stephanie
+viky
+lucida
+ovos
+neon
+sepia
+s.e.p.i.a
+jarvis
+friday
+cortana
+alexa
+siri
+google assistant
+bixby
+
+# Customer Support & Service
+zendesk
+freshdesk
+help scout
+intercom
+drift
+livechat
+tawk.to
+crisp
+olark
+pure chat
+tidio
+userlike
+smartsupp
+chatlio
+chatra
+jivochat
+zoho desk
+salesforce service
+microsoft dynamics
+oracle service
+sap service
+servicenow
+freshservice
+jira service desk
+kayako
+teamsuport
+deskpro
+vision helpdesk
+sysaid
+happyfox
+vivantio
+issuetrak
+track-it
+spiceworks
+hesk
+osticket
+uvdesk
+freescout
+zammad
+helpy
+handesk
+liberum
+trudesk
+erxes
+rocket.chat
+mattermost
+zulip
+slack
+teams
+discord
+element
+wire
+keybase
+signal
+telegram
+whatsapp business
+facebook messenger
+instagram dm
+twitter dm
+linkedin messaging
+wechat work
+dingtalk
+lark
+feishu
+workplace
+chatter
+yammer
+workvivo
+staffbase
+sociabble
+smarp
+blink
+speakap
+facebook workplace
+microsoft viva
+reach
+poppulo
+firstup
+simpplr
+interact
+unily
+invotra
+oak engage
+haiilo
+lumapps
+happeo
+claromentis
+igloo
+jive
+telligent
+verint
+vanilla forums
+discourse
+nodebb
+flarum
+phpbb
+mybb
+smf
+ipboard
+vbulletin
+xenforo
+burning board
+woltlab
+
+# Project Management
+jira
+asana
+monday.com
+clickup
+basecamp
+trello
+wrike
+smartsheet
+notion
+airtable
+teamwork
+ms project
+primavera
+clarizen
+mavenlink
+workfront
+adobe workfront
+liquid planner
+projectmanager
+scoro
+teamgantt
+ganttproject
+openproject
+redmine
+taiga
+trac
+phabricator
+clubhouse
+shortcut
+linear
+height
+plane
+pivotal tracker
+targetprocess
+rally
+versionone
+ca agile
+jira align
+aha
+productboard
+roadmunk
+craft.io
+airfocus
+dragonboat
+productplan
+roadmap
+chisel
+rapidr
+hellonext
+canny
+frill
+feature upvote
+uservoice
+feedback fish
+noora
+sleekplan
+feedbear
+upvoty
+supportbench
+kampsite
+ducalis
+supahub
+beamer
+announcekit
+headway
+releasepad
+changefeed
+launchnotes
+producter
+products ops
+parlor
+cycle
+harvestr
+
+# Design & Creative Tools
+figma
+sketch
+adobe xd
+invision
+framer
+webflow
+principle
+protopie
+flinto
+origami
+marvel
+balsamiq
+axure
+justinmind
+mockplus
+uxpin
+moqups
+wireframe.cc
+mockflow
+pencil
+lunacy
+penpot
+akira
+vectr
+gravit
+canva
+crello
+desygner
+snappa
+stencil
+relay that
+easil
+pablo
+quozio
+wordswag
+over
+typorama
+phonto
+font candy
+text on photos
+add text
+text plus
+quote maker
+quote creator
+instasize
+pic collage
+moldiv
+pic stitch
+layout
+unfold
+mojo
+splice
+quik
+lumafusion
+kinemaster
+videoleap
+inshot
+vllo
+capcut
+vn
+filmora
+premiere rush
+imovie
+davinci resolve
+final cut pro
+premiere pro
+after effects
+motion
+nuke
+fusion
+flame
+smoke
+houdini
+maya
+3ds max
+cinema 4d
+blender
+lightwave
+modo
+zbrush
+mudbox
+sculptris
+meshmixer
+tinkercad
+fusion 360
+onshape
+solidworks
+inventor
+creo
+catia
+nx
+solid edge
+freecad
+openscad
+librecad
+qcad
+draftsight
+autocad
+revit
+archicad
+vectorworks
+sketchup
+rhino
+grasshopper
+dynamo
+
+# Video & Streaming Production
+obs studio
+streamlabs
+xsplit
+wirecast
+vmix
+mirillis
+nvidia broadcast
+prism
+lightstream
+restream
+castr
+switchboard
+gyre
+streamyard
+riverside.fm
+squad cast
+zencastr
+cleanfeed
+source connect
+sessionwire
+listento
+audiomovers
+source live
+ipdt
+sessionlinkpro
+rockstreamer
+sessionwire
+cleanfeed
+audiomover
+vsync
+netmix pro
+studio network
+dante
+ravenna
+livewire
+aes67
+madi
+sdi
+ndi
+rtmp
+srt
+webrtc
+rist
+zixi
+haivision
+wowza
+red5
+nginx rtmp
+ant media
+flussonic
+nimble
+gstreamer
+ffmpeg
+vlc
+mpv
+mpc
+potplayer
+kodi
+plex
+emby
+jellyfin
+universal media server
+serviio
+ps3 media server
+mezzmo
+twonky
+bubble upnp
+kooraroo
+asset upnp
+minim server
+minimwatch
+audirvana
+roon
+jriver
+foobar2000
+musicbee
+aimp
+winamp
+mediamonkey
+clementine
+strawberry
+deadbeef
+audacious
+rhythmbox
+banshee
+amarok
+cantata
+gmpc
+sonata
+ario
+quodlibet
+
+# Game Development
+unity
+unreal engine
+godot
+cryengine
+lumberyard
+source
+source 2
+idtech
+rage
+anvil
+frostbite
+decima
+fox engine
+mt framework
+re engine
+luminous
+hedgehog
+snowdrop
+dunia
+chrome
+clausewitz
+creation engine
+gamebryo
+red engine
+northlight
+glacier
+ego
+codemasters
+novalogic
+havok
+physx
+bullet
+ode
+newton
+chipmunk
+box2d
+matter.js
+cannon.js
+ammo.js
+oimo.js
+planck.js
+p2.js
+rapier
+bevy
+piston
+ggez
+amethyst
+fyrox
+macroquad
+bracket-lib
+specs
+legion
+hecs
+flecs
+entt
+entitas
+unity dots
+stride
+defold
+cocos2d
+pygame
+love2d
+monogame
+fna
+raylib
+sdl
+sfml
+allegro
+glfw
+glut
+ogre
+irrlicht
+panda3d
+orge3d
+bgfx
+magnum
+filament
+diligent
+wicked
+banshee
+urho3d
+o3de
+torque3d
+atomic
+superpowers
+construct
+gdevelop
+buildbox
+stencyl
+gamemaker
+rpg maker
+twine
+ink
+ren'py
+visual novel maker
+tyranobuilder
+naninovel
+
+# Cloud Gaming & Streaming
+nvidia geforce now
+google stadia
+amazon luna
+xbox cloud
+playstation now
+shadow
+parsec
+rainway
+moonlight
+steam link
+remotr
+vortex
+blacknut
+boosteroid
+maximum settings
+loudplay
+netboom
+gloud
+antstream arcade
+jump
+playkey
+hatch
+blade shadow
+paperspace
+vectordash
+
+# Cybersecurity - Endpoint
+crowdstrike
+sentinelone
+carbon black
+cylance
+sophos
+trellix
+mcafee
+kaspersky
+bitdefender
+trend micro
+eset
+avast
+avg
+norton
+webroot
+malwarebytes
+panda
+f-secure
+gdata
+avira
+comodo
+bullguard
+vipre
+emsisoft
+zemana
+adaware
+superantispyware
+spybot
+hitman pro
+rkill
+tdsskiller
+combofix
+adwcleaner
+junkware removal
+roguekiller
+farbar
+bleeping computer
+malware tips
+malware removal
+virus total
+hybrid analysis
+any.run
+joe sandbox
+cuckoo
+cape
+intezer
+reversing labs
+vmray
+threatstream
+anomali
+recorded future
+mandiant
+flashpoint
+digital shadows
+zerofox
+rapid7
+tenable
+qualys
+nexpose
+openvas
+nessus
+acunetix
+burp suite
+zap
+w3af
+nikto
+sqlmap
+metasploit
+cobalt strike
+canvas
+core impact
+immunity
+veracode
+checkmarx
+fortify
+coverity
+snyk
+whitesource
+sonatype
+mend
+black duck
+contrast security
+hdiv
+sqreen
+signalsciences
+imperva
+f5
+akamai
+cloudflare
+fastly
+barracuda
+forcepoint
+zscaler
+netskope
+menlo
+wandera
+lookout
+mobile iron
+jamf
+airwatch
+workspace one
+intune
+manageengine
+kaseya
+connectwise
+n-able
+datto
+acronis
+veeam
+commvault
+veritas
+arcserve
+unitrends
+cohesity
+rubrik
+druva
+backblaze
+carbonite
+idrive
+crashplan
+mozy
+acronis backup
+iperius
+paragon
+easeus
+aomei
+macrium
+clonezilla
+rescuezilla
+redo rescue
+fog project
+clonedeploy
+serva
+wpeinternals
+ventoy
+rufus
+etcher
+unetbootin
+yumi
+sardu
+xboot
+winsetupfromusb
+wintoflash
+wintousb
+aomei partition
+minitool partition
+easeus partition
+parted magic
+gparted
+partition wizard
+disk director
+partition master
+partition assistant
+acronis disk
+active partition
+tenorshare
+stellar
+diskgenius
+r-studio
+recuva
+photorec
+testdisk
+easus data recovery
+minitool power data
+wondershare recoverit
+disk drill
+ontrack
+stellar phoenix
+icare
+jihosoft
+tenorshare recovery
+apeaksoft
+iskysoft
+dr.fone
+imyfone
+anyrecover
+fonelab
+fonedog
+ultdata
+mo biledit
+imobie
+syncios
+anytrans
+imazing
+copytrans
+senuti
+sharepod
+yamipod
+media widget
+foobar ipod
+ml ipod
+winamp ipod
+
+# Cybersecurity - Network
+palo alto
+checkpoint
+fortinet
+cisco
+juniper
+watchguard
+sonicwall
+sophos
+barracuda
+f5
+radware
+a10 networks
+citrix
+kemp
+avi networks
+nginx
+haproxy
+traefik
+envoy
+istio
+linkerd
+consul
+kuma
+maesh
+servicemesh
+appswitch
+load balancer
+bigip
+netscaler
+alteon
+thunder
+loadmaster
+snapt
+zevenet
+kemptechnologies
+riverbed
+silver peak
+vmware velocloud
+citrix sd-wan
+cisco viptela
+versa
+nuage
+aryaka
+cato
+cloudgenix
+viptela
+meraki
+ubiquiti
+tp-link
+d-link
+netgear
+linksys
+asus
+mikrotik
+cambium
+ruckus
+aruba
+cisco meraki
+extreme
+hp networking
+dell networking
+juniper networks
+alcatel lucent
+huawei enterprise
+zte enterprise
+h3c
+ruijie
+maipu
+dcn
+raisecom
+
+# Cybersecurity - Identity & Access
+okta
+auth0
+onelogin
+ping identity
+cyberark
+beyond trust
+sailpoint
+saviynt
+omada
+radiant logic
+forgerock
+microsoft entra
+azure ad
+active directory
+ldap
+openldap
+389 directory
+apache directory
+red hat directory
+oracle directory
+novell edirectory
+jumpcloud
+google workspace
+rippling identity
+workos
+clerk
+fusionauth
+keycloak
+gluu
+wso2
+apereo cas
+shibboleth
+simplesa mlphp
+lemonldap
+authelia
+authentic
+privacyidea
+freeipa
+kanidm
+ory
+supertokens
+logto
+casdoor
+zitadel
+hanko
+corbado
+stytch
+descope
+beyond identity
+transmit security
+indykite
+asgardeo
+cidaas
+loginradius
+frontegg
+magic link
+passwordless
+webauthn
+fido2
+yubikey
+google authenticator
+microsoft authenticator
+authy
+duo mobile
+rsa securid
+symantec vip
+gemalto
+thales
+entrust
+identrust
+digicert
+globalsign
+sectigo
+comodo
+godaddy
+letsencrypt
+zerossl
+buypass
+ssl.com
+certum
+actalis
+trustwave
+izenpe
+camerfirma
+accv
+ancert
+swisssign
+quovadis
+startcom
+wosign
+
+# Aerospace & Defense Contractors
+lockheed martin
+boeing
+northrop grumman
+raytheon
+general dynamics
+bae systems
+l3harris
+textron
+huntington ingalls
+leidos
+booz allen
+saic
+caci
+general atomics
+jacobs
+aecom
+fluor
+kbr
+parsons
+bechtel
+mantech
+peraton
+amentum
+v2x
+vectrus
+oshkosh
+am general
+navistar defense
+mack defense
+lear siegler
+rockwell collins
+collins aerospace
+pratt whitney
+ge aviation
+rolls royce
+safran
+honeywell aerospace
+moog
+curtiss wright
+woodward
+parker aerospace
+eaton aerospace
+triumph group
+spirit aerosystems
+aerojet rocketdyne
+orbital atk
+aerovironment
+kratos
+cubic
+elbit systems
+rafael
+iai
+thales
+leonardo
+saab
+dassault
+airbus defense
+mbda
+rheinmetall
+hensoldt
+kongsberg
+nammo
+patria
+bofors
+nexter
+knds
+gdels
+ffg
+tkms
+navantia
+fincantieri
+naval group
+daewoo shipbuilding
+hyundai heavy
+samsung heavy
+mitsubishi heavy
+kawasaki heavy
+ihi
+subaru aerospace
+turkish aerospace
+korean aerospace
+hindustan aeronautics
+pakistan aeronautical
+ptdi
+embraer defense
+avibras
+elbit brazil
+iae
+fama
+cicaré
+rostec
+uac
+oac
+united engine
+almaz antey
+tactical missiles
+high precision
+concern morinformsystem
+uspas
+uralvagonzavod
+kurganmashzavod
+khbm
+ksz
+kbm
+mvz
+
+# Automotive OEMs
+toyota
+volkswagen
+stellantis
+ford
+honda
+nissan
+hyundai
+kia
+renault
+mercedes-benz
+bmw
+general motors
+suzuki
+mazda
+volvo
+geely
+changan
+dongfeng
+baic
+saic
+great wall
+chery
+faw
+guangzhou auto
+jac motors
+brilliance
+byd
+lifan
+zotye
+haval
+wey
+ora
+tank
+jetour
+exeed
+lynk co
+polestar
+zeekr
+smart
+denza
+yangwang
+fangchengbao
+avatr
+aito
+aion
+arcfox
+dorcen
+worldcar
+neta
+leapmotor
+hozon
+xpeng
+nio
+li auto
+human horizons
+weltmeister
+aiways
+byton
+lucid
+rivian
+fisker
+lordstown
+canoo
+arrival
+faraday future
+karma
+mullen
+nikola
+workhorse
+bollinger
+hercules
+atlis
+alpha
+neuron
+triton
+aptera
+sono
+lightyear
+telo
+microlino
+carver
+arcimoto
+solo
+squad
+citroen ami
+microletta
+birò
+renault twizy
+silence
+seat mo
+cupra born
+skoda enyaq
+audi q4
+porsche taycan
+maserati grecale
+alfa romeo tonale
+lancia ypsilon
+fiat 500e
+jeep avenger
+dodge hornet
+chrysler pacifica
+ram 1500
+tesla model s
+tesla model 3
+tesla model x
+tesla model y
+tesla cybertruck
+tesla roadster
+tesla semi
+
+# Auto Suppliers & Tier 1
+bosch
+denso
+continental
+magna
+zf
+aisin
+valeo
+aptiv
+lear
+faurecia
+yazaki
+sumitomo
+toyoda gosei
+koito
+nsk
+jtekt
+marelli
+autoliv
+bridgestone
+michelin
+goodyear
+pirelli
+continental tires
+yokohama
+hankook
+kumho
+toyo
+falken
+nexen
+cooper
+sumitomo rubber
+triangle
+giti
+linglong
+zhongce
+sailun
+wanli
+aeolus
+doublestar
+haida
+chaoyang
+wanda
+kenda
+maxxis
+nankang
+cst
+federal
+accelera
+nitto
+fuzion
+mastercraft
+dunlop
+general
+kelly
+dick cepek
+bfgoodrich
+uniroyal
+firestone
+dayton
+fuzion tires
+ohtsu
+atlas
+sigma
+westlake
+vercelli
+landsail
+fortune
+roadone
+atturo
+lionhart
+greenmax
+fullway
+lexani
+versatyre
+vogue
+roadx
+zenna
+arroyo
+duro
+trayal
+sava
+matador
+barum
+semperit
+uniroyal europe
+pneumant
+debica
+fulda
+rigdon
+cordiant
+voltyre
+rosava
+kama
+belarus
+forward
+belshina
+nortec
+yaroslavl
+omskshina
+nizhnekamskshina
+altayshina
+uralshinotorg
+tatshina
+
+# Auto Tech & Mobility
+waymo
+cruise
+argo ai
+aurora
+zoox
+motional
+pony.ai
+weride
+autox
+momenta
+plus ai
+tusimple
+kodiak
+torc
+embark
+locomation
+gatik
+nuro
+udelv
+manna
+starship
+kiwibot
+cartken
+refraction
+marble
+dispatch
+serve robotics
+coco
+ottonomy
+cleveron
+boxbot
+tortoise
+postmates serve
+amazon scout
+fedex roxo
+uber eats serve
+vayu
+boxbot delivery
+kiwibot delivery
+starship delivery
+marble delivery
+nuro r2
+udelv newton
+optimus ride
+may mobility
+local motors
+navya
+easymile
+2getthere
+sensible 4
+beep
+coast autonomous
+perrone
+transdev
+keolis
+stagecoach
+first transit
+transdev ats
+ratp dev
+arriva
+go-ahead
+national express
+lothian buses
+first group
+stagecoach group
+abellio
+serco
+veolia transport
+downer edi
+kinetic
+tower transit
+comfort delgro
+sbs transit
+smrt
+prasarana
+rapid kl
+lrt
+mrt
+ktm
+
+# Logistics & Supply Chain Tech
+flexport
+project44
+fourkites
+transfix
+convoy
+uber freight
+loadsmart
+next trucking
+cargomatic
+flock freight
+shipwell
+parade
+axle
+boulevard
+doft
+freight farms
+hwy haul
+mothership
+outrider
+kodiak robotics
+embark trucks
+plus ai trucks
+tusimple trucks
+torc robotics
+locomation trucks
+pronto ai
+einride
+ike
+starsky
+peloton technology
+c3 ai logistics
+coupa
+jaggaer
+ivalua
+zycus
+gep
+synertrade
+basware
+ariba
+tradeshift
+taulia
+gt nexus
+e2open
+infor nexus
+descartes
+manhattan
+blue yonder
+jda
+highjump
+tecsys
+korber
+epicor
+ifs logistics
+sap logistics
+oracle logistics
+kinaxis
+logility
+llamasoft
+toolsgroup
+symphony retailai
+relex
+antuit
+celect
+daisy intelligence
+upstox
+fyers
+zerodha
+angel one
+5paisa
+edelweiss
+icici direct
+hdfc securities
+kotak securities
+axis direct
+sharekhan
+motilal oswal
+religare
+iifl
+smc
+geojit
+anand rathi
+sushil finance
+choice
+mansukh
+hem securities
+swastika
+smifs
+interactive brokers
+td ameritrade
+charles schwab
+etrade
+fidelity
+robinhood
+webull
+moomoo
+tastyworks
+tradestation
+thinkorswim
+lightspeed
+centerpoint
+speedtrader
+cobra trading
+suretrader
+trackn trade
+trade ideas
+tc2000
+trade-ideas
+finviz
+stockcharts
+tradingview
+trendspider
+coinigy
+cryptowatch
+tensorcharts
+bookmap
+sierra chart
+ninjatrader
+multicharts
+quantower
+volfix
+jigsaw
+order flow
+bookmap trading
+atas
+quantower platform
+volumetrica
+agena trader
+volfix pro
+investor rt
+esignal
+qcharts
+worden
+telechart
+stockfetcher
+highcharts stock
+tradecision
+amibroker
+metastock
+wealth-lab
+rightedge
+stockalyze
+chartpattern
+recognia
+autochartist
+pattern explorer
+equity feed
+quotetracker
+
+# Agriculture Technology
+john deere
+agco
+cnh industrial
+kubota
+mahindra
+iseki
+yanmar
+same deutz-fahr
+claas
+fendt
+massey ferguson
+valtra
+challenger
+trimble
+raven
+precision planting
+ag leader
+topcon
+hemisphere
+dickey-john
+farmers edge
+climate fieldview
+granular
+farmobile
+cropio
+agrivi
+farmshots
+taranis
+prospera
+agworld
+adapt-n
+slingshot
+soiloptix
+croptix
+hummingbird
+gamaya
+planet labs
+descartes labs
+orbital insight
+spaceknow
+urthecast
+satellogic
+iceye
+capella space
+synspective
+qps research
+umbra
+si imaging services
+blacksky
+maxar
+planet
+digitalglobe
+geoeye
+worldview
+ikonos
+quickbird
+skysat
+rapideye
+dove
+sentinel
+landsat
+modis
+aster
+spot
+pleiades
+vision
+kompsat
+gaofen
+ziyuan
+yaogan
+jilin
+superview
+worldview legion
+legion
+carbonite
+imagesat
+eros
+venus
+ofek
+techsar
+amos
+elint
+sigint
+comint
+imint
+masint
+humint
+osint
+finint
+cyber intelligence
+geoint
+sar
+multispectral
+hyperspectral
+lidar
+radar
+infrared
+optical
+panchromatic
+visible
+near-infrared
+shortwave infrared
+thermal
+microwave
+passive
+active
+synthetic aperture
+ground penetrating
+side-looking
+forward-looking
+inverse sar
+bistatic
+multistatic
+interferometric
+polarimetric
+tomographic
+differential
+persistent
+coherent change
+moving target
+gmti
+maritime
+airborne
+spaceborne
+ground-based
+handheld
+vehicular
+unmanned
+autonomous
+swarm
+distributed
+networked
+federated
+multi-intelligence
+cross-domain
+all-source
+
+# Construction Technology
+procore
+plangrid
+bluebeam
+autodesk construction cloud
+trimble
+topcon
+leica geosystems
+bentley
+hilti
+milwaukee
+makita
+dewalt
+bosch tools
+metabo
+festool
+ridgid
+ryobi
+craftsman
+black+decker
+porter-cable
+delta
+jet
+powermatic
+grizzly
+laguna
+sawstop
+felder
+hammer
+scm
+minimax
+rojek
+martin
+altendorf
+panhans
+striebig
+holzma
+homag
+ima
+biesse
+scm group
+weinig
+morbidelli
+brandt
+edgebanders
+cnc
+beam saw
+panel saw
+vertical panel saw
+sliding table saw
+cabinet saw
+contractor saw
+jobsite saw
+miter saw
+radial arm saw
+compound miter
+dual compound
+sliding compound
+chop saw
+cutoff saw
+abrasive saw
+metal chop saw
+cold saw
+carbide saw
+tct saw
+friction saw
+bandsaw
+resaw
+horizontal bandsaw
+vertical bandsaw
+metal bandsaw
+wood bandsaw
+scroll saw
+jigsaw
+orbital jigsaw
+reciprocating saw
+sawzall
+demolition saw
+concrete saw
+tile saw
+wet saw
+masonry saw
+diamond saw
+circular saw
+worm drive
+sidewinder
+track saw
+plunge saw
+flooring saw
+timber framing saw
+chainsaw
+pole saw
+electric chainsaw
+battery chainsaw
+gas chainsaw
+professional chainsaw
+arborist
+tree care
+forestry
+logging
+felling
+bucking
+limbing
+pruning
+hedge trimmer
+string trimmer
+weed eater
+brush cutter
+lawn mower
+zero turn
+riding mower
+push mower
+reel mower
+robotic mower
+leaf blower
+snow blower
+pressure washer
+generator
+air compressor
+welder
+mig welder
+tig welder
+stick welder
+plasma cutter
+oxy-acetylene
+acetylene torch
+cutting torch
+rosebud
+brazing torch
+soldering iron
+heat gun
+hot air gun
+paint sprayer
+spray gun
+hvlp
+airless
+texture sprayer
+drywall tools
+taping knife
+mud pan
+corner tool
+sander
+orbital sander
+belt sander
+disc sander
+drum sander
+edge sander
+spindle sander
+oscillating tool
+multi-tool
+router
+trim router
+plunge router
+combo router
+router table
+shaper
+wood shaper
+moulder
+planer
+jointer
+thickness planer
+combination machine
+dust collector
+shop vac
+central vacuum
+extractor
+air filtration
+downdraft table
+spray booth
+paint booth
+powder coating
+sandblaster
+media blaster
+soda blaster
+vapor blaster
+wet blaster
+abrasive blaster
+
+# Chemical Manufacturing
+basf
+dow
+dupont
+sabic
+sinopec
+lyondellbasell
+ineos
+formosa plastics
+braskem
+exxonmobil chemical
+indorama
+toray
+mitsubishi chemical
+sumitomo chemical
+lg chem
+lotte chemical
+hanwha solutions
+sk chemicals
+kumho petrochemical
+s-oil
+gs caltex
+hyosung
+kolon
+sk innovation
+posco chemical
+oci
+kccp
+kpic
+yeochun ncc
+daehan oil
+hyundai oilbank
+lgs
+kcc
+hankook shell
+dongbu hannong
+kyung in
+kukdo
+dongsung
+nam hae
+hanwha chemical
+hanwha total
+lg mma
+lg hausys
+sk functional polymer
+sk geo centric
+lotte mcc
+gs plastics
+kumho mitsui
+kumho p&b
+kohap
+honam petrochemical
+samsung total
+samsung bp
+samsung fine chemicals
+samsung sdi chemicals
+sk materials
+sk nexilis
+sk ie technology
+posco chemicals
+lg energy solution
+samsung electronics materials
+sk materials jrs
+
+# Mining & Metals
+bhp
+rio tinto
+vale
+glencore
+china shenhua
+zijin mining
+shandong gold
+polyus
+agnico eagle
+newmont
+barrick gold
+gold fields
+kinross
+yamana
+eldorado
+iamgold
+endeavour
+newcrest
+evolution
+regis
+northern star
+resolute
+ramelius
+bellevue
+red lake
+calibre
+wesdome
+alamos
+kirkland lake
+detour gold
+osisko
+mcewen
+dynacor
+americas gold
+primero
+aurico
+torex
+lundin gold
+buenaventura
+hochschild
+fresnillo
+polymetal
+centerra
+mandalay
+mcewan copper
+ivanhoe
+copper mountain
+hudbay
+antofagasta
+freeport
+southern copper
+anglo american
+teck
+group mexico
+kghm
+codelco
+escondida
+grasberg
+collahuasi
+los bronces
+los pelambres
+chuquicamata
+el teniente
+cerro verde
+las bambas
+antamina
+morenci
+bingham canyon
+radomiro tomic
+spence
+quebrada blanca
+centinela
+caserones
+minister hales
+carrapateena
+olympic dam
+prominent hill
+rosemont
+resolution
+pebble
+northern dynasty
+donlin
+livengood
+bornite
+shumagin
+whistler
+pogo
+fort knox
+dublin gulch
+casino
+coffee
+schaft creek
+galore creek
+red chris
+mount milligan
+rainy river
+musselwhite
+detour lake
+hemlo
+holt
+holloway
+keno hill
+victoria gold
+back river
+hope bay
+meadowbank
+amaruq
+meliadine
+whale tail
+gibson
+yellowknife
+ekati
+diavik
+gahcho kue
+renard
+snap lake
+victor
+star
+orion
+attawapiskat
+fort rupert
+albany
+winisk
+severn
+shamattawa
+churchill
+seal
+marble island
+roes welcome
+wager bay
+
+# Oil & Gas Majors
+exxonmobil
+shell
+saudi aramco
+chevron
+totalenergies
+bp
+conocophillips
+petrochina
+sinopec
+petrobras
+gazprom
+rosneft
+lukoil
+eni
+equinor
+repsol
+pemex
+pdvsa
+adnoc
+nnpc
+qatarpetroleum
+qatarenergy
+kuwait petroleum
+petronas
+ptt
+inpex
+jx nippon
+idemitsu
+cosmo
+osaka gas
+tokyo gas
+cnooc
+ongc
+reliance
+iocl
+bharat petroleum
+hindustan petroleum
+oil india
+gail
+petronet lng
+mangalore refinery
+chennai petroleum
+numaligarh refinery
+bpcl kochi
+mrpl
+cpcl
+nrl
+brpl
+hmel
+hpcl mittal
+ratnagiri refinery
+barmer refinery
+paradip refinery
+panipat refinery
+haldia refinery
+digboi refinery
+bongaigaon refinery
+guwahati refinery
+mathura refinery
+koyali refinery
+mumbai refinery
+nagapattinam
+cauvery basin
+krishna godavari
+mahanadi
+cambay
+assam arakan
+rajasthan
+mumbai offshore
+kerala-konkan
+bengal
+kutch
+saurashtra
+vindhyan
+son valley
+satpura
+narmada
+godavari
+deccan
+cuddapah
+kerala basin
+
+# Renewable Energy
+nextera energy
+iberdrola
+enel green power
+orsted
+edf renewables
+rwe renewables
+engie
+acciona energia
+canadian solar
+first solar
+sunpower
+jinko solar
+longi solar
+trina solar
+ja solar
+risen energy
+gcl
+canadian solar solutions
+hanwha qcells
+rec solar
+jinkosolar holding
+trina solar energy
+ja solar holdings
+aiko solar
+tongwei solar
+daqo new energy
+xinyi solar
+flat glass
+csg holdings
+asia silicon
+wacker chemie
+gcl-poly
+renesola
+ocim

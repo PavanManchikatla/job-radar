@@ -1,0 +1,1948 @@
+2026-01-11 20:54:30,958 [INFO] Starting validation (version 3.0.0)
+2026-01-11 20:54:30,958 [WARNING] Skipping invalid company name: stability.ai
+2026-01-11 20:54:30,958 [WARNING] Skipping invalid company name: character.ai
+2026-01-11 20:54:30,958 [WARNING] Skipping invalid company name: copy.ai
+2026-01-11 20:54:30,958 [WARNING] Skipping invalid company name: otter.ai
+2026-01-11 20:54:30,958 [WARNING] Skipping invalid company name: fireflies.ai
+2026-01-11 20:54:30,958 [WARNING] Skipping invalid company name: chorus.ai
+2026-01-11 20:54:30,958 [WARNING] Skipping invalid company name: people.ai
+2026-01-11 20:54:30,958 [WARNING] Skipping invalid company name: apollo.io
+2026-01-11 20:54:30,958 [WARNING] Skipping invalid company name: chili piper
+2026-01-11 20:54:30,959 [WARNING] Skipping invalid company name: fly.io
+2026-01-11 20:54:30,959 [WARNING] Skipping invalid company name: monday.com
+2026-01-11 20:54:30,959 [WARNING] Skipping invalid company name: time doctor
+2026-01-11 20:54:30,959 [WARNING] Skipping invalid company name: cold turkey
+2026-01-11 20:54:30,959 [WARNING] Skipping invalid company name: brain.fm
+2026-01-11 20:54:30,959 [WARNING] Skipping invalid company name: focus@will
+2026-01-11 20:54:30,959 [WARNING] Skipping invalid company name: ambient mixer
+2026-01-11 20:54:30,959 [WARNING] Skipping invalid company name: rainy mood
+2026-01-11 20:54:30,959 [WARNING] Skipping invalid company name: sound of colleagues
+2026-01-11 20:54:30,959 [WARNING] Skipping invalid company name: jazz and rain
+2026-01-11 20:54:30,959 [WARNING] Skipping invalid company name: swift package manager
+2026-01-11 20:54:30,959 [WARNING] Skipping invalid company name: advanced rest client
+2026-01-11 20:54:30,959 [WARNING] Skipping invalid company name: h2o.ai
+2026-01-11 20:54:30,959 [WARNING] Skipping invalid company name: tibco spotfire
+2026-01-11 20:54:30,959 [WARNING] Skipping invalid company name: checkout.com
+2026-01-11 20:54:30,959 [WARNING] Skipping invalid company name: authorize.net
+2026-01-11 20:54:30,959 [WARNING] Skipping invalid company name: global payments
+2026-01-11 20:54:30,959 [WARNING] Skipping invalid company name: first data
+2026-01-11 20:54:30,959 [WARNING] Skipping invalid company name: merchant e-solutions
+2026-01-11 20:54:30,959 [WARNING] Skipping invalid company name: payment depot
+2026-01-11 20:54:30,959 [WARNING] Skipping invalid company name: dharma merchant services
+2026-01-11 20:54:30,959 [WARNING] Skipping invalid company name: national processing
+2026-01-11 20:54:30,959 [WARNING] Skipping invalid company name: flagship merchant services
+2026-01-11 20:54:30,959 [WARNING] Skipping invalid company name: north american bancard
+2026-01-11 20:54:30,959 [WARNING] Skipping invalid company name: eprocessing network
+2026-01-11 20:54:30,959 [WARNING] Skipping invalid company name: transnational payments
+2026-01-11 20:54:30,959 [WARNING] Skipping invalid company name: durango merchant services
+2026-01-11 20:54:30,959 [WARNING] Skipping invalid company name: host merchant services
+2026-01-11 20:54:30,959 [WARNING] Skipping invalid company name: wechat pay
+2026-01-11 20:54:30,959 [WARNING] Skipping invalid company name: amazon pay
+2026-01-11 20:54:30,959 [WARNING] Skipping invalid company name: small world
+2026-01-11 20:54:30,959 [WARNING] Skipping invalid company name: orlandi valuta
+2026-01-11 20:54:30,959 [WARNING] Skipping invalid company name: rapid financial solutions
+2026-01-11 20:54:30,959 [WARNING] Skipping invalid company name: ace cash express
+2026-01-11 20:54:30,959 [WARNING] Skipping invalid company name: check into cash
+2026-01-11 20:54:30,959 [WARNING] Skipping invalid company name: check n go
+2026-01-11 20:54:30,959 [WARNING] Skipping invalid company name: check city
+2026-01-11 20:54:30,959 [WARNING] Skipping invalid company name: money mart
+2026-01-11 20:54:30,959 [WARNING] Skipping invalid company name: qc holdings
+2026-01-11 20:54:30,959 [WARNING] Skipping invalid company name: community financial services
+2026-01-11 20:54:30,959 [WARNING] Skipping invalid company name: td bank
+2026-01-11 20:54:30,959 [WARNING] Skipping invalid company name: fifth third
+2026-01-11 20:54:30,959 [WARNING] Skipping invalid company name: m&t bank
+2026-01-11 20:54:30,959 [WARNING] Skipping invalid company name: valley national
+2026-01-11 20:54:30,959 [WARNING] Skipping invalid company name: first horizon
+2026-01-11 20:54:30,959 [WARNING] Skipping invalid company name: bok financial
+2026-01-11 20:54:30,959 [WARNING] Skipping invalid company name: cullen frost
+2026-01-11 20:54:30,959 [WARNING] Skipping invalid company name: signature bank
+2026-01-11 20:54:30,959 [WARNING] Skipping invalid company name: silicon valley bank
+2026-01-11 20:54:30,959 [WARNING] Skipping invalid company name: first republic
+2026-01-11 20:54:30,959 [WARNING] Skipping invalid company name: western alliance
+2026-01-11 20:54:30,959 [WARNING] Skipping invalid company name: east west bank
+2026-01-11 20:54:30,959 [WARNING] Skipping invalid company name: first interstate
+2026-01-11 20:54:30,959 [WARNING] Skipping invalid company name: nbh bank
+2026-01-11 20:54:30,959 [WARNING] Skipping invalid company name: texas capital
+2026-01-11 20:54:30,959 [WARNING] Skipping invalid company name: atlantic union
+2026-01-11 20:54:30,959 [WARNING] Skipping invalid company name: united community banks
+2026-01-11 20:54:30,959 [WARNING] Skipping invalid company name: home bancshares
+2026-01-11 20:54:30,959 [WARNING] Skipping invalid company name: first citizens
+2026-01-11 20:54:30,959 [WARNING] Skipping invalid company name: old national
+2026-01-11 20:54:30,959 [WARNING] Skipping invalid company name: hope bancorp
+2026-01-11 20:54:30,959 [WARNING] Skipping invalid company name: 華美銀行
+2026-01-11 20:54:30,959 [WARNING] Skipping invalid company name: 華僑銀行
+2026-01-11 20:54:30,960 [WARNING] Skipping invalid company name: 中國信託
+2026-01-11 20:54:30,960 [WARNING] Skipping invalid company name: 國泰世華
+2026-01-11 20:54:30,960 [WARNING] Skipping invalid company name: 玉山銀行
+2026-01-11 20:54:30,960 [WARNING] Skipping invalid company name: 台新銀行
+2026-01-11 20:54:30,960 [WARNING] Skipping invalid company name: 聯邦銀行
+2026-01-11 20:54:30,960 [WARNING] Skipping invalid company name: 第一銀行
+2026-01-11 20:54:30,960 [WARNING] Skipping invalid company name: 華南銀行
+2026-01-11 20:54:30,960 [WARNING] Skipping invalid company name: 彰化銀行
+2026-01-11 20:54:30,960 [WARNING] Skipping invalid company name: 合作金庫
+2026-01-11 20:54:30,960 [WARNING] Skipping invalid company name: 土地銀行
+2026-01-11 20:54:30,960 [WARNING] Skipping invalid company name: 台灣銀行
+2026-01-11 20:54:30,960 [WARNING] Skipping invalid company name: 兆豐銀行
+2026-01-11 20:54:30,960 [WARNING] Skipping invalid company name: 中國銀行
+2026-01-11 20:54:30,960 [WARNING] Skipping invalid company name: 工商銀行
+2026-01-11 20:54:30,960 [WARNING] Skipping invalid company name: 建設銀行
+2026-01-11 20:54:30,960 [WARNING] Skipping invalid company name: 農業銀行
+2026-01-11 20:54:30,960 [WARNING] Skipping invalid company name: 交通銀行
+2026-01-11 20:54:30,960 [WARNING] Skipping invalid company name: 招商銀行
+2026-01-11 20:54:30,960 [WARNING] Skipping invalid company name: 中信銀行
+2026-01-11 20:54:30,960 [WARNING] Skipping invalid company name: 民生銀行
+2026-01-11 20:54:30,960 [WARNING] Skipping invalid company name: 興業銀行
+2026-01-11 20:54:30,960 [WARNING] Skipping invalid company name: 浦發銀行
+2026-01-11 20:54:30,960 [WARNING] Skipping invalid company name: 平安銀行
+2026-01-11 20:54:30,960 [WARNING] Skipping invalid company name: 光大銀行
+2026-01-11 20:54:30,960 [WARNING] Skipping invalid company name: 華夏銀行
+2026-01-11 20:54:30,960 [WARNING] Skipping invalid company name: 廣發銀行
+2026-01-11 20:54:30,960 [WARNING] Skipping invalid company name: 渤海銀行
+2026-01-11 20:54:30,960 [WARNING] Skipping invalid company name: 恆豐銀行
+2026-01-11 20:54:30,960 [WARNING] Skipping invalid company name: bofa securities
+2026-01-11 20:54:30,960 [WARNING] Skipping invalid company name: deutsche bank
+2026-01-11 20:54:30,960 [WARNING] Skipping invalid company name: credit suisse
+2026-01-11 20:54:30,960 [WARNING] Skipping invalid company name: bnp paribas
+2026-01-11 20:54:30,960 [WARNING] Skipping invalid company name: societe generale
+2026-01-11 20:54:30,960 [WARNING] Skipping invalid company name: smbc nikko
+2026-01-11 20:54:30,960 [WARNING] Skipping invalid company name: pjt partners
+2026-01-11 20:54:30,960 [WARNING] Skipping invalid company name: perella weinberg
+2026-01-11 20:54:30,960 [WARNING] Skipping invalid company name: houlihan lokey
+2026-01-11 20:54:30,960 [WARNING] Skipping invalid company name: allen & company
+2026-01-11 20:54:30,960 [WARNING] Skipping invalid company name: raine group
+2026-01-11 20:54:30,960 [WARNING] Skipping invalid company name: lионgate
+2026-01-11 20:54:30,960 [WARNING] Skipping invalid company name: raymond james
+2026-01-11 20:54:30,960 [WARNING] Skipping invalid company name: piper sandler
+2026-01-11 20:54:30,960 [WARNING] Skipping invalid company name: william blair
+2026-01-11 20:54:30,960 [WARNING] Skipping invalid company name: craig hallum
+2026-01-11 20:54:30,960 [WARNING] Skipping invalid company name: lake street
+2026-01-11 20:54:30,960 [WARNING] Skipping invalid company name: roth capital
+2026-01-11 20:54:30,960 [WARNING] Skipping invalid company name: b riley
+2026-01-11 20:54:30,960 [WARNING] Skipping invalid company name: dа davidson
+2026-01-11 20:54:30,960 [WARNING] Skipping invalid company name: loop capital
+2026-01-11 20:54:30,960 [WARNING] Skipping invalid company name: imperial capital
+2026-01-11 20:54:30,960 [WARNING] Skipping invalid company name: maxim group
+2026-01-11 20:54:30,960 [WARNING] Skipping invalid company name: noble capital
+2026-01-11 20:54:30,960 [WARNING] Skipping invalid company name: small cap capital markets
+2026-01-11 20:54:30,960 [WARNING] Skipping invalid company name: aegis capital
+2026-01-11 20:54:30,960 [WARNING] Skipping invalid company name: alliance global
+2026-01-11 20:54:30,960 [WARNING] Skipping invalid company name: ascendiant capital
+2026-01-11 20:54:30,960 [WARNING] Skipping invalid company name: axiom capital
+2026-01-11 20:54:30,960 [WARNING] Skipping invalid company name: crystal research
+2026-01-11 20:54:30,960 [WARNING] Skipping invalid company name: h.c. wainwright
+2026-01-11 20:54:30,960 [WARNING] Skipping invalid company name: national securities
+2026-01-11 20:54:30,960 [WARNING] Skipping invalid company name: pi financial
+2026-01-11 20:54:30,960 [WARNING] Skipping invalid company name: rodman & renshaw
+2026-01-11 20:54:30,960 [WARNING] Skipping invalid company name: taglich brothers
+2026-01-11 20:54:30,960 [WARNING] Skipping invalid company name: warburg pincus
+2026-01-11 20:54:30,960 [WARNING] Skipping invalid company name: vista equity
+2026-01-11 20:54:30,960 [WARNING] Skipping invalid company name: thoma bravo
+2026-01-11 20:54:30,960 [WARNING] Skipping invalid company name: silver lake
+2026-01-11 20:54:30,960 [WARNING] Skipping invalid company name: general atlantic
+2026-01-11 20:54:30,960 [WARNING] Skipping invalid company name: pai partners
+2026-01-11 20:54:30,960 [WARNING] Skipping invalid company name: bc partners
+2026-01-11 20:54:30,960 [WARNING] Skipping invalid company name: hellman & friedman
+2026-01-11 20:54:30,960 [WARNING] Skipping invalid company name: leonard green
+2026-01-11 20:54:30,960 [WARNING] Skipping invalid company name: bain capital
+2026-01-11 20:54:30,960 [WARNING] Skipping invalid company name: providence equity
+2026-01-11 20:54:30,960 [WARNING] Skipping invalid company name: neuberger berman
+2026-01-11 20:54:30,960 [WARNING] Skipping invalid company name: two sigma
+2026-01-11 20:54:30,961 [WARNING] Skipping invalid company name: de shaw
+2026-01-11 20:54:30,961 [WARNING] Skipping invalid company name: renaissance technologies
+2026-01-11 20:54:30,961 [WARNING] Skipping invalid company name: man group
+2026-01-11 20:54:30,961 [WARNING] Skipping invalid company name: marshall wace
+2026-01-11 20:54:30,961 [WARNING] Skipping invalid company name: two sigma
+2026-01-11 20:54:30,961 [WARNING] Skipping invalid company name: de shaw
+2026-01-11 20:54:30,961 [WARNING] Skipping invalid company name: andreessen horowitz
+2026-01-11 20:54:30,961 [WARNING] Skipping invalid company name: kleiner perkins
+2026-01-11 20:54:30,961 [WARNING] Skipping invalid company name: insight partners
+2026-01-11 20:54:30,961 [WARNING] Skipping invalid company name: tiger global
+2026-01-11 20:54:30,961 [WARNING] Skipping invalid company name: index ventures
+2026-01-11 20:54:30,961 [WARNING] Skipping invalid company name: battery ventures
+2026-01-11 20:54:30,961 [WARNING] Skipping invalid company name: foundry group
+2026-01-11 20:54:30,961 [WARNING] Skipping invalid company name: spark capital
+2026-01-11 20:54:30,961 [WARNING] Skipping invalid company name: union square ventures
+2026-01-11 20:54:30,961 [WARNING] Skipping invalid company name: first round
+2026-01-11 20:54:30,961 [WARNING] Skipping invalid company name: khosla ventures
+2026-01-11 20:54:30,961 [WARNING] Skipping invalid company name: founders fund
+2026-01-11 20:54:30,961 [WARNING] Skipping invalid company name: lux capital
+2026-01-11 20:54:30,961 [WARNING] Skipping invalid company name: ribbit capital
+2026-01-11 20:54:30,961 [WARNING] Skipping invalid company name: durable capital
+2026-01-11 20:54:30,961 [WARNING] Skipping invalid company name: sands capital
+2026-01-11 20:54:30,961 [WARNING] Skipping invalid company name: d1 capital
+2026-01-11 20:54:30,961 [WARNING] Skipping invalid company name: whale rock
+2026-01-11 20:54:30,961 [WARNING] Skipping invalid company name: lone pine
+2026-01-11 20:54:30,961 [WARNING] Skipping invalid company name: viking global
+2026-01-11 20:54:30,961 [WARNING] Skipping invalid company name: jana partners
+2026-01-11 20:54:30,961 [WARNING] Skipping invalid company name: elliott management
+2026-01-11 20:54:30,961 [WARNING] Skipping invalid company name: third point
+2026-01-11 20:54:30,961 [WARNING] Skipping invalid company name: pershing square
+2026-01-11 20:54:30,961 [WARNING] Skipping invalid company name: nelson peltz
+2026-01-11 20:54:30,961 [WARNING] Skipping invalid company name: carl icahn
+2026-01-11 20:54:30,961 [WARNING] Skipping invalid company name: dan loeb
+2026-01-11 20:54:30,961 [WARNING] Skipping invalid company name: bill ackman
+2026-01-11 20:54:30,961 [WARNING] Skipping invalid company name: jeff smith
+2026-01-11 20:54:30,961 [WARNING] Skipping invalid company name: jeff ubben
+2026-01-11 20:54:30,961 [WARNING] Skipping invalid company name: barry rosenstein
+2026-01-11 20:54:30,961 [WARNING] Skipping invalid company name: keith meister
+2026-01-11 20:54:30,961 [WARNING] Skipping invalid company name: citadel securities
+2026-01-11 20:54:30,961 [WARNING] Skipping invalid company name: flow traders
+2026-01-11 20:54:30,961 [WARNING] Skipping invalid company name: jump trading
+2026-01-11 20:54:30,961 [WARNING] Skipping invalid company name: tower research
+2026-01-11 20:54:30,961 [WARNING] Skipping invalid company name: hudson river trading
+2026-01-11 20:54:30,961 [WARNING] Skipping invalid company name: akuna capital
+2026-01-11 20:54:30,961 [WARNING] Skipping invalid company name: five rings
+2026-01-11 20:54:30,961 [WARNING] Skipping invalid company name: jane street
+2026-01-11 20:54:30,961 [WARNING] Skipping invalid company name: old mission
+2026-01-11 20:54:30,961 [WARNING] Skipping invalid company name: headlands tech
+2026-01-11 20:54:30,961 [WARNING] Skipping invalid company name: group one
+2026-01-11 20:54:30,961 [WARNING] Skipping invalid company name: galaxy digital
+2026-01-11 20:54:30,961 [WARNING] Skipping invalid company name: gate.io
+2026-01-11 20:54:30,961 [WARNING] Skipping invalid company name: crypto.com
+2026-01-11 20:54:30,961 [WARNING] Skipping invalid company name: unchained capital
+2026-01-11 20:54:30,961 [WARNING] Skipping invalid company name: salt lending
+2026-01-11 20:54:30,961 [WARNING] Skipping invalid company name: babel finance
+2026-01-11 20:54:30,961 [WARNING] Skipping invalid company name: chainlink labs
+2026-01-11 20:54:30,961 [WARNING] Skipping invalid company name: graph protocol
+2026-01-11 20:54:30,961 [WARNING] Skipping invalid company name: ocean protocol
+2026-01-11 20:54:30,961 [WARNING] Skipping invalid company name: magic eden
+2026-01-11 20:54:30,961 [WARNING] Skipping invalid company name: nifty gateway
+2026-01-11 20:54:30,961 [WARNING] Skipping invalid company name: known origin
+2026-01-11 20:54:30,961 [WARNING] Skipping invalid company name: async art
+2026-01-11 20:54:30,961 [WARNING] Skipping invalid company name: bored ape yacht club
+2026-01-11 20:54:30,961 [WARNING] Skipping invalid company name: clone x
+2026-01-11 20:54:30,961 [WARNING] Skipping invalid company name: world of women
+2026-01-11 20:54:30,961 [WARNING] Skipping invalid company name: cool cats
+2026-01-11 20:54:30,961 [WARNING] Skipping invalid company name: pudgy penguins
+2026-01-11 20:54:30,961 [WARNING] Skipping invalid company name: forgotten runes
+2026-01-11 20:54:30,961 [WARNING] Skipping invalid company name: art blocks
+2026-01-11 20:54:30,961 [WARNING] Skipping invalid company name: vee friends
+2026-01-11 20:54:30,961 [WARNING] Skipping invalid company name: axie infinity
+2026-01-11 20:54:30,961 [WARNING] Skipping invalid company name: gods unchained
+2026-01-11 20:54:30,961 [WARNING] Skipping invalid company name: star atlas
+2026-01-11 20:54:30,961 [WARNING] Skipping invalid company name: big time
+2026-01-11 20:54:30,961 [WARNING] Skipping invalid company name: gala games
+2026-01-11 20:54:30,962 [WARNING] Skipping invalid company name: immutable x
+2026-01-11 20:54:30,962 [WARNING] Skipping invalid company name: dapper labs
+2026-01-11 20:54:30,962 [WARNING] Skipping invalid company name: nba top shot
+2026-01-11 20:54:30,962 [WARNING] Skipping invalid company name: nfl all day
+2026-01-11 20:54:30,962 [WARNING] Skipping invalid company name: ufc strike
+2026-01-11 20:54:30,962 [WARNING] Skipping invalid company name: disney pinnacle
+2026-01-11 20:54:30,962 [WARNING] Skipping invalid company name: laliga golazos
+2026-01-11 20:54:30,962 [WARNING] Skipping invalid company name: formula 1
+2026-01-11 20:54:30,962 [WARNING] Skipping invalid company name: mlb champions
+2026-01-11 20:54:30,962 [WARNING] Skipping invalid company name: solitaire blitz
+2026-01-11 20:54:30,962 [WARNING] Skipping invalid company name: star trek continuum
+2026-01-11 20:54:30,962 [WARNING] Skipping invalid company name: perpetual protocol
+2026-01-11 20:54:30,962 [WARNING] Skipping invalid company name: gains network
+2026-01-11 20:54:30,962 [WARNING] Skipping invalid company name: level finance
+2026-01-11 20:54:30,962 [WARNING] Skipping invalid company name: mux protocol
+2026-01-11 20:54:30,962 [WARNING] Skipping invalid company name: ribbon finance
+2026-01-11 20:54:30,962 [WARNING] Skipping invalid company name: jones dao
+2026-01-11 20:54:30,962 [WARNING] Skipping invalid company name: umami finance
+2026-01-11 20:54:30,962 [WARNING] Skipping invalid company name: vesta finance
+2026-01-11 20:54:30,962 [WARNING] Skipping invalid company name: pika protocol
+2026-01-11 20:54:30,962 [WARNING] Skipping invalid company name: mummy finance
+2026-01-11 20:54:30,962 [WARNING] Skipping invalid company name: rage trade
+2026-01-11 20:54:30,962 [WARNING] Skipping invalid company name: tigris trade
+2026-01-11 20:54:30,962 [WARNING] Skipping invalid company name: bought by many
+2026-01-11 20:54:30,962 [WARNING] Skipping invalid company name: shift technology
+2026-01-11 20:54:30,962 [WARNING] Skipping invalid company name: cape analytics
+2026-01-11 20:54:30,962 [WARNING] Skipping invalid company name: hi marley
+2026-01-11 20:54:30,962 [WARNING] Skipping invalid company name: breathe life
+2026-01-11 20:54:30,962 [WARNING] Skipping invalid company name: haven life
+2026-01-11 20:54:30,962 [WARNING] Skipping invalid company name: the zebra
+2026-01-11 20:54:30,962 [WARNING] Skipping invalid company name: coverage cat
+2026-01-11 20:54:30,962 [WARNING] Skipping invalid company name: coldwell banker
+2026-01-11 20:54:30,962 [WARNING] Skipping invalid company name: century 21
+2026-01-11 20:54:30,962 [WARNING] Skipping invalid company name: better homes
+2026-01-11 20:54:30,962 [WARNING] Skipping invalid company name: cushman wakefield
+2026-01-11 20:54:30,962 [WARNING] Skipping invalid company name: knight frank
+2026-01-11 20:54:30,962 [WARNING] Skipping invalid company name: engel völkers
+2026-01-11 20:54:30,962 [WARNING] Skipping invalid company name: berkshire hathaway
+2026-01-11 20:54:30,962 [WARNING] Skipping invalid company name: keller williams
+2026-01-11 20:54:30,962 [WARNING] Skipping invalid company name: exp realty
+2026-01-11 20:54:30,962 [WARNING] Skipping invalid company name: howard hanna
+2026-01-11 20:54:30,962 [WARNING] Skipping invalid company name: long foster
+2026-01-11 20:54:30,962 [WARNING] Skipping invalid company name: edina realty
+2026-01-11 20:54:30,962 [WARNING] Skipping invalid company name: ben kinney
+2026-01-11 20:54:30,962 [WARNING] Skipping invalid company name: climb real estate
+2026-01-11 20:54:30,962 [WARNING] Skipping invalid company name: bold leads
+2026-01-11 20:54:30,962 [WARNING] Skipping invalid company name: market leader
+2026-01-11 20:54:30,962 [WARNING] Skipping invalid company name: lion desk
+2026-01-11 20:54:30,962 [WARNING] Skipping invalid company name: follow up boss
+2026-01-11 20:54:30,962 [WARNING] Skipping invalid company name: ixact contact
+2026-01-11 20:54:30,962 [WARNING] Skipping invalid company name: wise agent
+2026-01-11 20:54:30,962 [WARNING] Skipping invalid company name: top producer
+2026-01-11 20:54:30,962 [WARNING] Skipping invalid company name: google drive
+2026-01-11 20:54:30,962 [WARNING] Skipping invalid company name: zoho docs
+2026-01-11 20:54:30,962 [WARNING] Skipping invalid company name: sync.com
+2026-01-11 20:54:30,962 [WARNING] Skipping invalid company name: rent manager
+2026-01-11 20:54:30,962 [WARNING] Skipping invalid company name: tenant cloud
+2026-01-11 20:54:30,962 [WARNING] Skipping invalid company name: apartments.com
+2026-01-11 20:54:30,962 [WARNING] Skipping invalid company name: rent.com
+2026-01-11 20:54:30,962 [WARNING] Skipping invalid company name: zillow rental
+2026-01-11 20:54:30,962 [WARNING] Skipping invalid company name: apartment list
+2026-01-11 20:54:30,962 [WARNING] Skipping invalid company name: trulia rentals
+2026-01-11 20:54:30,962 [WARNING] Skipping invalid company name: furnished finder
+2026-01-11 20:54:30,962 [WARNING] Skipping invalid company name: zeus living
+2026-01-11 20:54:30,962 [WARNING] Skipping invalid company name: stay alfred
+2026-01-11 20:54:30,962 [WARNING] Skipping invalid company name: mint house
+2026-01-11 20:54:30,962 [WARNING] Skipping invalid company name: the collective
+2026-01-11 20:54:30,962 [WARNING] Skipping invalid company name: urban campus
+2026-01-11 20:54:30,962 [WARNING] Skipping invalid company name: x+living
+2026-01-11 20:54:30,962 [WARNING] Skipping invalid company name: walmart marketplace
+2026-01-11 20:54:30,962 [WARNING] Skipping invalid company name: target plus
+2026-01-11 20:54:30,962 [WARNING] Skipping invalid company name: bestbuy marketplace
+2026-01-11 20:54:30,962 [WARNING] Skipping invalid company name: giant eagle
+2026-01-11 20:54:30,963 [WARNING] Skipping invalid company name: food lion
+2026-01-11 20:54:30,963 [WARNING] Skipping invalid company name: harris teeter
+2026-01-11 20:54:30,963 [WARNING] Skipping invalid company name: fred meyer
+2026-01-11 20:54:30,963 [WARNING] Skipping invalid company name: king soopers
+2026-01-11 20:54:30,963 [WARNING] Skipping invalid company name: city market
+2026-01-11 20:54:30,963 [WARNING] Skipping invalid company name: mariano's
+2026-01-11 20:54:30,963 [WARNING] Skipping invalid company name: pick n save
+2026-01-11 20:54:30,963 [WARNING] Skipping invalid company name: metro market
+2026-01-11 20:54:30,963 [WARNING] Skipping invalid company name: baker's
+2026-01-11 20:54:30,963 [WARNING] Skipping invalid company name: pay less
+2026-01-11 20:54:30,963 [WARNING] Skipping invalid company name: owen's
+2026-01-11 20:54:30,963 [WARNING] Skipping invalid company name: jay c
+2026-01-11 20:54:30,963 [WARNING] Skipping invalid company name: scott's
+2026-01-11 20:54:30,963 [WARNING] Skipping invalid company name: ruler foods
+2026-01-11 20:54:30,963 [WARNING] Skipping invalid company name: cub foods
+2026-01-11 20:54:30,963 [WARNING] Skipping invalid company name: shoppers food
+2026-01-11 20:54:30,963 [WARNING] Skipping invalid company name: farm fresh
+2026-01-11 20:54:30,963 [WARNING] Skipping invalid company name: cash wise
+2026-01-11 20:54:30,963 [WARNING] Skipping invalid company name: thrifty white
+2026-01-11 20:54:30,963 [WARNING] Skipping invalid company name: sun fresh
+2026-01-11 20:54:30,963 [WARNING] Skipping invalid company name: coborn's
+2026-01-11 20:54:30,963 [WARNING] Skipping invalid company name: price chopper
+2026-01-11 20:54:30,963 [WARNING] Skipping invalid company name: matches fashion
+2026-01-11 20:54:30,963 [WARNING] Skipping invalid company name: nasty gal
+2026-01-11 20:54:30,963 [WARNING] Skipping invalid company name: fashion nova
+2026-01-11 20:54:30,963 [WARNING] Skipping invalid company name: princess polly
+2026-01-11 20:54:30,963 [WARNING] Skipping invalid company name: beginning boutique
+2026-01-11 20:54:30,963 [WARNING] Skipping invalid company name: meshki boutique
+2026-01-11 20:54:30,963 [WARNING] Skipping invalid company name: white fox
+2026-01-11 20:54:30,963 [WARNING] Skipping invalid company name: oh polly
+2026-01-11 20:54:30,963 [WARNING] Skipping invalid company name: i saw it first
+2026-01-11 20:54:30,963 [WARNING] Skipping invalid company name: in the style
+2026-01-11 20:54:30,963 [WARNING] Skipping invalid company name: rebellious fashion
+2026-01-11 20:54:30,963 [WARNING] Skipping invalid company name: babyboo fashion
+2026-01-11 20:54:30,963 [WARNING] Skipping invalid company name: house of cb
+2026-01-11 20:54:30,963 [WARNING] Skipping invalid company name: forever 21
+2026-01-11 20:54:30,963 [WARNING] Skipping invalid company name: h&m
+2026-01-11 20:54:30,963 [WARNING] Skipping invalid company name: pull&bear
+2026-01-11 20:54:30,963 [WARNING] Skipping invalid company name: massimo dutti
+2026-01-11 20:54:30,963 [WARNING] Skipping invalid company name: &other stories
+2026-01-11 20:54:30,963 [WARNING] Skipping invalid company name: j.crew
+2026-01-11 20:54:30,963 [WARNING] Skipping invalid company name: old navy
+2026-01-11 20:54:30,963 [WARNING] Skipping invalid company name: banana republic
+2026-01-11 20:54:30,963 [WARNING] Skipping invalid company name: american eagle
+2026-01-11 20:54:30,963 [WARNING] Skipping invalid company name: urban outfitters
+2026-01-11 20:54:30,963 [WARNING] Skipping invalid company name: free people
+2026-01-11 20:54:30,963 [WARNING] Skipping invalid company name: mr porter
+2026-01-11 20:54:30,963 [WARNING] Skipping invalid company name: the outnet
+2026-01-11 20:54:30,963 [WARNING] Skipping invalid company name: matches fashion
+2026-01-11 20:54:30,963 [WARNING] Skipping invalid company name: harvey nichols
+2026-01-11 20:54:30,963 [WARNING] Skipping invalid company name: liberty london
+2026-01-11 20:54:30,963 [WARNING] Skipping invalid company name: fortnum mason
+2026-01-11 20:54:30,963 [WARNING] Skipping invalid company name: neiman marcus
+2026-01-11 20:54:30,963 [WARNING] Skipping invalid company name: bergdorf goodman
+2026-01-11 20:54:30,963 [WARNING] Skipping invalid company name: saks fifth avenue
+2026-01-11 20:54:30,963 [WARNING] Skipping invalid company name: henri bendel
+2026-01-11 20:54:30,963 [WARNING] Skipping invalid company name: lord & taylor
+2026-01-11 20:54:30,963 [WARNING] Skipping invalid company name: rue la la
+2026-01-11 20:54:30,963 [WARNING] Skipping invalid company name: beyond the rack
+2026-01-11 20:54:30,963 [WARNING] Skipping invalid company name: one kings lane
+2026-01-11 20:54:30,963 [WARNING] Skipping invalid company name: joss & main
+2026-01-11 20:54:30,963 [WARNING] Skipping invalid company name: inside weather
+2026-01-11 20:54:30,963 [WARNING] Skipping invalid company name: interior define
+2026-01-11 20:54:30,963 [WARNING] Skipping invalid company name: maiden home
+2026-01-11 20:54:30,963 [WARNING] Skipping invalid company name: benchmade modern
+2026-01-11 20:54:30,963 [WARNING] Skipping invalid company name: poly & bark
+2026-01-11 20:54:30,963 [WARNING] Skipping invalid company name: tuft & needle
+2026-01-11 20:54:30,963 [WARNING] Skipping invalid company name: brooklyn bedding
+2026-01-11 20:54:30,963 [WARNING] Skipping invalid company name: loom & leaf
+2026-01-11 20:54:30,963 [WARNING] Skipping invalid company name: silk & snow
+2026-01-11 20:54:30,963 [WARNING] Skipping invalid company name: logan & cove
+2026-01-11 20:54:30,963 [WARNING] Skipping invalid company name: goodmorning.com
+2026-01-11 20:54:30,963 [WARNING] Skipping invalid company name: silk and snow
+2026-01-11 20:54:30,963 [WARNING] Skipping invalid company name: ghost bed
+2026-01-11 20:54:30,963 [WARNING] Skipping invalid company name: nest bedding
+2026-01-11 20:54:30,963 [WARNING] Skipping invalid company name: alexander signature
+2026-01-11 20:54:30,964 [WARNING] Skipping invalid company name: brooklyn aurora
+2026-01-11 20:54:30,964 [WARNING] Skipping invalid company name: inside weather
+2026-01-11 20:54:30,964 [WARNING] Skipping invalid company name: interior define
+2026-01-11 20:54:30,964 [WARNING] Skipping invalid company name: maiden home
+2026-01-11 20:54:30,964 [WARNING] Skipping invalid company name: benchmade modern
+2026-01-11 20:54:30,964 [WARNING] Skipping invalid company name: poly & bark
+2026-01-11 20:54:30,964 [WARNING] Skipping invalid company name: west elm
+2026-01-11 20:54:30,964 [WARNING] Skipping invalid company name: pottery barn
+2026-01-11 20:54:30,964 [WARNING] Skipping invalid company name: pottery barn kids
+2026-01-11 20:54:30,964 [WARNING] Skipping invalid company name: pottery barn teen
+2026-01-11 20:54:30,964 [WARNING] Skipping invalid company name: williams sonoma
+2026-01-11 20:54:30,964 [WARNING] Skipping invalid company name: mark and graham
+2026-01-11 20:54:30,964 [WARNING] Skipping invalid company name: crate and barrel
+2026-01-11 20:54:30,964 [WARNING] Skipping invalid company name: land of nod
+2026-01-11 20:54:30,964 [WARNING] Skipping invalid company name: restoration hardware
+2026-01-11 20:54:30,964 [WARNING] Skipping invalid company name: rh modern
+2026-01-11 20:54:30,964 [WARNING] Skipping invalid company name: rh contemporary
+2026-01-11 20:54:30,964 [WARNING] Skipping invalid company name: rh teen
+2026-01-11 20:54:30,964 [WARNING] Skipping invalid company name: rh baby child
+2026-01-11 20:54:30,964 [WARNING] Skipping invalid company name: room & board
+2026-01-11 20:54:30,964 [WARNING] Skipping invalid company name: design within reach
+2026-01-11 20:54:30,964 [WARNING] Skipping invalid company name: herman miller
+2026-01-11 20:54:30,964 [WARNING] Skipping invalid company name: offices to go
+2026-01-11 20:54:30,964 [WARNING] Skipping invalid company name: office star
+2026-01-11 20:54:30,964 [WARNING] Skipping invalid company name: flash furniture
+2026-01-11 20:54:30,964 [WARNING] Skipping invalid company name: poly and bark
+2026-01-11 20:54:30,964 [WARNING] Skipping invalid company name: fine mod imports
+2026-01-11 20:54:30,964 [WARNING] Skipping invalid company name: diamond sofa
+2026-01-11 20:54:30,964 [WARNING] Skipping invalid company name: zuo modern
+2026-01-11 20:54:30,964 [WARNING] Skipping invalid company name: nuevo living
+2026-01-11 20:54:30,964 [WARNING] Skipping invalid company name: armen living
+2026-01-11 20:54:30,964 [WARNING] Skipping invalid company name: baxton studio
+2026-01-11 20:54:30,964 [WARNING] Skipping invalid company name: space nk
+2026-01-11 20:54:30,964 [WARNING] Skipping invalid company name: cult beauty
+2026-01-11 20:54:30,964 [WARNING] Skipping invalid company name: feel unique
+2026-01-11 20:54:30,964 [WARNING] Skipping invalid company name: beauty bay
+2026-01-11 20:54:30,964 [WARNING] Skipping invalid company name: paula's choice
+2026-01-11 20:54:30,964 [WARNING] Skipping invalid company name: the ordinary
+2026-01-11 20:54:30,964 [WARNING] Skipping invalid company name: drunk elephant
+2026-01-11 20:54:30,964 [WARNING] Skipping invalid company name: kiehl's
+2026-01-11 20:54:30,964 [WARNING] Skipping invalid company name: estee lauder
+2026-01-11 20:54:30,964 [WARNING] Skipping invalid company name: la mer
+2026-01-11 20:54:30,964 [WARNING] Skipping invalid company name: dior beauty
+2026-01-11 20:54:30,964 [WARNING] Skipping invalid company name: chanel beauty
+2026-01-11 20:54:30,964 [WARNING] Skipping invalid company name: ysl beauty
+2026-01-11 20:54:30,964 [WARNING] Skipping invalid company name: tom ford beauty
+2026-01-11 20:54:30,964 [WARNING] Skipping invalid company name: giorgio armani
+2026-01-11 20:54:30,964 [WARNING] Skipping invalid company name: burberry beauty
+2026-01-11 20:54:30,964 [WARNING] Skipping invalid company name: la prairie
+2026-01-11 20:54:30,964 [WARNING] Skipping invalid company name: swiss perfection
+2026-01-11 20:54:30,964 [WARNING] Skipping invalid company name: swiss line
+2026-01-11 20:54:30,964 [WARNING] Skipping invalid company name: sarah chapman
+2026-01-11 20:54:30,964 [WARNING] Skipping invalid company name: sarah chapman skinesis
+2026-01-11 20:54:30,964 [WARNING] Skipping invalid company name: augustinus bader
+2026-01-11 20:54:30,964 [WARNING] Skipping invalid company name: biologique recherche
+2026-01-11 20:54:30,964 [WARNING] Skipping invalid company name: revision skincare
+2026-01-11 20:54:30,964 [WARNING] Skipping invalid company name: zo skin health
+2026-01-11 20:54:30,964 [WARNING] Skipping invalid company name: elta md
+2026-01-11 20:54:30,964 [WARNING] Skipping invalid company name: la roche posay
+2026-01-11 20:54:30,964 [WARNING] Skipping invalid company name: pond's
+2026-01-11 20:54:30,964 [WARNING] Skipping invalid company name: puritan's pride
+2026-01-11 20:54:30,964 [WARNING] Skipping invalid company name: now foods
+2026-01-11 20:54:30,964 [WARNING] Skipping invalid company name: natural factors
+2026-01-11 20:54:30,964 [WARNING] Skipping invalid company name: jarrow formulas
+2026-01-11 20:54:30,964 [WARNING] Skipping invalid company name: doctor's best
+2026-01-11 20:54:30,964 [WARNING] Skipping invalid company name: life extension
+2026-01-11 20:54:30,964 [WARNING] Skipping invalid company name: source naturals
+2026-01-11 20:54:30,964 [WARNING] Skipping invalid company name: nature's way
+2026-01-11 20:54:30,964 [WARNING] Skipping invalid company name: nature made
+2026-01-11 20:54:30,964 [WARNING] Skipping invalid company name: nature's bounty
+2026-01-11 20:54:30,964 [WARNING] Skipping invalid company name: one a day
+2026-01-11 20:54:30,964 [WARNING] Skipping invalid company name: gummy vitamins
+2026-01-11 20:54:30,964 [WARNING] Skipping invalid company name: mary ruth organics
+2026-01-11 20:54:30,964 [WARNING] Skipping invalid company name: garden of life
+2026-01-11 20:54:30,964 [WARNING] Skipping invalid company name: new chapter
+2026-01-11 20:54:30,964 [WARNING] Skipping invalid company name: rainbow light
+2026-01-11 20:54:30,965 [WARNING] Skipping invalid company name: innate response
+2026-01-11 20:54:30,965 [WARNING] Skipping invalid company name: renew life
+2026-01-11 20:54:30,965 [WARNING] Skipping invalid company name: fiber choice
+2026-01-11 20:54:30,965 [WARNING] Skipping invalid company name: milk of magnesia
+2026-01-11 20:54:30,965 [WARNING] Skipping invalid company name: glycerin suppositories
+2026-01-11 20:54:30,965 [WARNING] Skipping invalid company name: magnesium hydroxide
+2026-01-11 20:54:30,965 [WARNING] Skipping invalid company name: polyethylene glycol
+2026-01-11 20:54:30,965 [WARNING] Skipping invalid company name: homeчеf
+2026-01-11 20:54:30,965 [WARNING] Skipping invalid company name: marley spoon
+2026-01-11 20:54:30,965 [WARNING] Skipping invalid company name: magic kitchen
+2026-01-11 20:54:30,965 [WARNING] Skipping invalid company name: mom's meals
+2026-01-11 20:54:30,965 [WARNING] Skipping invalid company name: silver cuisine
+2026-01-11 20:54:30,965 [WARNING] Skipping invalid company name: snap kitchen
+2026-01-11 20:54:30,965 [WARNING] Skipping invalid company name: metabolic meals
+2026-01-11 20:54:30,965 [WARNING] Skipping invalid company name: clean eatz
+2026-01-11 20:54:30,965 [WARNING] Skipping invalid company name: fit n fresh
+2026-01-11 20:54:30,965 [WARNING] Skipping invalid company name: clean creations
+2026-01-11 20:54:30,965 [WARNING] Skipping invalid company name: eat clean bro
+2026-01-11 20:54:30,965 [WARNING] Skipping invalid company name: my fit foods
+2026-01-11 20:54:30,965 [WARNING] Skipping invalid company name: prep to your door
+2026-01-11 20:54:30,965 [WARNING] Skipping invalid company name: icon meals
+2026-01-11 20:54:30,965 [WARNING] Skipping invalid company name: fit mens cook
+2026-01-11 20:54:30,965 [WARNING] Skipping invalid company name: muscle meals 2 go
+2026-01-11 20:54:30,965 [WARNING] Skipping invalid company name: eat the 80
+2026-01-11 20:54:30,965 [WARNING] Skipping invalid company name: prep kitchen
+2026-01-11 20:54:30,965 [WARNING] Skipping invalid company name: fitlife foods
+2026-01-11 20:54:30,965 [WARNING] Skipping invalid company name: trifecta nutrition
+2026-01-11 20:54:30,965 [WARNING] Skipping invalid company name: eat clean bro
+2026-01-11 20:54:30,965 [WARNING] Skipping invalid company name: power supply
+2026-01-11 20:54:30,965 [WARNING] Skipping invalid company name: factor meals
+2026-01-11 20:54:30,965 [WARNING] Skipping invalid company name: fresh n lean
+2026-01-11 20:54:30,965 [WARNING] Skipping invalid company name: green chef
+2026-01-11 20:54:30,965 [WARNING] Skipping invalid company name: purple carrot
+2026-01-11 20:54:30,965 [WARNING] Skipping invalid company name: sakara life
+2026-01-11 20:54:30,965 [WARNING] Skipping invalid company name: splendid spoon
+2026-01-11 20:54:30,965 [WARNING] Skipping invalid company name: daily harvest
+2026-01-11 20:54:30,965 [WARNING] Skipping invalid company name: mosaic foods
+2026-01-11 20:54:30,965 [WARNING] Skipping invalid company name: kettlebell kitchen
+2026-01-11 20:54:30,965 [WARNING] Skipping invalid company name: the good kitchen
+2026-01-11 20:54:30,965 [WARNING] Skipping invalid company name: eat clean bro
+2026-01-11 20:54:30,965 [WARNING] Skipping invalid company name: power supply
+2026-01-11 20:54:30,965 [WARNING] Skipping invalid company name: provenance meals
+2026-01-11 20:54:30,965 [WARNING] Skipping invalid company name: eat clean tc
+2026-01-11 20:54:30,965 [WARNING] Skipping invalid company name: clean eatz kitchen
+2026-01-11 20:54:30,965 [WARNING] Skipping invalid company name: amazon fresh
+2026-01-11 20:54:30,965 [WARNING] Skipping invalid company name: whole foods delivery
+2026-01-11 20:54:30,965 [WARNING] Skipping invalid company name: kroger delivery
+2026-01-11 20:54:30,965 [WARNING] Skipping invalid company name: walmart grocery
+2026-01-11 20:54:30,965 [WARNING] Skipping invalid company name: target delivery
+2026-01-11 20:54:30,965 [WARNING] Skipping invalid company name: epos now
+2026-01-11 20:54:30,965 [WARNING] Skipping invalid company name: 3s pos
+2026-01-11 20:54:30,965 [WARNING] Skipping invalid company name: cheddar up
+2026-01-11 20:54:30,965 [WARNING] Skipping invalid company name: square for restaurants
+2026-01-11 20:54:30,965 [WARNING] Skipping invalid company name: toast pos
+2026-01-11 20:54:30,965 [WARNING] Skipping invalid company name: touchbistro pos
+2026-01-11 20:54:30,965 [WARNING] Skipping invalid company name: lightspeed restaurant
+2026-01-11 20:54:30,965 [WARNING] Skipping invalid company name: upserve pos
+2026-01-11 20:54:30,965 [WARNING] Skipping invalid company name: revel systems
+2026-01-11 20:54:30,965 [WARNING] Skipping invalid company name: lavu pos
+2026-01-11 20:54:30,965 [WARNING] Skipping invalid company name: shopkeep pos
+2026-01-11 20:54:30,965 [WARNING] Skipping invalid company name: vend pos
+2026-01-11 20:54:30,965 [WARNING] Skipping invalid company name: epos now pos
+2026-01-11 20:54:30,965 [WARNING] Skipping invalid company name: kounta pos
+2026-01-11 20:54:30,965 [WARNING] Skipping invalid company name: loyverse pos
+2026-01-11 20:54:30,965 [WARNING] Skipping invalid company name: talech pos
+2026-01-11 20:54:30,965 [WARNING] Skipping invalid company name: ehopper pos
+2026-01-11 20:54:30,965 [WARNING] Skipping invalid company name: tillpoint pos
+2026-01-11 20:54:30,965 [WARNING] Skipping invalid company name: 3s pos system
+2026-01-11 20:54:30,965 [WARNING] Skipping invalid company name: 珍爱网
+2026-01-11 20:54:30,965 [WARNING] Skipping invalid company name: 世纪佳缘
+2026-01-11 20:54:30,965 [WARNING] Skipping invalid company name: 百合网
+2026-01-11 20:54:30,965 [WARNING] Skipping invalid company name: 有缘网
+2026-01-11 20:54:30,965 [WARNING] Skipping invalid company name: 我主良缘
+2026-01-11 20:54:30,965 [WARNING] Skipping invalid company name: 中国红娘
+2026-01-11 20:54:30,966 [WARNING] Skipping invalid company name: 嫁我网
+2026-01-11 20:54:30,966 [WARNING] Skipping invalid company name: 缘来客
+2026-01-11 20:54:30,966 [WARNING] Skipping invalid company name: 爱在四季
+2026-01-11 20:54:30,966 [WARNING] Skipping invalid company name: 久久结婚
+2026-01-11 20:54:30,966 [WARNING] Skipping invalid company name: 相约中国
+2026-01-11 20:54:30,966 [WARNING] Skipping invalid company name: 相伴一生
+2026-01-11 20:54:30,966 [WARNING] Skipping invalid company name: 真诚婚恋
+2026-01-11 20:54:30,966 [WARNING] Skipping invalid company name: 阳光婚恋
+2026-01-11 20:54:30,966 [WARNING] Skipping invalid company name: 幸福婚恋
+2026-01-11 20:54:30,966 [WARNING] Skipping invalid company name: 甜蜜婚恋
+2026-01-11 20:54:30,966 [WARNING] Skipping invalid company name: 浪漫婚恋
+2026-01-11 20:54:30,966 [WARNING] Skipping invalid company name: 缘分天空
+2026-01-11 20:54:30,966 [WARNING] Skipping invalid company name: 缘分到
+2026-01-11 20:54:30,966 [WARNING] Skipping invalid company name: 月老网
+2026-01-11 20:54:30,966 [WARNING] Skipping invalid company name: 红娘网
+2026-01-11 20:54:30,966 [WARNING] Skipping invalid company name: 丘比特
+2026-01-11 20:54:30,966 [WARNING] Skipping invalid company name: 鹊桥会
+2026-01-11 20:54:30,966 [WARNING] Skipping invalid company name: 花田网
+2026-01-11 20:54:30,966 [WARNING] Skipping invalid company name: 伊对
+2026-01-11 20:54:30,966 [WARNING] Skipping invalid company name: 他趣
+2026-01-11 20:54:30,966 [WARNING] Skipping invalid company name: 积目
+2026-01-11 20:54:30,966 [WARNING] Skipping invalid company name: 陌陌
+2026-01-11 20:54:30,966 [WARNING] Skipping invalid company name: 探探
+2026-01-11 20:54:30,966 [WARNING] Skipping invalid company name: 比心
+2026-01-11 20:54:30,966 [WARNING] Skipping invalid company name: google meet
+2026-01-11 20:54:30,966 [WARNING] Skipping invalid company name: goto meeting
+2026-01-11 20:54:30,966 [WARNING] Skipping invalid company name: riverside.fm
+2026-01-11 20:54:30,966 [WARNING] Skipping invalid company name: spotify for podcasters
+2026-01-11 20:54:30,966 [WARNING] Skipping invalid company name: rss.com
+2026-01-11 20:54:30,966 [WARNING] Skipping invalid company name: magellan ai
+2026-01-11 20:54:30,966 [WARNING] Skipping invalid company name: triton digital
+2026-01-11 20:54:30,966 [WARNING] Skipping invalid company name: megaphone spotify
+2026-01-11 20:54:30,966 [WARNING] Skipping invalid company name: acast network
+2026-01-11 20:54:30,966 [WARNING] Skipping invalid company name: spreaker network
+2026-01-11 20:54:30,966 [WARNING] Skipping invalid company name: podbean network
+2026-01-11 20:54:30,966 [WARNING] Skipping invalid company name: anchor spotify
+2026-01-11 20:54:30,966 [WARNING] Skipping invalid company name: spotify studios
+2026-01-11 20:54:30,966 [WARNING] Skipping invalid company name: the ringer
+2026-01-11 20:54:30,966 [WARNING] Skipping invalid company name: higher ground
+2026-01-11 20:54:30,966 [WARNING] Skipping invalid company name: cutler media
+2026-01-11 20:54:30,966 [WARNING] Skipping invalid company name: exactly right
+2026-01-11 20:54:30,966 [WARNING] Skipping invalid company name: all things comedy
+2026-01-11 20:54:30,966 [WARNING] Skipping invalid company name: forever dog
+2026-01-11 20:54:30,966 [WARNING] Skipping invalid company name: kast media
+2026-01-11 20:54:30,966 [WARNING] Skipping invalid company name: grim & mild
+2026-01-11 20:54:30,966 [WARNING] Skipping invalid company name: futuro studios
+2026-01-11 20:54:30,966 [WARNING] Skipping invalid company name: pineapple street
+2026-01-11 20:54:30,966 [WARNING] Skipping invalid company name: pushkin industries
+2026-01-11 20:54:30,966 [WARNING] Skipping invalid company name: crooked media
+2026-01-11 20:54:30,966 [WARNING] Skipping invalid company name: campside media
+2026-01-11 20:54:30,966 [WARNING] Skipping invalid company name: the atlantic
+2026-01-11 20:54:30,966 [WARNING] Skipping invalid company name: new york times audio
+2026-01-11 20:54:30,966 [WARNING] Skipping invalid company name: washington post audio
+2026-01-11 20:54:30,966 [WARNING] Skipping invalid company name: wsj podcasts
+2026-01-11 20:54:30,966 [WARNING] Skipping invalid company name: npr podcasts
+2026-01-11 20:54:30,966 [WARNING] Skipping invalid company name: bbc podcasts
+2026-01-11 20:54:30,966 [WARNING] Skipping invalid company name: cbc podcasts
+2026-01-11 20:54:30,966 [WARNING] Skipping invalid company name: abc audio
+2026-01-11 20:54:30,966 [WARNING] Skipping invalid company name: pbs news hour
+2026-01-11 20:54:30,966 [WARNING] Skipping invalid company name: disney+
+2026-01-11 20:54:30,966 [WARNING] Skipping invalid company name: hbo max
+2026-01-11 20:54:30,966 [WARNING] Skipping invalid company name: amazon prime video
+2026-01-11 20:54:30,966 [WARNING] Skipping invalid company name: paramount+
+2026-01-11 20:54:30,966 [WARNING] Skipping invalid company name: apple tv+
+2026-01-11 20:54:30,966 [WARNING] Skipping invalid company name: youtube premium
+2026-01-11 20:54:30,966 [WARNING] Skipping invalid company name: youtube tv
+2026-01-11 20:54:30,966 [WARNING] Skipping invalid company name: sling tv
+2026-01-11 20:54:30,966 [WARNING] Skipping invalid company name: fubo tv
+2026-01-11 20:54:30,966 [WARNING] Skipping invalid company name: frndly tv
+2026-01-11 20:54:30,966 [WARNING] Skipping invalid company name: directv stream
+2026-01-11 20:54:30,966 [WARNING] Skipping invalid company name: spectrum tv
+2026-01-11 20:54:30,966 [WARNING] Skipping invalid company name: xfinity stream
+2026-01-11 20:54:30,966 [WARNING] Skipping invalid company name: cox contour
+2026-01-11 20:54:30,966 [WARNING] Skipping invalid company name: optimum tv
+2026-01-11 20:54:30,966 [WARNING] Skipping invalid company name: verizon fios
+2026-01-11 20:54:30,966 [WARNING] Skipping invalid company name: at&t tv
+2026-01-11 20:54:30,966 [WARNING] Skipping invalid company name: dish network
+2026-01-11 20:54:30,966 [WARNING] Skipping invalid company name: hulu live tv
+2026-01-11 20:54:30,967 [WARNING] Skipping invalid company name: youtube tv
+2026-01-11 20:54:30,967 [WARNING] Skipping invalid company name: sling orange
+2026-01-11 20:54:30,967 [WARNING] Skipping invalid company name: sling blue
+2026-01-11 20:54:30,967 [WARNING] Skipping invalid company name: philo tv
+2026-01-11 20:54:30,967 [WARNING] Skipping invalid company name: vidgo tv
+2026-01-11 20:54:30,967 [WARNING] Skipping invalid company name: pluto tv
+2026-01-11 20:54:30,967 [WARNING] Skipping invalid company name: movies anywhere
+2026-01-11 20:54:30,967 [WARNING] Skipping invalid company name: rooster teeth
+2026-01-11 20:54:30,967 [WARNING] Skipping invalid company name: anime network
+2026-01-11 20:54:30,967 [WARNING] Skipping invalid company name: midnight pulp
+2026-01-11 20:54:30,967 [WARNING] Skipping invalid company name: sundance now
+2026-01-11 20:54:30,967 [WARNING] Skipping invalid company name: amc+
+2026-01-11 20:54:30,967 [WARNING] Skipping invalid company name: acorn tv
+2026-01-11 20:54:30,967 [WARNING] Skipping invalid company name: mhz choice
+2026-01-11 20:54:30,967 [WARNING] Skipping invalid company name: walter presents
+2026-01-11 20:54:30,967 [WARNING] Skipping invalid company name: globo play
+2026-01-11 20:54:30,967 [WARNING] Skipping invalid company name: telecine play
+2026-01-11 20:54:30,967 [WARNING] Skipping invalid company name: hbo go
+2026-01-11 20:54:30,967 [WARNING] Skipping invalid company name: hbo now
+2026-01-11 20:54:30,967 [WARNING] Skipping invalid company name: mgm+
+2026-01-11 20:54:30,967 [WARNING] Skipping invalid company name: apple music
+2026-01-11 20:54:30,967 [WARNING] Skipping invalid company name: amazon music
+2026-01-11 20:54:30,967 [WARNING] Skipping invalid company name: youtube music
+2026-01-11 20:54:30,967 [WARNING] Skipping invalid company name: libro.fm
+2026-01-11 20:54:30,967 [WARNING] Skipping invalid company name: audiobooks.com
+2026-01-11 20:54:30,967 [WARNING] Skipping invalid company name: kindle unlimited
+2026-01-11 20:54:30,967 [WARNING] Skipping invalid company name: kobo plus
+2026-01-11 20:54:30,967 [WARNING] Skipping invalid company name: play.ht
+2026-01-11 20:54:30,967 [WARNING] Skipping invalid company name: natural reader
+2026-01-11 20:54:30,967 [WARNING] Skipping invalid company name: voice dream
+2026-01-11 20:54:30,967 [WARNING] Skipping invalid company name: read aloud
+2026-01-11 20:54:30,967 [WARNING] Skipping invalid company name: talk free
+2026-01-11 20:54:30,967 [WARNING] Skipping invalid company name: narrator's voice
+2026-01-11 20:54:30,967 [WARNING] Skipping invalid company name: text to speech
+2026-01-11 20:54:30,967 [WARNING] Skipping invalid company name: natural readers
+2026-01-11 20:54:30,967 [WARNING] Skipping invalid company name: ultra hal
+2026-01-11 20:54:30,967 [WARNING] Skipping invalid company name: text speaker
+2026-01-11 20:54:30,967 [WARNING] Skipping invalid company name: reading bar
+2026-01-11 20:54:30,967 [WARNING] Skipping invalid company name: read&write gold
+2026-01-11 20:54:30,967 [WARNING] Skipping invalid company name: wynn wizard
+2026-01-11 20:54:30,967 [WARNING] Skipping invalid company name: dolphin easyreader
+2026-01-11 20:54:30,967 [WARNING] Skipping invalid company name: spotify for podcasters
+2026-01-11 20:54:30,967 [WARNING] Skipping invalid company name: rss.com
+2026-01-11 20:54:30,967 [WARNING] Skipping invalid company name: listen notes
+2026-01-11 20:54:30,967 [WARNING] Skipping invalid company name: pocket casts
+2026-01-11 20:54:30,967 [WARNING] Skipping invalid company name: player fm
+2026-01-11 20:54:30,967 [WARNING] Skipping invalid company name: podcast addict
+2026-01-11 20:54:30,967 [WARNING] Skipping invalid company name: podcast republic
+2026-01-11 20:54:30,967 [WARNING] Skipping invalid company name: podbean app
+2026-01-11 20:54:30,967 [WARNING] Skipping invalid company name: google podcasts
+2026-01-11 20:54:30,967 [WARNING] Skipping invalid company name: apple podcasts
+2026-01-11 20:54:30,967 [WARNING] Skipping invalid company name: podcast guru
+2026-01-11 20:54:30,967 [WARNING] Skipping invalid company name: podcast go
+2026-01-11 20:54:30,967 [WARNING] Skipping invalid company name: acast app
+2026-01-11 20:54:30,967 [WARNING] Skipping invalid company name: spreaker studio
+2026-01-11 20:54:30,967 [WARNING] Skipping invalid company name: listen notes
+2026-01-11 20:54:30,967 [WARNING] Skipping invalid company name: blubrry stats
+2026-01-11 20:54:30,967 [WARNING] Skipping invalid company name: podbean stats
+2026-01-11 20:54:30,967 [WARNING] Skipping invalid company name: buzzsprout stats
+2026-01-11 20:54:30,967 [WARNING] Skipping invalid company name: transistor stats
+2026-01-11 20:54:30,967 [WARNING] Skipping invalid company name: activision blizzard
+2026-01-11 20:54:30,967 [WARNING] Skipping invalid company name: electronic arts
+2026-01-11 20:54:30,967 [WARNING] Skipping invalid company name: ea sports
+2026-01-11 20:54:30,967 [WARNING] Skipping invalid company name: ea dice
+2026-01-11 20:54:30,967 [WARNING] Skipping invalid company name: rockstar games
+2026-01-11 20:54:30,967 [WARNING] Skipping invalid company name: take-two interactive
+2026-01-11 20:54:30,967 [WARNING] Skipping invalid company name: 2k games
+2026-01-11 20:54:30,967 [WARNING] Skipping invalid company name: private division
+2026-01-11 20:54:30,967 [WARNING] Skipping invalid company name: rockstar north
+2026-01-11 20:54:30,967 [WARNING] Skipping invalid company name: rockstar san diego
+2026-01-11 20:54:30,967 [WARNING] Skipping invalid company name: rockstar london
+2026-01-11 20:54:30,967 [WARNING] Skipping invalid company name: rockstar leeds
+2026-01-11 20:54:30,967 [WARNING] Skipping invalid company name: rockstar new england
+2026-01-11 20:54:30,967 [WARNING] Skipping invalid company name: rockstar toronto
+2026-01-11 20:54:30,967 [WARNING] Skipping invalid company name: rockstar lincoln
+2026-01-11 20:54:30,967 [WARNING] Skipping invalid company name: rockstar india
+2026-01-11 20:54:30,968 [WARNING] Skipping invalid company name: valve corporation
+2026-01-11 20:54:30,968 [WARNING] Skipping invalid company name: half life
+2026-01-11 20:54:30,968 [WARNING] Skipping invalid company name: team fortress
+2026-01-11 20:54:30,968 [WARNING] Skipping invalid company name: riot games
+2026-01-11 20:54:30,968 [WARNING] Skipping invalid company name: league of legends
+2026-01-11 20:54:30,968 [WARNING] Skipping invalid company name: legends of runeterra
+2026-01-11 20:54:30,968 [WARNING] Skipping invalid company name: teamfight tactics
+2026-01-11 20:54:30,968 [WARNING] Skipping invalid company name: epic games
+2026-01-11 20:54:30,968 [WARNING] Skipping invalid company name: unreal engine
+2026-01-11 20:54:30,968 [WARNING] Skipping invalid company name: unreal tournament
+2026-01-11 20:54:30,968 [WARNING] Skipping invalid company name: gears of war
+2026-01-11 20:54:30,968 [WARNING] Skipping invalid company name: infinity blade
+2026-01-11 20:54:30,968 [WARNING] Skipping invalid company name: bandai namco
+2026-01-11 20:54:30,968 [WARNING] Skipping invalid company name: dark souls
+2026-01-11 20:54:30,968 [WARNING] Skipping invalid company name: elden ring
+2026-01-11 20:54:30,968 [WARNING] Skipping invalid company name: dragon ball
+2026-01-11 20:54:30,968 [WARNING] Skipping invalid company name: one piece
+2026-01-11 20:54:30,968 [WARNING] Skipping invalid company name: from software
+2026-01-11 20:54:30,968 [WARNING] Skipping invalid company name: street fighter
+2026-01-11 20:54:30,968 [WARNING] Skipping invalid company name: resident evil
+2026-01-11 20:54:30,968 [WARNING] Skipping invalid company name: monster hunter
+2026-01-11 20:54:30,968 [WARNING] Skipping invalid company name: devil may cry
+2026-01-11 20:54:30,968 [WARNING] Skipping invalid company name: mega man
+2026-01-11 20:54:30,968 [WARNING] Skipping invalid company name: ace attorney
+2026-01-11 20:54:30,968 [WARNING] Skipping invalid company name: metal gear solid
+2026-01-11 20:54:30,968 [WARNING] Skipping invalid company name: silent hill
+2026-01-11 20:54:30,968 [WARNING] Skipping invalid company name: pro evolution soccer
+2026-01-11 20:54:30,968 [WARNING] Skipping invalid company name: square enix
+2026-01-11 20:54:30,968 [WARNING] Skipping invalid company name: final fantasy
+2026-01-11 20:54:30,968 [WARNING] Skipping invalid company name: kingdom hearts
+2026-01-11 20:54:30,968 [WARNING] Skipping invalid company name: dragon quest
+2026-01-11 20:54:30,968 [WARNING] Skipping invalid company name: tomb raider
+2026-01-11 20:54:30,968 [WARNING] Skipping invalid company name: deus ex
+2026-01-11 20:54:30,968 [WARNING] Skipping invalid company name: just cause
+2026-01-11 20:54:30,968 [WARNING] Skipping invalid company name: total war
+2026-01-11 20:54:30,968 [WARNING] Skipping invalid company name: phantasy star
+2026-01-11 20:54:30,968 [WARNING] Skipping invalid company name: 13 sentinels
+2026-01-11 20:54:30,968 [WARNING] Skipping invalid company name: odin sphere
+2026-01-11 20:54:30,968 [WARNING] Skipping invalid company name: dragon's crown
+2026-01-11 20:54:30,968 [WARNING] Skipping invalid company name: nippon ichi
+2026-01-11 20:54:30,968 [WARNING] Skipping invalid company name: legend of heroes
+2026-01-11 20:54:30,968 [WARNING] Skipping invalid company name: koei tecmo
+2026-01-11 20:54:30,968 [WARNING] Skipping invalid company name: dynasty warriors
+2026-01-11 20:54:30,968 [WARNING] Skipping invalid company name: dead or alive
+2026-01-11 20:54:30,968 [WARNING] Skipping invalid company name: fatal frame
+2026-01-11 20:54:30,968 [WARNING] Skipping invalid company name: fire emblem
+2026-01-11 20:54:30,968 [WARNING] Skipping invalid company name: animal crossing
+2026-01-11 20:54:30,968 [WARNING] Skipping invalid company name: smash bros
+2026-01-11 20:54:30,968 [WARNING] Skipping invalid company name: donkey kong
+2026-01-11 20:54:30,968 [WARNING] Skipping invalid company name: star fox
+2026-01-11 20:54:30,968 [WARNING] Skipping invalid company name: fire emblem
+2026-01-11 20:54:30,968 [WARNING] Skipping invalid company name: sony interactive
+2026-01-11 20:54:30,968 [WARNING] Skipping invalid company name: playstation studios
+2026-01-11 20:54:30,968 [WARNING] Skipping invalid company name: naughty dog
+2026-01-11 20:54:30,968 [WARNING] Skipping invalid company name: sucker punch
+2026-01-11 20:54:30,968 [WARNING] Skipping invalid company name: guerrilla games
+2026-01-11 20:54:30,968 [WARNING] Skipping invalid company name: santa monica
+2026-01-11 20:54:30,968 [WARNING] Skipping invalid company name: polyphony digital
+2026-01-11 20:54:30,968 [WARNING] Skipping invalid company name: team asobi
+2026-01-11 20:54:30,968 [WARNING] Skipping invalid company name: media molecule
+2026-01-11 20:54:30,968 [WARNING] Skipping invalid company name: bend studio
+2026-01-11 20:54:30,968 [WARNING] Skipping invalid company name: microsoft gaming
+2026-01-11 20:54:30,968 [WARNING] Skipping invalid company name: xbox game studios
+2026-01-11 20:54:30,968 [WARNING] Skipping invalid company name: 343 industries
+2026-01-11 20:54:30,968 [WARNING] Skipping invalid company name: turn 10
+2026-01-11 20:54:30,968 [WARNING] Skipping invalid company name: playground games
+2026-01-11 20:54:30,968 [WARNING] Skipping invalid company name: double fine
+2026-01-11 20:54:30,968 [WARNING] Skipping invalid company name: ninja theory
+2026-01-11 20:54:30,968 [WARNING] Skipping invalid company name: undead labs
+2026-01-11 20:54:30,968 [WARNING] Skipping invalid company name: id software
+2026-01-11 20:54:30,968 [WARNING] Skipping invalid company name: tango gameworks
+2026-01-11 20:54:30,968 [WARNING] Skipping invalid company name: alpha dog
+2026-01-11 20:54:30,968 [WARNING] Skipping invalid company name: supergiant games
+2026-01-11 20:54:30,968 [WARNING] Skipping invalid company name: motion twin
+2026-01-11 20:54:30,968 [WARNING] Skipping invalid company name: dead cells
+2026-01-11 20:54:30,968 [WARNING] Skipping invalid company name: team cherry
+2026-01-11 20:54:30,968 [WARNING] Skipping invalid company name: hollow knight
+2026-01-11 20:54:30,968 [WARNING] Skipping invalid company name: studio mdhr
+2026-01-11 20:54:30,969 [WARNING] Skipping invalid company name: the delicious last course
+2026-01-11 20:54:30,969 [WARNING] Skipping invalid company name: coffee stain
+2026-01-11 20:54:30,969 [WARNING] Skipping invalid company name: goat simulator
+2026-01-11 20:54:30,969 [WARNING] Skipping invalid company name: devolver digital
+2026-01-11 20:54:30,969 [WARNING] Skipping invalid company name: hotline miami
+2026-01-11 20:54:30,969 [WARNING] Skipping invalid company name: katana zero
+2026-01-11 20:54:30,969 [WARNING] Skipping invalid company name: cult of the lamb
+2026-01-11 20:54:30,969 [WARNING] Skipping invalid company name: annapurna interactive
+2026-01-11 20:54:30,969 [WARNING] Skipping invalid company name: outer wilds
+2026-01-11 20:54:30,969 [WARNING] Skipping invalid company name: what remains of edith finch
+2026-01-11 20:54:30,969 [WARNING] Skipping invalid company name: neon white
+2026-01-11 20:54:30,969 [WARNING] Skipping invalid company name: kena bridge of spirits
+2026-01-11 20:54:30,969 [WARNING] Skipping invalid company name: giant squid
+2026-01-11 20:54:30,969 [WARNING] Skipping invalid company name: the pathless
+2026-01-11 20:54:30,969 [WARNING] Skipping invalid company name: raw fury
+2026-01-11 20:54:30,969 [WARNING] Skipping invalid company name: night school
+2026-01-11 20:54:30,969 [WARNING] Skipping invalid company name: telltale games
+2026-01-11 20:54:30,969 [WARNING] Skipping invalid company name: the walking dead
+2026-01-11 20:54:30,969 [WARNING] Skipping invalid company name: the wolf among us
+2026-01-11 20:54:30,969 [WARNING] Skipping invalid company name: borderlands tales
+2026-01-11 20:54:30,969 [WARNING] Skipping invalid company name: new tales from borderlands
+2026-01-11 20:54:30,969 [WARNING] Skipping invalid company name: versus evil
+2026-01-11 20:54:30,969 [WARNING] Skipping invalid company name: banner saga
+2026-01-11 20:54:30,969 [WARNING] Skipping invalid company name: pillars of eternity
+2026-01-11 20:54:30,969 [WARNING] Skipping invalid company name: outer worlds
+2026-01-11 20:54:30,969 [WARNING] Skipping invalid company name: my time at portia
+2026-01-11 20:54:30,969 [WARNING] Skipping invalid company name: narita boy
+2026-01-11 20:54:30,969 [WARNING] Skipping invalid company name: klei entertainment
+2026-01-11 20:54:30,969 [WARNING] Skipping invalid company name: don't starve
+2026-01-11 20:54:30,969 [WARNING] Skipping invalid company name: oxygen not included
+2026-01-11 20:54:30,969 [WARNING] Skipping invalid company name: mark of the ninja
+2026-01-11 20:54:30,969 [WARNING] Skipping invalid company name: invisible inc
+2026-01-11 20:54:30,969 [WARNING] Skipping invalid company name: concerned ape
+2026-01-11 20:54:30,969 [WARNING] Skipping invalid company name: stardew valley
+2026-01-11 20:54:30,969 [WARNING] Skipping invalid company name: studio wildcard
+2026-01-11 20:54:30,969 [WARNING] Skipping invalid company name: ark survival evolved
+2026-01-11 20:54:30,969 [WARNING] Skipping invalid company name: ark 2
+2026-01-11 20:54:30,969 [WARNING] Skipping invalid company name: coffee stain studios
+2026-01-11 20:54:30,969 [WARNING] Skipping invalid company name: goat simulator
+2026-01-11 20:54:30,969 [WARNING] Skipping invalid company name: iron gate
+2026-01-11 20:54:30,969 [WARNING] Skipping invalid company name: deep rock galactic
+2026-01-11 20:54:30,969 [WARNING] Skipping invalid company name: ghost ship games
+2026-01-11 20:54:30,969 [WARNING] Skipping invalid company name: kena bridge of spirits
+2026-01-11 20:54:30,969 [WARNING] Skipping invalid company name: kojima productions
+2026-01-11 20:54:30,969 [WARNING] Skipping invalid company name: death stranding
+2026-01-11 20:54:30,969 [WARNING] Skipping invalid company name: quantic dream
+2026-01-11 20:54:30,969 [WARNING] Skipping invalid company name: detroit become human
+2026-01-11 20:54:30,969 [WARNING] Skipping invalid company name: heavy rain
+2026-01-11 20:54:30,969 [WARNING] Skipping invalid company name: beyond two souls
+2026-01-11 20:54:30,969 [WARNING] Skipping invalid company name: remedy entertainment
+2026-01-11 20:54:30,969 [WARNING] Skipping invalid company name: alan wake
+2026-01-11 20:54:30,969 [WARNING] Skipping invalid company name: quantum break
+2026-01-11 20:54:30,969 [WARNING] Skipping invalid company name: max payne
+2026-01-11 20:54:30,969 [WARNING] Skipping invalid company name: epic games store
+2026-01-11 20:54:30,969 [WARNING] Skipping invalid company name: cd projekt
+2026-01-11 20:54:30,969 [WARNING] Skipping invalid company name: humble bundle
+2026-01-11 20:54:30,969 [WARNING] Skipping invalid company name: itch.io
+2026-01-11 20:54:30,969 [WARNING] Skipping invalid company name: game jolt
+2026-01-11 20:54:30,969 [WARNING] Skipping invalid company name: chrono.gg
+2026-01-11 20:54:30,969 [WARNING] Skipping invalid company name: instant gaming
+2026-01-11 20:54:30,969 [WARNING] Skipping invalid company name: gg.deals
+2026-01-11 20:54:30,969 [WARNING] Skipping invalid company name: slickdeals gaming
+2026-01-11 20:54:30,969 [WARNING] Skipping invalid company name: reddit gamedeals
+2026-01-11 20:54:30,969 [WARNING] Skipping invalid company name: discord nitro
+2026-01-11 20:54:30,969 [WARNING] Skipping invalid company name: ea play
+2026-01-11 20:54:30,969 [WARNING] Skipping invalid company name: xbox game pass
+2026-01-11 20:54:30,969 [WARNING] Skipping invalid company name: playstation plus
+2026-01-11 20:54:30,969 [WARNING] Skipping invalid company name: nintendo online
+2026-01-11 20:54:30,969 [WARNING] Skipping invalid company name: nvidia geforce now
+2026-01-11 20:54:30,969 [WARNING] Skipping invalid company name: google stadia
+2026-01-11 20:54:30,969 [WARNING] Skipping invalid company name: amazon luna
+2026-01-11 20:54:30,969 [WARNING] Skipping invalid company name: steam link
+2026-01-11 20:54:30,969 [WARNING] Skipping invalid company name: xbox cloud
+2026-01-11 20:54:30,969 [WARNING] Skipping invalid company name: playstation now
+2026-01-11 20:54:30,969 [WARNING] Skipping invalid company name: maximum settings
+2026-01-11 20:54:30,969 [WARNING] Skipping invalid company name: team liquid
+2026-01-11 20:54:30,969 [WARNING] Skipping invalid company name: faze clan
+2026-01-11 20:54:30,969 [WARNING] Skipping invalid company name: 100 thieves
+2026-01-11 20:54:30,970 [WARNING] Skipping invalid company name: g2 esports
+2026-01-11 20:54:30,970 [WARNING] Skipping invalid company name: natus vincere
+2026-01-11 20:54:30,970 [WARNING] Skipping invalid company name: team vitality
+2026-01-11 20:54:30,970 [WARNING] Skipping invalid company name: evil geniuses
+2026-01-11 20:54:30,970 [WARNING] Skipping invalid company name: team secret
+2026-01-11 20:54:30,970 [WARNING] Skipping invalid company name: psg esports
+2026-01-11 20:54:30,970 [WARNING] Skipping invalid company name: gen.g
+2026-01-11 20:54:30,970 [WARNING] Skipping invalid company name: vici gaming
+2026-01-11 20:54:30,970 [WARNING] Skipping invalid company name: psg.lgd
+2026-01-11 20:54:30,970 [WARNING] Skipping invalid company name: virtus.pro
+2026-01-11 20:54:30,970 [WARNING] Skipping invalid company name: team spirit
+2026-01-11 20:54:30,970 [WARNING] Skipping invalid company name: liquid dota
+2026-01-11 20:54:30,970 [WARNING] Skipping invalid company name: eg dota
+2026-01-11 20:54:30,970 [WARNING] Skipping invalid company name: secret dota
+2026-01-11 20:54:30,970 [WARNING] Skipping invalid company name: gaimin gladiators
+2026-01-11 20:54:30,970 [WARNING] Skipping invalid company name: shopify rebellion
+2026-01-11 20:54:30,970 [WARNING] Skipping invalid company name: talon esports
+2026-01-11 20:54:30,970 [WARNING] Skipping invalid company name: thunder awaken
+2026-01-11 20:54:30,970 [WARNING] Skipping invalid company name: red canids
+2026-01-11 20:54:30,970 [WARNING] Skipping invalid company name: vivo keyd
+2026-01-11 20:54:30,970 [WARNING] Skipping invalid company name: vitality cs
+2026-01-11 20:54:30,970 [WARNING] Skipping invalid company name: navi cs
+2026-01-11 20:54:30,970 [WARNING] Skipping invalid company name: faze cs
+2026-01-11 20:54:30,970 [WARNING] Skipping invalid company name: furia cs
+2026-01-11 20:54:30,970 [WARNING] Skipping invalid company name: imperial cs
+2026-01-11 20:54:30,970 [WARNING] Skipping invalid company name: liquid cs
+2026-01-11 20:54:30,970 [WARNING] Skipping invalid company name: c9 cs
+2026-01-11 20:54:30,970 [WARNING] Skipping invalid company name: eg cs
+2026-01-11 20:54:30,970 [WARNING] Skipping invalid company name: col cs
+2026-01-11 20:54:30,970 [WARNING] Skipping invalid company name: meta quest
+2026-01-11 20:54:30,970 [WARNING] Skipping invalid company name: playstation vr
+2026-01-11 20:54:30,970 [WARNING] Skipping invalid company name: htc vive
+2026-01-11 20:54:30,970 [WARNING] Skipping invalid company name: valve index
+2026-01-11 20:54:30,970 [WARNING] Skipping invalid company name: windows mixed reality
+2026-01-11 20:54:30,970 [WARNING] Skipping invalid company name: hp reverb
+2026-01-11 20:54:30,970 [WARNING] Skipping invalid company name: samsung odyssey
+2026-01-11 20:54:30,970 [WARNING] Skipping invalid company name: bigscreen beyond
+2026-01-11 20:54:30,970 [WARNING] Skipping invalid company name: apple vision pro
+2026-01-11 20:54:30,970 [WARNING] Skipping invalid company name: magic leap
+2026-01-11 20:54:30,970 [WARNING] Skipping invalid company name: microsoft hololens
+2026-01-11 20:54:30,970 [WARNING] Skipping invalid company name: mad gaze
+2026-01-11 20:54:30,970 [WARNING] Skipping invalid company name: epson moverio
+2026-01-11 20:54:30,970 [WARNING] Skipping invalid company name: oppo air glass
+2026-01-11 20:54:30,970 [WARNING] Skipping invalid company name: tcl nxtwear
+2026-01-11 20:54:30,970 [WARNING] Skipping invalid company name: xiaomi wireless ar
+2026-01-11 20:54:30,970 [WARNING] Skipping invalid company name: lenovo glasses
+2026-01-11 20:54:30,970 [WARNING] Skipping invalid company name: amazon echo frames
+2026-01-11 20:54:30,970 [WARNING] Skipping invalid company name: bose frames
+2026-01-11 20:54:30,970 [WARNING] Skipping invalid company name: razer anzu
+2026-01-11 20:54:30,970 [WARNING] Skipping invalid company name: rokid max
+2026-01-11 20:54:30,970 [WARNING] Skipping invalid company name: nreal air
+2026-01-11 20:54:30,970 [WARNING] Skipping invalid company name: mad gaze glow
+2026-01-11 20:54:30,970 [WARNING] Skipping invalid company name: vuzix blade
+2026-01-11 20:54:30,970 [WARNING] Skipping invalid company name: epson moverio bt
+2026-01-11 20:54:30,970 [WARNING] Skipping invalid company name: north focals
+2026-01-11 20:54:30,970 [WARNING] Skipping invalid company name: google glass
+2026-01-11 20:54:30,970 [WARNING] Skipping invalid company name: intel vaunt
+2026-01-11 20:54:30,970 [WARNING] Skipping invalid company name: meta ray ban
+2026-01-11 20:54:30,970 [WARNING] Skipping invalid company name: snap spectacles
+2026-01-11 20:54:30,970 [WARNING] Skipping invalid company name: texas instruments
+2026-01-11 20:54:30,970 [WARNING] Skipping invalid company name: analog devices
+2026-01-11 20:54:30,970 [WARNING] Skipping invalid company name: on semiconductor
+2026-01-11 20:54:30,970 [WARNING] Skipping invalid company name: western digital
+2026-01-11 20:54:30,970 [WARNING] Skipping invalid company name: sk hynix
+2026-01-11 20:54:30,970 [WARNING] Skipping invalid company name: silicon power
+2026-01-11 20:54:30,970 [WARNING] Skipping invalid company name: samsung memory
+2026-01-11 20:54:30,970 [WARNING] Skipping invalid company name: micron memory
+2026-01-11 20:54:30,970 [WARNING] Skipping invalid company name: hp memory
+2026-01-11 20:54:30,970 [WARNING] Skipping invalid company name: dell memory
+2026-01-11 20:54:30,970 [WARNING] Skipping invalid company name: lenovo memory
+2026-01-11 20:54:30,970 [WARNING] Skipping invalid company name: toshiba memory
+2026-01-11 20:54:30,970 [WARNING] Skipping invalid company name: lam research
+2026-01-11 20:54:30,971 [WARNING] Skipping invalid company name: applied materials
+2026-01-11 20:54:30,971 [WARNING] Skipping invalid company name: screen holdings
+2026-01-11 20:54:30,971 [WARNING] Skipping invalid company name: tokyo electron
+2026-01-11 20:54:30,971 [WARNING] Skipping invalid company name: kokusai electric
+2026-01-11 20:54:30,971 [WARNING] Skipping invalid company name: asm international
+2026-01-11 20:54:30,971 [WARNING] Skipping invalid company name: sk siltron
+2026-01-11 20:54:30,971 [WARNING] Skipping invalid company name: rs technologies
+2026-01-11 20:54:30,971 [WARNING] Skipping invalid company name: wafer works
+2026-01-11 20:54:30,971 [WARNING] Skipping invalid company name: tianjin zhonghuan
+2026-01-11 20:54:30,971 [WARNING] Skipping invalid company name: nanjing guosheng
+2026-01-11 20:54:30,971 [WARNING] Skipping invalid company name: luoyang monocrystalline
+2026-01-11 20:54:30,971 [WARNING] Skipping invalid company name: wafer semiconductor
+2026-01-11 20:54:30,971 [WARNING] Skipping invalid company name: jinko solar wafers
+2026-01-11 20:54:30,971 [WARNING] Skipping invalid company name: longi wafers
+2026-01-11 20:54:30,971 [WARNING] Skipping invalid company name: tcl zhonghuan
+2026-01-11 20:54:30,971 [WARNING] Skipping invalid company name: canadian solar wafers
+2026-01-11 20:54:30,971 [WARNING] Skipping invalid company name: longi solar
+2026-01-11 20:54:30,971 [WARNING] Skipping invalid company name: trina solar
+2026-01-11 20:54:30,971 [WARNING] Skipping invalid company name: ja solar
+2026-01-11 20:54:30,971 [WARNING] Skipping invalid company name: canadian solar
+2026-01-11 20:54:30,971 [WARNING] Skipping invalid company name: hanwha qcells
+2026-01-11 20:54:30,971 [WARNING] Skipping invalid company name: risen energy
+2026-01-11 20:54:30,971 [WARNING] Skipping invalid company name: first solar
+2026-01-11 20:54:30,971 [WARNING] Skipping invalid company name: sharp solar
+2026-01-11 20:54:30,971 [WARNING] Skipping invalid company name: kyocera solar
+2026-01-11 20:54:30,971 [WARNING] Skipping invalid company name: panasonic solar
+2026-01-11 20:54:30,971 [WARNING] Skipping invalid company name: lg solar
+2026-01-11 20:54:30,971 [WARNING] Skipping invalid company name: rec solar
+2026-01-11 20:54:30,971 [WARNING] Skipping invalid company name: vivint solar
+2026-01-11 20:54:30,971 [WARNING] Skipping invalid company name: tesla solar
+2026-01-11 20:54:30,971 [WARNING] Skipping invalid company name: lg energy solution
+2026-01-11 20:54:30,971 [WARNING] Skipping invalid company name: samsung display
+2026-01-11 20:54:30,971 [WARNING] Skipping invalid company name: lg display
+2026-01-11 20:54:30,971 [WARNING] Skipping invalid company name: japan display
+2026-01-11 20:54:30,971 [WARNING] Skipping invalid company name: tianma micro
+2026-01-11 20:54:30,971 [WARNING] Skipping invalid company name: cec panda
+2026-01-11 20:54:30,971 [WARNING] Skipping invalid company name: jade bird display
+2026-01-11 20:54:30,971 [WARNING] Skipping invalid company name: sony semiconductor
+2026-01-11 20:54:30,971 [WARNING] Skipping invalid company name: sony display
+2026-01-11 20:54:30,971 [WARNING] Skipping invalid company name: epson displays
+2026-01-11 20:54:30,971 [WARNING] Skipping invalid company name: panasonic displays
+2026-01-11 20:54:30,971 [WARNING] Skipping invalid company name: nec displays
+2026-01-11 20:54:30,971 [WARNING] Skipping invalid company name: hitachi displays
+2026-01-11 20:54:30,971 [WARNING] Skipping invalid company name: toshiba displays
+2026-01-11 20:54:30,971 [WARNING] Skipping invalid company name: fujitsu displays
+2026-01-11 20:54:30,971 [WARNING] Skipping invalid company name: acer displays
+2026-01-11 20:54:30,971 [WARNING] Skipping invalid company name: asus displays
+2026-01-11 20:54:30,971 [WARNING] Skipping invalid company name: dell displays
+2026-01-11 20:54:30,971 [WARNING] Skipping invalid company name: hp displays
+2026-01-11 20:54:30,971 [WARNING] Skipping invalid company name: lenovo displays
+2026-01-11 20:54:30,971 [WARNING] Skipping invalid company name: msi displays
+2026-01-11 20:54:30,971 [WARNING] Skipping invalid company name: gigabyte displays
+2026-01-11 20:54:30,971 [WARNING] Skipping invalid company name: philips monitors
+2026-01-11 20:54:30,971 [WARNING] Skipping invalid company name: lg monitors
+2026-01-11 20:54:30,971 [WARNING] Skipping invalid company name: samsung monitors
+2026-01-11 20:54:30,971 [WARNING] Skipping invalid company name: huawei displays
+2026-01-11 20:54:30,971 [WARNING] Skipping invalid company name: xiaomi displays
+2026-01-11 20:54:30,971 [WARNING] Skipping invalid company name: oppo displays
+2026-01-11 20:54:30,972 [WARNING] Skipping invalid company name: vivo displays
+2026-01-11 20:54:30,972 [WARNING] Skipping invalid company name: realme displays
+2026-01-11 20:54:30,972 [WARNING] Skipping invalid company name: oneplus displays
+2026-01-11 20:54:30,972 [WARNING] Skipping invalid company name: nothing displays
+2026-01-11 20:54:30,972 [WARNING] Skipping invalid company name: tcl displays
+2026-01-11 20:54:30,972 [WARNING] Skipping invalid company name: hisense displays
+2026-01-11 20:54:30,972 [WARNING] Skipping invalid company name: skyworth displays
+2026-01-11 20:54:30,972 [WARNING] Skipping invalid company name: palo alto networks
+2026-01-11 20:54:30,972 [WARNING] Skipping invalid company name: a10 networks
+2026-01-11 20:54:30,972 [WARNING] Skipping invalid company name: extreme networks
+2026-01-11 20:54:30,972 [WARNING] Skipping invalid company name: samsung networks
+2026-01-11 20:54:30,972 [WARNING] Skipping invalid company name: fujitsu networks
+2026-01-11 20:54:30,972 [WARNING] Skipping invalid company name: ribbon communications
+2026-01-11 20:54:30,972 [WARNING] Skipping invalid company name: general cable
+2026-01-11 20:54:30,972 [WARNING] Skipping invalid company name: te connectivity
+2026-01-11 20:54:30,972 [WARNING] Skipping invalid company name: phoenix contact
+2026-01-11 20:54:30,972 [WARNING] Skipping invalid company name: schneider electric
+2026-01-11 20:54:30,972 [WARNING] Skipping invalid company name: siemens networking
+2026-01-11 20:54:30,972 [WARNING] Skipping invalid company name: abb networking
+2026-01-11 20:54:30,972 [WARNING] Skipping invalid company name: emerson network power
+2026-01-11 20:54:30,972 [WARNING] Skipping invalid company name: eaton network
+2026-01-11 20:54:30,972 [WARNING] Skipping invalid company name: schneider apc
+2026-01-11 20:54:30,972 [WARNING] Skipping invalid company name: kohler power
+2026-01-11 20:54:30,972 [WARNING] Skipping invalid company name: caterpillar power
+2026-01-11 20:54:30,972 [WARNING] Skipping invalid company name: cummins power
+2026-01-11 20:54:30,972 [WARNING] Skipping invalid company name: mtu power
+2026-01-11 20:54:30,972 [WARNING] Skipping invalid company name: wärtsilä
+2026-01-11 20:54:30,972 [WARNING] Skipping invalid company name: rolls royce power
+2026-01-11 20:54:30,972 [WARNING] Skipping invalid company name: kubota engines
+2026-01-11 20:54:30,972 [WARNING] Skipping invalid company name: honda power
+2026-01-11 20:54:30,972 [WARNING] Skipping invalid company name: yamaha power
+2026-01-11 20:54:30,972 [WARNING] Skipping invalid company name: briggs stratton
+2026-01-11 20:54:30,972 [WARNING] Skipping invalid company name: kawasaki engines
+2026-01-11 20:54:30,972 [WARNING] Skipping invalid company name: subaru power
+2026-01-11 20:54:30,972 [WARNING] Skipping invalid company name: champion power
+2026-01-11 20:54:30,972 [WARNING] Skipping invalid company name: yamaha generators
+2026-01-11 20:54:30,972 [WARNING] Skipping invalid company name: honda generators
+2026-01-11 20:54:30,972 [WARNING] Skipping invalid company name: subaru generators
+2026-01-11 20:54:30,972 [WARNING] Skipping invalid company name: dell emc
+2026-01-11 20:54:30,972 [WARNING] Skipping invalid company name: pure storage
+2026-01-11 20:54:30,972 [WARNING] Skipping invalid company name: hewlett packard enterprise
+2026-01-11 20:54:30,972 [WARNING] Skipping invalid company name: hpe storage
+2026-01-11 20:54:30,972 [WARNING] Skipping invalid company name: hitachi vantara
+2026-01-11 20:54:30,972 [WARNING] Skipping invalid company name: ibm storage
+2026-01-11 20:54:30,972 [WARNING] Skipping invalid company name: lenovo storage
+2026-01-11 20:54:30,972 [WARNING] Skipping invalid company name: huawei storage
+2026-01-11 20:54:30,972 [WARNING] Skipping invalid company name: toshiba storage
+2026-01-11 20:54:30,972 [WARNING] Skipping invalid company name: samsung storage
+2026-01-11 20:54:30,972 [WARNING] Skipping invalid company name: crucial storage
+2026-01-11 20:54:30,972 [WARNING] Skipping invalid company name: intel storage
+2026-01-11 20:54:30,972 [WARNING] Skipping invalid company name: micron storage
+2026-01-11 20:54:30,972 [WARNING] Skipping invalid company name: kioxia storage
+2026-01-11 20:54:30,972 [WARNING] Skipping invalid company name: sk hynix storage
+2026-01-11 20:54:30,972 [WARNING] Skipping invalid company name: netgear storage
+2026-01-11 20:54:30,972 [WARNING] Skipping invalid company name: western digital my cloud
+2026-01-11 20:54:30,972 [WARNING] Skipping invalid company name: seagate personal cloud
+2026-01-11 20:54:30,972 [WARNING] Skipping invalid company name: sandisk professional
+2026-01-11 20:54:30,972 [WARNING] Skipping invalid company name: wd elements
+2026-01-11 20:54:30,973 [WARNING] Skipping invalid company name: wd easystore
+2026-01-11 20:54:30,973 [WARNING] Skipping invalid company name: seagate backup plus
+2026-01-11 20:54:30,973 [WARNING] Skipping invalid company name: seagate expansion
+2026-01-11 20:54:30,973 [WARNING] Skipping invalid company name: toshiba canvio
+2026-01-11 20:54:30,973 [WARNING] Skipping invalid company name: samsung portable ssd
+2026-01-11 20:54:30,973 [WARNING] Skipping invalid company name: sandisk extreme
+2026-01-11 20:54:30,973 [WARNING] Skipping invalid company name: crucial x6
+2026-01-11 20:54:30,973 [WARNING] Skipping invalid company name: crucial x8
+2026-01-11 20:54:30,973 [WARNING] Skipping invalid company name: silicon power
+2026-01-11 20:54:30,973 [WARNING] Skipping invalid company name: kingston storage
+2026-01-11 20:54:30,973 [WARNING] Skipping invalid company name: pny storage
+2026-01-11 20:54:30,973 [WARNING] Skipping invalid company name: patriot storage
+2026-01-11 20:54:30,973 [WARNING] Skipping invalid company name: mushkin storage
+2026-01-11 20:54:30,973 [WARNING] Skipping invalid company name: corsair storage
+2026-01-11 20:54:30,973 [WARNING] Skipping invalid company name: gskill storage
+2026-01-11 20:54:30,973 [WARNING] Skipping invalid company name: teamgroup storage
+2026-01-11 20:54:30,973 [WARNING] Skipping invalid company name: lexar storage
+2026-01-11 20:54:30,973 [WARNING] Skipping invalid company name: verbatim storage
+2026-01-11 20:54:30,973 [WARNING] Skipping invalid company name: cisco ucs
+2026-01-11 20:54:30,973 [WARNING] Skipping invalid company name: huawei servers
+2026-01-11 20:54:30,973 [WARNING] Skipping invalid company name: gigabyte servers
+2026-01-11 20:54:30,973 [WARNING] Skipping invalid company name: asus servers
+2026-01-11 20:54:30,973 [WARNING] Skipping invalid company name: foxconn servers
+2026-01-11 20:54:30,973 [WARNING] Skipping invalid company name: iei integration
+2026-01-11 20:54:30,973 [WARNING] Skipping invalid company name: bcm advanced
+2026-01-11 20:54:30,973 [WARNING] Skipping invalid company name: emerson network
+2026-01-11 20:54:30,973 [WARNING] Skipping invalid company name: delta electronics
+2026-01-11 20:54:30,973 [WARNING] Skipping invalid company name: corsair psu
+2026-01-11 20:54:30,973 [WARNING] Skipping invalid company name: cooler master
+2026-01-11 20:54:30,973 [WARNING] Skipping invalid company name: be quiet
+2026-01-11 20:54:30,973 [WARNING] Skipping invalid company name: fractal design
+2026-01-11 20:54:30,973 [WARNING] Skipping invalid company name: lian li
+2026-01-11 20:54:30,973 [WARNING] Skipping invalid company name: in win
+2026-01-11 20:54:30,973 [WARNING] Skipping invalid company name: super flower
+2026-01-11 20:54:30,973 [WARNING] Skipping invalid company name: metallic gear
+2026-01-11 20:54:30,973 [WARNING] Skipping invalid company name: silverstone tek
+2026-01-11 20:54:30,973 [WARNING] Skipping invalid company name: at&t
+2026-01-11 20:54:30,973 [WARNING] Skipping invalid company name: us cellular
+2026-01-11 20:54:30,973 [WARNING] Skipping invalid company name: dish wireless
+2026-01-11 20:54:30,973 [WARNING] Skipping invalid company name: boost mobile
+2026-01-11 20:54:30,973 [WARNING] Skipping invalid company name: metro pcs
+2026-01-11 20:54:30,973 [WARNING] Skipping invalid company name: mint mobile
+2026-01-11 20:54:30,973 [WARNING] Skipping invalid company name: xfinity mobile
+2026-01-11 20:54:30,973 [WARNING] Skipping invalid company name: spectrum mobile
+2026-01-11 20:54:30,973 [WARNING] Skipping invalid company name: cox mobile
+2026-01-11 20:54:30,973 [WARNING] Skipping invalid company name: optimum mobile
+2026-01-11 20:54:30,973 [WARNING] Skipping invalid company name: google fi
+2026-01-11 20:54:30,973 [WARNING] Skipping invalid company name: us mobile
+2026-01-11 20:54:30,973 [WARNING] Skipping invalid company name: red pocket
+2026-01-11 20:54:30,973 [WARNING] Skipping invalid company name: simple mobile
+2026-01-11 20:54:30,973 [WARNING] Skipping invalid company name: straight talk
+2026-01-11 20:54:30,973 [WARNING] Skipping invalid company name: total wireless
+2026-01-11 20:54:30,973 [WARNING] Skipping invalid company name: page plus
+2026-01-11 20:54:30,973 [WARNING] Skipping invalid company name: pure talk usa
+2026-01-11 20:54:30,973 [WARNING] Skipping invalid company name: consumer cellular
+2026-01-11 20:54:30,973 [WARNING] Skipping invalid company name: republic wireless
+2026-01-11 20:54:30,973 [WARNING] Skipping invalid company name: phone.com
+2026-01-11 20:54:30,973 [WARNING] Skipping invalid company name: voip.ms
+2026-01-11 20:54:30,973 [WARNING] Skipping invalid company name: vonage api
+2026-01-11 20:54:30,974 [WARNING] Skipping invalid company name: peerless network
+2026-01-11 20:54:30,974 [WARNING] Skipping invalid company name: level 3
+2026-01-11 20:54:30,974 [WARNING] Skipping invalid company name: cincinnati bell
+2026-01-11 20:54:30,974 [WARNING] Skipping invalid company name: tw telecom
+2026-01-11 20:54:30,974 [WARNING] Skipping invalid company name: global crossing
+2026-01-11 20:54:30,974 [WARNING] Skipping invalid company name: electric lightwave
+2026-01-11 20:54:30,974 [WARNING] Skipping invalid company name: sprint nextel
+2026-01-11 20:54:30,974 [WARNING] Skipping invalid company name: cellular one
+2026-01-11 20:54:30,974 [WARNING] Skipping invalid company name: bell atlantic
+2026-01-11 20:54:30,974 [WARNING] Skipping invalid company name: pacific telesis
+2026-01-11 20:54:30,974 [WARNING] Skipping invalid company name: southwestern bell
+2026-01-11 20:54:30,974 [WARNING] Skipping invalid company name: bell south
+2026-01-11 20:54:30,974 [WARNING] Skipping invalid company name: bell canada
+2026-01-11 20:54:30,974 [WARNING] Skipping invalid company name: ice wireless
+2026-01-11 20:54:30,974 [WARNING] Skipping invalid company name: lynx mobility
+2026-01-11 20:54:30,974 [WARNING] Skipping invalid company name: deutsche telekom
+2026-01-11 20:54:30,974 [WARNING] Skipping invalid company name: telekom austria
+2026-01-11 20:54:30,974 [WARNING] Skipping invalid company name: a1 telekom
+2026-01-11 20:54:30,974 [WARNING] Skipping invalid company name: tmobile austria
+2026-01-11 20:54:30,974 [WARNING] Skipping invalid company name: three austria
+2026-01-11 20:54:30,974 [WARNING] Skipping invalid company name: salt mobile
+2026-01-11 20:54:30,974 [WARNING] Skipping invalid company name: ice norway
+2026-01-11 20:54:30,974 [WARNING] Skipping invalid company name: virgin media
+2026-01-11 20:54:30,974 [WARNING] Skipping invalid company name: three uk
+2026-01-11 20:54:30,974 [WARNING] Skipping invalid company name: sky mobile
+2026-01-11 20:54:30,974 [WARNING] Skipping invalid company name: asda mobile
+2026-01-11 20:54:30,974 [WARNING] Skipping invalid company name: post office
+2026-01-11 20:54:30,974 [WARNING] Skipping invalid company name: the phone coop
+2026-01-11 20:54:30,974 [WARNING] Skipping invalid company name: utility warehouse
+2026-01-11 20:54:30,974 [WARNING] Skipping invalid company name: telecom italia
+2026-01-11 20:54:30,974 [WARNING] Skipping invalid company name: wind tre
+2026-01-11 20:54:30,974 [WARNING] Skipping invalid company name: vodafone italy
+2026-01-11 20:54:30,974 [WARNING] Skipping invalid company name: iliad italy
+2026-01-11 20:54:30,974 [WARNING] Skipping invalid company name: telecom argentina
+2026-01-11 20:54:30,974 [WARNING] Skipping invalid company name: claro americas
+2026-01-11 20:54:30,974 [WARNING] Skipping invalid company name: movistar americas
+2026-01-11 20:54:30,974 [WARNING] Skipping invalid company name: orange france
+2026-01-11 20:54:30,974 [WARNING] Skipping invalid company name: free mobile
+2026-01-11 20:54:30,974 [WARNING] Skipping invalid company name: la poste mobile
+2026-01-11 20:54:30,974 [WARNING] Skipping invalid company name: red by sfr
+2026-01-11 20:54:30,974 [WARNING] Skipping invalid company name: b&you
+2026-01-11 20:54:30,974 [WARNING] Skipping invalid company name: nrj mobile
+2026-01-11 20:54:30,974 [WARNING] Skipping invalid company name: lycamobile france
+2026-01-11 20:54:30,974 [WARNING] Skipping invalid company name: lebara france
+2026-01-11 20:54:30,974 [WARNING] Skipping invalid company name: reglo mobile
+2026-01-11 20:54:30,974 [WARNING] Skipping invalid company name: charter spectrum
+2026-01-11 20:54:30,974 [WARNING] Skipping invalid company name: cable one
+2026-01-11 20:54:30,974 [WARNING] Skipping invalid company name: atlantic broadband
+2026-01-11 20:54:30,974 [WARNING] Skipping invalid company name: service electric
+2026-01-11 20:54:30,974 [WARNING] Skipping invalid company name: blue ridge
+2026-01-11 20:54:30,974 [WARNING] Skipping invalid company name: consolidated communications
+2026-01-11 20:54:30,974 [WARNING] Skipping invalid company name: frontier communications
+2026-01-11 20:54:30,974 [WARNING] Skipping invalid company name: quantum fiber
+2026-01-11 20:54:30,974 [WARNING] Skipping invalid company name: bright speed
+2026-01-11 20:54:30,974 [WARNING] Skipping invalid company name: ziply fiber
+2026-01-11 20:54:30,974 [WARNING] Skipping invalid company name: earthlink fiber
+2026-01-11 20:54:30,974 [WARNING] Skipping invalid company name: att fiber
+2026-01-11 20:54:30,974 [WARNING] Skipping invalid company name: verizon fios
+2026-01-11 20:54:30,974 [WARNING] Skipping invalid company name: google fiber
+2026-01-11 20:54:30,974 [WARNING] Skipping invalid company name: rise broadband
+2026-01-11 20:54:30,974 [WARNING] Skipping invalid company name: t-mobile home
+2026-01-11 20:54:30,974 [WARNING] Skipping invalid company name: verizon lte home
+2026-01-11 20:54:30,974 [WARNING] Skipping invalid company name: tmobile internet
+2026-01-11 20:54:30,974 [WARNING] Skipping invalid company name: att fixed wireless
+2026-01-11 20:54:30,975 [WARNING] Skipping invalid company name: dish network
+2026-01-11 20:54:30,975 [WARNING] Skipping invalid company name: spectrum tv choice
+2026-01-11 20:54:30,975 [WARNING] Skipping invalid company name: xfinity flex
+2026-01-11 20:54:30,975 [WARNING] Skipping invalid company name: cox contour stream
+2026-01-11 20:54:30,975 [WARNING] Skipping invalid company name: optimum core tv
+2026-01-11 20:54:30,975 [WARNING] Skipping invalid company name: fios tv
+2026-01-11 20:54:30,975 [WARNING] Skipping invalid company name: youtube tv
+2026-01-11 20:54:30,975 [WARNING] Skipping invalid company name: hulu live
+2026-01-11 20:54:30,975 [WARNING] Skipping invalid company name: sling blue
+2026-01-11 20:54:30,975 [WARNING] Skipping invalid company name: sling orange
+2026-01-11 20:54:30,975 [WARNING] Skipping invalid company name: directv stream
+2026-01-11 20:54:30,975 [WARNING] Skipping invalid company name: fubo tv
+2026-01-11 20:54:30,975 [WARNING] Skipping invalid company name: philo tv
+2026-01-11 20:54:30,975 [WARNING] Skipping invalid company name: frndly tv
+2026-01-11 20:54:30,975 [WARNING] Skipping invalid company name: stirr tv
+2026-01-11 20:54:30,975 [WARNING] Skipping invalid company name: pluto tv
+2026-01-11 20:54:30,975 [WARNING] Skipping invalid company name: roku channel
+2026-01-11 20:54:30,975 [WARNING] Skipping invalid company name: tubi tv
+2026-01-11 20:54:30,975 [WARNING] Skipping invalid company name: vudu free
+2026-01-11 20:54:30,975 [WARNING] Skipping invalid company name: peacock free
+2026-01-11 20:54:30,975 [WARNING] Skipping invalid company name: service cloud
+2026-01-11 20:54:30,975 [WARNING] Skipping invalid company name: marketing cloud
+2026-01-11 20:54:30,975 [WARNING] Skipping invalid company name: commerce cloud
+2026-01-11 20:54:30,975 [WARNING] Skipping invalid company name: microsoft dynamics
+2026-01-11 20:54:30,975 [WARNING] Skipping invalid company name: monday.com
+2026-01-11 20:54:30,975 [WARNING] Skipping invalid company name: resource guru
+2026-01-11 20:54:30,975 [WARNING] Skipping invalid company name: project.co
+2026-01-11 20:54:30,975 [WARNING] Skipping invalid company name: function point
+2026-01-11 20:54:30,975 [WARNING] Skipping invalid company name: bqe core
+2026-01-11 20:54:30,975 [WARNING] Skipping invalid company name: sage intacct
+2026-01-11 20:54:30,975 [WARNING] Skipping invalid company name: quickbooks enterprise
+2026-01-11 20:54:30,975 [WARNING] Skipping invalid company name: zoho books
+2026-01-11 20:54:30,975 [WARNING] Skipping invalid company name: invoice ninja
+2026-01-11 20:54:30,975 [WARNING] Skipping invalid company name: kill bill
+2026-01-11 20:54:30,975 [WARNING] Skipping invalid company name: clear books
+2026-01-11 20:54:30,975 [WARNING] Skipping invalid company name: sage business cloud
+2026-01-11 20:54:30,975 [WARNING] Skipping invalid company name: sage 50
+2026-01-11 20:54:30,975 [WARNING] Skipping invalid company name: sage 100
+2026-01-11 20:54:30,975 [WARNING] Skipping invalid company name: sage 300
+2026-01-11 20:54:30,975 [WARNING] Skipping invalid company name: sage 500
+2026-01-11 20:54:30,975 [WARNING] Skipping invalid company name: sage x3
+2026-01-11 20:54:30,975 [WARNING] Skipping invalid company name: sage people
+2026-01-11 20:54:30,975 [WARNING] Skipping invalid company name: sage payroll
+2026-01-11 20:54:30,975 [WARNING] Skipping invalid company name: ultimate software
+2026-01-11 20:54:30,975 [WARNING] Skipping invalid company name: patriot software
+2026-01-11 20:54:30,975 [WARNING] Skipping invalid company name: square payroll
+2026-01-11 20:54:30,975 [WARNING] Skipping invalid company name: quickbooks payroll
+2026-01-11 20:54:30,975 [WARNING] Skipping invalid company name: waveapps payroll
+2026-01-11 20:54:30,975 [WARNING] Skipping invalid company name: when i work
+2026-01-11 20:54:30,975 [WARNING] Skipping invalid company name: zip schedules
+2026-01-11 20:54:30,975 [WARNING] Skipping invalid company name: staff squared
+2026-01-11 20:54:30,975 [WARNING] Skipping invalid company name: orbital shift
+2026-01-11 20:54:30,975 [WARNING] Skipping invalid company name: snap schedule
+2026-01-11 20:54:30,975 [WARNING] Skipping invalid company name: employee scheduling
+2026-01-11 20:54:30,975 [WARNING] Skipping invalid company name: work schedule
+2026-01-11 20:54:30,975 [WARNING] Skipping invalid company name: schedule maker
+2026-01-11 20:54:30,975 [WARNING] Skipping invalid company name: shift scheduler
+2026-01-11 20:54:30,975 [WARNING] Skipping invalid company name: staff roster
+2026-01-11 20:54:30,975 [WARNING] Skipping invalid company name: crew scheduler
+2026-01-11 20:54:30,975 [WARNING] Skipping invalid company name: team scheduling
+2026-01-11 20:54:30,975 [WARNING] Skipping invalid company name: rotation planner
+2026-01-11 20:54:30,975 [WARNING] Skipping invalid company name: work roster
+2026-01-11 20:54:30,975 [WARNING] Skipping invalid company name: duty roster
+2026-01-11 20:54:30,975 [WARNING] Skipping invalid company name: rota planner
+2026-01-11 20:54:30,975 [WARNING] Skipping invalid company name: shift rota
+2026-01-11 20:54:30,975 [WARNING] Skipping invalid company name: employee rota
+2026-01-11 20:54:30,975 [WARNING] Skipping invalid company name: staff planner
+2026-01-11 20:54:30,975 [WARNING] Skipping invalid company name: workforce scheduler
+2026-01-11 20:54:30,975 [WARNING] Skipping invalid company name: labour scheduler
+2026-01-11 20:54:30,975 [WARNING] Skipping invalid company name: staff scheduler
+2026-01-11 20:54:30,975 [WARNING] Skipping invalid company name: credit karma
+2026-01-11 20:54:30,975 [WARNING] Skipping invalid company name: oracle financials
+2026-01-11 20:54:30,975 [WARNING] Skipping invalid company name: microsoft dynamics
+2026-01-11 20:54:30,975 [WARNING] Skipping invalid company name: workday financials
+2026-01-11 20:54:30,975 [WARNING] Skipping invalid company name: adaptive insights
+2026-01-11 20:54:30,975 [WARNING] Skipping invalid company name: host analytics
+2026-01-11 20:54:30,976 [WARNING] Skipping invalid company name: kaufman hall
+2026-01-11 20:54:30,976 [WARNING] Skipping invalid company name: planning analytics
+2026-01-11 20:54:30,976 [WARNING] Skipping invalid company name: cognos tm1
+2026-01-11 20:54:30,976 [WARNING] Skipping invalid company name: ibm planning analytics
+2026-01-11 20:54:30,976 [WARNING] Skipping invalid company name: oracle epm
+2026-01-11 20:54:30,976 [WARNING] Skipping invalid company name: oracle hyperion
+2026-01-11 20:54:30,976 [WARNING] Skipping invalid company name: sap bpc
+2026-01-11 20:54:30,976 [WARNING] Skipping invalid company name: sap analytics cloud
+2026-01-11 20:54:30,976 [WARNING] Skipping invalid company name: microsoft power bi
+2026-01-11 20:54:30,976 [WARNING] Skipping invalid company name: r studio
+2026-01-11 20:54:30,976 [WARNING] Skipping invalid company name: constant contact
+2026-01-11 20:54:30,976 [WARNING] Skipping invalid company name: campaign monitor
+2026-01-11 20:54:30,976 [WARNING] Skipping invalid company name: customer.io
+2026-01-11 20:54:30,976 [WARNING] Skipping invalid company name: crazy egg
+2026-01-11 20:54:30,976 [WARNING] Skipping invalid company name: google optimize
+2026-01-11 20:54:30,976 [WARNING] Skipping invalid company name: ab tasty
+2026-01-11 20:54:30,976 [WARNING] Skipping invalid company name: dynamic yield
+2026-01-11 20:54:30,976 [WARNING] Skipping invalid company name: vue.ai
+2026-01-11 20:54:30,976 [WARNING] Skipping invalid company name: google vision
+2026-01-11 20:54:30,976 [WARNING] Skipping invalid company name: aws rekognition
+2026-01-11 20:54:30,976 [WARNING] Skipping invalid company name: azure computer vision
+2026-01-11 20:54:30,976 [WARNING] Skipping invalid company name: watson visual recognition
+2026-01-11 20:54:30,976 [WARNING] Skipping invalid company name: alibaba vision
+2026-01-11 20:54:30,976 [WARNING] Skipping invalid company name: baidu vision
+2026-01-11 20:54:30,976 [WARNING] Skipping invalid company name: tencent vision
+2026-01-11 20:54:30,976 [WARNING] Skipping invalid company name: yandex vision
+2026-01-11 20:54:30,976 [WARNING] Skipping invalid company name: api.ai
+2026-01-11 20:54:30,976 [WARNING] Skipping invalid company name: wit.ai
+2026-01-11 20:54:30,976 [WARNING] Skipping invalid company name: s.e.p.i.a
+2026-01-11 20:54:30,976 [WARNING] Skipping invalid company name: google assistant
+2026-01-11 20:54:30,976 [WARNING] Skipping invalid company name: help scout
+2026-01-11 20:54:30,976 [WARNING] Skipping invalid company name: tawk.to
+2026-01-11 20:54:30,976 [WARNING] Skipping invalid company name: pure chat
+2026-01-11 20:54:30,976 [WARNING] Skipping invalid company name: zoho desk
+2026-01-11 20:54:30,976 [WARNING] Skipping invalid company name: salesforce service
+2026-01-11 20:54:30,976 [WARNING] Skipping invalid company name: microsoft dynamics
+2026-01-11 20:54:30,976 [WARNING] Skipping invalid company name: oracle service
+2026-01-11 20:54:30,976 [WARNING] Skipping invalid company name: sap service
+2026-01-11 20:54:30,976 [WARNING] Skipping invalid company name: jira service desk
+2026-01-11 20:54:30,976 [WARNING] Skipping invalid company name: vision helpdesk
+2026-01-11 20:54:30,976 [WARNING] Skipping invalid company name: rocket.chat
+2026-01-11 20:54:30,976 [WARNING] Skipping invalid company name: whatsapp business
+2026-01-11 20:54:30,976 [WARNING] Skipping invalid company name: facebook messenger
+2026-01-11 20:54:30,976 [WARNING] Skipping invalid company name: instagram dm
+2026-01-11 20:54:30,976 [WARNING] Skipping invalid company name: twitter dm
+2026-01-11 20:54:30,976 [WARNING] Skipping invalid company name: linkedin messaging
+2026-01-11 20:54:30,976 [WARNING] Skipping invalid company name: wechat work
+2026-01-11 20:54:30,976 [WARNING] Skipping invalid company name: facebook workplace
+2026-01-11 20:54:30,976 [WARNING] Skipping invalid company name: microsoft viva
+2026-01-11 20:54:30,976 [WARNING] Skipping invalid company name: oak engage
+2026-01-11 20:54:30,976 [WARNING] Skipping invalid company name: vanilla forums
+2026-01-11 20:54:30,976 [WARNING] Skipping invalid company name: burning board
+2026-01-11 20:54:30,976 [WARNING] Skipping invalid company name: monday.com
+2026-01-11 20:54:30,976 [WARNING] Skipping invalid company name: ms project
+2026-01-11 20:54:30,976 [WARNING] Skipping invalid company name: adobe workfront
+2026-01-11 20:54:30,976 [WARNING] Skipping invalid company name: liquid planner
+2026-01-11 20:54:30,976 [WARNING] Skipping invalid company name: pivotal tracker
+2026-01-11 20:54:30,976 [WARNING] Skipping invalid company name: ca agile
+2026-01-11 20:54:30,976 [WARNING] Skipping invalid company name: jira align
+2026-01-11 20:54:30,976 [WARNING] Skipping invalid company name: craft.io
+2026-01-11 20:54:30,976 [WARNING] Skipping invalid company name: feature upvote
+2026-01-11 20:54:30,976 [WARNING] Skipping invalid company name: feedback fish
+2026-01-11 20:54:30,976 [WARNING] Skipping invalid company name: products ops
+2026-01-11 20:54:30,976 [WARNING] Skipping invalid company name: adobe xd
+2026-01-11 20:54:30,976 [WARNING] Skipping invalid company name: wireframe.cc
+2026-01-11 20:54:30,976 [WARNING] Skipping invalid company name: relay that
+2026-01-11 20:54:30,976 [WARNING] Skipping invalid company name: font candy
+2026-01-11 20:54:30,977 [WARNING] Skipping invalid company name: text on photos
+2026-01-11 20:54:30,977 [WARNING] Skipping invalid company name: add text
+2026-01-11 20:54:30,977 [WARNING] Skipping invalid company name: text plus
+2026-01-11 20:54:30,977 [WARNING] Skipping invalid company name: quote maker
+2026-01-11 20:54:30,977 [WARNING] Skipping invalid company name: quote creator
+2026-01-11 20:54:30,977 [WARNING] Skipping invalid company name: pic collage
+2026-01-11 20:54:30,977 [WARNING] Skipping invalid company name: pic stitch
+2026-01-11 20:54:30,977 [WARNING] Skipping invalid company name: premiere rush
+2026-01-11 20:54:30,977 [WARNING] Skipping invalid company name: davinci resolve
+2026-01-11 20:54:30,977 [WARNING] Skipping invalid company name: final cut pro
+2026-01-11 20:54:30,977 [WARNING] Skipping invalid company name: premiere pro
+2026-01-11 20:54:30,977 [WARNING] Skipping invalid company name: after effects
+2026-01-11 20:54:30,977 [WARNING] Skipping invalid company name: 3ds max
+2026-01-11 20:54:30,977 [WARNING] Skipping invalid company name: cinema 4d
+2026-01-11 20:54:30,977 [WARNING] Skipping invalid company name: fusion 360
+2026-01-11 20:54:30,977 [WARNING] Skipping invalid company name: solid edge
+2026-01-11 20:54:30,977 [WARNING] Skipping invalid company name: obs studio
+2026-01-11 20:54:30,977 [WARNING] Skipping invalid company name: nvidia broadcast
+2026-01-11 20:54:30,977 [WARNING] Skipping invalid company name: riverside.fm
+2026-01-11 20:54:30,977 [WARNING] Skipping invalid company name: squad cast
+2026-01-11 20:54:30,977 [WARNING] Skipping invalid company name: source connect
+2026-01-11 20:54:30,977 [WARNING] Skipping invalid company name: source live
+2026-01-11 20:54:30,977 [WARNING] Skipping invalid company name: netmix pro
+2026-01-11 20:54:30,977 [WARNING] Skipping invalid company name: studio network
+2026-01-11 20:54:30,977 [WARNING] Skipping invalid company name: nginx rtmp
+2026-01-11 20:54:30,977 [WARNING] Skipping invalid company name: ant media
+2026-01-11 20:54:30,977 [WARNING] Skipping invalid company name: universal media server
+2026-01-11 20:54:30,977 [WARNING] Skipping invalid company name: ps3 media server
+2026-01-11 20:54:30,977 [WARNING] Skipping invalid company name: bubble upnp
+2026-01-11 20:54:30,977 [WARNING] Skipping invalid company name: asset upnp
+2026-01-11 20:54:30,977 [WARNING] Skipping invalid company name: minim server
+2026-01-11 20:54:30,977 [WARNING] Skipping invalid company name: unreal engine
+2026-01-11 20:54:30,977 [WARNING] Skipping invalid company name: source 2
+2026-01-11 20:54:30,977 [WARNING] Skipping invalid company name: fox engine
+2026-01-11 20:54:30,977 [WARNING] Skipping invalid company name: mt framework
+2026-01-11 20:54:30,977 [WARNING] Skipping invalid company name: re engine
+2026-01-11 20:54:30,977 [WARNING] Skipping invalid company name: creation engine
+2026-01-11 20:54:30,977 [WARNING] Skipping invalid company name: red engine
+2026-01-11 20:54:30,977 [WARNING] Skipping invalid company name: matter.js
+2026-01-11 20:54:30,977 [WARNING] Skipping invalid company name: cannon.js
+2026-01-11 20:54:30,977 [WARNING] Skipping invalid company name: ammo.js
+2026-01-11 20:54:30,977 [WARNING] Skipping invalid company name: oimo.js
+2026-01-11 20:54:30,977 [WARNING] Skipping invalid company name: planck.js
+2026-01-11 20:54:30,977 [WARNING] Skipping invalid company name: p2.js
+2026-01-11 20:54:30,977 [WARNING] Skipping invalid company name: unity dots
+2026-01-11 20:54:30,977 [WARNING] Skipping invalid company name: rpg maker
+2026-01-11 20:54:30,977 [WARNING] Skipping invalid company name: ren'py
+2026-01-11 20:54:30,977 [WARNING] Skipping invalid company name: visual novel maker
+2026-01-11 20:54:30,977 [WARNING] Skipping invalid company name: nvidia geforce now
+2026-01-11 20:54:30,977 [WARNING] Skipping invalid company name: google stadia
+2026-01-11 20:54:30,977 [WARNING] Skipping invalid company name: amazon luna
+2026-01-11 20:54:30,977 [WARNING] Skipping invalid company name: xbox cloud
+2026-01-11 20:54:30,977 [WARNING] Skipping invalid company name: playstation now
+2026-01-11 20:54:30,977 [WARNING] Skipping invalid company name: steam link
+2026-01-11 20:54:30,977 [WARNING] Skipping invalid company name: maximum settings
+2026-01-11 20:54:30,977 [WARNING] Skipping invalid company name: antstream arcade
+2026-01-11 20:54:30,977 [WARNING] Skipping invalid company name: blade shadow
+2026-01-11 20:54:30,977 [WARNING] Skipping invalid company name: carbon black
+2026-01-11 20:54:30,977 [WARNING] Skipping invalid company name: trend micro
+2026-01-11 20:54:30,977 [WARNING] Skipping invalid company name: hitman pro
+2026-01-11 20:54:30,977 [WARNING] Skipping invalid company name: junkware removal
+2026-01-11 20:54:30,977 [WARNING] Skipping invalid company name: bleeping computer
+2026-01-11 20:54:30,977 [WARNING] Skipping invalid company name: malware tips
+2026-01-11 20:54:30,977 [WARNING] Skipping invalid company name: malware removal
+2026-01-11 20:54:30,977 [WARNING] Skipping invalid company name: virus total
+2026-01-11 20:54:30,977 [WARNING] Skipping invalid company name: hybrid analysis
+2026-01-11 20:54:30,977 [WARNING] Skipping invalid company name: any.run
+2026-01-11 20:54:30,978 [WARNING] Skipping invalid company name: joe sandbox
+2026-01-11 20:54:30,978 [WARNING] Skipping invalid company name: reversing labs
+2026-01-11 20:54:30,978 [WARNING] Skipping invalid company name: recorded future
+2026-01-11 20:54:30,978 [WARNING] Skipping invalid company name: digital shadows
+2026-01-11 20:54:30,978 [WARNING] Skipping invalid company name: burp suite
+2026-01-11 20:54:30,978 [WARNING] Skipping invalid company name: cobalt strike
+2026-01-11 20:54:30,978 [WARNING] Skipping invalid company name: core impact
+2026-01-11 20:54:30,978 [WARNING] Skipping invalid company name: black duck
+2026-01-11 20:54:30,978 [WARNING] Skipping invalid company name: contrast security
+2026-01-11 20:54:30,978 [WARNING] Skipping invalid company name: mobile iron
+2026-01-11 20:54:30,978 [WARNING] Skipping invalid company name: workspace one
+2026-01-11 20:54:30,978 [WARNING] Skipping invalid company name: acronis backup
+2026-01-11 20:54:30,978 [WARNING] Skipping invalid company name: redo rescue
+2026-01-11 20:54:30,978 [WARNING] Skipping invalid company name: fog project
+2026-01-11 20:54:30,978 [WARNING] Skipping invalid company name: aomei partition
+2026-01-11 20:54:30,978 [WARNING] Skipping invalid company name: minitool partition
+2026-01-11 20:54:30,978 [WARNING] Skipping invalid company name: easeus partition
+2026-01-11 20:54:30,978 [WARNING] Skipping invalid company name: parted magic
+2026-01-11 20:54:30,978 [WARNING] Skipping invalid company name: partition wizard
+2026-01-11 20:54:30,978 [WARNING] Skipping invalid company name: disk director
+2026-01-11 20:54:30,978 [WARNING] Skipping invalid company name: partition master
+2026-01-11 20:54:30,978 [WARNING] Skipping invalid company name: partition assistant
+2026-01-11 20:54:30,978 [WARNING] Skipping invalid company name: acronis disk
+2026-01-11 20:54:30,978 [WARNING] Skipping invalid company name: active partition
+2026-01-11 20:54:30,978 [WARNING] Skipping invalid company name: easus data recovery
+2026-01-11 20:54:30,978 [WARNING] Skipping invalid company name: minitool power data
+2026-01-11 20:54:30,978 [WARNING] Skipping invalid company name: wondershare recoverit
+2026-01-11 20:54:30,978 [WARNING] Skipping invalid company name: disk drill
+2026-01-11 20:54:30,978 [WARNING] Skipping invalid company name: stellar phoenix
+2026-01-11 20:54:30,978 [WARNING] Skipping invalid company name: tenorshare recovery
+2026-01-11 20:54:30,978 [WARNING] Skipping invalid company name: dr.fone
+2026-01-11 20:54:30,978 [WARNING] Skipping invalid company name: mo biledit
+2026-01-11 20:54:30,978 [WARNING] Skipping invalid company name: media widget
+2026-01-11 20:54:30,978 [WARNING] Skipping invalid company name: foobar ipod
+2026-01-11 20:54:30,978 [WARNING] Skipping invalid company name: ml ipod
+2026-01-11 20:54:30,978 [WARNING] Skipping invalid company name: winamp ipod
+2026-01-11 20:54:30,978 [WARNING] Skipping invalid company name: palo alto
+2026-01-11 20:54:30,978 [WARNING] Skipping invalid company name: a10 networks
+2026-01-11 20:54:30,978 [WARNING] Skipping invalid company name: avi networks
+2026-01-11 20:54:30,978 [WARNING] Skipping invalid company name: load balancer
+2026-01-11 20:54:30,978 [WARNING] Skipping invalid company name: silver peak
+2026-01-11 20:54:30,978 [WARNING] Skipping invalid company name: vmware velocloud
+2026-01-11 20:54:30,978 [WARNING] Skipping invalid company name: citrix sd-wan
+2026-01-11 20:54:30,978 [WARNING] Skipping invalid company name: cisco viptela
+2026-01-11 20:54:30,978 [WARNING] Skipping invalid company name: cisco meraki
+2026-01-11 20:54:30,978 [WARNING] Skipping invalid company name: hp networking
+2026-01-11 20:54:30,978 [WARNING] Skipping invalid company name: dell networking
+2026-01-11 20:54:30,978 [WARNING] Skipping invalid company name: juniper networks
+2026-01-11 20:54:30,978 [WARNING] Skipping invalid company name: alcatel lucent
+2026-01-11 20:54:30,978 [WARNING] Skipping invalid company name: huawei enterprise
+2026-01-11 20:54:30,978 [WARNING] Skipping invalid company name: zte enterprise
+2026-01-11 20:54:30,978 [WARNING] Skipping invalid company name: ping identity
+2026-01-11 20:54:30,978 [WARNING] Skipping invalid company name: beyond trust
+2026-01-11 20:54:30,978 [WARNING] Skipping invalid company name: radiant logic
+2026-01-11 20:54:30,978 [WARNING] Skipping invalid company name: microsoft entra
+2026-01-11 20:54:30,978 [WARNING] Skipping invalid company name: azure ad
+2026-01-11 20:54:30,978 [WARNING] Skipping invalid company name: active directory
+2026-01-11 20:54:30,978 [WARNING] Skipping invalid company name: 389 directory
+2026-01-11 20:54:30,978 [WARNING] Skipping invalid company name: apache directory
+2026-01-11 20:54:30,978 [WARNING] Skipping invalid company name: red hat directory
+2026-01-11 20:54:30,978 [WARNING] Skipping invalid company name: oracle directory
+2026-01-11 20:54:30,978 [WARNING] Skipping invalid company name: novell edirectory
+2026-01-11 20:54:30,978 [WARNING] Skipping invalid company name: google workspace
+2026-01-11 20:54:30,978 [WARNING] Skipping invalid company name: rippling identity
+2026-01-11 20:54:30,978 [WARNING] Skipping invalid company name: apereo cas
+2026-01-11 20:54:30,978 [WARNING] Skipping invalid company name: simplesa mlphp
+2026-01-11 20:54:30,978 [WARNING] Skipping invalid company name: beyond identity
+2026-01-11 20:54:30,978 [WARNING] Skipping invalid company name: transmit security
+2026-01-11 20:54:30,978 [WARNING] Skipping invalid company name: magic link
+2026-01-11 20:54:30,978 [WARNING] Skipping invalid company name: google authenticator
+2026-01-11 20:54:30,979 [WARNING] Skipping invalid company name: microsoft authenticator
+2026-01-11 20:54:30,979 [WARNING] Skipping invalid company name: duo mobile
+2026-01-11 20:54:30,979 [WARNING] Skipping invalid company name: rsa securid
+2026-01-11 20:54:30,979 [WARNING] Skipping invalid company name: symantec vip
+2026-01-11 20:54:30,979 [WARNING] Skipping invalid company name: ssl.com
+2026-01-11 20:54:30,979 [WARNING] Skipping invalid company name: lockheed martin
+2026-01-11 20:54:30,979 [WARNING] Skipping invalid company name: northrop grumman
+2026-01-11 20:54:30,979 [WARNING] Skipping invalid company name: general dynamics
+2026-01-11 20:54:30,979 [WARNING] Skipping invalid company name: bae systems
+2026-01-11 20:54:30,979 [WARNING] Skipping invalid company name: huntington ingalls
+2026-01-11 20:54:30,979 [WARNING] Skipping invalid company name: booz allen
+2026-01-11 20:54:30,979 [WARNING] Skipping invalid company name: general atomics
+2026-01-11 20:54:30,979 [WARNING] Skipping invalid company name: am general
+2026-01-11 20:54:30,979 [WARNING] Skipping invalid company name: navistar defense
+2026-01-11 20:54:30,979 [WARNING] Skipping invalid company name: mack defense
+2026-01-11 20:54:30,979 [WARNING] Skipping invalid company name: lear siegler
+2026-01-11 20:54:30,979 [WARNING] Skipping invalid company name: rockwell collins
+2026-01-11 20:54:30,979 [WARNING] Skipping invalid company name: collins aerospace
+2026-01-11 20:54:30,979 [WARNING] Skipping invalid company name: pratt whitney
+2026-01-11 20:54:30,979 [WARNING] Skipping invalid company name: ge aviation
+2026-01-11 20:54:30,979 [WARNING] Skipping invalid company name: rolls royce
+2026-01-11 20:54:30,979 [WARNING] Skipping invalid company name: honeywell aerospace
+2026-01-11 20:54:30,979 [WARNING] Skipping invalid company name: curtiss wright
+2026-01-11 20:54:30,979 [WARNING] Skipping invalid company name: parker aerospace
+2026-01-11 20:54:30,979 [WARNING] Skipping invalid company name: eaton aerospace
+2026-01-11 20:54:30,979 [WARNING] Skipping invalid company name: triumph group
+2026-01-11 20:54:30,979 [WARNING] Skipping invalid company name: spirit aerosystems
+2026-01-11 20:54:30,979 [WARNING] Skipping invalid company name: aerojet rocketdyne
+2026-01-11 20:54:30,979 [WARNING] Skipping invalid company name: orbital atk
+2026-01-11 20:54:30,979 [WARNING] Skipping invalid company name: elbit systems
+2026-01-11 20:54:30,979 [WARNING] Skipping invalid company name: airbus defense
+2026-01-11 20:54:30,979 [WARNING] Skipping invalid company name: naval group
+2026-01-11 20:54:30,979 [WARNING] Skipping invalid company name: daewoo shipbuilding
+2026-01-11 20:54:30,979 [WARNING] Skipping invalid company name: hyundai heavy
+2026-01-11 20:54:30,979 [WARNING] Skipping invalid company name: samsung heavy
+2026-01-11 20:54:30,979 [WARNING] Skipping invalid company name: mitsubishi heavy
+2026-01-11 20:54:30,979 [WARNING] Skipping invalid company name: kawasaki heavy
+2026-01-11 20:54:30,979 [WARNING] Skipping invalid company name: subaru aerospace
+2026-01-11 20:54:30,979 [WARNING] Skipping invalid company name: turkish aerospace
+2026-01-11 20:54:30,979 [WARNING] Skipping invalid company name: korean aerospace
+2026-01-11 20:54:30,979 [WARNING] Skipping invalid company name: hindustan aeronautics
+2026-01-11 20:54:30,979 [WARNING] Skipping invalid company name: pakistan aeronautical
+2026-01-11 20:54:30,979 [WARNING] Skipping invalid company name: embraer defense
+2026-01-11 20:54:30,979 [WARNING] Skipping invalid company name: elbit brazil
+2026-01-11 20:54:30,979 [WARNING] Skipping invalid company name: cicaré
+2026-01-11 20:54:30,979 [WARNING] Skipping invalid company name: united engine
+2026-01-11 20:54:30,979 [WARNING] Skipping invalid company name: almaz antey
+2026-01-11 20:54:30,979 [WARNING] Skipping invalid company name: tactical missiles
+2026-01-11 20:54:30,979 [WARNING] Skipping invalid company name: high precision
+2026-01-11 20:54:30,979 [WARNING] Skipping invalid company name: concern morinformsystem
+2026-01-11 20:54:30,979 [WARNING] Skipping invalid company name: general motors
+2026-01-11 20:54:30,979 [WARNING] Skipping invalid company name: great wall
+2026-01-11 20:54:30,979 [WARNING] Skipping invalid company name: guangzhou auto
+2026-01-11 20:54:30,979 [WARNING] Skipping invalid company name: jac motors
+2026-01-11 20:54:30,979 [WARNING] Skipping invalid company name: lynk co
+2026-01-11 20:54:30,979 [WARNING] Skipping invalid company name: li auto
+2026-01-11 20:54:30,979 [WARNING] Skipping invalid company name: human horizons
+2026-01-11 20:54:30,979 [WARNING] Skipping invalid company name: faraday future
+2026-01-11 20:54:30,979 [WARNING] Skipping invalid company name: citroen ami
+2026-01-11 20:54:30,979 [WARNING] Skipping invalid company name: birò
+2026-01-11 20:54:30,979 [WARNING] Skipping invalid company name: renault twizy
+2026-01-11 20:54:30,979 [WARNING] Skipping invalid company name: seat mo
+2026-01-11 20:54:30,980 [WARNING] Skipping invalid company name: cupra born
+2026-01-11 20:54:30,980 [WARNING] Skipping invalid company name: skoda enyaq
+2026-01-11 20:54:30,980 [WARNING] Skipping invalid company name: audi q4
+2026-01-11 20:54:30,980 [WARNING] Skipping invalid company name: porsche taycan
+2026-01-11 20:54:30,980 [WARNING] Skipping invalid company name: maserati grecale
+2026-01-11 20:54:30,980 [WARNING] Skipping invalid company name: alfa romeo tonale
+2026-01-11 20:54:30,980 [WARNING] Skipping invalid company name: lancia ypsilon
+2026-01-11 20:54:30,980 [WARNING] Skipping invalid company name: fiat 500e
+2026-01-11 20:54:30,980 [WARNING] Skipping invalid company name: jeep avenger
+2026-01-11 20:54:30,980 [WARNING] Skipping invalid company name: dodge hornet
+2026-01-11 20:54:30,980 [WARNING] Skipping invalid company name: chrysler pacifica
+2026-01-11 20:54:30,980 [WARNING] Skipping invalid company name: ram 1500
+2026-01-11 20:54:30,980 [WARNING] Skipping invalid company name: tesla model s
+2026-01-11 20:54:30,980 [WARNING] Skipping invalid company name: tesla model 3
+2026-01-11 20:54:30,980 [WARNING] Skipping invalid company name: tesla model x
+2026-01-11 20:54:30,980 [WARNING] Skipping invalid company name: tesla model y
+2026-01-11 20:54:30,980 [WARNING] Skipping invalid company name: tesla cybertruck
+2026-01-11 20:54:30,980 [WARNING] Skipping invalid company name: tesla roadster
+2026-01-11 20:54:30,980 [WARNING] Skipping invalid company name: tesla semi
+2026-01-11 20:54:30,980 [WARNING] Skipping invalid company name: toyoda gosei
+2026-01-11 20:54:30,980 [WARNING] Skipping invalid company name: continental tires
+2026-01-11 20:54:30,980 [WARNING] Skipping invalid company name: sumitomo rubber
+2026-01-11 20:54:30,980 [WARNING] Skipping invalid company name: dick cepek
+2026-01-11 20:54:30,980 [WARNING] Skipping invalid company name: fuzion tires
+2026-01-11 20:54:30,980 [WARNING] Skipping invalid company name: uniroyal europe
+2026-01-11 20:54:30,980 [WARNING] Skipping invalid company name: argo ai
+2026-01-11 20:54:30,980 [WARNING] Skipping invalid company name: pony.ai
+2026-01-11 20:54:30,980 [WARNING] Skipping invalid company name: plus ai
+2026-01-11 20:54:30,980 [WARNING] Skipping invalid company name: serve robotics
+2026-01-11 20:54:30,980 [WARNING] Skipping invalid company name: postmates serve
+2026-01-11 20:54:30,980 [WARNING] Skipping invalid company name: amazon scout
+2026-01-11 20:54:30,980 [WARNING] Skipping invalid company name: fedex roxo
+2026-01-11 20:54:30,980 [WARNING] Skipping invalid company name: uber eats serve
+2026-01-11 20:54:30,980 [WARNING] Skipping invalid company name: boxbot delivery
+2026-01-11 20:54:30,980 [WARNING] Skipping invalid company name: kiwibot delivery
+2026-01-11 20:54:30,980 [WARNING] Skipping invalid company name: starship delivery
+2026-01-11 20:54:30,980 [WARNING] Skipping invalid company name: marble delivery
+2026-01-11 20:54:30,980 [WARNING] Skipping invalid company name: nuro r2
+2026-01-11 20:54:30,980 [WARNING] Skipping invalid company name: udelv newton
+2026-01-11 20:54:30,980 [WARNING] Skipping invalid company name: optimus ride
+2026-01-11 20:54:30,980 [WARNING] Skipping invalid company name: may mobility
+2026-01-11 20:54:30,980 [WARNING] Skipping invalid company name: local motors
+2026-01-11 20:54:30,980 [WARNING] Skipping invalid company name: sensible 4
+2026-01-11 20:54:30,980 [WARNING] Skipping invalid company name: coast autonomous
+2026-01-11 20:54:30,980 [WARNING] Skipping invalid company name: first transit
+2026-01-11 20:54:30,980 [WARNING] Skipping invalid company name: transdev ats
+2026-01-11 20:54:30,980 [WARNING] Skipping invalid company name: ratp dev
+2026-01-11 20:54:30,980 [WARNING] Skipping invalid company name: national express
+2026-01-11 20:54:30,980 [WARNING] Skipping invalid company name: lothian buses
+2026-01-11 20:54:30,980 [WARNING] Skipping invalid company name: first group
+2026-01-11 20:54:30,980 [WARNING] Skipping invalid company name: stagecoach group
+2026-01-11 20:54:30,980 [WARNING] Skipping invalid company name: veolia transport
+2026-01-11 20:54:30,980 [WARNING] Skipping invalid company name: downer edi
+2026-01-11 20:54:30,980 [WARNING] Skipping invalid company name: tower transit
+2026-01-11 20:54:30,980 [WARNING] Skipping invalid company name: comfort delgro
+2026-01-11 20:54:30,980 [WARNING] Skipping invalid company name: sbs transit
+2026-01-11 20:54:30,980 [WARNING] Skipping invalid company name: rapid kl
+2026-01-11 20:54:30,980 [WARNING] Skipping invalid company name: uber freight
+2026-01-11 20:54:30,980 [WARNING] Skipping invalid company name: next trucking
+2026-01-11 20:54:30,980 [WARNING] Skipping invalid company name: flock freight
+2026-01-11 20:54:30,980 [WARNING] Skipping invalid company name: freight farms
+2026-01-11 20:54:30,980 [WARNING] Skipping invalid company name: hwy haul
+2026-01-11 20:54:30,980 [WARNING] Skipping invalid company name: kodiak robotics
+2026-01-11 20:54:30,980 [WARNING] Skipping invalid company name: embark trucks
+2026-01-11 20:54:30,980 [WARNING] Skipping invalid company name: plus ai trucks
+2026-01-11 20:54:30,980 [WARNING] Skipping invalid company name: tusimple trucks
+2026-01-11 20:54:30,980 [WARNING] Skipping invalid company name: torc robotics
+2026-01-11 20:54:30,980 [WARNING] Skipping invalid company name: locomation trucks
+2026-01-11 20:54:30,980 [WARNING] Skipping invalid company name: pronto ai
+2026-01-11 20:54:30,980 [WARNING] Skipping invalid company name: peloton technology
+2026-01-11 20:54:30,980 [WARNING] Skipping invalid company name: c3 ai logistics
+2026-01-11 20:54:30,980 [WARNING] Skipping invalid company name: gt nexus
+2026-01-11 20:54:30,980 [WARNING] Skipping invalid company name: infor nexus
+2026-01-11 20:54:30,981 [WARNING] Skipping invalid company name: blue yonder
+2026-01-11 20:54:30,981 [WARNING] Skipping invalid company name: ifs logistics
+2026-01-11 20:54:30,981 [WARNING] Skipping invalid company name: sap logistics
+2026-01-11 20:54:30,981 [WARNING] Skipping invalid company name: oracle logistics
+2026-01-11 20:54:30,981 [WARNING] Skipping invalid company name: symphony retailai
+2026-01-11 20:54:30,981 [WARNING] Skipping invalid company name: daisy intelligence
+2026-01-11 20:54:30,981 [WARNING] Skipping invalid company name: angel one
+2026-01-11 20:54:30,981 [WARNING] Skipping invalid company name: icici direct
+2026-01-11 20:54:30,981 [WARNING] Skipping invalid company name: hdfc securities
+2026-01-11 20:54:30,981 [WARNING] Skipping invalid company name: kotak securities
+2026-01-11 20:54:30,981 [WARNING] Skipping invalid company name: axis direct
+2026-01-11 20:54:30,981 [WARNING] Skipping invalid company name: motilal oswal
+2026-01-11 20:54:30,981 [WARNING] Skipping invalid company name: anand rathi
+2026-01-11 20:54:30,981 [WARNING] Skipping invalid company name: sushil finance
+2026-01-11 20:54:30,981 [WARNING] Skipping invalid company name: hem securities
+2026-01-11 20:54:30,981 [WARNING] Skipping invalid company name: interactive brokers
+2026-01-11 20:54:30,981 [WARNING] Skipping invalid company name: td ameritrade
+2026-01-11 20:54:30,981 [WARNING] Skipping invalid company name: charles schwab
+2026-01-11 20:54:30,981 [WARNING] Skipping invalid company name: cobra trading
+2026-01-11 20:54:30,981 [WARNING] Skipping invalid company name: trackn trade
+2026-01-11 20:54:30,981 [WARNING] Skipping invalid company name: trade ideas
+2026-01-11 20:54:30,981 [WARNING] Skipping invalid company name: sierra chart
+2026-01-11 20:54:30,981 [WARNING] Skipping invalid company name: order flow
+2026-01-11 20:54:30,981 [WARNING] Skipping invalid company name: bookmap trading
+2026-01-11 20:54:30,981 [WARNING] Skipping invalid company name: quantower platform
+2026-01-11 20:54:30,981 [WARNING] Skipping invalid company name: agena trader
+2026-01-11 20:54:30,981 [WARNING] Skipping invalid company name: volfix pro
+2026-01-11 20:54:30,981 [WARNING] Skipping invalid company name: investor rt
+2026-01-11 20:54:30,981 [WARNING] Skipping invalid company name: highcharts stock
+2026-01-11 20:54:30,981 [WARNING] Skipping invalid company name: pattern explorer
+2026-01-11 20:54:30,981 [WARNING] Skipping invalid company name: equity feed
+2026-01-11 20:54:30,981 [WARNING] Skipping invalid company name: john deere
+2026-01-11 20:54:30,981 [WARNING] Skipping invalid company name: cnh industrial
+2026-01-11 20:54:30,981 [WARNING] Skipping invalid company name: same deutz-fahr
+2026-01-11 20:54:30,981 [WARNING] Skipping invalid company name: massey ferguson
+2026-01-11 20:54:30,981 [WARNING] Skipping invalid company name: precision planting
+2026-01-11 20:54:30,981 [WARNING] Skipping invalid company name: ag leader
+2026-01-11 20:54:30,981 [WARNING] Skipping invalid company name: farmers edge
+2026-01-11 20:54:30,981 [WARNING] Skipping invalid company name: climate fieldview
+2026-01-11 20:54:30,981 [WARNING] Skipping invalid company name: planet labs
+2026-01-11 20:54:30,981 [WARNING] Skipping invalid company name: descartes labs
+2026-01-11 20:54:30,981 [WARNING] Skipping invalid company name: orbital insight
+2026-01-11 20:54:30,981 [WARNING] Skipping invalid company name: capella space
+2026-01-11 20:54:30,981 [WARNING] Skipping invalid company name: qps research
+2026-01-11 20:54:30,981 [WARNING] Skipping invalid company name: si imaging services
+2026-01-11 20:54:30,981 [WARNING] Skipping invalid company name: worldview legion
+2026-01-11 20:54:30,981 [WARNING] Skipping invalid company name: cyber intelligence
+2026-01-11 20:54:30,981 [WARNING] Skipping invalid company name: shortwave infrared
+2026-01-11 20:54:30,981 [WARNING] Skipping invalid company name: synthetic aperture
+2026-01-11 20:54:30,981 [WARNING] Skipping invalid company name: ground penetrating
+2026-01-11 20:54:30,981 [WARNING] Skipping invalid company name: inverse sar
+2026-01-11 20:54:30,981 [WARNING] Skipping invalid company name: coherent change
+2026-01-11 20:54:30,981 [WARNING] Skipping invalid company name: moving target
+2026-01-11 20:54:30,981 [WARNING] Skipping invalid company name: autodesk construction cloud
+2026-01-11 20:54:30,981 [WARNING] Skipping invalid company name: leica geosystems
+2026-01-11 20:54:30,981 [WARNING] Skipping invalid company name: bosch tools
+2026-01-11 20:54:30,981 [WARNING] Skipping invalid company name: black+decker
+2026-01-11 20:54:30,981 [WARNING] Skipping invalid company name: scm group
+2026-01-11 20:54:30,981 [WARNING] Skipping invalid company name: beam saw
+2026-01-11 20:54:30,981 [WARNING] Skipping invalid company name: panel saw
+2026-01-11 20:54:30,981 [WARNING] Skipping invalid company name: vertical panel saw
+2026-01-11 20:54:30,981 [WARNING] Skipping invalid company name: sliding table saw
+2026-01-11 20:54:30,981 [WARNING] Skipping invalid company name: cabinet saw
+2026-01-11 20:54:30,981 [WARNING] Skipping invalid company name: contractor saw
+2026-01-11 20:54:30,981 [WARNING] Skipping invalid company name: jobsite saw
+2026-01-11 20:54:30,981 [WARNING] Skipping invalid company name: miter saw
+2026-01-11 20:54:30,981 [WARNING] Skipping invalid company name: radial arm saw
+2026-01-11 20:54:30,981 [WARNING] Skipping invalid company name: compound miter
+2026-01-11 20:54:30,981 [WARNING] Skipping invalid company name: dual compound
+2026-01-11 20:54:30,981 [WARNING] Skipping invalid company name: sliding compound
+2026-01-11 20:54:30,981 [WARNING] Skipping invalid company name: chop saw
+2026-01-11 20:54:30,981 [WARNING] Skipping invalid company name: cutoff saw
+2026-01-11 20:54:30,982 [WARNING] Skipping invalid company name: abrasive saw
+2026-01-11 20:54:30,982 [WARNING] Skipping invalid company name: metal chop saw
+2026-01-11 20:54:30,982 [WARNING] Skipping invalid company name: cold saw
+2026-01-11 20:54:30,982 [WARNING] Skipping invalid company name: carbide saw
+2026-01-11 20:54:30,982 [WARNING] Skipping invalid company name: tct saw
+2026-01-11 20:54:30,982 [WARNING] Skipping invalid company name: friction saw
+2026-01-11 20:54:30,982 [WARNING] Skipping invalid company name: horizontal bandsaw
+2026-01-11 20:54:30,982 [WARNING] Skipping invalid company name: vertical bandsaw
+2026-01-11 20:54:30,982 [WARNING] Skipping invalid company name: metal bandsaw
+2026-01-11 20:54:30,982 [WARNING] Skipping invalid company name: wood bandsaw
+2026-01-11 20:54:30,982 [WARNING] Skipping invalid company name: scroll saw
+2026-01-11 20:54:30,982 [WARNING] Skipping invalid company name: orbital jigsaw
+2026-01-11 20:54:30,982 [WARNING] Skipping invalid company name: reciprocating saw
+2026-01-11 20:54:30,982 [WARNING] Skipping invalid company name: demolition saw
+2026-01-11 20:54:30,982 [WARNING] Skipping invalid company name: concrete saw
+2026-01-11 20:54:30,982 [WARNING] Skipping invalid company name: tile saw
+2026-01-11 20:54:30,982 [WARNING] Skipping invalid company name: wet saw
+2026-01-11 20:54:30,982 [WARNING] Skipping invalid company name: masonry saw
+2026-01-11 20:54:30,982 [WARNING] Skipping invalid company name: diamond saw
+2026-01-11 20:54:30,982 [WARNING] Skipping invalid company name: circular saw
+2026-01-11 20:54:30,982 [WARNING] Skipping invalid company name: worm drive
+2026-01-11 20:54:30,982 [WARNING] Skipping invalid company name: track saw
+2026-01-11 20:54:30,982 [WARNING] Skipping invalid company name: plunge saw
+2026-01-11 20:54:30,982 [WARNING] Skipping invalid company name: flooring saw
+2026-01-11 20:54:30,982 [WARNING] Skipping invalid company name: timber framing saw
+2026-01-11 20:54:30,982 [WARNING] Skipping invalid company name: pole saw
+2026-01-11 20:54:30,982 [WARNING] Skipping invalid company name: electric chainsaw
+2026-01-11 20:54:30,982 [WARNING] Skipping invalid company name: battery chainsaw
+2026-01-11 20:54:30,982 [WARNING] Skipping invalid company name: gas chainsaw
+2026-01-11 20:54:30,982 [WARNING] Skipping invalid company name: professional chainsaw
+2026-01-11 20:54:30,982 [WARNING] Skipping invalid company name: tree care
+2026-01-11 20:54:30,982 [WARNING] Skipping invalid company name: hedge trimmer
+2026-01-11 20:54:30,982 [WARNING] Skipping invalid company name: string trimmer
+2026-01-11 20:54:30,982 [WARNING] Skipping invalid company name: weed eater
+2026-01-11 20:54:30,982 [WARNING] Skipping invalid company name: brush cutter
+2026-01-11 20:54:30,982 [WARNING] Skipping invalid company name: lawn mower
+2026-01-11 20:54:30,982 [WARNING] Skipping invalid company name: zero turn
+2026-01-11 20:54:30,982 [WARNING] Skipping invalid company name: riding mower
+2026-01-11 20:54:30,982 [WARNING] Skipping invalid company name: push mower
+2026-01-11 20:54:30,982 [WARNING] Skipping invalid company name: reel mower
+2026-01-11 20:54:30,982 [WARNING] Skipping invalid company name: robotic mower
+2026-01-11 20:54:30,982 [WARNING] Skipping invalid company name: leaf blower
+2026-01-11 20:54:30,982 [WARNING] Skipping invalid company name: snow blower
+2026-01-11 20:54:30,982 [WARNING] Skipping invalid company name: pressure washer
+2026-01-11 20:54:30,982 [WARNING] Skipping invalid company name: air compressor
+2026-01-11 20:54:30,982 [WARNING] Skipping invalid company name: mig welder
+2026-01-11 20:54:30,982 [WARNING] Skipping invalid company name: tig welder
+2026-01-11 20:54:30,982 [WARNING] Skipping invalid company name: stick welder
+2026-01-11 20:54:30,982 [WARNING] Skipping invalid company name: plasma cutter
+2026-01-11 20:54:30,982 [WARNING] Skipping invalid company name: acetylene torch
+2026-01-11 20:54:30,982 [WARNING] Skipping invalid company name: cutting torch
+2026-01-11 20:54:30,982 [WARNING] Skipping invalid company name: brazing torch
+2026-01-11 20:54:30,982 [WARNING] Skipping invalid company name: soldering iron
+2026-01-11 20:54:30,982 [WARNING] Skipping invalid company name: heat gun
+2026-01-11 20:54:30,982 [WARNING] Skipping invalid company name: hot air gun
+2026-01-11 20:54:30,982 [WARNING] Skipping invalid company name: paint sprayer
+2026-01-11 20:54:30,982 [WARNING] Skipping invalid company name: spray gun
+2026-01-11 20:54:30,982 [WARNING] Skipping invalid company name: texture sprayer
+2026-01-11 20:54:30,982 [WARNING] Skipping invalid company name: drywall tools
+2026-01-11 20:54:30,982 [WARNING] Skipping invalid company name: taping knife
+2026-01-11 20:54:30,982 [WARNING] Skipping invalid company name: mud pan
+2026-01-11 20:54:30,982 [WARNING] Skipping invalid company name: corner tool
+2026-01-11 20:54:30,982 [WARNING] Skipping invalid company name: orbital sander
+2026-01-11 20:54:30,982 [WARNING] Skipping invalid company name: belt sander
+2026-01-11 20:54:30,982 [WARNING] Skipping invalid company name: disc sander
+2026-01-11 20:54:30,982 [WARNING] Skipping invalid company name: drum sander
+2026-01-11 20:54:30,982 [WARNING] Skipping invalid company name: edge sander
+2026-01-11 20:54:30,982 [WARNING] Skipping invalid company name: spindle sander
+2026-01-11 20:54:30,982 [WARNING] Skipping invalid company name: oscillating tool
+2026-01-11 20:54:30,982 [WARNING] Skipping invalid company name: trim router
+2026-01-11 20:54:30,982 [WARNING] Skipping invalid company name: plunge router
+2026-01-11 20:54:30,982 [WARNING] Skipping invalid company name: combo router
+2026-01-11 20:54:30,982 [WARNING] Skipping invalid company name: router table
+2026-01-11 20:54:30,983 [WARNING] Skipping invalid company name: wood shaper
+2026-01-11 20:54:30,983 [WARNING] Skipping invalid company name: thickness planer
+2026-01-11 20:54:30,983 [WARNING] Skipping invalid company name: combination machine
+2026-01-11 20:54:30,983 [WARNING] Skipping invalid company name: dust collector
+2026-01-11 20:54:30,983 [WARNING] Skipping invalid company name: shop vac
+2026-01-11 20:54:30,983 [WARNING] Skipping invalid company name: central vacuum
+2026-01-11 20:54:30,983 [WARNING] Skipping invalid company name: air filtration
+2026-01-11 20:54:30,983 [WARNING] Skipping invalid company name: downdraft table
+2026-01-11 20:54:30,983 [WARNING] Skipping invalid company name: spray booth
+2026-01-11 20:54:30,983 [WARNING] Skipping invalid company name: paint booth
+2026-01-11 20:54:30,983 [WARNING] Skipping invalid company name: powder coating
+2026-01-11 20:54:30,983 [WARNING] Skipping invalid company name: media blaster
+2026-01-11 20:54:30,983 [WARNING] Skipping invalid company name: soda blaster
+2026-01-11 20:54:30,983 [WARNING] Skipping invalid company name: vapor blaster
+2026-01-11 20:54:30,983 [WARNING] Skipping invalid company name: wet blaster
+2026-01-11 20:54:30,983 [WARNING] Skipping invalid company name: abrasive blaster
+2026-01-11 20:54:30,983 [WARNING] Skipping invalid company name: formosa plastics
+2026-01-11 20:54:30,983 [WARNING] Skipping invalid company name: exxonmobil chemical
+2026-01-11 20:54:30,983 [WARNING] Skipping invalid company name: mitsubishi chemical
+2026-01-11 20:54:30,983 [WARNING] Skipping invalid company name: sumitomo chemical
+2026-01-11 20:54:30,983 [WARNING] Skipping invalid company name: lg chem
+2026-01-11 20:54:30,983 [WARNING] Skipping invalid company name: lotte chemical
+2026-01-11 20:54:30,983 [WARNING] Skipping invalid company name: hanwha solutions
+2026-01-11 20:54:30,983 [WARNING] Skipping invalid company name: sk chemicals
+2026-01-11 20:54:30,983 [WARNING] Skipping invalid company name: kumho petrochemical
+2026-01-11 20:54:30,983 [WARNING] Skipping invalid company name: gs caltex
+2026-01-11 20:54:30,983 [WARNING] Skipping invalid company name: sk innovation
+2026-01-11 20:54:30,983 [WARNING] Skipping invalid company name: posco chemical
+2026-01-11 20:54:30,983 [WARNING] Skipping invalid company name: yeochun ncc
+2026-01-11 20:54:30,983 [WARNING] Skipping invalid company name: daehan oil
+2026-01-11 20:54:30,983 [WARNING] Skipping invalid company name: hyundai oilbank
+2026-01-11 20:54:30,983 [WARNING] Skipping invalid company name: hankook shell
+2026-01-11 20:54:30,983 [WARNING] Skipping invalid company name: dongbu hannong
+2026-01-11 20:54:30,983 [WARNING] Skipping invalid company name: kyung in
+2026-01-11 20:54:30,983 [WARNING] Skipping invalid company name: nam hae
+2026-01-11 20:54:30,983 [WARNING] Skipping invalid company name: hanwha chemical
+2026-01-11 20:54:30,983 [WARNING] Skipping invalid company name: hanwha total
+2026-01-11 20:54:30,983 [WARNING] Skipping invalid company name: lg mma
+2026-01-11 20:54:30,983 [WARNING] Skipping invalid company name: lg hausys
+2026-01-11 20:54:30,983 [WARNING] Skipping invalid company name: sk functional polymer
+2026-01-11 20:54:30,983 [WARNING] Skipping invalid company name: sk geo centric
+2026-01-11 20:54:30,983 [WARNING] Skipping invalid company name: lotte mcc
+2026-01-11 20:54:30,983 [WARNING] Skipping invalid company name: gs plastics
+2026-01-11 20:54:30,983 [WARNING] Skipping invalid company name: kumho mitsui
+2026-01-11 20:54:30,983 [WARNING] Skipping invalid company name: kumho p&b
+2026-01-11 20:54:30,983 [WARNING] Skipping invalid company name: honam petrochemical
+2026-01-11 20:54:30,983 [WARNING] Skipping invalid company name: samsung total
+2026-01-11 20:54:30,983 [WARNING] Skipping invalid company name: samsung bp
+2026-01-11 20:54:30,983 [WARNING] Skipping invalid company name: samsung fine chemicals
+2026-01-11 20:54:30,983 [WARNING] Skipping invalid company name: samsung sdi chemicals
+2026-01-11 20:54:30,983 [WARNING] Skipping invalid company name: sk materials
+2026-01-11 20:54:30,983 [WARNING] Skipping invalid company name: sk nexilis
+2026-01-11 20:54:30,983 [WARNING] Skipping invalid company name: sk ie technology
+2026-01-11 20:54:30,983 [WARNING] Skipping invalid company name: posco chemicals
+2026-01-11 20:54:30,983 [WARNING] Skipping invalid company name: lg energy solution
+2026-01-11 20:54:30,983 [WARNING] Skipping invalid company name: samsung electronics materials
+2026-01-11 20:54:30,983 [WARNING] Skipping invalid company name: sk materials jrs
+2026-01-11 20:54:30,983 [WARNING] Skipping invalid company name: rio tinto
+2026-01-11 20:54:30,983 [WARNING] Skipping invalid company name: china shenhua
+2026-01-11 20:54:30,983 [WARNING] Skipping invalid company name: zijin mining
+2026-01-11 20:54:30,983 [WARNING] Skipping invalid company name: shandong gold
+2026-01-11 20:54:30,983 [WARNING] Skipping invalid company name: agnico eagle
+2026-01-11 20:54:30,983 [WARNING] Skipping invalid company name: barrick gold
+2026-01-11 20:54:30,984 [WARNING] Skipping invalid company name: gold fields
+2026-01-11 20:54:30,984 [WARNING] Skipping invalid company name: northern star
+2026-01-11 20:54:30,984 [WARNING] Skipping invalid company name: red lake
+2026-01-11 20:54:30,984 [WARNING] Skipping invalid company name: kirkland lake
+2026-01-11 20:54:30,984 [WARNING] Skipping invalid company name: detour gold
+2026-01-11 20:54:30,984 [WARNING] Skipping invalid company name: americas gold
+2026-01-11 20:54:30,984 [WARNING] Skipping invalid company name: lundin gold
+2026-01-11 20:54:30,984 [WARNING] Skipping invalid company name: mcewan copper
+2026-01-11 20:54:30,984 [WARNING] Skipping invalid company name: copper mountain
+2026-01-11 20:54:30,984 [WARNING] Skipping invalid company name: southern copper
+2026-01-11 20:54:30,984 [WARNING] Skipping invalid company name: anglo american
+2026-01-11 20:54:30,984 [WARNING] Skipping invalid company name: group mexico
+2026-01-11 20:54:30,984 [WARNING] Skipping invalid company name: los bronces
+2026-01-11 20:54:30,984 [WARNING] Skipping invalid company name: los pelambres
+2026-01-11 20:54:30,984 [WARNING] Skipping invalid company name: el teniente
+2026-01-11 20:54:30,984 [WARNING] Skipping invalid company name: cerro verde
+2026-01-11 20:54:30,984 [WARNING] Skipping invalid company name: las bambas
+2026-01-11 20:54:30,984 [WARNING] Skipping invalid company name: bingham canyon
+2026-01-11 20:54:30,984 [WARNING] Skipping invalid company name: radomiro tomic
+2026-01-11 20:54:30,984 [WARNING] Skipping invalid company name: quebrada blanca
+2026-01-11 20:54:30,984 [WARNING] Skipping invalid company name: minister hales
+2026-01-11 20:54:30,984 [WARNING] Skipping invalid company name: olympic dam
+2026-01-11 20:54:30,984 [WARNING] Skipping invalid company name: prominent hill
+2026-01-11 20:54:30,984 [WARNING] Skipping invalid company name: northern dynasty
+2026-01-11 20:54:30,984 [WARNING] Skipping invalid company name: fort knox
+2026-01-11 20:54:30,984 [WARNING] Skipping invalid company name: dublin gulch
+2026-01-11 20:54:30,984 [WARNING] Skipping invalid company name: schaft creek
+2026-01-11 20:54:30,984 [WARNING] Skipping invalid company name: galore creek
+2026-01-11 20:54:30,984 [WARNING] Skipping invalid company name: red chris
+2026-01-11 20:54:30,984 [WARNING] Skipping invalid company name: mount milligan
+2026-01-11 20:54:30,984 [WARNING] Skipping invalid company name: rainy river
+2026-01-11 20:54:30,984 [WARNING] Skipping invalid company name: detour lake
+2026-01-11 20:54:30,984 [WARNING] Skipping invalid company name: keno hill
+2026-01-11 20:54:30,984 [WARNING] Skipping invalid company name: victoria gold
+2026-01-11 20:54:30,984 [WARNING] Skipping invalid company name: back river
+2026-01-11 20:54:30,984 [WARNING] Skipping invalid company name: hope bay
+2026-01-11 20:54:30,984 [WARNING] Skipping invalid company name: whale tail
+2026-01-11 20:54:30,984 [WARNING] Skipping invalid company name: gahcho kue
+2026-01-11 20:54:30,984 [WARNING] Skipping invalid company name: snap lake
+2026-01-11 20:54:30,984 [WARNING] Skipping invalid company name: fort rupert
+2026-01-11 20:54:30,984 [WARNING] Skipping invalid company name: marble island
+2026-01-11 20:54:30,984 [WARNING] Skipping invalid company name: roes welcome
+2026-01-11 20:54:30,984 [WARNING] Skipping invalid company name: wager bay
+2026-01-11 20:54:30,984 [WARNING] Skipping invalid company name: saudi aramco
+2026-01-11 20:54:30,984 [WARNING] Skipping invalid company name: kuwait petroleum
+2026-01-11 20:54:30,984 [WARNING] Skipping invalid company name: jx nippon
+2026-01-11 20:54:30,984 [WARNING] Skipping invalid company name: osaka gas
+2026-01-11 20:54:30,984 [WARNING] Skipping invalid company name: tokyo gas
+2026-01-11 20:54:30,984 [WARNING] Skipping invalid company name: bharat petroleum
+2026-01-11 20:54:30,984 [WARNING] Skipping invalid company name: hindustan petroleum
+2026-01-11 20:54:30,984 [WARNING] Skipping invalid company name: oil india
+2026-01-11 20:54:30,984 [WARNING] Skipping invalid company name: petronet lng
+2026-01-11 20:54:30,984 [WARNING] Skipping invalid company name: mangalore refinery
+2026-01-11 20:54:30,984 [WARNING] Skipping invalid company name: chennai petroleum
+2026-01-11 20:54:30,984 [WARNING] Skipping invalid company name: numaligarh refinery
+2026-01-11 20:54:30,984 [WARNING] Skipping invalid company name: bpcl kochi
+2026-01-11 20:54:30,984 [WARNING] Skipping invalid company name: hpcl mittal
+2026-01-11 20:54:30,984 [WARNING] Skipping invalid company name: ratnagiri refinery
+2026-01-11 20:54:30,984 [WARNING] Skipping invalid company name: barmer refinery
+2026-01-11 20:54:30,985 [WARNING] Skipping invalid company name: paradip refinery
+2026-01-11 20:54:30,985 [WARNING] Skipping invalid company name: panipat refinery
+2026-01-11 20:54:30,985 [WARNING] Skipping invalid company name: haldia refinery
+2026-01-11 20:54:30,985 [WARNING] Skipping invalid company name: digboi refinery
+2026-01-11 20:54:30,985 [WARNING] Skipping invalid company name: bongaigaon refinery
+2026-01-11 20:54:30,985 [WARNING] Skipping invalid company name: guwahati refinery
+2026-01-11 20:54:30,985 [WARNING] Skipping invalid company name: mathura refinery
+2026-01-11 20:54:30,985 [WARNING] Skipping invalid company name: koyali refinery
+2026-01-11 20:54:30,985 [WARNING] Skipping invalid company name: mumbai refinery
+2026-01-11 20:54:30,985 [WARNING] Skipping invalid company name: cauvery basin
+2026-01-11 20:54:30,985 [WARNING] Skipping invalid company name: krishna godavari
+2026-01-11 20:54:30,985 [WARNING] Skipping invalid company name: assam arakan
+2026-01-11 20:54:30,985 [WARNING] Skipping invalid company name: mumbai offshore
+2026-01-11 20:54:30,985 [WARNING] Skipping invalid company name: son valley
+2026-01-11 20:54:30,985 [WARNING] Skipping invalid company name: kerala basin
+2026-01-11 20:54:30,985 [WARNING] Skipping invalid company name: nextera energy
+2026-01-11 20:54:30,985 [WARNING] Skipping invalid company name: enel green power
+2026-01-11 20:54:30,985 [WARNING] Skipping invalid company name: edf renewables
+2026-01-11 20:54:30,985 [WARNING] Skipping invalid company name: rwe renewables
+2026-01-11 20:54:30,985 [WARNING] Skipping invalid company name: acciona energia
+2026-01-11 20:54:30,985 [WARNING] Skipping invalid company name: canadian solar
+2026-01-11 20:54:30,985 [WARNING] Skipping invalid company name: first solar
+2026-01-11 20:54:30,985 [WARNING] Skipping invalid company name: jinko solar
+2026-01-11 20:54:30,985 [WARNING] Skipping invalid company name: longi solar
+2026-01-11 20:54:30,985 [WARNING] Skipping invalid company name: trina solar
+2026-01-11 20:54:30,985 [WARNING] Skipping invalid company name: ja solar
+2026-01-11 20:54:30,985 [WARNING] Skipping invalid company name: risen energy
+2026-01-11 20:54:30,985 [WARNING] Skipping invalid company name: canadian solar solutions
+2026-01-11 20:54:30,985 [WARNING] Skipping invalid company name: hanwha qcells
+2026-01-11 20:54:30,985 [WARNING] Skipping invalid company name: rec solar
+2026-01-11 20:54:30,985 [WARNING] Skipping invalid company name: jinkosolar holding
+2026-01-11 20:54:30,985 [WARNING] Skipping invalid company name: trina solar energy
+2026-01-11 20:54:30,985 [WARNING] Skipping invalid company name: ja solar holdings
+2026-01-11 20:54:30,985 [WARNING] Skipping invalid company name: aiko solar
+2026-01-11 20:54:30,985 [WARNING] Skipping invalid company name: tongwei solar
+2026-01-11 20:54:30,985 [WARNING] Skipping invalid company name: daqo new energy
+2026-01-11 20:54:30,985 [WARNING] Skipping invalid company name: xinyi solar
+2026-01-11 20:54:30,985 [WARNING] Skipping invalid company name: flat glass
+2026-01-11 20:54:30,985 [WARNING] Skipping invalid company name: csg holdings
+2026-01-11 20:54:30,985 [WARNING] Skipping invalid company name: asia silicon
+2026-01-11 20:54:30,985 [WARNING] Skipping invalid company name: wacker chemie
+2026-01-11 20:54:30,986 [INFO] Starting validation of 100 companies
+2026-01-11 20:54:31,599 [INFO] Found career page for netflix: https://jobs.netflix.com
+2026-01-11 20:54:31,691 [INFO] Found career page for google: https://jobs.google.com
+2026-01-11 20:54:31,728 [INFO] Found career page for microsoft: https://careers.microsoft.com
+2026-01-11 20:54:31,802 [INFO] Found career page for nvidia: https://careers.nvidia.com
+2026-01-11 20:54:31,851 [INFO] Found career page for apple: https://jobs.apple.com
+2026-01-11 20:54:32,423 [INFO] ✓ apple - Found jobs via HTML
+2026-01-11 20:54:32,442 [INFO] Found career page for amazon: https://www.amazon.com/careers
+2026-01-11 20:54:32,721 [INFO] Found career page for adobe: https://careers.adobe.com
+2026-01-11 20:54:32,851 [INFO] Found career page for meta: https://www.meta.com/careers
+2026-01-11 20:54:32,937 [INFO] Found career page for oracle: https://careers.oracle.com
+2026-01-11 20:54:33,201 [INFO] Found career page for salesforce: https://careers.salesforce.com
+2026-01-11 20:54:33,259 [INFO] ✓ adobe - Found jobs via HTML
+2026-01-11 20:54:34,061 [INFO] Found career page for amd: https://careers.amd.com
+2026-01-11 20:54:34,080 [INFO] Found career page for qualcomm: https://jobs.qualcomm.com
+2026-01-11 20:54:34,244 [INFO] ✓ meta - Found jobs via HTML
+2026-01-11 20:54:34,254 [INFO] Found career page for ibm: https://careers.ibm.com
+2026-01-11 20:54:34,490 [INFO] Found career page for dell: https://jobs.dell.com
+2026-01-11 20:54:34,559 [INFO] Found career page for hp: https://jobs.hp.com
+2026-01-11 20:54:34,695 [INFO] ✓ dell - Found jobs via HTML
+2026-01-11 20:54:35,572 [INFO] Found career page for redhat: https://jobs.redhat.com
+2026-01-11 20:54:35,879 [INFO] Found career page for cisco: https://jobs.cisco.com
+2026-01-11 20:54:36,241 [INFO] Found career page for suse: https://jobs.suse.com
+2026-01-11 20:54:37,110 [INFO] Found career page for hpe: https://careers.hpe.com
+2026-01-11 20:54:37,129 [INFO] Found career page for anthropic: https://www.anthropic.com/careers
+2026-01-11 20:54:37,623 [INFO] Found career page for canonical: https://careers.canonical.com
+2026-01-11 20:54:38,156 [INFO] Found career page for cohere: https://www.cohere.com/careers
+2026-01-11 20:54:38,582 [INFO] Found career page for huggingface: https://www.huggingface.com/careers
+2026-01-11 20:54:38,999 [INFO] Found career page for datarobot: https://www.datarobot.com/careers
+2026-01-11 20:54:39,371 [INFO] Found career page for facebook: https://careers.facebook.com
+2026-01-11 20:54:39,380 [INFO] Found career page for palantir: https://www.palantir.com/careers
+2026-01-11 20:54:39,544 [INFO] Found career page for databricks: https://www.databricks.com/careers
+2026-01-11 20:54:40,159 [INFO] Found career page for snowflake: https://careers.snowflake.com
+2026-01-11 20:54:40,163 [INFO] Found career page for inflection: https://www.inflection.com/careers
+2026-01-11 20:54:40,382 [INFO] ✓ inflection - Found jobs via HTML
+2026-01-11 20:54:40,714 [INFO] Found career page for deepmind: https://www.deepmind.com/careers
+2026-01-11 20:54:40,805 [INFO] ✓ snowflake - Found jobs via HTML
+2026-01-11 20:54:41,230 [INFO] ✓ facebook - Found jobs via HTML
+2026-01-11 20:54:42,928 [INFO] Found career page for runway: https://www.runway.com/careers
+2026-01-11 20:54:44,192 [INFO] Found career page for broadcom: https://www.broadcom.com/careers
+2026-01-11 20:54:45,064 [INFO] Found career page for adept: https://www.adept.com/careers
+2026-01-11 20:54:45,886 [INFO] Found career page for descript: https://www.descript.com/careers
+2026-01-11 20:54:46,145 [INFO] ✓ descript - Found jobs via HTML
+2026-01-11 20:54:46,883 [INFO] Found career page for mistral: https://mistral.ai/careers
+2026-01-11 20:54:48,137 [INFO] Found career page for typeface: https://typeface.ai/careers
+2026-01-11 20:54:48,542 [INFO] Found career page for clari: https://www.clari.com/careers
+2026-01-11 20:54:49,936 [INFO] Found career page for salesloft: https://www.salesloft.com/careers
+2026-01-11 20:54:50,170 [INFO] Found career page for zoominfo: https://www.zoominfo.com/careers
+2026-01-11 20:54:50,485 [INFO] ✓ zoominfo - Found jobs via HTML
+2026-01-11 20:54:50,773 [INFO] Found career page for outreach: https://outreach.ai/careers
+2026-01-11 20:54:52,879 [INFO] Found career page for demandbase: https://www.demandbase.com/careers
+2026-01-11 20:54:54,278 [INFO] Found career page for drift: https://jobs.drift.com
+2026-01-11 20:54:54,299 [INFO] Found career page for intercom: https://www.intercom.com/careers
+2026-01-11 20:54:54,970 [INFO] Found career page for calendly: https://jobs.calendly.com
+2026-01-11 20:54:55,917 [INFO] Found career page for mixmax: https://www.mixmax.com/careers
+2026-01-11 20:54:56,271 [INFO] Found career page for intel: https://www.intel.com/jobs
+2026-01-11 20:54:56,997 [INFO] Found career page for front: https://www.front.com/careers
+2026-01-11 20:54:57,427 [INFO] Found career page for spark: https://www.spark.com/careers
+2026-01-11 20:54:57,577 [INFO] Found career page for superhuman: https://www.superhuman.com/careers
+2026-01-11 20:54:58,118 [INFO] Found career page for protonmail: https://careers.protonmail.com
+2026-01-11 20:54:58,388 [INFO] ✓ superhuman - Found jobs via HTML
+2026-01-11 20:54:59,092 [INFO] Found career page for newton: https://www.newton.com/careers
+2026-01-11 20:55:00,180 [INFO] Found career page for spike: https://www.spike.com/careers
+2026-01-11 20:55:01,550 [INFO] Found career page for aws: https://www.aws.com/careers
+2026-01-11 20:55:01,885 [INFO] Found career page for tutanota: https://www.tutanota.com/jobs
+2026-01-11 20:55:03,285 [INFO] ✓ tutanota - Found jobs via HTML
+2026-01-11 20:55:03,740 [INFO] Found career page for digitalocean: https://careers.digitalocean.com
+2026-01-11 20:55:04,668 [INFO] Found career page for vultr: https://www.vultr.com/jobs
+2026-01-11 20:55:05,109 [INFO] Found career page for cloudflare: https://www.cloudflare.com/careers
+2026-01-11 20:55:05,605 [INFO] Found career page for fastly: https://www.fastly.com/careers
+2026-01-11 20:55:08,511 [INFO] Found career page for imperva: https://careers.imperva.com
+2026-01-11 20:55:09,728 [INFO] Found career page for mongodb: https://jobs.mongodb.com
+2026-01-11 20:55:10,652 [INFO] Found career page for redis: https://redis.com/careers
+2026-01-11 20:55:12,469 [INFO] Found career page for elasticsearch: https://www.elasticsearch.com/careers
+2026-01-11 20:55:14,597 [INFO] Found career page for algolia: https://www.algolia.com/careers
+2026-01-11 20:55:15,768 [INFO] Found career page for meilisearch: https://www.meilisearch.com/careers
+2026-01-11 20:55:30,511 [INFO] Found career page for solr: https://solr.ai/careers
+2026-01-11 20:55:31,147 [INFO] ✓ solr - Found jobs via HTML
+2026-01-11 20:55:42,514 [INFO] Found career page for jasper: https://jasper.ai/careers
+2026-01-11 20:56:40,525 [INFO] Validation complete: 12 valid, 88 invalid
+2026-01-11 20:56:40,527 [INFO] Results saved: 12 valid, 88 invalid
