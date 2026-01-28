@@ -1,9 +1,11 @@
 from __future__ import annotations
 
 import argparse
+import json
 import os
 import re
 import sqlite3
+import time
 from dataclasses import dataclass
 from datetime import datetime, timedelta
 from pathlib import Path
@@ -21,6 +23,77 @@ from dateutil import tz
 # =========================
 TIMEZONE = "America/Chicago"
 
+'''ROLE_KEYWORDS = [
+    # Core health informatics roles
+    "health informatics",
+    "healthcare informatics",
+    "clinical informatics",
+    "medical informatics",
+    "biomedical informatics",
+    
+    # Healthcare data & analytics roles
+    "healthcare data analyst",
+    "healthcare data scientist",
+    "clinical data analyst",
+    "clinical data scientist",
+    "healthcare analyst",
+    "clinical analyst",
+    "population health analyst",
+    "public health analyst",
+    "health analytics",
+    
+    # Healthcare data engineering
+    "healthcare data engineer",
+    "clinical data engineer",
+    "health data engineer",
+    
+    # Clinical systems & IT
+    "clinical systems analyst",
+    "health it analyst",
+    "healthcare it specialist",
+    "ehr analyst",
+    "ehr developer",
+    "epic analyst",
+    "cerner analyst",
+    "clinical applications analyst",
+    
+    # Research informatics
+    "clinical research informatics",
+    "research informatics",
+    "translational informatics",
+    "clinical research analyst",
+    "clinical research coordinator",  # Often has data components
+    
+    # BI & reporting in healthcare
+    "healthcare business intelligence",
+    "clinical bi developer",
+    "healthcare bi analyst",
+    
+    # Specialized domains
+    "bioinformatics",  # Genomics/computational biology focused
+    "pharmacy informatics",
+    "nursing informatics",
+    "dental informatics",
+    "radiology informatics",
+    "pathology informatics",
+    
+    # Manager/Lead roles
+    "health informatics manager",
+    "clinical informatics director",
+    "healthcare analytics manager",
+    "director of health informatics",
+    
+    # Adjacent/broader roles with healthcare focus
+    "data scientist - healthcare",
+    "data analyst - healthcare",
+    "ml engineer - healthcare",
+    "software engineer - healthcare",
+]
+
+EXCLUDE_KEYWORDS = [
+    "intern", "internship", "co-op", "contract", "temporary", "part-time"
+]
+'''
 ROLE_KEYWORDS = [
     # Core data roles
     "data scientist",
@@ -72,6 +145,8 @@ COLLECT_EVERY_MINUTES = 20
 DB_PATH = "jobs.db"
 EXPORT_DIR = Path("exports")
 VALID_DIR = Path("validated_sources")
+STATE_DIR = Path("state")
+PIPELINE_STATE_PATH = STATE_DIR / "pipeline_state.json"
 
 DEFAULT_MASTER_LIST_LOCAL = Path("sources/companies.txt")
 
@@ -89,6 +164,43 @@ SESSION.headers.update({
     "Accept": "application/json",
     "User-Agent": "job-radar/2.0"
 })
+
+
+def http_get_json_with_retry(
+    url: str,
+    *,
+    params: Optional[dict] = None,
+    timeout: int = 30,
+    max_retries: int = 5,
+) -> Any:
+    """GET JSON with basic backoff. Safe for GitHub Actions / flaky networks.
+
+    Retries on: timeouts, connection errors, 429, 5xx.
+    """
+    for attempt in range(max_retries):
+        try:
+            resp = SESSION.get(url, params=params, timeout=timeout)
+            if resp.status_code == 429:
+                retry_after = resp.headers.get("Retry-After")
+                sleep_s = int(retry_after) if (retry_after and retry_after.isdigit()) else (2 * (attempt + 1))
+                time.sleep(min(sleep_s, 30))
+                continue
+            if 500 <= resp.status_code < 600:
+                time.sleep(min(2 * (attempt + 1), 10))
+                continue
+            resp.raise_for_status()
+            return resp.json()
+        except (requests.Timeout, requests.ConnectionError):
+            time.sleep(min(2 * (attempt + 1), 10))
+            continue
+        except ValueError:
+            # JSON parse error
+            raise
+
+    # last attempt (surface real error)
+    resp = SESSION.get(url, params=params, timeout=timeout)
+    resp.raise_for_status()
+    return resp.json()
 
 
 # =========================
@@ -201,6 +313,7 @@ def is_stale_posting(posted_at: Optional[datetime]) -> bool:
 def ensure_dirs() -> None:
     VALID_DIR.mkdir(parents=True, exist_ok=True)
     EXPORT_DIR.mkdir(parents=True, exist_ok=True)
+    STATE_DIR.mkdir(parents=True, exist_ok=True)
 
 def resolve_master_companies_file() -> Path:
     env_path = os.getenv("COMPANIES_FILE", "").strip()
@@ -248,44 +361,98 @@ def init_db() -> None:
             url TEXT NOT NULL,
             posted_at TEXT,
             first_seen_at TEXT NOT NULL,
+            last_seen_at TEXT NOT NULL,
             description TEXT,
             score INTEGER NOT NULL DEFAULT 0,
             PRIMARY KEY (source, job_id)
         )
         """)
+        # Backward-compatible migration for older DBs.
+        cols = {row[1] for row in conn.execute("PRAGMA table_info(jobs)").fetchall()}
+        if "last_seen_at" not in cols:
+            conn.execute("ALTER TABLE jobs ADD COLUMN last_seen_at TEXT")
+            conn.execute("UPDATE jobs SET last_seen_at = first_seen_at WHERE last_seen_at IS NULL")
+            conn.execute("UPDATE jobs SET last_seen_at = ? WHERE last_seen_at IS NULL", (to_iso_utc(now_local()),))
         conn.execute("CREATE INDEX IF NOT EXISTS idx_jobs_first_seen ON jobs(first_seen_at)")
         conn.execute("CREATE INDEX IF NOT EXISTS idx_jobs_posted ON jobs(posted_at)")
+        conn.execute("CREATE INDEX IF NOT EXISTS idx_jobs_last_seen ON jobs(last_seen_at)")
         conn.execute("CREATE INDEX IF NOT EXISTS idx_jobs_score ON jobs(score)")
         conn.execute("CREATE INDEX IF NOT EXISTS idx_jobs_company ON jobs(company)")
 
-def upsert_jobs(jobs: List[Job]) -> Tuple[int, int, int]:
-    """Returns (inserted, skipped_duplicate, skipped_stale)"""
+def upsert_jobs(jobs: List[Job]) -> Tuple[int, int, int, int]:
+    """Returns (inserted, updated_existing, skipped_stale, skipped_invalid)"""
     inserted = 0
-    skipped_duplicate = 0
     skipped_stale = 0
+    updated_existing = 0
+    skipped_invalid = 0
     
+    now_seen_iso = to_iso_utc(now_local())
+
     with sqlite3.connect(DB_PATH) as conn:
+        conn.execute("PRAGMA journal_mode=WAL")
+        conn.execute("PRAGMA synchronous=NORMAL")
         for j in jobs:
+            # Basic sanity checks (fool-proofing)
+            if not (j.source and j.job_id and j.title and j.company and j.url):
+                skipped_invalid += 1
+                continue
+
             # Skip stale postings
             if is_stale_posting(j.posted_at):
                 skipped_stale += 1
                 continue
-            
-            try:
-                conn.execute("""
-                    INSERT INTO jobs
-                    (source, job_id, title, company, location, url, posted_at, first_seen_at, description, score)
-                    VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
-                """, (
-                    j.source, j.job_id, j.title, j.company, j.location, j.url,
-                    j.posted_at_iso, j.first_seen_at_iso, j.description,
-                    score_job(j.title, j.location, j.description)
-                ))
+
+            sc = score_job(j.title, j.location, j.description)
+
+            # Insert or update last_seen_at for existing rows (no duplicates across runs).
+            cur = conn.execute(
+                """
+                INSERT INTO jobs
+                (source, job_id, title, company, location, url, posted_at, first_seen_at, last_seen_at, description, score)
+                VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+                ON CONFLICT(source, job_id) DO UPDATE SET
+                    last_seen_at = excluded.last_seen_at,
+                    -- keep the most informative posted_at if it was missing before
+                    posted_at = COALESCE(jobs.posted_at, excluded.posted_at),
+                    -- allow description to be filled in later if empty
+                    description = CASE
+                        WHEN (jobs.description IS NULL OR jobs.description = '') AND (excluded.description IS NOT NULL AND excluded.description != '')
+                        THEN excluded.description
+                        ELSE jobs.description
+                    END,
+                    -- score can evolve if description is filled in later
+                    score = MAX(jobs.score, excluded.score)
+                """,
+                (
+                    j.source,
+                    j.job_id,
+                    j.title,
+                    j.company,
+                    j.location,
+                    j.url,
+                    j.posted_at_iso,
+                    j.first_seen_at_iso,
+                    now_seen_iso,
+                    j.description,
+                    sc,
+                ),
+            )
+            # sqlite doesn't directly tell insert vs update reliably; use rowcount heuristic.
+            # For INSERT it is typically 1, for UPDATE it is also 1.
+            # We'll infer using a SELECT existence check only when needed.
+            # Cheap approach: if it conflicted, we count it as updated.
+            # Detect conflict by checking if it already existed before attempt.
+            # (We do it with a quick SELECT.)
+            existed = conn.execute(
+                "SELECT 1 FROM jobs WHERE source=? AND job_id=? AND first_seen_at < ? LIMIT 1",
+                (j.source, j.job_id, j.first_seen_at_iso),
+            ).fetchone()
+            if existed:
+                updated_existing += 1
+            else:
                 inserted += 1
-            except sqlite3.IntegrityError:
-                skipped_duplicate += 1
-    
-    return inserted, skipped_duplicate, skipped_stale
+
+    return inserted, updated_existing, skipped_stale, skipped_invalid
 
 
 # =========================
@@ -619,9 +786,7 @@ def load_validated_sources() -> Tuple[List[str], List[str], List[str], List[str]
 # =========================
 def fetch_greenhouse(board: str) -> List[Job]:
     url = f"https://boards-api.greenhouse.io/v1/boards/{board}/jobs"
-    resp = SESSION.get(url, timeout=30)
-    resp.raise_for_status()
-    data = resp.json()
+    data = http_get_json_with_retry(url, timeout=30)
 
     out: List[Job] = []
     seen = now_local()
@@ -645,9 +810,7 @@ def fetch_greenhouse(board: str) -> List[Job]:
 
 def fetch_lever(company: str) -> List[Job]:
     url = f"https://api.lever.co/v0/postings/{company}?mode=json"
-    resp = SESSION.get(url, timeout=30)
-    resp.raise_for_status()
-    data = resp.json()
+    data = http_get_json_with_retry(url, timeout=30)
 
     out: List[Job] = []
     seen = now_local()
@@ -672,8 +835,6 @@ def fetch_lever(company: str) -> List[Job]:
 
         out.append(Job("lever", job_id, title, company, loc, abs_url, posted_at, seen, description))
     return out
-
-import time
 
 def fetch_smartrecruiters(company: str) -> List[Job]:
     """
@@ -762,9 +923,7 @@ def fetch_ashby(company: str) -> List[Job]:
     Returns JSON with jobs array.
     """
     url = f"https://jobs.ashbyhq.com/{company}/jobs"
-    resp = SESSION.get(url, timeout=30)
-    resp.raise_for_status()
-    data = resp.json()
+    data = http_get_json_with_retry(url, timeout=30)
 
     out: List[Job] = []
     seen = now_local()
@@ -810,7 +969,12 @@ def fetch_ashby(company: str) -> List[Job]:
 # =========================
 # Collect
 # =========================
-def collect_once() -> None:
+def collect_once(
+    *,
+    days_back_posted: Optional[int] = None,
+    require_posted_at: bool = False,
+    max_per_source: Optional[int] = None,
+) -> None:
     ensure_dirs()
     init_db()
 
@@ -835,12 +999,32 @@ def collect_once() -> None:
     all_jobs: List[Job] = []
     errors: Dict[str, int] = {"greenhouse": 0, "lever": 0, "smartrecruiters": 0, "ashby": 0}
 
+    cutoff_utc: Optional[datetime] = None
+    if isinstance(days_back_posted, int) and days_back_posted > 0:
+        cutoff_local = now_local() - timedelta(days=days_back_posted)
+        cutoff_utc = cutoff_local.astimezone(tz.UTC)
+
+    def keep_job(j: Job) -> bool:
+        if require_posted_at and not j.posted_at:
+            return False
+        if cutoff_utc and j.posted_at and j.posted_at.astimezone(tz.UTC) < cutoff_utc:
+            return False
+        return True
+
+    def extend_limited(jobs: List[Job]) -> None:
+        if not jobs:
+            return
+        kept = [j for j in jobs if keep_job(j)]
+        if max_per_source and max_per_source > 0:
+            kept = kept[:max_per_source]
+        all_jobs.extend(kept)
+
     # Greenhouse
     print(f"[collect] Fetching from {len(gh)} Greenhouse boards...")
     for i, board in enumerate(gh, 1):
         try:
             jobs = fetch_greenhouse(board)
-            all_jobs.extend(jobs)
+            extend_limited(jobs)
             if (i % 10 == 0) or i == len(gh):
                 print(f"  Progress: {i}/{len(gh)} boards ({len(all_jobs)} jobs so far)")
         except Exception as e:
@@ -853,7 +1037,7 @@ def collect_once() -> None:
     for i, company in enumerate(lv, 1):
         try:
             jobs = fetch_lever(company)
-            all_jobs.extend(jobs)
+            extend_limited(jobs)
             if (i % 10 == 0) or i == len(lv):
                 print(f"  Progress: {i}/{len(lv)} companies ({len(all_jobs)} jobs so far)")
         except Exception as e:
@@ -866,7 +1050,7 @@ def collect_once() -> None:
     for i, company in enumerate(sr, 1):
         try:
             jobs = fetch_smartrecruiters(company)
-            all_jobs.extend(jobs)
+            extend_limited(jobs)
             if (i % 10 == 0) or i == len(sr):
                 print(f"  Progress: {i}/{len(sr)} companies ({len(all_jobs)} jobs so far)")
         except Exception as e:
@@ -879,7 +1063,7 @@ def collect_once() -> None:
     for i, company in enumerate(ashby, 1):
         try:
             jobs = fetch_ashby(company)
-            all_jobs.extend(jobs)
+            extend_limited(jobs)
             if (i % 10 == 0) or i == len(ashby):
                 print(f"  Progress: {i}/{len(ashby)} companies ({len(all_jobs)} jobs so far)")
         except Exception as e:
@@ -888,15 +1072,16 @@ def collect_once() -> None:
                 print(f"  [ERROR] {company}: {e}")
 
     # Insert into database
-    inserted, skipped_dup, skipped_stale = upsert_jobs(all_jobs)
+    inserted, updated_existing, skipped_stale, skipped_invalid = upsert_jobs(all_jobs)
     
     print(f"\n{'='*70}")
     print(f"COLLECTION COMPLETE")
     print(f"{'='*70}")
     print(f"Jobs fetched:        {len(all_jobs)}")
     print(f"Jobs inserted:       {inserted}")
-    print(f"Jobs skipped (dup):  {skipped_dup}")
+    print(f"Jobs updated (seen): {updated_existing}")
     print(f"Jobs skipped (stale):{skipped_stale}")
+    print(f"Jobs skipped (bad):  {skipped_invalid}")
     print(f"Errors:")
     print(f"  - Greenhouse:      {errors['greenhouse']}")
     print(f"  - Lever:           {errors['lever']}")
@@ -977,6 +1162,177 @@ def report_now(days: int) -> None:
 
 
 # =========================
+# GitHub UI exports (README + JSON)
+# =========================
+README_JOBS_START = "<!-- JOBS:START -->"
+README_JOBS_END = "<!-- JOBS:END -->"
+
+
+def _read_pipeline_state() -> Dict[str, Any]:
+    if not PIPELINE_STATE_PATH.exists():
+        return {"initialized": False}
+    try:
+        return json.loads(PIPELINE_STATE_PATH.read_text(encoding="utf-8")) or {"initialized": False}
+    except Exception:
+        # Corrupted state file: fail-safe to reinitialize.
+        return {"initialized": False}
+
+
+def _write_pipeline_state(state: Dict[str, Any]) -> None:
+    STATE_DIR.mkdir(parents=True, exist_ok=True)
+    PIPELINE_STATE_PATH.write_text(json.dumps(state, indent=2, sort_keys=True) + "\n", encoding="utf-8")
+
+
+def _query_jobs_for_feed(limit: Optional[int] = None) -> List[Dict[str, Any]]:
+    """Return jobs sorted by posted_at DESC (newest first)."""
+    init_db()
+
+    sql = """
+        SELECT
+            source, job_id, title, company, location, url,
+            posted_at, first_seen_at, last_seen_at, score
+        FROM jobs
+        WHERE posted_at IS NOT NULL
+        ORDER BY posted_at DESC
+    """
+    params: List[Any] = []
+    if isinstance(limit, int) and limit > 0:
+        sql += " LIMIT ?"
+        params.append(limit)
+
+    with sqlite3.connect(DB_PATH) as conn:
+        rows = conn.execute(sql, params).fetchall()
+
+    out: List[Dict[str, Any]] = []
+    for r in rows:
+        out.append(
+            {
+                "source": r[0],
+                "job_id": r[1],
+                "title": r[2],
+                "company": r[3],
+                "location": r[4] or "",
+                "url": r[5],
+                "posted_at": r[6],
+                "first_seen_at": r[7],
+                "last_seen_at": r[8],
+                "score": r[9],
+            }
+        )
+    return out
+
+
+def export_jobs_json(out_path: Path, *, limit: Optional[int] = None) -> None:
+    ensure_dirs()
+    jobs = _query_jobs_for_feed(limit=limit)
+    payload = {
+        "generated_at": to_iso_utc(now_local()),
+        "timezone": TIMEZONE,
+        "count": len(jobs),
+        "jobs": jobs,
+    }
+    out_path.parent.mkdir(parents=True, exist_ok=True)
+    out_path.write_text(json.dumps(payload, indent=2) + "\n", encoding="utf-8")
+
+
+def _md_escape(text: str) -> str:
+    return (text or "").replace("|", "\\|").strip()
+
+
+def _render_readme_table(jobs: List[Dict[str, Any]], *, limit: int) -> str:
+    now_stamp = now_local().strftime("%Y-%m-%d %H:%M %Z")
+    lines: List[str] = []
+    lines.append(f"_Last updated: {now_stamp}_")
+    lines.append("")
+    lines.append("| Posted | Company | Title | Location | Source |")
+    lines.append("|---|---|---|---|---|")
+
+    for j in jobs[: max(limit, 0)]:
+        posted = (j.get("posted_at") or "")
+        # Show just date part if ISO-like.
+        posted_short = posted[:10] if len(posted) >= 10 else posted
+        company = _md_escape(j.get("company", ""))
+        title = _md_escape(j.get("title", ""))
+        loc = _md_escape(j.get("location", "")) or "—"
+        source = _md_escape(j.get("source", ""))
+        url = (j.get("url") or "").strip()
+
+        title_cell = f"[{title}]({url})" if url else title
+        lines.append(f"| {posted_short} | {company} | {title_cell} | {loc} | {source} |")
+
+    return "\n".join(lines) + "\n"
+
+
+def export_readme(
+    *,
+    readme_path: Path = Path("README.md"),
+    limit: int = 500,
+) -> None:
+    """Inject a single sorted list of jobs into README between markers."""
+    ensure_dirs()
+    jobs = _query_jobs_for_feed(limit=None)
+    content = _render_readme_table(jobs, limit=limit)
+
+    if not readme_path.exists():
+        # Fail-safe: create a minimal README.
+        readme_path.write_text("# Job Radar\n\n" + README_JOBS_START + "\n" + README_JOBS_END + "\n", encoding="utf-8")
+
+    readme_text = readme_path.read_text(encoding="utf-8")
+
+    if (README_JOBS_START not in readme_text) or (README_JOBS_END not in readme_text):
+        # Fail-safe: append a jobs section if markers are missing.
+        readme_text = readme_text.rstrip() + "\n\n## Jobs\n\n" + README_JOBS_START + "\n" + README_JOBS_END + "\n"
+
+    before = readme_text.split(README_JOBS_START, 1)[0]
+    after = readme_text.split(README_JOBS_END, 1)[1]
+    updated = before + README_JOBS_START + "\n" + content + README_JOBS_END + after
+    readme_path.write_text(updated, encoding="utf-8")
+
+
+def pipeline_update(
+    *,
+    first_run_days: int = 30,
+    daily_days: int = 2,
+    max_per_source: int = 200,
+    readme_limit: int = 500,
+) -> None:
+    """One command for GitHub Actions.
+
+    - First ever run: ingest jobs posted in last `first_run_days` days.
+    - Daily runs: ingest jobs posted in last `daily_days` days (safe buffer).
+    - Dedupe is guaranteed by the DB primary key.
+    - README is a single sorted list (posted date newest -> oldest).
+    """
+    ensure_dirs()
+    state = _read_pipeline_state()
+    initialized = bool(state.get("initialized"))
+
+    days_back = daily_days if initialized else first_run_days
+    print(f"[pipeline] initialized={initialized} -> ingest posted last {days_back} day(s)")
+
+    collect_once(
+        days_back_posted=days_back,
+        require_posted_at=True,
+        max_per_source=max_per_source,
+    )
+
+    # Export JSON for future dashboards / debugging
+    export_jobs_json(EXPORT_DIR / "jobs.json")
+
+    # Update README feed
+    export_readme(limit=readme_limit)
+
+    state.update(
+        {
+            "initialized": True,
+            "last_run_at": to_iso_utc(now_local()),
+            "days_back_used": days_back,
+        }
+    )
+    _write_pipeline_state(state)
+
+
+# =========================
 # Scheduler
 # =========================
 def run_scheduler() -> None:
@@ -1037,10 +1393,23 @@ Examples:
     sub = parser.add_subparsers(dest="cmd", required=True)
 
     sub.add_parser("validate", help="Validate master companies list against ATS endpoints with smart filtering")
-    sub.add_parser("collect-once", help="Collect jobs once right now (uses validated_sources/*_valid.txt)")
+    p_collect = sub.add_parser("collect-once", help="Collect jobs once right now (uses validated_sources/*_valid.txt)")
+    p_collect.add_argument("--days-back-posted", type=int, default=None, help="Only ingest jobs posted in the last N days")
+    p_collect.add_argument("--require-posted-at", action="store_true", help="Skip jobs that don't provide posted date")
+    p_collect.add_argument("--max-per-source", type=int, default=None, help="Safety cap: max jobs ingested per company/source fetch")
 
     p_report = sub.add_parser("report-now", help="Export jobs posted in last N days (deduped vs last export)")
     p_report.add_argument("--days", type=int, default=None, help="Days back (if omitted, prompts)")
+
+    p_export_readme = sub.add_parser("export-readme", help="Update README feed (single sorted list) from DB")
+    p_export_readme.add_argument("--limit", type=int, default=500, help="Max rows to render in README")
+    p_export_readme.add_argument("--readme", type=str, default="README.md", help="Path to README.md")
+
+    p_pipeline = sub.add_parser("pipeline-update", help="One-shot pipeline for GitHub Actions: ingest + export JSON + update README")
+    p_pipeline.add_argument("--first-run-days", type=int, default=30, help="First ever run: ingest jobs posted in last N days")
+    p_pipeline.add_argument("--daily-days", type=int, default=2, help="Daily runs: ingest jobs posted in last N days (buffer)")
+    p_pipeline.add_argument("--max-per-source", type=int, default=200, help="Safety cap per company/source fetch")
+    p_pipeline.add_argument("--readme-limit", type=int, default=500, help="Max rows to render in README")
 
     sub.add_parser("run", help="Run scheduler: collect periodically (report is manual)")
 
@@ -1050,10 +1419,23 @@ Examples:
         validate_all_from_master_list()
         print("\n✓ Validation complete! Check validated_sources/ for results.\n")
     elif args.cmd == "collect-once":
-        collect_once()
+        collect_once(
+            days_back_posted=args.days_back_posted,
+            require_posted_at=bool(args.require_posted_at),
+            max_per_source=args.max_per_source,
+        )
     elif args.cmd == "report-now":
         days = args.days if args.days is not None else _prompt_days()
         report_now(days=days)
+    elif args.cmd == "export-readme":
+        export_readme(readme_path=Path(args.readme), limit=args.limit)
+    elif args.cmd == "pipeline-update":
+        pipeline_update(
+            first_run_days=args.first_run_days,
+            daily_days=args.daily_days,
+            max_per_source=args.max_per_source,
+            readme_limit=args.readme_limit,
+        )
     elif args.cmd == "run":
         run_scheduler()
     else:
