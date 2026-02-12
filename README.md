@@ -1,10 +1,14 @@
 ## Jobs Feed (auto-updated)
 
 <!-- JOBS:START -->
-_Last updated: 2026-02-12 11:52 CST_
+_Last updated: 2026-02-12 12:51 CST_
 
 | Posted | Company | Title | Location | Source |
 |---|---|---|---|---|
+| 2026-02-12 | crunchyroll | [Staff Data Engineer](https://boards.greenhouse.io/crunchyroll/jobs/7609325?gh_jid=7609325) | Los Angeles, California, United States | greenhouse |
+| 2026-02-12 | crunchyroll | [Staff Data Engineer](https://boards.greenhouse.io/crunchyroll/jobs/7600271?gh_jid=7600271) | San Francisco, CA, United States | greenhouse |
+| 2026-02-12 | robinhood | [Senior Software Engineer, Data Engineering](https://boards.greenhouse.io/robinhood/jobs/4738660?t=gh_src=&gh_jid=4738660) | Menlo Park, CA | greenhouse |
+| 2026-02-12 | radar | [Machine Learning Engineer](https://job-boards.greenhouse.io/radar/jobs/7354751) | San Diego, CA or Sunnyvale, CA or Remote | greenhouse |
 | 2026-02-12 | twilio | [Business Intelligence Analyst 2](https://job-boards.greenhouse.io/twilio/jobs/7280493) | Remote - Colombia | greenhouse |
 | 2026-02-12 | twilio | [Business Intelligence Analyst 3](https://job-boards.greenhouse.io/twilio/jobs/7292353) | Remote - Colombia | greenhouse |
 | 2026-02-12 | twilio | [Staff Machine Learning Engineer (L4)](https://job-boards.greenhouse.io/twilio/jobs/7520997) | Remote - India | greenhouse |
@@ -77,7 +81,6 @@ _Last updated: 2026-02-12 11:52 CST_
 | 2026-02-11 | robinhood | [Senior Machine Learning Engineer, Agentic](https://boards.greenhouse.io/robinhood/jobs/7121213?t=gh_src=&gh_jid=7121213) | Bellevue, WA; Menlo Park, CA | greenhouse |
 | 2026-02-11 | robinhood | [Senior Data Scientist, Product](https://boards.greenhouse.io/robinhood/jobs/7324981?t=gh_src=&gh_jid=7324981) | Menlo Park, CA | greenhouse |
 | 2026-02-11 | robinhood | [Data Scientist, Product](https://boards.greenhouse.io/robinhood/jobs/7324983?t=gh_src=&gh_jid=7324983) | New York, NY | greenhouse |
-| 2026-02-11 | robinhood | [Senior Software Engineer, Data Engineering](https://boards.greenhouse.io/robinhood/jobs/4738660?t=gh_src=&gh_jid=4738660) | Menlo Park, CA | greenhouse |
 | 2026-02-11 | robinhood | [Senior Machine Learning Engineer, AI Research and Development](https://boards.greenhouse.io/robinhood/jobs/6535807?t=gh_src=&gh_jid=6535807) | Bellevue, WA; Menlo Park, CA | greenhouse |
 | 2026-02-11 | robinhood | [Senior Analytics Engineer, Corporate Strategy](https://boards.greenhouse.io/robinhood/jobs/7346630?t=gh_src=&gh_jid=7346630) | Menlo Park, CA | greenhouse |
 | 2026-02-11 | anthropic | [Software Engineer, ML Networking](https://job-boards.greenhouse.io/anthropic/jobs/4926242008) | San Francisco, CA \| New York City, NY \| Seattle, WA | greenhouse |
@@ -90,20 +93,20 @@ _Last updated: 2026-02-12 11:52 CST_
 | 2026-02-11 | waymo | [Machine Learning Engineer, Sensor Pipelines](https://careers.withwaymo.com/jobs?gh_jid=7454156) | Mountain View, CA, USA | greenhouse |
 | 2026-02-11 | point72 | [Machine Learning Engineer, GenAI Technology](https://boards.greenhouse.io/point72/jobs/8342481002?gh_jid=8342481002) | United States | greenhouse |
 | 2026-02-11 | jamf | [Senior BI Data Engineer](https://www.jamf.com/about/careers/jobs/?gh_jid=5734791004&gh_jid=5734791004) | Poland - Remote | greenhouse |
-| 2026-02-11 | dropbox | [Staff Data Scientist, AI Products- Growth](https://jobs.dropbox.com/listing/7512377?gh_jid=7512377) | Remote - Canada: Select locations | greenhouse |
 | 2026-02-11 | dropbox | [Staff Data Scientist, AI Products- Growth](https://jobs.dropbox.com/listing/7512374?gh_jid=7512374) | Remote - US: Select locations | greenhouse |
-| 2026-02-11 | dropbox | [Staff Data Scientist](https://jobs.dropbox.com/listing/7309670?gh_jid=7309670) | Remote - Canada: Select locations | greenhouse |
+| 2026-02-11 | dropbox | [Staff Data Scientist, AI Products- Growth](https://jobs.dropbox.com/listing/7512377?gh_jid=7512377) | Remote - Canada: Select locations | greenhouse |
 | 2026-02-11 | dropbox | [Staff Data Scientist](https://jobs.dropbox.com/listing/7309667?gh_jid=7309667) | Remote - US: Select locations | greenhouse |
+| 2026-02-11 | dropbox | [Staff Data Scientist](https://jobs.dropbox.com/listing/7309670?gh_jid=7309670) | Remote - Canada: Select locations | greenhouse |
 | 2026-02-11 | dropbox | [Senior Data Scientist](https://jobs.dropbox.com/listing/7543844?gh_jid=7543844) | Remote - US: Select locations | greenhouse |
 | 2026-02-11 | dropbox | [Senior Data Scientist](https://jobs.dropbox.com/listing/7294189?gh_jid=7294189) | Remote - Canada: Select locations | greenhouse |
 | 2026-02-11 | dropbox | [Senior Data Scientist](https://jobs.dropbox.com/listing/7294188?gh_jid=7294188) | Remote - US: Select locations | greenhouse |
 | 2026-02-11 | dropbox | [Senior Data Scientist](https://jobs.dropbox.com/listing/7543847?gh_jid=7543847) | Remote - Canada: Select locations | greenhouse |
-| 2026-02-11 | dropbox | [People Team Data Analyst, Talent Acquisition](https://jobs.dropbox.com/listing/7536371?gh_jid=7536371) | Remote - US: Select locations | greenhouse |
 | 2026-02-11 | dropbox | [People Team Data Analyst, Talent Acquisition](https://jobs.dropbox.com/listing/7536374?gh_jid=7536374) | Remote - Canada: Select locations | greenhouse |
+| 2026-02-11 | dropbox | [People Team Data Analyst, Talent Acquisition](https://jobs.dropbox.com/listing/7536371?gh_jid=7536371) | Remote - US: Select locations | greenhouse |
 | 2026-02-11 | dropbox | [Machine Learning Engineer, Dash](https://jobs.dropbox.com/listing/7384408?gh_jid=7384408) | Remote - Denmark | greenhouse |
 | 2026-02-11 | dropbox | [Machine Learning Engineer, Dash](https://jobs.dropbox.com/listing/7384405?gh_jid=7384405) | Remote - Germany | greenhouse |
-| 2026-02-11 | dropbox | [Data Scientist](https://jobs.dropbox.com/listing/7543839?gh_jid=7543839) | Remote - Canada: Select locations | greenhouse |
 | 2026-02-11 | dropbox | [Data Scientist](https://jobs.dropbox.com/listing/7543836?gh_jid=7543836) | Remote - US: Select locations | greenhouse |
+| 2026-02-11 | dropbox | [Data Scientist](https://jobs.dropbox.com/listing/7543839?gh_jid=7543839) | Remote - Canada: Select locations | greenhouse |
 | 2026-02-10 | waymo | [Staff Tech Lead, Machine Learning Engineer, Perception](https://careers.withwaymo.com/jobs?gh_jid=7450706) | Mountain View, California, United States, San Francisco, California, United States | greenhouse |
 | 2026-02-10 | waymo | [Staff Software Engineer, ML Systems Optimization](https://careers.withwaymo.com/jobs?gh_jid=7517736) | Mountain View, CA USA;  San Francisco, CA USA; | greenhouse |
 | 2026-02-10 | waymo | [Staff Software Engineer, Machine Learning- Route and Pin Quality](https://careers.withwaymo.com/jobs?gh_jid=7224992) | Mountain View, California, USA | greenhouse |
@@ -174,8 +177,4 @@ _Last updated: 2026-02-12 11:52 CST_
 | 2026-02-10 | waymo | [Applied Research Scientist, 3D Object Detection  (PhD New Grad)](https://careers.withwaymo.com/jobs?gh_jid=7467839) | Mountain View, CA USA;  San Francisco, CA USA; | greenhouse |
 | 2026-02-10 | anthropic | [Data Scientist](https://job-boards.greenhouse.io/anthropic/jobs/5098499008) | San Francisco, CA \| New York City, NY | greenhouse |
 | 2026-02-10 | scaleai | [Data Analyst, GenAI Marketplace](https://job-boards.greenhouse.io/scaleai/jobs/4631695005) | San Francisco, CA; New York, NY | greenhouse |
-| 2026-02-10 | instacart | [Analytics Engineer, Lifecycle Efficiency](https://instacart.careers/job/?gh_jid=7603076) | United States - Remote | greenhouse |
-| 2026-02-10 | instacart | [Analytics Engineer, Lifecycle Efficiency](https://instacart.careers/job/?gh_jid=7603074) | Canada - Remote (ON, AB, BC, or NS Only) | greenhouse |
-| 2026-02-10 | block | [Senior Machine Learning Engineer, Risk Modeling](http://block.xyz/careers/jobs/5115946008?gh_jid=5115946008) | Seattle, WA, United States of America | greenhouse |
-| 2026-02-10 | deepmind | [Research Engineer, Project Agera](https://job-boards.greenhouse.io/deepmind/jobs/7595090) | Mountain View, California, US | greenhouse |
 <!-- JOBS:END -->
