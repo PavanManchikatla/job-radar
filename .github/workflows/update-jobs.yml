@@ -2,7 +2,7 @@ name: Update Job Feed
 
 on:
   schedule:
-    - cron: "15 12 * * *"   # daily 12:15 UTC
+    - cron: "0 * * * *"     # daily 12:15 UTC
   workflow_dispatch: {}
 
 permissions:
