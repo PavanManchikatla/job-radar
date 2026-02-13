@@ -1,7 +1,7 @@
 ## Jobs Feed (auto-updated)
 
 <!-- JOBS:START -->
-_Last updated: 2026-02-13 06:39 CST_
+_Last updated: 2026-02-13 07:57 CST_
 
 | Posted | Company | Title | Location | Source |
 |---|---|---|---|---|
@@ -175,5 +175,4 @@ _Last updated: 2026-02-13 06:39 CST_
 | 2026-02-11 | reddit | [Senior Data Scientist, Ads](https://job-boards.greenhouse.io/reddit/jobs/6042236) | Remote - United States | greenhouse |
 | 2026-02-11 | waymo | [Machine Learning Engineer, Sensor Pipelines](https://careers.withwaymo.com/jobs?gh_jid=7454156) | Mountain View, CA, USA | greenhouse |
 | 2026-02-11 | point72 | [Machine Learning Engineer, GenAI Technology](https://boards.greenhouse.io/point72/jobs/8342481002?gh_jid=8342481002) | United States | greenhouse |
-| 2026-02-11 | jamf | [Senior BI Data Engineer](https://www.jamf.com/about/careers/jobs/?gh_jid=5734791004&gh_jid=5734791004) | Poland - Remote | greenhouse |
 <!-- JOBS:END -->
