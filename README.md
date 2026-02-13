@@ -1,10 +1,19 @@
 ## Jobs Feed (auto-updated)
 
 <!-- JOBS:START -->
-_Last updated: 2026-02-12 19:25 CST_
+_Last updated: 2026-02-12 22:13 CST_
 
 | Posted | Company | Title | Location | Source |
 |---|---|---|---|---|
+| 2026-02-13 | block | [Staff/Principal Machine Learning Engineer (Modeling), Credit](http://block.xyz/careers/jobs/5112981008?gh_jid=5112981008) | Bay Area, CA, United States of America | greenhouse |
+| 2026-02-13 | block | [Staff Machine Learning Engineer (Modeling), Bitcoin Risk](http://block.xyz/careers/jobs/5100368008?gh_jid=5100368008) | Bay Area, CA, United States of America | greenhouse |
+| 2026-02-13 | block | [Staff Data Analyst, Block Compliance](http://block.xyz/careers/jobs/5098519008?gh_jid=5098519008) | Bay Area, CA, United States of America | greenhouse |
+| 2026-02-13 | block | [Staff Data Analyst, Block Compliance](http://block.xyz/careers/jobs/5114793008?gh_jid=5114793008) | Denver, CO, United States of America | greenhouse |
+| 2026-02-13 | block | [Staff Data Analyst, Block Compliance](http://block.xyz/careers/jobs/5114747008?gh_jid=5114747008) | New York, NY, United States of America | greenhouse |
+| 2026-02-13 | block | [Staff/Principal Machine Learning Engineer (Modeling), Afterpay Risk](http://block.xyz/careers/jobs/5072757008?gh_jid=5072757008) | Bay Area, CA, United States of America | greenhouse |
+| 2026-02-13 | block | [Data Scientist - Risk](http://block.xyz/careers/jobs/5025529008?gh_jid=5025529008) | Bay Area, CA, United States of America | greenhouse |
+| 2026-02-13 | block | [Senior Machine Learning Engineer, Financial Crimes](http://block.xyz/careers/jobs/4966179008?gh_jid=4966179008) | Bay Area, CA, United States of America | greenhouse |
+| 2026-02-13 | block | [Head of Analytics Engineering, Risk](http://block.xyz/careers/jobs/4980572008?gh_jid=4980572008) | Bay Area, CA, United States of America | greenhouse |
 | 2026-02-13 | opendoor | [Agentic Analytics Engineer](https://www.opendoor.com/careers/open-positions?gh_jid=4653291006) | Seattle, Washington, United States | greenhouse |
 | 2026-02-13 | scaleai | [Machine Learning Fellow - Human Frontier Collective (US)](https://job-boards.greenhouse.io/scaleai/jobs/4660340005) | United States | greenhouse |
 | 2026-02-12 | scaleai | [Tech Lead/Manager, Machine Learning Research Scientist- LLM Evals](https://job-boards.greenhouse.io/scaleai/jobs/4304790005) | San Francisco, CA; Seattle, WA; New York, NY | greenhouse |
@@ -117,7 +126,6 @@ _Last updated: 2026-02-12 19:25 CST_
 | 2026-02-11 | dropbox | [Staff Data Scientist, AI Products](https://jobs.dropbox.com/listing/7169449?gh_jid=7169449) | Remote - Canada: Select locations | greenhouse |
 | 2026-02-11 | dropbox | [Staff Data  Scientist, AI Products](https://jobs.dropbox.com/listing/7169446?gh_jid=7169446) | Remote - US: All locations | greenhouse |
 | 2026-02-11 | waymo | [Staff Product Data Scientist, Operation Center](https://careers.withwaymo.com/jobs?gh_jid=7597108) | Mountain View, CA, US; San Francisco, CA, US | greenhouse |
-| 2026-02-11 | block | [Staff/Principal Machine Learning Engineer (Modeling), Credit](http://block.xyz/careers/jobs/5112981008?gh_jid=5112981008) | Bay Area, CA, United States of America | greenhouse |
 | 2026-02-11 | pinterest | [Staff Machine Learning Engineer, Content Quality Signals](https://www.pinterestcareers.com/jobs/?gh_jid=7531060) | San Francisco, CA, US; Remote, US | greenhouse |
 | 2026-02-11 | pinterest | [Manager II, Machine Learning-Content Success](https://www.pinterestcareers.com/jobs/?gh_jid=7528427) | San Francisco, CA, US; Remote, US | greenhouse |
 | 2026-02-11 | pinterest | [Engineering Manager II, Machine Learning – User Understanding](https://www.pinterestcareers.com/jobs/?gh_jid=7494658) | San Francisco, CA, US; Remote, US | greenhouse |
@@ -135,7 +143,6 @@ _Last updated: 2026-02-12 19:25 CST_
 | 2026-02-11 | pinterest | [Staff Data Scientist, Engagement Ecosystem](https://www.pinterestcareers.com/jobs/?gh_jid=6819404) | San Francisco, CA, US; Remote, US | greenhouse |
 | 2026-02-11 | pinterest | [Staff Machine Learning Engineer, Growth Activation](https://www.pinterestcareers.com/jobs/?gh_jid=6744643) | Toronto, ON; Remote, CAN | greenhouse |
 | 2026-02-11 | pinterest | [Data Scientist II, Growth Marketing](https://www.pinterestcareers.com/jobs/?gh_jid=6483005) | San Francisco, CA, US; Remote, US | greenhouse |
-| 2026-02-11 | block | [Staff/Principal Machine Learning Engineer (Modeling), Afterpay Risk](http://block.xyz/careers/jobs/5072757008?gh_jid=5072757008) | Bay Area, CA, United States of America | greenhouse |
 | 2026-02-11 | pinterest | [Sr. Machine Learning Engineer, Notifications](https://www.pinterestcareers.com/jobs/?gh_jid=5691478) | Toronto, ON, CA | greenhouse |
 | 2026-02-11 | pinterest | [Sr. Machine Learning Engineer, Monetization Engineering](https://www.pinterestcareers.com/jobs/?gh_jid=6121551) | San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US | greenhouse |
 | 2026-02-11 | pinterest | [Sr. Machine Learning Engineer, Computer Vision](https://www.pinterestcareers.com/jobs/?gh_jid=6894747) | San Francisco, CA, US; Remote, US | greenhouse |
@@ -170,18 +177,4 @@ _Last updated: 2026-02-12 19:25 CST_
 | 2026-02-11 | waymo | [Machine Learning Engineer, Sensor Pipelines](https://careers.withwaymo.com/jobs?gh_jid=7454156) | Mountain View, CA, USA | greenhouse |
 | 2026-02-11 | point72 | [Machine Learning Engineer, GenAI Technology](https://boards.greenhouse.io/point72/jobs/8342481002?gh_jid=8342481002) | United States | greenhouse |
 | 2026-02-11 | jamf | [Senior BI Data Engineer](https://www.jamf.com/about/careers/jobs/?gh_jid=5734791004&gh_jid=5734791004) | Poland - Remote | greenhouse |
-| 2026-02-11 | dropbox | [Staff Data Scientist, AI Products- Growth](https://jobs.dropbox.com/listing/7512377?gh_jid=7512377) | Remote - Canada: Select locations | greenhouse |
-| 2026-02-11 | dropbox | [Staff Data Scientist, AI Products- Growth](https://jobs.dropbox.com/listing/7512374?gh_jid=7512374) | Remote - US: Select locations | greenhouse |
-| 2026-02-11 | dropbox | [Staff Data Scientist](https://jobs.dropbox.com/listing/7309667?gh_jid=7309667) | Remote - US: Select locations | greenhouse |
-| 2026-02-11 | dropbox | [Staff Data Scientist](https://jobs.dropbox.com/listing/7309670?gh_jid=7309670) | Remote - Canada: Select locations | greenhouse |
-| 2026-02-11 | dropbox | [Senior Data Scientist](https://jobs.dropbox.com/listing/7543844?gh_jid=7543844) | Remote - US: Select locations | greenhouse |
-| 2026-02-11 | dropbox | [Senior Data Scientist](https://jobs.dropbox.com/listing/7543847?gh_jid=7543847) | Remote - Canada: Select locations | greenhouse |
-| 2026-02-11 | dropbox | [Senior Data Scientist](https://jobs.dropbox.com/listing/7294189?gh_jid=7294189) | Remote - Canada: Select locations | greenhouse |
-| 2026-02-11 | dropbox | [Senior Data Scientist](https://jobs.dropbox.com/listing/7294188?gh_jid=7294188) | Remote - US: Select locations | greenhouse |
-| 2026-02-11 | dropbox | [People Team Data Analyst, Talent Acquisition](https://jobs.dropbox.com/listing/7536374?gh_jid=7536374) | Remote - Canada: Select locations | greenhouse |
-| 2026-02-11 | dropbox | [People Team Data Analyst, Talent Acquisition](https://jobs.dropbox.com/listing/7536371?gh_jid=7536371) | Remote - US: Select locations | greenhouse |
-| 2026-02-11 | dropbox | [Machine Learning Engineer, Dash](https://jobs.dropbox.com/listing/7384408?gh_jid=7384408) | Remote - Denmark | greenhouse |
-| 2026-02-11 | dropbox | [Machine Learning Engineer, Dash](https://jobs.dropbox.com/listing/7384405?gh_jid=7384405) | Remote - Germany | greenhouse |
-| 2026-02-11 | dropbox | [Data Scientist](https://jobs.dropbox.com/listing/7543836?gh_jid=7543836) | Remote - US: Select locations | greenhouse |
-| 2026-02-11 | dropbox | [Data Scientist](https://jobs.dropbox.com/listing/7543839?gh_jid=7543839) | Remote - Canada: Select locations | greenhouse |
 <!-- JOBS:END -->
