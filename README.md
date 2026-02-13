@@ -1,10 +1,11 @@
 ## Jobs Feed (auto-updated)
 
 <!-- JOBS:START -->
-_Last updated: 2026-02-13 02:34 CST_
+_Last updated: 2026-02-13 03:36 CST_
 
 | Posted | Company | Title | Location | Source |
 |---|---|---|---|---|
+| 2026-02-13 | scaleai | [Machine Learning Fellow - Human Frontier Collective (US)](https://job-boards.greenhouse.io/scaleai/jobs/4660340005) | United States | greenhouse |
 | 2026-02-13 | block | [Staff/Principal Machine Learning Engineer (Modeling), Credit](http://block.xyz/careers/jobs/5112981008?gh_jid=5112981008) | Bay Area, CA, United States of America | greenhouse |
 | 2026-02-13 | block | [Staff Machine Learning Engineer (Modeling), Bitcoin Risk](http://block.xyz/careers/jobs/5100368008?gh_jid=5100368008) | Bay Area, CA, United States of America | greenhouse |
 | 2026-02-13 | block | [Staff Data Analyst, Block Compliance](http://block.xyz/careers/jobs/5098519008?gh_jid=5098519008) | Bay Area, CA, United States of America | greenhouse |
@@ -15,7 +16,6 @@ _Last updated: 2026-02-13 02:34 CST_
 | 2026-02-13 | block | [Senior Machine Learning Engineer, Financial Crimes](http://block.xyz/careers/jobs/4966179008?gh_jid=4966179008) | Bay Area, CA, United States of America | greenhouse |
 | 2026-02-13 | block | [Head of Analytics Engineering, Risk](http://block.xyz/careers/jobs/4980572008?gh_jid=4980572008) | Bay Area, CA, United States of America | greenhouse |
 | 2026-02-13 | opendoor | [Agentic Analytics Engineer](https://www.opendoor.com/careers/open-positions?gh_jid=4653291006) | Seattle, Washington, United States | greenhouse |
-| 2026-02-13 | scaleai | [Machine Learning Fellow - Human Frontier Collective (US)](https://job-boards.greenhouse.io/scaleai/jobs/4660340005) | United States | greenhouse |
 | 2026-02-12 | scaleai | [Tech Lead/Manager, Machine Learning Research Scientist- LLM Evals](https://job-boards.greenhouse.io/scaleai/jobs/4304790005) | San Francisco, CA; Seattle, WA; New York, NY | greenhouse |
 | 2026-02-12 | scaleai | [Staff Machine Learning Research Scientist, LLM Evals](https://job-boards.greenhouse.io/scaleai/jobs/4628044005) | San Francisco, CA; Seattle, WA; New York, NY | greenhouse |
 | 2026-02-12 | scaleai | [Staff Machine Learning Research Scientist/ Engineer, Agents](https://job-boards.greenhouse.io/scaleai/jobs/4488520005) | San Francisco, CA; Seattle, WA; New York, NY | greenhouse |
