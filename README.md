@@ -1,7 +1,7 @@
 ## Jobs Feed (auto-updated)
 
 <!-- JOBS:START -->
-_Last updated: 2026-02-13 15:28 CST_
+_Last updated: 2026-02-13 16:25 CST_
 
 | Posted | Company | Title | Location | Source |
 |---|---|---|---|---|
@@ -40,9 +40,9 @@ _Last updated: 2026-02-13 15:28 CST_
 | 2026-02-13 | block | [Senior Staff Machine Learning Engineer, AI Engineering Tools](http://block.xyz/careers/jobs/4982919008?gh_jid=4982919008) | Bay Area, CA, United States of America | greenhouse |
 | 2026-02-13 | block | [Senior Data Scientist, Growth Product](http://block.xyz/careers/jobs/4988004008?gh_jid=4988004008) | Bay Area, CA, United States of America | greenhouse |
 | 2026-02-13 | block | [Senior Data Scientist - Financial Platform](http://block.xyz/careers/jobs/4960986008?gh_jid=4960986008) | Bay Area, CA, United States of America | greenhouse |
-| 2026-02-13 | block | [Senior Data Engineering Manager, Financial Platform](http://block.xyz/careers/jobs/5068303008?gh_jid=5068303008) | Seattle, WA, United States of America | greenhouse |
-| 2026-02-13 | block | [Senior Data Engineering Manager, Financial Platform](http://block.xyz/careers/jobs/5018638008?gh_jid=5018638008) | New York, NY, United States of America | greenhouse |
 | 2026-02-13 | block | [Senior Data Engineering Manager, Financial Platform](http://block.xyz/careers/jobs/4963310008?gh_jid=4963310008) | Bay Area, CA, United States of America | greenhouse |
+| 2026-02-13 | block | [Senior Data Engineering Manager, Financial Platform](http://block.xyz/careers/jobs/5018638008?gh_jid=5018638008) | New York, NY, United States of America | greenhouse |
+| 2026-02-13 | block | [Senior Data Engineering Manager, Financial Platform](http://block.xyz/careers/jobs/5068303008?gh_jid=5068303008) | Seattle, WA, United States of America | greenhouse |
 | 2026-02-13 | block | [Business Intelligence Analyst - Cloud Finops](http://block.xyz/careers/jobs/5062833008?gh_jid=5062833008) | Bay Area, CA, United States of America | greenhouse |
 | 2026-02-13 | block | [Staff Machine Learning Engineer, Risk Signals & Controls](http://block.xyz/careers/jobs/4959474008?gh_jid=4959474008) | Bay Area, CA, United States of America | greenhouse |
 | 2026-02-13 | block | [Staff Machine Learning Engineer, Fraud & Abuse](http://block.xyz/careers/jobs/4959469008?gh_jid=4959469008) | Bay Area, CA, United States of America | greenhouse |
@@ -54,9 +54,9 @@ _Last updated: 2026-02-13 15:28 CST_
 | 2026-02-13 | scaleai | [Machine Learning Fellow - Human Frontier Collective (US)](https://job-boards.greenhouse.io/scaleai/jobs/4660340005) | United States | greenhouse |
 | 2026-02-13 | block | [Staff/Principal Machine Learning Engineer (Modeling), Credit](http://block.xyz/careers/jobs/5112981008?gh_jid=5112981008) | Bay Area, CA, United States of America | greenhouse |
 | 2026-02-13 | block | [Staff Machine Learning Engineer (Modeling), Bitcoin Risk](http://block.xyz/careers/jobs/5100368008?gh_jid=5100368008) | Bay Area, CA, United States of America | greenhouse |
+| 2026-02-13 | block | [Staff Data Analyst, Block Compliance](http://block.xyz/careers/jobs/5114747008?gh_jid=5114747008) | New York, NY, United States of America | greenhouse |
 | 2026-02-13 | block | [Staff Data Analyst, Block Compliance](http://block.xyz/careers/jobs/5098519008?gh_jid=5098519008) | Bay Area, CA, United States of America | greenhouse |
 | 2026-02-13 | block | [Staff Data Analyst, Block Compliance](http://block.xyz/careers/jobs/5114793008?gh_jid=5114793008) | Denver, CO, United States of America | greenhouse |
-| 2026-02-13 | block | [Staff Data Analyst, Block Compliance](http://block.xyz/careers/jobs/5114747008?gh_jid=5114747008) | New York, NY, United States of America | greenhouse |
 | 2026-02-13 | block | [Staff/Principal Machine Learning Engineer (Modeling), Afterpay Risk](http://block.xyz/careers/jobs/5072757008?gh_jid=5072757008) | Bay Area, CA, United States of America | greenhouse |
 | 2026-02-13 | block | [Data Scientist - Risk](http://block.xyz/careers/jobs/5025529008?gh_jid=5025529008) | Bay Area, CA, United States of America | greenhouse |
 | 2026-02-13 | block | [Senior Machine Learning Engineer, Financial Crimes](http://block.xyz/careers/jobs/4966179008?gh_jid=4966179008) | Bay Area, CA, United States of America | greenhouse |
