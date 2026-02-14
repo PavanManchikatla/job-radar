@@ -1,7 +1,7 @@
 ## Jobs Feed (auto-updated)
 
 <!-- JOBS:START -->
-_Last updated: 2026-02-13 19:17 CST_
+_Last updated: 2026-02-13 22:03 CST_
 
 | Posted | Company | Title | Location | Source |
 |---|---|---|---|---|
@@ -157,6 +157,4 @@ _Last updated: 2026-02-13 19:17 CST_
 | 2026-02-12 | imc | [Graduate Machine Learning Researcher](https://job-boards.eu.greenhouse.io/imc/jobs/4608585101) | Chicago, United States; New York, United States | greenhouse |
 | 2026-02-12 | imc | [Data Engineer](https://job-boards.eu.greenhouse.io/imc/jobs/4439297101) | Chicago, United States | greenhouse |
 | 2026-02-12 | imc | [Compliance Data Analyst](https://job-boards.eu.greenhouse.io/imc/jobs/4749997101) | Chicago, United States | greenhouse |
-| 2026-02-12 | block | [Senior Machine Learning Engineer (Modeling), Support](http://block.xyz/careers/jobs/4882799008?gh_jid=4882799008) | Bay Area, CA, United States of America | greenhouse |
-| 2026-02-12 | coinbase | [Senior Machine Learning Platform Engineer (Platform)](https://www.coinbase.com/careers/positions/7604203?gh_jid=7604203) | Remote - USA | greenhouse |
 <!-- JOBS:END -->
