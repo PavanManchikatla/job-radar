@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-02-15T22:16:09.134699+00:00",
+  "generated_at": "2026-02-15T23:18:41.805262+00:00",
   "timezone": "America/Chicago",
-  "count": 5,
+  "count": 3,
   "jobs": [
     {
       "source": "greenhouse",
@@ -11,8 +11,8 @@
       "location": "San Francisco, CA",
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/4980430008",
       "posted_at": "2026-02-15T19:13:22+00:00",
-      "first_seen_at": "2026-02-15T22:15:47.496472+00:00",
-      "last_seen_at": "2026-02-15T22:16:09.127915+00:00",
+      "first_seen_at": "2026-02-15T23:18:22.773529+00:00",
+      "last_seen_at": "2026-02-15T23:18:41.798053+00:00",
       "score": 1
     },
     {
@@ -23,8 +23,8 @@
       "location": "Remote - US",
       "url": "https://job-boards.greenhouse.io/twilio/jobs/7155492",
       "posted_at": "2026-02-13T23:43:10+00:00",
-      "first_seen_at": "2026-02-15T22:15:52.669180+00:00",
-      "last_seen_at": "2026-02-15T22:16:09.127915+00:00",
+      "first_seen_at": "2026-02-15T23:18:27.492701+00:00",
+      "last_seen_at": "2026-02-15T23:18:41.798053+00:00",
       "score": 2
     },
     {
@@ -35,33 +35,9 @@
       "location": "Remote - USA",
       "url": "https://job-boards.greenhouse.io/boulevard/jobs/4629531006",
       "posted_at": "2026-02-13T23:36:57+00:00",
-      "first_seen_at": "2026-02-15T22:15:54.631442+00:00",
-      "last_seen_at": "2026-02-15T22:16:09.127915+00:00",
+      "first_seen_at": "2026-02-15T23:18:29.283776+00:00",
+      "last_seen_at": "2026-02-15T23:18:41.798053+00:00",
       "score": 2
-    },
-    {
-      "source": "greenhouse",
-      "job_id": "7555007",
-      "title": "Senior Research Engineer, Post-training & Evaluation",
-      "company": "reddit",
-      "location": "Remote - United States",
-      "url": "https://job-boards.greenhouse.io/reddit/jobs/7555007",
-      "posted_at": "2026-02-13T23:18:02+00:00",
-      "first_seen_at": "2026-02-15T22:15:50.767373+00:00",
-      "last_seen_at": "2026-02-15T22:16:09.127915+00:00",
-      "score": 2
-    },
-    {
-      "source": "greenhouse",
-      "job_id": "4648098006",
-      "title": "Software Engineer, MLOps - Pricing ",
-      "company": "opendoor",
-      "location": "Seattle, Washington, United States",
-      "url": "https://www.opendoor.com/careers/open-positions?gh_jid=4648098006",
-      "posted_at": "2026-02-13T22:54:10+00:00",
-      "first_seen_at": "2026-02-15T22:15:50.086995+00:00",
-      "last_seen_at": "2026-02-15T22:16:09.127915+00:00",
-      "score": 1
     }
   ]
 }
