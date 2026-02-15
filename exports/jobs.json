@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-02-15T19:19:43.891410+00:00",
+  "generated_at": "2026-02-15T20:17:27.503031+00:00",
   "timezone": "America/Chicago",
-  "count": 8,
+  "count": 7,
   "jobs": [
     {
       "source": "greenhouse",
@@ -11,8 +11,8 @@
       "location": "San Francisco, CA",
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/4980430008",
       "posted_at": "2026-02-15T19:13:22+00:00",
-      "first_seen_at": "2026-02-15T19:19:20.228641+00:00",
-      "last_seen_at": "2026-02-15T19:19:43.886101+00:00",
+      "first_seen_at": "2026-02-15T20:17:03.750969+00:00",
+      "last_seen_at": "2026-02-15T20:17:27.498904+00:00",
       "score": 1
     },
     {
@@ -23,8 +23,8 @@
       "location": "Remote - US",
       "url": "https://job-boards.greenhouse.io/twilio/jobs/7155492",
       "posted_at": "2026-02-13T23:43:10+00:00",
-      "first_seen_at": "2026-02-15T19:19:25.705554+00:00",
-      "last_seen_at": "2026-02-15T19:19:43.886101+00:00",
+      "first_seen_at": "2026-02-15T20:17:11.514297+00:00",
+      "last_seen_at": "2026-02-15T20:17:27.498904+00:00",
       "score": 2
     },
     {
@@ -35,8 +35,8 @@
       "location": "Remote - USA",
       "url": "https://job-boards.greenhouse.io/boulevard/jobs/4629531006",
       "posted_at": "2026-02-13T23:36:57+00:00",
-      "first_seen_at": "2026-02-15T19:19:27.894633+00:00",
-      "last_seen_at": "2026-02-15T19:19:43.886101+00:00",
+      "first_seen_at": "2026-02-15T20:17:12.770963+00:00",
+      "last_seen_at": "2026-02-15T20:17:27.498904+00:00",
       "score": 2
     },
     {
@@ -47,8 +47,8 @@
       "location": "Remote - United States",
       "url": "https://job-boards.greenhouse.io/reddit/jobs/7555007",
       "posted_at": "2026-02-13T23:18:02+00:00",
-      "first_seen_at": "2026-02-15T19:19:23.947494+00:00",
-      "last_seen_at": "2026-02-15T19:19:43.886101+00:00",
+      "first_seen_at": "2026-02-15T20:17:09.770772+00:00",
+      "last_seen_at": "2026-02-15T20:17:27.498904+00:00",
       "score": 2
     },
     {
@@ -59,8 +59,8 @@
       "location": "Seattle, Washington, United States",
       "url": "https://www.opendoor.com/careers/open-positions?gh_jid=4648098006",
       "posted_at": "2026-02-13T22:54:10+00:00",
-      "first_seen_at": "2026-02-15T19:19:23.106107+00:00",
-      "last_seen_at": "2026-02-15T19:19:43.886101+00:00",
+      "first_seen_at": "2026-02-15T20:17:09.342001+00:00",
+      "last_seen_at": "2026-02-15T20:17:27.498904+00:00",
       "score": 1
     },
     {
@@ -71,8 +71,8 @@
       "location": "Canada - Remote (ON, AB, BC, or NS Only)",
       "url": "https://instacart.careers/job/?gh_jid=4949335",
       "posted_at": "2026-02-13T20:46:40+00:00",
-      "first_seen_at": "2026-02-15T19:19:23.754949+00:00",
-      "last_seen_at": "2026-02-15T19:19:43.886101+00:00",
+      "first_seen_at": "2026-02-15T20:17:09.657190+00:00",
+      "last_seen_at": "2026-02-15T20:17:27.498904+00:00",
       "score": 2
     },
     {
@@ -83,21 +83,9 @@
       "location": "United States - Remote",
       "url": "https://instacart.careers/job/?gh_jid=4949339",
       "posted_at": "2026-02-13T20:46:12+00:00",
-      "first_seen_at": "2026-02-15T19:19:23.754949+00:00",
-      "last_seen_at": "2026-02-15T19:19:43.886101+00:00",
+      "first_seen_at": "2026-02-15T20:17:09.657190+00:00",
+      "last_seen_at": "2026-02-15T20:17:27.498904+00:00",
       "score": 2
-    },
-    {
-      "source": "greenhouse",
-      "job_id": "8112284002",
-      "title": "Analytics Engineer, Product Analytics",
-      "company": "airtable",
-      "location": "San Francisco,CA; New York City, NY",
-      "url": "https://job-boards.greenhouse.io/airtable/jobs/8112284002",
-      "posted_at": "2026-02-13T19:46:07+00:00",
-      "first_seen_at": "2026-02-15T19:19:21.744139+00:00",
-      "last_seen_at": "2026-02-15T19:19:43.886101+00:00",
-      "score": 1
     }
   ]
 }

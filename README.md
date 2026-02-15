@@ -1,7 +1,7 @@
 ## Jobs Feed (auto-updated)
 
 <!-- JOBS:START -->
-_Last updated: 2026-02-15 13:19 CST_
+_Last updated: 2026-02-15 14:17 CST_
 
 | Posted | Company | Title | Location | Source |
 |---|---|---|---|---|
@@ -12,5 +12,4 @@ _Last updated: 2026-02-15 13:19 CST_
 | 2026-02-13 | opendoor | [Software Engineer, MLOps - Pricing](https://www.opendoor.com/careers/open-positions?gh_jid=4648098006) | Seattle, Washington, United States | greenhouse |
 | 2026-02-13 | instacart | [Senior Data Scientist](https://instacart.careers/job/?gh_jid=4949335) | Canada - Remote (ON, AB, BC, or NS Only) | greenhouse |
 | 2026-02-13 | instacart | [Senior Data Scientist](https://instacart.careers/job/?gh_jid=4949339) | United States - Remote | greenhouse |
-| 2026-02-13 | airtable | [Analytics Engineer, Product Analytics](https://job-boards.greenhouse.io/airtable/jobs/8112284002) | San Francisco,CA; New York City, NY | greenhouse |
 <!-- JOBS:END -->
