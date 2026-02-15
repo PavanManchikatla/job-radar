@@ -1,7 +1,7 @@
 ## Jobs Feed (auto-updated)
 
 <!-- JOBS:START -->
-_Last updated: 2026-02-15 10:20 CST_
+_Last updated: 2026-02-15 11:19 CST_
 
 | Posted | Company | Title | Location | Source |
 |---|---|---|---|---|
@@ -19,5 +19,4 @@ _Last updated: 2026-02-15 10:20 CST_
 | 2026-02-13 | twilio | [Business Intelligence Analyst 2](https://job-boards.greenhouse.io/twilio/jobs/7280493) | Remote - Colombia | greenhouse |
 | 2026-02-13 | imc | [Hardware Machine Learning Engineer](https://job-boards.eu.greenhouse.io/imc/jobs/4713602101) | Chicago, United States; New York, United States | greenhouse |
 | 2026-02-13 | anthropic | [Recruiting Data Engineering & Analytics](https://job-boards.greenhouse.io/anthropic/jobs/4886415008) | San Francisco, CA \| Seattle, WA | greenhouse |
-| 2026-02-13 | gusto | [Staff Applied AI/ ML Engineer](https://job-boards.greenhouse.io/gusto/jobs/7065172) | Denver, CO;San Francisco, CA;New York, NY;Seattle, WA;Toronto, Ontario, CAN - Remote | greenhouse |
 <!-- JOBS:END -->
