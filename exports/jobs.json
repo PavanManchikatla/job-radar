@@ -1,8 +1,20 @@
 {
-  "generated_at": "2026-02-15T18:24:29.922706+00:00",
+  "generated_at": "2026-02-15T19:19:43.891410+00:00",
   "timezone": "America/Chicago",
-  "count": 14,
+  "count": 8,
   "jobs": [
+    {
+      "source": "greenhouse",
+      "job_id": "4980430008",
+      "title": "Research Engineer, Interpretability",
+      "company": "anthropic",
+      "location": "San Francisco, CA",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/4980430008",
+      "posted_at": "2026-02-15T19:13:22+00:00",
+      "first_seen_at": "2026-02-15T19:19:20.228641+00:00",
+      "last_seen_at": "2026-02-15T19:19:43.886101+00:00",
+      "score": 1
+    },
     {
       "source": "greenhouse",
       "job_id": "7155492",
@@ -11,8 +23,8 @@
       "location": "Remote - US",
       "url": "https://job-boards.greenhouse.io/twilio/jobs/7155492",
       "posted_at": "2026-02-13T23:43:10+00:00",
-      "first_seen_at": "2026-02-15T18:24:16.303171+00:00",
-      "last_seen_at": "2026-02-15T18:24:29.918503+00:00",
+      "first_seen_at": "2026-02-15T19:19:25.705554+00:00",
+      "last_seen_at": "2026-02-15T19:19:43.886101+00:00",
       "score": 2
     },
     {
@@ -23,8 +35,8 @@
       "location": "Remote - USA",
       "url": "https://job-boards.greenhouse.io/boulevard/jobs/4629531006",
       "posted_at": "2026-02-13T23:36:57+00:00",
-      "first_seen_at": "2026-02-15T18:24:17.549259+00:00",
-      "last_seen_at": "2026-02-15T18:24:29.918503+00:00",
+      "first_seen_at": "2026-02-15T19:19:27.894633+00:00",
+      "last_seen_at": "2026-02-15T19:19:43.886101+00:00",
       "score": 2
     },
     {
@@ -35,8 +47,8 @@
       "location": "Remote - United States",
       "url": "https://job-boards.greenhouse.io/reddit/jobs/7555007",
       "posted_at": "2026-02-13T23:18:02+00:00",
-      "first_seen_at": "2026-02-15T18:24:14.808009+00:00",
-      "last_seen_at": "2026-02-15T18:24:29.918503+00:00",
+      "first_seen_at": "2026-02-15T19:19:23.947494+00:00",
+      "last_seen_at": "2026-02-15T19:19:43.886101+00:00",
       "score": 2
     },
     {
@@ -47,8 +59,8 @@
       "location": "Seattle, Washington, United States",
       "url": "https://www.opendoor.com/careers/open-positions?gh_jid=4648098006",
       "posted_at": "2026-02-13T22:54:10+00:00",
-      "first_seen_at": "2026-02-15T18:24:14.272129+00:00",
-      "last_seen_at": "2026-02-15T18:24:29.918503+00:00",
+      "first_seen_at": "2026-02-15T19:19:23.106107+00:00",
+      "last_seen_at": "2026-02-15T19:19:43.886101+00:00",
       "score": 1
     },
     {
@@ -59,8 +71,8 @@
       "location": "Canada - Remote (ON, AB, BC, or NS Only)",
       "url": "https://instacart.careers/job/?gh_jid=4949335",
       "posted_at": "2026-02-13T20:46:40+00:00",
-      "first_seen_at": "2026-02-15T18:24:14.701109+00:00",
-      "last_seen_at": "2026-02-15T18:24:29.918503+00:00",
+      "first_seen_at": "2026-02-15T19:19:23.754949+00:00",
+      "last_seen_at": "2026-02-15T19:19:43.886101+00:00",
       "score": 2
     },
     {
@@ -71,8 +83,8 @@
       "location": "United States - Remote",
       "url": "https://instacart.careers/job/?gh_jid=4949339",
       "posted_at": "2026-02-13T20:46:12+00:00",
-      "first_seen_at": "2026-02-15T18:24:14.701109+00:00",
-      "last_seen_at": "2026-02-15T18:24:29.918503+00:00",
+      "first_seen_at": "2026-02-15T19:19:23.754949+00:00",
+      "last_seen_at": "2026-02-15T19:19:43.886101+00:00",
       "score": 2
     },
     {
@@ -83,92 +95,8 @@
       "location": "San Francisco,CA; New York City, NY",
       "url": "https://job-boards.greenhouse.io/airtable/jobs/8112284002",
       "posted_at": "2026-02-13T19:46:07+00:00",
-      "first_seen_at": "2026-02-15T18:24:13.354561+00:00",
-      "last_seen_at": "2026-02-15T18:24:29.918503+00:00",
-      "score": 1
-    },
-    {
-      "source": "greenhouse",
-      "job_id": "7551660",
-      "title": "Staff Analytics Engineer",
-      "company": "twilio",
-      "location": "Remote - US",
-      "url": "https://job-boards.greenhouse.io/twilio/jobs/7551660",
-      "posted_at": "2026-02-13T19:13:37+00:00",
-      "first_seen_at": "2026-02-15T18:24:16.303171+00:00",
-      "last_seen_at": "2026-02-15T18:24:29.918503+00:00",
-      "score": 2
-    },
-    {
-      "source": "greenhouse",
-      "job_id": "7520997",
-      "title": "Staff Machine Learning Engineer (L4)",
-      "company": "twilio",
-      "location": "Remote - India",
-      "url": "https://job-boards.greenhouse.io/twilio/jobs/7520997",
-      "posted_at": "2026-02-13T19:13:36+00:00",
-      "first_seen_at": "2026-02-15T18:24:16.303171+00:00",
-      "last_seen_at": "2026-02-15T18:24:29.918503+00:00",
-      "score": 2
-    },
-    {
-      "source": "greenhouse",
-      "job_id": "7059734",
-      "title": "Machine Learning Engineer",
-      "company": "twilio",
-      "location": "Remote - US",
-      "url": "https://job-boards.greenhouse.io/twilio/jobs/7059734",
-      "posted_at": "2026-02-13T19:13:34+00:00",
-      "first_seen_at": "2026-02-15T18:24:16.303171+00:00",
-      "last_seen_at": "2026-02-15T18:24:29.918503+00:00",
-      "score": 3
-    },
-    {
-      "source": "greenhouse",
-      "job_id": "7292353",
-      "title": "Business Intelligence Analyst 3",
-      "company": "twilio",
-      "location": "Remote - Colombia",
-      "url": "https://job-boards.greenhouse.io/twilio/jobs/7292353",
-      "posted_at": "2026-02-13T19:13:34+00:00",
-      "first_seen_at": "2026-02-15T18:24:16.303171+00:00",
-      "last_seen_at": "2026-02-15T18:24:29.918503+00:00",
-      "score": 4
-    },
-    {
-      "source": "greenhouse",
-      "job_id": "7280493",
-      "title": "Business Intelligence Analyst 2",
-      "company": "twilio",
-      "location": "Remote - Colombia",
-      "url": "https://job-boards.greenhouse.io/twilio/jobs/7280493",
-      "posted_at": "2026-02-13T19:13:34+00:00",
-      "first_seen_at": "2026-02-15T18:24:16.303171+00:00",
-      "last_seen_at": "2026-02-15T18:24:29.918503+00:00",
-      "score": 4
-    },
-    {
-      "source": "greenhouse",
-      "job_id": "4713602101",
-      "title": "Hardware Machine Learning Engineer",
-      "company": "imc",
-      "location": "Chicago, United States; New York, United States",
-      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4713602101",
-      "posted_at": "2026-02-13T19:04:27+00:00",
-      "first_seen_at": "2026-02-15T18:24:13.939441+00:00",
-      "last_seen_at": "2026-02-15T18:24:29.918503+00:00",
-      "score": 1
-    },
-    {
-      "source": "greenhouse",
-      "job_id": "4886415008",
-      "title": "Recruiting Data Engineering & Analytics",
-      "company": "anthropic",
-      "location": "San Francisco, CA | Seattle, WA",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/4886415008",
-      "posted_at": "2026-02-13T18:36:36+00:00",
-      "first_seen_at": "2026-02-15T18:24:12.294192+00:00",
-      "last_seen_at": "2026-02-15T18:24:29.918503+00:00",
+      "first_seen_at": "2026-02-15T19:19:21.744139+00:00",
+      "last_seen_at": "2026-02-15T19:19:43.886101+00:00",
       "score": 1
     }
   ]
