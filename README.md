@@ -1,7 +1,7 @@
 ## Jobs Feed (auto-updated)
 
 <!-- JOBS:START -->
-_Last updated: 2026-02-15 02:24 CST_
+_Last updated: 2026-02-15 03:24 CST_
 
 | Posted | Company | Title | Location | Source |
 |---|---|---|---|---|
@@ -55,5 +55,4 @@ _Last updated: 2026-02-15 02:24 CST_
 | 2026-02-13 | block | [Senior Data Scientist, Bitcoin](http://block.xyz/careers/jobs/4989867008?gh_jid=4989867008) | Bay Area, CA, United States of America | greenhouse |
 | 2026-02-13 | block | [Staff Machine Learning Engineer, Tidal Personalization AI](http://block.xyz/careers/jobs/4811589008?gh_jid=4811589008) | Bay Area, CA, United States of America | greenhouse |
 | 2026-02-13 | block | [Senior Staff Machine Learning Engineer, Applied AI](http://block.xyz/careers/jobs/4885138008?gh_jid=4885138008) | Bay Area, CA, United States of America | greenhouse |
-| 2026-02-13 | scaleai | [Machine Learning Fellow - Human Frontier Collective (US)](https://job-boards.greenhouse.io/scaleai/jobs/4660340005) | United States | greenhouse |
 <!-- JOBS:END -->
