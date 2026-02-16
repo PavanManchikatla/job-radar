@@ -1,8 +1,44 @@
 {
-  "generated_at": "2026-02-16T14:01:11.780721+00:00",
+  "generated_at": "2026-02-16T15:34:44.096839+00:00",
   "timezone": "America/Chicago",
-  "count": 3,
+  "count": 6,
   "jobs": [
+    {
+      "source": "greenhouse",
+      "job_id": "7280493",
+      "title": "Business Intelligence Analyst 2",
+      "company": "twilio",
+      "location": "Remote - Colombia",
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/7280493",
+      "posted_at": "2026-02-16T15:33:50+00:00",
+      "first_seen_at": "2026-02-16T15:34:30.019456+00:00",
+      "last_seen_at": "2026-02-16T15:34:44.091287+00:00",
+      "score": 4
+    },
+    {
+      "source": "greenhouse",
+      "job_id": "7292353",
+      "title": "Business Intelligence Analyst 3",
+      "company": "twilio",
+      "location": "Remote - Colombia",
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/7292353",
+      "posted_at": "2026-02-16T15:33:18+00:00",
+      "first_seen_at": "2026-02-16T15:34:30.019456+00:00",
+      "last_seen_at": "2026-02-16T15:34:44.091287+00:00",
+      "score": 4
+    },
+    {
+      "source": "greenhouse",
+      "job_id": "7520997",
+      "title": "Staff Machine Learning Engineer (L4)",
+      "company": "twilio",
+      "location": "Remote - India",
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/7520997",
+      "posted_at": "2026-02-16T15:29:17+00:00",
+      "first_seen_at": "2026-02-16T15:34:30.019456+00:00",
+      "last_seen_at": "2026-02-16T15:34:44.091287+00:00",
+      "score": 2
+    },
     {
       "source": "greenhouse",
       "job_id": "7597775",
@@ -11,8 +47,8 @@
       "location": "Chennai or Remote, India",
       "url": "https://job-boards.greenhouse.io/fourkites/jobs/7597775",
       "posted_at": "2026-02-16T09:01:25+00:00",
-      "first_seen_at": "2026-02-16T14:00:53.905142+00:00",
-      "last_seen_at": "2026-02-16T14:01:11.774613+00:00",
+      "first_seen_at": "2026-02-16T15:34:31.759712+00:00",
+      "last_seen_at": "2026-02-16T15:34:44.091287+00:00",
       "score": 2
     },
     {
@@ -23,8 +59,8 @@
       "location": "San Francisco, CA | New York City, NY",
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5098499008",
       "posted_at": "2026-02-16T07:38:57+00:00",
-      "first_seen_at": "2026-02-16T14:00:47.155710+00:00",
-      "last_seen_at": "2026-02-16T14:01:11.774613+00:00",
+      "first_seen_at": "2026-02-16T15:34:23.981027+00:00",
+      "last_seen_at": "2026-02-16T15:34:44.091287+00:00",
       "score": 1
     },
     {
@@ -35,8 +71,8 @@
       "location": "San Francisco, CA",
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/4980430008",
       "posted_at": "2026-02-15T19:13:22+00:00",
-      "first_seen_at": "2026-02-16T14:00:47.155710+00:00",
-      "last_seen_at": "2026-02-16T14:01:11.774613+00:00",
+      "first_seen_at": "2026-02-16T15:34:23.981027+00:00",
+      "last_seen_at": "2026-02-16T15:34:44.091287+00:00",
       "score": 1
     }
   ]
