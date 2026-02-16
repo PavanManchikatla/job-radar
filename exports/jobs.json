@@ -1,8 +1,20 @@
 {
-  "generated_at": "2026-02-16T06:01:54.070947+00:00",
+  "generated_at": "2026-02-16T07:48:14.874789+00:00",
   "timezone": "America/Chicago",
-  "count": 1,
+  "count": 2,
   "jobs": [
+    {
+      "source": "greenhouse",
+      "job_id": "5098499008",
+      "title": "Data Scientist",
+      "company": "anthropic",
+      "location": "San Francisco, CA | New York City, NY",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5098499008",
+      "posted_at": "2026-02-16T07:38:57+00:00",
+      "first_seen_at": "2026-02-16T07:47:43.651041+00:00",
+      "last_seen_at": "2026-02-16T07:48:14.871306+00:00",
+      "score": 1
+    },
     {
       "source": "greenhouse",
       "job_id": "4980430008",
@@ -11,8 +23,8 @@
       "location": "San Francisco, CA",
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/4980430008",
       "posted_at": "2026-02-15T19:13:22+00:00",
-      "first_seen_at": "2026-02-16T06:01:26.274424+00:00",
-      "last_seen_at": "2026-02-16T06:01:54.065007+00:00",
+      "first_seen_at": "2026-02-16T07:47:43.651041+00:00",
+      "last_seen_at": "2026-02-16T07:48:14.871306+00:00",
       "score": 1
     }
   ]
