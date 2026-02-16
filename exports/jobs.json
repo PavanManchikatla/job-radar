@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-16T07:48:14.874789+00:00",
+  "generated_at": "2026-02-16T08:37:50.823937+00:00",
   "timezone": "America/Chicago",
   "count": 2,
   "jobs": [
@@ -11,8 +11,8 @@
       "location": "San Francisco, CA | New York City, NY",
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5098499008",
       "posted_at": "2026-02-16T07:38:57+00:00",
-      "first_seen_at": "2026-02-16T07:47:43.651041+00:00",
-      "last_seen_at": "2026-02-16T07:48:14.871306+00:00",
+      "first_seen_at": "2026-02-16T08:37:26.862600+00:00",
+      "last_seen_at": "2026-02-16T08:37:50.820183+00:00",
       "score": 1
     },
     {
@@ -23,8 +23,8 @@
       "location": "San Francisco, CA",
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/4980430008",
       "posted_at": "2026-02-15T19:13:22+00:00",
-      "first_seen_at": "2026-02-16T07:47:43.651041+00:00",
-      "last_seen_at": "2026-02-16T07:48:14.871306+00:00",
+      "first_seen_at": "2026-02-16T08:37:26.862600+00:00",
+      "last_seen_at": "2026-02-16T08:37:50.820183+00:00",
       "score": 1
     }
   ]
