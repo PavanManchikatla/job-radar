@@ -1,10 +1,11 @@
 ## Jobs Feed (auto-updated)
 
 <!-- JOBS:START -->
-_Last updated: 2026-02-16 14:21 CST_
+_Last updated: 2026-02-16 15:21 CST_
 
 | Posted | Company | Title | Location | Source |
 |---|---|---|---|---|
+| 2026-02-16 | boulevard | [Staff Analytics Engineer](https://job-boards.greenhouse.io/boulevard/jobs/4624597006) | Remote - USA | greenhouse |
 | 2026-02-16 | saatva | [Data Analyst – Omnichannel & Offline Growth](https://job-boards.greenhouse.io/saatva/jobs/4094785009) | Remote | greenhouse |
 | 2026-02-16 | twilio | [Business Intelligence Analyst 2](https://job-boards.greenhouse.io/twilio/jobs/7280493) | Remote - Colombia | greenhouse |
 | 2026-02-16 | twilio | [Business Intelligence Analyst 3](https://job-boards.greenhouse.io/twilio/jobs/7292353) | Remote - Colombia | greenhouse |
