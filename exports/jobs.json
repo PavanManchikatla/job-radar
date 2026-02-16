@@ -1,8 +1,20 @@
 {
-  "generated_at": "2026-02-16T17:33:13.627557+00:00",
+  "generated_at": "2026-02-16T18:33:09.569114+00:00",
   "timezone": "America/Chicago",
-  "count": 6,
+  "count": 7,
   "jobs": [
+    {
+      "source": "greenhouse",
+      "job_id": "4094785009",
+      "title": "Data Analyst \u2013 Omnichannel & Offline Growth",
+      "company": "saatva",
+      "location": "Remote ",
+      "url": "https://job-boards.greenhouse.io/saatva/jobs/4094785009",
+      "posted_at": "2026-02-16T17:54:50+00:00",
+      "first_seen_at": "2026-02-16T18:32:17.332986+00:00",
+      "last_seen_at": "2026-02-16T18:33:09.565304+00:00",
+      "score": 3
+    },
     {
       "source": "greenhouse",
       "job_id": "7280493",
@@ -11,8 +23,8 @@
       "location": "Remote - Colombia",
       "url": "https://job-boards.greenhouse.io/twilio/jobs/7280493",
       "posted_at": "2026-02-16T15:33:50+00:00",
-      "first_seen_at": "2026-02-16T17:32:45.217946+00:00",
-      "last_seen_at": "2026-02-16T17:33:13.623909+00:00",
+      "first_seen_at": "2026-02-16T18:32:19.064623+00:00",
+      "last_seen_at": "2026-02-16T18:33:09.565304+00:00",
       "score": 4
     },
     {
@@ -23,8 +35,8 @@
       "location": "Remote - Colombia",
       "url": "https://job-boards.greenhouse.io/twilio/jobs/7292353",
       "posted_at": "2026-02-16T15:33:18+00:00",
-      "first_seen_at": "2026-02-16T17:32:45.217946+00:00",
-      "last_seen_at": "2026-02-16T17:33:13.623909+00:00",
+      "first_seen_at": "2026-02-16T18:32:19.064623+00:00",
+      "last_seen_at": "2026-02-16T18:33:09.565304+00:00",
       "score": 4
     },
     {
@@ -35,8 +47,8 @@
       "location": "Remote - India",
       "url": "https://job-boards.greenhouse.io/twilio/jobs/7520997",
       "posted_at": "2026-02-16T15:29:17+00:00",
-      "first_seen_at": "2026-02-16T17:32:45.217946+00:00",
-      "last_seen_at": "2026-02-16T17:33:13.623909+00:00",
+      "first_seen_at": "2026-02-16T18:32:19.064623+00:00",
+      "last_seen_at": "2026-02-16T18:33:09.565304+00:00",
       "score": 2
     },
     {
@@ -47,8 +59,8 @@
       "location": "Chennai or Remote, India",
       "url": "https://job-boards.greenhouse.io/fourkites/jobs/7597775",
       "posted_at": "2026-02-16T09:01:25+00:00",
-      "first_seen_at": "2026-02-16T17:32:46.336930+00:00",
-      "last_seen_at": "2026-02-16T17:33:13.623909+00:00",
+      "first_seen_at": "2026-02-16T18:32:20.237848+00:00",
+      "last_seen_at": "2026-02-16T18:33:09.565304+00:00",
       "score": 2
     },
     {
@@ -59,8 +71,8 @@
       "location": "San Francisco, CA | New York City, NY",
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5098499008",
       "posted_at": "2026-02-16T07:38:57+00:00",
-      "first_seen_at": "2026-02-16T17:32:41.195621+00:00",
-      "last_seen_at": "2026-02-16T17:33:13.623909+00:00",
+      "first_seen_at": "2026-02-16T18:32:14.966613+00:00",
+      "last_seen_at": "2026-02-16T18:33:09.565304+00:00",
       "score": 1
     },
     {
@@ -71,8 +83,8 @@
       "location": "San Francisco, CA",
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/4980430008",
       "posted_at": "2026-02-15T19:13:22+00:00",
-      "first_seen_at": "2026-02-16T17:32:41.195621+00:00",
-      "last_seen_at": "2026-02-16T17:33:13.623909+00:00",
+      "first_seen_at": "2026-02-16T18:32:14.966613+00:00",
+      "last_seen_at": "2026-02-16T18:33:09.565304+00:00",
       "score": 1
     }
   ]
