@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-16T10:41:22.098925+00:00",
+  "generated_at": "2026-02-16T11:35:03.993967+00:00",
   "timezone": "America/Chicago",
   "count": 3,
   "jobs": [
@@ -11,8 +11,8 @@
       "location": "Chennai or Remote, India",
       "url": "https://job-boards.greenhouse.io/fourkites/jobs/7597775",
       "posted_at": "2026-02-16T09:01:25+00:00",
-      "first_seen_at": "2026-02-16T10:40:56.728649+00:00",
-      "last_seen_at": "2026-02-16T10:41:22.094705+00:00",
+      "first_seen_at": "2026-02-16T11:34:44.068500+00:00",
+      "last_seen_at": "2026-02-16T11:35:03.990579+00:00",
       "score": 2
     },
     {
@@ -23,8 +23,8 @@
       "location": "San Francisco, CA | New York City, NY",
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5098499008",
       "posted_at": "2026-02-16T07:38:57+00:00",
-      "first_seen_at": "2026-02-16T10:40:49.142712+00:00",
-      "last_seen_at": "2026-02-16T10:41:22.094705+00:00",
+      "first_seen_at": "2026-02-16T11:34:31.299167+00:00",
+      "last_seen_at": "2026-02-16T11:35:03.990579+00:00",
       "score": 1
     },
     {
@@ -35,8 +35,8 @@
       "location": "San Francisco, CA",
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/4980430008",
       "posted_at": "2026-02-15T19:13:22+00:00",
-      "first_seen_at": "2026-02-16T10:40:49.142712+00:00",
-      "last_seen_at": "2026-02-16T10:41:22.094705+00:00",
+      "first_seen_at": "2026-02-16T11:34:31.299167+00:00",
+      "last_seen_at": "2026-02-16T11:35:03.990579+00:00",
       "score": 1
     }
   ]
