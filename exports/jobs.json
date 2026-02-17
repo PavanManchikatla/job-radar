@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-17T11:34:44.043430+00:00",
+  "generated_at": "2026-02-17T12:42:20.609242+00:00",
   "timezone": "America/Chicago",
   "count": 9,
   "jobs": [
@@ -11,8 +11,8 @@
       "location": "United States",
       "url": "https://boards.greenhouse.io/point72/jobs/8342478002?gh_jid=8342478002",
       "posted_at": "2026-02-17T09:57:13+00:00",
-      "first_seen_at": "2026-02-17T11:34:02.076939+00:00",
-      "last_seen_at": "2026-02-17T11:34:44.038862+00:00",
+      "first_seen_at": "2026-02-17T12:42:00.018107+00:00",
+      "last_seen_at": "2026-02-17T12:42:20.605412+00:00",
       "score": 1
     },
     {
@@ -23,8 +23,8 @@
       "location": "Remote - USA",
       "url": "https://job-boards.greenhouse.io/boulevard/jobs/4624597006",
       "posted_at": "2026-02-16T20:53:18+00:00",
-      "first_seen_at": "2026-02-17T11:34:07.268460+00:00",
-      "last_seen_at": "2026-02-17T11:34:44.038862+00:00",
+      "first_seen_at": "2026-02-17T12:42:07.049188+00:00",
+      "last_seen_at": "2026-02-17T12:42:20.605412+00:00",
       "score": 2
     },
     {
@@ -35,8 +35,8 @@
       "location": "Remote ",
       "url": "https://job-boards.greenhouse.io/saatva/jobs/4094785009",
       "posted_at": "2026-02-16T17:54:50+00:00",
-      "first_seen_at": "2026-02-17T11:34:02.843235+00:00",
-      "last_seen_at": "2026-02-17T11:34:44.038862+00:00",
+      "first_seen_at": "2026-02-17T12:42:01.509192+00:00",
+      "last_seen_at": "2026-02-17T12:42:20.605412+00:00",
       "score": 3
     },
     {
@@ -47,8 +47,8 @@
       "location": "Remote - Colombia",
       "url": "https://job-boards.greenhouse.io/twilio/jobs/7280493",
       "posted_at": "2026-02-16T15:33:50+00:00",
-      "first_seen_at": "2026-02-17T11:34:04.587114+00:00",
-      "last_seen_at": "2026-02-17T11:34:44.038862+00:00",
+      "first_seen_at": "2026-02-17T12:42:04.477417+00:00",
+      "last_seen_at": "2026-02-17T12:42:20.605412+00:00",
       "score": 4
     },
     {
@@ -59,8 +59,8 @@
       "location": "Remote - Colombia",
       "url": "https://job-boards.greenhouse.io/twilio/jobs/7292353",
       "posted_at": "2026-02-16T15:33:18+00:00",
-      "first_seen_at": "2026-02-17T11:34:04.587114+00:00",
-      "last_seen_at": "2026-02-17T11:34:44.038862+00:00",
+      "first_seen_at": "2026-02-17T12:42:04.477417+00:00",
+      "last_seen_at": "2026-02-17T12:42:20.605412+00:00",
       "score": 4
     },
     {
@@ -71,8 +71,8 @@
       "location": "Remote - India",
       "url": "https://job-boards.greenhouse.io/twilio/jobs/7520997",
       "posted_at": "2026-02-16T15:29:17+00:00",
-      "first_seen_at": "2026-02-17T11:34:04.587114+00:00",
-      "last_seen_at": "2026-02-17T11:34:44.038862+00:00",
+      "first_seen_at": "2026-02-17T12:42:04.477417+00:00",
+      "last_seen_at": "2026-02-17T12:42:20.605412+00:00",
       "score": 2
     },
     {
@@ -83,8 +83,8 @@
       "location": "Chennai or Remote, India",
       "url": "https://job-boards.greenhouse.io/fourkites/jobs/7597775",
       "posted_at": "2026-02-16T09:01:25+00:00",
-      "first_seen_at": "2026-02-17T11:34:07.147612+00:00",
-      "last_seen_at": "2026-02-17T11:34:44.038862+00:00",
+      "first_seen_at": "2026-02-17T12:42:06.749536+00:00",
+      "last_seen_at": "2026-02-17T12:42:20.605412+00:00",
       "score": 2
     },
     {
@@ -95,8 +95,8 @@
       "location": "San Francisco, CA | New York City, NY",
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5098499008",
       "posted_at": "2026-02-16T07:38:57+00:00",
-      "first_seen_at": "2026-02-17T11:34:00.571784+00:00",
-      "last_seen_at": "2026-02-17T11:34:44.038862+00:00",
+      "first_seen_at": "2026-02-17T12:41:57.363115+00:00",
+      "last_seen_at": "2026-02-17T12:42:20.605412+00:00",
       "score": 1
     },
     {
@@ -107,8 +107,8 @@
       "location": "San Francisco, CA",
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/4980430008",
       "posted_at": "2026-02-15T19:13:22+00:00",
-      "first_seen_at": "2026-02-17T11:34:00.571784+00:00",
-      "last_seen_at": "2026-02-17T11:34:44.038862+00:00",
+      "first_seen_at": "2026-02-17T12:41:57.363115+00:00",
+      "last_seen_at": "2026-02-17T12:42:20.605412+00:00",
       "score": 1
     }
   ]
