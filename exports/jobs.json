@@ -1,8 +1,56 @@
 {
-  "generated_at": "2026-02-17T14:02:18.731072+00:00",
+  "generated_at": "2026-02-17T15:44:14.833262+00:00",
   "timezone": "America/Chicago",
-  "count": 9,
+  "count": 11,
   "jobs": [
+    {
+      "source": "greenhouse",
+      "job_id": "4094785009",
+      "title": "Data Analyst \u2013 Omnichannel & Offline Growth",
+      "company": "saatva",
+      "location": "Remote ",
+      "url": "https://job-boards.greenhouse.io/saatva/jobs/4094785009",
+      "posted_at": "2026-02-17T15:43:26+00:00",
+      "first_seen_at": "2026-02-17T15:43:54.660227+00:00",
+      "last_seen_at": "2026-02-17T15:44:14.826056+00:00",
+      "score": 3
+    },
+    {
+      "source": "greenhouse",
+      "job_id": "6799090",
+      "title": "Principal Machine Learning Engineer",
+      "company": "coinbase",
+      "location": "Remote - USA",
+      "url": "https://www.coinbase.com/careers/positions/6799090?gh_jid=6799090",
+      "posted_at": "2026-02-17T15:39:45+00:00",
+      "first_seen_at": "2026-02-17T15:43:54.027783+00:00",
+      "last_seen_at": "2026-02-17T15:44:14.826056+00:00",
+      "score": 2
+    },
+    {
+      "source": "greenhouse",
+      "job_id": "7520997",
+      "title": "Staff Machine Learning Engineer (L4)",
+      "company": "twilio",
+      "location": "Remote - India",
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/7520997",
+      "posted_at": "2026-02-17T15:27:54+00:00",
+      "first_seen_at": "2026-02-17T15:43:56.300895+00:00",
+      "last_seen_at": "2026-02-17T15:44:14.826056+00:00",
+      "score": 2
+    },
+    {
+      "source": "greenhouse",
+      "job_id": "6675110",
+      "title": "Research Engineer, ML Pathways",
+      "company": "deepmind",
+      "location": "New York City, New York, US",
+      "url": "https://job-boards.greenhouse.io/deepmind/jobs/6675110",
+      "posted_at": "2026-02-17T14:39:44+00:00",
+      "first_seen_at": "2026-02-17T15:43:52.827852+00:00",
+      "last_seen_at": "2026-02-17T15:44:14.826056+00:00",
+      "score": 1
+    },
     {
       "source": "greenhouse",
       "job_id": "8342478002",
@@ -11,8 +59,8 @@
       "location": "United States",
       "url": "https://boards.greenhouse.io/point72/jobs/8342478002?gh_jid=8342478002",
       "posted_at": "2026-02-17T09:57:13+00:00",
-      "first_seen_at": "2026-02-17T14:02:00.728555+00:00",
-      "last_seen_at": "2026-02-17T14:02:18.727387+00:00",
+      "first_seen_at": "2026-02-17T15:43:53.774069+00:00",
+      "last_seen_at": "2026-02-17T15:44:14.826056+00:00",
       "score": 1
     },
     {
@@ -23,21 +71,9 @@
       "location": "Remote - USA",
       "url": "https://job-boards.greenhouse.io/boulevard/jobs/4624597006",
       "posted_at": "2026-02-16T20:53:18+00:00",
-      "first_seen_at": "2026-02-17T14:02:04.806613+00:00",
-      "last_seen_at": "2026-02-17T14:02:18.727387+00:00",
+      "first_seen_at": "2026-02-17T15:43:57.957200+00:00",
+      "last_seen_at": "2026-02-17T15:44:14.826056+00:00",
       "score": 2
-    },
-    {
-      "source": "greenhouse",
-      "job_id": "4094785009",
-      "title": "Data Analyst \u2013 Omnichannel & Offline Growth",
-      "company": "saatva",
-      "location": "Remote ",
-      "url": "https://job-boards.greenhouse.io/saatva/jobs/4094785009",
-      "posted_at": "2026-02-16T17:54:50+00:00",
-      "first_seen_at": "2026-02-17T14:02:01.505838+00:00",
-      "last_seen_at": "2026-02-17T14:02:18.727387+00:00",
-      "score": 3
     },
     {
       "source": "greenhouse",
@@ -47,8 +83,8 @@
       "location": "Remote - Colombia",
       "url": "https://job-boards.greenhouse.io/twilio/jobs/7280493",
       "posted_at": "2026-02-16T15:33:50+00:00",
-      "first_seen_at": "2026-02-17T14:02:03.151510+00:00",
-      "last_seen_at": "2026-02-17T14:02:18.727387+00:00",
+      "first_seen_at": "2026-02-17T15:43:56.300895+00:00",
+      "last_seen_at": "2026-02-17T15:44:14.826056+00:00",
       "score": 4
     },
     {
@@ -59,21 +95,9 @@
       "location": "Remote - Colombia",
       "url": "https://job-boards.greenhouse.io/twilio/jobs/7292353",
       "posted_at": "2026-02-16T15:33:18+00:00",
-      "first_seen_at": "2026-02-17T14:02:03.151510+00:00",
-      "last_seen_at": "2026-02-17T14:02:18.727387+00:00",
+      "first_seen_at": "2026-02-17T15:43:56.300895+00:00",
+      "last_seen_at": "2026-02-17T15:44:14.826056+00:00",
       "score": 4
-    },
-    {
-      "source": "greenhouse",
-      "job_id": "7520997",
-      "title": "Staff Machine Learning Engineer (L4)",
-      "company": "twilio",
-      "location": "Remote - India",
-      "url": "https://job-boards.greenhouse.io/twilio/jobs/7520997",
-      "posted_at": "2026-02-16T15:29:17+00:00",
-      "first_seen_at": "2026-02-17T14:02:03.151510+00:00",
-      "last_seen_at": "2026-02-17T14:02:18.727387+00:00",
-      "score": 2
     },
     {
       "source": "greenhouse",
@@ -83,8 +107,8 @@
       "location": "Chennai or Remote, India",
       "url": "https://job-boards.greenhouse.io/fourkites/jobs/7597775",
       "posted_at": "2026-02-16T09:01:25+00:00",
-      "first_seen_at": "2026-02-17T14:02:04.636269+00:00",
-      "last_seen_at": "2026-02-17T14:02:18.727387+00:00",
+      "first_seen_at": "2026-02-17T15:43:57.791834+00:00",
+      "last_seen_at": "2026-02-17T15:44:14.826056+00:00",
       "score": 2
     },
     {
@@ -95,8 +119,8 @@
       "location": "San Francisco, CA | New York City, NY",
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5098499008",
       "posted_at": "2026-02-16T07:38:57+00:00",
-      "first_seen_at": "2026-02-17T14:01:57.868120+00:00",
-      "last_seen_at": "2026-02-17T14:02:18.727387+00:00",
+      "first_seen_at": "2026-02-17T15:43:48.483232+00:00",
+      "last_seen_at": "2026-02-17T15:44:14.826056+00:00",
       "score": 1
     },
     {
@@ -107,8 +131,8 @@
       "location": "San Francisco, CA",
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/4980430008",
       "posted_at": "2026-02-15T19:13:22+00:00",
-      "first_seen_at": "2026-02-17T14:01:57.868120+00:00",
-      "last_seen_at": "2026-02-17T14:02:18.727387+00:00",
+      "first_seen_at": "2026-02-17T15:43:48.483232+00:00",
+      "last_seen_at": "2026-02-17T15:44:14.826056+00:00",
       "score": 1
     }
   ]
