@@ -1,11 +1,13 @@
 ## Jobs Feed (auto-updated)
 
 <!-- JOBS:START -->
-_Last updated: 2026-02-17 14:28 CST_
+_Last updated: 2026-02-17 15:27 CST_
 
 | Posted | Company | Title | Location | Source |
 |---|---|---|---|---|
-| 2026-02-17 | block | [Staff/Principal Machine Learning Engineer (Modeling), Afterpay Risk](http://block.xyz/careers/jobs/5072757008?gh_jid=5072757008) | Bay Area, CA, United States of America | greenhouse |
+| 2026-02-17 | instacart | [Senior Data Scientist](https://instacart.careers/job/?gh_jid=4949339) | United States - Remote | greenhouse |
+| 2026-02-17 | block | [Staff/Principal Machine Learning Engineer (Modeling), Afterpay Fraud](http://block.xyz/careers/jobs/5072757008?gh_jid=5072757008) | Bay Area, CA, United States of America | greenhouse |
+| 2026-02-17 | gitlab | [Sales Analytics Manager](https://job-boards.greenhouse.io/gitlab/jobs/8315777002) | Remote, Canada; Remote, US | greenhouse |
 | 2026-02-17 | anthropic | [Data Scientist](https://job-boards.greenhouse.io/anthropic/jobs/5098499008) | San Francisco, CA \| New York City, NY | greenhouse |
 | 2026-02-17 | dropbox | [Staff Data Scientist, AI Products- Growth](https://jobs.dropbox.com/listing/7512377?gh_jid=7512377) | Remote - Canada: Select locations | greenhouse |
 | 2026-02-17 | dropbox | [Staff Data Scientist, AI Products- Growth](https://jobs.dropbox.com/listing/7512374?gh_jid=7512374) | Remote - US: Select locations | greenhouse |
@@ -17,9 +19,9 @@ _Last updated: 2026-02-17 14:28 CST_
 | 2026-02-17 | motional | [Engineer/Senior Machine Learning Integration Engineer](https://motional.com/open-positions/?gh_jid=7550402003#/7550402003) | Remote U.S. | greenhouse |
 | 2026-02-17 | motional | [Senior Software Engineer, ML Infrastructure](https://motional.com/open-positions/?gh_jid=6661211003#/6661211003) | Boston, Massachusetts, United States; Pittsburgh, Pennsylvania, United States; Remote U.S. | greenhouse |
 | 2026-02-17 | motional | [Senior Data Engineer](https://motional.com/open-positions/?gh_jid=6676421003#/6676421003) | Boston, Massachusetts, United States; Pittsburgh, Pennsylvania, United States; Remote U.S. | greenhouse |
-| 2026-02-17 | motional | [Senior Machine Learning Engineer, Data Mining](https://motional.com/open-positions/?gh_jid=7623982003#/7623982003) | Boston, Massachusetts, United States | greenhouse |
-| 2026-02-17 | motional | [Senior Machine Learning Engineer, Data Mining](https://motional.com/open-positions/?gh_jid=7624495003#/7624495003) | Pittsburgh, Pennsylvania, United States | greenhouse |
 | 2026-02-17 | motional | [Senior Machine Learning Engineer, Data Mining](https://motional.com/open-positions/?gh_jid=7624498003#/7624498003) | Las Vegas, Nevada, United States | greenhouse |
+| 2026-02-17 | motional | [Senior Machine Learning Engineer, Data Mining](https://motional.com/open-positions/?gh_jid=7624495003#/7624495003) | Pittsburgh, Pennsylvania, United States | greenhouse |
+| 2026-02-17 | motional | [Senior Machine Learning Engineer, Data Mining](https://motional.com/open-positions/?gh_jid=7623982003#/7623982003) | Boston, Massachusetts, United States | greenhouse |
 | 2026-02-17 | motional | [Senior Machine Learning Engineer, Data Mining](https://motional.com/open-positions/?gh_jid=7624507003#/7624507003) | Remote U.S. | greenhouse |
 | 2026-02-17 | bandwidth | [Senior Analytics Engineer](https://job-boards.greenhouse.io/bandwidth/jobs/7583357) | Raleigh, NC | greenhouse |
 | 2026-02-17 | block | [Senior Machine Learning Modeler, Advanced Insights & Modeling](http://block.xyz/careers/jobs/4947773008?gh_jid=4947773008) | Bay Area, CA, United States of America | greenhouse |
