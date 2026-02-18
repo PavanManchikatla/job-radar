@@ -27,6 +27,7 @@ LICENSE: MIT
 """
 
 import argparse
+import os
 import re
 import json
 import time
@@ -53,7 +54,7 @@ except ImportError:
 # CONFIGURATION
 # =========================
 
-VERSION = "3.0.0"
+VERSION = "3.1.0"
 VALID_DIR = Path("validated_sources")
 VALID_WEBSCRAPE = VALID_DIR / "webscrape_valid.txt"
 INVALID_WEBSCRAPE = VALID_DIR / "webscrape_invalid.txt"
@@ -71,6 +72,8 @@ MAX_RETRIES = 2
 RATE_LIMIT_DELAY = 0.1  # 100ms between requests
 
 DEFAULT_MASTER_LIST = Path("sources/companies.txt")
+EXTRA_MASTER_LIST = Path("sources/companies_extra.txt")
+EXTRA_MASTER_LISTS_DIR = Path("sources/company_lists")
 
 # Blocked networks (SSRF protection)
 BLOCKED_NETWORKS = [
@@ -89,6 +92,20 @@ ALLOWED_CONTENT_TYPES = [
     'text/html',
     'text/plain',
     'application/xhtml+xml',
+]
+
+ATS_MARKERS = [
+    'greenhouse.io',
+    'lever.co',
+    'ashbyhq.com',
+    'smartrecruiters.com',
+    'myworkdayjobs.com',
+    'icims.com',
+    'jobvite.com',
+    'bamboohr.com',
+    'workable.com',
+    '/wday/cxs/',
+    'workday',
 ]
 
 # =========================
@@ -311,14 +328,15 @@ class CareerPageFinder:
         Try to find a company's career page
         Returns URL or None
         """
-        # Sanitize company name
-        clean_name = self._sanitize_company_name(company_name)
-        if not clean_name:
+        clean_names = self._generate_name_variants(company_name)
+        if not clean_names:
             logger.debug(f"Invalid company name: {company_name}")
             return None
-        
-        # Generate URL patterns
-        url_patterns = self._generate_url_patterns(clean_name)
+
+        url_patterns: List[str] = []
+        for clean_name in clean_names:
+            url_patterns.extend(self._generate_url_patterns(clean_name))
+        url_patterns = list(dict.fromkeys(url_patterns))
         
         # Try each pattern
         for url in url_patterns:
@@ -331,7 +349,7 @@ class CareerPageFinder:
                 
                 if response.status_code == 200:
                     # Verify it's actually a career page
-                    if self._is_career_page(response.text):
+                    if self._is_career_page(response.text, url):
                         logger.info(f"Found career page for {company_name}: {url}")
                         return url
                         
@@ -344,14 +362,37 @@ class CareerPageFinder:
     
     def _sanitize_company_name(self, name: str) -> Optional[str]:
         """Sanitize company name for URL construction"""
-        # Remove special characters
-        clean = re.sub(r'[^a-zA-Z0-9\-]', '', name.lower())
+        clean = re.sub(r'[^a-zA-Z0-9\-]', '', (name or '').lower())
         
         # Validate
         if not SecurityValidator.is_safe_company_name(clean):
             return None
         
         return clean
+
+    def _generate_name_variants(self, name: str) -> List[str]:
+        base = (name or '').strip().lower()
+        if not base:
+            return []
+
+        variants: List[str] = []
+        compact = re.sub(r'[^a-z0-9]', '', base)
+        if compact:
+            variants.append(compact)
+
+        words = [w for w in re.split(r'[^a-z0-9]+', base) if w]
+        if words:
+            variants.append("-".join(words))
+            variants.append("".join(words))
+            if len(words) > 1:
+                variants.append(words[0])
+
+        out: List[str] = []
+        for v in variants:
+            cleaned = self._sanitize_company_name(v)
+            if cleaned and cleaned not in out:
+                out.append(cleaned)
+        return out[:5]
     
     def _generate_url_patterns(self, clean_name: str) -> List[str]:
         """Generate common career page URL patterns"""
@@ -364,11 +405,29 @@ class CareerPageFinder:
             f"https://{clean_name}.com/jobs",
             f"https://{clean_name}.com/careers/jobs",
             f"https://www.{clean_name}.com/company/careers",
+            f"https://{clean_name}.com/careers/",
+            f"https://careers.{clean_name}.io",
+            f"https://{clean_name}.io/careers",
+            f"https://{clean_name}.co/careers",
+            f"https://www.{clean_name}.co/careers",
             f"https://{clean_name}.ai/careers",
             f"https://www.{clean_name}.ai/careers",
+            f"https://boards.greenhouse.io/{clean_name}",
+            f"https://job-boards.greenhouse.io/{clean_name}",
+            f"https://jobs.lever.co/{clean_name}",
+            f"https://jobs.ashbyhq.com/{clean_name}",
+            f"https://jobs.smartrecruiters.com/{clean_name}",
+            f"https://{clean_name}.bamboohr.com/careers",
+            f"https://jobs.jobvite.com/{clean_name}",
+            f"https://apply.workable.com/{clean_name}",
+            f"https://{clean_name}.workable.com",
+            f"https://{clean_name}.icims.com/jobs",
+            f"https://careers.{clean_name}.icims.com/jobs",
+            f"https://{clean_name}.wd5.myworkdayjobs.com",
+            f"https://{clean_name}.wd1.myworkdayjobs.com",
         ]
     
-    def _is_career_page(self, html: str) -> bool:
+    def _is_career_page(self, html: str, url: str = "") -> bool:
         """Verify page is actually a career page"""
         # Limit size for analysis
         if len(html) > MAX_HTML_PARSE_SIZE:
@@ -380,8 +439,14 @@ class CareerPageFinder:
         career_keywords = ['job', 'career', 'position', 'opening', 'opportunity', 'hiring', 'apply']
         keyword_count = sum(1 for keyword in career_keywords if keyword in content_lower)
         
-        # Need at least 3 career keywords
-        return keyword_count >= 3
+        if keyword_count >= 3:
+            return True
+
+        # JS-heavy ATS pages can still be valid even without rendered listings.
+        if JobDetector.has_ats_markers(html, url):
+            return True
+
+        return False
 
 
 # =========================
@@ -390,6 +455,11 @@ class CareerPageFinder:
 
 class JobDetector:
     """Detect jobs on career pages"""
+
+    @staticmethod
+    def has_ats_markers(html: str, url: str = "") -> bool:
+        haystack = ((html or "")[:MAX_HTML_PARSE_SIZE] + " " + (url or "")).lower()
+        return any(marker in haystack for marker in ATS_MARKERS)
     
     @staticmethod
     def has_json_ld_jobs(html: str) -> bool:
@@ -504,8 +574,9 @@ class WebScrapeValidator:
         Returns:
             (is_valid, reason, career_url)
         """
-        # Validate company name
-        if not SecurityValidator.is_safe_company_name(company):
+        # Validate company name by checking at least one sanitized variant exists.
+        variants = self.career_finder._generate_name_variants(company)
+        if not variants:
             return False, "invalid_company_name", None
         
         try:
@@ -534,6 +605,10 @@ class WebScrapeValidator:
             if JobDetector.has_job_listings_html(html):
                 logger.info(f"✓ {company} - Found jobs via HTML")
                 return True, "ok_html", career_url
+
+            if JobDetector.has_ats_markers(html, career_url):
+                logger.info(f"✓ {company} - Found ATS-backed career page")
+                return True, "ok_ats", career_url
             
             return False, "no_jobs", career_url
             
@@ -687,23 +762,50 @@ def save_validation_results(valid: List[Tuple[str, str]], invalid: List[Tuple[st
     logger.info(f"Results saved: {len(valid)} valid, {len(invalid)} invalid")
 
 
+def resolve_company_list_files(primary: Path = DEFAULT_MASTER_LIST) -> List[Path]:
+    files: List[Path] = [primary]
+
+    env_extra = os.getenv("COMPANIES_EXTRA_FILES", "").strip()
+    if env_extra:
+        for raw in env_extra.split(","):
+            p = Path(raw.strip())
+            if raw.strip():
+                files.append(p)
+
+    files.append(EXTRA_MASTER_LIST)
+    if EXTRA_MASTER_LISTS_DIR.exists():
+        files.extend(sorted(EXTRA_MASTER_LISTS_DIR.glob("*.txt")))
+
+    out: List[Path] = []
+    seen = set()
+    for p in files:
+        key = str(p.resolve()) if p.exists() else str(p)
+        if key in seen:
+            continue
+        seen.add(key)
+        out.append(p)
+    return out
+
+
 def load_master_company_list(path: Path = DEFAULT_MASTER_LIST) -> List[str]:
     """Load and sanitize company list"""
     if not path.exists():
         raise FileNotFoundError(f"Master company list not found: {path}")
     
+    source_files = [p for p in resolve_company_list_files(path) if p.exists()]
     items: List[str] = []
-    for raw in path.read_text(encoding="utf-8").splitlines():
-        line = raw.strip()
-        if not line or line.startswith("#") or line.startswith("//"):
-            continue
-        line = line.split("#", 1)[0].split("//", 1)[0].strip()
-        if line:
-            # Validate company name
-            if SecurityValidator.is_safe_company_name(line):
-                items.append(line)
-            else:
-                logger.warning(f"Skipping invalid company name: {line}")
+    for source in source_files:
+        for raw in source.read_text(encoding="utf-8").splitlines():
+            line = raw.strip()
+            if not line or line.startswith("#") or line.startswith("//"):
+                continue
+            line = line.split("#", 1)[0].split("//", 1)[0].strip()
+            if line:
+                normalized = re.sub(r"\s+", " ", line.lower()).strip()
+                if re.search(r"[a-z0-9]", normalized):
+                    items.append(normalized)
+                else:
+                    logger.warning(f"Skipping malformed company name: {line}")
     
     # Remove duplicates
     return list(dict.fromkeys(items))

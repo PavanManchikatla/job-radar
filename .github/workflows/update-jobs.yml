@@ -2,7 +2,8 @@ name: Update Job Feed
 
 on:
   schedule:
-    - cron: "0 * * * *"     # daily 12:15 UTC
+    - cron: "15 12 * * *"   # daily 12:15 UTC
+    - cron: "45 12 * * 0"   # weekly Sunday 12:45 UTC (full revalidation)
   workflow_dispatch: {}
 
 permissions:
@@ -27,9 +28,26 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: Run pipeline
+      - name: Run refresh pipeline
         run: |
-          python job_radar.py pipeline-update
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ] || [ "${{ github.event.schedule }}" = "45 12 * * 0" ]; then
+            echo "Running full revalidation + refresh"
+            python job_radar.py full-refresh \
+              --web-validate-workers 12 \
+              --collect-workers 20 \
+              --min-request-interval 0.6 \
+              --max-per-source 300 \
+              --days-back-posted 30
+          else
+            echo "Running daily refresh (skip validations)"
+            python job_radar.py full-refresh \
+              --skip-web-validate \
+              --skip-api-validate \
+              --collect-workers 20 \
+              --min-request-interval 0.6 \
+              --max-per-source 300 \
+              --days-back-posted 3
+          fi
 
       - name: Commit & push if changed
         run: |
@@ -42,5 +60,6 @@ jobs:
           fi
 
           git add README.md exports state
+          git add validated_sources/*_valid.txt validated_sources/career_url_mappings.txt
           git commit -m "chore: update job feed"
           git push

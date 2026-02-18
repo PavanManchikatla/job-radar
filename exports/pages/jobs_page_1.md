@@ -1,9 +1,9 @@
-## Jobs Feed (auto-updated)
+# Jobs Feed (Page 1/4)
 
-<!-- JOBS:START -->
 _Last updated: 2026-02-17 19:26 CST_
 
-Page 1/4 | [Next](exports/pages/jobs_page_2.md)
+Page 1/4 | [Next](jobs_page_2.md)
+
 
 | Posted | Company | Title | Location | Source |
 |---|---|---|---|---|
@@ -208,5 +208,6 @@ Page 1/4 | [Next](exports/pages/jobs_page_2.md)
 | 2026-01-26 | anthropic | [Staff Machine Learning Engineer, Virtual Collaborator](https://job-boards.greenhouse.io/anthropic/jobs/4946308008) | New York City, NY; San Francisco, CA; Seattle, WA | greenhouse |
 | 2026-01-26 | anthropic | [Software Engineer, ML Networking](https://job-boards.greenhouse.io/anthropic/jobs/4926242008) | San Francisco, CA \| New York City, NY \| Seattle, WA | greenhouse |
 
-Page 1/4 | [Next](exports/pages/jobs_page_2.md)
-<!-- JOBS:END -->
+Page 1/4 | [Next](jobs_page_2.md)
+
+[Back to README](../../README.md)

@@ -1,9 +1,11 @@
 mistral
 sonatype
-olo
+skyslope
 spotify
 deputy
+sophos
 anomali
+jumpcloud
 zoox
 weride
 coupa
