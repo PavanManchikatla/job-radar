@@ -2,8 +2,12 @@ name: Update Job Feed
 
 on:
   schedule:
-    - cron: "15 12 * * *"   # daily 12:15 UTC
-    - cron: "45 12 * * 0"   # weekly Sunday 12:45 UTC (full revalidation)
+    # Runs every 2 hours
+    - cron: "0 */2 * * *"
+
+    # Full revalidation daily at 12:45 UTC
+    - cron: "45 12 * * *"
+
   workflow_dispatch: {}
 
 permissions:
