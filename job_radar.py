@@ -2656,7 +2656,7 @@ def _write_pipeline_state(state: Dict[str, Any]) -> None:
 
 
 def _query_jobs_for_feed(limit: Optional[int] = None) -> List[Dict[str, Any]]:
-    """Return jobs sorted by posted_at DESC (newest first)."""
+    """Return jobs for feed with dated postings first, then undated by recency seen."""
     init_db()
 
     sql = """
@@ -2664,8 +2664,10 @@ def _query_jobs_for_feed(limit: Optional[int] = None) -> List[Dict[str, Any]]:
             source, job_id, title, company, location, url,
             posted_at, first_seen_at, last_seen_at, score
         FROM jobs
-        WHERE posted_at IS NOT NULL
-        ORDER BY posted_at DESC
+        ORDER BY
+            CASE WHEN posted_at IS NULL THEN 1 ELSE 0 END,
+            posted_at DESC,
+            last_seen_at DESC
     """
     params: List[Any] = []
     if isinstance(limit, int) and limit > 0:
@@ -2719,7 +2721,7 @@ def _render_jobs_table(jobs: List[Dict[str, Any]]) -> List[str]:
     for j in jobs:
         posted = (j.get("posted_at") or "")
         # Show just date part if ISO-like.
-        posted_short = posted[:10] if len(posted) >= 10 else posted
+        posted_short = posted[:10] if len(posted) >= 10 else (posted or "—")
         company = _md_escape(j.get("company", ""))
         title = _md_escape(j.get("title", ""))
         loc = _md_escape(j.get("location", "")) or "—"
