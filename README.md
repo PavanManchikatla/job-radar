@@ -1,14 +1,16 @@
 ## Jobs Feed (auto-updated)
 
 <!-- JOBS:START -->
-_Last updated: 2026-02-18 22:43 CST_
+_Last updated: 2026-02-19 01:20 CST_
 
 | Posted | Company | Title | Location | Source |
 |---|---|---|---|---|
+| 2026-02-19 | coinbase | [Senior Machine Learning Platform Engineer (Platform)](https://www.coinbase.com/careers/positions/7604203?gh_jid=7604203) | Remote - USA | greenhouse |
+| 2026-02-19 | waymo | [Staff Machine Learning SWE Infra](https://careers.withwaymo.com/jobs?gh_jid=7438635) | Mountain View, CA, USA | greenhouse |
 | 2026-02-19 | philo | [Data Engineering Manager](https://job-boards.greenhouse.io/philo/jobs/7630991) | San Francisco, CA, Brooklyn, NY, Cambridge, MA or remote within the U.S. | greenhouse |
 | 2026-02-19 | block | [Senior Analytics Engineer, Compliance](http://block.xyz/careers/jobs/5125349008?gh_jid=5125349008) | San Francisco, CA, United States of America | greenhouse |
-| 2026-02-18 | dropbox | [Staff Data Engineer, Analytics Data Engineering](https://jobs.dropbox.com/listing/7595183?gh_jid=7595183) | Remote - US: Select locations | greenhouse |
 | 2026-02-18 | dropbox | [Staff Data Engineer, Analytics Data Engineering](https://jobs.dropbox.com/listing/7595186?gh_jid=7595186) | Remote - Canada: Select locations | greenhouse |
+| 2026-02-18 | dropbox | [Staff Data Engineer, Analytics Data Engineering](https://jobs.dropbox.com/listing/7595183?gh_jid=7595183) | Remote - US: Select locations | greenhouse |
 | 2026-02-18 | dropbox | [People Team Data Analyst, Talent Acquisition](https://jobs.dropbox.com/listing/7536371?gh_jid=7536371) | Remote - US: Select locations | greenhouse |
 | 2026-02-18 | dropbox | [People Team Data Analyst, Talent Acquisition](https://jobs.dropbox.com/listing/7536374?gh_jid=7536374) | Remote - Canada: Select locations | greenhouse |
 | 2026-02-18 | chime | [Data Analyst, Lending](https://boards.greenhouse.io/chime/jobs/8365502002?gh_jid=8365502002) | San Francisco, CA | greenhouse |
@@ -62,10 +64,10 @@ _Last updated: 2026-02-18 22:43 CST_
 | 2026-02-17 | motional | [Senior Machine Learning Engineer - Prediction](https://motional.com/open-positions/?gh_jid=6526950003#/6526950003) | Boston, Massachusetts, United States; Pittsburgh, Pennsylvania, United States; Remote U.S. | greenhouse |
 | 2026-02-17 | motional | [Senior Software Engineer, ML Infrastructure](https://motional.com/open-positions/?gh_jid=6661211003#/6661211003) | Boston, Massachusetts, United States; Pittsburgh, Pennsylvania, United States; Remote U.S. | greenhouse |
 | 2026-02-17 | motional | [Senior Data Engineer](https://motional.com/open-positions/?gh_jid=6676421003#/6676421003) | Boston, Massachusetts, United States; Pittsburgh, Pennsylvania, United States; Remote U.S. | greenhouse |
-| 2026-02-17 | motional | [Senior Machine Learning Engineer, Data Mining](https://motional.com/open-positions/?gh_jid=7624507003#/7624507003) | Remote U.S. | greenhouse |
 | 2026-02-17 | motional | [Senior Machine Learning Engineer, Data Mining](https://motional.com/open-positions/?gh_jid=7624498003#/7624498003) | Las Vegas, Nevada, United States | greenhouse |
-| 2026-02-17 | motional | [Senior Machine Learning Engineer, Data Mining](https://motional.com/open-positions/?gh_jid=7624495003#/7624495003) | Pittsburgh, Pennsylvania, United States | greenhouse |
 | 2026-02-17 | motional | [Senior Machine Learning Engineer, Data Mining](https://motional.com/open-positions/?gh_jid=7623982003#/7623982003) | Boston, Massachusetts, United States | greenhouse |
+| 2026-02-17 | motional | [Senior Machine Learning Engineer, Data Mining](https://motional.com/open-positions/?gh_jid=7624495003#/7624495003) | Pittsburgh, Pennsylvania, United States | greenhouse |
+| 2026-02-17 | motional | [Senior Machine Learning Engineer, Data Mining](https://motional.com/open-positions/?gh_jid=7624507003#/7624507003) | Remote U.S. | greenhouse |
 | 2026-02-17 | bandwidth | [Senior Analytics Engineer](https://job-boards.greenhouse.io/bandwidth/jobs/7583357) | Raleigh, NC | greenhouse |
 | 2026-02-17 | block | [Senior Machine Learning Modeler, Advanced Insights & Modeling](http://block.xyz/careers/jobs/4947773008?gh_jid=4947773008) | Bay Area, CA, United States of America | greenhouse |
 | 2026-02-17 | coinbase | [Data Scientist II - Consumer](https://www.coinbase.com/careers/positions/7583657?gh_jid=7583657) | Remote - USA | greenhouse |
@@ -76,7 +78,6 @@ _Last updated: 2026-02-18 22:43 CST_
 | 2026-02-17 | coinbase | [Senior Data Scientist - Consumer](https://www.coinbase.com/careers/positions/7583593?gh_jid=7583593) | Remote - USA | greenhouse |
 | 2026-02-17 | coinbase | [Senior Data Scientist - Developer](https://www.coinbase.com/careers/positions/7583653?gh_jid=7583653) | Remote - USA | greenhouse |
 | 2026-02-17 | coinbase | [Senior Data Scientist - Platform](https://www.coinbase.com/careers/positions/6969295?gh_jid=6969295) | Remote - USA | greenhouse |
-| 2026-02-17 | coinbase | [Senior Machine Learning Platform Engineer (Platform)](https://www.coinbase.com/careers/positions/7604203?gh_jid=7604203) | Remote - USA | greenhouse |
 | 2026-02-17 | coinbase | [Senior Manager, Analytics Engineering](https://www.coinbase.com/careers/positions/7551227?gh_jid=7551227) | Remote - USA | greenhouse |
 | 2026-02-17 | coinbase | [Staff Analytics Engineer](https://www.coinbase.com/careers/positions/7060033?gh_jid=7060033) | Remote - USA | greenhouse |
 | 2026-02-17 | coinbase | [Staff Applied Scientist - Causal Inference](https://www.coinbase.com/careers/positions/5670626?gh_jid=5670626) | Remote - USA | greenhouse |
@@ -92,26 +93,25 @@ _Last updated: 2026-02-18 22:43 CST_
 | 2026-02-16 | beyond trust | [Sr Data Engineer](https://job-boards.greenhouse.io/beyondtrust/jobs/6602214) | Remote United States | greenhouse |
 | 2026-02-16 | fourkites | [Senior Analytics engineer - AI](https://job-boards.greenhouse.io/fourkites/jobs/7597775) | Chennai or Remote, India | greenhouse |
 | — | redhat | [Artificial intelligence](https://jobs.redhat.com/en/hybrid-cloud-solutions/ai) | — | webscrape |
-| — | meta | [Software Engineer, Machine Learning Sunnyvale, CA + 15 locations](https://www.metacareers.com/profile/job_details/1436181490732782/) | — | webscrape |
 | — | canonical | [MLOps Scalable machine learning solutions](https://careers.canonical.com/mlops) | — | webscrape |
 | — | canonical | [Kubeflow Machine learning toolkit for K8s](https://careers.canonical.com/mlops/kubeflow/what-is-kubeflow) | — | webscrape |
+| — | meta | [Software Engineer, Machine Learning Sunnyvale, CA + 15 locations](https://www.metacareers.com/profile/job_details/1436181490732782/) | — | webscrape |
 | — | front | [Senior Product Data Analyst Paris, France](https://jobs.ashbyhq.com/frontcareers/df57779a-61a4-4546-95f8-e9d276039525) | — | webscrape |
 | — | front | [AI Engineering Manager (Core AI Platform) San Francisco, CA](https://jobs.ashbyhq.com/frontcareers/071af87c-644e-4677-b4f8-ce0646ccc608) | — | webscrape |
+| — | facebook | [Software Engineer, Machine Learning Sunnyvale, CA + 15 locations](https://www.metacareers.com/profile/job_details/1436181490732782/) | — | webscrape |
 | — | superhuman | [Applied Research Scientist Germany; Hybrid](https://job-boards.greenhouse.io/grammarly/jobs/7340727) | — | webscrape |
 | — | superhuman | [Data Scientist San Francisco; Hybrid](https://job-boards.greenhouse.io/grammarly/jobs/6458934) | — | webscrape |
 | — | superhuman | [Machine Learning Engineer, Agents San Francisco; Hybrid](https://job-boards.greenhouse.io/grammarly/jobs/6392339) | — | webscrape |
 | — | superhuman | [Software Engineer, Data Engineering San Francisco; Hybrid](https://job-boards.greenhouse.io/grammarly/jobs/6259939) | — | webscrape |
 | — | superhuman | [Software Engineer, Data Engineering New York City; Hybrid](https://job-boards.greenhouse.io/grammarly/jobs/7336882) | — | webscrape |
-| — | facebook | [Software Engineer, Machine Learning Sunnyvale, CA + 15 locations](https://www.metacareers.com/profile/job_details/1436181490732782/) | — | webscrape |
 | — | render | [Staff Data Scientist Remote: United States or Remote: Canada](https://jobs.ashbyhq.com/render/03cf5296-9e69-43c0-93a6-1b9836e9d2e3) | — | webscrape |
 | — | notion | [Data Engineer, Finance San Francisco, California](https://jobs.ashbyhq.com/notion/4d1bce46-3cb1-4a26-b6c6-ac9b02ee413d) | — | webscrape |
 | — | notion | [Data Engineer, Go-To-Market San Francisco, California](https://jobs.ashbyhq.com/notion/655b047b-5e58-4b0c-82f0-8c16b2c03318) | — | webscrape |
-| — | cloudsmith | [Donna Arthur Data Engineer](https://careers.cloudsmith.com/en-GB/people/3107945-donna-arthur) | — | webscrape |
 | — | wise | [Data Scientist, North America Onboarding Team](https://www.wise.com/job/data-scientist-north-america-onboarding-team-in-austin-jid-3050) | — | webscrape |
+| — | transferwise | [Data Scientist, North America Onboarding Team](https://www.transferwise.com/job/data-scientist-north-america-onboarding-team-in-austin-jid-3050) | — | webscrape |
 | — | transfergo | [Vilnius Senior Data Analyst](https://www.transfergo.com/career/job-offer/5779671004) | — | webscrape |
 | — | transfergo | [Vilnius Data Analyst](https://www.transfergo.com/career/job-offer/5779672004) | — | webscrape |
 | — | transfergo | [Data Analyst (Product & Growth) Vilnius, Lithuania](https://www.transfergo.com/career/job-offer/5779672004) | — | webscrape |
-| — | transferwise | [Data Scientist, North America Onboarding Team](https://www.transferwise.com/job/data-scientist-north-america-onboarding-team-in-austin-jid-3050) | — | webscrape |
 | — | ing | [Vincent - Data Analyst Data helps you make smarter decisions March 17, 2025 Article Expertise & Teams Employee Stories Homepage - Testimonials](https://careers.ing.com/en/be-story-vincent) | — | webscrape |
 | — | de shaw | [icon Human Capital Data Engineering and Reporting Analyst : The D. E. Shaw group seeks a talented data engineering and reporting analyst to join its Human Capital Analytics and Products (HCAP) team. Members of HCAP are curators of…](https://www.deshaw.com/careers/human-capital-data-engineering-and-reporting-analyst-5794) | — | webscrape |
 | — | de shaw | [icon Applied AI Engineer : The D. E. Shaw group seeks exceptional software engineers with expertise in applied AI, AI agents, and agentic systems to join the firm. This role offers the chance to work…](https://www.deshaw.com/careers/applied-ai-engineer-5375) | — | webscrape |
