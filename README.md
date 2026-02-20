@@ -1,10 +1,11 @@
 ## Jobs Feed (auto-updated)
 
 <!-- JOBS:START -->
-_Last updated: 2026-02-19 22:39 CST_
+_Last updated: 2026-02-20 01:15 CST_
 
 | Posted | Company | Title | Location | Source |
 |---|---|---|---|---|
+| 2026-02-20 | point72 | [Machine Learning Engineer, GenAI Technology](https://boards.greenhouse.io/point72/jobs/8342478002?gh_jid=8342478002) | United States | greenhouse |
 | 2026-02-20 | anthropic | [Analytics Data Engineering Manager, Product](https://job-boards.greenhouse.io/anthropic/jobs/5125387008) | San Francisco, CA \| New York City, NY \| Seattle, WA | greenhouse |
 | 2026-02-20 | 6sense | [Sr. Analytics Engineer](https://boards.greenhouse.io/6sense/jobs/7553190?gh_jid=7553190) | Austin, Texas, United States | greenhouse |
 | 2026-02-19 | constant contact | [Senior AI Engineer](https://job-boards.greenhouse.io/constantcontact/jobs/7324671) | Remote, Ontario, Canada | greenhouse |
@@ -134,14 +135,12 @@ _Last updated: 2026-02-19 22:39 CST_
 | 2026-02-17 | twilio | [Machine Learning Engineer](https://job-boards.greenhouse.io/twilio/jobs/7059734) | Remote - US | greenhouse |
 | 2026-02-17 | twilio | [Principal Machine Learning & Data Engineer](https://job-boards.greenhouse.io/twilio/jobs/7155492) | Remote - US | greenhouse |
 | 2026-02-17 | saatva | [Data Analyst – Omnichannel & Offline Growth](https://job-boards.greenhouse.io/saatva/jobs/4094785009) | Remote | greenhouse |
-| 2026-02-17 | point72 | [Machine Learning Engineer, GenAI Technology](https://boards.greenhouse.io/point72/jobs/8342478002?gh_jid=8342478002) | United States | greenhouse |
 | 2026-02-17 | klaviyo | [Senior Software Engineer - Analytics Data Engineering](https://www.klaviyo.com/careers/jobs?gh_jid=7564587003) | Boston, MA | greenhouse |
 | 2026-02-17 | relex | [Business Analyst / Data Analyst - RELEX North America](https://www.relexsolutions.com/careers/jobs/?gh_jid=7484005003) | Atlanta, GA, United States; Boston, United States; East Coast, United States; Los Angeles, CA, United States; Minneapolis, United States; New York, United States; San Francisco, United States; West Coast, United States | greenhouse |
 | — | redhat | [Artificial intelligence](https://jobs.redhat.com/en/hybrid-cloud-solutions/ai) | — | webscrape |
 | — | canonical | [MLOps Scalable machine learning solutions](https://careers.canonical.com/mlops) | — | webscrape |
 | — | canonical | [Kubeflow Machine learning toolkit for K8s](https://careers.canonical.com/mlops/kubeflow/what-is-kubeflow) | — | webscrape |
 | — | meta | [Software Engineer, Machine Learning Sunnyvale, CA + 15 locations](https://www.metacareers.com/profile/job_details/1436181490732782/) | — | webscrape |
-| — | facebook | [Software Engineer, Machine Learning Sunnyvale, CA + 15 locations](https://www.metacareers.com/profile/job_details/1436181490732782/) | — | webscrape |
 | — | front | [Senior Product Data Analyst Paris, France](https://jobs.ashbyhq.com/frontcareers/df57779a-61a4-4546-95f8-e9d276039525) | — | webscrape |
 | — | front | [AI Engineering Manager (Core AI Platform) San Francisco, CA](https://jobs.ashbyhq.com/frontcareers/071af87c-644e-4677-b4f8-ce0646ccc608) | — | webscrape |
 | — | superhuman | [Applied Research Scientist Germany; Hybrid](https://job-boards.greenhouse.io/grammarly/jobs/7340727) | — | webscrape |
@@ -149,6 +148,7 @@ _Last updated: 2026-02-19 22:39 CST_
 | — | superhuman | [Machine Learning Engineer, Agents San Francisco; Hybrid](https://job-boards.greenhouse.io/grammarly/jobs/6392339) | — | webscrape |
 | — | superhuman | [Software Engineer, Data Engineering San Francisco; Hybrid](https://job-boards.greenhouse.io/grammarly/jobs/6259939) | — | webscrape |
 | — | superhuman | [Software Engineer, Data Engineering New York City; Hybrid](https://job-boards.greenhouse.io/grammarly/jobs/7336882) | — | webscrape |
+| — | facebook | [Software Engineer, Machine Learning Sunnyvale, CA + 15 locations](https://www.metacareers.com/profile/job_details/1436181490732782/) | — | webscrape |
 | — | render | [Staff Data Scientist Remote: United States or Remote: Canada](https://jobs.ashbyhq.com/render/03cf5296-9e69-43c0-93a6-1b9836e9d2e3) | — | webscrape |
 | — | notion | [Data Engineer, Finance San Francisco, California](https://jobs.ashbyhq.com/notion/4d1bce46-3cb1-4a26-b6c6-ac9b02ee413d) | — | webscrape |
 | — | notion | [Data Engineer, Go-To-Market San Francisco, California](https://jobs.ashbyhq.com/notion/655b047b-5e58-4b0c-82f0-8c16b2c03318) | — | webscrape |
@@ -206,11 +206,11 @@ _Last updated: 2026-02-19 22:39 CST_
 | — | keystone | [Applied Deep Learning Research Scientist Boston Apply](https://www.keystone.com/careers) | — | webscrape |
 | — | solana | [AI Researcher](https://jobs.solana.com/companies/very-ai/jobs/68066921-ai-researcher#content) | — | webscrape |
 | — | solana | [Read more about AI Researcher at Very AI](https://jobs.solana.com/companies/very-ai/jobs/68066921-ai-researcher#content) | — | webscrape |
+| — | 1inch | [Senior Data Scientist Remote — Full-time Stuttgart / London / Madrid / Dubai](https://jobs.lever.co/1inch/e46cffdf-10c0-45a0-9938-93f2be416249) | — | webscrape |
 | — | shift technology | [Data Scientist Singapore - Singapore](https://job-boards.greenhouse.io/shifttechnology/jobs/5914061003) | — | webscrape |
 | — | shift technology | [Data Scientist Japan - Tokyo](https://job-boards.greenhouse.io/shifttechnology/jobs/6343856003) | — | webscrape |
 | — | shift technology | [Data Scientist: France France - Paris](https://job-boards.greenhouse.io/shifttechnology/jobs/6141907003) | — | webscrape |
 | — | shift technology | [Graduate Data Scientist United Kingdom - London](https://job-boards.greenhouse.io/shifttechnology/jobs/5910904003) | — | webscrape |
-| — | 1inch | [Senior Data Scientist Remote — Full-time Stuttgart / London / Madrid / Dubai](https://jobs.lever.co/1inch/e46cffdf-10c0-45a0-9938-93f2be416249) | — | webscrape |
 | — | etsy | [Machine Learning Engineer Brooklyn, Brooklyn Heights, New York, United States, 11201 Data Science & Machine Learning](https://careers.etsy.com/jobs/machine-learning-engineer-brooklyn-new-york-united-states) | — | webscrape |
 | — | farfetch | [Data Scientist (Search & Rankings) Hybrid — Permanent Porto](https://jobs.lever.co/farfetch/75bfd9eb-2ab6-42a2-8e12-c7906dff0e17) | — | webscrape |
 | — | farfetch | [Machine Learning Engineer, Search and Ranking Systems Hybrid — Permanent Porto](https://jobs.lever.co/farfetch/580adb2d-8a20-476e-a2cd-f8112e6de7fb) | — | webscrape |
@@ -238,11 +238,11 @@ _Last updated: 2026-02-19 22:39 CST_
 | — | bloomreach | [Senior Machine Learning Engineer](https://job-boards.greenhouse.io/bloomreach/jobs/6265052) | — | webscrape |
 | — | bloomreach | [Senior AI/ML Engineer](https://job-boards.greenhouse.io/bloomreach/jobs/7127780) | — | webscrape |
 | — | bloomreach | [Senior AI/ML Engineer](https://job-boards.greenhouse.io/bloomreach/jobs/7127781) | — | webscrape |
-| — | webflow | [Senior Data Scientist](https://job-boards.greenhouse.io/webflow/jobs/7550682) | — | webscrape |
 | — | figma | [AI Applied Scientist](https://boards.greenhouse.io/figma/jobs/5707966004?gh_jid=5707966004) | — | webscrape |
 | — | figma | [Data Engineer](https://boards.greenhouse.io/figma/jobs/5220003004?gh_jid=5220003004) | — | webscrape |
 | — | figma | [Data Scientist](https://boards.greenhouse.io/figma/jobs/5552580004?gh_jid=5552580004) | — | webscrape |
 | — | figma | [Software Engineer, Machine Learning](https://boards.greenhouse.io/figma/jobs/5551532004?gh_jid=5551532004) | — | webscrape |
+| — | webflow | [Senior Data Scientist](https://job-boards.greenhouse.io/webflow/jobs/7550682) | — | webscrape |
 | — | nimble | [Senior Data Engineer 488 8th Street](https://job-boards.greenhouse.io/nimblerobotics/jobs/4110177009) | — | webscrape |
 | — | nimble | [AI Robotics Research Scientist San Francisco, CA](https://job-boards.greenhouse.io/nimblerobotics/jobs/4100984009) | — | webscrape |
 | — | atomic | [Data Scientist, RNA Biology Machine Learning – South San Francisco, California](https://job-boards.greenhouse.io/atomai/jobs/5745740004) | — | webscrape |
