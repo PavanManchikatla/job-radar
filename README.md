@@ -1,10 +1,11 @@
 ## Jobs Feed (auto-updated)
 
 <!-- JOBS:START -->
-_Last updated: 2026-02-20 03:03 CST_
+_Last updated: 2026-02-20 05:01 CST_
 
 | Posted | Company | Title | Location | Source |
 |---|---|---|---|---|
+| 2026-02-20 | dropbox | [Machine Learning Engineer, Dash](https://jobs.dropbox.com/listing/7621678?gh_jid=7621678) | Remote - Germany | greenhouse |
 | 2026-02-20 | point72 | [Machine Learning Engineer, GenAI Technology](https://boards.greenhouse.io/point72/jobs/8342478002?gh_jid=8342478002) | United States | greenhouse |
 | 2026-02-20 | anthropic | [Analytics Data Engineering Manager, Product](https://job-boards.greenhouse.io/anthropic/jobs/5125387008) | San Francisco, CA \| New York City, NY \| Seattle, WA | greenhouse |
 | 2026-02-20 | 6sense | [Sr. Analytics Engineer](https://boards.greenhouse.io/6sense/jobs/7553190?gh_jid=7553190) | Austin, Texas, United States | greenhouse |
@@ -17,8 +18,8 @@ _Last updated: 2026-02-20 03:03 CST_
 | 2026-02-19 | chime | [Senior Data Analyst, Strategy Analytics](https://boards.greenhouse.io/chime/jobs/7938790002?gh_jid=7938790002) | New York, NY; San Francisco, CA; Chicago, IL | greenhouse |
 | 2026-02-19 | chime | [Senior Data Analyst, Trust & Safety](https://boards.greenhouse.io/chime/jobs/8344063002?gh_jid=8344063002) | San Francisco, CA | greenhouse |
 | 2026-02-19 | chime | [Staff Data Analyst](https://boards.greenhouse.io/chime/jobs/8403065002?gh_jid=8403065002) | San Francisco, CA | greenhouse |
-| 2026-02-19 | databricks | [AI Engineer - FDE (Forward Deployed Engineer)](https://databricks.com/company/careers/open-positions/job?gh_jid=8024010002) | United States | greenhouse |
 | 2026-02-19 | databricks | [AI Engineer - FDE (Forward Deployed Engineer)](https://databricks.com/company/careers/open-positions/job?gh_jid=8099751002) | Remote - India | greenhouse |
+| 2026-02-19 | databricks | [AI Engineer - FDE (Forward Deployed Engineer)](https://databricks.com/company/careers/open-positions/job?gh_jid=8024010002) | United States | greenhouse |
 | 2026-02-19 | rockstar games | [Principal Data Engineer, Data Architecture](https://job-boards.greenhouse.io/rockstargames/jobs/7619983003) | Manhattan, New York, United States | greenhouse |
 | 2026-02-19 | rockstar games | [Principal Data Engineer, Data Architecture](https://job-boards.greenhouse.io/rockstargames/jobs/7637154003) | Andover, Massachusetts, United States | greenhouse |
 | 2026-02-19 | imc | [Quantitative Researcher - Data Curation](https://job-boards.eu.greenhouse.io/imc/jobs/4660792101) | Chicago, United States | greenhouse |
@@ -150,17 +151,15 @@ _Last updated: 2026-02-20 03:03 CST_
 | — | render | [Staff Data Scientist Remote: United States or Remote: Canada](https://jobs.ashbyhq.com/render/03cf5296-9e69-43c0-93a6-1b9836e9d2e3) | — | webscrape |
 | — | notion | [Data Engineer, Finance San Francisco, California](https://jobs.ashbyhq.com/notion/4d1bce46-3cb1-4a26-b6c6-ac9b02ee413d) | — | webscrape |
 | — | notion | [Data Engineer, Go-To-Market San Francisco, California](https://jobs.ashbyhq.com/notion/655b047b-5e58-4b0c-82f0-8c16b2c03318) | — | webscrape |
-| — | wise | [Lead Data Scientist - Fraud Prevention](https://www.wise.com/job/lead-data-scientist-fraud-prevention-in-london-jid-2857) | — | webscrape |
+| — | cloudsmith | [Donna Arthur Data Engineer](https://careers.cloudsmith.com/en-GB/people/3107945-donna-arthur) | — | webscrape |
 | — | transfergo | [Vilnius Senior Data Analyst](https://www.transfergo.com/career/job-offer/5779671004) | — | webscrape |
 | — | transfergo | [Vilnius Data Analyst](https://www.transfergo.com/career/job-offer/5779672004) | — | webscrape |
 | — | transfergo | [Data Analyst (Product & Growth) Vilnius, Lithuania](https://www.transfergo.com/career/job-offer/5779672004) | — | webscrape |
-| — | transferwise | [Lead Data Scientist - Fraud Prevention](https://www.transferwise.com/job/lead-data-scientist-fraud-prevention-in-london-jid-2857) | — | webscrape |
 | — | ing | [Vincent - Data Analyst Data helps you make smarter decisions March 17, 2025 Article Employee Stories Expertise & Teams Homepage - Testimonials](https://careers.ing.com/en/be-story-vincent) | — | webscrape |
 | — | de shaw | [icon Human Capital Data Engineering and Reporting Analyst : The D. E. Shaw group seeks a talented data engineering and reporting analyst to join its Human Capital Analytics and Products (HCAP) team. Members of HCAP are curators of…](https://www.deshaw.com/careers/human-capital-data-engineering-and-reporting-analyst-5794) | — | webscrape |
 | — | de shaw | [icon Applied AI Engineer : The D. E. Shaw group seeks exceptional software engineers with expertise in applied AI, AI agents, and agentic systems to join the firm. This role offers the chance to work…](https://www.deshaw.com/careers/applied-ai-engineer-5375) | — | webscrape |
 | — | de shaw | [icon Machine Learning Researcher : The D. E. Shaw group seeks a machine learning researcher to creatively apply their knowledge of ML and software engineering to design and build computational architectures for…](https://www.deshaw.com/careers/machine-learning-researcher-4954) | — | webscrape |
 | — | de shaw | [icon Quantitative Analyst : Quants at the D. E. Shaw group apply mathematical techniques and write software to develop, analyze, and implement statistical models for our computerized financial trading…](https://www.deshaw.com/careers/quantitative-analyst-2636) | — | webscrape |
-| — | insight partners | [Abnormal AI 132 jobs Series C+ Abnormal AI is the leading AI-native human behavior security platform, leveraging machine learning to stop sophisticated inbound attacks and detect compromised accounts across email and connected applications.](https://jobs.insightpartners.com/companies/abnormal-ai-2#content) | — | webscrape |
 | — | five rings | [Experienced/Lateral - Quantitative Researcher](https://job-boards.greenhouse.io/fiveringsllc/jobs/5046298008) | — | webscrape |
 | — | binance | [Binance Accelerator Program - Data Analyst Remote — Binance Accelerator Program Asia / Australia, Melbourne / Angola, Luanda / Taiwan, Taipei](https://jobs.lever.co/binance/0f670c70-15e9-41c9-96fc-c1f937b1f9ee) | — | webscrape |
 | — | binance | [Business Intelligence/ Data Analyst Remote — Asia / Hong Kong / Taiwan, Taipei](https://jobs.lever.co/binance/2f0cebcd-c4fc-4e43-8766-8e6e0249899c) | — | webscrape |
@@ -199,6 +198,11 @@ _Last updated: 2026-02-20 03:03 CST_
 | — | binance | [Quantitative Researcher Remote — Asia / Taiwan, Taipei / South East Asia / UAE, Dubai / Eastern Europe](https://jobs.lever.co/binance/a13367b2-8bd9-41e1-878f-478cd1539354) | — | webscrape |
 | — | binance | [Binance Accelerator Program - Quantitative Researcher Remote — Full-time Onsite or Remote Asia / UAE, Dubai](https://jobs.lever.co/binance/dc610d23-6478-4c86-b1ce-c04fc469d9b3) | — | webscrape |
 | — | keystone | [Applied Deep Learning Research Scientist Boston Apply](https://www.keystone.com/careers) | — | webscrape |
+| — | optiver | [Senior People Data Analyst](https://optiver.com/working-at-optiver/career-opportunities/8424329002/) | — | webscrape |
+| — | optiver | [Data Engineer – Enterprise](https://optiver.com/working-at-optiver/career-opportunities/8135668002/) | — | webscrape |
+| — | optiver | [Enterprise Data Engineer](https://optiver.com/working-at-optiver/career-opportunities/8313106002/) | — | webscrape |
+| — | optiver | [AI Engineer](https://optiver.com/working-at-optiver/career-opportunities/8313105002/) | — | webscrape |
+| — | optiver | [Senior Machine Learning Engineer](https://optiver.com/working-at-optiver/career-opportunities/8371647002/) | — | webscrape |
 | — | solana | [AI Researcher](https://jobs.solana.com/companies/very-ai/jobs/68066921-ai-researcher#content) | — | webscrape |
 | — | solana | [Read more about AI Researcher at Very AI](https://jobs.solana.com/companies/very-ai/jobs/68066921-ai-researcher#content) | — | webscrape |
 | — | 1inch | [Senior Data Scientist Remote — Full-time Stuttgart / London / Madrid / Dubai](https://jobs.lever.co/1inch/e46cffdf-10c0-45a0-9938-93f2be416249) | — | webscrape |
@@ -230,6 +234,8 @@ _Last updated: 2026-02-20 03:03 CST_
 | — | paddle | [Engineering Staff Data Scientist UK, Ireland, Netherlands, Portugal](https://jobs.ashbyhq.com/paddle/d37a46d0-03e6-4c8a-8bb9-fa93f7d18b0a) | — | webscrape |
 | — | flax | [2. Engineering: Lead ML Researcher / Applied Scientist](https://flax.ai/careers#job-2) | — | webscrape |
 | — | nosto | [Data Scientist](https://careers.nosto.com/jobs/6822515-data-scientist) | — | webscrape |
+| — | bloomreach | [Senior Data Engineer, Datacraft](https://job-boards.greenhouse.io/bloomreach/jobs/7619221) | — | webscrape |
+| — | bloomreach | [Senior Data Engineer, Datacraft](https://job-boards.greenhouse.io/bloomreach/jobs/7619222) | — | webscrape |
 | — | bloomreach | [Senior Machine Learning Engineer](https://job-boards.greenhouse.io/bloomreach/jobs/6265052) | — | webscrape |
 | — | bloomreach | [Senior AI/ML Engineer](https://job-boards.greenhouse.io/bloomreach/jobs/7127780) | — | webscrape |
 | — | bloomreach | [Senior AI/ML Engineer](https://job-boards.greenhouse.io/bloomreach/jobs/7127781) | — | webscrape |
@@ -249,8 +255,8 @@ _Last updated: 2026-02-20 03:03 CST_
 | — | peraton | [The Data Scientist](https://careers.peraton.com/search-jobs?search=data%20scientist&amp;) | — | webscrape |
 | — | iai | [Applied AI Engineer - Senior to Principal London, Bristol, Manchester](https://job-boards.eu.greenhouse.io/iai/jobs/4751364101) | — | webscrape |
 | — | iai | [Head of Applied AI Engineering London, Bristol, Manchester](https://job-boards.eu.greenhouse.io/iai/jobs/4766273101) | — | webscrape |
-| — | fortune | [Data engineers are in high demand—and companies are willing to pay over $125k for skilled workers](https://www.fortune.com/education/careers/data-engineer-salary/) | — | webscrape |
-| — | fortune | [From crunching numbers to making insights: How to become a data analyst](https://www.fortune.com/education/careers/how-to-become-a-data-analyst/) | — | webscrape |
+| — | fortune | [Data engineers are in high demand—and companies are willing to pay over $125k for skilled workers](https://fortune.com/education/careers/data-engineer-salary/) | — | webscrape |
+| — | fortune | [From crunching numbers to making insights: How to become a data analyst](https://fortune.com/education/careers/how-to-become-a-data-analyst/) | — | webscrape |
 | — | gep | [Artificial Intelligence](https://careers.gep.com/knowledge-bank/artificial-intelligence) | — | webscrape |
 | — | relex | [Business Analyst / Data Analyst – RELEX North America](https://www.relexsolutions.com/careers/jobs/business-analyst-data-analyst-relex-north-america/) | — | webscrape |
 | — | smc | [AI & Applications AI Engineer, AI & Applications Full time Singapore or Australia](https://smc.co/careers/5071736008) | — | webscrape |
