@@ -1,10 +1,13 @@
 ## Jobs Feed (auto-updated)
 
 <!-- JOBS:START -->
-_Last updated: 2026-02-19 16:54 CST_
+_Last updated: 2026-02-19 19:40 CST_
 
 | Posted | Company | Title | Location | Source |
 |---|---|---|---|---|
+| 2026-02-20 | anthropic | [Analytics Data Engineering Manager, Product](https://job-boards.greenhouse.io/anthropic/jobs/5125387008) | San Francisco, CA | greenhouse |
+| 2026-02-20 | 6sense | [Sr. Analytics Engineer](https://boards.greenhouse.io/6sense/jobs/7553190?gh_jid=7553190) | Austin, Texas, United States | greenhouse |
+| 2026-02-19 | constant contact | [Senior AI Engineer](https://job-boards.greenhouse.io/constantcontact/jobs/7324671) | Remote, Ontario, Canada | greenhouse |
 | 2026-02-19 | jane street | [Data Engineer](https://job-boards.greenhouse.io/janestreet/jobs/6558007002) | New York, New York, United States | greenhouse |
 | 2026-02-19 | sothebys | [CRM Data Analyst](https://job-boards.greenhouse.io/sothebys/jobs/5247214004) | New York, United States | greenhouse |
 | 2026-02-19 | chime | [Data Analyst, Lending](https://boards.greenhouse.io/chime/jobs/8365502002?gh_jid=8365502002) | San Francisco, CA | greenhouse |
@@ -136,9 +139,9 @@ _Last updated: 2026-02-19 16:54 CST_
 | 2026-02-17 | klaviyo | [Senior Software Engineer - Analytics Data Engineering](https://www.klaviyo.com/careers/jobs?gh_jid=7564587003) | Boston, MA | greenhouse |
 | 2026-02-17 | relex | [Business Analyst / Data Analyst - RELEX North America](https://www.relexsolutions.com/careers/jobs/?gh_jid=7484005003) | Atlanta, GA, United States; Boston, United States; East Coast, United States; Los Angeles, CA, United States; Minneapolis, United States; New York, United States; San Francisco, United States; West Coast, United States | greenhouse |
 | — | redhat | [Artificial intelligence](https://jobs.redhat.com/en/hybrid-cloud-solutions/ai) | — | webscrape |
+| — | meta | [Software Engineer, Machine Learning Sunnyvale, CA + 15 locations](https://www.metacareers.com/profile/job_details/1436181490732782/) | — | webscrape |
 | — | canonical | [MLOps Scalable machine learning solutions](https://careers.canonical.com/mlops) | — | webscrape |
 | — | canonical | [Kubeflow Machine learning toolkit for K8s](https://careers.canonical.com/mlops/kubeflow/what-is-kubeflow) | — | webscrape |
-| — | meta | [Software Engineer, Machine Learning Sunnyvale, CA + 15 locations](https://www.metacareers.com/profile/job_details/1436181490732782/) | — | webscrape |
 | — | facebook | [Software Engineer, Machine Learning Sunnyvale, CA + 15 locations](https://www.metacareers.com/profile/job_details/1436181490732782/) | — | webscrape |
 | — | front | [Senior Product Data Analyst Paris, France](https://jobs.ashbyhq.com/frontcareers/df57779a-61a4-4546-95f8-e9d276039525) | — | webscrape |
 | — | front | [AI Engineering Manager (Core AI Platform) San Francisco, CA](https://jobs.ashbyhq.com/frontcareers/071af87c-644e-4677-b4f8-ce0646ccc608) | — | webscrape |
@@ -217,7 +220,7 @@ _Last updated: 2026-02-19 16:54 CST_
 | — | marley spoon | [Data Scientist Digital Product Management · Lisbon Office · Hybrid](https://apply.marleyspoon.com/jobs/7077066-data-scientist) | — | webscrape |
 | — | marley spoon | [Lead Data Scientist Digital Product Management · Lisbon Office · Hybrid](https://apply.marleyspoon.com/jobs/7077014-lead-data-scientist) | — | webscrape |
 | — | marley spoon | [Data Analyst Digital Product Management · Lisbon Office · Fully Remote](https://apply.marleyspoon.com/jobs/6918059-data-analyst) | — | webscrape |
-| — | philo | [Lead Data Engineer San Francisco, CA, Brooklyn, NY, Cambridge, MA or remote within the U.S. \| Engineering](https://job-boards.greenhouse.io/philo/jobs/6839564) | — | webscrape |
+| — | philo | [Data Engineering Manager San Francisco, CA, Brooklyn, NY, Cambridge, MA or remote within the U.S. \| Engineering](https://job-boards.greenhouse.io/philo/jobs/7630991) | — | webscrape |
 | — | bookbeat | [Data Engineer Developers · Stockholm](https://jobs.bookbeat.com/jobs/7145026-data-engineer) | — | webscrape |
 | — | nutanix | [Statistical Analyst - Support Data Analystics](https://jobs.nutanix.com/nutanix/job/o3yyzfws) | — | webscrape |
 | — | us mobile | [Data Analyst (Sage Experience) On-site — Full-time Karachi](https://jobs.lever.co/USMobile/dc8f50eb-4edd-4fff-95e2-cd49485bd3e0) | — | webscrape |
@@ -236,11 +239,11 @@ _Last updated: 2026-02-19 16:54 CST_
 | — | bloomreach | [Senior Machine Learning Engineer](https://job-boards.greenhouse.io/bloomreach/jobs/6265052) | — | webscrape |
 | — | bloomreach | [Senior AI/ML Engineer](https://job-boards.greenhouse.io/bloomreach/jobs/7127780) | — | webscrape |
 | — | bloomreach | [Senior AI/ML Engineer](https://job-boards.greenhouse.io/bloomreach/jobs/7127781) | — | webscrape |
+| — | webflow | [Senior Data Scientist](https://job-boards.greenhouse.io/webflow/jobs/7550682) | — | webscrape |
 | — | figma | [AI Applied Scientist](https://boards.greenhouse.io/figma/jobs/5707966004?gh_jid=5707966004) | — | webscrape |
 | — | figma | [Data Engineer](https://boards.greenhouse.io/figma/jobs/5220003004?gh_jid=5220003004) | — | webscrape |
 | — | figma | [Data Scientist](https://boards.greenhouse.io/figma/jobs/5552580004?gh_jid=5552580004) | — | webscrape |
 | — | figma | [Software Engineer, Machine Learning](https://boards.greenhouse.io/figma/jobs/5551532004?gh_jid=5551532004) | — | webscrape |
-| — | webflow | [Senior Data Scientist](https://job-boards.greenhouse.io/webflow/jobs/7550682) | — | webscrape |
 | — | nimble | [Senior Data Engineer 488 8th Street](https://job-boards.greenhouse.io/nimblerobotics/jobs/4110177009) | — | webscrape |
 | — | nimble | [AI Robotics Research Scientist San Francisco, CA](https://job-boards.greenhouse.io/nimblerobotics/jobs/4100984009) | — | webscrape |
 | — | atomic | [Data Scientist, RNA Biology Machine Learning – South San Francisco, California](https://job-boards.greenhouse.io/atomai/jobs/5745740004) | — | webscrape |
@@ -252,8 +255,8 @@ _Last updated: 2026-02-19 16:54 CST_
 | — | peraton | [The Data Scientist](https://careers.peraton.com/search-jobs?search=data%20scientist&amp;) | — | webscrape |
 | — | iai | [Applied AI Engineer - Senior to Principal London, Bristol, Manchester](https://job-boards.eu.greenhouse.io/iai/jobs/4751364101) | — | webscrape |
 | — | iai | [Head of Applied AI Engineering London, Bristol, Manchester](https://job-boards.eu.greenhouse.io/iai/jobs/4766273101) | — | webscrape |
-| — | fortune | [Data engineers are in high demand—and companies are willing to pay over $125k for skilled workers](https://www.fortune.com/education/careers/data-engineer-salary/) | — | webscrape |
-| — | fortune | [From crunching numbers to making insights: How to become a data analyst](https://www.fortune.com/education/careers/how-to-become-a-data-analyst/) | — | webscrape |
+| — | fortune | [Data engineers are in high demand—and companies are willing to pay over $125k for skilled workers](https://fortune.com/education/careers/data-engineer-salary/) | — | webscrape |
+| — | fortune | [From crunching numbers to making insights: How to become a data analyst](https://fortune.com/education/careers/how-to-become-a-data-analyst/) | — | webscrape |
 | — | gep | [Artificial Intelligence](https://careers.gep.com/knowledge-bank/artificial-intelligence) | — | webscrape |
 | — | relex | [Business Analyst / Data Analyst – RELEX North America](https://www.relexsolutions.com/careers/jobs/business-analyst-data-analyst-relex-north-america/) | — | webscrape |
 | — | smc | [AI & Applications AI Engineer, AI & Applications Full time Singapore or Australia](https://smc.co/careers/5071736008) | — | webscrape |
