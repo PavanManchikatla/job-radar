@@ -1,10 +1,11 @@
 ## Jobs Feed (auto-updated)
 
 <!-- JOBS:START -->
-_Last updated: 2026-02-21 01:02 CST_
+_Last updated: 2026-02-21 02:52 CST_
 
 | Posted | Company | Title | Location | Source |
 |---|---|---|---|---|
+| 2026-02-21 | anthropic | [Data Scientist](https://job-boards.greenhouse.io/anthropic/jobs/5098499008) | San Francisco, CA \| New York City, NY | greenhouse |
 | 2026-02-21 | twilio | [Staff Analytics Engineer](https://job-boards.greenhouse.io/twilio/jobs/7551660) | Remote - US | greenhouse |
 | 2026-02-21 | 6sense | [Sr. Analytics Engineer](https://boards.greenhouse.io/6sense/jobs/7553190?gh_jid=7553190) | Austin, Texas, United States | greenhouse |
 | 2026-02-20 | anthropic | [Research Engineer, AI Observability](https://job-boards.greenhouse.io/anthropic/jobs/5125083008) | San Francisco, CA | greenhouse |
@@ -17,7 +18,6 @@ _Last updated: 2026-02-21 01:02 CST_
 | 2026-02-20 | anthropic | [Applied AI Engineer (Startups)](https://job-boards.greenhouse.io/anthropic/jobs/5073277008) | San Francisco, CA \| New York City, NY | greenhouse |
 | 2026-02-20 | anthropic | [Applied Safety Research Engineer, Safeguards](https://job-boards.greenhouse.io/anthropic/jobs/5062955008) | San Francisco, CA | greenhouse |
 | 2026-02-20 | anthropic | [Biological Safety Research Scientist](https://job-boards.greenhouse.io/anthropic/jobs/5066977008) | San Francisco, CA \| New York City, NY | greenhouse |
-| 2026-02-20 | anthropic | [Data Scientist](https://job-boards.greenhouse.io/anthropic/jobs/5098499008) | San Francisco, CA \| New York City, NY | greenhouse |
 | 2026-02-20 | anthropic | [[Expression of Interest] Research Engineer, Model Evaluations](https://job-boards.greenhouse.io/anthropic/jobs/4990535008) | San Francisco, CA \| New York City, NY | greenhouse |
 | 2026-02-20 | anthropic | [[Expression of Interest] Research Scientist/Engineer, Alignment Finetuning](https://job-boards.greenhouse.io/anthropic/jobs/4520279008) | San Francisco, CA | greenhouse |
 | 2026-02-20 | anthropic | [[Expression of Interest] Research Scientist/Engineer, Honesty](https://job-boards.greenhouse.io/anthropic/jobs/4532887008) | New York City, NY; San Francisco, CA | greenhouse |
@@ -91,10 +91,10 @@ _Last updated: 2026-02-21 01:02 CST_
 | 2026-02-19 | chime | [Data Analyst, Lending](https://boards.greenhouse.io/chime/jobs/8365502002?gh_jid=8365502002) | San Francisco, CA | greenhouse |
 | 2026-02-19 | chime | [Senior Data Analyst, Spending](https://boards.greenhouse.io/chime/jobs/8344077002?gh_jid=8344077002) | San Francisco, CA | greenhouse |
 | 2026-02-19 | chime | [Senior Data Analyst, Trust & Safety](https://boards.greenhouse.io/chime/jobs/8344063002?gh_jid=8344063002) | San Francisco, CA | greenhouse |
-| 2026-02-19 | databricks | [AI Engineer - FDE (Forward Deployed Engineer)](https://databricks.com/company/careers/open-positions/job?gh_jid=8099751002) | Remote - India | greenhouse |
 | 2026-02-19 | databricks | [AI Engineer - FDE (Forward Deployed Engineer)](https://databricks.com/company/careers/open-positions/job?gh_jid=8024010002) | United States | greenhouse |
-| 2026-02-19 | rockstar games | [Principal Data Engineer, Data Architecture](https://job-boards.greenhouse.io/rockstargames/jobs/7619983003) | Manhattan, New York, United States | greenhouse |
+| 2026-02-19 | databricks | [AI Engineer - FDE (Forward Deployed Engineer)](https://databricks.com/company/careers/open-positions/job?gh_jid=8099751002) | Remote - India | greenhouse |
 | 2026-02-19 | rockstar games | [Principal Data Engineer, Data Architecture](https://job-boards.greenhouse.io/rockstargames/jobs/7637154003) | Andover, Massachusetts, United States | greenhouse |
+| 2026-02-19 | rockstar games | [Principal Data Engineer, Data Architecture](https://job-boards.greenhouse.io/rockstargames/jobs/7619983003) | Manhattan, New York, United States | greenhouse |
 | 2026-02-19 | imc | [Quantitative Researcher - Data Curation](https://job-boards.eu.greenhouse.io/imc/jobs/4660792101) | Chicago, United States | greenhouse |
 | 2026-02-19 | block | [Machine Learning Modeler, Advanced Insights & Modeling](http://block.xyz/careers/jobs/4947805008?gh_jid=4947805008) | Bay Area, CA, United States of America | greenhouse |
 | 2026-02-19 | block | [Data Scientist - Model Strategy Management](http://block.xyz/careers/jobs/4963850008?gh_jid=4963850008) | Bay Area, CA, United States of America | greenhouse |
@@ -116,6 +116,7 @@ _Last updated: 2026-02-21 01:02 CST_
 | 2026-02-18 | block | [Staff AI Engineer, Applied AI](http://block.xyz/careers/jobs/4885138008?gh_jid=4885138008) | Bay Area, CA, United States of America | greenhouse |
 | 2026-02-18 | deepmind | [Research Engineer - GeminiApp Personalization](https://job-boards.greenhouse.io/deepmind/jobs/7540112) | Mountain View, California, US | greenhouse |
 | — | redhat | [Artificial intelligence](https://jobs.redhat.com/en/hybrid-cloud-solutions/ai) | — | webscrape |
+| — | dell | [Data Science & Analytics PBI Developer – Consultant Business intelligence Round Rock, Texas, United States](https://jobs.dell.com/en/job/round-rock/pbi-developer-consultant-business-intelligence/375/91825145472) | — | webscrape |
 | — | canonical | [MLOps Scalable machine learning solutions](https://careers.canonical.com/mlops) | — | webscrape |
 | — | canonical | [Kubeflow Machine learning toolkit for K8s](https://careers.canonical.com/mlops/kubeflow/what-is-kubeflow) | — | webscrape |
 | — | meta | [Software Engineer, Machine Learning Sunnyvale, CA + 15 locations](https://www.metacareers.com/profile/job_details/1436181490732782/) | — | webscrape |
@@ -130,6 +131,7 @@ _Last updated: 2026-02-21 01:02 CST_
 | — | render | [Staff Data Scientist Remote: United States or Remote: Canada](https://jobs.ashbyhq.com/render/03cf5296-9e69-43c0-93a6-1b9836e9d2e3) | — | webscrape |
 | — | notion | [Data Engineer, Finance San Francisco, California](https://jobs.ashbyhq.com/notion/4d1bce46-3cb1-4a26-b6c6-ac9b02ee413d) | — | webscrape |
 | — | notion | [Data Engineer, Go-To-Market San Francisco, California](https://jobs.ashbyhq.com/notion/655b047b-5e58-4b0c-82f0-8c16b2c03318) | — | webscrape |
+| — | cloudsmith | [Caitriona McCaffrey Senior Data Engineer](https://careers.cloudsmith.com/en-GB/people/2769204-caitriona-mccaffrey) | — | webscrape |
 | — | transfergo | [Vilnius Senior Data Analyst](https://www.transfergo.com/career/job-offer/5779671004) | — | webscrape |
 | — | transfergo | [Vilnius Data Analyst](https://www.transfergo.com/career/job-offer/5779672004) | — | webscrape |
 | — | transfergo | [Data Analyst (Product & Growth) Vilnius, Lithuania](https://www.transfergo.com/career/job-offer/5779672004) | — | webscrape |
