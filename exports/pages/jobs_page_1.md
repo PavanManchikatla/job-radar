@@ -1,6 +1,6 @@
 # Jobs Feed (Page 1/1)
 
-_Last updated: 2026-02-21 08:51 CST_
+_Last updated: 2026-02-21 10:50 CST_
 
 | Posted | Company | Title | Location | Source |
 |---|---|---|---|---|
@@ -114,9 +114,8 @@ _Last updated: 2026-02-21 08:51 CST_
 | 2026-02-18 | block | [Staff AI Engineer, Applied AI](http://block.xyz/careers/jobs/4885138008?gh_jid=4885138008) | Bay Area, CA, United States of America | greenhouse |
 | 2026-02-18 | deepmind | [Research Engineer - GeminiApp Personalization](https://job-boards.greenhouse.io/deepmind/jobs/7540112) | Mountain View, California, US | greenhouse |
 | — | redhat | [Artificial intelligence](https://jobs.redhat.com/en/hybrid-cloud-solutions/ai) | — | webscrape |
-| — | canonical | [MLOps Scalable machine learning solutions](https://careers.canonical.com/mlops) | — | webscrape |
-| — | canonical | [Kubeflow Machine learning toolkit for K8s](https://careers.canonical.com/mlops/kubeflow/what-is-kubeflow) | — | webscrape |
 | — | meta | [Software Engineer, Machine Learning Sunnyvale, CA + 15 locations](https://www.metacareers.com/profile/job_details/1436181490732782/) | — | webscrape |
+| — | facebook | [Software Engineer, Machine Learning Sunnyvale, CA + 15 locations](https://www.metacareers.com/profile/job_details/1436181490732782/) | — | webscrape |
 | — | front | [Senior Product Data Analyst Paris, France](https://jobs.ashbyhq.com/frontcareers/df57779a-61a4-4546-95f8-e9d276039525) | — | webscrape |
 | — | front | [AI Engineering Manager (Core AI Platform) San Francisco, CA](https://jobs.ashbyhq.com/frontcareers/071af87c-644e-4677-b4f8-ce0646ccc608) | — | webscrape |
 | — | superhuman | [Applied Research Scientist Germany; Hybrid](https://job-boards.greenhouse.io/grammarly/jobs/7340727) | — | webscrape |
@@ -124,7 +123,8 @@ _Last updated: 2026-02-21 08:51 CST_
 | — | superhuman | [Machine Learning Engineer, Agents San Francisco; Hybrid](https://job-boards.greenhouse.io/grammarly/jobs/6392339) | — | webscrape |
 | — | superhuman | [Software Engineer, Data Engineering San Francisco; Hybrid](https://job-boards.greenhouse.io/grammarly/jobs/6259939) | — | webscrape |
 | — | superhuman | [Software Engineer, Data Engineering New York City; Hybrid](https://job-boards.greenhouse.io/grammarly/jobs/7336882) | — | webscrape |
-| — | facebook | [Software Engineer, Machine Learning Sunnyvale, CA + 15 locations](https://www.metacareers.com/profile/job_details/1436181490732782/) | — | webscrape |
+| — | canonical | [MLOps Scalable machine learning solutions](https://careers.canonical.com/mlops) | — | webscrape |
+| — | canonical | [Kubeflow Machine learning toolkit for K8s](https://careers.canonical.com/mlops/kubeflow/what-is-kubeflow) | — | webscrape |
 | — | render | [Staff Data Scientist Remote: United States or Remote: Canada](https://jobs.ashbyhq.com/render/03cf5296-9e69-43c0-93a6-1b9836e9d2e3) | — | webscrape |
 | — | notion | [Data Engineer, Finance San Francisco, California](https://jobs.ashbyhq.com/notion/4d1bce46-3cb1-4a26-b6c6-ac9b02ee413d) | — | webscrape |
 | — | notion | [Data Engineer, Go-To-Market San Francisco, California](https://jobs.ashbyhq.com/notion/655b047b-5e58-4b0c-82f0-8c16b2c03318) | — | webscrape |
