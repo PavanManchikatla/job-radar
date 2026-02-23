@@ -1,10 +1,20 @@
 ## Jobs Feed (auto-updated)
 
 <!-- JOBS:START -->
-_Last updated: 2026-02-23 13:21 CST_
+_Last updated: 2026-02-23 15:07 CST_
 
 | Posted | Company | Title | Location | Source |
 |---|---|---|---|---|
+| 2026-02-23 | coinbase | [Senior Machine Learning Engineering Manager - Risk and Fraud](https://www.coinbase.com/careers/positions/7357865?gh_jid=7357865) | Remote - USA | greenhouse |
+| 2026-02-23 | block | [Staff Machine Learning Engineer, Predictive Systems](http://block.xyz/careers/jobs/5080817008?gh_jid=5080817008) | Bay Area, CA, United States of America | greenhouse |
+| 2026-02-23 | block | [Senior Data Engineering Manager, Financial Platform](http://block.xyz/careers/jobs/4963310008?gh_jid=4963310008) | Bay Area, CA, United States of America | greenhouse |
+| 2026-02-23 | block | [Senior Data Engineering Manager, Financial Platform](http://block.xyz/careers/jobs/5068303008?gh_jid=5068303008) | Seattle, WA, United States of America | greenhouse |
+| 2026-02-23 | block | [Senior Data Engineering Manager, Financial Platform](http://block.xyz/careers/jobs/5018638008?gh_jid=5018638008) | New York, NY, United States of America | greenhouse |
+| 2026-02-23 | waymo | [Senior Machine Learning Engineer – VLM/LLM Evaluation](https://careers.withwaymo.com/jobs?gh_jid=7644924) | Mountain View, CA, USA; New York, NY, USA, Seattle, WA, USA | greenhouse |
+| 2026-02-23 | otter.ai | [Machine Learning Engineer](https://otter.ai/careers?gh_jid=7634875003) | Mountain View, CA | greenhouse |
+| 2026-02-23 | aqr | [Portfolio Analytics Engineer](https://careers.aqr.com/jobs?gh_jid=7202482&gh_jid=7202482) | Greenwich, CT | greenhouse |
+| 2026-02-23 | aqr | [Client Analytics Engineering Associate](https://careers.aqr.com/jobs?gh_jid=6652460&gh_jid=6652460) | Greenwich, CT | greenhouse |
+| 2026-02-23 | block | [Staff Machine Learning Engineer (Modeling), Credit](http://block.xyz/careers/jobs/5112981008?gh_jid=5112981008) | Bay Area, CA, United States of America | greenhouse |
 | 2026-02-23 | block | [Senior Machine Learning Engineer, Risk Signals & Controls](http://block.xyz/careers/jobs/4959474008?gh_jid=4959474008) | Bay Area, CA, United States of America | greenhouse |
 | 2026-02-23 | block | [Senior Analytics Engineer, Compliance](http://block.xyz/careers/jobs/5125349008?gh_jid=5125349008) | San Francisco, CA, United States of America | greenhouse |
 | 2026-02-23 | block | [Senior Machine Learning Engineer (Modeling), Support](http://block.xyz/careers/jobs/4882799008?gh_jid=4882799008) | Bay Area, CA, United States of America | greenhouse |
@@ -91,13 +101,10 @@ _Last updated: 2026-02-23 13:21 CST_
 | 2026-02-20 | waymo | [Staff Tech Lead, Machine Learning Engineer, Perception](https://careers.withwaymo.com/jobs?gh_jid=7450706) | Mountain View, California, United States; San Francisco, California, United States | greenhouse |
 | 2026-02-20 | waymo | [Machine Learning Engineer, Model Optimization](https://careers.withwaymo.com/jobs?gh_jid=7446322) | Mountain View, California, United States; San Francisco, California, United States | greenhouse |
 | 2026-02-20 | waymo | [Machine Learning Engineer, Data & Systems](https://careers.withwaymo.com/jobs?gh_jid=7446301) | Mountain View, California, United States; San Francisco, California, United States | greenhouse |
-| 2026-02-20 | waymo | [Machine Learning Engineer, ADV Systems](https://careers.withwaymo.com/jobs?gh_jid=7446320) | Mountain View, California, United States; San Francisco, California, United States | greenhouse |
-| 2026-02-20 | coinbase | [Senior Machine Learning Platform Engineer (Platform)](https://www.coinbase.com/careers/positions/7604203?gh_jid=7604203) | Remote - USA | greenhouse |
-| 2026-02-20 | block | [Senior Data Scientist, Risk](http://block.xyz/careers/jobs/5127193008?gh_jid=5127193008) | Bay Area, CA, United States of America | greenhouse |
 | — | redhat | [Artificial intelligence](https://jobs.redhat.com/en/hybrid-cloud-solutions/ai) | — | webscrape |
+| — | meta | [Software Engineer, Machine Learning Sunnyvale, CA + 15 locations](https://www.metacareers.com/profile/job_details/1436181490732782/) | — | webscrape |
 | — | canonical | [MLOps Scalable machine learning solutions](https://careers.canonical.com/mlops) | — | webscrape |
 | — | canonical | [Kubeflow Machine learning toolkit for K8s](https://careers.canonical.com/mlops/kubeflow/what-is-kubeflow) | — | webscrape |
-| — | meta | [Software Engineer, Machine Learning Sunnyvale, CA + 15 locations](https://www.metacareers.com/profile/job_details/1436181490732782/) | — | webscrape |
 | — | front | [AI Engineering Manager (Core AI Platform) San Francisco, CA](https://jobs.ashbyhq.com/frontcareers/071af87c-644e-4677-b4f8-ce0646ccc608) | — | webscrape |
 | — | facebook | [Software Engineer, Machine Learning Sunnyvale, CA + 15 locations](https://www.metacareers.com/profile/job_details/1436181490732782/) | — | webscrape |
 | — | superhuman | [Applied Research Scientist Germany; Hybrid](https://job-boards.greenhouse.io/grammarly/jobs/7340727) | — | webscrape |
@@ -117,13 +124,6 @@ _Last updated: 2026-02-23 13:21 CST_
 | — | de shaw | [icon Quantitative Analyst : Quants at the D. E. Shaw group apply mathematical techniques and write software to develop, analyze, and implement statistical models for our computerized financial trading…](https://www.deshaw.com/careers/quantitative-analyst-2636) | — | webscrape |
 | — | insight partners | [Abnormal AI 136 jobs Series C+ Abnormal AI is the leading AI-native human behavior security platform, leveraging machine learning to stop sophisticated inbound attacks and detect compromised accounts across email and connected applications.](https://jobs.insightpartners.com/companies/abnormal-ai-2#content) | — | webscrape |
 | — | five rings | [Experienced/Lateral - Quantitative Researcher](https://job-boards.greenhouse.io/fiveringsllc/jobs/5046298008) | — | webscrape |
-| — | optiver | [Senior People Data Analyst](https://optiver.com/working-at-optiver/career-opportunities/8424329002/) | — | webscrape |
-| — | optiver | [Data Engineer – Enterprise](https://optiver.com/working-at-optiver/career-opportunities/8135668002/) | — | webscrape |
-| — | optiver | [Enterprise Data Engineer](https://optiver.com/working-at-optiver/career-opportunities/8313106002/) | — | webscrape |
-| — | optiver | [AI Engineer](https://optiver.com/working-at-optiver/career-opportunities/8313105002/) | — | webscrape |
-| — | keystone | [Applied Deep Learning Research Scientist Boston Apply](https://www.keystone.com/careers) | — | webscrape |
-| — | solana | [Elite Research Scientist - Frontier AI Evaluation](https://jobs.solana.com/companies/perle-2-0f9ff345-67d2-4bf3-af58-751b33bd578b/jobs/68406385-elite-research-scientist-frontier-ai-evaluation#content) | — | webscrape |
-| — | solana | [Read more about Elite Research Scientist - Frontier AI Evaluation at Perle](https://jobs.solana.com/companies/perle-2-0f9ff345-67d2-4bf3-af58-751b33bd578b/jobs/68406385-elite-research-scientist-frontier-ai-evaluation#content) | — | webscrape |
 | — | binance | [Binance Accelerator Program - Data Analyst Remote — Binance Accelerator Program Asia / Australia, Melbourne / Angola, Luanda / Taiwan, Taipei](https://jobs.lever.co/binance/0f670c70-15e9-41c9-96fc-c1f937b1f9ee) | — | webscrape |
 | — | binance | [Business Intelligence/ Data Analyst Remote — Asia / Hong Kong / Taiwan, Taipei](https://jobs.lever.co/binance/2f0cebcd-c4fc-4e43-8766-8e6e0249899c) | — | webscrape |
 | — | binance | [Business Intelligence/ Data Analyst (MENA Region) Remote — Full-time: Remote UAE, Dubai / UAE, Abu Dhabi](https://jobs.lever.co/binance/37fdf694-28ee-44f4-bd8a-83b8e20d46ed) | — | webscrape |
@@ -160,6 +160,13 @@ _Last updated: 2026-02-23 13:21 CST_
 | — | binance | [Senior Data Scientist (Content Understanding, NLP) Hybrid — Full-time: Remote Asia / Taiwan, Taipei / Australia, Brisbane / Australia, Melbourne / Australia, Sydney / Hong Kong / UAE, Dubai](https://jobs.lever.co/binance/f998eb30-2f2b-4220-97db-767af8fcd4b4) | — | webscrape |
 | — | binance | [Quantitative Researcher Remote — Asia / Taiwan, Taipei / South East Asia / UAE, Dubai / Eastern Europe](https://jobs.lever.co/binance/a13367b2-8bd9-41e1-878f-478cd1539354) | — | webscrape |
 | — | binance | [Binance Accelerator Program - Quantitative Researcher Remote — Full-time Onsite or Remote Asia / UAE, Dubai](https://jobs.lever.co/binance/dc610d23-6478-4c86-b1ce-c04fc469d9b3) | — | webscrape |
+| — | optiver | [Senior People Data Analyst](https://optiver.com/working-at-optiver/career-opportunities/8424329002/) | — | webscrape |
+| — | optiver | [Data Engineer – Enterprise](https://optiver.com/working-at-optiver/career-opportunities/8135668002/) | — | webscrape |
+| — | optiver | [Enterprise Data Engineer](https://optiver.com/working-at-optiver/career-opportunities/8313106002/) | — | webscrape |
+| — | optiver | [AI Engineer](https://optiver.com/working-at-optiver/career-opportunities/8313105002/) | — | webscrape |
+| — | keystone | [Applied Deep Learning Research Scientist Boston Apply](https://www.keystone.com/careers) | — | webscrape |
+| — | solana | [Elite Research Scientist - Frontier AI Evaluation](https://jobs.solana.com/companies/perle-2-0f9ff345-67d2-4bf3-af58-751b33bd578b/jobs/68406385-elite-research-scientist-frontier-ai-evaluation#content) | — | webscrape |
+| — | solana | [Read more about Elite Research Scientist - Frontier AI Evaluation at Perle](https://jobs.solana.com/companies/perle-2-0f9ff345-67d2-4bf3-af58-751b33bd578b/jobs/68406385-elite-research-scientist-frontier-ai-evaluation#content) | — | webscrape |
 | — | 1inch | [Senior Data Scientist Remote — Full-time Stuttgart / London / Madrid / Dubai](https://jobs.lever.co/1inch/e46cffdf-10c0-45a0-9938-93f2be416249) | — | webscrape |
 | — | shift technology | [Data Scientist Singapore - Singapore](https://job-boards.greenhouse.io/shifttechnology/jobs/5914061003) | — | webscrape |
 | — | shift technology | [Data Scientist Japan - Tokyo](https://job-boards.greenhouse.io/shifttechnology/jobs/6343856003) | — | webscrape |
