@@ -1,14 +1,15 @@
 # Jobs Feed (Page 1/1)
 
-_Last updated: 2026-02-23 15:07 CST_
+_Last updated: 2026-02-23 17:04 CST_
 
 | Posted | Company | Title | Location | Source |
 |---|---|---|---|---|
+| 2026-02-23 | coinbase | [Senior Analytics Engineer](https://www.coinbase.com/careers/positions/7532597?gh_jid=7532597) | Remote - USA | greenhouse |
+| 2026-02-23 | instacart | [Senior Machine Learning Engineer II, Economist](https://instacart.careers/job/?gh_jid=7647987) | United States - Remote | greenhouse |
 | 2026-02-23 | coinbase | [Senior Machine Learning Engineering Manager - Risk and Fraud](https://www.coinbase.com/careers/positions/7357865?gh_jid=7357865) | Remote - USA | greenhouse |
-| 2026-02-23 | block | [Staff Machine Learning Engineer, Predictive Systems](http://block.xyz/careers/jobs/5080817008?gh_jid=5080817008) | Bay Area, CA, United States of America | greenhouse |
 | 2026-02-23 | block | [Senior Data Engineering Manager, Financial Platform](http://block.xyz/careers/jobs/4963310008?gh_jid=4963310008) | Bay Area, CA, United States of America | greenhouse |
-| 2026-02-23 | block | [Senior Data Engineering Manager, Financial Platform](http://block.xyz/careers/jobs/5068303008?gh_jid=5068303008) | Seattle, WA, United States of America | greenhouse |
 | 2026-02-23 | block | [Senior Data Engineering Manager, Financial Platform](http://block.xyz/careers/jobs/5018638008?gh_jid=5018638008) | New York, NY, United States of America | greenhouse |
+| 2026-02-23 | block | [Senior Data Engineering Manager, Financial Platform](http://block.xyz/careers/jobs/5068303008?gh_jid=5068303008) | Seattle, WA, United States of America | greenhouse |
 | 2026-02-23 | waymo | [Senior Machine Learning Engineer – VLM/LLM Evaluation](https://careers.withwaymo.com/jobs?gh_jid=7644924) | Mountain View, CA, USA; New York, NY, USA, Seattle, WA, USA | greenhouse |
 | 2026-02-23 | otter.ai | [Machine Learning Engineer](https://otter.ai/careers?gh_jid=7634875003) | Mountain View, CA | greenhouse |
 | 2026-02-23 | aqr | [Portfolio Analytics Engineer](https://careers.aqr.com/jobs?gh_jid=7202482&gh_jid=7202482) | Greenwich, CT | greenhouse |
@@ -89,28 +90,17 @@ _Last updated: 2026-02-23 15:07 CST_
 | 2026-02-20 | anthropic | [Staff Machine Learning Engineer, Virtual Collaborator](https://job-boards.greenhouse.io/anthropic/jobs/4946308008) | New York City, NY; San Francisco, CA; Seattle, WA | greenhouse |
 | 2026-02-20 | anthropic | [Staff Research Engineer, Discovery Team](https://job-boards.greenhouse.io/anthropic/jobs/4593216008) | San Francisco, CA | greenhouse |
 | 2026-02-20 | coinbase | [Data Scientist II - Product Analytics](https://www.coinbase.com/careers/positions/7644362?gh_jid=7644362) | Remote - UK | greenhouse |
-| 2026-02-20 | coinbase | [Senior Data Scientist - Institutional](https://www.coinbase.com/careers/positions/7583638?gh_jid=7583638) | Remote - USA | greenhouse |
-| 2026-02-20 | block | [Machine Learning Engineer (Modeling), Families Risk](http://block.xyz/careers/jobs/4947767008?gh_jid=4947767008) | Bay Area, CA, United States of America | greenhouse |
-| 2026-02-20 | block | [Machine Learning Engineer (Modeling), Families Risk](http://block.xyz/careers/jobs/5078690008?gh_jid=5078690008) | Seattle, WA, United States of America | greenhouse |
-| 2026-02-20 | waymo | [Senior Machine Learning Engineer, Planner Reasoning](https://careers.withwaymo.com/jobs?gh_jid=7463326) | Mountain View, California, United States; San Francisco, California, United States | greenhouse |
-| 2026-02-20 | block | [Senior Machine Learning Engineer, Risk Modeling](http://block.xyz/careers/jobs/5128159008?gh_jid=5128159008) | Los Angeles, CA, United States of America | greenhouse |
-| 2026-02-20 | block | [Senior Machine Learning Engineer, Risk Modeling](http://block.xyz/careers/jobs/5128155008?gh_jid=5128155008) | New York, NY, United States of America | greenhouse |
-| 2026-02-20 | block | [Senior Machine Learning Engineer, Risk Modeling](http://block.xyz/careers/jobs/5115946008?gh_jid=5115946008) | Seattle, WA, United States of America | greenhouse |
-| 2026-02-20 | waymo | [Applied Research Scientist, 3D Object Detection  (PhD New Grad)](https://careers.withwaymo.com/jobs?gh_jid=7467839) | Mountain View, CA USA;  San Francisco, CA USA; | greenhouse |
-| 2026-02-20 | waymo | [Staff Tech Lead, Machine Learning Engineer, Perception](https://careers.withwaymo.com/jobs?gh_jid=7450706) | Mountain View, California, United States; San Francisco, California, United States | greenhouse |
-| 2026-02-20 | waymo | [Machine Learning Engineer, Model Optimization](https://careers.withwaymo.com/jobs?gh_jid=7446322) | Mountain View, California, United States; San Francisco, California, United States | greenhouse |
-| 2026-02-20 | waymo | [Machine Learning Engineer, Data & Systems](https://careers.withwaymo.com/jobs?gh_jid=7446301) | Mountain View, California, United States; San Francisco, California, United States | greenhouse |
 | — | redhat | [Artificial intelligence](https://jobs.redhat.com/en/hybrid-cloud-solutions/ai) | — | webscrape |
-| — | meta | [Software Engineer, Machine Learning Sunnyvale, CA + 15 locations](https://www.metacareers.com/profile/job_details/1436181490732782/) | — | webscrape |
 | — | canonical | [MLOps Scalable machine learning solutions](https://careers.canonical.com/mlops) | — | webscrape |
 | — | canonical | [Kubeflow Machine learning toolkit for K8s](https://careers.canonical.com/mlops/kubeflow/what-is-kubeflow) | — | webscrape |
-| — | front | [AI Engineering Manager (Core AI Platform) San Francisco, CA](https://jobs.ashbyhq.com/frontcareers/071af87c-644e-4677-b4f8-ce0646ccc608) | — | webscrape |
 | — | facebook | [Software Engineer, Machine Learning Sunnyvale, CA + 15 locations](https://www.metacareers.com/profile/job_details/1436181490732782/) | — | webscrape |
+| — | front | [AI Engineering Manager (Core AI Platform) San Francisco, CA](https://jobs.ashbyhq.com/frontcareers/071af87c-644e-4677-b4f8-ce0646ccc608) | — | webscrape |
 | — | superhuman | [Applied Research Scientist Germany; Hybrid](https://job-boards.greenhouse.io/grammarly/jobs/7340727) | — | webscrape |
 | — | superhuman | [Data Scientist San Francisco; Hybrid](https://job-boards.greenhouse.io/grammarly/jobs/6458934) | — | webscrape |
 | — | superhuman | [Machine Learning Engineer, Agents San Francisco; Hybrid](https://job-boards.greenhouse.io/grammarly/jobs/6392339) | — | webscrape |
 | — | superhuman | [Software Engineer, Data Engineering San Francisco; Hybrid](https://job-boards.greenhouse.io/grammarly/jobs/6259939) | — | webscrape |
 | — | superhuman | [Software Engineer, Data Engineering New York City; Hybrid](https://job-boards.greenhouse.io/grammarly/jobs/7336882) | — | webscrape |
+| — | meta | [Software Engineer, Machine Learning Sunnyvale, CA + 15 locations](https://www.metacareers.com/profile/job_details/1436181490732782/) | — | webscrape |
 | — | render | [Staff Data Scientist Remote: United States or Remote: Canada](https://jobs.ashbyhq.com/render/03cf5296-9e69-43c0-93a6-1b9836e9d2e3) | — | webscrape |
 | — | notion | [Data Engineer, Finance San Francisco, California](https://jobs.ashbyhq.com/notion/4d1bce46-3cb1-4a26-b6c6-ac9b02ee413d) | — | webscrape |
 | — | notion | [Data Engineer, Go-To-Market San Francisco, California](https://jobs.ashbyhq.com/notion/655b047b-5e58-4b0c-82f0-8c16b2c03318) | — | webscrape |
