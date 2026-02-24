@@ -1,6 +1,6 @@
 # Jobs Feed (Page 1/1)
 
-_Last updated: 2026-02-24 08:32 CST_
+_Last updated: 2026-02-24 09:18 CST_
 
 | Posted | Company | Title | Location | Source |
 |---|---|---|---|---|
@@ -67,10 +67,10 @@ _Last updated: 2026-02-24 08:32 CST_
 | — | wise | [Lead Data Analyst - Risk and Controls](https://www.wise.com/job/lead-data-analyst-risk-and-controls-in-london-jid-2726) | — | webscrape |
 | — | wise | [Senior/Principal Product Manager - Machine Learning and AI](https://www.wise.com/job/senior-principal-product-manager-machine-learning-and-ai-in-london-jid-2041) | — | webscrape |
 | — | remitly | [Data Analyst - Customer Success](https://careers.remitly.com/job/23052240/data-analyst-customer-success/) | — | webscrape |
-| — | transferwise | [Lead Data Analyst - Risk and Controls](https://www.transferwise.com/job/lead-data-analyst-risk-and-controls-in-london-jid-2726) | — | webscrape |
-| — | transferwise | [Senior/Principal Product Manager - Machine Learning and AI](https://www.transferwise.com/job/senior-principal-product-manager-machine-learning-and-ai-in-london-jid-2041) | — | webscrape |
 | — | transfergo | [Vilnius Senior Data Analyst](https://www.transfergo.com/career/job-offer/5779671004) | — | webscrape |
 | — | transfergo | [Vilnius Data Analyst](https://www.transfergo.com/career/job-offer/5779672004) | — | webscrape |
+| — | transferwise | [Lead Data Analyst - Risk and Controls](https://www.transferwise.com/job/lead-data-analyst-risk-and-controls-in-london-jid-2726) | — | webscrape |
+| — | transferwise | [Senior/Principal Product Manager - Machine Learning and AI](https://www.transferwise.com/job/senior-principal-product-manager-machine-learning-and-ai-in-london-jid-2041) | — | webscrape |
 | — | ing | [Vincent - Data Analyst Data helps you make smarter decisions March 17, 2025 Article Employee Stories Expertise & Teams Homepage - Testimonials](https://careers.ing.com/en/be-story-vincent) | — | webscrape |
 | — | de shaw | [icon Human Capital Data Engineering and Reporting Analyst : The D. E. Shaw group seeks a talented data engineering and reporting analyst to join its Human Capital Analytics and Products (HCAP) team. Members of HCAP are curators of…](https://www.deshaw.com/careers/human-capital-data-engineering-and-reporting-analyst-5794) | — | webscrape |
 | — | de shaw | [icon Applied AI Engineer : The D. E. Shaw group seeks exceptional software engineers with expertise in applied AI, AI agents, and agentic systems to join the firm. This role offers the chance to work…](https://www.deshaw.com/careers/applied-ai-engineer-5375) | — | webscrape |
@@ -78,6 +78,9 @@ _Last updated: 2026-02-24 08:32 CST_
 | — | de shaw | [icon Quantitative Analyst : Quants at the D. E. Shaw group apply mathematical techniques and write software to develop, analyze, and implement statistical models for our computerized financial trading…](https://www.deshaw.com/careers/quantitative-analyst-2636) | — | webscrape |
 | — | insight partners | [Abnormal AI 139 jobs Series C+ Abnormal AI is the leading AI-native human behavior security platform, leveraging machine learning to stop sophisticated inbound attacks and detect compromised accounts across email and connected applications.](https://jobs.insightpartners.com/companies/abnormal-ai-2#content) | — | webscrape |
 | — | five rings | [Experienced/Lateral - Quantitative Researcher](https://job-boards.greenhouse.io/fiveringsllc/jobs/5046298008) | — | webscrape |
+| — | optiver | [Senior People Data Analyst](https://optiver.com/working-at-optiver/career-opportunities/8424329002/) | — | webscrape |
+| — | optiver | [Data Engineer – Enterprise](https://optiver.com/working-at-optiver/career-opportunities/8135668002/) | — | webscrape |
+| — | keystone | [Applied Deep Learning Research Scientist Boston Apply](https://www.keystone.com/careers) | — | webscrape |
 | — | binance | [Binance Accelerator Program - Data Analyst Remote — Binance Accelerator Program Asia / Australia, Melbourne / Angola, Luanda / Taiwan, Taipei](https://jobs.lever.co/binance/0f670c70-15e9-41c9-96fc-c1f937b1f9ee) | — | webscrape |
 | — | binance | [Business Intelligence/ Data Analyst Remote — Asia / Hong Kong / Taiwan, Taipei](https://jobs.lever.co/binance/2f0cebcd-c4fc-4e43-8766-8e6e0249899c) | — | webscrape |
 | — | binance | [Business Intelligence/ Data Analyst (MENA Region) Remote — Full-time: Remote UAE, Dubai / UAE, Abu Dhabi](https://jobs.lever.co/binance/37fdf694-28ee-44f4-bd8a-83b8e20d46ed) | — | webscrape |
@@ -114,9 +117,6 @@ _Last updated: 2026-02-24 08:32 CST_
 | — | binance | [Senior Data Scientist (Content Understanding, NLP) Hybrid — Full-time: Remote Asia / Taiwan, Taipei / Australia, Brisbane / Australia, Melbourne / Australia, Sydney / Hong Kong / UAE, Dubai](https://jobs.lever.co/binance/f998eb30-2f2b-4220-97db-767af8fcd4b4) | — | webscrape |
 | — | binance | [Quantitative Researcher Remote — Asia / Taiwan, Taipei / South East Asia / UAE, Dubai / Eastern Europe](https://jobs.lever.co/binance/a13367b2-8bd9-41e1-878f-478cd1539354) | — | webscrape |
 | — | binance | [Binance Accelerator Program - Quantitative Researcher Remote — Full-time Onsite or Remote Asia / UAE, Dubai](https://jobs.lever.co/binance/dc610d23-6478-4c86-b1ce-c04fc469d9b3) | — | webscrape |
-| — | keystone | [Applied Deep Learning Research Scientist Boston Apply](https://www.keystone.com/careers) | — | webscrape |
-| — | optiver | [Senior People Data Analyst](https://optiver.com/working-at-optiver/career-opportunities/8424329002/) | — | webscrape |
-| — | optiver | [Data Engineer – Enterprise](https://optiver.com/working-at-optiver/career-opportunities/8135668002/) | — | webscrape |
 | — | solana | [Elite Research Scientist - Frontier AI Evaluation](https://jobs.solana.com/companies/perle-2-0f9ff345-67d2-4bf3-af58-751b33bd578b/jobs/68406385-elite-research-scientist-frontier-ai-evaluation#content) | — | webscrape |
 | — | solana | [Read more about Elite Research Scientist - Frontier AI Evaluation at Perle](https://jobs.solana.com/companies/perle-2-0f9ff345-67d2-4bf3-af58-751b33bd578b/jobs/68406385-elite-research-scientist-frontier-ai-evaluation#content) | — | webscrape |
 | — | 1inch | [Senior Data Scientist Remote — Full-time Stuttgart / London / Madrid / Dubai](https://jobs.lever.co/1inch/e46cffdf-10c0-45a0-9938-93f2be416249) | — | webscrape |
@@ -161,7 +161,6 @@ _Last updated: 2026-02-24 08:32 CST_
 | — | figma | [Data Scientist](https://boards.greenhouse.io/figma/jobs/5552580004?gh_jid=5552580004) | — | webscrape |
 | — | figma | [Software Engineer, Machine Learning](https://boards.greenhouse.io/figma/jobs/5551532004?gh_jid=5551532004) | — | webscrape |
 | — | webflow | [Senior Data Scientist](https://job-boards.greenhouse.io/webflow/jobs/7550682) | — | webscrape |
-| — | nimble | [Senior Data Engineer 488 8th Street](https://job-boards.greenhouse.io/nimblerobotics/jobs/4110177009) | — | webscrape |
 | — | nimble | [AI Robotics Research Scientist San Francisco, CA](https://job-boards.greenhouse.io/nimblerobotics/jobs/4100984009) | — | webscrape |
 | — | atomic | [Data Scientist, RNA Biology Machine Learning – South San Francisco, California](https://job-boards.greenhouse.io/atomai/jobs/5745740004) | — | webscrape |
 | — | atomic | [Senior Scientist, Cheminformatics Machine Learning – South San Francisco, California](https://job-boards.greenhouse.io/atomai/jobs/5745377004) | — | webscrape |
