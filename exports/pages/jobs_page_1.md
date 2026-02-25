@@ -1,9 +1,12 @@
 # Jobs Feed (Page 1/1)
 
-_Last updated: 2026-02-25 09:16 CST_
+_Last updated: 2026-02-25 11:31 CST_
 
 | Posted | Company | Title | Location | Source |
 |---|---|---|---|---|
+| 2026-02-25 | databricks | [Specialist Solutions Architect - Data Scientist / ML Engineer (Financial Services)](https://databricks.com/company/careers/open-positions/job?gh_jid=8434243002) | Remote - Georgia; Remote - Illinois; Remote - New York; Remote - North Carolina; Remote - Texas | greenhouse |
+| 2026-02-25 | coalition | [Data Engineer, Security](https://www.coalitioninc.com/job-posting?gh_jid=4665927005) | Any location, United States | greenhouse |
+| 2026-02-25 | twilio | [Staff Machine Learning Engineer (L4)](https://job-boards.greenhouse.io/twilio/jobs/7520997) | Remote - India | greenhouse |
 | 2026-02-25 | imc | [Compliance Data Analyst](https://job-boards.eu.greenhouse.io/imc/jobs/4749997101) | Chicago, United States | greenhouse |
 | 2026-02-25 | imc | [Data Engineer](https://job-boards.eu.greenhouse.io/imc/jobs/4439297101) | Chicago, United States | greenhouse |
 | 2026-02-25 | imc | [Graduate Machine Learning Researcher](https://job-boards.eu.greenhouse.io/imc/jobs/4608585101) | Chicago, United States; New York, United States | greenhouse |
@@ -42,7 +45,6 @@ _Last updated: 2026-02-25 09:16 CST_
 | 2026-02-24 | deepmind | [Research Engineer, GenMedia](https://job-boards.greenhouse.io/deepmind/jobs/7288535) | Mountain View, California, US | greenhouse |
 | 2026-02-24 | jane street | [Data Engineer](https://job-boards.greenhouse.io/janestreet/jobs/6558007002) | New York, New York, United States | greenhouse |
 | 2026-02-24 | deepmind | [Research Engineer, Multimodal Generative AI (Image/Video)](https://job-boards.greenhouse.io/deepmind/jobs/7339604) | Kirkland, Washington, US; Seattle, Washington, US | greenhouse |
-| 2026-02-24 | twilio | [Staff Machine Learning Engineer (L4)](https://job-boards.greenhouse.io/twilio/jobs/7520997) | Remote - India | greenhouse |
 | 2026-02-24 | insurify | [Business Data Analyst](https://job-boards.greenhouse.io/insurify/jobs/5743828004) | Cambridge, MA - Hybrid | greenhouse |
 | 2026-02-24 | coinbase | [Staff Machine Learning Engineer - Platform (Core Automation)](https://www.coinbase.com/careers/positions/7648987?gh_jid=7648987) | Remote - USA | greenhouse |
 | 2026-02-24 | coinbase | [Data Scientist II - Product Analytics](https://www.coinbase.com/careers/positions/7644362?gh_jid=7644362) | Remote - UK | greenhouse |
@@ -87,7 +89,6 @@ _Last updated: 2026-02-25 09:16 CST_
 | — | render | [Staff Data Scientist Remote: United States or Remote: Canada](https://jobs.ashbyhq.com/render/03cf5296-9e69-43c0-93a6-1b9836e9d2e3) | — | webscrape |
 | — | notion | [Data Engineer, Finance San Francisco, California](https://jobs.ashbyhq.com/notion/4d1bce46-3cb1-4a26-b6c6-ac9b02ee413d) | — | webscrape |
 | — | notion | [Data Engineer, Go-To-Market San Francisco, California](https://jobs.ashbyhq.com/notion/655b047b-5e58-4b0c-82f0-8c16b2c03318) | — | webscrape |
-| — | cloudsmith | [Caitriona McCaffrey Senior Data Engineer](https://careers.cloudsmith.com/en-GB/people/2769204-caitriona-mccaffrey) | — | webscrape |
 | — | transfergo | [Vilnius Senior Data Analyst](https://www.transfergo.com/career/job-offer/5779671004) | — | webscrape |
 | — | transfergo | [Vilnius Data Analyst](https://www.transfergo.com/career/job-offer/5779672004) | — | webscrape |
 | — | ing | [Vincent - Data Analyst Data helps you make smarter decisions March 17, 2025 Article Expertise & Teams Employee Stories Homepage - Testimonials](https://careers.ing.com/en/be-story-vincent) | — | webscrape |
@@ -97,6 +98,10 @@ _Last updated: 2026-02-25 09:16 CST_
 | — | de shaw | [icon Quantitative Analyst : Quants at the D. E. Shaw group apply mathematical techniques and write software to develop, analyze, and implement statistical models for our computerized financial trading…](https://www.deshaw.com/careers/quantitative-analyst-2636) | — | webscrape |
 | — | insight partners | [Abnormal AI 140 jobs Series C+ Abnormal AI is the leading AI-native human behavior security platform, leveraging machine learning to stop sophisticated inbound attacks and detect compromised accounts across email and connected applications.](https://jobs.insightpartners.com/companies/abnormal-ai-2#content) | — | webscrape |
 | — | five rings | [Experienced/Lateral - Quantitative Researcher](https://job-boards.greenhouse.io/fiveringsllc/jobs/5046298008) | — | webscrape |
+| — | optiver | [Senior Data Scientist](https://optiver.com/working-at-optiver/career-opportunities/8415358002/) | — | webscrape |
+| — | optiver | [Senior Data Engineer](https://optiver.com/working-at-optiver/career-opportunities/8223372002/) | — | webscrape |
+| — | optiver | [Graduate Data Scientist](https://optiver.com/working-at-optiver/career-opportunities/8286430002/) | — | webscrape |
+| — | keystone | [Applied Deep Learning Research Scientist Boston Apply](https://www.keystone.com/careers) | — | webscrape |
 | — | binance | [Binance Accelerator Program - Data Analyst Remote — Binance Accelerator Program Asia / Australia, Melbourne / Angola, Luanda / Taiwan, Taipei](https://jobs.lever.co/binance/0f670c70-15e9-41c9-96fc-c1f937b1f9ee) | — | webscrape |
 | — | binance | [Business Intelligence/ Data Analyst Remote — Asia / Hong Kong / Taiwan, Taipei](https://jobs.lever.co/binance/2f0cebcd-c4fc-4e43-8766-8e6e0249899c) | — | webscrape |
 | — | binance | [Business Intelligence/ Data Analyst (MENA Region) Remote — Full-time: Remote UAE, Dubai / UAE, Abu Dhabi](https://jobs.lever.co/binance/37fdf694-28ee-44f4-bd8a-83b8e20d46ed) | — | webscrape |
@@ -131,10 +136,6 @@ _Last updated: 2026-02-25 09:16 CST_
 | — | binance | [Senior Data Scientist (Content Understanding, NLP) Hybrid — Full-time: Remote Asia / Taiwan, Taipei / Australia, Brisbane / Australia, Melbourne / Australia, Sydney / Hong Kong / UAE, Dubai](https://jobs.lever.co/binance/f998eb30-2f2b-4220-97db-767af8fcd4b4) | — | webscrape |
 | — | binance | [Quantitative Researcher Remote — Asia / Taiwan, Taipei / South East Asia / UAE, Dubai / Eastern Europe](https://jobs.lever.co/binance/a13367b2-8bd9-41e1-878f-478cd1539354) | — | webscrape |
 | — | binance | [Binance Accelerator Program - Quantitative Researcher Remote — Full-time Onsite or Remote Asia / UAE, Dubai](https://jobs.lever.co/binance/dc610d23-6478-4c86-b1ce-c04fc469d9b3) | — | webscrape |
-| — | keystone | [Applied Deep Learning Research Scientist Boston Apply](https://www.keystone.com/careers) | — | webscrape |
-| — | optiver | [Senior Data Scientist](https://optiver.com/working-at-optiver/career-opportunities/8415358002/) | — | webscrape |
-| — | optiver | [Senior Data Engineer](https://optiver.com/working-at-optiver/career-opportunities/8223372002/) | — | webscrape |
-| — | optiver | [Graduate Data Scientist](https://optiver.com/working-at-optiver/career-opportunities/8286430002/) | — | webscrape |
 | — | solana | [Elite Research Scientist - Frontier AI Evaluation](https://jobs.solana.com/companies/perle-2-0f9ff345-67d2-4bf3-af58-751b33bd578b/jobs/68406385-elite-research-scientist-frontier-ai-evaluation#content) | — | webscrape |
 | — | solana | [Read more about Elite Research Scientist - Frontier AI Evaluation at Perle](https://jobs.solana.com/companies/perle-2-0f9ff345-67d2-4bf3-af58-751b33bd578b/jobs/68406385-elite-research-scientist-frontier-ai-evaluation#content) | — | webscrape |
 | — | 1inch | [Senior Data Scientist Remote — Full-time Stuttgart / London / Madrid / Dubai](https://jobs.lever.co/1inch/e46cffdf-10c0-45a0-9938-93f2be416249) | — | webscrape |
