@@ -1,16 +1,51 @@
 # Jobs Feed (Page 1/1)
 
-_Last updated: 2026-02-25 13:25 CST_
+_Last updated: 2026-02-25 15:01 CST_
 
 | Posted | Company | Title | Location | Source |
 |---|---|---|---|---|
+| 2026-02-25 | bandwidth | [AI Engineer, Research & Development](https://job-boards.greenhouse.io/bandwidth/jobs/7362388) | Raleigh, NC | greenhouse |
+| 2026-02-25 | bandwidth | [Senior Analytics Engineer](https://job-boards.greenhouse.io/bandwidth/jobs/7583357) | Raleigh, NC | greenhouse |
+| 2026-02-25 | opendoor | [Agentic Analytics Engineer](https://www.opendoor.com/careers/open-positions?gh_jid=4653291006) | Seattle, Washington, United States | greenhouse |
+| 2026-02-25 | pinterest | [Staff Data Engineer, tvScientific](https://www.pinterestcareers.com/jobs/?gh_jid=7642253) | San Francisco, CA, US; Remote, US | greenhouse |
+| 2026-02-25 | pinterest | [Staff Data Engineer, tvScientific](https://www.pinterestcareers.com/jobs/?gh_jid=7642270) | San Francisco, CA, US; Remote, US | greenhouse |
+| 2026-02-25 | pinterest | [Sr. Machine Learning Engineer, tvScientific](https://www.pinterestcareers.com/jobs/?gh_jid=7642268) | San Francisco, CA, US; Remote, US | greenhouse |
+| 2026-02-25 | pinterest | [Sr. Data Scientist, tvScientific](https://www.pinterestcareers.com/jobs/?gh_jid=7642251) | San Francisco, CA, US; Remote, US | greenhouse |
+| 2026-02-25 | pinterest | [Sr. Data Engineer, tvScientific](https://www.pinterestcareers.com/jobs/?gh_jid=7642272) | San Francisco, CA, US; Remote, US | greenhouse |
+| 2026-02-25 | pinterest | [Machine Learning Engineer, tvScientific](https://www.pinterestcareers.com/jobs/?gh_jid=7642265) | San Francisco, CA, US; Remote, US | greenhouse |
+| 2026-02-25 | databricks | [Specialist Solutions Architect - Data Scientist / ML Engineer (Financial Services)](https://databricks.com/company/careers/open-positions/job?gh_jid=8434243002) | Remote - Georgia; Remote - Illinois; Remote - New York; Remote - North Carolina; Remote - Texas | greenhouse |
+| 2026-02-25 | pinterest | [Data Scientist II, Growth Marketing](https://www.pinterestcareers.com/jobs/?gh_jid=6483005) | San Francisco, CA, US; Remote, US | greenhouse |
+| 2026-02-25 | pinterest | [Director, Machine Learning Engineering – Growth](https://www.pinterestcareers.com/jobs/?gh_jid=7586364) | San Francisco, CA, US; Remote, US | greenhouse |
+| 2026-02-25 | pinterest | [Engineering Manager II, Machine Learning – User Understanding](https://www.pinterestcareers.com/jobs/?gh_jid=7494658) | San Francisco, CA, US; Remote, US | greenhouse |
+| 2026-02-25 | pinterest | [Machine Learning Engineer, Core Engineering](https://www.pinterestcareers.com/jobs/?gh_jid=6121450) | San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US; Remote, US | greenhouse |
+| 2026-02-25 | pinterest | [Machine Learning Engineer II](https://www.pinterestcareers.com/jobs/?gh_jid=7473497) | Toronto, ON, CA | greenhouse |
+| 2026-02-25 | pinterest | [Machine Learning Engineer, Monetization Engineering](https://www.pinterestcareers.com/jobs/?gh_jid=6121543) | San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US | greenhouse |
+| 2026-02-25 | pinterest | [Manager II, Machine Learning-Content Success](https://www.pinterestcareers.com/jobs/?gh_jid=7528427) | San Francisco, CA, US; Remote, US | greenhouse |
+| 2026-02-25 | pinterest | [Manager II, Machine Learning Engineering, Core Engineering](https://www.pinterestcareers.com/jobs/?gh_jid=7075176) | San Francisco, CA, US;  Remote, US | greenhouse |
+| 2026-02-25 | pinterest | [Manager II, Machine Learning-Search](https://www.pinterestcareers.com/jobs/?gh_jid=7239260) | San Francisco, CA, US; Remote, US | greenhouse |
+| 2026-02-25 | pinterest | [PhD University Grad Machine Learning Engineer 2026 (USA)](https://www.pinterestcareers.com/jobs/?gh_jid=7252807) | San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US | greenhouse |
+| 2026-02-25 | pinterest | [Principal Machine Learning Engineer, Ads Delivery](https://www.pinterestcareers.com/jobs/?gh_jid=6963868) | San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US | greenhouse |
+| 2026-02-25 | pinterest | [Principal Machine Learning Engineer, Growth](https://www.pinterestcareers.com/jobs/?gh_jid=7488434) | San Francisco, CA, US; Remote, US | greenhouse |
+| 2026-02-25 | pinterest | [Sr. Machine Learning Engineer, Ads Ranking](https://www.pinterestcareers.com/jobs/?gh_jid=7444145) | Toronto, ON, CA | greenhouse |
+| 2026-02-25 | pinterest | [Sr. Machine Learning Engineer, Applied Research Science](https://www.pinterestcareers.com/jobs/?gh_jid=6121464) | San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US | greenhouse |
+| 2026-02-25 | pinterest | [Sr. Machine Learning Engineer, Computer Vision](https://www.pinterestcareers.com/jobs/?gh_jid=6894747) | San Francisco, CA, US; Remote, US | greenhouse |
+| 2026-02-25 | pinterest | [Sr. Machine Learning Engineer, Monetization Engineering](https://www.pinterestcareers.com/jobs/?gh_jid=6121551) | San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US | greenhouse |
+| 2026-02-25 | pinterest | [Sr. Machine Learning Engineer, Notifications](https://www.pinterestcareers.com/jobs/?gh_jid=5691478) | Toronto, ON, CA | greenhouse |
+| 2026-02-25 | pinterest | [Sr. Staff Machine Learning Engineer, Homefeed](https://www.pinterestcareers.com/jobs/?gh_jid=6908633) | San Francisco, CA, US; Remote, US | greenhouse |
+| 2026-02-25 | pinterest | [Staff Data Scientist, Ad Measurement Products](https://www.pinterestcareers.com/jobs/?gh_jid=6482819) | San Francisco, CA, US; Remote, US | greenhouse |
+| 2026-02-25 | pinterest | [Staff Data Scientist, Ads Performance](https://www.pinterestcareers.com/jobs/?gh_jid=7435596) | San Francisco, CA, US; Remote, US | greenhouse |
+| 2026-02-25 | pinterest | [Staff Data Scientist, Engagement Ecosystem](https://www.pinterestcareers.com/jobs/?gh_jid=6819404) | San Francisco, CA, US; Remote, US | greenhouse |
+| 2026-02-25 | pinterest | [Staff Data Scientist, Forecasting](https://www.pinterestcareers.com/jobs/?gh_jid=7366226) | San Francisco, CA, US; Remote, US | greenhouse |
+| 2026-02-25 | pinterest | [Staff Data Scientist, Marketing Science](https://www.pinterestcareers.com/jobs/?gh_jid=7381300) | San Francisco, CA, US; Seattle, WA, US | greenhouse |
+| 2026-02-25 | pinterest | [Staff Machine Learning Engineer, Ads Late Funnel](https://www.pinterestcareers.com/jobs/?gh_jid=7012050) | San Francisco, CA, US; Seattle, WA, US | greenhouse |
+| 2026-02-25 | pinterest | [Staff Machine Learning Engineer, Content Quality Signals](https://www.pinterestcareers.com/jobs/?gh_jid=7531060) | San Francisco, CA, US; Remote, US | greenhouse |
+| 2026-02-25 | pinterest | [Staff Machine Learning Engineer, Growth Activation](https://www.pinterestcareers.com/jobs/?gh_jid=6744643) | Toronto, ON; Remote, CAN | greenhouse |
 | 2026-02-25 | aqr | [Client Analytics Engineering Associate](https://careers.aqr.com/jobs?gh_jid=6652460&gh_jid=6652460) | Greenwich, CT | greenhouse |
 | 2026-02-25 | coalition | [Staff Data Scientist, Insurance](https://www.coalitioninc.com/job-posting?gh_jid=4665930005) | Any location, United States | greenhouse |
 | 2026-02-25 | instacart | [Senior Machine Learning Engineer II, Search & Personalization](https://instacart.careers/job/?gh_jid=6716788) | Canada - Remote (AB, BC, ON, NS ONLY) | greenhouse |
 | 2026-02-25 | databricks | [AI Engineer - FDE (Forward Deployed Engineer)](https://databricks.com/company/careers/open-positions/job?gh_jid=8099751002) | Remote - India | greenhouse |
 | 2026-02-25 | imc | [Machine Learning Research Lead](https://job-boards.eu.greenhouse.io/imc/jobs/4573906101) | Chicago, United States; New York, United States | greenhouse |
 | 2026-02-25 | waymo | [Senior Applied Research Scientist, Perception](https://careers.withwaymo.com/jobs?gh_jid=7469421) | Mountain View, CA USA;  San Francisco, CA USA; | greenhouse |
-| 2026-02-25 | databricks | [Specialist Solutions Architect - Data Scientist / ML Engineer (Financial Services)](https://databricks.com/company/careers/open-positions/job?gh_jid=8434243002) | Remote - Georgia; Remote - Illinois; Remote - New York; Remote - North Carolina; Remote - Texas | greenhouse |
 | 2026-02-25 | coalition | [Data Engineer, Security](https://www.coalitioninc.com/job-posting?gh_jid=4665927005) | Any location, United States | greenhouse |
 | 2026-02-25 | twilio | [Staff Machine Learning Engineer (L4)](https://job-boards.greenhouse.io/twilio/jobs/7520997) | Remote - India | greenhouse |
 | 2026-02-25 | imc | [Compliance Data Analyst](https://job-boards.eu.greenhouse.io/imc/jobs/4749997101) | Chicago, United States | greenhouse |
@@ -32,10 +67,6 @@ _Last updated: 2026-02-25 13:25 CST_
 | 2026-02-25 | gusto | [Principal Data Scientist – Product](https://job-boards.greenhouse.io/gusto/jobs/6356147) | Denver, CO;San Francisco, CA;New York, NY;Los Angeles, CA;Seattle, WA;Toronto, Ontario, CAN - Remote | greenhouse |
 | 2026-02-25 | gusto | [Staff Data Scientist - Product](https://job-boards.greenhouse.io/gusto/jobs/7524662) | San Francisco, CA - Hybrid; Denver, CO - Hybrid; New York, NY - Hybrid; United States - Remote | greenhouse |
 | 2026-02-25 | block | [Sr. Banking Data Analyst](http://block.xyz/careers/jobs/5095834008?gh_jid=5095834008) | New York, NY, United States of America | greenhouse |
-| 2026-02-24 | pinterest | [Staff Machine Learning Engineer, Growth Activation](https://www.pinterestcareers.com/jobs/?gh_jid=6744643) | Toronto, ON; Remote, CAN | greenhouse |
-| 2026-02-24 | pinterest | [Sr. Machine Learning Engineer, Ads Ranking](https://www.pinterestcareers.com/jobs/?gh_jid=7444145) | Toronto, ON, CA | greenhouse |
-| 2026-02-24 | pinterest | [Sr. Machine Learning Engineer, Notifications](https://www.pinterestcareers.com/jobs/?gh_jid=5691478) | Toronto, ON, CA | greenhouse |
-| 2026-02-24 | pinterest | [Machine Learning Engineer II](https://www.pinterestcareers.com/jobs/?gh_jid=7473497) | Toronto, ON, CA | greenhouse |
 | 2026-02-24 | block | [Data Scientist - Model Strategy Management](http://block.xyz/careers/jobs/4963850008?gh_jid=4963850008) | Bay Area, CA, United States of America | greenhouse |
 | 2026-02-24 | coalition | [Senior Data Analyst](https://www.coalitioninc.com/job-posting?gh_jid=4665759005) | Any location, United States | greenhouse |
 | 2026-02-24 | coalition | [Applied Scientist II](https://www.coalitioninc.com/job-posting?gh_jid=4665762005) | Any location, United States | greenhouse |
@@ -56,7 +87,6 @@ _Last updated: 2026-02-25 13:25 CST_
 | 2026-02-24 | anthropic | [Offensive Security Research Engineer, Safeguards](https://job-boards.greenhouse.io/anthropic/jobs/5123011008) | San Francisco, CA | greenhouse |
 | 2026-02-24 | opendoor | [Data Scientist](https://www.opendoor.com/careers/open-positions?gh_jid=4653303006) | Seattle, Washington, United States | greenhouse |
 | 2026-02-23 | otter.ai | [Machine Learning Engineer](https://otter.ai/careers?gh_jid=7634875003) | Mountain View, CA | greenhouse |
-| 2026-02-23 | pinterest | [Staff Data Scientist, Ad Measurement Products](https://www.pinterestcareers.com/jobs/?gh_jid=6482819) | San Francisco, CA, US; Remote, US | greenhouse |
 | 2026-02-23 | coinbase | [Senior Analytics Engineer](https://www.coinbase.com/careers/positions/7532597?gh_jid=7532597) | Remote - USA | greenhouse |
 | 2026-02-23 | instacart | [Senior Machine Learning Engineer II, Economist](https://instacart.careers/job/?gh_jid=7647987) | United States - Remote | greenhouse |
 | 2026-02-23 | coinbase | [Senior Machine Learning Engineering Manager - Risk and Fraud](https://www.coinbase.com/careers/positions/7357865?gh_jid=7357865) | Remote - USA | greenhouse |
@@ -68,7 +98,6 @@ _Last updated: 2026-02-25 13:25 CST_
 | 2026-02-23 | block | [Senior Machine Learning Engineer (Modeling), Support](http://block.xyz/careers/jobs/4882799008?gh_jid=4882799008) | Bay Area, CA, United States of America | greenhouse |
 | 2026-02-23 | twilio | [Business Intelligence Analyst 2](https://job-boards.greenhouse.io/twilio/jobs/7280493) | Remote - Colombia | greenhouse |
 | 2026-02-23 | twilio | [Business Intelligence Analyst 3](https://job-boards.greenhouse.io/twilio/jobs/7292353) | Remote - Colombia | greenhouse |
-| 2026-02-23 | pinterest | [Staff Machine Learning Engineer, Content Quality Signals](https://www.pinterestcareers.com/jobs/?gh_jid=7531060) | San Francisco, CA, US; Remote, US | greenhouse |
 | 2026-02-23 | jamf | [BI Data Engineer II](https://www.jamf.com/about/careers/jobs/?gh_jid=5712133004&gh_jid=5712133004) | Poland - Remote | greenhouse |
 | 2026-02-23 | fourkites | [Staff Software Engineer - AI](https://job-boards.greenhouse.io/fourkites/jobs/7601583) | Chennai or Remote, India | greenhouse |
 | 2026-02-23 | payoneer | [Ops Data Analyst](https://www.payoneer.com/careers/position/7340530/?gh_jid=7340530) | New York, US | greenhouse |
@@ -79,16 +108,16 @@ _Last updated: 2026-02-25 13:25 CST_
 | 2026-02-23 | block | [Senior Data Scientist, Growth Product](http://block.xyz/careers/jobs/4988004008?gh_jid=4988004008) | Bay Area, CA, United States of America | greenhouse |
 | 2026-02-23 | block | [Senior Data Scientist, Bitcoin](http://block.xyz/careers/jobs/4989867008?gh_jid=4989867008) | Bay Area, CA, United States of America | greenhouse |
 | — | redhat | [Artificial intelligence](https://jobs.redhat.com/en/hybrid-cloud-solutions/ai) | — | webscrape |
-| — | meta | [Software Engineer, Machine Learning Sunnyvale, CA + 16 locations](https://www.metacareers.com/profile/job_details/1436181490732782/) | — | webscrape |
 | — | canonical | [MLOps Scalable machine learning solutions](https://careers.canonical.com/mlops) | — | webscrape |
 | — | canonical | [Kubeflow Machine learning toolkit for K8s](https://careers.canonical.com/mlops/kubeflow/what-is-kubeflow) | — | webscrape |
+| — | meta | [Software Engineer, Machine Learning Sunnyvale, CA + 16 locations](https://www.metacareers.com/profile/job_details/1436181490732782/) | — | webscrape |
+| — | facebook | [Software Engineer, Machine Learning Sunnyvale, CA + 16 locations](https://www.metacareers.com/profile/job_details/1436181490732782/) | — | webscrape |
 | — | front | [AI Engineering Manager (Core AI Platform) San Francisco, CA](https://jobs.ashbyhq.com/frontcareers/071af87c-644e-4677-b4f8-ce0646ccc608) | — | webscrape |
 | — | superhuman | [Applied Research Scientist Germany; Hybrid](https://job-boards.greenhouse.io/grammarly/jobs/7340727) | — | webscrape |
 | — | superhuman | [Data Scientist San Francisco; Hybrid](https://job-boards.greenhouse.io/grammarly/jobs/6458934) | — | webscrape |
 | — | superhuman | [Machine Learning Engineer, Agents San Francisco; Hybrid](https://job-boards.greenhouse.io/grammarly/jobs/6392339) | — | webscrape |
 | — | superhuman | [Software Engineer, Data Engineering San Francisco; Hybrid](https://job-boards.greenhouse.io/grammarly/jobs/6259939) | — | webscrape |
 | — | superhuman | [Software Engineer, Data Engineering New York City; Hybrid](https://job-boards.greenhouse.io/grammarly/jobs/7336882) | — | webscrape |
-| — | facebook | [Software Engineer, Machine Learning Sunnyvale, CA + 16 locations](https://www.metacareers.com/profile/job_details/1436181490732782/) | — | webscrape |
 | — | render | [Staff Data Scientist Remote: United States or Remote: Canada](https://jobs.ashbyhq.com/render/03cf5296-9e69-43c0-93a6-1b9836e9d2e3) | — | webscrape |
 | — | notion | [Data Engineer, Finance San Francisco, California](https://jobs.ashbyhq.com/notion/4d1bce46-3cb1-4a26-b6c6-ac9b02ee413d) | — | webscrape |
 | — | notion | [Data Engineer, Go-To-Market San Francisco, California](https://jobs.ashbyhq.com/notion/655b047b-5e58-4b0c-82f0-8c16b2c03318) | — | webscrape |
