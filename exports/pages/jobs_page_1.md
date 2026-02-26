@@ -1,9 +1,10 @@
 # Jobs Feed (Page 1/1)
 
-_Last updated: 2026-02-26 14:59 CST_
+_Last updated: 2026-02-26 16:56 CST_
 
 | Posted | Company | Title | Location | Source |
 |---|---|---|---|---|
+| 2026-02-26 | anthropic | [Data Scientist](https://job-boards.greenhouse.io/anthropic/jobs/5098499008) | San Francisco, CA \| New York City, NY | greenhouse |
 | 2026-02-26 | webflow | [Senior Data Scientist](https://job-boards.greenhouse.io/webflow/jobs/7550682) | CA Remote (BC & ON only); U.S. Remote | greenhouse |
 | 2026-02-26 | gusto | [Principal Data Scientist – Product](https://job-boards.greenhouse.io/gusto/jobs/6356147) | Denver, CO;San Francisco, CA;New York, NY;Los Angeles, CA;Seattle, WA;Toronto, Ontario, CAN - Remote | greenhouse |
 | 2026-02-26 | gusto | [Staff Applied AI and Machine Learning Engineer, Payments & Risk](https://job-boards.greenhouse.io/gusto/jobs/7235805) | Denver, CO;San Francisco, CA;New York, NY;Los Angeles, CA;Seattle, WA;Toronto, Ontario, CAN - Remote | greenhouse |
@@ -14,7 +15,6 @@ _Last updated: 2026-02-26 14:59 CST_
 | 2026-02-26 | twilio | [Business Intelligence Analyst 3](https://job-boards.greenhouse.io/twilio/jobs/7292353) | Remote - Colombia | greenhouse |
 | 2026-02-26 | twilio | [Staff Machine Learning Engineer (L4)](https://job-boards.greenhouse.io/twilio/jobs/7520997) | Remote - India | greenhouse |
 | 2026-02-26 | point72 | [Machine Learning Engineer, Genai Technology](https://boards.greenhouse.io/point72/jobs/8392982002?gh_jid=8392982002) | New York, NY | greenhouse |
-| 2026-02-26 | block | [Staff Machine Learning Engineer (Modeling), Credit](http://block.xyz/careers/jobs/5112981008?gh_jid=5112981008) | Bay Area, CA, United States of America | greenhouse |
 | 2026-02-26 | reach | [Director of Data & Analytics Engineering](https://job-boards.greenhouse.io/reach/jobs/8438437002) | Remote (US or Canada) | greenhouse |
 | 2026-02-26 | 6sense | [VP, Product Management - Artificial Intelligence Experiences](https://boards.greenhouse.io/6sense/jobs/7206014?gh_jid=7206014) | United States, Remote | greenhouse |
 | 2026-02-26 | 6sense | [Sr. Analytics Engineer](https://boards.greenhouse.io/6sense/jobs/7553190?gh_jid=7553190) | Austin, Texas, United States | greenhouse |
@@ -24,9 +24,7 @@ _Last updated: 2026-02-26 14:59 CST_
 | 2026-02-26 | dropbox | [Senior Data Science Manager, AI Products](https://jobs.dropbox.com/listing/7512377?gh_jid=7512377) | Remote - Canada: Select locations | greenhouse |
 | 2026-02-26 | dropbox | [Senior Data Science Manager, AI Products](https://jobs.dropbox.com/listing/7512374?gh_jid=7512374) | Remote - US: Select locations | greenhouse |
 | 2026-02-26 | anthropic | [Manager, Applied AI Engineering, Life Sciences (Beneficial Deployments)](https://job-boards.greenhouse.io/anthropic/jobs/5132578008) | San Francisco, CA \| New York City, NY | greenhouse |
-| 2026-02-25 | block | [Staff Machine Learning Engineer (Modeling), Support](http://block.xyz/careers/jobs/5131895008?gh_jid=5131895008) | San Francisco, CA, United States of America | greenhouse |
 | 2026-02-25 | iherb | [Master Data Analyst II](https://job-boards.greenhouse.io/iherb/jobs/7628605003) | United States of America - Irvine, California | greenhouse |
-| 2026-02-25 | block | [Staff Data Engineer, Compliance Engineering & Technology](http://block.xyz/careers/jobs/4908003008?gh_jid=4908003008) | Bay Area, CA, United States of America | greenhouse |
 | 2026-02-25 | bandwidth | [AI Engineer, Research & Development](https://job-boards.greenhouse.io/bandwidth/jobs/7362388) | Raleigh, NC | greenhouse |
 | 2026-02-25 | bandwidth | [Senior Analytics Engineer](https://job-boards.greenhouse.io/bandwidth/jobs/7583357) | Raleigh, NC | greenhouse |
 | 2026-02-25 | opendoor | [Agentic Analytics Engineer](https://www.opendoor.com/careers/open-positions?gh_jid=4653291006) | Seattle, Washington, United States | greenhouse |
@@ -83,9 +81,6 @@ _Last updated: 2026-02-26 14:59 CST_
 | 2026-02-25 | fourkites | [Staff Software Engineer - Backend & Data Engineering](https://job-boards.greenhouse.io/fourkites/jobs/7369410) | Chennai or Remote, India | greenhouse |
 | 2026-02-25 | anthropic | [Analytics Data Engineering Manager, Product](https://job-boards.greenhouse.io/anthropic/jobs/5125387008) | San Francisco, CA \| New York City, NY \| Seattle, WA | greenhouse |
 | 2026-02-25 | klaviyo | [Senior Analytics Engineer, Sales Analytics (GTM Data Engineering)](https://www.klaviyo.com/careers/jobs?gh_jid=7643039003) | Boston, MA | greenhouse |
-| 2026-02-25 | block | [Senior Data Scientist, Identity](http://block.xyz/careers/jobs/5081986008?gh_jid=5081986008) | Bay Area, CA, United States of America | greenhouse |
-| 2026-02-25 | block | [Sr. Banking Data Analyst](http://block.xyz/careers/jobs/5095834008?gh_jid=5095834008) | New York, NY, United States of America | greenhouse |
-| 2026-02-24 | block | [Data Scientist - Model Strategy Management](http://block.xyz/careers/jobs/4963850008?gh_jid=4963850008) | Bay Area, CA, United States of America | greenhouse |
 | 2026-02-24 | coalition | [Senior Data Analyst](https://www.coalitioninc.com/job-posting?gh_jid=4665759005) | Any location, United States | greenhouse |
 | 2026-02-24 | coalition | [Applied Scientist II](https://www.coalitioninc.com/job-posting?gh_jid=4665762005) | Any location, United States | greenhouse |
 | 2026-02-24 | zoox | [Senior Data Scientist - Data for Perception Machine Learning](https://jobs.lever.co/zoox/8664c340-71df-4803-a91e-c2d3d289f019) | Boston, MA | lever |
@@ -104,14 +99,12 @@ _Last updated: 2026-02-26 14:59 CST_
 | 2026-02-24 | anthropic | [Offensive Security Research Engineer, Safeguards](https://job-boards.greenhouse.io/anthropic/jobs/5123011008) | San Francisco, CA | greenhouse |
 | 2026-02-24 | opendoor | [Data Scientist](https://www.opendoor.com/careers/open-positions?gh_jid=4653303006) | Seattle, Washington, United States | greenhouse |
 | 2026-02-23 | otter.ai | [Machine Learning Engineer](https://otter.ai/careers?gh_jid=7634875003) | Mountain View, CA | greenhouse |
-| 2026-02-23 | coinbase | [Senior Analytics Engineer](https://www.coinbase.com/careers/positions/7532597?gh_jid=7532597) | Remote - USA | greenhouse |
-| 2026-02-23 | instacart | [Senior Machine Learning Engineer II, Economist](https://instacart.careers/job/?gh_jid=7647987) | United States - Remote | greenhouse |
 | — | redhat | [Artificial intelligence](https://jobs.redhat.com/en/hybrid-cloud-solutions/ai) | — | webscrape |
 | — | canonical | [MLOps Scalable machine learning solutions](https://careers.canonical.com/mlops) | — | webscrape |
 | — | canonical | [Kubeflow Machine learning toolkit for K8s](https://careers.canonical.com/mlops/kubeflow/what-is-kubeflow) | — | webscrape |
 | — | meta | [Software Engineer, Machine Learning Sunnyvale, CA + 16 locations](https://www.metacareers.com/profile/job_details/1436181490732782/) | — | webscrape |
-| — | facebook | [Software Engineer, Machine Learning Sunnyvale, CA + 16 locations](https://www.metacareers.com/profile/job_details/1436181490732782/) | — | webscrape |
 | — | front | [AI Engineering Manager (Core AI Platform) San Francisco, CA](https://jobs.ashbyhq.com/frontcareers/071af87c-644e-4677-b4f8-ce0646ccc608) | — | webscrape |
+| — | facebook | [Software Engineer, Machine Learning Sunnyvale, CA + 16 locations](https://www.metacareers.com/profile/job_details/1436181490732782/) | — | webscrape |
 | — | superhuman | [Applied Research Scientist Germany; Hybrid](https://job-boards.greenhouse.io/grammarly/jobs/7340727) | — | webscrape |
 | — | superhuman | [Data Scientist San Francisco; Hybrid](https://job-boards.greenhouse.io/grammarly/jobs/6458934) | — | webscrape |
 | — | superhuman | [Machine Learning Engineer, Agents San Francisco; Hybrid](https://job-boards.greenhouse.io/grammarly/jobs/6392339) | — | webscrape |
@@ -173,11 +166,12 @@ _Last updated: 2026-02-26 14:59 CST_
 | — | shift technology | [Data Scientist Japan - Tokyo](https://job-boards.greenhouse.io/shifttechnology/jobs/6343856003) | — | webscrape |
 | — | shift technology | [Data Scientist: France France - Paris](https://job-boards.greenhouse.io/shifttechnology/jobs/6141907003) | — | webscrape |
 | — | shift technology | [Graduate Data Scientist United Kingdom - London](https://job-boards.greenhouse.io/shifttechnology/jobs/5910904003) | — | webscrape |
-| — | shift technology | [Artificial Intelligence Researcher New France - Paris](https://job-boards.greenhouse.io/shifttechnology/jobs/7642717003) | — | webscrape |
+| — | shift technology | [Artificial Intelligence Researcher tags.new France - Paris](https://job-boards.greenhouse.io/shifttechnology/jobs/7642717003) | — | webscrape |
 | — | farfetch | [Data Scientist (Search & Rankings) Hybrid — Permanent Porto](https://jobs.lever.co/farfetch/75bfd9eb-2ab6-42a2-8e12-c7906dff0e17) | — | webscrape |
 | — | farfetch | [Machine Learning Engineer, Search and Ranking Systems Hybrid — Permanent Porto](https://jobs.lever.co/farfetch/580adb2d-8a20-476e-a2cd-f8112e6de7fb) | — | webscrape |
 | — | farfetch | [Senior Data Engineer Hybrid — Full-time Porto](https://jobs.lever.co/farfetch/8b38d364-9dec-4bb6-a6ed-bd3b8f01e491) | — | webscrape |
 | — | farfetch | [Senior Data Scientist Hybrid — Full-time Porto](https://jobs.lever.co/farfetch/a242baa0-9706-42ba-ae3c-f01f830d81d7) | — | webscrape |
+| — | nordstrom | [Senior Data Analyst- Supply Chain Finance (Hybrid- Seattle, WA)](https://careers.nordstrom.com/senior-data-analyst-supply-chain-finance-hybrid-seattle-wa/job/C7BFC75B61BB0418914A8753A938C89C) | — | webscrape |
 | — | marley spoon | [Data Scientist Digital Product Management · Lisbon Office · Hybrid](https://apply.marleyspoon.com/jobs/7077066-data-scientist) | — | webscrape |
 | — | marley spoon | [Lead Data Scientist Digital Product Management · Lisbon Office · Hybrid](https://apply.marleyspoon.com/jobs/7077014-lead-data-scientist) | — | webscrape |
 | — | marley spoon | [Data Analyst Digital Product Management · Lisbon Office · Fully Remote](https://apply.marleyspoon.com/jobs/6918059-data-analyst) | — | webscrape |
@@ -196,7 +190,7 @@ _Last updated: 2026-02-26 14:59 CST_
 | — | intuit | [Get to know our data engineer and software engineers at Intuit](https://jobs.intuit.com/blog-innovative-thinking-data-analyst-vs-data-engineer) | — | webscrape |
 | — | intuit | [How to Learn AI: A Beginner's Guide to Artificial Intelligence at Intuit](https://jobs.intuit.com/blog-innovative-thinking-how-to-learn-artificial-intelligence) | — | webscrape |
 | — | intuit | [Interview with an Intuit Principal Data Scientist](https://jobs.intuit.com/blog-innovative-thinking-what-is-a-data-scientist) | — | webscrape |
-| — | bpc | [DataVisor 28 jobs Computer & Network Security Security Datavisor is the world’s leading fraud and risk management platform that enables organizations to respond to fast-evolving fraud attacks and mitigate risks as they happen in real time. Its comprehensive solution suite combines patented machine learning technology with native device intelligence and a powerful decision engine to provide protection for the entire customer lifecycle across industries and use cases. Datavisor is recognized as an industry leader and has been adopted by many Fortune 500 companies across the globe.](https://jobs.bpc.com/companies/datavisor#content) | — | webscrape |
+| — | bpc | [DataVisor 29 jobs Computer & Network Security Security Datavisor is the world’s leading fraud and risk management platform that enables organizations to respond to fast-evolving fraud attacks and mitigate risks as they happen in real time. Its comprehensive solution suite combines patented machine learning technology with native device intelligence and a powerful decision engine to provide protection for the entire customer lifecycle across industries and use cases. Datavisor is recognized as an industry leader and has been adopted by many Fortune 500 companies across the globe.](https://jobs.bpc.com/companies/datavisor#content) | — | webscrape |
 | — | paddle | [Engineering Staff Data Scientist UK, Ireland, Netherlands, Portugal](https://jobs.ashbyhq.com/paddle/d37a46d0-03e6-4c8a-8bb9-fa93f7d18b0a) | — | webscrape |
 | — | flax | [2. Engineering: Lead ML Researcher / Applied Scientist](https://flax.ai/careers#job-2) | — | webscrape |
 | — | nosto | [Data Scientist](https://careers.nosto.com/jobs/6822515-data-scientist) | — | webscrape |
