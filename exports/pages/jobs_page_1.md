@@ -1,6 +1,6 @@
 # Jobs Feed (Page 1/1)
 
-_Last updated: 2026-02-27 03:03 CST_
+_Last updated: 2026-02-27 05:01 CST_
 
 | Posted | Company | Title | Location | Source |
 |---|---|---|---|---|
@@ -131,6 +131,7 @@ _Last updated: 2026-02-27 03:03 CST_
 | — | render | [Staff Data Scientist Remote: United States or Remote: Canada](https://jobs.ashbyhq.com/render/03cf5296-9e69-43c0-93a6-1b9836e9d2e3) | — | webscrape |
 | — | notion | [Data Engineer, Finance San Francisco, California](https://jobs.ashbyhq.com/notion/4d1bce46-3cb1-4a26-b6c6-ac9b02ee413d) | — | webscrape |
 | — | notion | [Data Engineer, Go-To-Market San Francisco, California](https://jobs.ashbyhq.com/notion/655b047b-5e58-4b0c-82f0-8c16b2c03318) | — | webscrape |
+| — | cloudsmith | [Caitriona McCaffrey Senior Data Engineer](https://careers.cloudsmith.com/en-GB/people/2769204-caitriona-mccaffrey) | — | webscrape |
 | — | ing | [Vincent - Data Analyst Data helps you make smarter decisions March 17, 2025 Article Expertise & Teams Homepage - Testimonials Employee Stories](https://careers.ing.com/en/be-story-vincent) | — | webscrape |
 | — | de shaw | [icon Human Capital Data Engineering and Reporting Analyst : The D. E. Shaw group seeks a talented data engineering and reporting analyst to join its Human Capital Analytics and Products (HCAP) team. Members of HCAP are curators of…](https://www.deshaw.com/careers/human-capital-data-engineering-and-reporting-analyst-5794) | — | webscrape |
 | — | de shaw | [icon Applied AI Engineer : The D. E. Shaw group seeks exceptional software engineers with expertise in applied AI, AI agents, and agentic systems to join the firm. This role offers the chance to work…](https://www.deshaw.com/careers/applied-ai-engineer-5375) | — | webscrape |
@@ -162,6 +163,7 @@ _Last updated: 2026-02-27 03:03 CST_
 | — | binance | [Binance Accelerator Program - Data Scientist, Risk (Machine Learning and Algorithms) Remote — Binance Accelerator Program Taiwan, Taipei / Australia, Brisbane / Australia, Melbourne / Australia, Sydney / New Zealand, Wellington / Philippines, Manila / South East Asia / Thailand, Bangkok / UAE, Abu Dhabi / UAE, Dubai / Vietnam, Ho Chi Minh / Asia](https://jobs.lever.co/binance/6af64497-cf43-4854-80f3-98434f12b9b7) | — | webscrape |
 | — | binance | [Binance Accelerator Program - Web3 AI Engineer（For blockchain student） Remote — Binance Accelerator Program Asia / Australia, Brisbane / Australia, Melbourne / Australia, Sydney / UAE, Dubai](https://jobs.lever.co/binance/69fac0bd-c8a0-4a75-aa70-fa3f13f46b67) | — | webscrape |
 | — | binance | [Binance Accelerator Programme - LLM Data Scientist Remote — Binance Accelerator Program Asia / Taiwan, Taipei](https://jobs.lever.co/binance/e21ea35c-3cb2-479e-9d74-c8149441d9fb) | — | webscrape |
+| — | binance | [Data Scientist (AI/Derivatives) - AI Financial Security System Program Remote — Binance Accelerator Program Asia / Australia, Brisbane / Australia, Melbourne / Australia, Sydney / Hong Kong / Taiwan, Taipei / New Zealand, Auckland / New Zealand, Wellington](https://jobs.lever.co/binance/68f354da-c4cd-49a8-b875-86ad23e88c44) | — | webscrape |
 | — | binance | [Data Scientist (LLM) - Content Search Remote — Full-time: Remote Taiwan, Taipei / Australia, Brisbane / Australia, Melbourne / Australia, Sydney / Hong Kong / New Zealand, Auckland / New Zealand, Wellington / Asia](https://jobs.lever.co/binance/4cdbf1d8-7025-48f7-8924-806629c2ea7a) | — | webscrape |
 | — | binance | [Data Scientist (Search & Recommendation) Hybrid — Full-time: Remote Asia / Taiwan, Taipei / Australia, Sydney / Ireland, Dublin / Thailand, Bangkok / Japan, Tokyo / Hong Kong](https://jobs.lever.co/binance/f38e2764-fd2f-4030-8a0c-cde213134027) | — | webscrape |
 | — | binance | [Data Scientist Lead - LLM (Chatbot) Hybrid — Taiwan, Taipei / Hong Kong / Asia](https://jobs.lever.co/binance/7960a41b-f1a9-443d-a1ed-3f2eb02c2901) | — | webscrape |
@@ -202,7 +204,6 @@ _Last updated: 2026-02-27 03:03 CST_
 | — | us mobile | [Senior AI Engineer - Voice Biometrics & Conversational AI Hybrid — Full-time Montreal / Toronto](https://jobs.lever.co/USMobile/fdd50e1b-d3af-4a50-a8d1-957dc1f8bcdd) | — | webscrape |
 | — | vonage | [Data Analyst (Media) Wrocław, Poland](https://job-boards.greenhouse.io/vonage/jobs/8195823002) | — | webscrape |
 | — | telnyx | [Senior Machine Learning Engineer (Speech Synthesis)](https://job-boards.greenhouse.io/telnyx54/jobs/7498103003) | — | webscrape |
-| — | comcast | [Data Analyst 3](https://jobs.comcast.com/job/chennai/data-analyst-3/45483/92186498880) | — | webscrape |
 | — | epicor | [Artificial Intelligence](https://jobs.epicor.com/en-us/solutions/technology/people-centric-ai/) | — | webscrape |
 | — | epicor | [Finance From accounting to business intelligence to operations, we’re looking for people with a passion for using their experience and data-driven skill sets to help Epicor grow, scale, and thrive in evolving markets.](https://epicorsoftware.wd5.myworkdayjobs.com/epicorjobs) | — | webscrape |
 | — | quinyx | [Machine Learning Engineer R&D · Amsterdam, Stockholm · Hybrid](https://careers.quinyx.com/jobs/7085160-machine-learning-engineer) | — | webscrape |
