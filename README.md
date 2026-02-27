@@ -1,10 +1,11 @@
 ## Jobs Feed (auto-updated)
 
 <!-- JOBS:START -->
-_Last updated: 2026-02-26 19:40 CST_
+_Last updated: 2026-02-26 22:36 CST_
 
 | Posted | Company | Title | Location | Source |
 |---|---|---|---|---|
+| 2026-02-27 | apollo.io | [Senior AI Engineer](https://job-boards.greenhouse.io/apolloio/jobs/5787007004) | Remote, India | greenhouse |
 | 2026-02-27 | coinbase | [Data Scientist II - Consumer](https://www.coinbase.com/careers/positions/7583657?gh_jid=7583657) | Remote - USA | greenhouse |
 | 2026-02-27 | coinbase | [Data Scientist II - Institutional](https://www.coinbase.com/careers/positions/7583647?gh_jid=7583647) | Remote - USA | greenhouse |
 | 2026-02-27 | coinbase | [Data Scientist II - Platform](https://www.coinbase.com/careers/positions/6679661?gh_jid=6679661) | Remote - USA | greenhouse |
@@ -144,6 +145,7 @@ _Last updated: 2026-02-26 19:40 CST_
 | — | binance | [Business Intelligence/ Data Analyst Remote — Asia / Hong Kong / Taiwan, Taipei](https://jobs.lever.co/binance/2f0cebcd-c4fc-4e43-8766-8e6e0249899c) | — | webscrape |
 | — | binance | [Business Intelligence/ Data Analyst (MENA Region) Remote — Full-time: Remote UAE, Dubai / UAE, Abu Dhabi](https://jobs.lever.co/binance/37fdf694-28ee-44f4-bd8a-83b8e20d46ed) | — | webscrape |
 | — | binance | [Data Analyst - Financial/ Derivatives Remote — Full-time: Remote Hong Kong / Taiwan, Taipei / Asia / Australia, Brisbane / Australia, Melbourne / Australia, Sydney](https://jobs.lever.co/binance/841124c2-2090-4e3d-8038-2b82d053b6f3) | — | webscrape |
+| — | binance | [Data Analyst (Earn) Remote — Asia / Hong Kong / Taiwan, Taipei](https://jobs.lever.co/binance/b658c9f3-2980-4e6a-b0ae-e0b5885f29dc) | — | webscrape |
 | — | binance | [Data Analyst (Institution) Remote — Asia / Hong Kong / Taiwan, Taipei](https://jobs.lever.co/binance/1d5900fb-b9b3-4bce-ab3d-e33d2a24ccdb) | — | webscrape |
 | — | binance | [Data Analyst (LATAM) Remote — Latin America / Europe](https://jobs.lever.co/binance/36ce1796-f0ef-414c-b761-a77b30dabb10) | — | webscrape |
 | — | binance | [Data Analytics Manager (Compliance/ Risk/ KYC/ KYB) Remote — Full-time: Remote Asia / Taiwan, Taipei / UAE, Dubai](https://jobs.lever.co/binance/1346b066-21b3-45a3-929d-2f3fb69d473c) | — | webscrape |
@@ -175,6 +177,9 @@ _Last updated: 2026-02-26 19:40 CST_
 | — | binance | [Senior Data Scientist (Content Understanding, NLP) Hybrid — Full-time: Remote Asia / Taiwan, Taipei / Australia, Brisbane / Australia, Melbourne / Australia, Sydney / Hong Kong / UAE, Dubai](https://jobs.lever.co/binance/f998eb30-2f2b-4220-97db-767af8fcd4b4) | — | webscrape |
 | — | binance | [Quantitative Researcher Remote — Asia / Taiwan, Taipei / South East Asia / UAE, Dubai / Eastern Europe](https://jobs.lever.co/binance/a13367b2-8bd9-41e1-878f-478cd1539354) | — | webscrape |
 | — | binance | [Binance Accelerator Program - Quantitative Researcher Remote — Full-time Onsite or Remote Asia / UAE, Dubai](https://jobs.lever.co/binance/dc610d23-6478-4c86-b1ce-c04fc469d9b3) | — | webscrape |
+| — | optiver | [Senior Data Scientist](https://optiver.com/working-at-optiver/career-opportunities/8415358002/) | — | webscrape |
+| — | optiver | [Senior Data Engineer](https://optiver.com/working-at-optiver/career-opportunities/8223372002/) | — | webscrape |
+| — | optiver | [Graduate Data Scientist](https://optiver.com/working-at-optiver/career-opportunities/8286430002/) | — | webscrape |
 | — | keystone | [Applied Deep Learning Research Scientist Boston Apply](https://www.keystone.com/careers) | — | webscrape |
 | — | solana | [Machine Learning Engineer](https://jobs.solana.com/companies/coinflow-labs/jobs/68772349-machine-learning-engineer#content) | — | webscrape |
 | — | solana | [Read more about Machine Learning Engineer at Coinflow Labs](https://jobs.solana.com/companies/coinflow-labs/jobs/68772349-machine-learning-engineer#content) | — | webscrape |
