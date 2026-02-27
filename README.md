@@ -1,7 +1,7 @@
 ## Jobs Feed (auto-updated)
 
 <!-- JOBS:START -->
-_Last updated: 2026-02-27 07:07 CST_
+_Last updated: 2026-02-27 08:19 CST_
 
 | Posted | Company | Title | Location | Source |
 |---|---|---|---|---|
@@ -119,21 +119,20 @@ _Last updated: 2026-02-27 07:07 CST_
 | 2026-02-24 | deepmind | [Research Engineer, Multimodal Generative AI (Image/Video)](https://job-boards.greenhouse.io/deepmind/jobs/7339604) | Kirkland, Washington, US; Seattle, Washington, US | greenhouse |
 | 2026-02-24 | insurify | [Business Data Analyst](https://job-boards.greenhouse.io/insurify/jobs/5743828004) | Cambridge, MA - Hybrid | greenhouse |
 | — | redhat | [Artificial intelligence](https://jobs.redhat.com/en/hybrid-cloud-solutions/ai) | — | webscrape |
+| — | meta | [Software Engineer, Machine Learning Sunnyvale, CA + 16 locations](https://www.metacareers.com/profile/job_details/1436181490732782/) | — | webscrape |
 | — | canonical | [MLOps Scalable machine learning solutions](https://careers.canonical.com/mlops) | — | webscrape |
 | — | canonical | [Kubeflow Machine learning toolkit for K8s](https://careers.canonical.com/mlops/kubeflow/what-is-kubeflow) | — | webscrape |
-| — | meta | [Software Engineer, Machine Learning Sunnyvale, CA + 16 locations](https://www.metacareers.com/profile/job_details/1436181490732782/) | — | webscrape |
-| — | facebook | [Software Engineer, Machine Learning Sunnyvale, CA + 16 locations](https://www.metacareers.com/profile/job_details/1436181490732782/) | — | webscrape |
 | — | front | [AI Engineering Manager (Core AI Platform) San Francisco, CA](https://jobs.ashbyhq.com/frontcareers/071af87c-644e-4677-b4f8-ce0646ccc608) | — | webscrape |
 | — | superhuman | [Applied Research Scientist Germany; Hybrid](https://job-boards.greenhouse.io/grammarly/jobs/7340727) | — | webscrape |
 | — | superhuman | [Data Scientist San Francisco; Hybrid](https://job-boards.greenhouse.io/grammarly/jobs/6458934) | — | webscrape |
 | — | superhuman | [Machine Learning Engineer, Agents San Francisco; Hybrid](https://job-boards.greenhouse.io/grammarly/jobs/6392339) | — | webscrape |
 | — | superhuman | [Software Engineer, Data Engineering San Francisco; Hybrid](https://job-boards.greenhouse.io/grammarly/jobs/6259939) | — | webscrape |
 | — | superhuman | [Software Engineer, Data Engineering New York City; Hybrid](https://job-boards.greenhouse.io/grammarly/jobs/7336882) | — | webscrape |
+| — | facebook | [Software Engineer, Machine Learning Sunnyvale, CA + 16 locations](https://www.metacareers.com/profile/job_details/1436181490732782/) | — | webscrape |
 | — | render | [Staff Data Scientist Remote: United States or Remote: Canada](https://jobs.ashbyhq.com/render/03cf5296-9e69-43c0-93a6-1b9836e9d2e3) | — | webscrape |
 | — | notion | [Data Engineer, Finance San Francisco, California](https://jobs.ashbyhq.com/notion/4d1bce46-3cb1-4a26-b6c6-ac9b02ee413d) | — | webscrape |
 | — | notion | [Data Engineer, Go-To-Market San Francisco, California](https://jobs.ashbyhq.com/notion/655b047b-5e58-4b0c-82f0-8c16b2c03318) | — | webscrape |
-| — | cloudsmith | [Caitriona McCaffrey Senior Data Engineer](https://careers.cloudsmith.com/en-GB/people/2769204-caitriona-mccaffrey) | — | webscrape |
-| — | ing | [Vincent - Data Analyst Data helps you make smarter decisions March 17, 2025 Article Expertise & Teams Homepage - Testimonials Employee Stories](https://careers.ing.com/en/be-story-vincent) | — | webscrape |
+| — | ing | [Vincent - Data Analyst Data helps you make smarter decisions 三月 17, 2025 Article Expertise & Teams Homepage - Testimonials Employee Stories](https://careers.ing.com/en/be-story-vincent) | — | webscrape |
 | — | de shaw | [icon Human Capital Data Engineering and Reporting Analyst : The D. E. Shaw group seeks a talented data engineering and reporting analyst to join its Human Capital Analytics and Products (HCAP) team. Members of HCAP are curators of…](https://www.deshaw.com/careers/human-capital-data-engineering-and-reporting-analyst-5794) | — | webscrape |
 | — | de shaw | [icon Applied AI Engineer : The D. E. Shaw group seeks exceptional software engineers with expertise in applied AI, AI agents, and agentic systems to join the firm. This role offers the chance to work…](https://www.deshaw.com/careers/applied-ai-engineer-5375) | — | webscrape |
 | — | de shaw | [icon Machine Learning Researcher : The D. E. Shaw group seeks a machine learning researcher to creatively apply their knowledge of ML and software engineering to design and build computational architectures for…](https://www.deshaw.com/careers/machine-learning-researcher-4954) | — | webscrape |
