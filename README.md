@@ -1,10 +1,35 @@
 ## Jobs Feed (auto-updated)
 
 <!-- JOBS:START -->
-_Last updated: 2026-02-26 16:56 CST_
+_Last updated: 2026-02-26 19:40 CST_
 
 | Posted | Company | Title | Location | Source |
 |---|---|---|---|---|
+| 2026-02-27 | coinbase | [Data Scientist II - Consumer](https://www.coinbase.com/careers/positions/7583657?gh_jid=7583657) | Remote - USA | greenhouse |
+| 2026-02-27 | coinbase | [Data Scientist II - Institutional](https://www.coinbase.com/careers/positions/7583647?gh_jid=7583647) | Remote - USA | greenhouse |
+| 2026-02-27 | coinbase | [Data Scientist II - Platform](https://www.coinbase.com/careers/positions/6679661?gh_jid=6679661) | Remote - USA | greenhouse |
+| 2026-02-27 | coinbase | [Data Scientist II - Product Analytics](https://www.coinbase.com/careers/positions/7644362?gh_jid=7644362) | Remote - UK | greenhouse |
+| 2026-02-27 | coinbase | [Senior Analytics Engineer](https://www.coinbase.com/careers/positions/7532597?gh_jid=7532597) | Remote - USA | greenhouse |
+| 2026-02-27 | coinbase | [Senior Applied Scientist - Pricing](https://www.coinbase.com/careers/positions/7580544?gh_jid=7580544) | Remote - USA | greenhouse |
+| 2026-02-27 | coinbase | [Senior Data Scientist - Consumer](https://www.coinbase.com/careers/positions/7583593?gh_jid=7583593) | Remote - USA | greenhouse |
+| 2026-02-27 | coinbase | [Senior Data Scientist - Developer](https://www.coinbase.com/careers/positions/7583653?gh_jid=7583653) | Remote - USA | greenhouse |
+| 2026-02-27 | coinbase | [Senior Data Scientist - Platform](https://www.coinbase.com/careers/positions/6969295?gh_jid=6969295) | Remote - USA | greenhouse |
+| 2026-02-27 | coinbase | [Senior Machine Learning Engineering Manager - Risk and Fraud](https://www.coinbase.com/careers/positions/7357865?gh_jid=7357865) | Remote - USA | greenhouse |
+| 2026-02-27 | coinbase | [Senior Machine Learning Platform Engineer (Platform)](https://www.coinbase.com/careers/positions/7604203?gh_jid=7604203) | Remote - USA | greenhouse |
+| 2026-02-27 | coinbase | [Staff Analytics Engineer](https://www.coinbase.com/careers/positions/7060033?gh_jid=7060033) | Remote - USA | greenhouse |
+| 2026-02-27 | coinbase | [Staff Applied Scientist - Causal Inference](https://www.coinbase.com/careers/positions/5670626?gh_jid=5670626) | Remote - USA | greenhouse |
+| 2026-02-27 | coinbase | [Staff Data Scientist - Base](https://www.coinbase.com/careers/positions/7580255?gh_jid=7580255) | Remote - USA | greenhouse |
+| 2026-02-27 | coinbase | [Staff Machine Learning Engineer - Platform (Core Automation)](https://www.coinbase.com/careers/positions/7648987?gh_jid=7648987) | Remote - USA | greenhouse |
+| 2026-02-27 | crunchyroll | [Data Engineer III](https://boards.greenhouse.io/crunchyroll/jobs/7568347?gh_jid=7568347) | Los Angeles, California, United States; San Francisco, CA, United States | greenhouse |
+| 2026-02-27 | klaviyo | [Senior Software Engineer - Analytics Data Engineering](https://www.klaviyo.com/careers/jobs?gh_jid=7564587003) | Boston, MA | greenhouse |
+| 2026-02-27 | klaviyo | [Senior AI Engineer](https://www.klaviyo.com/careers/jobs?gh_jid=7502768003) | Boston, MA | greenhouse |
+| 2026-02-26 | opendoor | [Agentic Analytics Engineer](https://www.opendoor.com/careers/open-positions?gh_jid=4653291006) | Seattle, Washington, United States | greenhouse |
+| 2026-02-26 | opendoor | [Data Scientist](https://www.opendoor.com/careers/open-positions?gh_jid=4653303006) | Seattle, Washington, United States | greenhouse |
+| 2026-02-26 | opendoor | [Research Scientist](https://www.opendoor.com/careers/open-positions?gh_jid=4610030006) | Seattle, Washington, United States | greenhouse |
+| 2026-02-26 | opendoor | [Software Engineer, MLOps - Pricing](https://www.opendoor.com/careers/open-positions?gh_jid=4648098006) | Seattle, Washington, United States | greenhouse |
+| 2026-02-26 | waymo | [Senior Machine Learning Engineer, Sensor Validation](https://careers.withwaymo.com/jobs?gh_jid=7454241) | Mountain View, CA, USA; San Francisco, CA, USA; Kirkland, WA, USA | greenhouse |
+| 2026-02-26 | apollo.io | [Senior Data Scientist - Product](https://job-boards.greenhouse.io/apolloio/jobs/5813870004) | Remote, United States | greenhouse |
+| 2026-02-26 | imc | [Machine Learning Research Lead](https://job-boards.eu.greenhouse.io/imc/jobs/4573906101) | Chicago, United States; New York, United States | greenhouse |
 | 2026-02-26 | anthropic | [Data Scientist](https://job-boards.greenhouse.io/anthropic/jobs/5098499008) | San Francisco, CA \| New York City, NY | greenhouse |
 | 2026-02-26 | webflow | [Senior Data Scientist](https://job-boards.greenhouse.io/webflow/jobs/7550682) | CA Remote (BC & ON only); U.S. Remote | greenhouse |
 | 2026-02-26 | gusto | [Principal Data Scientist – Product](https://job-boards.greenhouse.io/gusto/jobs/6356147) | Denver, CO;San Francisco, CA;New York, NY;Los Angeles, CA;Seattle, WA;Toronto, Ontario, CAN - Remote | greenhouse |
@@ -19,7 +44,6 @@ _Last updated: 2026-02-26 16:56 CST_
 | 2026-02-26 | reach | [Director of Data & Analytics Engineering](https://job-boards.greenhouse.io/reach/jobs/8438437002) | Remote (US or Canada) | greenhouse |
 | 2026-02-26 | 6sense | [VP, Product Management - Artificial Intelligence Experiences](https://boards.greenhouse.io/6sense/jobs/7206014?gh_jid=7206014) | United States, Remote | greenhouse |
 | 2026-02-26 | 6sense | [Sr. Analytics Engineer](https://boards.greenhouse.io/6sense/jobs/7553190?gh_jid=7553190) | Austin, Texas, United States | greenhouse |
-| 2026-02-26 | coinbase | [Staff Machine Learning Engineer - Platform (Core Automation)](https://www.coinbase.com/careers/positions/7648987?gh_jid=7648987) | Remote - USA | greenhouse |
 | 2026-02-26 | okx | [Principal Data Scientist, Risk](https://job-boards.greenhouse.io/okx/jobs/7612307003) | San Jose, California, United States | greenhouse |
 | 2026-02-26 | okx | [Sr/Principal Data Scientist, Risk Strategy](https://job-boards.greenhouse.io/okx/jobs/7552740003) | San Jose, California, United States | greenhouse |
 | 2026-02-26 | dropbox | [Senior Data Science Manager, AI Products](https://jobs.dropbox.com/listing/7512377?gh_jid=7512377) | Remote - Canada: Select locations | greenhouse |
@@ -28,7 +52,6 @@ _Last updated: 2026-02-26 16:56 CST_
 | 2026-02-25 | iherb | [Master Data Analyst II](https://job-boards.greenhouse.io/iherb/jobs/7628605003) | United States of America - Irvine, California | greenhouse |
 | 2026-02-25 | bandwidth | [AI Engineer, Research & Development](https://job-boards.greenhouse.io/bandwidth/jobs/7362388) | Raleigh, NC | greenhouse |
 | 2026-02-25 | bandwidth | [Senior Analytics Engineer](https://job-boards.greenhouse.io/bandwidth/jobs/7583357) | Raleigh, NC | greenhouse |
-| 2026-02-25 | opendoor | [Agentic Analytics Engineer](https://www.opendoor.com/careers/open-positions?gh_jid=4653291006) | Seattle, Washington, United States | greenhouse |
 | 2026-02-25 | pinterest | [Staff Data Engineer, tvScientific](https://www.pinterestcareers.com/jobs/?gh_jid=7642253) | San Francisco, CA, US; Remote, US | greenhouse |
 | 2026-02-25 | pinterest | [Staff Data Engineer, tvScientific](https://www.pinterestcareers.com/jobs/?gh_jid=7642270) | San Francisco, CA, US; Remote, US | greenhouse |
 | 2026-02-25 | pinterest | [Sr. Machine Learning Engineer, tvScientific](https://www.pinterestcareers.com/jobs/?gh_jid=7642268) | San Francisco, CA, US; Remote, US | greenhouse |
@@ -64,7 +87,6 @@ _Last updated: 2026-02-26 16:56 CST_
 | 2026-02-25 | coalition | [Staff Data Scientist, Insurance](https://www.coalitioninc.com/job-posting?gh_jid=4665930005) | Any location, United States | greenhouse |
 | 2026-02-25 | instacart | [Senior Machine Learning Engineer II, Search & Personalization](https://instacart.careers/job/?gh_jid=6716788) | Canada - Remote (AB, BC, ON, NS ONLY) | greenhouse |
 | 2026-02-25 | databricks | [AI Engineer - FDE (Forward Deployed Engineer)](https://databricks.com/company/careers/open-positions/job?gh_jid=8099751002) | Remote - India | greenhouse |
-| 2026-02-25 | imc | [Machine Learning Research Lead](https://job-boards.eu.greenhouse.io/imc/jobs/4573906101) | Chicago, United States; New York, United States | greenhouse |
 | 2026-02-25 | waymo | [Senior Applied Research Scientist, Perception](https://careers.withwaymo.com/jobs?gh_jid=7469421) | Mountain View, CA USA;  San Francisco, CA USA; | greenhouse |
 | 2026-02-25 | coalition | [Data Engineer, Security](https://www.coalitioninc.com/job-posting?gh_jid=4665927005) | Any location, United States | greenhouse |
 | 2026-02-25 | imc | [Compliance Data Analyst](https://job-boards.eu.greenhouse.io/imc/jobs/4749997101) | Chicago, United States | greenhouse |
@@ -95,17 +117,14 @@ _Last updated: 2026-02-26 16:56 CST_
 | 2026-02-24 | jane street | [Data Engineer](https://job-boards.greenhouse.io/janestreet/jobs/6558007002) | New York, New York, United States | greenhouse |
 | 2026-02-24 | deepmind | [Research Engineer, Multimodal Generative AI (Image/Video)](https://job-boards.greenhouse.io/deepmind/jobs/7339604) | Kirkland, Washington, US; Seattle, Washington, US | greenhouse |
 | 2026-02-24 | insurify | [Business Data Analyst](https://job-boards.greenhouse.io/insurify/jobs/5743828004) | Cambridge, MA - Hybrid | greenhouse |
-| 2026-02-24 | coinbase | [Data Scientist II - Product Analytics](https://www.coinbase.com/careers/positions/7644362?gh_jid=7644362) | Remote - UK | greenhouse |
 | 2026-02-24 | druva | [Business Intelligence Manager, GTM](https://www.druva.com/about/careers/jobs/8352124002/?gh_jid=8352124002) | Santa Clara, CA | greenhouse |
 | 2026-02-24 | anthropic | [Offensive Security Research Engineer, Safeguards](https://job-boards.greenhouse.io/anthropic/jobs/5123011008) | San Francisco, CA | greenhouse |
-| 2026-02-24 | opendoor | [Data Scientist](https://www.opendoor.com/careers/open-positions?gh_jid=4653303006) | Seattle, Washington, United States | greenhouse |
-| 2026-02-23 | otter.ai | [Machine Learning Engineer](https://otter.ai/careers?gh_jid=7634875003) | Mountain View, CA | greenhouse |
 | — | redhat | [Artificial intelligence](https://jobs.redhat.com/en/hybrid-cloud-solutions/ai) | — | webscrape |
 | — | canonical | [MLOps Scalable machine learning solutions](https://careers.canonical.com/mlops) | — | webscrape |
 | — | canonical | [Kubeflow Machine learning toolkit for K8s](https://careers.canonical.com/mlops/kubeflow/what-is-kubeflow) | — | webscrape |
 | — | meta | [Software Engineer, Machine Learning Sunnyvale, CA + 16 locations](https://www.metacareers.com/profile/job_details/1436181490732782/) | — | webscrape |
-| — | front | [AI Engineering Manager (Core AI Platform) San Francisco, CA](https://jobs.ashbyhq.com/frontcareers/071af87c-644e-4677-b4f8-ce0646ccc608) | — | webscrape |
 | — | facebook | [Software Engineer, Machine Learning Sunnyvale, CA + 16 locations](https://www.metacareers.com/profile/job_details/1436181490732782/) | — | webscrape |
+| — | front | [AI Engineering Manager (Core AI Platform) San Francisco, CA](https://jobs.ashbyhq.com/frontcareers/071af87c-644e-4677-b4f8-ce0646ccc608) | — | webscrape |
 | — | superhuman | [Applied Research Scientist Germany; Hybrid](https://job-boards.greenhouse.io/grammarly/jobs/7340727) | — | webscrape |
 | — | superhuman | [Data Scientist San Francisco; Hybrid](https://job-boards.greenhouse.io/grammarly/jobs/6458934) | — | webscrape |
 | — | superhuman | [Machine Learning Engineer, Agents San Francisco; Hybrid](https://job-boards.greenhouse.io/grammarly/jobs/6392339) | — | webscrape |
@@ -156,9 +175,6 @@ _Last updated: 2026-02-26 16:56 CST_
 | — | binance | [Senior Data Scientist (Content Understanding, NLP) Hybrid — Full-time: Remote Asia / Taiwan, Taipei / Australia, Brisbane / Australia, Melbourne / Australia, Sydney / Hong Kong / UAE, Dubai](https://jobs.lever.co/binance/f998eb30-2f2b-4220-97db-767af8fcd4b4) | — | webscrape |
 | — | binance | [Quantitative Researcher Remote — Asia / Taiwan, Taipei / South East Asia / UAE, Dubai / Eastern Europe](https://jobs.lever.co/binance/a13367b2-8bd9-41e1-878f-478cd1539354) | — | webscrape |
 | — | binance | [Binance Accelerator Program - Quantitative Researcher Remote — Full-time Onsite or Remote Asia / UAE, Dubai](https://jobs.lever.co/binance/dc610d23-6478-4c86-b1ce-c04fc469d9b3) | — | webscrape |
-| — | optiver | [Senior Data Scientist](https://optiver.com/working-at-optiver/career-opportunities/8415358002/) | — | webscrape |
-| — | optiver | [Senior Data Engineer](https://optiver.com/working-at-optiver/career-opportunities/8223372002/) | — | webscrape |
-| — | optiver | [Graduate Data Scientist](https://optiver.com/working-at-optiver/career-opportunities/8286430002/) | — | webscrape |
 | — | keystone | [Applied Deep Learning Research Scientist Boston Apply](https://www.keystone.com/careers) | — | webscrape |
 | — | solana | [Machine Learning Engineer](https://jobs.solana.com/companies/coinflow-labs/jobs/68772349-machine-learning-engineer#content) | — | webscrape |
 | — | solana | [Read more about Machine Learning Engineer at Coinflow Labs](https://jobs.solana.com/companies/coinflow-labs/jobs/68772349-machine-learning-engineer#content) | — | webscrape |
@@ -167,7 +183,7 @@ _Last updated: 2026-02-26 16:56 CST_
 | — | shift technology | [Data Scientist Japan - Tokyo](https://job-boards.greenhouse.io/shifttechnology/jobs/6343856003) | — | webscrape |
 | — | shift technology | [Data Scientist: France France - Paris](https://job-boards.greenhouse.io/shifttechnology/jobs/6141907003) | — | webscrape |
 | — | shift technology | [Graduate Data Scientist United Kingdom - London](https://job-boards.greenhouse.io/shifttechnology/jobs/5910904003) | — | webscrape |
-| — | shift technology | [Artificial Intelligence Researcher tags.new France - Paris](https://job-boards.greenhouse.io/shifttechnology/jobs/7642717003) | — | webscrape |
+| — | shift technology | [Artificial Intelligence Researcher New France - Paris](https://job-boards.greenhouse.io/shifttechnology/jobs/7642717003) | — | webscrape |
 | — | farfetch | [Data Scientist (Search & Rankings) Hybrid — Permanent Porto](https://jobs.lever.co/farfetch/75bfd9eb-2ab6-42a2-8e12-c7906dff0e17) | — | webscrape |
 | — | farfetch | [Machine Learning Engineer, Search and Ranking Systems Hybrid — Permanent Porto](https://jobs.lever.co/farfetch/580adb2d-8a20-476e-a2cd-f8112e6de7fb) | — | webscrape |
 | — | farfetch | [Senior Data Engineer Hybrid — Full-time Porto](https://jobs.lever.co/farfetch/8b38d364-9dec-4bb6-a6ed-bd3b8f01e491) | — | webscrape |
@@ -175,7 +191,6 @@ _Last updated: 2026-02-26 16:56 CST_
 | — | nordstrom | [Senior Data Analyst- Supply Chain Finance (Hybrid- Seattle, WA)](https://careers.nordstrom.com/senior-data-analyst-supply-chain-finance-hybrid-seattle-wa/job/C7BFC75B61BB0418914A8753A938C89C) | — | webscrape |
 | — | marley spoon | [Data Scientist Digital Product Management · Lisbon Office · Hybrid](https://apply.marleyspoon.com/jobs/7077066-data-scientist) | — | webscrape |
 | — | marley spoon | [Lead Data Scientist Digital Product Management · Lisbon Office · Hybrid](https://apply.marleyspoon.com/jobs/7077014-lead-data-scientist) | — | webscrape |
-| — | marley spoon | [Data Analyst Digital Product Management · Lisbon Office · Fully Remote](https://apply.marleyspoon.com/jobs/6918059-data-analyst) | — | webscrape |
 | — | philo | [Data Engineering Manager San Francisco, CA, Brooklyn, NY, Cambridge, MA or remote within the U.S. \| Engineering](https://job-boards.greenhouse.io/philo/jobs/7630991) | — | webscrape |
 | — | philo | [Sr. Machine Learning Engineer (Recommendation Systems) San Francisco, CA or remote within the U.S. \| Engineering](https://job-boards.greenhouse.io/philo/jobs/7259010) | — | webscrape |
 | — | bookbeat | [Data Engineer Developers · Stockholm](https://jobs.bookbeat.com/jobs/7145026-data-engineer) | — | webscrape |
