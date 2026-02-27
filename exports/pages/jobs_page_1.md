@@ -1,9 +1,22 @@
 # Jobs Feed (Page 1/1)
 
-_Last updated: 2026-02-27 01:13 CST_
+_Last updated: 2026-02-27 03:03 CST_
 
 | Posted | Company | Title | Location | Source |
 |---|---|---|---|---|
+| 2026-02-27 | imc | [Compliance Data Analyst](https://job-boards.eu.greenhouse.io/imc/jobs/4749997101) | Chicago, United States | greenhouse |
+| 2026-02-27 | imc | [Data Engineer](https://job-boards.eu.greenhouse.io/imc/jobs/4439297101) | Chicago, United States | greenhouse |
+| 2026-02-27 | imc | [Graduate Machine Learning Researcher](https://job-boards.eu.greenhouse.io/imc/jobs/4608585101) | Chicago, United States; New York, United States | greenhouse |
+| 2026-02-27 | imc | [Hardware Machine Learning Engineer](https://job-boards.eu.greenhouse.io/imc/jobs/4713602101) | Chicago, United States; New York, United States | greenhouse |
+| 2026-02-27 | imc | [Machine Learning Engineer](https://job-boards.eu.greenhouse.io/imc/jobs/4570309101) | Chicago, United States | greenhouse |
+| 2026-02-27 | imc | [Machine Learning Researcher](https://job-boards.eu.greenhouse.io/imc/jobs/4699252101) | Chicago, United States; New York, United States | greenhouse |
+| 2026-02-27 | imc | [Machine Learning Research Lead](https://job-boards.eu.greenhouse.io/imc/jobs/4573906101) | Chicago, United States; New York, United States | greenhouse |
+| 2026-02-27 | imc | [Principal Machine Learning Engineer](https://job-boards.eu.greenhouse.io/imc/jobs/4721116101) | Amsterdam, Netherlands; Chicago, United States; Hong Kong, Hong Kong; London, United Kingdom; New York, United States; Sydney,  Australia | greenhouse |
+| 2026-02-27 | imc | [Quantitative Researcher - Data Curation](https://job-boards.eu.greenhouse.io/imc/jobs/4660792101) | Chicago, United States | greenhouse |
+| 2026-02-27 | imc | [Quantitative Researcher – Equities](https://job-boards.eu.greenhouse.io/imc/jobs/4382558101) | New York, United States | greenhouse |
+| 2026-02-27 | imc | [Quantitative Researcher – Futures](https://job-boards.eu.greenhouse.io/imc/jobs/4740859101) | Chicago, United States; New York, United States | greenhouse |
+| 2026-02-27 | imc | [Quantitative Researcher - Options](https://job-boards.eu.greenhouse.io/imc/jobs/4286816101) | Chicago, United States | greenhouse |
+| 2026-02-27 | imc | [Research Engineer](https://job-boards.eu.greenhouse.io/imc/jobs/4653321101) | Chicago, United States; New York, United States | greenhouse |
 | 2026-02-27 | apollo.io | [Senior AI Engineer](https://job-boards.greenhouse.io/apolloio/jobs/5787007004) | Remote, India | greenhouse |
 | 2026-02-27 | coinbase | [Data Scientist II - Consumer](https://www.coinbase.com/careers/positions/7583657?gh_jid=7583657) | Remote - USA | greenhouse |
 | 2026-02-27 | coinbase | [Data Scientist II - Institutional](https://www.coinbase.com/careers/positions/7583647?gh_jid=7583647) | Remote - USA | greenhouse |
@@ -29,7 +42,6 @@ _Last updated: 2026-02-27 01:13 CST_
 | 2026-02-26 | opendoor | [Software Engineer, MLOps - Pricing](https://www.opendoor.com/careers/open-positions?gh_jid=4648098006) | Seattle, Washington, United States | greenhouse |
 | 2026-02-26 | waymo | [Senior Machine Learning Engineer, Sensor Validation](https://careers.withwaymo.com/jobs?gh_jid=7454241) | Mountain View, CA, USA; San Francisco, CA, USA; Kirkland, WA, USA | greenhouse |
 | 2026-02-26 | apollo.io | [Senior Data Scientist - Product](https://job-boards.greenhouse.io/apolloio/jobs/5813870004) | Remote, United States | greenhouse |
-| 2026-02-26 | imc | [Machine Learning Research Lead](https://job-boards.eu.greenhouse.io/imc/jobs/4573906101) | Chicago, United States; New York, United States | greenhouse |
 | 2026-02-26 | anthropic | [Data Scientist](https://job-boards.greenhouse.io/anthropic/jobs/5098499008) | San Francisco, CA \| New York City, NY | greenhouse |
 | 2026-02-26 | webflow | [Senior Data Scientist](https://job-boards.greenhouse.io/webflow/jobs/7550682) | CA Remote (BC & ON only); U.S. Remote | greenhouse |
 | 2026-02-26 | gusto | [Principal Data Scientist – Product](https://job-boards.greenhouse.io/gusto/jobs/6356147) | Denver, CO;San Francisco, CA;New York, NY;Los Angeles, CA;Seattle, WA;Toronto, Ontario, CAN - Remote | greenhouse |
@@ -89,18 +101,6 @@ _Last updated: 2026-02-27 01:13 CST_
 | 2026-02-25 | databricks | [AI Engineer - FDE (Forward Deployed Engineer)](https://databricks.com/company/careers/open-positions/job?gh_jid=8099751002) | Remote - India | greenhouse |
 | 2026-02-25 | waymo | [Senior Applied Research Scientist, Perception](https://careers.withwaymo.com/jobs?gh_jid=7469421) | Mountain View, CA USA;  San Francisco, CA USA; | greenhouse |
 | 2026-02-25 | coalition | [Data Engineer, Security](https://www.coalitioninc.com/job-posting?gh_jid=4665927005) | Any location, United States | greenhouse |
-| 2026-02-25 | imc | [Compliance Data Analyst](https://job-boards.eu.greenhouse.io/imc/jobs/4749997101) | Chicago, United States | greenhouse |
-| 2026-02-25 | imc | [Data Engineer](https://job-boards.eu.greenhouse.io/imc/jobs/4439297101) | Chicago, United States | greenhouse |
-| 2026-02-25 | imc | [Graduate Machine Learning Researcher](https://job-boards.eu.greenhouse.io/imc/jobs/4608585101) | Chicago, United States; New York, United States | greenhouse |
-| 2026-02-25 | imc | [Hardware Machine Learning Engineer](https://job-boards.eu.greenhouse.io/imc/jobs/4713602101) | Chicago, United States; New York, United States | greenhouse |
-| 2026-02-25 | imc | [Machine Learning Engineer](https://job-boards.eu.greenhouse.io/imc/jobs/4570309101) | Chicago, United States | greenhouse |
-| 2026-02-25 | imc | [Machine Learning Researcher](https://job-boards.eu.greenhouse.io/imc/jobs/4699252101) | Chicago, United States; New York, United States | greenhouse |
-| 2026-02-25 | imc | [Principal Machine Learning Engineer](https://job-boards.eu.greenhouse.io/imc/jobs/4721116101) | Amsterdam, Netherlands; Chicago, United States; Hong Kong, Hong Kong; London, United Kingdom; New York, United States; Sydney,  Australia | greenhouse |
-| 2026-02-25 | imc | [Quantitative Researcher - Data Curation](https://job-boards.eu.greenhouse.io/imc/jobs/4660792101) | Chicago, United States | greenhouse |
-| 2026-02-25 | imc | [Quantitative Researcher – Equities](https://job-boards.eu.greenhouse.io/imc/jobs/4382558101) | New York, United States | greenhouse |
-| 2026-02-25 | imc | [Quantitative Researcher – Futures](https://job-boards.eu.greenhouse.io/imc/jobs/4740859101) | Chicago, United States; New York, United States | greenhouse |
-| 2026-02-25 | imc | [Quantitative Researcher - Options](https://job-boards.eu.greenhouse.io/imc/jobs/4286816101) | Chicago, United States | greenhouse |
-| 2026-02-25 | imc | [Research Engineer](https://job-boards.eu.greenhouse.io/imc/jobs/4653321101) | Chicago, United States; New York, United States | greenhouse |
 | 2026-02-25 | fourkites | [Staff Software Engineer - Backend & Data Engineering](https://job-boards.greenhouse.io/fourkites/jobs/7369410) | Chennai or Remote, India | greenhouse |
 | 2026-02-25 | anthropic | [Analytics Data Engineering Manager, Product](https://job-boards.greenhouse.io/anthropic/jobs/5125387008) | San Francisco, CA \| New York City, NY \| Seattle, WA | greenhouse |
 | 2026-02-25 | klaviyo | [Senior Analytics Engineer, Sales Analytics (GTM Data Engineering)](https://www.klaviyo.com/careers/jobs?gh_jid=7643039003) | Boston, MA | greenhouse |
@@ -118,9 +118,9 @@ _Last updated: 2026-02-27 01:13 CST_
 | 2026-02-24 | deepmind | [Research Engineer, Multimodal Generative AI (Image/Video)](https://job-boards.greenhouse.io/deepmind/jobs/7339604) | Kirkland, Washington, US; Seattle, Washington, US | greenhouse |
 | 2026-02-24 | insurify | [Business Data Analyst](https://job-boards.greenhouse.io/insurify/jobs/5743828004) | Cambridge, MA - Hybrid | greenhouse |
 | — | redhat | [Artificial intelligence](https://jobs.redhat.com/en/hybrid-cloud-solutions/ai) | — | webscrape |
-| — | meta | [Software Engineer, Machine Learning Sunnyvale, CA + 16 locations](https://www.metacareers.com/profile/job_details/1436181490732782/) | — | webscrape |
 | — | canonical | [MLOps Scalable machine learning solutions](https://careers.canonical.com/mlops) | — | webscrape |
 | — | canonical | [Kubeflow Machine learning toolkit for K8s](https://careers.canonical.com/mlops/kubeflow/what-is-kubeflow) | — | webscrape |
+| — | meta | [Software Engineer, Machine Learning Sunnyvale, CA + 16 locations](https://www.metacareers.com/profile/job_details/1436181490732782/) | — | webscrape |
 | — | facebook | [Software Engineer, Machine Learning Sunnyvale, CA + 16 locations](https://www.metacareers.com/profile/job_details/1436181490732782/) | — | webscrape |
 | — | front | [AI Engineering Manager (Core AI Platform) San Francisco, CA](https://jobs.ashbyhq.com/frontcareers/071af87c-644e-4677-b4f8-ce0646ccc608) | — | webscrape |
 | — | superhuman | [Applied Research Scientist Germany; Hybrid](https://job-boards.greenhouse.io/grammarly/jobs/7340727) | — | webscrape |
@@ -131,7 +131,7 @@ _Last updated: 2026-02-27 01:13 CST_
 | — | render | [Staff Data Scientist Remote: United States or Remote: Canada](https://jobs.ashbyhq.com/render/03cf5296-9e69-43c0-93a6-1b9836e9d2e3) | — | webscrape |
 | — | notion | [Data Engineer, Finance San Francisco, California](https://jobs.ashbyhq.com/notion/4d1bce46-3cb1-4a26-b6c6-ac9b02ee413d) | — | webscrape |
 | — | notion | [Data Engineer, Go-To-Market San Francisco, California](https://jobs.ashbyhq.com/notion/655b047b-5e58-4b0c-82f0-8c16b2c03318) | — | webscrape |
-| — | ing | [Vincent - Data Analyst Data helps you make smarter decisions 三月 17, 2025 Article Expertise & Teams Homepage - Testimonials Employee Stories](https://careers.ing.com/en/be-story-vincent) | — | webscrape |
+| — | ing | [Vincent - Data Analyst Data helps you make smarter decisions March 17, 2025 Article Expertise & Teams Homepage - Testimonials Employee Stories](https://careers.ing.com/en/be-story-vincent) | — | webscrape |
 | — | de shaw | [icon Human Capital Data Engineering and Reporting Analyst : The D. E. Shaw group seeks a talented data engineering and reporting analyst to join its Human Capital Analytics and Products (HCAP) team. Members of HCAP are curators of…](https://www.deshaw.com/careers/human-capital-data-engineering-and-reporting-analyst-5794) | — | webscrape |
 | — | de shaw | [icon Applied AI Engineer : The D. E. Shaw group seeks exceptional software engineers with expertise in applied AI, AI agents, and agentic systems to join the firm. This role offers the chance to work…](https://www.deshaw.com/careers/applied-ai-engineer-5375) | — | webscrape |
 | — | de shaw | [icon Machine Learning Researcher : The D. E. Shaw group seeks a machine learning researcher to creatively apply their knowledge of ML and software engineering to design and build computational architectures for…](https://www.deshaw.com/careers/machine-learning-researcher-4954) | — | webscrape |
@@ -202,7 +202,7 @@ _Last updated: 2026-02-27 01:13 CST_
 | — | us mobile | [Senior AI Engineer - Voice Biometrics & Conversational AI Hybrid — Full-time Montreal / Toronto](https://jobs.lever.co/USMobile/fdd50e1b-d3af-4a50-a8d1-957dc1f8bcdd) | — | webscrape |
 | — | vonage | [Data Analyst (Media) Wrocław, Poland](https://job-boards.greenhouse.io/vonage/jobs/8195823002) | — | webscrape |
 | — | telnyx | [Senior Machine Learning Engineer (Speech Synthesis)](https://job-boards.greenhouse.io/telnyx54/jobs/7498103003) | — | webscrape |
-| — | comcast | [Sr. Data Analyst, Finance](https://jobs.comcast.com/job/wayne/sr-data-analyst-finance/45483/92052475984) | — | webscrape |
+| — | comcast | [Data Analyst 3](https://jobs.comcast.com/job/chennai/data-analyst-3/45483/92186498880) | — | webscrape |
 | — | epicor | [Artificial Intelligence](https://jobs.epicor.com/en-us/solutions/technology/people-centric-ai/) | — | webscrape |
 | — | epicor | [Finance From accounting to business intelligence to operations, we’re looking for people with a passion for using their experience and data-driven skill sets to help Epicor grow, scale, and thrive in evolving markets.](https://epicorsoftware.wd5.myworkdayjobs.com/epicorjobs) | — | webscrape |
 | — | quinyx | [Machine Learning Engineer R&D · Amsterdam, Stockholm · Hybrid](https://careers.quinyx.com/jobs/7085160-machine-learning-engineer) | — | webscrape |
