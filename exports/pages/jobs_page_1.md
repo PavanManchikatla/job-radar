@@ -1,6 +1,6 @@
 # Jobs Feed (Page 1/1)
 
-_Last updated: 2026-02-27 08:19 CST_
+_Last updated: 2026-02-27 09:06 CST_
 
 | Posted | Company | Title | Location | Source |
 |---|---|---|---|---|
@@ -118,20 +118,20 @@ _Last updated: 2026-02-27 08:19 CST_
 | 2026-02-24 | deepmind | [Research Engineer, Multimodal Generative AI (Image/Video)](https://job-boards.greenhouse.io/deepmind/jobs/7339604) | Kirkland, Washington, US; Seattle, Washington, US | greenhouse |
 | 2026-02-24 | insurify | [Business Data Analyst](https://job-boards.greenhouse.io/insurify/jobs/5743828004) | Cambridge, MA - Hybrid | greenhouse |
 | — | redhat | [Artificial intelligence](https://jobs.redhat.com/en/hybrid-cloud-solutions/ai) | — | webscrape |
-| — | meta | [Software Engineer, Machine Learning Sunnyvale, CA + 16 locations](https://www.metacareers.com/profile/job_details/1436181490732782/) | — | webscrape |
 | — | canonical | [MLOps Scalable machine learning solutions](https://careers.canonical.com/mlops) | — | webscrape |
 | — | canonical | [Kubeflow Machine learning toolkit for K8s](https://careers.canonical.com/mlops/kubeflow/what-is-kubeflow) | — | webscrape |
+| — | meta | [Software Engineer, Machine Learning Sunnyvale, CA + 16 locations](https://www.metacareers.com/profile/job_details/1436181490732782/) | — | webscrape |
+| — | facebook | [Software Engineer, Machine Learning Sunnyvale, CA + 16 locations](https://www.metacareers.com/profile/job_details/1436181490732782/) | — | webscrape |
 | — | front | [AI Engineering Manager (Core AI Platform) San Francisco, CA](https://jobs.ashbyhq.com/frontcareers/071af87c-644e-4677-b4f8-ce0646ccc608) | — | webscrape |
 | — | superhuman | [Applied Research Scientist Germany; Hybrid](https://job-boards.greenhouse.io/grammarly/jobs/7340727) | — | webscrape |
 | — | superhuman | [Data Scientist San Francisco; Hybrid](https://job-boards.greenhouse.io/grammarly/jobs/6458934) | — | webscrape |
 | — | superhuman | [Machine Learning Engineer, Agents San Francisco; Hybrid](https://job-boards.greenhouse.io/grammarly/jobs/6392339) | — | webscrape |
 | — | superhuman | [Software Engineer, Data Engineering San Francisco; Hybrid](https://job-boards.greenhouse.io/grammarly/jobs/6259939) | — | webscrape |
 | — | superhuman | [Software Engineer, Data Engineering New York City; Hybrid](https://job-boards.greenhouse.io/grammarly/jobs/7336882) | — | webscrape |
-| — | facebook | [Software Engineer, Machine Learning Sunnyvale, CA + 16 locations](https://www.metacareers.com/profile/job_details/1436181490732782/) | — | webscrape |
 | — | render | [Staff Data Scientist Remote: United States or Remote: Canada](https://jobs.ashbyhq.com/render/03cf5296-9e69-43c0-93a6-1b9836e9d2e3) | — | webscrape |
 | — | notion | [Data Engineer, Finance San Francisco, California](https://jobs.ashbyhq.com/notion/4d1bce46-3cb1-4a26-b6c6-ac9b02ee413d) | — | webscrape |
 | — | notion | [Data Engineer, Go-To-Market San Francisco, California](https://jobs.ashbyhq.com/notion/655b047b-5e58-4b0c-82f0-8c16b2c03318) | — | webscrape |
-| — | ing | [Vincent - Data Analyst Data helps you make smarter decisions 三月 17, 2025 Article Expertise & Teams Homepage - Testimonials Employee Stories](https://careers.ing.com/en/be-story-vincent) | — | webscrape |
+| — | ing | [Vincent - Data Analyst Data helps you make smarter decisions March 17, 2025 Article Expertise & Teams Homepage - Testimonials Employee Stories](https://careers.ing.com/en/be-story-vincent) | — | webscrape |
 | — | de shaw | [icon Human Capital Data Engineering and Reporting Analyst : The D. E. Shaw group seeks a talented data engineering and reporting analyst to join its Human Capital Analytics and Products (HCAP) team. Members of HCAP are curators of…](https://www.deshaw.com/careers/human-capital-data-engineering-and-reporting-analyst-5794) | — | webscrape |
 | — | de shaw | [icon Applied AI Engineer : The D. E. Shaw group seeks exceptional software engineers with expertise in applied AI, AI agents, and agentic systems to join the firm. This role offers the chance to work…](https://www.deshaw.com/careers/applied-ai-engineer-5375) | — | webscrape |
 | — | de shaw | [icon Machine Learning Researcher : The D. E. Shaw group seeks a machine learning researcher to creatively apply their knowledge of ML and software engineering to design and build computational architectures for…](https://www.deshaw.com/careers/machine-learning-researcher-4954) | — | webscrape |
@@ -191,7 +191,6 @@ _Last updated: 2026-02-27 08:19 CST_
 | — | farfetch | [Machine Learning Engineer, Search and Ranking Systems Hybrid — Permanent Porto](https://jobs.lever.co/farfetch/580adb2d-8a20-476e-a2cd-f8112e6de7fb) | — | webscrape |
 | — | farfetch | [Senior Data Engineer Hybrid — Full-time Porto](https://jobs.lever.co/farfetch/8b38d364-9dec-4bb6-a6ed-bd3b8f01e491) | — | webscrape |
 | — | farfetch | [Senior Data Scientist Hybrid — Full-time Porto](https://jobs.lever.co/farfetch/a242baa0-9706-42ba-ae3c-f01f830d81d7) | — | webscrape |
-| — | nordstrom | [Senior Data Analyst- Supply Chain Finance (Hybrid- Seattle, WA)](https://careers.nordstrom.com/senior-data-analyst-supply-chain-finance-hybrid-seattle-wa/job/C7BFC75B61BB0418914A8753A938C89C) | — | webscrape |
 | — | marley spoon | [Data Scientist Digital Product Management · Lisbon Office · Hybrid](https://apply.marleyspoon.com/jobs/7077066-data-scientist) | — | webscrape |
 | — | marley spoon | [Lead Data Scientist Digital Product Management · Lisbon Office · Hybrid](https://apply.marleyspoon.com/jobs/7077014-lead-data-scientist) | — | webscrape |
 | — | philo | [Data Engineering Manager San Francisco, CA, Brooklyn, NY, Cambridge, MA or remote within the U.S. \| Engineering](https://job-boards.greenhouse.io/philo/jobs/7630991) | — | webscrape |
@@ -203,7 +202,6 @@ _Last updated: 2026-02-27 08:19 CST_
 | — | us mobile | [Senior AI Engineer - Voice Biometrics & Conversational AI Hybrid — Full-time Montreal / Toronto](https://jobs.lever.co/USMobile/fdd50e1b-d3af-4a50-a8d1-957dc1f8bcdd) | — | webscrape |
 | — | vonage | [Data Analyst (Media) Wrocław, Poland](https://job-boards.greenhouse.io/vonage/jobs/8195823002) | — | webscrape |
 | — | telnyx | [Senior Machine Learning Engineer (Speech Synthesis)](https://job-boards.greenhouse.io/telnyx54/jobs/7498103003) | — | webscrape |
-| — | comcast | [Data Engineer 2](https://jobs.comcast.com/job/chennai/data-engineer-2/45483/92191057984) | — | webscrape |
 | — | epicor | [Artificial Intelligence](https://jobs.epicor.com/en-us/solutions/technology/people-centric-ai/) | — | webscrape |
 | — | epicor | [Finance From accounting to business intelligence to operations, we’re looking for people with a passion for using their experience and data-driven skill sets to help Epicor grow, scale, and thrive in evolving markets.](https://epicorsoftware.wd5.myworkdayjobs.com/epicorjobs) | — | webscrape |
 | — | quinyx | [Machine Learning Engineer R&D · Amsterdam, Stockholm · Hybrid](https://careers.quinyx.com/jobs/7085160-machine-learning-engineer) | — | webscrape |
