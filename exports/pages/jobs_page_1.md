@@ -1,6 +1,6 @@
 # Jobs Feed (Page 1/1)
 
-_Last updated: 2026-03-01 02:52 CST_
+_Last updated: 2026-03-01 04:49 CST_
 
 | Posted | Company | Title | Location | Source |
 |---|---|---|---|---|
@@ -142,7 +142,6 @@ _Last updated: 2026-03-01 02:52 CST_
 | 2026-02-26 | point72 | [Machine Learning Engineer, Genai Technology](https://boards.greenhouse.io/point72/jobs/8392982002?gh_jid=8392982002) | New York, NY | greenhouse |
 | 2026-02-26 | reach | [Director of Data & Analytics Engineering](https://job-boards.greenhouse.io/reach/jobs/8438437002) | Remote (US or Canada) | greenhouse |
 | 2026-02-26 | 6sense | [VP, Product Management - Artificial Intelligence Experiences](https://boards.greenhouse.io/6sense/jobs/7206014?gh_jid=7206014) | United States, Remote | greenhouse |
-| 2026-02-26 | 6sense | [Sr. Analytics Engineer](https://boards.greenhouse.io/6sense/jobs/7553190?gh_jid=7553190) | Austin, Texas, United States | greenhouse |
 | — | redhat | [Artificial intelligence](https://jobs.redhat.com/en/hybrid-cloud-solutions/ai) | — | webscrape |
 | — | canonical | [MLOps Scalable machine learning solutions](https://careers.canonical.com/mlops) | — | webscrape |
 | — | canonical | [Kubeflow Machine learning toolkit for K8s](https://careers.canonical.com/mlops/kubeflow/what-is-kubeflow) | — | webscrape |
@@ -164,6 +163,10 @@ _Last updated: 2026-03-01 02:52 CST_
 | — | de shaw | [icon Quantitative Analyst : Quants at the D. E. Shaw group apply mathematical techniques and write software to develop, analyze, and implement statistical models for our computerized financial trading…](https://www.deshaw.com/careers/quantitative-analyst-2636) | — | webscrape |
 | — | insight partners | [Abnormal AI 141 jobs Series C+ Abnormal AI is the leading AI-native human behavior security platform, leveraging machine learning to stop sophisticated inbound attacks and detect compromised accounts across email and connected applications.](https://jobs.insightpartners.com/companies/abnormal-ai-2#content) | — | webscrape |
 | — | five rings | [Experienced/Lateral - Quantitative Researcher](https://job-boards.greenhouse.io/fiveringsllc/jobs/5046298008) | — | webscrape |
+| — | optiver | [Senior Data Scientist](https://optiver.com/working-at-optiver/career-opportunities/8415358002/) | — | webscrape |
+| — | optiver | [Senior Data Engineer](https://optiver.com/working-at-optiver/career-opportunities/8223372002/) | — | webscrape |
+| — | optiver | [Graduate Data Scientist](https://optiver.com/working-at-optiver/career-opportunities/8286430002/) | — | webscrape |
+| — | keystone | [Applied Deep Learning Research Scientist Boston Apply](https://www.keystone.com/careers) | — | webscrape |
 | — | binance | [Binance Accelerator Program - Data Analyst Remote — Binance Accelerator Program Asia / Australia, Melbourne / Angola, Luanda / Taiwan, Taipei](https://jobs.lever.co/binance/0f670c70-15e9-41c9-96fc-c1f937b1f9ee) | — | webscrape |
 | — | binance | [Business Intelligence/ Data Analyst Remote — Asia / Hong Kong / Taiwan, Taipei](https://jobs.lever.co/binance/2f0cebcd-c4fc-4e43-8766-8e6e0249899c) | — | webscrape |
 | — | binance | [Business Intelligence/ Data Analyst (MENA Region) Remote — Full-time: Remote UAE, Dubai / UAE, Abu Dhabi](https://jobs.lever.co/binance/37fdf694-28ee-44f4-bd8a-83b8e20d46ed) | — | webscrape |
@@ -201,10 +204,6 @@ _Last updated: 2026-03-01 02:52 CST_
 | — | binance | [Senior Data Scientist (Content Understanding, NLP) Hybrid — Full-time: Remote Asia / Taiwan, Taipei / Australia, Brisbane / Australia, Melbourne / Australia, Sydney / Hong Kong / UAE, Dubai](https://jobs.lever.co/binance/f998eb30-2f2b-4220-97db-767af8fcd4b4) | — | webscrape |
 | — | binance | [Quantitative Researcher Remote — Asia / Taiwan, Taipei / South East Asia / UAE, Dubai / Eastern Europe](https://jobs.lever.co/binance/a13367b2-8bd9-41e1-878f-478cd1539354) | — | webscrape |
 | — | binance | [Binance Accelerator Program - Quantitative Researcher Remote — Full-time Onsite or Remote Asia / UAE, Dubai](https://jobs.lever.co/binance/dc610d23-6478-4c86-b1ce-c04fc469d9b3) | — | webscrape |
-| — | optiver | [Senior Data Scientist](https://optiver.com/working-at-optiver/career-opportunities/8415358002/) | — | webscrape |
-| — | optiver | [Senior Data Engineer](https://optiver.com/working-at-optiver/career-opportunities/8223372002/) | — | webscrape |
-| — | optiver | [Graduate Data Scientist](https://optiver.com/working-at-optiver/career-opportunities/8286430002/) | — | webscrape |
-| — | keystone | [Applied Deep Learning Research Scientist Boston Apply](https://www.keystone.com/careers) | — | webscrape |
 | — | solana | [Machine Learning Engineer](https://jobs.solana.com/companies/coinflow-labs/jobs/68772349-machine-learning-engineer#content) | — | webscrape |
 | — | solana | [Read more about Machine Learning Engineer at Coinflow Labs](https://jobs.solana.com/companies/coinflow-labs/jobs/68772349-machine-learning-engineer#content) | — | webscrape |
 | — | 1inch | [Senior Data Scientist Remote — Full-time Stuttgart / London / Madrid / Dubai](https://jobs.lever.co/1inch/e46cffdf-10c0-45a0-9938-93f2be416249) | — | webscrape |
