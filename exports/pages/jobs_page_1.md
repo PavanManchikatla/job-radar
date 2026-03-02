@@ -1,9 +1,13 @@
 # Jobs Feed (Page 1/1)
 
-_Last updated: 2026-03-02 09:09 CST_
+_Last updated: 2026-03-02 11:05 CST_
 
 | Posted | Company | Title | Location | Source |
 |---|---|---|---|---|
+| 2026-03-02 | twilio | [Business Intelligence Analyst 2](https://job-boards.greenhouse.io/twilio/jobs/7280493) | Remote - Colombia | greenhouse |
+| 2026-03-02 | twilio | [Business Intelligence Analyst 3](https://job-boards.greenhouse.io/twilio/jobs/7292353) | Remote - Colombia | greenhouse |
+| 2026-03-02 | twilio | [Staff Machine Learning Engineer (L4)](https://job-boards.greenhouse.io/twilio/jobs/7520997) | Remote - India | greenhouse |
+| 2026-03-02 | fourkites | [Senior AI Engineer](https://job-boards.greenhouse.io/fourkites/jobs/7640820) | Chennai or Remote, India | greenhouse |
 | 2026-03-02 | instacart | [Senior Data Scientist](https://instacart.careers/job/?gh_jid=4949335) | Canada - Remote (ON, AB, BC, or NS Only) | greenhouse |
 | 2026-03-02 | instacart | [Senior Data Scientist](https://instacart.careers/job/?gh_jid=4949339) | United States - Remote | greenhouse |
 | 2026-03-01 | toast | [Director, Data Engineering & Infrastructure (Customer Success)](https://careers.toasttab.com/jobs?gh_jid=7488769) | Boston, MA | greenhouse |
@@ -96,30 +100,25 @@ _Last updated: 2026-03-02 09:09 CST_
 | 2026-02-27 | imc | [Research Engineer](https://job-boards.eu.greenhouse.io/imc/jobs/4653321101) | Chicago, United States; New York, United States | greenhouse |
 | 2026-02-27 | anthropic | [Research Scientist, Societal Impacts](https://job-boards.greenhouse.io/anthropic/jobs/5076616008) | San Francisco, CA | greenhouse |
 | 2026-02-27 | anthropic | [Research Engineer / Scientist, Societal Impacts](https://job-boards.greenhouse.io/anthropic/jobs/5076606008) | San Francisco, CA | greenhouse |
-| 2026-02-27 | twilio | [Business Intelligence Analyst 2](https://job-boards.greenhouse.io/twilio/jobs/7280493) | Remote - Colombia | greenhouse |
-| 2026-02-27 | twilio | [Business Intelligence Analyst 3](https://job-boards.greenhouse.io/twilio/jobs/7292353) | Remote - Colombia | greenhouse |
-| 2026-02-27 | twilio | [Staff Machine Learning Engineer (L4)](https://job-boards.greenhouse.io/twilio/jobs/7520997) | Remote - India | greenhouse |
 | — | dell | [Data Science & Analytics Consultant, Data Engineer Bengaluru, India](https://jobs.dell.com/en/job/bengaluru/consultant-data-engineer/375/92042978768) | — | webscrape |
-| — | redhat | [Artificial intelligence](https://jobs.redhat.com/en/hybrid-cloud-solutions/ai) | — | webscrape |
+| — | meta | [Software Engineer, Machine Learning Sunnyvale, CA + 16 locations](https://www.metacareers.com/profile/job_details/1436181490732782/) | — | webscrape |
 | — | canonical | [MLOps Scalable machine learning solutions](https://careers.canonical.com/mlops) | — | webscrape |
 | — | canonical | [Kubeflow Machine learning toolkit for K8s](https://careers.canonical.com/mlops/kubeflow/what-is-kubeflow) | — | webscrape |
-| — | meta | [Software Engineer, Machine Learning Sunnyvale, CA + 16 locations](https://www.metacareers.com/profile/job_details/1436181490732782/) | — | webscrape |
-| — | front | [AI Engineering Manager (Core AI Platform) San Francisco, CA](https://jobs.ashbyhq.com/frontcareers/071af87c-644e-4677-b4f8-ce0646ccc608) | — | webscrape |
 | — | facebook | [Software Engineer, Machine Learning Sunnyvale, CA + 16 locations](https://www.metacareers.com/profile/job_details/1436181490732782/) | — | webscrape |
+| — | front | [AI Engineering Manager (Core AI Platform) San Francisco, CA](https://jobs.ashbyhq.com/frontcareers/071af87c-644e-4677-b4f8-ce0646ccc608) | — | webscrape |
 | — | superhuman | [Applied Research Scientist Germany; Hybrid](https://job-boards.greenhouse.io/grammarly/jobs/7340727) | — | webscrape |
 | — | superhuman | [Data Scientist San Francisco; Hybrid](https://job-boards.greenhouse.io/grammarly/jobs/6458934) | — | webscrape |
 | — | superhuman | [Machine Learning Engineer, Agents San Francisco; Hybrid](https://job-boards.greenhouse.io/grammarly/jobs/6392339) | — | webscrape |
 | — | superhuman | [Software Engineer, Data Engineering San Francisco; Hybrid](https://job-boards.greenhouse.io/grammarly/jobs/6259939) | — | webscrape |
 | — | superhuman | [Software Engineer, Data Engineering New York City; Hybrid](https://job-boards.greenhouse.io/grammarly/jobs/7336882) | — | webscrape |
+| — | redhat | [Artificial intelligence](https://jobs.redhat.com/en/hybrid-cloud-solutions/ai) | — | webscrape |
 | — | render | [Staff Data Scientist Remote: United States or Remote: Canada](https://jobs.ashbyhq.com/render/03cf5296-9e69-43c0-93a6-1b9836e9d2e3) | — | webscrape |
 | — | notion | [Data Engineer, Finance San Francisco, California](https://jobs.ashbyhq.com/notion/4d1bce46-3cb1-4a26-b6c6-ac9b02ee413d) | — | webscrape |
 | — | notion | [Data Engineer, Go-To-Market San Francisco, California](https://jobs.ashbyhq.com/notion/655b047b-5e58-4b0c-82f0-8c16b2c03318) | — | webscrape |
 | — | wise | [Senior Data Analyst](https://www.wise.com/job/senior-data-analyst-in-tallinn-jid-3115) | — | webscrape |
 | — | wise | [Lead AI Data Scientist - Servicing](https://www.wise.com/job/lead-ai-data-scientist-servicing-in-london-jid-2877) | — | webscrape |
-| — | wise | [Lead Analytics Engineer](https://www.wise.com/job/lead-analytics-engineer-in-london-jid-1727) | — | webscrape |
 | — | transferwise | [Senior Data Analyst](https://www.transferwise.com/job/senior-data-analyst-in-tallinn-jid-3115) | — | webscrape |
 | — | transferwise | [Lead AI Data Scientist - Servicing](https://www.transferwise.com/job/lead-ai-data-scientist-servicing-in-london-jid-2877) | — | webscrape |
-| — | transferwise | [Lead Analytics Engineer](https://www.transferwise.com/job/lead-analytics-engineer-in-london-jid-1727) | — | webscrape |
 | — | ing | [Vincent - Data Analyst Data helps you make smarter decisions March 17, 2025 Article Expertise & Teams Homepage - Testimonials Employee Stories](https://careers.ing.com/en/be-story-vincent) | — | webscrape |
 | — | de shaw | [icon Human Capital Data Engineering and Reporting Analyst : The D. E. Shaw group seeks a talented data engineering and reporting analyst to join its Human Capital Analytics and Products (HCAP) team. Members of HCAP are curators of…](https://www.deshaw.com/careers/human-capital-data-engineering-and-reporting-analyst-5794) | — | webscrape |
 | — | de shaw | [icon Applied AI Engineer : The D. E. Shaw group seeks exceptional software engineers with expertise in applied AI, AI agents, and agentic systems to join the firm. This role offers the chance to work…](https://www.deshaw.com/careers/applied-ai-engineer-5375) | — | webscrape |
@@ -174,9 +173,9 @@ _Last updated: 2026-03-02 09:09 CST_
 | — | shift technology | [Data Scientist Japan - Tokyo](https://job-boards.greenhouse.io/shifttechnology/jobs/6343856003) | — | webscrape |
 | — | shift technology | [Data Scientist: France France - Paris](https://job-boards.greenhouse.io/shifttechnology/jobs/6141907003) | — | webscrape |
 | — | shift technology | [Graduate Data Scientist United Kingdom - London](https://job-boards.greenhouse.io/shifttechnology/jobs/5910904003) | — | webscrape |
-| — | shift technology | [Artificial Intelligence Researcher New France - Paris](https://job-boards.greenhouse.io/shifttechnology/jobs/7642717003) | — | webscrape |
-| — | shift technology | [Data Engineer - data modelling and C# skills New France - Paris](https://job-boards.greenhouse.io/shifttechnology/jobs/7648468003) | — | webscrape |
-| — | shift technology | [Senior Data Engineer - Python and Terraform skills New France - Paris](https://job-boards.greenhouse.io/shifttechnology/jobs/7648476003) | — | webscrape |
+| — | shift technology | [Artificial Intelligence Researcher tags.new France - Paris](https://job-boards.greenhouse.io/shifttechnology/jobs/7642717003) | — | webscrape |
+| — | shift technology | [Data Engineer - data modelling and C# skills tags.new France - Paris](https://job-boards.greenhouse.io/shifttechnology/jobs/7648468003) | — | webscrape |
+| — | shift technology | [Senior Data Engineer - Python and Terraform skills tags.new France - Paris](https://job-boards.greenhouse.io/shifttechnology/jobs/7648476003) | — | webscrape |
 | — | farfetch | [Data Scientist (Search & Rankings) Hybrid — Permanent Porto](https://jobs.lever.co/farfetch/75bfd9eb-2ab6-42a2-8e12-c7906dff0e17) | — | webscrape |
 | — | farfetch | [Machine Learning Engineer, Search and Ranking Systems Hybrid — Permanent Porto](https://jobs.lever.co/farfetch/580adb2d-8a20-476e-a2cd-f8112e6de7fb) | — | webscrape |
 | — | farfetch | [Senior Data Engineer Hybrid — Full-time Porto](https://jobs.lever.co/farfetch/8b38d364-9dec-4bb6-a6ed-bd3b8f01e491) | — | webscrape |
