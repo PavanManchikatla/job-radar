@@ -1,6 +1,6 @@
 # Jobs Feed (Page 1/1)
 
-_Last updated: 2026-03-02 07:07 CST_
+_Last updated: 2026-03-02 08:20 CST_
 
 | Posted | Company | Title | Location | Source |
 |---|---|---|---|---|
@@ -104,8 +104,8 @@ _Last updated: 2026-03-02 07:07 CST_
 | — | canonical | [MLOps Scalable machine learning solutions](https://careers.canonical.com/mlops) | — | webscrape |
 | — | canonical | [Kubeflow Machine learning toolkit for K8s](https://careers.canonical.com/mlops/kubeflow/what-is-kubeflow) | — | webscrape |
 | — | meta | [Software Engineer, Machine Learning Sunnyvale, CA + 16 locations](https://www.metacareers.com/profile/job_details/1436181490732782/) | — | webscrape |
-| — | facebook | [Software Engineer, Machine Learning Sunnyvale, CA + 16 locations](https://www.metacareers.com/profile/job_details/1436181490732782/) | — | webscrape |
 | — | front | [AI Engineering Manager (Core AI Platform) San Francisco, CA](https://jobs.ashbyhq.com/frontcareers/071af87c-644e-4677-b4f8-ce0646ccc608) | — | webscrape |
+| — | facebook | [Software Engineer, Machine Learning Sunnyvale, CA + 16 locations](https://www.metacareers.com/profile/job_details/1436181490732782/) | — | webscrape |
 | — | superhuman | [Applied Research Scientist Germany; Hybrid](https://job-boards.greenhouse.io/grammarly/jobs/7340727) | — | webscrape |
 | — | superhuman | [Data Scientist San Francisco; Hybrid](https://job-boards.greenhouse.io/grammarly/jobs/6458934) | — | webscrape |
 | — | superhuman | [Machine Learning Engineer, Agents San Francisco; Hybrid](https://job-boards.greenhouse.io/grammarly/jobs/6392339) | — | webscrape |
@@ -114,8 +114,10 @@ _Last updated: 2026-03-02 07:07 CST_
 | — | render | [Staff Data Scientist Remote: United States or Remote: Canada](https://jobs.ashbyhq.com/render/03cf5296-9e69-43c0-93a6-1b9836e9d2e3) | — | webscrape |
 | — | notion | [Data Engineer, Finance San Francisco, California](https://jobs.ashbyhq.com/notion/4d1bce46-3cb1-4a26-b6c6-ac9b02ee413d) | — | webscrape |
 | — | notion | [Data Engineer, Go-To-Market San Francisco, California](https://jobs.ashbyhq.com/notion/655b047b-5e58-4b0c-82f0-8c16b2c03318) | — | webscrape |
+| — | wise | [Senior Data Analyst](https://www.wise.com/job/senior-data-analyst-in-tallinn-jid-3115) | — | webscrape |
 | — | wise | [Lead AI Data Scientist - Servicing](https://www.wise.com/job/lead-ai-data-scientist-servicing-in-london-jid-2877) | — | webscrape |
 | — | wise | [Lead Analytics Engineer](https://www.wise.com/job/lead-analytics-engineer-in-london-jid-1727) | — | webscrape |
+| — | transferwise | [Senior Data Analyst](https://www.transferwise.com/job/senior-data-analyst-in-tallinn-jid-3115) | — | webscrape |
 | — | transferwise | [Lead AI Data Scientist - Servicing](https://www.transferwise.com/job/lead-ai-data-scientist-servicing-in-london-jid-2877) | — | webscrape |
 | — | transferwise | [Lead Analytics Engineer](https://www.transferwise.com/job/lead-analytics-engineer-in-london-jid-1727) | — | webscrape |
 | — | ing | [Vincent - Data Analyst Data helps you make smarter decisions March 17, 2025 Article Expertise & Teams Homepage - Testimonials Employee Stories](https://careers.ing.com/en/be-story-vincent) | — | webscrape |
