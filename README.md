@@ -1,10 +1,12 @@
 ## Jobs Feed (auto-updated)
 
 <!-- JOBS:START -->
-_Last updated: 2026-03-02 08:20 CST_
+_Last updated: 2026-03-02 09:09 CST_
 
 | Posted | Company | Title | Location | Source |
 |---|---|---|---|---|
+| 2026-03-02 | instacart | [Senior Data Scientist](https://instacart.careers/job/?gh_jid=4949335) | Canada - Remote (ON, AB, BC, or NS Only) | greenhouse |
+| 2026-03-02 | instacart | [Senior Data Scientist](https://instacart.careers/job/?gh_jid=4949339) | United States - Remote | greenhouse |
 | 2026-03-01 | toast | [Director, Data Engineering & Infrastructure (Customer Success)](https://careers.toasttab.com/jobs?gh_jid=7488769) | Boston, MA | greenhouse |
 | 2026-03-01 | databricks | [AI Engineer - FDE (Forward Deployed Engineer)](https://databricks.com/company/careers/open-positions/job?gh_jid=8335860002) | United States | greenhouse |
 | 2026-02-28 | anthropic | [Research Engineer / Research Scientist, Tokens](https://job-boards.greenhouse.io/anthropic/jobs/4951814008) | New York City, NY; New York City, NY \| Seattle, WA; San Francisco, CA | greenhouse |
@@ -98,8 +100,6 @@ _Last updated: 2026-03-02 08:20 CST_
 | 2026-02-27 | twilio | [Business Intelligence Analyst 2](https://job-boards.greenhouse.io/twilio/jobs/7280493) | Remote - Colombia | greenhouse |
 | 2026-02-27 | twilio | [Business Intelligence Analyst 3](https://job-boards.greenhouse.io/twilio/jobs/7292353) | Remote - Colombia | greenhouse |
 | 2026-02-27 | twilio | [Staff Machine Learning Engineer (L4)](https://job-boards.greenhouse.io/twilio/jobs/7520997) | Remote - India | greenhouse |
-| 2026-02-27 | instacart | [Senior Data Scientist](https://instacart.careers/job/?gh_jid=4949335) | Canada - Remote (ON, AB, BC, or NS Only) | greenhouse |
-| 2026-02-27 | instacart | [Senior Data Scientist](https://instacart.careers/job/?gh_jid=4949339) | United States - Remote | greenhouse |
 | — | dell | [Data Science & Analytics Consultant, Data Engineer Bengaluru, India](https://jobs.dell.com/en/job/bengaluru/consultant-data-engineer/375/92042978768) | — | webscrape |
 | — | redhat | [Artificial intelligence](https://jobs.redhat.com/en/hybrid-cloud-solutions/ai) | — | webscrape |
 | — | canonical | [MLOps Scalable machine learning solutions](https://careers.canonical.com/mlops) | — | webscrape |
@@ -165,9 +165,9 @@ _Last updated: 2026-03-02 08:20 CST_
 | — | binance | [Senior Data Scientist (Content Understanding, NLP) Hybrid — Full-time: Remote Asia / Taiwan, Taipei / Australia, Brisbane / Australia, Melbourne / Australia, Sydney / Hong Kong / UAE, Dubai](https://jobs.lever.co/binance/f998eb30-2f2b-4220-97db-767af8fcd4b4) | — | webscrape |
 | — | binance | [Quantitative Researcher Remote — Asia / Taiwan, Taipei / South East Asia / UAE, Dubai / Eastern Europe](https://jobs.lever.co/binance/a13367b2-8bd9-41e1-878f-478cd1539354) | — | webscrape |
 | — | binance | [Binance Accelerator Program - Quantitative Researcher Remote — Full-time Onsite or Remote Asia / UAE, Dubai](https://jobs.lever.co/binance/dc610d23-6478-4c86-b1ce-c04fc469d9b3) | — | webscrape |
+| — | keystone | [Applied Deep Learning Research Scientist Boston Apply](https://www.keystone.com/careers) | — | webscrape |
 | — | optiver | [Senior Data Scientist](https://optiver.com/working-at-optiver/career-opportunities/8415358002/) | — | webscrape |
 | — | optiver | [Senior Data Engineer](https://optiver.com/working-at-optiver/career-opportunities/8223372002/) | — | webscrape |
-| — | keystone | [Applied Deep Learning Research Scientist Boston Apply](https://www.keystone.com/careers) | — | webscrape |
 | — | solana | [Machine Learning Engineer](https://jobs.solana.com/companies/coinflow-labs/jobs/68772349-machine-learning-engineer#content) | — | webscrape |
 | — | solana | [Read more about Machine Learning Engineer at Coinflow Labs](https://jobs.solana.com/companies/coinflow-labs/jobs/68772349-machine-learning-engineer#content) | — | webscrape |
 | — | 1inch | [Senior Data Scientist Remote — Full-time Stuttgart / London / Madrid / Dubai](https://jobs.lever.co/1inch/e46cffdf-10c0-45a0-9938-93f2be416249) | — | webscrape |
@@ -175,9 +175,9 @@ _Last updated: 2026-03-02 08:20 CST_
 | — | shift technology | [Data Scientist Japan - Tokyo](https://job-boards.greenhouse.io/shifttechnology/jobs/6343856003) | — | webscrape |
 | — | shift technology | [Data Scientist: France France - Paris](https://job-boards.greenhouse.io/shifttechnology/jobs/6141907003) | — | webscrape |
 | — | shift technology | [Graduate Data Scientist United Kingdom - London](https://job-boards.greenhouse.io/shifttechnology/jobs/5910904003) | — | webscrape |
-| — | shift technology | [Artificial Intelligence Researcher tags.new France - Paris](https://job-boards.greenhouse.io/shifttechnology/jobs/7642717003) | — | webscrape |
-| — | shift technology | [Data Engineer - data modelling and C# skills tags.new France - Paris](https://job-boards.greenhouse.io/shifttechnology/jobs/7648468003) | — | webscrape |
-| — | shift technology | [Senior Data Engineer - Python and Terraform skills tags.new France - Paris](https://job-boards.greenhouse.io/shifttechnology/jobs/7648476003) | — | webscrape |
+| — | shift technology | [Artificial Intelligence Researcher New France - Paris](https://job-boards.greenhouse.io/shifttechnology/jobs/7642717003) | — | webscrape |
+| — | shift technology | [Data Engineer - data modelling and C# skills New France - Paris](https://job-boards.greenhouse.io/shifttechnology/jobs/7648468003) | — | webscrape |
+| — | shift technology | [Senior Data Engineer - Python and Terraform skills New France - Paris](https://job-boards.greenhouse.io/shifttechnology/jobs/7648476003) | — | webscrape |
 | — | farfetch | [Data Scientist (Search & Rankings) Hybrid — Permanent Porto](https://jobs.lever.co/farfetch/75bfd9eb-2ab6-42a2-8e12-c7906dff0e17) | — | webscrape |
 | — | farfetch | [Machine Learning Engineer, Search and Ranking Systems Hybrid — Permanent Porto](https://jobs.lever.co/farfetch/580adb2d-8a20-476e-a2cd-f8112e6de7fb) | — | webscrape |
 | — | farfetch | [Senior Data Engineer Hybrid — Full-time Porto](https://jobs.lever.co/farfetch/8b38d364-9dec-4bb6-a6ed-bd3b8f01e491) | — | webscrape |
@@ -194,7 +194,6 @@ _Last updated: 2026-03-02 08:20 CST_
 | — | us mobile | [Senior AI Engineer - Voice Biometrics & Conversational AI Hybrid — Full-time Montreal / Toronto](https://jobs.lever.co/USMobile/fdd50e1b-d3af-4a50-a8d1-957dc1f8bcdd) | — | webscrape |
 | — | vonage | [Data Analyst (Media) Wrocław, Poland](https://job-boards.greenhouse.io/vonage/jobs/8195823002) | — | webscrape |
 | — | telnyx | [Senior Machine Learning Engineer (Speech Synthesis)](https://job-boards.greenhouse.io/telnyx54/jobs/7498103003) | — | webscrape |
-| — | comcast | [Engineer 2, Machine Learning](https://jobs.comcast.com/job/chennai/engineer-2-machine-learning/45483/91870045136) | — | webscrape |
 | — | epicor | [Artificial Intelligence](https://jobs.epicor.com/en-us/solutions/technology/people-centric-ai/) | — | webscrape |
 | — | epicor | [Finance From accounting to business intelligence to operations, we’re looking for people with a passion for using their experience and data-driven skill sets to help Epicor grow, scale, and thrive in evolving markets.](https://epicorsoftware.wd5.myworkdayjobs.com/epicorjobs) | — | webscrape |
 | — | quinyx | [Machine Learning Engineer R&D · Amsterdam, Stockholm · Hybrid](https://careers.quinyx.com/jobs/7085160-machine-learning-engineer) | — | webscrape |
