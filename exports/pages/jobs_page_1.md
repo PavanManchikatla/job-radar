@@ -1,9 +1,23 @@
 # Jobs Feed (Page 1/1)
 
-_Last updated: 2026-03-02 19:43 CST_
+_Last updated: 2026-03-02 22:38 CST_
 
 | Posted | Company | Title | Location | Source |
 |---|---|---|---|---|
+| 2026-03-03 | coinbase | [Senior Machine Learning Platform Engineer (Platform)](https://www.coinbase.com/careers/positions/7604203?gh_jid=7604203) | Remote - USA | greenhouse |
+| 2026-03-03 | coinbase | [Data Scientist II - Consumer](https://www.coinbase.com/careers/positions/7583657?gh_jid=7583657) | Remote - USA | greenhouse |
+| 2026-03-03 | coinbase | [Data Scientist II - Institutional](https://www.coinbase.com/careers/positions/7583647?gh_jid=7583647) | Remote - USA | greenhouse |
+| 2026-03-03 | coinbase | [Data Scientist II - Platform](https://www.coinbase.com/careers/positions/6679661?gh_jid=6679661) | Remote - USA | greenhouse |
+| 2026-03-03 | coinbase | [Data Scientist II - Product Analytics](https://www.coinbase.com/careers/positions/7644362?gh_jid=7644362) | Remote - UK | greenhouse |
+| 2026-03-03 | coinbase | [Senior Analytics Engineer](https://www.coinbase.com/careers/positions/7532597?gh_jid=7532597) | Remote - USA | greenhouse |
+| 2026-03-03 | coinbase | [Senior Applied Scientist - Pricing](https://www.coinbase.com/careers/positions/7580544?gh_jid=7580544) | Remote - USA | greenhouse |
+| 2026-03-03 | coinbase | [Senior Data Scientist - Consumer](https://www.coinbase.com/careers/positions/7583593?gh_jid=7583593) | Remote - USA | greenhouse |
+| 2026-03-03 | coinbase | [Senior Data Scientist - Developer](https://www.coinbase.com/careers/positions/7583653?gh_jid=7583653) | Remote - USA | greenhouse |
+| 2026-03-03 | coinbase | [Senior Data Scientist - Platform](https://www.coinbase.com/careers/positions/6969295?gh_jid=6969295) | Remote - USA | greenhouse |
+| 2026-03-03 | coinbase | [Staff Analytics Engineer](https://www.coinbase.com/careers/positions/7060033?gh_jid=7060033) | Remote - USA | greenhouse |
+| 2026-03-03 | coinbase | [Staff Applied Scientist - Causal Inference](https://www.coinbase.com/careers/positions/5670626?gh_jid=5670626) | Remote - USA | greenhouse |
+| 2026-03-03 | coinbase | [Staff Data Scientist - Base](https://www.coinbase.com/careers/positions/7580255?gh_jid=7580255) | Remote - USA | greenhouse |
+| 2026-03-03 | coinbase | [Staff Machine Learning Engineer - Platform (Core Automation)](https://www.coinbase.com/careers/positions/7648987?gh_jid=7648987) | Remote - USA | greenhouse |
 | 2026-03-03 | opendoor | [Agentic Analytics Engineer](https://www.opendoor.com/careers/open-positions?gh_jid=4653291006) | Seattle, Washington, United States | greenhouse |
 | 2026-03-02 | instacart | [Senior Machine Learning Engineer, Search & Recommendations Ranking](https://instacart.careers/job/?gh_jid=7565508) | US - Remote | greenhouse |
 | 2026-03-02 | pinterest | [Staff Machine Learning Engineer, Monetization](https://www.pinterestcareers.com/jobs/?gh_jid=6133257) | San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US | greenhouse |
@@ -30,9 +44,9 @@ _Last updated: 2026-03-02 19:43 CST_
 | 2026-02-28 | klaviyo | [Senior Software Engineer - Analytics Data Engineering](https://www.klaviyo.com/careers/jobs?gh_jid=7564587003) | Boston, MA | greenhouse |
 | 2026-02-28 | klaviyo | [Senior Data Engineer, Business Intelligence](https://www.klaviyo.com/careers/jobs?gh_jid=7646780003) | Boston, MA | greenhouse |
 | — | redhat | [Artificial intelligence](https://jobs.redhat.com/en/hybrid-cloud-solutions/ai) | — | webscrape |
+| — | meta | [Software Engineer, Machine Learning Sunnyvale, CA + 15 locations](https://www.metacareers.com/profile/job_details/1436181490732782/) | — | webscrape |
 | — | canonical | [MLOps Scalable machine learning solutions](https://careers.canonical.com/mlops) | — | webscrape |
 | — | canonical | [Kubeflow Machine learning toolkit for K8s](https://careers.canonical.com/mlops/kubeflow/what-is-kubeflow) | — | webscrape |
-| — | meta | [Software Engineer, Machine Learning Sunnyvale, CA + 15 locations](https://www.metacareers.com/profile/job_details/1436181490732782/) | — | webscrape |
 | — | facebook | [Software Engineer, Machine Learning Sunnyvale, CA + 15 locations](https://www.metacareers.com/profile/job_details/1436181490732782/) | — | webscrape |
 | — | front | [AI Engineering Manager (Core AI Platform) San Francisco, CA](https://jobs.ashbyhq.com/frontcareers/071af87c-644e-4677-b4f8-ce0646ccc608) | — | webscrape |
 | — | superhuman | [Applied Research Scientist Germany; Hybrid](https://job-boards.greenhouse.io/grammarly/jobs/7340727) | — | webscrape |
@@ -54,12 +68,6 @@ _Last updated: 2026-03-02 19:43 CST_
 | — | de shaw | [icon Quantitative Analyst : Quants at the D. E. Shaw group apply mathematical techniques and write software to develop, analyze, and implement statistical models for our computerized financial trading…](https://www.deshaw.com/careers/quantitative-analyst-2636) | — | webscrape |
 | — | insight partners | [Abnormal AI 141 jobs Series C+ Abnormal AI is the leading AI-native human behavior security platform, leveraging machine learning to stop sophisticated inbound attacks and detect compromised accounts across email and connected applications.](https://jobs.insightpartners.com/companies/abnormal-ai-2#content) | — | webscrape |
 | — | five rings | [Experienced/Lateral - Quantitative Researcher](https://job-boards.greenhouse.io/fiveringsllc/jobs/5046298008) | — | webscrape |
-| — | optiver | [AI Engineer](https://optiver.com/working-at-optiver/career-opportunities/8019646002/) | — | webscrape |
-| — | optiver | [Senior Data Scientist](https://optiver.com/working-at-optiver/career-opportunities/8415358002/) | — | webscrape |
-| — | optiver | [Senior Data Engineer](https://optiver.com/working-at-optiver/career-opportunities/8223372002/) | — | webscrape |
-| — | keystone | [Applied Deep Learning Research Scientist Boston Apply](https://www.keystone.com/careers) | — | webscrape |
-| — | solana | [Machine Learning Engineer](https://jobs.solana.com/companies/coinflow-labs/jobs/68772349-machine-learning-engineer#content) | — | webscrape |
-| — | solana | [Read more about Machine Learning Engineer at Coinflow Labs](https://jobs.solana.com/companies/coinflow-labs/jobs/68772349-machine-learning-engineer#content) | — | webscrape |
 | — | binance | [Binance Accelerator Program - Data Analyst Remote — Binance Accelerator Program Asia / Australia, Melbourne / Angola, Luanda / Taiwan, Taipei](https://jobs.lever.co/binance/0f670c70-15e9-41c9-96fc-c1f937b1f9ee) | — | webscrape |
 | — | binance | [Business Intelligence/ Data Analyst Remote — Asia / Hong Kong / Taiwan, Taipei](https://jobs.lever.co/binance/2f0cebcd-c4fc-4e43-8766-8e6e0249899c) | — | webscrape |
 | — | binance | [Business Intelligence/ Data Analyst (MENA Region) Remote — Full-time: Remote UAE, Dubai / UAE, Abu Dhabi](https://jobs.lever.co/binance/37fdf694-28ee-44f4-bd8a-83b8e20d46ed) | — | webscrape |
@@ -80,11 +88,10 @@ _Last updated: 2026-03-02 19:43 CST_
 | — | binance | [Senior Data Scientist (Blocktracer/Algo) Remote — Full-time Onsite or Remote Thailand, Bangkok / Taiwan, Taipei / Hong Kong / Vietnam, Ho Chi Minh / Indonesia, Jakarta](https://jobs.lever.co/binance/8504380e-19f6-4c6f-a444-f89bfcbaaf6d) | — | webscrape |
 | — | binance | [Senior Data Scientist (Content, Feeds, Recommendation) Remote — Full-time: Remote Taiwan, Taipei / Hong Kong](https://jobs.lever.co/binance/60353b1e-55ac-44a5-8448-858fb1703ea0) | — | webscrape |
 | — | binance | [Senior Data Scientist / Analyst (AI/LLM) Remote — Full-time Onsite or Remote Asia / South East Asia / Vietnam, Ho Chi Minh / UAE, Dubai / Hong Kong / Taiwan, Taipei](https://jobs.lever.co/binance/b69c7390-604e-4c9e-82e6-50a8ee62f859) | — | webscrape |
-| — | binance | [Binance Accelerator Program - Data Engineer & Analytic Remote — Binance Accelerator Program Asia / Taiwan, Taipei / Australia, Melbourne / Armenia, Yerevan / UAE, Dubai / Hong Kong](https://jobs.lever.co/binance/e6ad7c21-ade3-4739-a5fb-577a82fd7d70) | — | webscrape |
+| — | binance | [Binance Accelerator Program - Data Scientist (AI/Derivatives, AI Financial Security System) Remote — Binance Accelerator Program Asia / Australia, Brisbane / Australia, Melbourne / Australia, Sydney / Hong Kong / Taiwan, Taipei / New Zealand, Auckland / New Zealand, Wellington](https://jobs.lever.co/binance/68f354da-c4cd-49a8-b875-86ad23e88c44) | — | webscrape |
 | — | binance | [Binance Accelerator Program - Data Scientist, Risk (Machine Learning and Algorithms) Remote — Binance Accelerator Program Taiwan, Taipei / Australia, Brisbane / Australia, Melbourne / Australia, Sydney / New Zealand, Wellington / Philippines, Manila / South East Asia / Thailand, Bangkok / UAE, Abu Dhabi / UAE, Dubai / Vietnam, Ho Chi Minh / Asia](https://jobs.lever.co/binance/6af64497-cf43-4854-80f3-98434f12b9b7) | — | webscrape |
 | — | binance | [Binance Accelerator Program - Web3 AI Engineer（For blockchain student） Remote — Binance Accelerator Program Asia / Australia, Brisbane / Australia, Melbourne / Australia, Sydney / UAE, Dubai](https://jobs.lever.co/binance/69fac0bd-c8a0-4a75-aa70-fa3f13f46b67) | — | webscrape |
 | — | binance | [Binance Accelerator Programme - LLM Data Scientist Remote — Binance Accelerator Program Asia / Taiwan, Taipei](https://jobs.lever.co/binance/e21ea35c-3cb2-479e-9d74-c8149441d9fb) | — | webscrape |
-| — | binance | [Data Scientist (AI/Derivatives) - AI Financial Security System Program Remote — Binance Accelerator Program Asia / Australia, Brisbane / Australia, Melbourne / Australia, Sydney / Hong Kong / Taiwan, Taipei / New Zealand, Auckland / New Zealand, Wellington](https://jobs.lever.co/binance/68f354da-c4cd-49a8-b875-86ad23e88c44) | — | webscrape |
 | — | binance | [Data Scientist (LLM) - Content Search Remote — Full-time: Remote Taiwan, Taipei / Australia, Brisbane / Australia, Melbourne / Australia, Sydney / Hong Kong / New Zealand, Auckland / New Zealand, Wellington / Asia](https://jobs.lever.co/binance/4cdbf1d8-7025-48f7-8924-806629c2ea7a) | — | webscrape |
 | — | binance | [Data Scientist (Search & Recommendation) Hybrid — Full-time: Remote Asia / Taiwan, Taipei / Australia, Sydney / Ireland, Dublin / Thailand, Bangkok / Japan, Tokyo / Hong Kong](https://jobs.lever.co/binance/f38e2764-fd2f-4030-8a0c-cde213134027) | — | webscrape |
 | — | binance | [Data Scientist Lead - LLM (Chatbot) Hybrid — Taiwan, Taipei / Hong Kong / Asia](https://jobs.lever.co/binance/7960a41b-f1a9-443d-a1ed-3f2eb02c2901) | — | webscrape |
@@ -95,8 +102,15 @@ _Last updated: 2026-03-02 19:43 CST_
 | — | binance | [LLM Data Scientist/Algorithm Engineer Remote — Full-time: Remote Asia / New Zealand, Auckland / New Zealand, Wellington / Australia, Brisbane / Australia, Melbourne / Australia, Sydney / Taiwan, Taipei / Hong Kong / Japan, Tokyo / Switzerland, Zurich](https://jobs.lever.co/binance/80a64970-528f-4d90-aada-84284bd6f1f3) | — | webscrape |
 | — | binance | [Research Scientist - LLM Foundation Models Hybrid — Full-time Onsite or Remote Taiwan, Taipei / Australia, Brisbane / Australia, Melbourne / Australia, Sydney / Thailand, Bangkok / South East Asia / Vietnam, Ho Chi Minh / Hong Kong / Asia / New Zealand, Auckland / New Zealand, Wellington](https://jobs.lever.co/binance/61081858-6041-489c-8e6a-cf9e7a604060) | — | webscrape |
 | — | binance | [Senior Data Scientist (Content Understanding, NLP) Hybrid — Full-time: Remote Asia / Taiwan, Taipei / Australia, Brisbane / Australia, Melbourne / Australia, Sydney / Hong Kong / UAE, Dubai](https://jobs.lever.co/binance/f998eb30-2f2b-4220-97db-767af8fcd4b4) | — | webscrape |
+| — | binance | [DevOps Engineer (Artificial Intelligence) Remote — Full-time: Remote Asia / Australia, Brisbane / Australia, Melbourne / Australia, Sydney / Hong Kong / Japan, Tokyo / New Zealand, Wellington / New Zealand, Auckland / Taiwan, Taipei](https://jobs.lever.co/binance/04abc163-08be-4d89-a817-36ea289c10f3) | — | webscrape |
 | — | binance | [Quantitative Researcher Remote — Asia / Taiwan, Taipei / South East Asia / UAE, Dubai / Eastern Europe](https://jobs.lever.co/binance/a13367b2-8bd9-41e1-878f-478cd1539354) | — | webscrape |
 | — | binance | [Binance Accelerator Program - Quantitative Researcher Remote — Full-time Onsite or Remote Asia / UAE, Dubai](https://jobs.lever.co/binance/dc610d23-6478-4c86-b1ce-c04fc469d9b3) | — | webscrape |
+| — | optiver | [AI Engineer](https://optiver.com/working-at-optiver/career-opportunities/8019646002/) | — | webscrape |
+| — | optiver | [Senior Data Scientist](https://optiver.com/working-at-optiver/career-opportunities/8415358002/) | — | webscrape |
+| — | optiver | [Senior Data Engineer](https://optiver.com/working-at-optiver/career-opportunities/8223372002/) | — | webscrape |
+| — | keystone | [Applied Deep Learning Research Scientist Boston Apply](https://www.keystone.com/careers) | — | webscrape |
+| — | solana | [Machine Learning Engineer](https://jobs.solana.com/companies/coinflow-labs/jobs/68772349-machine-learning-engineer#content) | — | webscrape |
+| — | solana | [Read more about Machine Learning Engineer at Coinflow Labs](https://jobs.solana.com/companies/coinflow-labs/jobs/68772349-machine-learning-engineer#content) | — | webscrape |
 | — | 1inch | [Senior Data Scientist Remote — Full-time Stuttgart / London / Madrid / Dubai](https://jobs.lever.co/1inch/e46cffdf-10c0-45a0-9938-93f2be416249) | — | webscrape |
 | — | shift technology | [Data Scientist Singapore - Singapore](https://job-boards.greenhouse.io/shifttechnology/jobs/5914061003) | — | webscrape |
 | — | shift technology | [Data Scientist Japan - Tokyo](https://job-boards.greenhouse.io/shifttechnology/jobs/6343856003) | — | webscrape |
@@ -115,12 +129,12 @@ _Last updated: 2026-03-02 19:43 CST_
 | — | philo | [Sr. Machine Learning Engineer (Recommendation Systems) San Francisco, CA or remote within the U.S. \| Engineering](https://job-boards.greenhouse.io/philo/jobs/7259010) | — | webscrape |
 | — | bookbeat | [Data Engineer Developers · Stockholm](https://jobs.bookbeat.com/jobs/7145026-data-engineer) | — | webscrape |
 | — | nutanix | [Business Intelligence Analyst](https://jobs.nutanix.com/nutanix/job/omJFzfw3) | — | webscrape |
+| — | vonage | [Data Analyst (Media) Wrocław, Poland](https://job-boards.greenhouse.io/vonage/jobs/8195823002) | — | webscrape |
+| — | telnyx | [Senior Machine Learning Engineer (Speech Synthesis)](https://job-boards.greenhouse.io/telnyx54/jobs/7498103003) | — | webscrape |
 | — | us mobile | [Data Analyst (Sage Experience) On-site — Full-time Karachi](https://jobs.lever.co/USMobile/dc8f50eb-4edd-4fff-95e2-cd49485bd3e0) | — | webscrape |
 | — | us mobile | [Data Scientist, Product Hybrid — Full-time New York City](https://jobs.lever.co/USMobile/35d88b8c-753a-48d7-a81a-a6c42265dc53) | — | webscrape |
 | — | us mobile | [Data Engineering Lead (Montreal) Hybrid — Full-time Montreal](https://jobs.lever.co/USMobile/b30dbd01-c4bf-4644-9e71-6e36fcc19584) | — | webscrape |
 | — | us mobile | [Senior AI Engineer - Voice Biometrics & Conversational AI Hybrid — Full-time Montreal / Toronto](https://jobs.lever.co/USMobile/fdd50e1b-d3af-4a50-a8d1-957dc1f8bcdd) | — | webscrape |
-| — | vonage | [Data Analyst (Media) Wrocław, Poland](https://job-boards.greenhouse.io/vonage/jobs/8195823002) | — | webscrape |
-| — | telnyx | [Senior Machine Learning Engineer (Speech Synthesis)](https://job-boards.greenhouse.io/telnyx54/jobs/7498103003) | — | webscrape |
 | — | epicor | [Artificial Intelligence](https://jobs.epicor.com/en-us/solutions/technology/people-centric-ai/) | — | webscrape |
 | — | epicor | [Finance From accounting to business intelligence to operations, we’re looking for people with a passion for using their experience and data-driven skill sets to help Epicor grow, scale, and thrive in evolving markets.](https://epicorsoftware.wd5.myworkdayjobs.com/epicorjobs) | — | webscrape |
 | — | quinyx | [Machine Learning Engineer R&D · Amsterdam, Stockholm · Hybrid](https://careers.quinyx.com/jobs/7085160-machine-learning-engineer) | — | webscrape |
