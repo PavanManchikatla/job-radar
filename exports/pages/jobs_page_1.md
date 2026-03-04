@@ -1,31 +1,33 @@
 # Jobs Feed (Page 1/1)
 
-_Last updated: 2026-03-04 11:04 CST_
+_Last updated: 2026-03-04 13:07 CST_
 
 | Posted | Company | Title | Location | Source |
 |---|---|---|---|---|
+| 2026-03-04 | aqr | [Client Analytics Engineering Associate](https://careers.aqr.com/jobs?gh_jid=6652460&gh_jid=6652460) | Greenwich, CT | greenhouse |
+| 2026-03-04 | aqr | [Portfolio Analytics Engineer](https://careers.aqr.com/jobs?gh_jid=7202482&gh_jid=7202482) | Greenwich, CT | greenhouse |
+| 2026-03-04 | typeface | [Senior ML Engineer](https://job-boards.greenhouse.io/typeface/jobs/4833219007) | Palo Alto, CA | greenhouse |
 | 2026-03-04 | twilio | [Staff Machine Learning Engineer (L4)](https://job-boards.greenhouse.io/twilio/jobs/7520997) | Remote - India | greenhouse |
 | 2026-03-04 | reddit | [Senior Analytics Engineer](https://job-boards.greenhouse.io/reddit/jobs/7445224) | Remote - United States | greenhouse |
 | 2026-03-04 | reddit | [Senior Data Scientist, Consumer](https://job-boards.greenhouse.io/reddit/jobs/7275414) | Remote - United States | greenhouse |
 | 2026-03-04 | reddit | [Senior Staff Machine Learning Engineer, Ads Ranking](https://job-boards.greenhouse.io/reddit/jobs/7517045) | Remote - United States | greenhouse |
-| 2026-03-04 | reddit | [Machine Learning Engineer, Ads](https://job-boards.greenhouse.io/reddit/jobs/7131932) | Remote - United States | greenhouse |
 | 2026-03-04 | reddit | [Machine Learning Engineer, Ads](https://job-boards.greenhouse.io/reddit/jobs/7131934) | Remote - Ontario, Canada | greenhouse |
+| 2026-03-04 | reddit | [Machine Learning Engineer, Ads](https://job-boards.greenhouse.io/reddit/jobs/7131932) | Remote - United States | greenhouse |
 | 2026-03-04 | reddit | [Data Science Manager](https://job-boards.greenhouse.io/reddit/jobs/6686373) | Remote - United States | greenhouse |
 | 2026-03-04 | reddit | [Data Scientist, Ads](https://job-boards.greenhouse.io/reddit/jobs/7607124) | Remote - Ontario, Canada | greenhouse |
 | 2026-03-04 | reddit | [Data Scientist, Ads](https://job-boards.greenhouse.io/reddit/jobs/6580815) | Remote - United States | greenhouse |
-| 2026-03-04 | reddit | [Senior Data Scientist, Ads](https://job-boards.greenhouse.io/reddit/jobs/6042236) | Remote - United States | greenhouse |
 | 2026-03-04 | reddit | [Senior Data Scientist, Ads](https://job-boards.greenhouse.io/reddit/jobs/7607121) | Remote - Ontario, Canada | greenhouse |
-| 2026-03-04 | reddit | [Staff Data Scientist, Ads](https://job-boards.greenhouse.io/reddit/jobs/7607119) | Remote - Ontario, Canada | greenhouse |
+| 2026-03-04 | reddit | [Senior Data Scientist, Ads](https://job-boards.greenhouse.io/reddit/jobs/6042236) | Remote - United States | greenhouse |
 | 2026-03-04 | reddit | [Staff Data Scientist, Ads](https://job-boards.greenhouse.io/reddit/jobs/6706371) | Remote - United States | greenhouse |
+| 2026-03-04 | reddit | [Staff Data Scientist, Ads](https://job-boards.greenhouse.io/reddit/jobs/7607119) | Remote - Ontario, Canada | greenhouse |
 | 2026-03-04 | reddit | [Staff Data Scientist, Consumer](https://job-boards.greenhouse.io/reddit/jobs/6745284) | Remote - United States | greenhouse |
 | 2026-03-04 | klaviyo | [Senior Software Engineer - Analytics Data Engineering](https://www.klaviyo.com/careers/jobs?gh_jid=7564587003) | Boston, MA | greenhouse |
 | 2026-03-03 | waymo | [ML Engineer, 3D/4D World Modeling, Simulation](https://careers.withwaymo.com/jobs?gh_jid=6669555) | Mountain View, CA, USA | greenhouse |
 | 2026-03-03 | pinterest | [Sr. Machine Learning Engineer, Core Engineering](https://www.pinterestcareers.com/jobs/?gh_jid=6121464) | San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US | greenhouse |
-| 2026-03-03 | waymo | [Business Intelligence Analyst](https://careers.withwaymo.com/jobs?gh_jid=7569449) | Mountain View, CA, US; San Francisco, CA, US | greenhouse |
 | 2026-03-03 | coinbase | [Senior Machine Learning Platform Engineer (Platform)](https://www.coinbase.com/careers/positions/7604203?gh_jid=7604203) | Remote - USA | greenhouse |
 | 2026-03-03 | klaviyo | [AI Engineer II](https://www.klaviyo.com/careers/jobs?gh_jid=7566032003) | Boston, MA | greenhouse |
-| 2026-03-03 | klaviyo | [Product Data Scientist](https://www.klaviyo.com/careers/jobs?gh_jid=7607541003) | Boston, MA | greenhouse |
 | 2026-03-03 | klaviyo | [Product Data Scientist](https://www.klaviyo.com/careers/jobs?gh_jid=7607543003) | San Francisco, CA | greenhouse |
+| 2026-03-03 | klaviyo | [Product Data Scientist](https://www.klaviyo.com/careers/jobs?gh_jid=7607541003) | Boston, MA | greenhouse |
 | 2026-03-03 | klaviyo | [Senior AI Engineer](https://www.klaviyo.com/careers/jobs?gh_jid=7566031003) | Boston, MA | greenhouse |
 | 2026-03-03 | klaviyo | [Senior AI Engineer](https://www.klaviyo.com/careers/jobs?gh_jid=7502768003) | Boston, MA | greenhouse |
 | 2026-03-03 | klaviyo | [Senior Analytics Engineer, Compensation Analytics (GTM Data Engineering)](https://www.klaviyo.com/careers/jobs?gh_jid=7601394003) | Boston, MA | greenhouse |
@@ -44,7 +46,6 @@ _Last updated: 2026-03-04 11:04 CST_
 | 2026-03-03 | okx | [Principal AI Engineer, Chatbot Development](https://job-boards.greenhouse.io/okx/jobs/7650506003) | San Jose, California, United States | greenhouse |
 | 2026-03-03 | okx | [Principal AI Engineer, AI Agent Development](https://job-boards.greenhouse.io/okx/jobs/7650500003) | San Jose, California, United States | greenhouse |
 | 2026-03-03 | deepmind | [Research Scientist, Safety and Alignment for Humanoid Robotics](https://job-boards.greenhouse.io/deepmind/jobs/7576917) | New York City, New York, US | greenhouse |
-| 2026-03-03 | druva | [Business Intelligence Manager, GTM](https://www.druva.com/about/careers/jobs/8352124002/?gh_jid=8352124002) | Santa Clara, CA | greenhouse |
 | 2026-03-03 | twilio | [Staff Analytics Engineer](https://job-boards.greenhouse.io/twilio/jobs/7551660) | Remote - US | greenhouse |
 | 2026-03-03 | twilio | [Business Intelligence Analyst 2](https://job-boards.greenhouse.io/twilio/jobs/7280493) | Remote - Colombia | greenhouse |
 | 2026-03-03 | twilio | [Business Intelligence Analyst 3](https://job-boards.greenhouse.io/twilio/jobs/7292353) | Remote - Colombia | greenhouse |
@@ -83,18 +84,17 @@ _Last updated: 2026-03-04 11:04 CST_
 | 2026-03-02 | fourkites | [Senior AI Engineer](https://job-boards.greenhouse.io/fourkites/jobs/7640820) | Chennai or Remote, India | greenhouse |
 | 2026-03-02 | instacart | [Senior Data Scientist](https://instacart.careers/job/?gh_jid=4949335) | Canada - Remote (ON, AB, BC, or NS Only) | greenhouse |
 | 2026-03-02 | instacart | [Senior Data Scientist](https://instacart.careers/job/?gh_jid=4949339) | United States - Remote | greenhouse |
-| 2026-03-01 | toast | [Director, Data Engineering & Infrastructure (Customer Success)](https://careers.toasttab.com/jobs?gh_jid=7488769) | Boston, MA | greenhouse |
 | — | redhat | [Artificial intelligence](https://jobs.redhat.com/en/hybrid-cloud-solutions/ai) | — | webscrape |
-| — | meta | [Software Engineer, Machine Learning Sunnyvale, CA + 15 locations](https://www.metacareers.com/profile/job_details/1436181490732782/) | — | webscrape |
 | — | canonical | [MLOps Scalable machine learning solutions](https://careers.canonical.com/mlops) | — | webscrape |
 | — | canonical | [Kubeflow Machine learning toolkit for K8s](https://careers.canonical.com/mlops/kubeflow/what-is-kubeflow) | — | webscrape |
+| — | meta | [Software Engineer, Machine Learning Sunnyvale, CA + 15 locations](https://www.metacareers.com/profile/job_details/1436181490732782/) | — | webscrape |
+| — | facebook | [Software Engineer, Machine Learning Sunnyvale, CA + 15 locations](https://www.metacareers.com/profile/job_details/1436181490732782/) | — | webscrape |
 | — | front | [AI Engineering Manager (Core AI Platform) San Francisco, CA](https://jobs.ashbyhq.com/frontcareers/071af87c-644e-4677-b4f8-ce0646ccc608) | — | webscrape |
 | — | superhuman | [Applied Research Scientist Germany; Hybrid](https://job-boards.greenhouse.io/grammarly/jobs/7340727) | — | webscrape |
 | — | superhuman | [Data Scientist San Francisco; Hybrid](https://job-boards.greenhouse.io/grammarly/jobs/6458934) | — | webscrape |
 | — | superhuman | [Machine Learning Engineer, Agents San Francisco; Hybrid](https://job-boards.greenhouse.io/grammarly/jobs/6392339) | — | webscrape |
 | — | superhuman | [Software Engineer, Data Engineering San Francisco; Hybrid](https://job-boards.greenhouse.io/grammarly/jobs/6259939) | — | webscrape |
 | — | superhuman | [Software Engineer, Data Engineering New York City; Hybrid](https://job-boards.greenhouse.io/grammarly/jobs/7336882) | — | webscrape |
-| — | facebook | [Software Engineer, Machine Learning Sunnyvale, CA + 15 locations](https://www.metacareers.com/profile/job_details/1436181490732782/) | — | webscrape |
 | — | render | [Staff Data Scientist Remote: United States or Remote: Canada](https://jobs.ashbyhq.com/render/03cf5296-9e69-43c0-93a6-1b9836e9d2e3) | — | webscrape |
 | — | notion | [Data Engineer, Finance San Francisco, California](https://jobs.ashbyhq.com/notion/4d1bce46-3cb1-4a26-b6c6-ac9b02ee413d) | — | webscrape |
 | — | notion | [Data Engineer, Go-To-Market San Francisco, California](https://jobs.ashbyhq.com/notion/655b047b-5e58-4b0c-82f0-8c16b2c03318) | — | webscrape |
@@ -104,7 +104,7 @@ _Last updated: 2026-03-04 11:04 CST_
 | — | transferwise | [Lead Data Scientist - Fraud Prevention](https://www.transferwise.com/job/lead-data-scientist-fraud-prevention-in-london-jid-2857) | — | webscrape |
 | — | transferwise | [Staff Data Scientist - Fraud](https://www.transferwise.com/job/staff-data-scientist-fraud-in-london-jid-1866) | — | webscrape |
 | — | transferwise | [Lead AI Data Scientist - Servicing](https://www.transferwise.com/job/lead-ai-data-scientist-servicing-in-london-jid-2877) | — | webscrape |
-| — | ing | [Vincent - Data Analyst Data helps you make smarter decisions March 17, 2025 Article Expertise & Teams Homepage - Testimonials Employee Stories](https://careers.ing.com/en/be-story-vincent) | — | webscrape |
+| — | ing | [Vincent - Data Analyst Data helps you make smarter decisions março 17, 2025 Article Expertise & Teams Homepage - Testimonials Employee Stories](https://careers.ing.com/en/be-story-vincent) | — | webscrape |
 | — | de shaw | [icon Human Capital Data Engineering and Reporting Analyst : The D. E. Shaw group seeks a talented data engineering and reporting analyst to join its Human Capital Analytics and Products (HCAP) team. Members of HCAP are curators of…](https://www.deshaw.com/careers/human-capital-data-engineering-and-reporting-analyst-5794) | — | webscrape |
 | — | de shaw | [icon Applied AI Engineer : The D. E. Shaw group seeks exceptional software engineers with expertise in applied AI, AI agents, and agentic systems to join the firm. This role offers the chance to work…](https://www.deshaw.com/careers/applied-ai-engineer-5375) | — | webscrape |
 | — | de shaw | [icon Machine Learning Researcher : The D. E. Shaw group seeks a machine learning researcher to creatively apply their knowledge of ML and software engineering to design and build computational architectures for…](https://www.deshaw.com/careers/machine-learning-researcher-4954) | — | webscrape |
@@ -172,6 +172,9 @@ _Last updated: 2026-03-04 11:04 CST_
 | — | philo | [Data Engineering Manager San Francisco, CA, Brooklyn, NY, Cambridge, MA or remote within the U.S. \| Engineering](https://job-boards.greenhouse.io/philo/jobs/7630991) | — | webscrape |
 | — | philo | [Sr. Machine Learning Engineer (Recommendation Systems) San Francisco, CA or remote within the U.S. \| Engineering](https://job-boards.greenhouse.io/philo/jobs/7259010) | — | webscrape |
 | — | bookbeat | [Data Engineer Developers · Stockholm](https://jobs.bookbeat.com/jobs/7145026-data-engineer) | — | webscrape |
+| — | sony interactive | [Data Science Manager – Experimentation: Innovation & Research](https://www.sonyinteractive.com/data-science-manager-experimentation-innovation-research/job/5592965004) | — | webscrape |
+| — | sony interactive | [Data Scientist - Experimentation & Measurement](https://www.sonyinteractive.com/data-scientist-experimentation-measurement/job/5730012004) | — | webscrape |
+| — | sony interactive | [Data Scientist – CLV & Next Best Action](https://www.sonyinteractive.com/data-scientist-clv-next-best-action/job/5556342004) | — | webscrape |
 | — | nutanix | [Business Intelligence Analyst](https://jobs.nutanix.com/nutanix/job/omJFzfw3) | — | webscrape |
 | — | us mobile | [Data Analyst (Sage Experience) On-site — Full-time Karachi](https://jobs.lever.co/USMobile/dc8f50eb-4edd-4fff-95e2-cd49485bd3e0) | — | webscrape |
 | — | us mobile | [Data Scientist, Product Hybrid — Full-time New York City](https://jobs.lever.co/USMobile/35d88b8c-753a-48d7-a81a-a6c42265dc53) | — | webscrape |
