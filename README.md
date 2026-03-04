@@ -1,7 +1,7 @@
 ## Jobs Feed (auto-updated)
 
 <!-- JOBS:START -->
-_Last updated: 2026-03-03 23:41 CST_
+_Last updated: 2026-03-04 01:10 CST_
 
 | Posted | Company | Title | Location | Source |
 |---|---|---|---|---|
@@ -12,14 +12,14 @@ _Last updated: 2026-03-03 23:41 CST_
 | 2026-03-03 | klaviyo | [AI Engineer II](https://www.klaviyo.com/careers/jobs?gh_jid=7566032003) | Boston, MA | greenhouse |
 | 2026-03-03 | klaviyo | [Product Data Scientist](https://www.klaviyo.com/careers/jobs?gh_jid=7607541003) | Boston, MA | greenhouse |
 | 2026-03-03 | klaviyo | [Product Data Scientist](https://www.klaviyo.com/careers/jobs?gh_jid=7607543003) | San Francisco, CA | greenhouse |
-| 2026-03-03 | klaviyo | [Senior AI Engineer](https://www.klaviyo.com/careers/jobs?gh_jid=7566031003) | Boston, MA | greenhouse |
 | 2026-03-03 | klaviyo | [Senior AI Engineer](https://www.klaviyo.com/careers/jobs?gh_jid=7502768003) | Boston, MA | greenhouse |
+| 2026-03-03 | klaviyo | [Senior AI Engineer](https://www.klaviyo.com/careers/jobs?gh_jid=7566031003) | Boston, MA | greenhouse |
 | 2026-03-03 | klaviyo | [Senior Analytics Engineer, Compensation Analytics (GTM Data Engineering)](https://www.klaviyo.com/careers/jobs?gh_jid=7601394003) | Boston, MA | greenhouse |
 | 2026-03-03 | klaviyo | [Senior Analytics Engineer, People Analytics](https://www.klaviyo.com/careers/jobs?gh_jid=7578120003) | Boston, MA | greenhouse |
 | 2026-03-03 | klaviyo | [Senior Analytics Engineer, Sales Analytics (GTM Data Engineering)](https://www.klaviyo.com/careers/jobs?gh_jid=7643039003) | Boston, MA | greenhouse |
 | 2026-03-03 | klaviyo | [Senior Data Engineer, Business Intelligence](https://www.klaviyo.com/careers/jobs?gh_jid=7646780003) | Boston, MA | greenhouse |
-| 2026-03-03 | klaviyo | [Senior Product Data Scientist](https://www.klaviyo.com/careers/jobs?gh_jid=7607495003) | San Francisco, CA | greenhouse |
 | 2026-03-03 | klaviyo | [Senior Product Data Scientist](https://www.klaviyo.com/careers/jobs?gh_jid=7607485003) | Boston, MA | greenhouse |
+| 2026-03-03 | klaviyo | [Senior Product Data Scientist](https://www.klaviyo.com/careers/jobs?gh_jid=7607495003) | San Francisco, CA | greenhouse |
 | 2026-03-03 | klaviyo | [Senior Software Engineer - Analytics Data Engineering](https://www.klaviyo.com/careers/jobs?gh_jid=7564587003) | Boston, MA | greenhouse |
 | 2026-03-03 | anthropic | [Research Engineer / Hardware Lead (Frontier Red Team)](https://job-boards.greenhouse.io/anthropic/jobs/5067098008) | San Francisco, CA | greenhouse |
 | 2026-03-03 | anthropic | [Research Engineer, Cybersecurity Reinforcement Learning](https://job-boards.greenhouse.io/anthropic/jobs/5025624008) | San Francisco, CA \| New York City, NY | greenhouse |
@@ -74,9 +74,9 @@ _Last updated: 2026-03-03 23:41 CST_
 | 2026-03-01 | toast | [Director, Data Engineering & Infrastructure (Customer Success)](https://careers.toasttab.com/jobs?gh_jid=7488769) | Boston, MA | greenhouse |
 | 2026-03-01 | databricks | [AI Engineer - FDE (Forward Deployed Engineer)](https://databricks.com/company/careers/open-positions/job?gh_jid=8335860002) | United States | greenhouse |
 | — | redhat | [Artificial intelligence](https://jobs.redhat.com/en/hybrid-cloud-solutions/ai) | — | webscrape |
+| — | meta | [Software Engineer, Machine Learning Sunnyvale, CA + 15 locations](https://www.metacareers.com/profile/job_details/1436181490732782/) | — | webscrape |
 | — | canonical | [MLOps Scalable machine learning solutions](https://careers.canonical.com/mlops) | — | webscrape |
 | — | canonical | [Kubeflow Machine learning toolkit for K8s](https://careers.canonical.com/mlops/kubeflow/what-is-kubeflow) | — | webscrape |
-| — | meta | [Software Engineer, Machine Learning Sunnyvale, CA + 15 locations](https://www.metacareers.com/profile/job_details/1436181490732782/) | — | webscrape |
 | — | facebook | [Software Engineer, Machine Learning Sunnyvale, CA + 15 locations](https://www.metacareers.com/profile/job_details/1436181490732782/) | — | webscrape |
 | — | front | [AI Engineering Manager (Core AI Platform) San Francisco, CA](https://jobs.ashbyhq.com/frontcareers/071af87c-644e-4677-b4f8-ce0646ccc608) | — | webscrape |
 | — | superhuman | [Applied Research Scientist Germany; Hybrid](https://job-boards.greenhouse.io/grammarly/jobs/7340727) | — | webscrape |
@@ -87,6 +87,7 @@ _Last updated: 2026-03-03 23:41 CST_
 | — | render | [Staff Data Scientist Remote: United States or Remote: Canada](https://jobs.ashbyhq.com/render/03cf5296-9e69-43c0-93a6-1b9836e9d2e3) | — | webscrape |
 | — | notion | [Data Engineer, Finance San Francisco, California](https://jobs.ashbyhq.com/notion/4d1bce46-3cb1-4a26-b6c6-ac9b02ee413d) | — | webscrape |
 | — | notion | [Data Engineer, Go-To-Market San Francisco, California](https://jobs.ashbyhq.com/notion/655b047b-5e58-4b0c-82f0-8c16b2c03318) | — | webscrape |
+| — | cloudsmith | [Donna Arthur Data Engineer](https://careers.cloudsmith.com/en-GB/people/3107945-donna-arthur) | — | webscrape |
 | — | ing | [Vincent - Data Analyst Data helps you make smarter decisions March 17, 2025 Article Expertise & Teams Employee Stories Homepage - Testimonials](https://careers.ing.com/en/be-story-vincent) | — | webscrape |
 | — | de shaw | [icon Human Capital Data Engineering and Reporting Analyst : The D. E. Shaw group seeks a talented data engineering and reporting analyst to join its Human Capital Analytics and Products (HCAP) team. Members of HCAP are curators of…](https://www.deshaw.com/careers/human-capital-data-engineering-and-reporting-analyst-5794) | — | webscrape |
 | — | de shaw | [icon Applied AI Engineer : The D. E. Shaw group seeks exceptional software engineers with expertise in applied AI, AI agents, and agentic systems to join the firm. This role offers the chance to work…](https://www.deshaw.com/careers/applied-ai-engineer-5375) | — | webscrape |
@@ -104,6 +105,7 @@ _Last updated: 2026-03-03 23:41 CST_
 | — | binance | [Data Analytics Manager (Compliance/ Risk/KYC/KYB ) Remote — Hong Kong / Taiwan, Taipei / Asia](https://jobs.lever.co/binance/127b762b-1f62-4313-b741-fdd9fa2f478c) | — | webscrape |
 | — | binance | [On Chain Research Data Analyst Remote — Asia / Taiwan, Taipei / UAE, Dubai / Australia, Melbourne / Australia, Sydney / South East Asia](https://jobs.lever.co/binance/d4b929cb-52a3-44d9-87d8-d98c7258ceb5) | — | webscrape |
 | — | binance | [Research Data Analyst Remote — Asia / Hong Kong / Taiwan, Taipei](https://jobs.lever.co/binance/fe2fc660-debd-4c4c-8bd7-0b999af1a3ac) | — | webscrape |
+| — | binance | [Big Data Engineer, AI Services Remote — Full-time: Remote Taiwan, Taipei / Asia / Thailand, Bangkok / Australia, Brisbane / Australia, Melbourne / Australia, Sydney / South East Asia / Japan, Tokyo / South Korea, Seoul](https://jobs.lever.co/binance/c000d289-8399-4018-a95e-b272f86b20bd) | — | webscrape |
 | — | binance | [Binance Accelerator Program - Data Scientist Remote — Binance Accelerator Program Asia / Hong Kong / Taiwan, Taipei / Australia, Sydney / Australia, Melbourne](https://jobs.lever.co/binance/95f2b7e9-fb4b-4bc8-8f9d-eeb4eb3e4b7f) | — | webscrape |
 | — | binance | [Binance Accelerator Program - Data Scientist (AI/LLM) Remote — Binance Accelerator Program Taiwan, Taipei / UAE, Dubai / Bahrain, Manama / Australia, Sydney / Australia, Melbourne / Asia / Hong Kong / South East Asia / Australia, Brisbane](https://jobs.lever.co/binance/96e8326e-074f-4d1f-89c4-8ed1a6f96014) | — | webscrape |
 | — | binance | [Data Scientist (KYB) Remote — Full-time Onsite or Remote Thailand, Bangkok / Indonesia, Jakarta / Taiwan, Taipei / Vietnam, Ho Chi Minh / Hong Kong / Asia](https://jobs.lever.co/binance/fb94f9bd-2633-4f51-80d7-936c9e772107) | — | webscrape |
