@@ -1,7 +1,7 @@
 ## Jobs Feed (auto-updated)
 
 <!-- JOBS:START -->
-_Last updated: 2026-03-03 22:32 CST_
+_Last updated: 2026-03-03 23:41 CST_
 
 | Posted | Company | Title | Location | Source |
 |---|---|---|---|---|
@@ -150,7 +150,6 @@ _Last updated: 2026-03-03 22:32 CST_
 | — | farfetch | [Senior Data Scientist Hybrid — Full-time Porto](https://jobs.lever.co/farfetch/a242baa0-9706-42ba-ae3c-f01f830d81d7) | — | webscrape |
 | — | marley spoon | [Data Scientist Digital Product Management · Lisbon Office · Hybrid](https://apply.marleyspoon.com/jobs/7077066-data-scientist) | — | webscrape |
 | — | marley spoon | [Lead Data Scientist Digital Product Management · Lisbon Office · Hybrid](https://apply.marleyspoon.com/jobs/7077014-lead-data-scientist) | — | webscrape |
-| — | marley spoon | [Data Analyst Digital Product Management · Lisbon Office · Fully Remote](https://apply.marleyspoon.com/jobs/6918059-data-analyst) | — | webscrape |
 | — | philo | [Data Engineering Manager San Francisco, CA, Brooklyn, NY, Cambridge, MA or remote within the U.S. \| Engineering](https://job-boards.greenhouse.io/philo/jobs/7630991) | — | webscrape |
 | — | philo | [Sr. Machine Learning Engineer (Recommendation Systems) San Francisco, CA or remote within the U.S. \| Engineering](https://job-boards.greenhouse.io/philo/jobs/7259010) | — | webscrape |
 | — | bookbeat | [Data Engineer Developers · Stockholm](https://jobs.bookbeat.com/jobs/7145026-data-engineer) | — | webscrape |
