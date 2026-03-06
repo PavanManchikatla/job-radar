@@ -1734,7 +1734,6 @@ walter presents	http_404
 wynn wizard	http_404
 openbook	http_404
 amc+	http_404
-chownow	no_matching_jobs
 readhow	http_404
 dolphin easyreader	http_404
 overcast	http_404
@@ -3593,7 +3592,6 @@ tenable	http_404
 rapid7	http_404
 openvas	http_404
 nexpose	http_404
-sophos	no_matching_jobs
 burp suite	http_404
 zap	http_404
 minimwatch	http_404
@@ -4294,7 +4292,6 @@ zycus	http_404
 jaggaer	http_404
 ivalua	http_404
 c3 ai logistics	http_404
-loadsmart	no_matching_jobs
 ariba	http_404
 taulia	http_404
 starsky	http_404
