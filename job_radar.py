@@ -892,19 +892,12 @@ VALID_SMART = VALID_DIR / "smartrecruiters_valid.txt"
 INVALID_SMART = VALID_DIR / "smartrecruiters_invalid.txt"
 VALID_ASHBY = VALID_DIR / "ashby_valid.txt"
 INVALID_ASHBY = VALID_DIR / "ashby_invalid.txt"
-VALID_WEBSCRAPE = VALID_DIR / "webscrape_valid.txt"
-CAREER_URL_MAPPINGS = VALID_DIR / "career_url_mappings.txt"
 
-JSON_LD_SCRIPT_RE = re.compile(
-    r'<script[^>]*type=["\']application/ld\+json["\'][^>]*>(.*?)</script>',
-    re.IGNORECASE | re.DOTALL,
-)
 ANCHOR_RE = re.compile(
     r'<a[^>]*href=["\']([^"\']+)["\'][^>]*>(.*?)</a>',
     re.IGNORECASE | re.DOTALL,
 )
 TAG_RE = re.compile(r"<[^>]+>")
-JOB_URL_HINTS = ("job", "jobs", "career", "careers", "position", "opening", "opportunit", "requisition")
 GENERIC_LINK_TEXTS = {
     "learn more",
     "read more",
@@ -915,6 +908,12 @@ GENERIC_LINK_TEXTS = {
     "view details",
     "more",
 }
+
+
+def _strip_html(raw: str) -> str:
+    text = TAG_RE.sub(" ", raw or "")
+    return re.sub(r"\s+", " ", html.unescape(text)).strip()
+
 
 def _http_get_json(url: str, timeout: int, params: Optional[dict] = None) -> Any:
     _validate_request_url(url)
@@ -1182,254 +1181,6 @@ def load_validated_sources() -> Tuple[List[str], List[str], List[str], List[str]
         load_if_exists(VALID_SMART),
         load_if_exists(VALID_ASHBY)
     )
-
-
-def load_career_url_mappings(path: Path = CAREER_URL_MAPPINGS) -> Dict[str, str]:
-    if not path.exists():
-        return {}
-    out: Dict[str, str] = {}
-    for raw in path.read_text(encoding="utf-8").splitlines():
-        line = raw.strip()
-        if not line or line.startswith("#"):
-            continue
-        if "|" not in line:
-            continue
-        company, url = line.split("|", 1)
-        company = company.strip()
-        url = url.strip()
-        if not company or not url:
-            continue
-        out[company] = url
-    return out
-
-
-def load_webscrape_sources() -> Tuple[List[str], Dict[str, str]]:
-    companies: List[str] = []
-    if VALID_WEBSCRAPE.exists():
-        companies = [ln.strip() for ln in VALID_WEBSCRAPE.read_text(encoding="utf-8").splitlines() if ln.strip()]
-
-    mappings = load_career_url_mappings()
-    filtered = [company for company in companies if company in mappings]
-    return filtered, mappings
-
-
-def _strip_html(raw: str) -> str:
-    text = TAG_RE.sub(" ", raw or "")
-    return re.sub(r"\s+", " ", html.unescape(text)).strip()
-
-
-def _extract_jobposting_nodes(data: Any) -> Iterable[Dict[str, Any]]:
-    if isinstance(data, dict):
-        data_type_raw = data.get("@type")
-        if isinstance(data_type_raw, list):
-            data_types = {str(x).strip() for x in data_type_raw}
-        else:
-            data_types = {str(data_type_raw).strip()} if data_type_raw is not None else set()
-        if "JobPosting" in data_types:
-            yield data
-        graph = data.get("@graph")
-        if isinstance(graph, list):
-            for item in graph:
-                yield from _extract_jobposting_nodes(item)
-        for v in data.values():
-            if isinstance(v, (dict, list)):
-                yield from _extract_jobposting_nodes(v)
-    elif isinstance(data, list):
-        for item in data:
-            yield from _extract_jobposting_nodes(item)
-
-
-def _jobposting_location(posting: Dict[str, Any]) -> str:
-    loc_parts: List[str] = []
-    job_location = posting.get("jobLocation")
-    job_location_type = normalize_text(str(posting.get("jobLocationType", "")))
-    if "telecommute" in job_location_type or "remote" in job_location_type:
-        return "Remote"
-
-    locations = job_location if isinstance(job_location, list) else [job_location]
-    for loc in locations:
-        if not isinstance(loc, dict):
-            continue
-        address = loc.get("address", {}) if isinstance(loc.get("address"), dict) else {}
-        for key in ("addressLocality", "addressRegion", "addressCountry"):
-            val = address.get(key)
-            if val:
-                loc_parts.append(str(val))
-    if loc_parts:
-        return ", ".join(dict.fromkeys(loc_parts))
-    return ""
-
-
-def _extract_jobs_from_json_ld(company: str, base_url: str, html_text: str, seen: datetime) -> List[Job]:
-    out: List[Job] = []
-    for match in JSON_LD_SCRIPT_RE.findall(html_text):
-        block = html.unescape((match or "").strip())
-        if not block:
-            continue
-        if block.startswith("<!--"):
-            block = block.removeprefix("<!--").removesuffix("-->").strip()
-        try:
-            data = json.loads(block)
-        except Exception:
-            continue
-
-        for posting in _extract_jobposting_nodes(data):
-            title = str(posting.get("title") or "").strip()
-            if not title:
-                continue
-
-            job_url = str(posting.get("url") or "").strip()
-            if job_url:
-                job_url = urljoin(base_url, job_url)
-            else:
-                job_url = base_url
-
-            location = _jobposting_location(posting)
-            description = _strip_html(str(posting.get("description") or ""))
-            posted_at = parse_any_datetime(str(posting.get("datePosted") or ""))
-
-            identifier = posting.get("identifier")
-            job_id = ""
-            if isinstance(identifier, dict):
-                job_id = str(
-                    identifier.get("value")
-                    or identifier.get("@id")
-                    or identifier.get("name")
-                    or ""
-                ).strip()
-            elif isinstance(identifier, str):
-                job_id = identifier.strip()
-            if not job_id:
-                digest = hashlib.sha1(f"{company}|{job_url}|{title}".encode("utf-8")).hexdigest()
-                job_id = digest[:24]
-
-            if not job_passes_filters(title, location):
-                continue
-
-            out.append(
-                Job(
-                    source="webscrape",
-                    job_id=job_id,
-                    title=title,
-                    company=company,
-                    location=location,
-                    url=job_url,
-                    posted_at=posted_at,
-                    first_seen_at=seen,
-                    description=description,
-                )
-            )
-    return out
-
-
-def _extract_jobs_from_links(company: str, base_url: str, html_text: str, seen: datetime) -> List[Job]:
-    out: List[Job] = []
-    for href, raw_text in ANCHOR_RE.findall(html_text):
-        title = _strip_html(raw_text)
-        if len(title) < 6:
-            continue
-        if normalize_text(title) in GENERIC_LINK_TEXTS:
-            continue
-
-        abs_url = urljoin(base_url, (href or "").strip())
-        parsed = urlparse(abs_url)
-        if parsed.scheme not in ("http", "https"):
-            continue
-        url_norm = normalize_text(abs_url)
-        if not any(hint in url_norm for hint in JOB_URL_HINTS):
-            continue
-        if not job_passes_filters(title, ""):
-            continue
-
-        digest = hashlib.sha1(f"{company}|{abs_url}|{title}".encode("utf-8")).hexdigest()
-        out.append(
-            Job(
-                source="webscrape",
-                job_id=digest[:24],
-                title=title,
-                company=company,
-                location="",
-                url=abs_url,
-                posted_at=None,
-                first_seen_at=seen,
-                description="",
-            )
-        )
-    return out
-
-
-def _relabel_company(jobs: List[Job], company: str) -> List[Job]:
-    relabeled: List[Job] = []
-    for j in jobs:
-        if j.company == company:
-            relabeled.append(j)
-            continue
-        relabeled.append(
-            Job(
-                source=j.source,
-                job_id=j.job_id,
-                title=j.title,
-                company=company,
-                location=j.location,
-                url=j.url,
-                posted_at=j.posted_at,
-                first_seen_at=j.first_seen_at,
-                description=j.description,
-            )
-        )
-    return relabeled
-
-
-def _extract_greenhouse_board_from_url(career_url: str) -> Optional[str]:
-    parsed = urlparse(career_url)
-    host = (parsed.netloc or "").lower()
-    if "greenhouse.io" not in host:
-        return None
-    parts = [p for p in parsed.path.split("/") if p]
-    if not parts:
-        return None
-    if parts[0] in {"boards", "job-boards"} and len(parts) >= 2:
-        return parts[1]
-    return parts[0]
-
-
-def _extract_lever_company_from_url(career_url: str) -> Optional[str]:
-    parsed = urlparse(career_url)
-    host = (parsed.netloc or "").lower()
-    if "lever.co" not in host:
-        return None
-    parts = [p for p in parsed.path.split("/") if p]
-    if not parts:
-        return None
-    if host.startswith("jobs.") or host.endswith(".lever.co"):
-        return parts[0]
-    return None
-
-
-def _extract_smartrecruiters_company_from_url(career_url: str) -> Optional[str]:
-    parsed = urlparse(career_url)
-    host = (parsed.netloc or "").lower()
-    parts = [p for p in parsed.path.split("/") if p]
-    if "smartrecruiters.com" not in host:
-        return None
-    if host.startswith("jobs.") and parts:
-        return parts[0]
-    if "companies" in parts:
-        idx = parts.index("companies")
-        if len(parts) > idx + 1:
-            return parts[idx + 1]
-    return None
-
-
-def _extract_ashby_company_from_url(career_url: str) -> Optional[str]:
-    parsed = urlparse(career_url)
-    host = (parsed.netloc or "").lower()
-    if "ashbyhq.com" not in host:
-        return None
-    parts = [p for p in parsed.path.split("/") if p]
-    if not parts:
-        return None
-    return parts[0]
 
 
 def _extract_workday_job_id(url_or_path: str, title: str) -> str:
@@ -2058,101 +1809,6 @@ def fetch_workable_from_career_url(
     return out
 
 
-def _fetch_jobs_from_known_ats(
-    company: str,
-    career_url: str,
-    *,
-    throttler: Optional[RequestThrottler] = None,
-    min_request_interval_sec: Optional[float] = None,
-) -> Optional[List[Job]]:
-    board = _extract_greenhouse_board_from_url(career_url)
-    if board:
-        return _relabel_company(
-            fetch_greenhouse(
-                board,
-                throttler=throttler,
-                min_request_interval_sec=min_request_interval_sec,
-            ),
-            company,
-        )
-
-    lever_company = _extract_lever_company_from_url(career_url)
-    if lever_company:
-        return _relabel_company(
-            fetch_lever(
-                lever_company,
-                throttler=throttler,
-                min_request_interval_sec=min_request_interval_sec,
-            ),
-            company,
-        )
-
-    sr_company = _extract_smartrecruiters_company_from_url(career_url)
-    if sr_company:
-        return _relabel_company(
-            fetch_smartrecruiters(
-                sr_company,
-                throttler=throttler,
-                min_request_interval_sec=min_request_interval_sec,
-            ),
-            company,
-        )
-
-    ashby_company = _extract_ashby_company_from_url(career_url)
-    if ashby_company:
-        return _relabel_company(
-            fetch_ashby(
-                ashby_company,
-                throttler=throttler,
-                min_request_interval_sec=min_request_interval_sec,
-            ),
-            company,
-        )
-
-    if "myworkdayjobs.com" in (urlparse(career_url).netloc or "").lower():
-        return fetch_workday_from_career_url(
-            company,
-            career_url,
-            throttler=throttler,
-            min_request_interval_sec=min_request_interval_sec,
-        )
-
-    host = (urlparse(career_url).netloc or "").lower()
-    if "icims.com" in host:
-        return fetch_icims_from_career_url(
-            company,
-            career_url,
-            throttler=throttler,
-            min_request_interval_sec=min_request_interval_sec,
-        )
-
-    if "jobvite.com" in host:
-        return fetch_jobvite_from_career_url(
-            company,
-            career_url,
-            throttler=throttler,
-            min_request_interval_sec=min_request_interval_sec,
-        )
-
-    if "bamboohr.com" in host:
-        return fetch_bamboohr_from_career_url(
-            company,
-            career_url,
-            throttler=throttler,
-            min_request_interval_sec=min_request_interval_sec,
-        )
-
-    if "workable.com" in host:
-        return fetch_workable_from_career_url(
-            company,
-            career_url,
-            throttler=throttler,
-            min_request_interval_sec=min_request_interval_sec,
-        )
-
-    return None
-
-
 # =========================
 # Connectors
 # =========================
@@ -2366,60 +2022,6 @@ def fetch_ashby(
     return out
 
 
-def fetch_webscrape(
-    company: str,
-    career_url: str,
-    *,
-    throttler: Optional[RequestThrottler] = None,
-    min_request_interval_sec: Optional[float] = None,
-) -> List[Job]:
-    allowed, crawl_delay = ROBOTS_CHECKER.can_fetch(
-        career_url,
-        throttler=throttler,
-        min_request_interval_sec=min_request_interval_sec,
-    )
-    if not allowed:
-        return []
-
-    effective_interval = max(
-        0.0,
-        float(min_request_interval_sec or 0.0),
-        float(crawl_delay or 0.0),
-    )
-
-    ats_jobs = _fetch_jobs_from_known_ats(
-        company,
-        career_url,
-        throttler=throttler,
-        min_request_interval_sec=effective_interval,
-    )
-    if ats_jobs:
-        deduped: Dict[str, Job] = {}
-        for job in ats_jobs:
-            deduped[f"{job.source}:{job.job_id}"] = job
-        return list(deduped.values())
-
-    html_text = http_get_text_with_retry(
-        career_url,
-        timeout=30,
-        max_retries=4,
-        throttler=throttler,
-        min_request_interval_sec=effective_interval,
-    )
-    seen = now_local()
-
-    jobs = _extract_jobs_from_json_ld(company, career_url, html_text, seen)
-    if not jobs:
-        jobs = _extract_jobs_from_links(company, career_url, html_text, seen)
-
-    # Deduplicate within source fetch (same posting can appear in multiple widgets).
-    deduped: Dict[str, Job] = {}
-    for job in jobs:
-        deduped[job.job_id] = job
-    return list(deduped.values())
-
-
-
 
 # =========================
 # Collect
@@ -2436,8 +2038,7 @@ def collect_once(
     init_db()
 
     gh, lv, sr, ashby = load_validated_sources()
-    ws, ws_mapping = load_webscrape_sources()
-    
+
     print(f"\n{'='*70}")
     print(f"COLLECTION STARTING")
     print(f"{'='*70}")
@@ -2446,17 +2047,15 @@ def collect_once(
     print(f"  - Lever:           {len(lv)} companies")
     print(f"  - SmartRecruiters: {len(sr)} companies")
     print(f"  - Ashby:           {len(ashby)} companies")
-    print(f"  - Webscrape:       {len(ws)} companies")
-    print(f"  - Total:           {len(gh) + len(lv) + len(sr) + len(ashby) + len(ws)} companies")
+    print(f"  - Total:           {len(gh) + len(lv) + len(sr) + len(ashby)} companies")
     print(f"  - Parallel workers:{max(1, int(collect_workers))}")
     print(f"  - Min request gap: {max(0.0, float(min_request_interval_sec)):.2f}s per host")
     print(f"{'='*70}\n")
-    
-    if not gh and not lv and not sr and not ashby and not ws:
+
+    if not gh and not lv and not sr and not ashby:
         print("[ERROR] No validated sources found!")
         print("Please run:")
         print("  python job_radar.py validate")
-        print("  python webscrape_validator.py validate")
         return
 
     all_jobs: List[Job] = []
@@ -2465,7 +2064,6 @@ def collect_once(
         "lever": 0,
         "smartrecruiters": 0,
         "ashby": 0,
-        "webscrape": 0,
     }
 
     cutoff_utc: Optional[datetime] = None
@@ -2497,7 +2095,6 @@ def collect_once(
         "lever": len(lv),
         "smartrecruiters": len(sr),
         "ashby": len(ashby),
-        "webscrape": len(ws),
     }
     completed_by_source = {k: 0 for k in source_totals}
     progress_every = 25
@@ -2507,13 +2104,6 @@ def collect_once(
     tasks.extend([("lever", company, fetch_lever, (company,)) for company in lv])
     tasks.extend([("smartrecruiters", company, fetch_smartrecruiters, (company,)) for company in sr])
     tasks.extend([("ashby", company, fetch_ashby, (company,)) for company in ashby])
-    tasks.extend(
-        [
-            ("webscrape", company, fetch_webscrape, (company, ws_mapping[company]))
-            for company in ws
-            if company in ws_mapping
-        ]
-    )
 
     print("[collect] Fetching validated sources in parallel (with host-level throttling)...")
     with ThreadPoolExecutor(max_workers=collect_workers) as ex:
@@ -2557,7 +2147,6 @@ def collect_once(
     print(f"  - Lever:           {errors['lever']}")
     print(f"  - SmartRecruiters: {errors['smartrecruiters']}")
     print(f"  - Ashby:           {errors['ashby']}")
-    print(f"  - Webscrape:       {errors['webscrape']}")
     print(f"Timestamp:           {now_local().isoformat()}")
     print(f"{'='*70}\n")
 
@@ -2861,8 +2450,6 @@ def pipeline_update(
 
 def full_refresh(
     *,
-    web_validate_workers: int = 10,
-    skip_web_validate: bool = False,
     skip_api_validate: bool = False,
     days_back_posted: Optional[int] = None,
     require_posted_at: bool = False,
@@ -2871,22 +2458,8 @@ def full_refresh(
     min_request_interval_sec: float = DEFAULT_MIN_REQUEST_INTERVAL_SEC,
     readme_limit: int = 500,
 ) -> None:
-    """Run web validation + ATS validation + collection + exports in one command."""
+    """Run ATS validation + collection + exports in one command."""
     ensure_dirs()
-
-    if not skip_web_validate:
-        validator_path = Path(__file__).with_name("webscrape_validator.py")
-        if not validator_path.exists():
-            raise FileNotFoundError(f"Missing web validator: {validator_path}")
-        cmd = [
-            sys.executable,
-            str(validator_path),
-            "validate",
-            "--workers",
-            str(max(1, int(web_validate_workers))),
-        ]
-        print(f"\n[full-refresh] Running web source validation: {' '.join(cmd)}")
-        subprocess.run(cmd, check=True)
 
     if not skip_api_validate:
         print("\n[full-refresh] Running ATS token validation...")
@@ -2993,8 +2566,6 @@ Examples:
     p_pipeline.add_argument("--min-request-interval", type=float, default=DEFAULT_MIN_REQUEST_INTERVAL_SEC, help="Minimum seconds between requests to the same host")
 
     p_full = sub.add_parser("full-refresh", help="Run web validation + ATS validation + collection + exports")
-    p_full.add_argument("--web-validate-workers", type=int, default=10, help="Workers for webscrape_validator.py validate")
-    p_full.add_argument("--skip-web-validate", action="store_true", help="Skip running webscrape validator")
     p_full.add_argument("--skip-api-validate", action="store_true", help="Skip ATS token validation")
     p_full.add_argument("--days-back-posted", type=int, default=None, help="Only ingest jobs posted in the last N days")
     p_full.add_argument("--require-posted-at", action="store_true", help="Skip jobs without posted date")
@@ -3034,8 +2605,6 @@ Examples:
         )
     elif args.cmd == "full-refresh":
         full_refresh(
-            web_validate_workers=args.web_validate_workers,
-            skip_web_validate=bool(args.skip_web_validate),
             skip_api_validate=bool(args.skip_api_validate),
             days_back_posted=args.days_back_posted,
             require_posted_at=bool(args.require_posted_at),
