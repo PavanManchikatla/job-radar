@@ -1,7 +1,7 @@
 ## Jobs Feed (auto-updated)
 
 <!-- JOBS:START -->
-_Last updated: 2026-03-06 07:04 CST_
+_Last updated: 2026-03-06 08:15 CST_
 
 | Posted | Company | Title | Location | Source |
 |---|---|---|---|---|
@@ -138,6 +138,12 @@ _Last updated: 2026-03-06 07:04 CST_
 | — | render | [Staff Data Scientist Remote: United States or Remote: Canada](https://jobs.ashbyhq.com/render/03cf5296-9e69-43c0-93a6-1b9836e9d2e3) | — | webscrape |
 | — | notion | [Data Engineer, Finance San Francisco, California](https://jobs.ashbyhq.com/notion/4d1bce46-3cb1-4a26-b6c6-ac9b02ee413d) | — | webscrape |
 | — | notion | [Data Engineer, Go-To-Market San Francisco, California](https://jobs.ashbyhq.com/notion/655b047b-5e58-4b0c-82f0-8c16b2c03318) | — | webscrape |
+| — | wise | [Lead Data Scientist - Fraud Prevention](https://www.wise.com/job/lead-data-scientist-fraud-prevention-in-london-jid-2857) | — | webscrape |
+| — | wise | [Staff Data Scientist - Fraud](https://www.wise.com/job/staff-data-scientist-fraud-in-london-jid-1866) | — | webscrape |
+| — | wise | [Lead AI Data Scientist - Servicing](https://www.wise.com/job/lead-ai-data-scientist-servicing-in-london-jid-2877) | — | webscrape |
+| — | transferwise | [Lead Data Scientist - Fraud Prevention](https://www.transferwise.com/job/lead-data-scientist-fraud-prevention-in-london-jid-2857) | — | webscrape |
+| — | transferwise | [Staff Data Scientist - Fraud](https://www.transferwise.com/job/staff-data-scientist-fraud-in-london-jid-1866) | — | webscrape |
+| — | transferwise | [Lead AI Data Scientist - Servicing](https://www.transferwise.com/job/lead-ai-data-scientist-servicing-in-london-jid-2877) | — | webscrape |
 | — | ing | [Vincent - Data Analyst Data helps you make smarter decisions March 17, 2025 Article Expertise & Teams Employee Stories Homepage - Testimonials](https://careers.ing.com/en/be-story-vincent) | — | webscrape |
 | — | de shaw | [icon Alternative Data Analyst : The D. E. Shaw group seeks an exceptional alternative data analyst to join its Discretionary Tech team. This role collaborates with Fundamental Equities and teams across the firm…](https://www.deshaw.com/careers/alternative-data-analyst-5765) | — | webscrape |
 | — | de shaw | [icon Human Capital Data Engineering and Reporting Analyst : The D. E. Shaw group seeks a talented data engineering and reporting analyst to join its Human Capital Analytics and Products (HCAP) team. Members of HCAP are curators of…](https://www.deshaw.com/careers/human-capital-data-engineering-and-reporting-analyst-5794) | — | webscrape |
@@ -191,17 +197,14 @@ _Last updated: 2026-03-06 07:04 CST_
 | — | solana | [Read more about Financial Crimes Risk Data Analyst at Rain](https://jobs.solana.com/companies/rain/jobs/69311488-financial-crimes-risk-data-analyst#content) | — | webscrape |
 | — | solana | [Financial Crimes & Risk Data Analyst](https://jobs.solana.com/companies/rain/jobs/69311487-financial-crimes-risk-data-analyst#content) | — | webscrape |
 | — | solana | [Read more about Financial Crimes & Risk Data Analyst at Rain](https://jobs.solana.com/companies/rain/jobs/69311487-financial-crimes-risk-data-analyst#content) | — | webscrape |
-| — | solana | [Machine Learning Engineer](https://jobs.solana.com/companies/coinflow-labs/jobs/69199159-machine-learning-engineer#content) | — | webscrape |
-| — | solana | [Read more about Machine Learning Engineer at Coinflow Labs](https://jobs.solana.com/companies/coinflow-labs/jobs/69199159-machine-learning-engineer#content) | — | webscrape |
 | — | 1inch | [Senior Data Scientist Remote — Full-time Stuttgart / London / Madrid / Dubai](https://jobs.lever.co/1inch/e46cffdf-10c0-45a0-9938-93f2be416249) | — | webscrape |
 | — | shift technology | [Data Scientist Singapore - Singapore](https://job-boards.greenhouse.io/shifttechnology/jobs/5914061003) | — | webscrape |
 | — | shift technology | [Data Scientist Japan - Tokyo](https://job-boards.greenhouse.io/shifttechnology/jobs/6343856003) | — | webscrape |
-| — | shift technology | [Data Scientist / Engineer (Hybrid- Boston) US - Boston](https://job-boards.greenhouse.io/shifttechnology/jobs/5786790003) | — | webscrape |
 | — | shift technology | [Data Scientist: France France - Paris](https://job-boards.greenhouse.io/shifttechnology/jobs/6141907003) | — | webscrape |
 | — | shift technology | [Graduate Data Scientist United Kingdom - London](https://job-boards.greenhouse.io/shifttechnology/jobs/5910904003) | — | webscrape |
 | — | shift technology | [Artificial Intelligence Researcher France - Paris](https://job-boards.greenhouse.io/shifttechnology/jobs/7642717003) | — | webscrape |
-| — | shift technology | [Data Engineer - data modelling and C# skills tags.new France - Paris](https://job-boards.greenhouse.io/shifttechnology/jobs/7648468003) | — | webscrape |
-| — | shift technology | [Senior Data Engineer - Python and Terraform skills tags.new France - Paris](https://job-boards.greenhouse.io/shifttechnology/jobs/7648476003) | — | webscrape |
+| — | shift technology | [Data Engineer - data modelling and C# skills New France - Paris](https://job-boards.greenhouse.io/shifttechnology/jobs/7648468003) | — | webscrape |
+| — | shift technology | [Senior Data Engineer - Python and Terraform skills New France - Paris](https://job-boards.greenhouse.io/shifttechnology/jobs/7648476003) | — | webscrape |
 | — | farfetch | [Data Scientist, Commercial Finance Hybrid — Porto](https://jobs.lever.co/farfetch/be0769c6-619c-40bc-ad60-22a097e2de9d) | — | webscrape |
 | — | farfetch | [Data Scientist (Search & Rankings) Hybrid — Permanent Porto](https://jobs.lever.co/farfetch/75bfd9eb-2ab6-42a2-8e12-c7906dff0e17) | — | webscrape |
 | — | farfetch | [Machine Learning Engineer, Search and Ranking Systems Hybrid — Permanent Porto](https://jobs.lever.co/farfetch/580adb2d-8a20-476e-a2cd-f8112e6de7fb) | — | webscrape |
