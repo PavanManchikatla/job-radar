@@ -1,9 +1,11 @@
 # Jobs Feed (Page 1/1)
 
-_Last updated: 2026-03-05 19:46 CST_
+_Last updated: 2026-03-05 22:34 CST_
 
 | Posted | Company | Title | Location | Source |
 |---|---|---|---|---|
+| 2026-03-06 | imc | [Machine Learning Engineer](https://job-boards.eu.greenhouse.io/imc/jobs/4570309101) | Chicago, United States; Hong Kong, Hong Kong; Sydney,  Australia | greenhouse |
+| 2026-03-06 | pinterest | [Manager II, Machine Learning-Content Success](https://www.pinterestcareers.com/jobs/?gh_jid=7528427) | San Francisco, CA, US; Remote, US | greenhouse |
 | 2026-03-05 | boulevard | [Staff Analytics Engineer](https://job-boards.greenhouse.io/boulevard/jobs/4624597006) | Remote - USA | greenhouse |
 | 2026-03-05 | point72 | [Data Engineer, Knowledge Graph](https://boards.greenhouse.io/point72/jobs/8448917002?gh_jid=8448917002) | New York, NY | greenhouse |
 | 2026-03-05 | gusto | [GTM Analytics Engineer](https://job-boards.greenhouse.io/gusto/jobs/7557049) | Denver, CO;San Francisco, CA;New York, NY;Phoenix, AZ;Atlanta, GA;Las Vegas, Nevada | greenhouse |
@@ -39,7 +41,6 @@ _Last updated: 2026-03-05 19:46 CST_
 | 2026-03-05 | fourkites | [Staff Software Engineer - AI](https://job-boards.greenhouse.io/fourkites/jobs/7601583) | Chennai or Remote, India | greenhouse |
 | 2026-03-05 | chime | [Sr. Data Analyst, Lifecycle Marketing](https://boards.greenhouse.io/chime/jobs/8445046002?gh_jid=8445046002) | New York, NY, USA; San Francisco, CA, USA; Seattle, WA, USA | greenhouse |
 | 2026-03-05 | chime | [Lead Data Analyst, Growth Science](https://boards.greenhouse.io/chime/jobs/8445048002?gh_jid=8445048002) | New York, NY, USA; San Francisco, CA, USA; Seattle, WA, USA | greenhouse |
-| 2026-03-05 | imc | [Machine Learning Engineer](https://job-boards.eu.greenhouse.io/imc/jobs/4570309101) | Chicago, United States | greenhouse |
 | 2026-03-05 | deepmind | [Research Engineer, Response Quality/Hermes](https://job-boards.greenhouse.io/deepmind/jobs/7669124) | Mountain View, California, US | greenhouse |
 | 2026-03-04 | anthropic | [Research Engineer, Virtual Collaborator (Cowork)](https://job-boards.greenhouse.io/anthropic/jobs/4946308008) | New York City, NY; San Francisco, CA; Seattle, WA | greenhouse |
 | 2026-03-04 | pinterest | [Sr. Data Engineer, tvScientific](https://www.pinterestcareers.com/jobs/?gh_jid=7642272) | San Francisco, CA, US; Remote, US | greenhouse |
@@ -50,7 +51,6 @@ _Last updated: 2026-03-05 19:46 CST_
 | 2026-03-04 | pinterest | [Sr. Data Scientist, tvScientific](https://www.pinterestcareers.com/jobs/?gh_jid=7642251) | San Francisco, CA, US; Remote, US | greenhouse |
 | 2026-03-04 | pinterest | [Director, Machine Learning Engineering – Growth](https://www.pinterestcareers.com/jobs/?gh_jid=7586364) | San Francisco, CA, US; Remote, US | greenhouse |
 | 2026-03-04 | pinterest | [Staff Machine Learning Engineer, Content Quality Signals](https://www.pinterestcareers.com/jobs/?gh_jid=7531060) | San Francisco, CA, US; Remote, US | greenhouse |
-| 2026-03-04 | pinterest | [Manager II, Machine Learning-Content Success](https://www.pinterestcareers.com/jobs/?gh_jid=7528427) | San Francisco, CA, US; Remote, US | greenhouse |
 | 2026-03-04 | pinterest | [Principal Machine Learning Engineer, Growth](https://www.pinterestcareers.com/jobs/?gh_jid=7488434) | San Francisco, CA, US; Remote, US | greenhouse |
 | 2026-03-04 | pinterest | [Staff Data Scientist, Ads Performance](https://www.pinterestcareers.com/jobs/?gh_jid=7435596) | San Francisco, CA, US; Remote, US | greenhouse |
 | 2026-03-04 | pinterest | [Sr. Machine Learning Engineer, Ads Ranking](https://www.pinterestcareers.com/jobs/?gh_jid=7444145) | Toronto, ON, CA | greenhouse |
@@ -87,8 +87,8 @@ _Last updated: 2026-03-05 19:46 CST_
 | 2026-03-04 | klaviyo | [Senior Software Engineer - Analytics Data Engineering](https://www.klaviyo.com/careers/jobs?gh_jid=7564587003) | Boston, MA | greenhouse |
 | 2026-03-03 | waymo | [ML Engineer, 3D/4D World Modeling, Simulation](https://careers.withwaymo.com/jobs?gh_jid=6669555) | Mountain View, CA, USA | greenhouse |
 | 2026-03-03 | pinterest | [Sr. Machine Learning Engineer, Core Engineering](https://www.pinterestcareers.com/jobs/?gh_jid=6121464) | San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US | greenhouse |
-| 2026-03-03 | klaviyo | [Product Data Scientist](https://www.klaviyo.com/careers/jobs?gh_jid=7607541003) | Boston, MA | greenhouse |
 | 2026-03-03 | klaviyo | [Product Data Scientist](https://www.klaviyo.com/careers/jobs?gh_jid=7607543003) | San Francisco, CA | greenhouse |
+| 2026-03-03 | klaviyo | [Product Data Scientist](https://www.klaviyo.com/careers/jobs?gh_jid=7607541003) | Boston, MA | greenhouse |
 | 2026-03-03 | klaviyo | [Senior AI Engineer](https://www.klaviyo.com/careers/jobs?gh_jid=7502768003) | Boston, MA | greenhouse |
 | 2026-03-03 | klaviyo | [Senior Analytics Engineer, Compensation Analytics (GTM Data Engineering)](https://www.klaviyo.com/careers/jobs?gh_jid=7601394003) | Boston, MA | greenhouse |
 | 2026-03-03 | klaviyo | [Senior Analytics Engineer, People Analytics](https://www.klaviyo.com/careers/jobs?gh_jid=7578120003) | Boston, MA | greenhouse |
@@ -128,6 +128,7 @@ _Last updated: 2026-03-05 19:46 CST_
 | — | redhat | [Artificial intelligence](https://jobs.redhat.com/en/hybrid-cloud-solutions/ai) | — | webscrape |
 | — | canonical | [MLOps Scalable machine learning solutions](https://careers.canonical.com/mlops) | — | webscrape |
 | — | canonical | [Kubeflow Machine learning toolkit for K8s](https://careers.canonical.com/mlops/kubeflow/what-is-kubeflow) | — | webscrape |
+| — | meta | [Software Engineer, Machine Learning Sunnyvale, CA + 15 locations](https://www.metacareers.com/profile/job_details/1436181490732782/) | — | webscrape |
 | — | facebook | [Software Engineer, Machine Learning Sunnyvale, CA + 15 locations](https://www.metacareers.com/profile/job_details/1436181490732782/) | — | webscrape |
 | — | front | [AI Engineering Manager (Core AI Platform) San Francisco, CA](https://jobs.ashbyhq.com/frontcareers/071af87c-644e-4677-b4f8-ce0646ccc608) | — | webscrape |
 | — | superhuman | [Applied Research Scientist Germany; Hybrid](https://job-boards.greenhouse.io/grammarly/jobs/7340727) | — | webscrape |
@@ -135,18 +136,23 @@ _Last updated: 2026-03-05 19:46 CST_
 | — | superhuman | [Machine Learning Engineer, Agents San Francisco; Hybrid](https://job-boards.greenhouse.io/grammarly/jobs/6392339) | — | webscrape |
 | — | superhuman | [Software Engineer, Data Engineering San Francisco; Hybrid](https://job-boards.greenhouse.io/grammarly/jobs/6259939) | — | webscrape |
 | — | superhuman | [Software Engineer, Data Engineering New York City; Hybrid](https://job-boards.greenhouse.io/grammarly/jobs/7336882) | — | webscrape |
-| — | meta | [Software Engineer, Machine Learning Sunnyvale, CA + 15 locations](https://www.metacareers.com/profile/job_details/1436181490732782/) | — | webscrape |
 | — | render | [Staff Data Scientist Remote: United States or Remote: Canada](https://jobs.ashbyhq.com/render/03cf5296-9e69-43c0-93a6-1b9836e9d2e3) | — | webscrape |
 | — | notion | [Data Engineer, Finance San Francisco, California](https://jobs.ashbyhq.com/notion/4d1bce46-3cb1-4a26-b6c6-ac9b02ee413d) | — | webscrape |
 | — | notion | [Data Engineer, Go-To-Market San Francisco, California](https://jobs.ashbyhq.com/notion/655b047b-5e58-4b0c-82f0-8c16b2c03318) | — | webscrape |
+| — | cloudsmith | [Caitriona McCaffrey Senior Data Engineer](https://careers.cloudsmith.com/en-GB/people/2769204-caitriona-mccaffrey) | — | webscrape |
 | — | remitly | [Senior Data Scientist](https://careers.remitly.com/job/22368474/senior-data-scientist/) | — | webscrape |
 | — | ing | [Vincent - Data Analyst Data helps you make smarter decisions March 17, 2025 Article Expertise & Teams Employee Stories Homepage - Testimonials](https://careers.ing.com/en/be-story-vincent) | — | webscrape |
+| — | de shaw | [icon Alternative Data Analyst : The D. E. Shaw group seeks an exceptional alternative data analyst to join its Discretionary Tech team. This role collaborates with Fundamental Equities and teams across the firm…](https://www.deshaw.com/careers/alternative-data-analyst-5765) | — | webscrape |
 | — | de shaw | [icon Human Capital Data Engineering and Reporting Analyst : The D. E. Shaw group seeks a talented data engineering and reporting analyst to join its Human Capital Analytics and Products (HCAP) team. Members of HCAP are curators of…](https://www.deshaw.com/careers/human-capital-data-engineering-and-reporting-analyst-5794) | — | webscrape |
 | — | de shaw | [icon Applied AI Engineer : The D. E. Shaw group seeks exceptional software engineers with expertise in applied AI, AI agents, and agentic systems to join the firm. This role offers the chance to work…](https://www.deshaw.com/careers/applied-ai-engineer-5375) | — | webscrape |
 | — | de shaw | [icon Machine Learning Researcher : The D. E. Shaw group seeks a machine learning researcher to creatively apply their knowledge of ML and software engineering to design and build computational architectures for…](https://www.deshaw.com/careers/machine-learning-researcher-4954) | — | webscrape |
 | — | de shaw | [icon Quantitative Analyst : Quants at the D. E. Shaw group apply mathematical techniques and write software to develop, analyze, and implement statistical models for our computerized financial trading…](https://www.deshaw.com/careers/quantitative-analyst-2636) | — | webscrape |
 | — | insight partners | [Abnormal AI 141 jobs Series C+ Abnormal AI is the leading AI-native human behavior security platform, leveraging machine learning to stop sophisticated inbound attacks and detect compromised accounts across email and connected applications.](https://jobs.insightpartners.com/companies/abnormal-ai-2#content) | — | webscrape |
 | — | five rings | [Experienced/Lateral - Quantitative Researcher](https://job-boards.greenhouse.io/fiveringsllc/jobs/5046298008) | — | webscrape |
+| — | optiver | [Market Data Analyst](https://optiver.com/working-at-optiver/career-opportunities/8437694002/) | — | webscrape |
+| — | optiver | [AI Engineer](https://optiver.com/working-at-optiver/career-opportunities/8019646002/) | — | webscrape |
+| — | optiver | [Senior Data Scientist](https://optiver.com/working-at-optiver/career-opportunities/8415358002/) | — | webscrape |
+| — | keystone | [Applied Deep Learning Research Scientist Boston Apply](https://www.keystone.com/careers) | — | webscrape |
 | — | binance | [Binance Accelerator Program - Data Analyst Remote — Binance Accelerator Program Asia / Australia, Melbourne / Angola, Luanda / Taiwan, Taipei](https://jobs.lever.co/binance/0f670c70-15e9-41c9-96fc-c1f937b1f9ee) | — | webscrape |
 | — | binance | [Business Intelligence/ Data Analyst Remote — Asia / Hong Kong / Taiwan, Taipei](https://jobs.lever.co/binance/2f0cebcd-c4fc-4e43-8766-8e6e0249899c) | — | webscrape |
 | — | binance | [Business Intelligence/ Data Analyst (MENA Region) Remote — Full-time: Remote UAE, Dubai / UAE, Abu Dhabi](https://jobs.lever.co/binance/37fdf694-28ee-44f4-bd8a-83b8e20d46ed) | — | webscrape |
@@ -169,7 +175,6 @@ _Last updated: 2026-03-05 19:46 CST_
 | — | binance | [Senior Data Scientist (Content, Feeds, Recommendation) Remote — Full-time: Remote Taiwan, Taipei / Hong Kong](https://jobs.lever.co/binance/60353b1e-55ac-44a5-8448-858fb1703ea0) | — | webscrape |
 | — | binance | [Senior Data Scientist / Analyst (AI/LLM) Remote — Full-time Onsite or Remote Asia / South East Asia / Vietnam, Ho Chi Minh / UAE, Dubai / Hong Kong / Taiwan, Taipei](https://jobs.lever.co/binance/b69c7390-604e-4c9e-82e6-50a8ee62f859) | — | webscrape |
 | — | binance | [Binance Accelerator Program - Data Scientist (AI/Derivatives, AI Financial Security System) Remote — Binance Accelerator Program Asia / Australia, Brisbane / Australia, Melbourne / Australia, Sydney / Hong Kong / Taiwan, Taipei / New Zealand, Auckland / New Zealand, Wellington](https://jobs.lever.co/binance/68f354da-c4cd-49a8-b875-86ad23e88c44) | — | webscrape |
-| — | binance | [Binance Accelerator Program - Data Scientist, Risk (Machine Learning and Algorithms) Remote — Binance Accelerator Program Taiwan, Taipei / Australia, Brisbane / Australia, Melbourne / Australia, Sydney / New Zealand, Wellington / Philippines, Manila / South East Asia / Thailand, Bangkok / UAE, Abu Dhabi / UAE, Dubai / Vietnam, Ho Chi Minh / Asia](https://jobs.lever.co/binance/6af64497-cf43-4854-80f3-98434f12b9b7) | — | webscrape |
 | — | binance | [Binance Accelerator Program - Web3 AI Engineer（For blockchain student） Remote — Binance Accelerator Program Asia / Australia, Brisbane / Australia, Melbourne / Australia, Sydney / UAE, Dubai](https://jobs.lever.co/binance/69fac0bd-c8a0-4a75-aa70-fa3f13f46b67) | — | webscrape |
 | — | binance | [Binance Accelerator Programme - LLM Data Scientist Remote — Binance Accelerator Program Asia / Taiwan, Taipei](https://jobs.lever.co/binance/e21ea35c-3cb2-479e-9d74-c8149441d9fb) | — | webscrape |
 | — | binance | [Data Scientist (Search & Recommendation) Hybrid — Full-time: Remote Asia / Taiwan, Taipei / Australia, Sydney / Ireland, Dublin / Thailand, Bangkok / Japan, Tokyo / Hong Kong](https://jobs.lever.co/binance/f38e2764-fd2f-4030-8a0c-cde213134027) | — | webscrape |
@@ -185,10 +190,6 @@ _Last updated: 2026-03-05 19:46 CST_
 | — | binance | [Frontend Web Engineer (Artificial Intelligence) Remote — Full-time: Remote Asia / Australia, Brisbane / Australia, Melbourne / Australia, Sydney / Hong Kong / New Zealand, Auckland / New Zealand, Wellington / Japan, Tokyo](https://jobs.lever.co/binance/4cdbf1d8-7025-48f7-8924-806629c2ea7a) | — | webscrape |
 | — | binance | [Quantitative Researcher Remote — Asia / Taiwan, Taipei / South East Asia / UAE, Dubai / Eastern Europe](https://jobs.lever.co/binance/a13367b2-8bd9-41e1-878f-478cd1539354) | — | webscrape |
 | — | binance | [Binance Accelerator Program - Quantitative Researcher Remote — Full-time Onsite or Remote Asia / UAE, Dubai](https://jobs.lever.co/binance/dc610d23-6478-4c86-b1ce-c04fc469d9b3) | — | webscrape |
-| — | optiver | [Market Data Analyst](https://optiver.com/working-at-optiver/career-opportunities/8437694002/) | — | webscrape |
-| — | optiver | [AI Engineer](https://optiver.com/working-at-optiver/career-opportunities/8019646002/) | — | webscrape |
-| — | optiver | [Senior Data Scientist](https://optiver.com/working-at-optiver/career-opportunities/8415358002/) | — | webscrape |
-| — | keystone | [Applied Deep Learning Research Scientist Boston Apply](https://www.keystone.com/careers) | — | webscrape |
 | — | solana | [Financial Crimes Risk Data Analyst](https://jobs.solana.com/companies/rain/jobs/69311488-financial-crimes-risk-data-analyst#content) | — | webscrape |
 | — | solana | [Read more about Financial Crimes Risk Data Analyst at Rain](https://jobs.solana.com/companies/rain/jobs/69311488-financial-crimes-risk-data-analyst#content) | — | webscrape |
 | — | solana | [Financial Crimes & Risk Data Analyst](https://jobs.solana.com/companies/rain/jobs/69311487-financial-crimes-risk-data-analyst#content) | — | webscrape |
