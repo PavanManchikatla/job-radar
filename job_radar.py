@@ -902,6 +902,24 @@ INVALID_SMART = VALID_DIR / "smartrecruiters_invalid.txt"
 VALID_ASHBY = VALID_DIR / "ashby_valid.txt"
 INVALID_ASHBY = VALID_DIR / "ashby_invalid.txt"
 
+DORMANT_THROTTLE_SEC = 0.3  # lighter throttle for dormant company re-checks
+
+# Mapping from ATS name to (valid_path, invalid_path)
+ATS_FILE_MAP: Dict[str, Tuple[Path, Path]] = {
+    "greenhouse": (VALID_GREENHOUSE, INVALID_GREENHOUSE),
+    "lever": (VALID_LEVER, INVALID_LEVER),
+    "smartrecruiters": (VALID_SMART, INVALID_SMART),
+    "ashby": (VALID_ASHBY, INVALID_ASHBY),
+}
+
+# Host keys for per-host throttling of dormant checks
+DORMANT_HOST_KEYS: Dict[str, str] = {
+    "greenhouse": "boards-api.greenhouse.io",
+    "lever": "api.lever.co",
+    "smartrecruiters": "api.smartrecruiters.com",
+    "ashby": "jobs.ashbyhq.com",
+}
+
 ANCHOR_RE = re.compile(
     r'<a[^>]*href=["\']([^"\']+)["\'][^>]*>(.*?)</a>',
     re.IGNORECASE | re.DOTALL,
@@ -1060,6 +1078,39 @@ def validate_ashby_token(token: str) -> Tuple[bool, str]:
         raise
 
 
+def _dormant_validate_and_fetch(
+    ats_name: str,
+    slug: str,
+    validator: Callable[[str], Tuple[bool, str]],
+    fetcher: Callable[..., List["Job"]],
+    throttler: "RequestThrottler",
+    dormant_throttle_sec: float,
+    fetch_throttle_sec: float,
+) -> Tuple[str, str, bool, List["Job"]]:
+    """Validate a dormant company; if it now has matching jobs, fetch them immediately.
+
+    Returns (ats_name, slug, was_promoted, jobs).
+    """
+    host_key = DORMANT_HOST_KEYS.get(ats_name, ats_name)
+    # Step 1 – lightweight validation with dormant throttle
+    throttler.wait(host_key, dormant_throttle_sec)
+    try:
+        ok, _reason = validator(slug)
+    except Exception:
+        return (ats_name, slug, False, [])
+
+    if not ok:
+        return (ats_name, slug, False, [])
+
+    # Step 2 – company woke up! Fetch its jobs immediately.
+    try:
+        jobs = fetcher(slug, throttler=throttler, min_request_interval_sec=fetch_throttle_sec)
+        return (ats_name, slug, True, jobs)
+    except Exception:
+        # Still promote even if fetch fails; next regular cycle will collect.
+        return (ats_name, slug, True, [])
+
+
 def _run_validator_parallel(
     name: str,
     tokens: List[str],
@@ -1190,6 +1241,60 @@ def load_validated_sources() -> Tuple[List[str], List[str], List[str], List[str]
         load_if_exists(VALID_SMART),
         load_if_exists(VALID_ASHBY)
     )
+
+
+def load_dormant_companies() -> Dict[str, List[str]]:
+    """Parse invalid files and return slugs with 'no_matching_jobs' reason, grouped by ATS."""
+    result: Dict[str, List[str]] = {}
+    for ats_name, (_, invalid_path) in ATS_FILE_MAP.items():
+        slugs: List[str] = []
+        if invalid_path.exists():
+            for line in invalid_path.read_text(encoding="utf-8").splitlines():
+                line = line.strip()
+                if not line:
+                    continue
+                parts = line.split("\t", 1)
+                if len(parts) == 2 and parts[1] == "no_matching_jobs":
+                    slugs.append(parts[0])
+        result[ats_name] = slugs
+    return result
+
+
+def _update_valid_invalid_files(promoted: Dict[str, List[str]]) -> None:
+    """Move promoted slugs from invalid → valid files for each ATS."""
+    for ats_name, slugs in promoted.items():
+        if not slugs:
+            continue
+        valid_path, invalid_path = ATS_FILE_MAP[ats_name]
+        promoted_set = set(slugs)
+
+        # Append promoted slugs to valid file (deduped)
+        existing_valid: List[str] = []
+        if valid_path.exists():
+            existing_valid = [
+                ln.strip() for ln in valid_path.read_text(encoding="utf-8").splitlines()
+                if ln.strip()
+            ]
+        existing_valid_set = set(existing_valid)
+        new_valid = existing_valid + [s for s in slugs if s not in existing_valid_set]
+        save_list(valid_path, new_valid)
+
+        # Remove promoted slugs from invalid file
+        if invalid_path.exists():
+            remaining_invalid: List[str] = []
+            for line in invalid_path.read_text(encoding="utf-8").splitlines():
+                line_stripped = line.strip()
+                if not line_stripped:
+                    continue
+                parts = line_stripped.split("\t", 1)
+                if parts[0] not in promoted_set:
+                    remaining_invalid.append(line_stripped)
+            invalid_path.write_text(
+                "\n".join(remaining_invalid) + ("\n" if remaining_invalid else ""),
+                encoding="utf-8",
+            )
+
+        print(f"  [dormant-check:{ats_name}] Promoted {len(slugs)} companies to valid list")
 
 
 def _extract_slugs_from_json(data: Any) -> List[str]:
@@ -2532,11 +2637,28 @@ def collect_once(
     max_per_source: Optional[int] = None,
     collect_workers: int = DEFAULT_COLLECT_WORKERS,
     min_request_interval_sec: float = DEFAULT_MIN_REQUEST_INTERVAL_SEC,
+    check_dormant: bool = False,
+    dormant_throttle_sec: float = DORMANT_THROTTLE_SEC,
 ) -> None:
     ensure_dirs()
     init_db()
 
     gh, lv, sr, ashby = load_validated_sources()
+
+    # ATS name → (validator, fetcher) for dormant checks
+    ats_dormant_config: Dict[str, Tuple[Callable, Callable]] = {
+        "greenhouse": (validate_greenhouse_token, fetch_greenhouse),
+        "lever": (validate_lever_token, fetch_lever),
+        "smartrecruiters": (validate_smartrecruiters_token, fetch_smartrecruiters),
+        "ashby": (validate_ashby_token, fetch_ashby),
+    }
+
+    # Load dormant companies if enabled
+    dormant_slugs: Dict[str, List[str]] = {}
+    dormant_total = 0
+    if check_dormant:
+        dormant_slugs = load_dormant_companies()
+        dormant_total = sum(len(v) for v in dormant_slugs.values())
 
     print(f"\n{'='*70}")
     print(f"COLLECTION STARTING")
@@ -2550,6 +2672,11 @@ def collect_once(
     print(f"  - Himalayas:       1 endpoint ({HIMALAYAS_MAX_PAGES} pages max)")
     print(f"  - Jobicy:          1 endpoint")
     print(f"  - HN Who's Hiring: 1 thread")
+    if check_dormant and dormant_total > 0:
+        print(f"  - Dormant check:   {dormant_total} companies (no_matching_jobs)")
+        for ats, slugs in dormant_slugs.items():
+            if slugs:
+                print(f"      {ats}: {len(slugs)}")
     print(f"  - Total:           {len(gh) + len(lv) + len(sr) + len(ashby)} companies + 4 aggregators")
     print(f"  - Parallel workers:{max(1, int(collect_workers))}")
     print(f"  - Min request gap: {max(0.0, float(min_request_interval_sec)):.2f}s per host")
@@ -2620,9 +2747,15 @@ def collect_once(
     tasks.append(("jobicy", "jobicy", fetch_jobicy, ()))
     tasks.append(("hn_hiring", "hn_hiring", fetch_hn_whos_hiring, ()))
 
+    # Dormant check tracking
+    promoted: Dict[str, List[str]] = {k: [] for k in ats_dormant_config}
+    dormant_checked = 0
+    dormant_errors = 0
+
     print("[collect] Fetching validated sources in parallel (with host-level throttling)...")
     with ThreadPoolExecutor(max_workers=collect_workers) as ex:
-        futures = {
+        # Submit regular collection tasks
+        regular_futures: Dict[Any, Tuple[str, str]] = {
             ex.submit(
                 fetcher,
                 *args,
@@ -2631,24 +2764,73 @@ def collect_once(
             ): (source, token)
             for source, token, fetcher, args in tasks
         }
-        for fut in as_completed(futures):
-            source, token = futures[fut]
-            completed_by_source[source] += 1
-            done = completed_by_source[source]
-            total = source_totals[source]
-            try:
-                jobs = fut.result()
-                extend_limited(jobs)
-            except Exception as e:
-                errors[source] += 1
-                if errors[source] <= 5:
-                    print(f"  [ERROR] [{source}] {token}: {e}")
-            if (done % progress_every == 0) or (done == total):
-                print(f"  [{source}] Progress: {done}/{total} ({len(all_jobs)} jobs so far)")
+
+        # Submit dormant-check tasks (in parallel with regular tasks)
+        dormant_futures: Dict[Any, Tuple[str, str]] = {}
+        if check_dormant:
+            for ats_name, slugs in dormant_slugs.items():
+                if not slugs:
+                    continue
+                validator, fetcher = ats_dormant_config[ats_name]
+                for slug in slugs:
+                    fut = ex.submit(
+                        _dormant_validate_and_fetch,
+                        ats_name, slug, validator, fetcher,
+                        throttler, dormant_throttle_sec, min_request_interval_sec,
+                    )
+                    dormant_futures[fut] = (ats_name, slug)
+
+        # Process all futures as they complete
+        all_futures = set(regular_futures.keys()) | set(dormant_futures.keys())
+        for fut in as_completed(all_futures):
+            if fut in dormant_futures:
+                # Handle dormant check result
+                ats_name, slug = dormant_futures[fut]
+                dormant_checked += 1
+                try:
+                    _ats, _slug, was_promoted, jobs = fut.result()
+                    if was_promoted:
+                        promoted[_ats].append(_slug)
+                        extend_limited(jobs)
+                        print(f"  [dormant:{_ats}] PROMOTED {_slug} ({len(jobs)} jobs collected)")
+                except Exception:
+                    dormant_errors += 1
+                # Progress for dormant checks every 500
+                if dormant_checked % 500 == 0:
+                    total_promoted = sum(len(v) for v in promoted.values())
+                    print(f"  [dormant] Progress: {dormant_checked}/{dormant_total} checked, {total_promoted} promoted")
+            else:
+                # Handle regular collection result
+                source, token = regular_futures[fut]
+                completed_by_source[source] += 1
+                done = completed_by_source[source]
+                total = source_totals[source]
+                try:
+                    jobs = fut.result()
+                    extend_limited(jobs)
+                except Exception as e:
+                    errors[source] += 1
+                    if errors[source] <= 5:
+                        print(f"  [ERROR] [{source}] {token}: {e}")
+                if (done % progress_every == 0) or (done == total):
+                    print(f"  [{source}] Progress: {done}/{total} ({len(all_jobs)} jobs so far)")
+
+    # Persist dormant promotions to disk
+    total_promoted = sum(len(v) for v in promoted.values())
+    if check_dormant and dormant_total > 0:
+        print(f"\n[dormant-check] Checked {dormant_checked}/{dormant_total}, errors: {dormant_errors}")
+        if total_promoted > 0:
+            _update_valid_invalid_files(promoted)
+            print(f"[dormant-check] Total promoted: {total_promoted} companies")
+            for ats, slugs in promoted.items():
+                if slugs:
+                    print(f"  - {ats}: {len(slugs)}")
+        else:
+            print("[dormant-check] No dormant companies woke up this cycle.")
 
     # Insert into database
     inserted, updated_existing, skipped_stale, skipped_invalid = upsert_jobs(all_jobs)
-    
+
     print(f"\n{'='*70}")
     print(f"COLLECTION COMPLETE")
     print(f"{'='*70}")
@@ -2666,6 +2848,8 @@ def collect_once(
     print(f"  - Himalayas:       {errors['himalayas']}")
     print(f"  - Jobicy:          {errors['jobicy']}")
     print(f"  - HN Who's Hiring: {errors['hn_hiring']}")
+    if check_dormant:
+        print(f"Dormant promoted:    {total_promoted}")
     print(f"Timestamp:           {now_local().isoformat()}")
     print(f"{'='*70}\n")
 
@@ -2984,6 +3168,10 @@ def full_refresh(
         print("\n[full-refresh] Running ATS token validation...")
         validate_all_from_master_list()
 
+    # When skipping full validation (4-hourly runs), check dormant companies
+    # so new data/ML jobs at previously-empty boards are caught within 4 hours.
+    use_dormant = skip_api_validate
+
     print("\n[full-refresh] Collecting jobs...")
     collect_once(
         days_back_posted=days_back_posted,
@@ -2991,6 +3179,7 @@ def full_refresh(
         max_per_source=max_per_source,
         collect_workers=collect_workers,
         min_request_interval_sec=min_request_interval_sec,
+        check_dormant=use_dormant,
     )
 
     print("\n[full-refresh] Exporting JSON + README...")

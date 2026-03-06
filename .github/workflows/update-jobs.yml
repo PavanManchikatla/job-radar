@@ -62,6 +62,6 @@ jobs:
           fi
 
           git add README.md exports state sources/companies.txt
-          git add validated_sources/*_valid.txt
+          git add validated_sources/*_valid.txt validated_sources/*_invalid.txt
           git commit -m "chore: update job feed"
           git push
