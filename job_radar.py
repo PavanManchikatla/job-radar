@@ -164,6 +164,15 @@ DEFAULT_MASTER_LIST_LOCAL = Path("sources/companies.txt")
 EXTRA_MASTER_LIST_LOCAL = Path("sources/companies_extra.txt")
 EXTRA_MASTER_LISTS_DIR = Path("sources/company_lists")
 
+# External slug list URLs for ATS board expansion
+FEASHLIAA_GREENHOUSE_URL = "https://raw.githubusercontent.com/Feashliaa/job-board-aggregator/main/data/greenhouse_companies.json"
+FEASHLIAA_LEVER_URL = "https://raw.githubusercontent.com/Feashliaa/job-board-aggregator/main/data/lever_companies.json"
+YC_HIRING_URL = "https://yc-oss.github.io/api/companies/hiring.json"
+
+# Himalayas pagination config
+HIMALAYAS_MAX_PAGES = 50
+HIMALAYAS_PAGE_SIZE = 20
+
 VALIDATOR_WORKERS = 25
 VALIDATOR_TIMEOUT_SEC = 20
 
@@ -1176,11 +1185,149 @@ def load_validated_sources() -> Tuple[List[str], List[str], List[str], List[str]
         return [ln.strip() for ln in p.read_text(encoding="utf-8").splitlines() if ln.strip()]
 
     return (
-        load_if_exists(VALID_GREENHOUSE), 
-        load_if_exists(VALID_LEVER), 
+        load_if_exists(VALID_GREENHOUSE),
+        load_if_exists(VALID_LEVER),
         load_if_exists(VALID_SMART),
         load_if_exists(VALID_ASHBY)
     )
+
+
+def _extract_slugs_from_json(data: Any) -> List[str]:
+    """Extract slug strings from external JSON. Handles list of strings or list of dicts."""
+    slugs: List[str] = []
+    if isinstance(data, list):
+        for item in data:
+            if isinstance(item, str):
+                slug = item.strip().lower()
+                if slug:
+                    slugs.append(slug)
+            elif isinstance(item, dict):
+                for key in ("slug", "name", "company", "id", "board_token"):
+                    val = item.get(key)
+                    if isinstance(val, str) and val.strip():
+                        slugs.append(val.strip().lower())
+                        break
+    elif isinstance(data, dict):
+        for val in data.values():
+            if isinstance(val, list):
+                slugs.extend(_extract_slugs_from_json(val))
+                break
+    seen: Set[str] = set()
+    unique: List[str] = []
+    for s in slugs:
+        if s not in seen:
+            unique.append(s)
+            seen.add(s)
+    return unique
+
+
+def _slugify_company_name(name: str) -> List[str]:
+    """Generate ATS-style slug candidates from a company name."""
+    clean = re.sub(r'[^\w\s-]', '', name.lower().strip())
+    parts = clean.split()
+    if not parts:
+        return []
+    slugs: List[str] = []
+    joined = "".join(parts)
+    if joined:
+        slugs.append(joined)
+    hyphenated = "-".join(parts)
+    if hyphenated and hyphenated != joined:
+        slugs.append(hyphenated)
+    if len(parts) > 1:
+        slugs.append(parts[0])
+    return slugs
+
+
+def expand_slugs_from_feashliaa(*, auto_validate: bool = True) -> None:
+    """Download Greenhouse + Lever slug lists from Feashliaa repo, merge into companies.txt."""
+    ensure_dirs()
+    master_path = resolve_master_companies_file()
+    existing = set(load_master_company_list(master_path))
+    new_slugs: List[str] = []
+
+    print("[expand-slugs] Downloading Greenhouse slugs from Feashliaa...")
+    try:
+        gh_data = http_get_json_with_retry(FEASHLIAA_GREENHOUSE_URL, timeout=30, max_retries=3)
+        gh_slugs = _extract_slugs_from_json(gh_data)
+        added_gh = [s for s in gh_slugs if s not in existing]
+        new_slugs.extend(added_gh)
+        existing.update(added_gh)
+        print(f"  Greenhouse: {len(gh_slugs)} total, {len(added_gh)} new")
+    except Exception as e:
+        print(f"  [ERROR] Failed to download Greenhouse slugs: {e}")
+
+    print("[expand-slugs] Downloading Lever slugs from Feashliaa...")
+    try:
+        lv_data = http_get_json_with_retry(FEASHLIAA_LEVER_URL, timeout=30, max_retries=3)
+        lv_slugs = _extract_slugs_from_json(lv_data)
+        added_lv = [s for s in lv_slugs if s not in existing]
+        new_slugs.extend(added_lv)
+        existing.update(added_lv)
+        print(f"  Lever: {len(lv_slugs)} total, {len(added_lv)} new")
+    except Exception as e:
+        print(f"  [ERROR] Failed to download Lever slugs: {e}")
+
+    if not new_slugs:
+        print("[expand-slugs] No new slugs to add.")
+        return
+
+    with open(master_path, "a", encoding="utf-8") as f:
+        f.write("\n# --- Feashliaa slug expansion ---\n")
+        for slug in new_slugs:
+            f.write(slug + "\n")
+
+    print(f"[expand-slugs] Appended {len(new_slugs)} new slugs to {master_path}")
+
+    if auto_validate:
+        print("[expand-slugs] Running validation on expanded list...")
+        validate_all_from_master_list()
+
+
+def expand_slugs_from_yc(*, auto_validate: bool = True) -> None:
+    """Download YC hiring companies, slugify names, merge into companies.txt."""
+    ensure_dirs()
+    master_path = resolve_master_companies_file()
+    existing = set(load_master_company_list(master_path))
+    new_slugs: List[str] = []
+
+    print("[expand-yc] Downloading YC hiring companies...")
+    try:
+        data = http_get_json_with_retry(YC_HIRING_URL, timeout=30, max_retries=3)
+    except Exception as e:
+        print(f"  [ERROR] Failed to download YC hiring data: {e}")
+        return
+
+    if not isinstance(data, list):
+        print(f"  [ERROR] Unexpected YC data format: {type(data)}")
+        return
+
+    for company in data:
+        if not isinstance(company, dict):
+            continue
+        name = company.get("name") or ""
+        if not name:
+            continue
+        slugs = _slugify_company_name(name)
+        for slug in slugs:
+            if slug and slug not in existing:
+                new_slugs.append(slug)
+                existing.add(slug)
+
+    if not new_slugs:
+        print("[expand-yc] No new YC slugs to add.")
+        return
+
+    with open(master_path, "a", encoding="utf-8") as f:
+        f.write("\n# --- YC hiring companies ---\n")
+        for slug in new_slugs:
+            f.write(slug + "\n")
+
+    print(f"[expand-yc] Appended {len(new_slugs)} new YC slugs to {master_path}")
+
+    if auto_validate:
+        print("[expand-yc] Running validation on expanded list...")
+        validate_all_from_master_list()
 
 
 def _extract_workday_job_id(url_or_path: str, title: str) -> str:
@@ -2022,6 +2169,358 @@ def fetch_ashby(
     return out
 
 
+# =========================
+# Aggregator Connectors
+# =========================
+def fetch_remoteok(
+    *,
+    throttler: Optional[RequestThrottler] = None,
+    min_request_interval_sec: Optional[float] = None,
+) -> List[Job]:
+    """Fetch jobs from RemoteOK API. First element is metadata (skip it)."""
+    url = "https://remoteok.com/api"
+    data = http_get_json_with_retry(
+        url,
+        timeout=30,
+        throttler=throttler,
+        min_request_interval_sec=min_request_interval_sec,
+    )
+    if not isinstance(data, list) or len(data) < 2:
+        return []
+
+    out: List[Job] = []
+    seen = now_local()
+
+    for item in data[1:]:
+        if not isinstance(item, dict):
+            continue
+        job_id = str(item.get("id", "")).strip()
+        if not job_id:
+            continue
+        title = item.get("position", "") or ""
+        company = item.get("company", "") or ""
+        location = item.get("location", "Remote") or "Remote"
+        apply_url = item.get("apply_url") or item.get("url") or ""
+        posted_at = parse_any_datetime(item.get("date"))
+
+        tags = item.get("tags") or []
+        desc_parts = []
+        if tags and isinstance(tags, list):
+            desc_parts.append("Tags: " + ", ".join(str(t) for t in tags))
+        raw_desc = item.get("description", "") or ""
+        if raw_desc:
+            desc_parts.append(_strip_html(raw_desc)[:500])
+        sal_min = item.get("salary_min")
+        sal_max = item.get("salary_max")
+        if sal_min or sal_max:
+            desc_parts.insert(0, f"Salary: ${sal_min or '?'}-${sal_max or '?'}")
+        description = " | ".join(desc_parts)
+
+        if not job_passes_filters(title, location):
+            continue
+
+        if not apply_url:
+            apply_url = f"https://remoteok.com/remote-jobs/{item.get('slug', job_id)}"
+
+        out.append(Job(
+            source="remoteok",
+            job_id=job_id,
+            title=title,
+            company=company,
+            location=location,
+            url=apply_url,
+            posted_at=posted_at,
+            first_seen_at=seen,
+            description=description,
+        ))
+    return out
+
+
+def fetch_himalayas(
+    *,
+    throttler: Optional[RequestThrottler] = None,
+    min_request_interval_sec: Optional[float] = None,
+    max_pages: int = HIMALAYAS_MAX_PAGES,
+) -> List[Job]:
+    """Fetch jobs from Himalayas.app API with pagination.
+    Caps at max_pages to be respectful (106K total jobs available)."""
+    out: List[Job] = []
+    seen = now_local()
+
+    for page in range(max_pages):
+        offset = page * HIMALAYAS_PAGE_SIZE
+        url = "https://himalayas.app/jobs/api"
+        params = {"limit": HIMALAYAS_PAGE_SIZE, "offset": offset}
+
+        try:
+            data = http_get_json_with_retry(
+                url,
+                params=params,
+                timeout=30,
+                throttler=throttler,
+                min_request_interval_sec=min_request_interval_sec,
+            )
+        except Exception as e:
+            print(f"  [himalayas] Page {page} failed: {e}")
+            break
+
+        jobs_list = data if isinstance(data, list) else (data.get("jobs") or data.get("data") or [])
+        if not isinstance(jobs_list, list) or not jobs_list:
+            break
+
+        for item in jobs_list:
+            if not isinstance(item, dict):
+                continue
+            job_id = str(item.get("guid") or item.get("id") or "").strip()
+            if not job_id:
+                continue
+            title = item.get("title", "") or ""
+            company = item.get("companyName", "") or ""
+            loc_restrictions = item.get("locationRestrictions")
+            if isinstance(loc_restrictions, list) and loc_restrictions:
+                location = ", ".join(str(x) for x in loc_restrictions[:3])
+            else:
+                location = "Remote"
+            apply_url = item.get("applicationLink") or item.get("url") or ""
+            posted_at = parse_any_datetime(item.get("pubDate"))
+
+            desc_parts = []
+            emp_type = item.get("employmentType")
+            if emp_type:
+                desc_parts.append(f"Type: {emp_type}")
+            seniority = item.get("seniority")
+            if seniority:
+                desc_parts.append(f"Level: {seniority}")
+            categories = item.get("categories")
+            if isinstance(categories, list) and categories:
+                desc_parts.append("Categories: " + ", ".join(str(c) for c in categories))
+            sal_min = item.get("minSalary")
+            sal_max = item.get("maxSalary")
+            if sal_min or sal_max:
+                desc_parts.append(f"Salary: ${sal_min or '?'}-${sal_max or '?'}")
+            raw_desc = item.get("excerpt", "") or ""
+            if raw_desc:
+                desc_parts.append(raw_desc[:300])
+            description = " | ".join(desc_parts)
+
+            if not job_passes_filters(title, location):
+                continue
+
+            out.append(Job(
+                source="himalayas",
+                job_id=job_id,
+                title=title,
+                company=company,
+                location=location,
+                url=apply_url,
+                posted_at=posted_at,
+                first_seen_at=seen,
+                description=description,
+            ))
+
+        if len(jobs_list) < HIMALAYAS_PAGE_SIZE:
+            break
+
+    return out
+
+
+def fetch_jobicy(
+    *,
+    throttler: Optional[RequestThrottler] = None,
+    min_request_interval_sec: Optional[float] = None,
+) -> List[Job]:
+    """Fetch remote data jobs from Jobicy API."""
+    url = "https://jobicy.com/api/v2/remote-jobs"
+    params = {"count": 50, "tag": "data"}
+
+    data = http_get_json_with_retry(
+        url,
+        params=params,
+        timeout=30,
+        throttler=throttler,
+        min_request_interval_sec=min_request_interval_sec,
+    )
+    if not isinstance(data, dict):
+        return []
+
+    jobs_list = data.get("jobs") or []
+    if not isinstance(jobs_list, list):
+        return []
+
+    out: List[Job] = []
+    seen = now_local()
+
+    for item in jobs_list:
+        if not isinstance(item, dict):
+            continue
+        job_id = str(item.get("id", "")).strip()
+        if not job_id:
+            continue
+        title = item.get("jobTitle", "") or ""
+        company = item.get("companyName", "") or ""
+        location = item.get("jobGeo", "") or "Remote"
+        apply_url = item.get("url", "") or ""
+        posted_at = parse_any_datetime(item.get("pubDate"))
+
+        desc_parts = []
+        industry = item.get("jobIndustry")
+        if isinstance(industry, list):
+            desc_parts.append("Industry: " + ", ".join(str(i) for i in industry))
+        job_type = item.get("jobType")
+        if isinstance(job_type, list):
+            desc_parts.append("Type: " + ", ".join(str(t) for t in job_type))
+        job_level = item.get("jobLevel")
+        if job_level:
+            desc_parts.append(f"Level: {job_level}")
+        raw_desc = item.get("jobExcerpt") or item.get("jobDescription", "") or ""
+        if raw_desc:
+            desc_parts.append(_strip_html(raw_desc)[:500])
+        description = " | ".join(desc_parts)
+
+        if not job_passes_filters(title, location):
+            continue
+
+        out.append(Job(
+            source="jobicy",
+            job_id=job_id,
+            title=title,
+            company=company,
+            location=location,
+            url=apply_url,
+            posted_at=posted_at,
+            first_seen_at=seen,
+            description=description,
+        ))
+    return out
+
+
+def _parse_hn_job_comment(html_text: str) -> Optional[Tuple[str, str, str, str]]:
+    """Parse an HN Who's Hiring comment.
+    Typical format: Company Name | Role Title | Location | REMOTE | ...
+    Returns (company, title, location, description) or None."""
+    text = _strip_html(html_text)
+    if not text:
+        return None
+    lines = [ln.strip() for ln in text.split("\n") if ln.strip()]
+    if not lines:
+        return None
+    first_line = lines[0]
+    parts = [p.strip() for p in first_line.split("|") if p.strip()]
+    if len(parts) < 2:
+        return None
+    company = parts[0]
+    title = parts[1]
+    location_parts = []
+    for p in parts[2:]:
+        p_lower = p.lower()
+        if p_lower in ("remote", "onsite", "hybrid"):
+            location_parts.append(p)
+        elif "visa" in p_lower or "$" in p or "salary" in p_lower:
+            continue
+        elif any(c.isdigit() for c in p) and len(p) < 10:
+            continue
+        else:
+            location_parts.append(p)
+    location = ", ".join(location_parts) if location_parts else ""
+    if "remote" in first_line.lower() and "remote" not in location.lower():
+        location = (location + ", Remote").lstrip(", ") if location else "Remote"
+    description = " ".join(lines[1:]) if len(lines) > 1 else ""
+    return company, title, location, description
+
+
+def fetch_hn_whos_hiring(
+    *,
+    throttler: Optional[RequestThrottler] = None,
+    min_request_interval_sec: Optional[float] = None,
+) -> List[Job]:
+    """Fetch jobs from the latest HN 'Who is Hiring?' thread via Algolia API."""
+    # Step 1: Find latest thread
+    search_url = "https://hn.algolia.com/api/v1/search_by_date"
+    search_params = {"tags": "story,author_whoishiring", "hitsPerPage": 5}
+
+    try:
+        search_data = http_get_json_with_retry(
+            search_url, params=search_params, timeout=30,
+            throttler=throttler, min_request_interval_sec=min_request_interval_sec,
+        )
+    except Exception as e:
+        print(f"  [hn] Failed to search for Who's Hiring thread: {e}")
+        return []
+
+    hits = search_data.get("hits") or []
+    thread_id = None
+    for hit in hits:
+        title = (hit.get("title") or "").lower()
+        if "who is hiring" in title and "wants to be hired" not in title and "freelancer" not in title:
+            thread_id = hit.get("objectID")
+            break
+
+    if not thread_id:
+        print("  [hn] No 'Who is Hiring?' thread found")
+        return []
+
+    # Step 2: Fetch all top-level comments
+    all_comments: List[dict] = []
+    for page in range(5):  # up to 1000 comments
+        comments_url = "https://hn.algolia.com/api/v1/search"
+        comments_params = {
+            "tags": f"comment,story_{thread_id}",
+            "hitsPerPage": 200,
+            "page": page,
+        }
+        try:
+            comments_data = http_get_json_with_retry(
+                comments_url, params=comments_params, timeout=30,
+                throttler=throttler, min_request_interval_sec=min_request_interval_sec,
+            )
+        except Exception:
+            break
+        page_hits = comments_data.get("hits") or []
+        if not page_hits:
+            break
+        all_comments.extend(page_hits)
+        if page + 1 >= (comments_data.get("nbPages") or 1):
+            break
+
+    # Step 3: Parse each top-level comment
+    out: List[Job] = []
+    seen = now_local()
+
+    for comment in all_comments:
+        parent_id = str(comment.get("parent_id", ""))
+        if parent_id != str(thread_id):
+            continue
+        comment_id = str(comment.get("objectID", "")).strip()
+        if not comment_id:
+            continue
+        comment_text = comment.get("comment_text", "") or ""
+        if not comment_text:
+            continue
+
+        parsed = _parse_hn_job_comment(comment_text)
+        if not parsed:
+            continue
+        company, title, location, description = parsed
+        posted_at = parse_any_datetime(comment.get("created_at"))
+        job_url = f"https://news.ycombinator.com/item?id={comment_id}"
+
+        if not job_passes_filters(title, location):
+            continue
+
+        out.append(Job(
+            source="hn_hiring",
+            job_id=comment_id,
+            title=title,
+            company=company,
+            location=location,
+            url=job_url,
+            posted_at=posted_at,
+            first_seen_at=seen,
+            description=description[:1000],
+        ))
+
+    return out
+
 
 # =========================
 # Collect
@@ -2047,16 +2546,18 @@ def collect_once(
     print(f"  - Lever:           {len(lv)} companies")
     print(f"  - SmartRecruiters: {len(sr)} companies")
     print(f"  - Ashby:           {len(ashby)} companies")
-    print(f"  - Total:           {len(gh) + len(lv) + len(sr) + len(ashby)} companies")
+    print(f"  - RemoteOK:        1 endpoint")
+    print(f"  - Himalayas:       1 endpoint ({HIMALAYAS_MAX_PAGES} pages max)")
+    print(f"  - Jobicy:          1 endpoint")
+    print(f"  - HN Who's Hiring: 1 thread")
+    print(f"  - Total:           {len(gh) + len(lv) + len(sr) + len(ashby)} companies + 4 aggregators")
     print(f"  - Parallel workers:{max(1, int(collect_workers))}")
     print(f"  - Min request gap: {max(0.0, float(min_request_interval_sec)):.2f}s per host")
     print(f"{'='*70}\n")
 
     if not gh and not lv and not sr and not ashby:
-        print("[ERROR] No validated sources found!")
-        print("Please run:")
-        print("  python job_radar.py validate")
-        return
+        print("[WARNING] No validated ATS sources found, but aggregator sources will still run.")
+        print("Run: python job_radar.py validate")
 
     all_jobs: List[Job] = []
     errors: Dict[str, int] = {
@@ -2064,6 +2565,10 @@ def collect_once(
         "lever": 0,
         "smartrecruiters": 0,
         "ashby": 0,
+        "remoteok": 0,
+        "himalayas": 0,
+        "jobicy": 0,
+        "hn_hiring": 0,
     }
 
     cutoff_utc: Optional[datetime] = None
@@ -2095,6 +2600,10 @@ def collect_once(
         "lever": len(lv),
         "smartrecruiters": len(sr),
         "ashby": len(ashby),
+        "remoteok": 1,
+        "himalayas": 1,
+        "jobicy": 1,
+        "hn_hiring": 1,
     }
     completed_by_source = {k: 0 for k in source_totals}
     progress_every = 25
@@ -2104,6 +2613,12 @@ def collect_once(
     tasks.extend([("lever", company, fetch_lever, (company,)) for company in lv])
     tasks.extend([("smartrecruiters", company, fetch_smartrecruiters, (company,)) for company in sr])
     tasks.extend([("ashby", company, fetch_ashby, (company,)) for company in ashby])
+
+    # Aggregator sources (single task each)
+    tasks.append(("remoteok", "remoteok", fetch_remoteok, ()))
+    tasks.append(("himalayas", "himalayas", fetch_himalayas, ()))
+    tasks.append(("jobicy", "jobicy", fetch_jobicy, ()))
+    tasks.append(("hn_hiring", "hn_hiring", fetch_hn_whos_hiring, ()))
 
     print("[collect] Fetching validated sources in parallel (with host-level throttling)...")
     with ThreadPoolExecutor(max_workers=collect_workers) as ex:
@@ -2147,6 +2662,10 @@ def collect_once(
     print(f"  - Lever:           {errors['lever']}")
     print(f"  - SmartRecruiters: {errors['smartrecruiters']}")
     print(f"  - Ashby:           {errors['ashby']}")
+    print(f"  - RemoteOK:        {errors['remoteok']}")
+    print(f"  - Himalayas:       {errors['himalayas']}")
+    print(f"  - Jobicy:          {errors['jobicy']}")
+    print(f"  - HN Who's Hiring: {errors['hn_hiring']}")
     print(f"Timestamp:           {now_local().isoformat()}")
     print(f"{'='*70}\n")
 
@@ -2565,6 +3084,12 @@ Examples:
     p_pipeline.add_argument("--collect-workers", type=int, default=DEFAULT_COLLECT_WORKERS, help="Parallel fetch workers across validated companies")
     p_pipeline.add_argument("--min-request-interval", type=float, default=DEFAULT_MIN_REQUEST_INTERVAL_SEC, help="Minimum seconds between requests to the same host")
 
+    p_expand = sub.add_parser("expand-slugs", help="Download Greenhouse/Lever slug lists and merge into companies.txt")
+    p_expand.add_argument("--no-validate", action="store_true", help="Skip automatic revalidation after merging")
+
+    p_yc = sub.add_parser("expand-yc", help="Discover ATS boards from YC hiring companies")
+    p_yc.add_argument("--no-validate", action="store_true", help="Skip automatic revalidation")
+
     p_full = sub.add_parser("full-refresh", help="Run web validation + ATS validation + collection + exports")
     p_full.add_argument("--skip-api-validate", action="store_true", help="Skip ATS token validation")
     p_full.add_argument("--days-back-posted", type=int, default=None, help="Only ingest jobs posted in the last N days")
@@ -2603,6 +3128,10 @@ Examples:
             collect_workers=args.collect_workers,
             min_request_interval_sec=args.min_request_interval,
         )
+    elif args.cmd == "expand-slugs":
+        expand_slugs_from_feashliaa(auto_validate=not args.no_validate)
+    elif args.cmd == "expand-yc":
+        expand_slugs_from_yc(auto_validate=not args.no_validate)
     elif args.cmd == "full-refresh":
         full_refresh(
             skip_api_validate=bool(args.skip_api_validate),

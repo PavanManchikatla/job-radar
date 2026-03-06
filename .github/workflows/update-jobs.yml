@@ -3,7 +3,7 @@ name: Update Job Feed
 on:
   schedule:
     - cron: "0 */4 * * *"   # every 4 hours (lightweight refresh)
-    - cron: "45 12 * * *"   # daily 12:45 UTC (full revalidation)
+    - cron: "45 12 * * 0"   # weekly Sunday 12:45 UTC (full revalidation)
   workflow_dispatch: {}
 
 permissions:
@@ -30,15 +30,19 @@ jobs:
 
       - name: Run refresh pipeline
         run: |
-          if [ "${{ github.event_name }}" = "workflow_dispatch" ] || [ "${{ github.event.schedule }}" = "45 12 * * *" ]; then
-            echo "Running full revalidation + refresh"
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ] || [ "${{ github.event.schedule }}" = "45 12 * * 0" ]; then
+            echo "=== Expanding slug lists ==="
+            python job_radar.py expand-slugs --no-validate
+            python job_radar.py expand-yc --no-validate
+
+            echo "=== Running full revalidation + refresh ==="
             python job_radar.py full-refresh \
               --collect-workers 20 \
               --min-request-interval 0.6 \
               --max-per-source 300 \
               --days-back-posted 30
           else
-            echo "Running daily refresh (skip validations)"
+            echo "Running 4-hourly refresh (skip validations)"
             python job_radar.py full-refresh \
               --skip-api-validate \
               --collect-workers 20 \
@@ -57,7 +61,7 @@ jobs:
             exit 0
           fi
 
-          git add README.md exports state
+          git add README.md exports state sources/companies.txt
           git add validated_sources/*_valid.txt
           git commit -m "chore: update job feed"
           git push
