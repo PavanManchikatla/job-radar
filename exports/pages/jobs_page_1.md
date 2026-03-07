@@ -1,6 +1,6 @@
 # Jobs Feed (Page 1/1)
 
-_Last updated: 2026-03-07 10:34 CST_
+_Last updated: 2026-03-07 14:32 CST_
 
 | Posted | Company | Title | Location | Source |
 |---|---|---|---|---|
@@ -414,38 +414,5 @@ _Last updated: 2026-03-07 10:34 CST_
 | 2026-03-04 | newlimit | [Data Scientist](https://job-boards.greenhouse.io/newlimit/jobs/5762618004) | South San Francisco, CA | greenhouse |
 | 2026-03-04 | goodwaygroup | [Global Data Analyst](https://job-boards.greenhouse.io/goodwaygroup/jobs/5819360004) | Remote | greenhouse |
 | 2026-03-04 | engine | [Staff Data Scientist, Pricing](https://job-boards.greenhouse.io/engine/jobs/6612259003) | Remote - USA | greenhouse |
-| 2026-03-04 | faire | [Senior Product Analytics Engineer](https://boards.greenhouse.io/faire/jobs/8336548002?gh_jid=8336548002) | San Francisco, CA | greenhouse |
-| 2026-03-04 | faire | [Senior Staff Machine Learning Platform Engineer](https://boards.greenhouse.io/faire/jobs/8426105002?gh_jid=8426105002) | San Francisco, CA | greenhouse |
-| 2026-03-04 | airship | [Data Analyst](https://job-boards.eu.greenhouse.io/airship/jobs/4708625101) | Remote - U.S. | greenhouse |
-| 2026-03-04 | airship | [Data Analyst](https://job-boards.eu.greenhouse.io/airship/jobs/4651028101) | Remote - U.S. | greenhouse |
-| 2026-03-04 | airship | [Data Analytics Manager](https://job-boards.eu.greenhouse.io/airship/jobs/4723642101) | Remote - U.S. | greenhouse |
-| 2026-03-04 | caseguard | [Machine Learning Engineer - Computer Vision](https://job-boards.greenhouse.io/caseguard/jobs/5120675008) | Arlington, VA | greenhouse |
-| 2026-03-04 | careportalinc | [Data Scientist III (Product Analytics)](https://www.cedar.com/careers/open-roles?gh_jid=7491846) | New York, NY, United States | greenhouse |
-| 2026-03-04 | typeface | [Staff ML Engineer](https://job-boards.greenhouse.io/typeface/jobs/4833257007) | Palo Alto, CA | greenhouse |
-| 2026-03-04 | zocdoc | [Senior Analytics Engineer](https://job-boards.greenhouse.io/zocdoc/jobs/7571797) | New York, NY, United States | greenhouse |
-| 2026-03-04 | roblox | [Senior Data Scientist, Analytical Data Product - Engine](https://careers.roblox.com/jobs/7539739?gh_jid=7539739) | San Mateo, CA, United States | greenhouse |
-| 2026-03-04 | faire | [Senior Business Intelligence Analyst](https://boards.greenhouse.io/faire/jobs/8448671002?gh_jid=8448671002) | San Francisco, CA | greenhouse |
-| 2026-03-04 | faire | [Senior Data Scientist / Machine Learning Engineer - Listing Quality](https://boards.greenhouse.io/faire/jobs/8227562002?gh_jid=8227562002) | San Francisco, CA | greenhouse |
-| 2026-03-04 | faire | [Senior Data Scientist - Retailer](https://boards.greenhouse.io/faire/jobs/7953217002?gh_jid=7953217002) | San Francisco, CA | greenhouse |
-| 2026-03-04 | faire | [Senior Staff Data Engineer - Platform Data and Analytics](https://boards.greenhouse.io/faire/jobs/8440216002?gh_jid=8440216002) | San Francisco, CA | greenhouse |
-| 2026-03-04 | faire | [Staff Machine Learning Platform Engineer](https://boards.greenhouse.io/faire/jobs/8426107002?gh_jid=8426107002) | San Francisco, CA | greenhouse |
-| 2026-03-04 | aqr | [Client Analytics Engineering Associate](https://careers.aqr.com/jobs?gh_jid=6652460&gh_jid=6652460) | Greenwich, CT | greenhouse |
-| 2026-03-04 | aqr | [Portfolio Analytics Engineer](https://careers.aqr.com/jobs?gh_jid=7202482&gh_jid=7202482) | Greenwich, CT | greenhouse |
-| 2026-03-04 | extremenetworks | [AI Senior Machine Learning Engineer -Gen AI, Machine Learning, Graph ML (10189)](https://jobs.lever.co/extremenetworks/f99032c4-6048-484d-b93e-f8dfbb62aa19) | San Jose, California, United States | lever |
-| 2026-03-04 | springhealth66 | [Data Analyst II, Customer Reporting](https://job-boards.greenhouse.io/springhealth66/jobs/4667499005) | San Francisco, CA (Hybrid) | greenhouse |
-| 2026-03-04 | netdocuments | [Senior Software Engineer - AI](https://job-boards.greenhouse.io/netdocuments/jobs/4896806008) | Lehi, Utah, United States; Remote - US | greenhouse |
-| 2026-03-04 | stockx | [Senior Data Engineer](https://job-boards.greenhouse.io/stockx/jobs/8402571002) | Detroit, MI | greenhouse |
-| 2026-03-04 | nmi | [Google Cloud Data Engineer](https://job-boards.greenhouse.io/nmi/jobs/5135888008) | Remote, US | greenhouse |
-| 2026-03-04 | torcrobotics | [Staff, ML Engineer - Learned Behaviors / RL Planning](https://job-boards.greenhouse.io/torcrobotics/jobs/8304694002) | Remote - US, Ann Arbor, MI | greenhouse |
-| 2026-03-04 | torcrobotics | [Staff, ML Engineer - Learned Behaviors / RL Planning](https://job-boards.greenhouse.io/torcrobotics/jobs/8308102002) | Remote - Canada, Montreal, Canada | greenhouse |
-| 2026-03-04 | roblox | [Senior Machine Learning - Avatar, Core AI](https://careers.roblox.com/jobs/7249513?gh_jid=7249513) | San Mateo, CA, United States | greenhouse |
-| 2026-03-04 | seed | [Senior Analytics Engineer](https://job-boards.greenhouse.io/seed/jobs/7651387003) | Remote | greenhouse |
-| 2026-03-04 | elastic | [Business Intelligence & Insights Analyst (Marketing Analytics)](https://jobs.elastic.co/jobs?gh_jid=7648141&gh_jid=7648141) | United States | greenhouse |
-| 2026-03-04 | sage49 | [Senior Applied Machine Learning Engineer - Detect](https://job-boards.greenhouse.io/sage49/jobs/5819105004) | New York, New York, United States | greenhouse |
-| 2026-03-04 | scoutai | [AI Researcher - Fury Team](https://job-boards.greenhouse.io/scoutai/jobs/4643328008) | Sunnyvale, CA | greenhouse |
-| 2026-03-04 | scoutai | [AI Engineer - Fury Team](https://job-boards.greenhouse.io/scoutai/jobs/4643324008) | Sunnyvale, CA | greenhouse |
-| 2026-03-04 | typeface | [Senior ML Engineer](https://job-boards.greenhouse.io/typeface/jobs/4833219007) | Palo Alto, CA | greenhouse |
-| 2026-03-04 | rvohealth | [Data Analyst, Quit For Life](https://job-boards.greenhouse.io/rvohealth/jobs/4659423005) | Charlotte, North Carolina, United States | greenhouse |
-| 2026-03-04 | redventures | [Staff Data Engineer](https://www.redventures.com/careers/positions/open?gh_jid=7406565) | United States | greenhouse |
 
 [Back to README](../../README.md)
