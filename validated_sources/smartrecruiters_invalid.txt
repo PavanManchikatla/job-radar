@@ -2261,7 +2261,6 @@ gskill	no_postings
 kingston	no_postings
 adata	no_postings
 teamgroup	no_postings
-sandisk	no_matching_jobs
 pny	no_postings
 patriot	no_postings
 mushkin	no_postings
