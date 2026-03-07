@@ -1,11 +1,13 @@
 # Jobs Feed (Page 1/1)
 
-_Last updated: 2026-03-06 23:07 CST_
+_Last updated: 2026-03-07 02:38 CST_
 
 | Posted | Company | Title | Location | Source |
 |---|---|---|---|---|
-| 2026-03-07 | bloomerang | [Sr. Marketing Data Analyst](https://job-boards.greenhouse.io/bloomerang/jobs/4666331005) | Remote, US | greenhouse |
+| 2026-03-07 | QuoIntelligence | [Senior Data Engineer](https://news.ycombinator.com/item?id=47285692) | Remote - Spain/Italy, Full time QuoIntelligence is a European cybersecurity threat intelligence company (~40 people, Series A, remote from Spain/Italy/German). We collect over 90% of our intelligence data in-house. No bulk feeds from Recorded Future or CrowdStrike. Custom pipelines scrape underground forums and ingest technical threat feeds, all built internally. The data engineering here produces the intelligence directly. We are looking for someone to maintain and evolve the data infrastructure (built from scratch on DigitalOcean, no managed services, no IaC) while leading the migration to AWS and beyond. Team is small and you'd be one of two data engineers, collaborating directly with Threat Intelligence Engineers on data access patterns and source integration. More here: https://jobs.quointelligence.eu/jobs/7247890-senior-data-eng... | hn_hiring |
 | 2026-03-07 | verisign | [Sr Research Engineer](https://job-boards.greenhouse.io/verisign/jobs/7636398003) | Reston,Virginia,United States | greenhouse |
+| 2026-03-07 | earnin | [Head of Machine Learning & Data](https://job-boards.greenhouse.io/earnin/jobs/7106869) | Mountain View, US | greenhouse |
+| 2026-03-07 | bloomerang | [Sr. Marketing Data Analyst](https://job-boards.greenhouse.io/bloomerang/jobs/4666331005) | Remote, US | greenhouse |
 | 2026-03-07 | yipitdatajobs | [Data Engineering Manager](https://job-boards.greenhouse.io/yipitdatajobs/jobs/7446282) | US Remote | greenhouse |
 | 2026-03-07 | yipitdata | [Data Engineering Lead](https://job-boards.greenhouse.io/yipitdata/jobs/7306248) | US Remote | greenhouse |
 | 2026-03-07 | coupang | [Staff Machine Learning Engineer](https://www.coupang.jobs/en/jobs/?gh_jid=7203575) | Mountain View, USA | greenhouse |
@@ -487,12 +489,5 @@ _Last updated: 2026-03-06 23:07 CST_
 | 2026-03-04 | nextinsurance66 | [AI Engineering Manager](https://job-boards.greenhouse.io/nextinsurance66/jobs/7550933003) | Boston, MA | greenhouse |
 | 2026-03-04 | xapo61 | [Data Analyst - Client Coverage Group (Remote - Work from Anywhere)](https://job-boards.greenhouse.io/xapo61/jobs/7596633003) | Gibraltar - Remote | greenhouse |
 | 2026-03-04 | xapo61 | [Data Analyst (Remote - Work from Anywhere)](https://job-boards.greenhouse.io/xapo61/jobs/7572078003) | Gibraltar - Remote | greenhouse |
-| 2026-03-04 | eqvilentjobs | [ML Engineer](https://job-boards.eu.greenhouse.io/eqvilentjobs/jobs/4155557101) | Remote | greenhouse |
-| 2026-03-04 | eqvilentjobs | [Quant Developer](https://job-boards.eu.greenhouse.io/eqvilentjobs/jobs/4596920101) | Remote | greenhouse |
-| 2026-03-04 | eqvilentjobs | [Quantitative Analyst](https://job-boards.eu.greenhouse.io/eqvilentjobs/jobs/4096158101) | Remote | greenhouse |
-| 2026-03-04 | eqvilentjobs | [Quantitative Researcher](https://job-boards.eu.greenhouse.io/eqvilentjobs/jobs/4057476101) | Remote | greenhouse |
-| 2026-03-04 | pandadoc | [Staff Product Data Scientist](https://job-boards.greenhouse.io/pandadoc/jobs/7483822) | USA (Remote) | greenhouse |
-| 2026-03-04 | pandadoc | [Staff Product Data Scientist](https://job-boards.greenhouse.io/pandadoc/jobs/7483614) | Ukraine (Remote) | greenhouse |
-| 2026-03-04 | pandadoc | [Staff Product Data Scientist](https://job-boards.greenhouse.io/pandadoc/jobs/7483272) | Poland (Remote) | greenhouse |
 
 [Back to README](../../README.md)
