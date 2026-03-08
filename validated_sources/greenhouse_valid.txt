@@ -3,6 +3,7 @@ scaleai
 databricks
 deepmind
 typeface
+descript
 zoominfo
 6sense
 calendly
@@ -126,7 +127,6 @@ bamboohr17
 pathrobotics
 fleetio
 baubap
-loop
 ethoslife
 anteriad
 striveworks
@@ -229,7 +229,6 @@ instawork
 qualtrics
 energysolutions
 juullabs
-memic
 monzo
 artefact
 funga
@@ -264,7 +263,6 @@ mark43
 samsungresearchamerica
 nimblegravity
 keeleyconstruction
-twinhealth
 nucleus
 youcom
 bpcs
@@ -294,6 +292,7 @@ veracyte
 esri
 spycloud
 doubleverify
+garnerhealth
 cogstateinc
 ezcaterinc
 xairatherapeutics
@@ -403,6 +402,7 @@ inspiren
 thefloridapanthers
 altentechnologyusa
 vannevarlabs
+daymarkhealth
 carrumhealth
 gtslivingfoods
 parallel
@@ -415,6 +415,7 @@ distantjob
 earnest
 paveakatroveinformationtechnologies
 rhombuspower
+attune
 seatgeek
 rockstargames
 checkr
@@ -468,6 +469,7 @@ ownwell
 gatherai
 isccareers
 ada18
+shipbobinc
 everlaw
 das42
 planetlabs
@@ -493,6 +495,7 @@ lig
 stratolaunch
 archer56
 ascend21
+ceribell
 affinity
 propel
 arine
