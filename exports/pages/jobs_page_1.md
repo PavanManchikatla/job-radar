@@ -1,6 +1,6 @@
 # Jobs Feed (Page 1/1)
 
-_Last updated: 2026-03-07 23:17 CST_
+_Last updated: 2026-03-08 03:38 CDT_
 
 | Posted | Company | Title | Location | Source |
 |---|---|---|---|---|
@@ -353,7 +353,5 @@ _Last updated: 2026-03-07 23:17 CST_
 | 2026-03-05 | owkin | [Data Engineer](https://www.owkin.com/careers?gh_jid=4794950101#current-opportunities) | London - Germany - Remote in UK and Germany | greenhouse |
 | 2026-03-05 | seatgeek | [Analytics Engineer](https://seatgeek.com/jobs/7680520?gh_jid=7680520) | Remote - United States | greenhouse |
 | 2026-03-05 | monzo | [Platform Engineer, Machine Learning](https://job-boards.greenhouse.io/monzo/jobs/7118972) | Cardiff, London or Remote (UK); London | greenhouse |
-| 2026-03-05 | wongdoody | [Creative AI Workflow Specialist / Creative AI Engineer (all genders)](https://job-boards.greenhouse.io/wongdoody/jobs/6251927003) | Berlin, DE \| Germany (REMOTE) \| Stuttgart, DE | greenhouse |
-| 2026-03-05 | fourkites | [Staff Software Engineer - AI](https://job-boards.greenhouse.io/fourkites/jobs/7601583) | Chennai or Remote, India | greenhouse |
 
 [Back to README](../../README.md)
