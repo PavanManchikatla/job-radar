@@ -1,11 +1,15 @@
 ## Jobs Feed (auto-updated)
 
 <!-- JOBS:START -->
-_Last updated: 2026-03-08 11:54 CDT_
+_Last updated: 2026-03-08 15:51 CDT_
 
 | Posted | Company | Title | Location | Source |
 |---|---|---|---|---|
+| 2026-03-08 | cribl | [Staff Machine Learning Engineer, AI Researcher](https://cribl.io/job-detail/?gh_jid=5746408004) | Remote - United States | greenhouse |
 | 2026-03-08 | verisign | [Sr Research Engineer](https://job-boards.greenhouse.io/verisign/jobs/7636398003) | Reston,Virginia,United States | greenhouse |
+| 2026-03-08 | AI startup (stealth) | [Co-founder / AI engineers](https://news.ycombinator.com/item?id=47299970) | REMOTE We’re building an AI system that will disrupt the SaaS market as a whole. The foundation already exists and is running. The concept itself is not difficult for experts once it becomes public, but the architecture and timing are key. We’re moving extremely fast. Plan: - release an open-source core - build a large community around it - scale fast enough to push competitors out Current state is first friendly test customers onboarding in a few days. This is just 1 week old. We’re currently reaching out to major AI labs since they could profit a lot from this, but we don’t need them to scale aggressively. Right now there’s no significant funding yet, but the pace is extremely high and this could gain traction very quickly. We can likely raise ~€250k fairly quickly via public funding in my country, without giving up shares, but first we want to assemble the right people and make a plan together. Looking for: - someone with founder experience / VC contacts, or - hardcore AI engineers like me who ship extremely fast We are currently EU-based, but the company can be set up wherever makes most sense for the business. It's huge fun to work with it. Contact: https://t.me/aeagentic — Raffael & Team | hn_hiring |
+| 2026-03-08 | garnerhealth | [Data Engineer II](https://job-boards.greenhouse.io/garnerhealth/jobs/5820417004) | Remote | greenhouse |
+| 2026-03-08 | garnerhealth | [Senior Data Engineer](https://job-boards.greenhouse.io/garnerhealth/jobs/5820416004) | Remote | greenhouse |
 | 2026-03-08 | coupang | [Applied Scientist - Global Operations Tech](https://www.coupang.jobs/en/jobs/?gh_jid=7301665) | Seattle, USA | greenhouse |
 | 2026-03-08 | babylist | [Senior Engineering Manager, Machine Learning](https://job-boards.greenhouse.io/babylist/jobs/5815353004) | United States and Canada | greenhouse |
 | 2026-03-08 | coupang | [Staff Machine Learning Engineer](https://www.coupang.jobs/en/jobs/?gh_jid=7203575) | Mountain View, USA | greenhouse |
@@ -55,9 +59,7 @@ _Last updated: 2026-03-08 11:54 CDT_
 | 2026-03-06 | pitchbookdata | [Sr. Data Engineer](https://job-boards.greenhouse.io/pitchbookdata/jobs/4650884006) | Seattle, Washington, United States | greenhouse |
 | 2026-03-06 | jamf | [BI Data Engineer II](https://www.jamf.com/about/careers/jobs/?gh_jid=5712133004&gh_jid=5712133004) | Poland - Remote | greenhouse |
 | 2026-03-06 | jamf | [Senior Technical Support Data Analyst](https://www.jamf.com/about/careers/jobs/?gh_jid=5819990004&gh_jid=5819990004) | Eau Claire, WI; Minneapolis, MN | greenhouse |
-| 2026-03-06 | garnerhealth | [Senior Data Engineer](https://job-boards.greenhouse.io/garnerhealth/jobs/5820416004) | Remote | greenhouse |
 | 2026-03-06 | ceribell | [Sr./Data Analyst](https://job-boards.greenhouse.io/ceribell/jobs/5819918004) | Sunnyvale, CA | greenhouse |
-| 2026-03-06 | garnerhealth | [Data Engineer II](https://job-boards.greenhouse.io/garnerhealth/jobs/5820417004) | Remote | greenhouse |
 | 2026-03-06 | rightwayhealthcare | [Analytics Engineer](https://www.rightwayhealthcare.com/jobs?gh_jid=7609040003) | New York, NY or Remote | greenhouse |
 | 2026-03-06 | rightwayhealthcare | [Analytics Engineer](https://www.rightwayhealthcare.com/jobs?gh_jid=7599241003) | New York, NY or Remote | greenhouse |
 | 2026-03-06 | rightwayhealthcare | [Data Analyst III, Care Complete](https://www.rightwayhealthcare.com/jobs?gh_jid=7594659003) | Remote | greenhouse |
@@ -311,26 +313,4 @@ _Last updated: 2026-03-08 11:54 CDT_
 | 2026-03-05 | geniussports | [Senior Applied AI Engineer](https://boards.greenhouse.io/geniussports/jobs/7655005003?gh_jid=7655005003) | Los Angeles, California, United States | greenhouse |
 | 2026-03-05 | buyersedgeplatformrecruiting | [Business Intelligence Analyst](https://job-boards.greenhouse.io/buyersedgeplatformrecruiting/jobs/4662480005) | Remotely based | greenhouse |
 | 2026-03-05 | buyersedgeplatformrecruiting | [Data Scientist](https://job-boards.greenhouse.io/buyersedgeplatformrecruiting/jobs/4662999005) | Remotely based | greenhouse |
-| 2026-03-05 | geotab | [Senior Data Scientist](https://job-boards.greenhouse.io/geotab/jobs/4918405008) | Atlanta, Georgia - USA | greenhouse |
-| 2026-03-05 | koboldmetals | [Data Scientist - Staff or Senior (Global)](https://job-boards.greenhouse.io/koboldmetals/jobs/4305917005) | Remote | greenhouse |
-| 2026-03-05 | toast | [Staff Data Scientist](https://careers.toasttab.com/jobs?gh_jid=7408289) | Remote, US | greenhouse |
-| 2026-03-05 | arine | [Senior Data Engineer - Data Operations](https://job-boards.greenhouse.io/arine/jobs/5775562004) | Remote | greenhouse |
-| 2026-03-05 | arine | [Data Engineering Lead](https://job-boards.greenhouse.io/arine/jobs/5748941004) | Remote (United States of America) | greenhouse |
-| 2026-03-05 | arine | [Staff Data Engineer](https://job-boards.greenhouse.io/arine/jobs/5741043004) | Remote (United States of America) | greenhouse |
-| 2026-03-05 | bugcrowd | [Senior Data Scientist](https://boards.greenhouse.io/bugcrowd/jobs/7575587?gh_jid=7575587) | Remote - US | greenhouse |
-| 2026-03-05 | thealleninstitute | [Research Engineer, FlexOlmo](https://job-boards.greenhouse.io/thealleninstitute/jobs/7417017) | Seattle, WA | greenhouse |
-| 2026-03-05 | patientpoint | [Sr. Data Scientist, Pricing](https://job-boards.greenhouse.io/patientpoint/jobs/4670043005) | Remote, US | greenhouse |
-| 2026-03-05 | redventures | [Data Science Manager \| Home Services](https://www.redventures.com/careers/positions/open?gh_jid=7527603) | Charlotte, NC | greenhouse |
-| 2026-03-05 | fleetio | [Senior Analytics Engineer - Fleetio](https://job-boards.greenhouse.io/fleetio/jobs/5054939007) | Remote - USA, CAN, MEX | greenhouse |
-| 2026-03-05 | fleetio | [Senior Analytics Engineer - Auto Integreate](https://job-boards.greenhouse.io/fleetio/jobs/5070772007) | Remote - USA, CAN, MEX | greenhouse |
-| 2026-03-05 | definitivehc | [Data Scientist](https://job-boards.greenhouse.io/definitivehc/jobs/5792078004) | Framingham, MA | greenhouse |
-| 2026-03-05 | pathward | [Data Scientist I](https://job-boards.greenhouse.io/pathward/jobs/5722623004) | Remote | greenhouse |
-| 2026-03-05 | striveworks | [Senior Machine Learning Engineer](https://job-boards.greenhouse.io/striveworks/jobs/7611089003) | Austin, Texas or Remote | greenhouse |
-| 2026-03-05 | raft | [Staff Machine Learning Software Engineer](https://job-boards.greenhouse.io/raft/jobs/5817132004) | Herndon, Va | greenhouse |
-| 2026-03-05 | pinterest | [Engineering Manager II, Machine Learning – User Understanding](https://www.pinterestcareers.com/jobs/?gh_jid=7494658) | San Francisco, CA, US; Remote, US | greenhouse |
-| 2026-03-05 | instacart | [Senior Machine Learning Engineer I & II, Search & Recommendations Ranking](https://instacart.careers/job/?gh_jid=7565508) | US - Remote | greenhouse |
-| 2026-03-05 | stitchfix | [Senior Full-Stack Data Scientist - Client Experience Algorithms (multiple roles)](https://www.stitchfix.com/careers/jobs?gh_jid=7557721&gh_jid=7557721) | Remote, USA | greenhouse |
-| 2026-03-05 | rockstargames | [Associate Principal Data Scientist, Player Experience Analytics](https://job-boards.greenhouse.io/rockstargames/jobs/7562459003) | Manhattan, New York, United States | greenhouse |
-| 2026-03-05 | fireworksai | [Applied Machine Learning Engineer](https://job-boards.greenhouse.io/fireworksai/jobs/4001304009) | New York, NY; San Mateo, CA | greenhouse |
-| 2026-03-05 | pinterest | [Sr. Staff Machine Learning Engineer, Homefeed](https://www.pinterestcareers.com/jobs/?gh_jid=6908633) | San Francisco, CA, US; Remote, US | greenhouse |
 <!-- JOBS:END -->
