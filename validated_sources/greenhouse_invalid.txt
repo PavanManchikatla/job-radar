@@ -6122,7 +6122,6 @@ modularai	http_404
 integraladscience	http_404
 terraclear	no_matching_jobs
 offerzen	no_matching_jobs
-grafanalabs	no_matching_jobs
 beaconsoftware	no_matching_jobs
 socialpoint	no_jobs
 psiquantum	no_matching_jobs

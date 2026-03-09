@@ -1,9 +1,11 @@
 # Jobs Feed (Page 1/1)
 
-_Last updated: 2026-03-09 00:45 CDT_
+_Last updated: 2026-03-09 04:09 CDT_
 
 | Posted | Company | Title | Location | Source |
 |---|---|---|---|---|
+| 2026-03-09 | shipbobinc | [Manager, Data Engineering](https://job-boards.greenhouse.io/shipbobinc/jobs/4666439005) | Remote - India | greenhouse |
+| 2026-03-09 | roblox | [Senior Data Scientist, Game Engine Simulation](https://careers.roblox.com/jobs/7629528?gh_jid=7629528) | San Mateo, CA, United States | greenhouse |
 | 2026-03-09 | verisign | [Sr Research Engineer](https://job-boards.greenhouse.io/verisign/jobs/7636398003) | Reston,Virginia,United States | greenhouse |
 | 2026-03-09 | correlationone | [Teaching Assistant: Machine Learning Data Associate](https://job-boards.greenhouse.io/correlationone/jobs/5802065004) | Remote: EMEA | greenhouse |
 | 2026-03-09 | correlationone | [Staff Data Engineer](https://job-boards.greenhouse.io/correlationone/jobs/5753967004) | Remote: Latin America | greenhouse |
@@ -106,7 +108,6 @@ _Last updated: 2026-03-09 00:45 CDT_
 | 2026-03-06 | reddit | [Staff Machine Learning Engineer, Ads Auction (Ads Marketplace Quality)](https://job-boards.greenhouse.io/reddit/jobs/7181821) | Remote - United States | greenhouse |
 | 2026-03-06 | onboardmeetings | [Principal Software Engineer - AI](https://job-boards.greenhouse.io/onboardmeetings/jobs/5813520004) | United States | greenhouse |
 | 2026-03-06 | coinbase | [Senior Machine Learning Platform Engineer (Platform)](https://www.coinbase.com/careers/positions/7604203?gh_jid=7604203) | Remote - USA | greenhouse |
-| 2026-03-06 | shipbobinc | [Manager, Data Engineering](https://job-boards.greenhouse.io/shipbobinc/jobs/4666439005) | Remote - India | greenhouse |
 | 2026-03-06 | opendoor | [Data Scientist](https://www.opendoor.com/careers/open-positions?gh_jid=4659693006) | Seattle, Washington, United States | greenhouse |
 | 2026-03-06 | steerbridge | [Senior Data Engineer](https://jobs.lever.co/steerbridge/66ff20eb-8054-4daa-b826-a79e489afe33) | Vienna, VA | lever |
 | 2026-03-06 | allencontrolsystems | [Machine Learning Data Engineer](https://job-boards.greenhouse.io/allencontrolsystems/jobs/5145637008) | Austin, TX | greenhouse |
