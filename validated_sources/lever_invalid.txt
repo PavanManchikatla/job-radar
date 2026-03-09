@@ -1474,7 +1474,6 @@ grubhub	http_404
 ehopper pos	http_404
 signal	no_matching_jobs
 tiktok	http_404
-linkedin	no_matching_jobs
 viber	http_404
 kakaotalk	http_404
 doordash	http_404
@@ -9332,7 +9331,6 @@ activetheory	no_matching_jobs
 100ms	no_matching_jobs
 additionwealth	no_matching_jobs
 adverum	no_matching_jobs
-advocate	no_matching_jobs
 accurate	no_matching_jobs
 aerispartners	http_404
 agerpoint	http_404
@@ -9537,7 +9535,6 @@ boston-materials	no_matching_jobs
 contentsquare	no_matching_jobs
 dronedeploy	no_matching_jobs
 dnb	no_matching_jobs
-drivemode	no_matching_jobs
 eastwall	http_404
 coloradocoalition	no_matching_jobs
 eastern-communications	no_matching_jobs
@@ -9550,7 +9547,6 @@ edpuzzle	no_matching_jobs
 electricmind	no_matching_jobs
 eleostech	no_matching_jobs
 emersoncollective	no_jobs
-doranjones	no_matching_jobs
 ekohealth	no_matching_jobs
 capricor	no_matching_jobs
 encore-renewable-energy	no_matching_jobs
@@ -10049,7 +10045,6 @@ treering	no_matching_jobs
 tradeify	no_matching_jobs
 tribe-payments	no_matching_jobs
 trilogyfederal	http_404
-trueml	no_matching_jobs
 trendyol	no_matching_jobs
 trueplatform	no_matching_jobs
 thrivecausemetics	no_matching_jobs

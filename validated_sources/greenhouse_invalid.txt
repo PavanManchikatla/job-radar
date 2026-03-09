@@ -5129,7 +5129,6 @@ ozow	no_matching_jobs
 apothecom	no_matching_jobs
 isomorphiclabs	no_matching_jobs
 kiavi	no_matching_jobs
-shopmonkey	no_matching_jobs
 breakthroughenergy	http_404
 thoughtworks	no_matching_jobs
 crescendohealth	no_matching_jobs
@@ -5363,7 +5362,6 @@ scileads	no_matching_jobs
 interbrand	no_matching_jobs
 purposemed	no_matching_jobs
 northern dynasty	http_404
-horizonindustrieslimited	no_matching_jobs
 wellth	http_404
 humanrightswatch	no_matching_jobs
 worldcoinorg	http_404
@@ -5657,7 +5655,6 @@ hispanicaccessfoundation	no_jobs
 nava	http_404
 team1	no_jobs
 tiptop	no_matching_jobs
-hugeinc	no_matching_jobs
 eei	no_matching_jobs
 supersod	no_matching_jobs
 boldbusiness	no_matching_jobs
@@ -7941,7 +7938,6 @@ konux	no_matching_jobs
 aspectbiosystems	no_matching_jobs
 spyretherapeutics	no_jobs
 amount	no_matching_jobs
-extend	no_matching_jobs
 knak	no_matching_jobs
 vanleeuwenicecream	no_matching_jobs
 accurx	http_404
@@ -7989,7 +7985,6 @@ armada	no_matching_jobs
 cb4	no_matching_jobs
 americaspromisealliance	no_jobs
 katrisk	no_jobs
-jungroup	no_matching_jobs
 workshop	no_matching_jobs
 ogilvyhealthuk	no_matching_jobs
 kentik	no_matching_jobs
@@ -8256,7 +8251,6 @@ helium10	no_matching_jobs
 hotwireprus	http_404
 nanonets	no_matching_jobs
 devtechnology	no_matching_jobs
-globalhealthcareexchangeinc	no_matching_jobs
 gluwa	http_404
 tealmedia	no_matching_jobs
 zinnia	no_matching_jobs
@@ -8501,7 +8495,6 @@ verainstituteofjustice	no_matching_jobs
 actpowerservices	no_matching_jobs
 kallesgroup	no_matching_jobs
 kajabi	http_404
-pointdigitalfinance	no_matching_jobs
 mojangab	no_matching_jobs
 2k	no_matching_jobs
 ahrefsjobs	no_matching_jobs
