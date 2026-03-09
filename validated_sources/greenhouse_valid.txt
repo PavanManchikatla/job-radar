@@ -687,3 +687,4 @@ lob
 qventus
 thesciongroupllc
 grafanalabs
+rapidsos

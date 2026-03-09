@@ -7762,7 +7762,6 @@ ifood	http_404
 bbposlimited	no_matching_jobs
 benchprep	no_matching_jobs
 pointwild	no_matching_jobs
-rapidsos	no_matching_jobs
 fortitudemining	no_matching_jobs
 rattle	http_404
 carewell	no_matching_jobs
