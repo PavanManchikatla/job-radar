@@ -2842,7 +2842,6 @@ mulesoft	no_postings
 workday	no_postings
 hubspot	no_postings
 microsoft dynamics	http_400
-servicenow	no_matching_jobs
 zendesk	no_postings
 freshworks	no_matching_jobs
 zoho	no_postings

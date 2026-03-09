@@ -5217,7 +5217,6 @@ summitpartnerslp	no_matching_jobs
 factorialenergy	no_matching_jobs
 csg holdings	http_404
 canonicaljobs	http_404
-metron	no_matching_jobs
 testlio	no_matching_jobs
 brevium	no_matching_jobs
 wonderschool	no_matching_jobs
@@ -6523,7 +6522,6 @@ remotasks	no_matching_jobs
 truework	no_matching_jobs
 ventustherapeutics	no_jobs
 apprentice	no_jobs
-voyagertechnologiesinc	no_matching_jobs
 forwardnetworks	no_matching_jobs
 lambda	http_404
 morganmorganjobsapplynow	no_matching_jobs
@@ -8109,7 +8107,6 @@ jumptrading	no_matching_jobs
 everest	http_404
 ridedott	http_404
 bark	no_matching_jobs
-edgeconnex	no_matching_jobs
 augury	no_matching_jobs
 prezzee	no_matching_jobs
 simulauib	no_matching_jobs
