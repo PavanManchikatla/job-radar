@@ -5415,7 +5415,6 @@ c6bank	no_matching_jobs
 studiokraftonboard	no_matching_jobs
 wallapop	no_matching_jobs
 bees	no_matching_jobs
-temporal	no_matching_jobs
 aippublishing	no_matching_jobs
 meditelecare	no_matching_jobs
 lilium	http_404
@@ -8384,7 +8383,6 @@ greenpointtechnologies	no_matching_jobs
 navigationfund	http_404
 philliesbaseballoperations	no_matching_jobs
 co58owxtuvc3ql11n5p1b79mj5flai45kbbwmpk5zvyfvj7tphwrf7kj9r0vr8krxku3n93jffzugl2w8420bfji9ar3q8hle6ty	no_matching_jobs
-neoris	no_matching_jobs
 groma	no_matching_jobs
 clipboardhealth	http_404
 brookecharterschools	no_matching_jobs

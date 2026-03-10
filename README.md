@@ -1,18 +1,26 @@
 ## Jobs Feed (auto-updated)
 
 <!-- JOBS:START -->
-_Last updated: 2026-03-10 04:06 CDT_
+_Last updated: 2026-03-10 08:24 CDT_
 
 | Posted | Company | Title | Location | Source |
 |---|---|---|---|---|
+| 2026-03-10 | gympass | [Senior Data Engineer \| Deep Individual Data team](https://job-boards.greenhouse.io/gympass/jobs/8116065002) | Brazil (Remote) | greenhouse |
+| 2026-03-10 | temporal | [Machine Learning Engineer](https://job-boards.greenhouse.io/temporal/jobs/4178995009) | New York / Remote | greenhouse |
 | 2026-03-10 | a3c41b8b71eff8c4 | [Pricing Data Analyst](https://job-boards.greenhouse.io/a3c41b8b71eff8c4/jobs/7636637003) | United States, Remote | greenhouse |
+| 2026-03-10 | nubank | [Lead ML Data Engineer, AI Core](https://job-boards.greenhouse.io/nubank/jobs/7645916) | USA, Durham; USA, Miami; USA, Palo Alto | greenhouse |
+| 2026-03-10 | babylist | [Senior Engineering Manager, Machine Learning](https://job-boards.greenhouse.io/babylist/jobs/5815353004) | United States and Canada | greenhouse |
+| 2026-03-10 | fourkites | [Staff Software Engineer - AI](https://job-boards.greenhouse.io/fourkites/jobs/7601583) | Chennai or Remote, India | greenhouse |
 | 2026-03-10 | verisign | [Sr Research Engineer](https://job-boards.greenhouse.io/verisign/jobs/7636398003) | Reston,Virginia,United States | greenhouse |
+| 2026-03-10 | realtimeboardglobal | [Lead Research Scientist](https://miro.com/careers/vacancy/8395670002?gh_jid=8395670002) | Copenhagen, DK; London, UK; Remote EMEA | greenhouse |
+| 2026-03-10 | realtimeboardglobal | [Machine Learning Research Engineer](https://miro.com/careers/vacancy/8395672002?gh_jid=8395672002) | Copenhagen, DK; London, UK; Remote EMEA | greenhouse |
+| 2026-03-10 | realtimeboardglobal | [Machine Learning Research Manager](https://miro.com/careers/vacancy/8418244002?gh_jid=8418244002) | Copenhagen, DK; London, UK; Remote EMEA | greenhouse |
 | 2026-03-10 | waymo | [Senior Product Data Scientist, In Car Experience & Territory Expansion](https://careers.withwaymo.com/jobs?gh_jid=7697543) | Mountain View, CA, US; San Francisco, CA, US | greenhouse |
 | 2026-03-10 | janestreet | [Campus Recruiter, Machine Learning and Quantitative Research](https://job-boards.greenhouse.io/janestreet/jobs/8229056002) | New York, New York, United States | greenhouse |
 | 2026-03-10 | janestreet | [Machine Learning Educator](https://job-boards.greenhouse.io/janestreet/jobs/8056588002) | New York, New York, United States | greenhouse |
 | 2026-03-10 | janestreet | [Machine Learning Engineer](https://job-boards.greenhouse.io/janestreet/jobs/8048874002) | New York, New York, United States | greenhouse |
-| 2026-03-10 | janestreet | [Machine Learning Researcher](https://job-boards.greenhouse.io/janestreet/jobs/8060848002) | New York, New York, United States | greenhouse |
 | 2026-03-10 | janestreet | [Machine Learning Researcher](https://job-boards.greenhouse.io/janestreet/jobs/8069434002) | New York, New York, United States | greenhouse |
+| 2026-03-10 | janestreet | [Machine Learning Researcher](https://job-boards.greenhouse.io/janestreet/jobs/8060848002) | New York, New York, United States | greenhouse |
 | 2026-03-10 | janestreet | [Quantitative Researcher](https://job-boards.greenhouse.io/janestreet/jobs/8069351002) | New York, New York, United States | greenhouse |
 | 2026-03-10 | janestreet | [Machine Learning Performance Engineer](https://job-boards.greenhouse.io/janestreet/jobs/7449190002) | New York, New York, United States | greenhouse |
 | 2026-03-10 | janestreet | [Machine Learning Performance Engineer](https://job-boards.greenhouse.io/janestreet/jobs/7449077002) | New York, New York, United States | greenhouse |
@@ -127,7 +135,6 @@ _Last updated: 2026-03-10 04:06 CDT_
 | 2026-03-09 | zetaglobal | [Principal AI/ML Engineer - AdTech](https://zetaglobal.com/jobs/jobs-at-zeta-global?gh_jid=5692542004) | Remote - United States | greenhouse |
 | 2026-03-09 | jungroup | [Data Engineer](https://job-boards.greenhouse.io/jungroup/jobs/8455485002) | New York, NY | greenhouse |
 | 2026-03-09 | esri | [Data Scientist II](https://www.esri.com/careers/5073658007?gh_jid=5073658007) | Redlands, CA | greenhouse |
-| 2026-03-09 | vikingglobalinvestors | [Data Engineer](https://job-boards.greenhouse.io/vikingglobalinvestors/jobs/5818049004) | New York, NY | greenhouse |
 | 2026-03-09 | correlationone | [Lead Instructor: Machine Learning Data Associate](https://job-boards.greenhouse.io/correlationone/jobs/5799850004) | Remote: EMEA | greenhouse |
 | 2026-03-09 | drivemode | [Senior Data Analyst](https://jobs.lever.co/drivemode/b1be8001-a17c-49ce-9b8e-e316ca4b5650) | Mountain View, CA | lever |
 | 2026-03-09 | advancedspace | [Machine Learning Engineer](https://job-boards.greenhouse.io/advancedspace/jobs/4068976009) | Westminster, CO | greenhouse |
@@ -196,7 +203,6 @@ _Last updated: 2026-03-10 04:06 CDT_
 | 2026-03-09 | imc | [Quantitative Researcher – Futures](https://job-boards.eu.greenhouse.io/imc/jobs/4740859101) | Chicago, United States; New York, United States | greenhouse |
 | 2026-03-09 | imc | [Quantitative Researcher - Options](https://job-boards.eu.greenhouse.io/imc/jobs/4286816101) | Chicago, United States | greenhouse |
 | 2026-03-09 | imc | [Research Engineer](https://job-boards.eu.greenhouse.io/imc/jobs/4653321101) | Chicago, United States; New York, United States | greenhouse |
-| 2026-03-09 | 6sense | [Data Scientist](https://boards.greenhouse.io/6sense/jobs/6708532?gh_jid=6708532) | San Francisco, California, United States | greenhouse |
 | 2026-03-09 | cribl | [Staff Machine Learning Engineer, AI Researcher](https://cribl.io/job-detail/?gh_jid=5746408004) | Remote - United States | greenhouse |
 | 2026-03-09 | rapidsos | [Business Intelligence & AI Analyst](https://job-boards.greenhouse.io/rapidsos/jobs/5072453007) | Remote | greenhouse |
 | 2026-03-09 | overstory | [Staff Machine Learning Engineer - Wildfire](https://job-boards.eu.greenhouse.io/overstory/jobs/4702478101) | Remote: United States \| Canada | greenhouse |
@@ -204,16 +210,12 @@ _Last updated: 2026-03-10 04:06 CDT_
 | 2026-03-09 | calendly | [Machine Learning Engineer](https://job-boards.greenhouse.io/calendly/jobs/8381613002) | Remote - US | greenhouse |
 | 2026-03-09 | calendly | [Senior Data Analyst, Product](https://job-boards.greenhouse.io/calendly/jobs/8414932002) | Remote | greenhouse |
 | 2026-03-09 | blip-global | [Midlevel Data Analyst](https://job-boards.greenhouse.io/blip-global/jobs/4177993009) | Remote - Brazil | greenhouse |
-| 2026-03-09 | babylist | [Senior Engineering Manager, Machine Learning](https://job-boards.greenhouse.io/babylist/jobs/5815353004) | United States and Canada | greenhouse |
 | 2026-03-09 | datadog | [Staff AI Engineer - Notebooks](https://careers.datadoghq.com/detail/7627445/?gh_jid=7627445) | Portugal, Remote | greenhouse |
 | 2026-03-09 | datadog | [Staff AI Engineer - MCP Services](https://careers.datadoghq.com/detail/7627404/?gh_jid=7627404) | France, Remote; Germany, Remote; Ireland, Remote; Italy, Remote; Spain, Remote; Switzerland, Remote | greenhouse |
 | 2026-03-09 | innovecs | [Senior Data Engineer](https://jobs.innovecs.com/vacancies?gh_jid=8419068002) | Ukraine, Poland, Romania, Spain, Remote | greenhouse |
 | 2026-03-09 | innovecs | [Senior Machine Learning Engineer](https://jobs.innovecs.com/vacancies?gh_jid=8444634002) | Ukraine, Poland, Romania, Spain, Remote | greenhouse |
-| 2026-03-09 | realtimeboardglobal | [Lead Research Scientist](https://miro.com/careers/vacancy/8395670002?gh_jid=8395670002) | Copenhagen, DK; London, UK; Remote EMEA | greenhouse |
-| 2026-03-09 | realtimeboardglobal | [Machine Learning Research Engineer](https://miro.com/careers/vacancy/8395672002?gh_jid=8395672002) | Copenhagen, DK; London, UK; Remote EMEA | greenhouse |
 | 2026-03-09 | moniepoint | [Senior Data Analyst](https://job-boards.eu.greenhouse.io/moniepoint/jobs/4763337101) | Remote, Bangalore | greenhouse |
 | 2026-03-09 | moniepoint | [Senior Data Analyst](https://job-boards.eu.greenhouse.io/moniepoint/jobs/4716555101) | Remote, Spain | greenhouse |
-| 2026-03-09 | realtimeboardglobal | [Machine Learning Research Manager](https://miro.com/careers/vacancy/8418244002?gh_jid=8418244002) | Copenhagen, DK; London, UK; Remote EMEA | greenhouse |
 | 2026-03-09 | shipbobinc | [Manager, Data Engineering](https://job-boards.greenhouse.io/shipbobinc/jobs/4666439005) | Remote - India | greenhouse |
 | 2026-03-09 | roblox | [Senior Data Scientist, Game Engine Simulation](https://careers.roblox.com/jobs/7629528?gh_jid=7629528) | San Mateo, CA, United States | greenhouse |
 | 2026-03-09 | correlationone | [Teaching Assistant: Machine Learning Data Associate](https://job-boards.greenhouse.io/correlationone/jobs/5802065004) | Remote: EMEA | greenhouse |

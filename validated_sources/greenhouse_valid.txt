@@ -702,3 +702,5 @@ shein
 purestorage
 appspace
 wing
+temporal
+neoris
