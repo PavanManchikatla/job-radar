@@ -5141,7 +5141,6 @@ dianahealth94	no_matching_jobs
 darktracelimited	http_404
 vacationinc	no_matching_jobs
 kailera	no_matching_jobs
-chariotenergy	no_matching_jobs
 extra	http_404
 posigen	http_404
 stemhealthcare	no_matching_jobs
@@ -5155,7 +5154,6 @@ honeathome	no_matching_jobs
 arkoselabs	no_matching_jobs
 brkz	no_matching_jobs
 pixocial	no_matching_jobs
-ensono	no_matching_jobs
 theplaceforchildrenwithautism	no_matching_jobs
 code3	no_matching_jobs
 openzeppelin	no_matching_jobs
@@ -7065,7 +7063,6 @@ trumid	no_matching_jobs
 polly	http_404
 yepjobs	no_jobs
 razorpaysoftwareprivatelimited	no_matching_jobs
-bird	no_matching_jobs
 labelbox	no_matching_jobs
 hellotend	no_matching_jobs
 wheely	no_matching_jobs
@@ -7952,7 +7949,6 @@ portable	no_matching_jobs
 xendit	no_matching_jobs
 sfox	no_matching_jobs
 aottechnologies	no_matching_jobs
-eikontherapeutics	no_matching_jobs
 aurosglobal	no_matching_jobs
 apparatus	no_matching_jobs
 whop	no_matching_jobs
