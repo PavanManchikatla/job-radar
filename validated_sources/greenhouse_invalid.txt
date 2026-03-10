@@ -1041,7 +1041,6 @@ nasty gal	http_404
 forward	no_matching_jobs
 fashion nova	http_404
 missguided	http_404
-shein	no_matching_jobs
 romwe	http_404
 zaful	http_404
 amiclubwear	http_404
@@ -6512,7 +6511,6 @@ wavexr	http_404
 openfx	no_matching_jobs
 ebanx	no_matching_jobs
 graft	http_404
-purestorage	no_matching_jobs
 helloheart	no_matching_jobs
 zipcolimited	no_matching_jobs
 remotasks	no_matching_jobs
@@ -6970,7 +6968,6 @@ familyofkidz	no_matching_jobs
 ideo	no_matching_jobs
 sustainment	no_matching_jobs
 nanopathinc	no_jobs
-appspace	no_matching_jobs
 soeffects	no_matching_jobs
 mhi	no_matching_jobs
 zupinnovation	no_matching_jobs
@@ -8344,7 +8341,6 @@ yext	no_matching_jobs
 canvasconstruction	http_404
 synacksrt	no_matching_jobs
 higharc	http_404
-wing	no_matching_jobs
 alloy	no_matching_jobs
 onelocal	http_404
 peregrinetechnologies	no_matching_jobs
