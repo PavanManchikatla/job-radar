@@ -648,7 +648,6 @@ poloniex	http_404
 kucoin	http_404
 gate.io	http_404
 blockfi	http_404
-okx	no_matching_jobs
 celsius	http_404
 nexo	http_404
 ledn	http_404
@@ -5236,7 +5235,6 @@ kano	no_matching_jobs
 foursquare26	http_404
 supermetricsoy	no_matching_jobs
 chartbeatinc	no_matching_jobs
-bridgebio	no_matching_jobs
 mdclarity	no_matching_jobs
 scytherobotics	http_404
 codazen	no_matching_jobs
@@ -5325,7 +5323,6 @@ airtamejobs	no_matching_jobs
 forter	no_matching_jobs
 onsiteiq	http_404
 insurtechinsights	no_matching_jobs
-m3	no_matching_jobs
 rtingscom	no_matching_jobs
 surveymonkey	no_matching_jobs
 buynomics	no_matching_jobs
@@ -7071,7 +7068,6 @@ select	http_404
 chestercommunitycharterschool	no_matching_jobs
 clearpathforveterans	no_matching_jobs
 spideroak	http_404
-credible	no_matching_jobs
 truckstop	no_matching_jobs
 seekout	no_matching_jobs
 grammarly	no_matching_jobs
@@ -8570,7 +8566,6 @@ sconley	no_matching_jobs
 upstatement	no_jobs
 saraworks	no_jobs
 liveviewtechnologiesinc	no_jobs
-rialtic	no_matching_jobs
 thelibragroup	no_matching_jobs
 enterrasolutions	no_jobs
 jazzx-ai	no_matching_jobs
