@@ -9458,7 +9458,6 @@ celaralabs	no_matching_jobs
 celestia	no_matching_jobs
 apolloresearch	no_matching_jobs
 brooksrunning	no_matching_jobs
-canarytechnologies	no_matching_jobs
 aviahealth	no_jobs
 businesswire	no_matching_jobs
 chefrobotics	http_404

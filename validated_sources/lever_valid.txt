@@ -112,3 +112,4 @@ advocate
 drivemode
 doranjones
 trueml
+canarytechnologies
