@@ -5706,7 +5706,6 @@ astranis	no_matching_jobs
 inzoistudio	no_jobs
 epicsummerresearch	no_jobs
 sonymusicasiacareers	no_matching_jobs
-alvys	no_matching_jobs
 autograph	http_404
 sandstonecareboulder	no_matching_jobs
 capintel	no_matching_jobs
@@ -6773,7 +6772,6 @@ cannondesign	no_matching_jobs
 nurdie	no_matching_jobs
 abacusgroup	no_matching_jobs
 codeorg	no_matching_jobs
-inflectionai	no_matching_jobs
 healthnote	http_404
 springfertility	no_matching_jobs
 clara	no_matching_jobs
