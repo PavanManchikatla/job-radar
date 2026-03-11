@@ -5053,7 +5053,6 @@ agilespaceindustries	http_404
 beamup	no_matching_jobs
 uniswapfoundation	no_jobs
 aiko solar	http_404
-octave	no_matching_jobs
 insider	no_matching_jobs
 ruggable	no_matching_jobs
 aift	no_matching_jobs
@@ -5602,7 +5601,6 @@ cloudbeds	no_matching_jobs
 penninteractive	no_matching_jobs
 centriaautism	no_matching_jobs
 brave	no_matching_jobs
-genedx	no_matching_jobs
 coursemojo	no_matching_jobs
 fortisgames	no_matching_jobs
 inizio	no_matching_jobs
@@ -6630,7 +6628,6 @@ worldsurfleague	no_matching_jobs
 aisquared	no_matching_jobs
 everbody	http_404
 tekion	no_matching_jobs
-dynetherapeutics	no_matching_jobs
 kony	http_404
 h5pgroup	no_jobs
 matic	no_matching_jobs
@@ -7052,7 +7049,6 @@ oneacrefundmalawi	no_jobs
 pulumicorporation	no_matching_jobs
 costar	no_matching_jobs
 campminder	no_jobs
-trumid	no_matching_jobs
 polly	http_404
 yepjobs	no_jobs
 razorpaysoftwareprivatelimited	no_matching_jobs
@@ -7889,7 +7885,6 @@ bbyo	no_matching_jobs
 goodbysilversteinpartners	no_matching_jobs
 laboratoirertingscom	no_matching_jobs
 fazz	no_matching_jobs
-berkadia	no_matching_jobs
 arrayeducation	no_matching_jobs
 digitalocean98	no_matching_jobs
 championsgroupholdings	no_matching_jobs
@@ -8258,7 +8253,6 @@ eyeo	no_jobs
 havenly	http_404
 go1us	no_matching_jobs
 maev	no_jobs
-impact	no_matching_jobs
 burnt	no_matching_jobs
 epicbio	no_matching_jobs
 taxibeat	http_404
