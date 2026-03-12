@@ -5993,7 +5993,6 @@ exactsales	no_jobs
 playq	no_matching_jobs
 airnorth	no_matching_jobs
 forta	no_jobs
-memic	no_matching_jobs
 quansight	no_jobs
 figment	no_matching_jobs
 lexer	http_404
@@ -6215,7 +6214,6 @@ remotecom	no_matching_jobs
 karbon	no_matching_jobs
 catonetworks	no_matching_jobs
 drweng	no_matching_jobs
-akidolabs	no_matching_jobs
 jetzero	no_matching_jobs
 definitivehcindia	no_matching_jobs
 seniordoc	no_matching_jobs

@@ -732,3 +732,5 @@ mochihealth
 scopely
 mobilityware
 phiture2
+memic
+akidolabs

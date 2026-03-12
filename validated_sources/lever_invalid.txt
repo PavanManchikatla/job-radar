@@ -9590,7 +9590,6 @@ fullyvested	no_matching_jobs
 findem	no_matching_jobs
 gabbwireless	no_matching_jobs
 fleetzero	no_matching_jobs
-fiscalnote	no_matching_jobs
 fullscript	no_matching_jobs
 gearset	no_matching_jobs
 genefab	no_matching_jobs
