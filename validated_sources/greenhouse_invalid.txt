@@ -5444,7 +5444,6 @@ wholesail	no_matching_jobs
 gravitywell	no_jobs
 civilscience	no_matching_jobs
 armorcode	no_matching_jobs
-mochihealth	no_matching_jobs
 inspiraeducation	no_matching_jobs
 onarchipelago	no_matching_jobs
 essential	no_matching_jobs
@@ -5499,7 +5498,6 @@ hovercraft	no_matching_jobs
 eositsolutions	no_matching_jobs
 appstarfinancial	no_jobs
 basepowercompany	http_404
-scopely	no_matching_jobs
 arcdev	http_404
 generalassembly	no_matching_jobs
 magicleapinc	http_404
@@ -6650,7 +6648,6 @@ whisperaero	no_matching_jobs
 freedamedia	http_404
 terapore	no_jobs
 waymark	no_matching_jobs
-mobilityware	no_matching_jobs
 verramobility	no_matching_jobs
 learneo	no_matching_jobs
 logixboard	http_404

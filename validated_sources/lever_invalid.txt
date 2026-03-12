@@ -10079,7 +10079,6 @@ veic	no_matching_jobs
 valence	no_matching_jobs
 unlimit	no_matching_jobs
 pp-la	no_matching_jobs
-rigetti	no_matching_jobs
 viget	no_matching_jobs
 verygoodsecurity	no_matching_jobs
 sequel-med-tech	no_matching_jobs
