@@ -5250,7 +5250,6 @@ friendselc	no_matching_jobs
 mythicalgames	no_jobs
 moovx	http_404
 interviewengineering	no_matching_jobs
-phiture2	no_matching_jobs
 operationscareers	no_matching_jobs
 mantl	no_jobs
 codetta	no_jobs

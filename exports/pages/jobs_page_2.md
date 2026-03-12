@@ -1,12 +1,13 @@
 # Jobs Feed (Page 2/2)
 
-_Last updated: 2026-03-12 00:42 CDT_
+_Last updated: 2026-03-12 04:07 CDT_
 
 Page 2/2 | [Prev](jobs_page_1.md)
 
 
 | Posted | Company | Title | Location | Source |
 |---|---|---|---|---|
+| 2026-03-09 | trueml | [Sr. Machine Learning Engineer](https://jobs.lever.co/trueml/ae3bfc05-3a51-4dc1-bd22-21efec78ffbd) | Remote in Argentina | lever |
 | 2026-03-09 | instacart | [Senior Machine Learning Engineer II - AI Special Projects](https://instacart.careers/job/?gh_jid=7358005) | Canada - Remote (ON, AB, BC, or NS Only) | greenhouse |
 | 2026-03-09 | instacart | [Senior Machine Learning Engineer II, Search & Personalization](https://instacart.careers/job/?gh_jid=6716788) | Canada - Remote (AB, BC, ON, NS ONLY) | greenhouse |
 | 2026-03-09 | eclinicalsolutions | [Principal Data Engineer](https://job-boards.greenhouse.io/eclinicalsolutions/jobs/5073874007) | Mansfield, MA 2-3x a week | greenhouse |
@@ -104,7 +105,6 @@ Page 2/2 | [Prev](jobs_page_1.md)
 | 2026-03-09 | datadog | [Staff AI Engineer - MCP Services](https://careers.datadoghq.com/detail/7627404/?gh_jid=7627404) | France, Remote; Germany, Remote; Ireland, Remote; Italy, Remote; Spain, Remote; Switzerland, Remote | greenhouse |
 | 2026-03-09 | innovecs | [Senior Data Engineer](https://jobs.innovecs.com/vacancies?gh_jid=8419068002) | Ukraine, Poland, Romania, Spain, Remote | greenhouse |
 | 2026-03-09 | innovecs | [Senior Machine Learning Engineer](https://jobs.innovecs.com/vacancies?gh_jid=8444634002) | Ukraine, Poland, Romania, Spain, Remote | greenhouse |
-| 2026-03-09 | roblox | [Senior Data Scientist, Game Engine Simulation](https://careers.roblox.com/jobs/7629528?gh_jid=7629528) | San Mateo, CA, United States | greenhouse |
 
 Page 2/2 | [Prev](jobs_page_1.md)
 

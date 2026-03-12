@@ -1,14 +1,16 @@
 # Jobs Feed (Page 1/2)
 
-_Last updated: 2026-03-12 00:42 CDT_
+_Last updated: 2026-03-12 04:07 CDT_
 
 Page 1/2 | [Next](jobs_page_2.md)
 
 
 | Posted | Company | Title | Location | Source |
 |---|---|---|---|---|
+| 2026-03-12 | phiture2 | [Data Analyst (m/f/d) - Maternity cover 12 months FTC](https://job-boards.eu.greenhouse.io/phiture2/jobs/4806019101) | Remote in the UK | greenhouse |
 | 2026-03-12 | a3c41b8b71eff8c4 | [Pricing Data Analyst](https://job-boards.greenhouse.io/a3c41b8b71eff8c4/jobs/7636637003) | United States, Remote | greenhouse |
 | 2026-03-12 | verisign | [Sr Research Engineer](https://job-boards.greenhouse.io/verisign/jobs/7636398003) | Reston,Virginia,United States | greenhouse |
+| 2026-03-12 | sigmoid | [Lead Data Engineer](https://job-boards.greenhouse.io/sigmoid/jobs/8452197002) | Omaha, Texas, United States | greenhouse |
 | 2026-03-12 | waymo | [Applied Research Scientist, 3D Object Detection  (PhD New Grad)](https://careers.withwaymo.com/jobs?gh_jid=7467839) | Mountain View, CA USA;  San Francisco, CA USA; | greenhouse |
 | 2026-03-12 | waymo | [Applied Research Scientist, Perception LLM/VLM (PhD, New Grad)](https://careers.withwaymo.com/jobs?gh_jid=7488508) | Mountain View, CA USA;  San Francisco, CA USA; | greenhouse |
 | 2026-03-12 | waymo | [Business Intelligence Analyst, Lead](https://careers.withwaymo.com/jobs?gh_jid=7450267) | Mountain View, CA, US; San Francisco, CA, US | greenhouse |
@@ -252,7 +254,6 @@ Page 1/2 | [Next](jobs_page_2.md)
 | 2026-03-11 | americaninstitutesforresearch | [Quantitative Researcher, Healthcare Innovations](https://job-boards.greenhouse.io/americaninstitutesforresearch/jobs/5072165008) | US-Remote \| US-VA-Arlington \| US-NC-Chapel Hill \| US-IL-Chicago \| US-CA-Sacramento \| US-TX-Austin | greenhouse |
 | 2026-03-11 | runwise | [Marketing Operations & Analytics Manager](https://job-boards.greenhouse.io/runwise/jobs/4662280006) | Remote | greenhouse |
 | 2026-03-11 | canarytechnologies | [Senior Business Intelligence Analyst](https://jobs.lever.co/canarytechnologies/acfdc428-9d33-4448-872f-5ad9f2b768d4) | New York, NY | lever |
-| 2026-03-11 | sigmoid | [Lead Data Engineer](https://job-boards.greenhouse.io/sigmoid/jobs/8452197002) | Omaha, Texas, United States | greenhouse |
 | 2026-03-11 | icapitalnetwork | [Data Analytics Engineer - Analyst/Associate](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8435241002) | Salt Lake City, Utah, United States | greenhouse |
 | 2026-03-11 | letsgetchecked | [Business Intelligence Analyst](https://job-boards.eu.greenhouse.io/letsgetchecked/jobs/4805757101) | Remote, United States | greenhouse |
 | 2026-03-11 | letsgetchecked | [Junior Business Intelligence Analyst](https://job-boards.eu.greenhouse.io/letsgetchecked/jobs/4805740101) | Remote, United States | greenhouse |
@@ -506,7 +507,6 @@ Page 1/2 | [Next](jobs_page_2.md)
 | 2026-03-09 | goguardian | [Data Scientist IV](https://job-boards.greenhouse.io/goguardian/jobs/4660137006) | United States | greenhouse |
 | 2026-03-09 | trueml | [Sr. Data Scientist](https://jobs.lever.co/trueml/a3ee8164-ae3a-46b7-8e27-ee08bbb3748c) | Remote in Argentina | lever |
 | 2026-03-09 | spade | [Senior Data Scientist](https://job-boards.greenhouse.io/spade/jobs/4628861005) | New York, Remote | greenhouse |
-| 2026-03-09 | trueml | [Sr. Machine Learning Engineer](https://jobs.lever.co/trueml/ae3bfc05-3a51-4dc1-bd22-21efec78ffbd) | Remote in Argentina | lever |
 
 Page 1/2 | [Next](jobs_page_2.md)
 
