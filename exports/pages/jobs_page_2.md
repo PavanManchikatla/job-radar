@@ -1,12 +1,19 @@
 # Jobs Feed (Page 2/2)
 
-_Last updated: 2026-03-12 04:07 CDT_
+_Last updated: 2026-03-12 08:23 CDT_
 
 Page 2/2 | [Prev](jobs_page_1.md)
 
 
 | Posted | Company | Title | Location | Source |
 |---|---|---|---|---|
+| 2026-03-09 | faire | [Principal Applied ML / AI Engineer](https://boards.greenhouse.io/faire/jobs/8456064002?gh_jid=8456064002) | San Francisco, CA | greenhouse |
+| 2026-03-09 | abacusinsights | [AI Engineering Manager](https://boards.greenhouse.io/abacusinsights/jobs/8215772002?gh_jid=8215772002) | Remote- USA | greenhouse |
+| 2026-03-09 | extend | [Data Scientist, Revenue Analytics](https://job-boards.greenhouse.io/extend/jobs/5822438004) | Remote, US | greenhouse |
+| 2026-03-09 | everlaw | [Senior Data Engineer](https://job-boards.greenhouse.io/everlaw/jobs/4651507006) | Oakland, California, United States | greenhouse |
+| 2026-03-09 | goguardian | [Data Scientist IV](https://job-boards.greenhouse.io/goguardian/jobs/4660137006) | United States | greenhouse |
+| 2026-03-09 | trueml | [Sr. Data Scientist](https://jobs.lever.co/trueml/a3ee8164-ae3a-46b7-8e27-ee08bbb3748c) | Remote in Argentina | lever |
+| 2026-03-09 | spade | [Senior Data Scientist](https://job-boards.greenhouse.io/spade/jobs/4628861005) | New York, Remote | greenhouse |
 | 2026-03-09 | trueml | [Sr. Machine Learning Engineer](https://jobs.lever.co/trueml/ae3bfc05-3a51-4dc1-bd22-21efec78ffbd) | Remote in Argentina | lever |
 | 2026-03-09 | instacart | [Senior Machine Learning Engineer II - AI Special Projects](https://instacart.careers/job/?gh_jid=7358005) | Canada - Remote (ON, AB, BC, or NS Only) | greenhouse |
 | 2026-03-09 | instacart | [Senior Machine Learning Engineer II, Search & Personalization](https://instacart.careers/job/?gh_jid=6716788) | Canada - Remote (AB, BC, ON, NS ONLY) | greenhouse |
@@ -71,16 +78,16 @@ Page 2/2 | [Prev](jobs_page_1.md)
 | 2026-03-09 | samsara | [AI Engineer](https://www.samsara.com/company/careers/roles/7491153?gh_jid=7491153) | Remote - US | greenhouse |
 | 2026-03-09 | samsara | [Senior Business Intelligence Analyst](https://www.samsara.com/company/careers/roles/7346657?gh_jid=7346657) | Remote - Mexico | greenhouse |
 | 2026-03-09 | samsara | [Senior Data Analyst](https://www.samsara.com/company/careers/roles/7386898?gh_jid=7386898) | Remote - US | greenhouse |
-| 2026-03-09 | samsara | [Senior Machine Learning Engineer](https://www.samsara.com/company/careers/roles/7266471?gh_jid=7266471) | Remote - US | greenhouse |
 | 2026-03-09 | samsara | [Senior Machine Learning Engineer](https://www.samsara.com/company/careers/roles/7327168?gh_jid=7327168) | Remote - US | greenhouse |
 | 2026-03-09 | samsara | [Senior Machine Learning Engineer](https://www.samsara.com/company/careers/roles/7266367?gh_jid=7266367) | Remote - US | greenhouse |
-| 2026-03-09 | samsara | [Senior Machine Learning Engineer](https://www.samsara.com/company/careers/roles/7412596?gh_jid=7412596) | Remote - Canada | greenhouse |
 | 2026-03-09 | samsara | [Senior Machine Learning Engineer](https://www.samsara.com/company/careers/roles/7315656?gh_jid=7315656) | Remote - Canada | greenhouse |
+| 2026-03-09 | samsara | [Senior Machine Learning Engineer](https://www.samsara.com/company/careers/roles/7412596?gh_jid=7412596) | Remote - Canada | greenhouse |
+| 2026-03-09 | samsara | [Senior Machine Learning Engineer](https://www.samsara.com/company/careers/roles/7266471?gh_jid=7266471) | Remote - US | greenhouse |
 | 2026-03-09 | samsara | [Senior Marketing AI Data Engineer](https://www.samsara.com/company/careers/roles/7510710?gh_jid=7510710) | Remote - US | greenhouse |
 | 2026-03-09 | samsara | [Senior Marketing AI Data Engineer](https://www.samsara.com/company/careers/roles/7532262?gh_jid=7532262) | Remote - Canada | greenhouse |
 | 2026-03-09 | samsara | [Sr. AI/Machine Learning Engineer - Supply Chain](https://www.samsara.com/company/careers/roles/7266407?gh_jid=7266407) | Remote - US | greenhouse |
-| 2026-03-09 | samsara | [Staff Machine Learning Engineer](https://www.samsara.com/company/careers/roles/7431070?gh_jid=7431070) | Remote - Canada | greenhouse |
 | 2026-03-09 | samsara | [Staff Machine Learning Engineer](https://www.samsara.com/company/careers/roles/7266357?gh_jid=7266357) | Remote - US | greenhouse |
+| 2026-03-09 | samsara | [Staff Machine Learning Engineer](https://www.samsara.com/company/careers/roles/7431070?gh_jid=7431070) | Remote - Canada | greenhouse |
 | 2026-03-09 | physicsx | [Senior Machine Learning Engineer](https://job-boards.eu.greenhouse.io/physicsx/jobs/4678291101) | New York, United States | greenhouse |
 | 2026-03-09 | brinqa | [Senior Software Engineer - AI Team](https://job-boards.greenhouse.io/brinqa/jobs/5815933004) | Remote - Nova Scotia/Ontario, Canada | greenhouse |
 | 2026-03-09 | janeasystems | [Lead Machine Learning Engineer](https://job-boards.greenhouse.io/janeasystems/jobs/5821863004) | Remote | greenhouse |
@@ -101,10 +108,6 @@ Page 2/2 | [Prev](jobs_page_1.md)
 | 2026-03-09 | calendly | [Machine Learning Engineer](https://job-boards.greenhouse.io/calendly/jobs/8381613002) | Remote - US | greenhouse |
 | 2026-03-09 | calendly | [Senior Data Analyst, Product](https://job-boards.greenhouse.io/calendly/jobs/8414932002) | Remote | greenhouse |
 | 2026-03-09 | blip-global | [Midlevel Data Analyst](https://job-boards.greenhouse.io/blip-global/jobs/4177993009) | Remote - Brazil | greenhouse |
-| 2026-03-09 | datadog | [Staff AI Engineer - Notebooks](https://careers.datadoghq.com/detail/7627445/?gh_jid=7627445) | Portugal, Remote | greenhouse |
-| 2026-03-09 | datadog | [Staff AI Engineer - MCP Services](https://careers.datadoghq.com/detail/7627404/?gh_jid=7627404) | France, Remote; Germany, Remote; Ireland, Remote; Italy, Remote; Spain, Remote; Switzerland, Remote | greenhouse |
-| 2026-03-09 | innovecs | [Senior Data Engineer](https://jobs.innovecs.com/vacancies?gh_jid=8419068002) | Ukraine, Poland, Romania, Spain, Remote | greenhouse |
-| 2026-03-09 | innovecs | [Senior Machine Learning Engineer](https://jobs.innovecs.com/vacancies?gh_jid=8444634002) | Ukraine, Poland, Romania, Spain, Remote | greenhouse |
 
 Page 2/2 | [Prev](jobs_page_1.md)
 
