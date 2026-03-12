@@ -1,6 +1,6 @@
 # Jobs Feed (Page 2/2)
 
-_Last updated: 2026-03-11 21:26 CDT_
+_Last updated: 2026-03-12 00:42 CDT_
 
 Page 2/2 | [Prev](jobs_page_1.md)
 
@@ -70,16 +70,16 @@ Page 2/2 | [Prev](jobs_page_1.md)
 | 2026-03-09 | samsara | [AI Engineer](https://www.samsara.com/company/careers/roles/7491153?gh_jid=7491153) | Remote - US | greenhouse |
 | 2026-03-09 | samsara | [Senior Business Intelligence Analyst](https://www.samsara.com/company/careers/roles/7346657?gh_jid=7346657) | Remote - Mexico | greenhouse |
 | 2026-03-09 | samsara | [Senior Data Analyst](https://www.samsara.com/company/careers/roles/7386898?gh_jid=7386898) | Remote - US | greenhouse |
-| 2026-03-09 | samsara | [Senior Machine Learning Engineer](https://www.samsara.com/company/careers/roles/7266367?gh_jid=7266367) | Remote - US | greenhouse |
-| 2026-03-09 | samsara | [Senior Machine Learning Engineer](https://www.samsara.com/company/careers/roles/7327168?gh_jid=7327168) | Remote - US | greenhouse |
-| 2026-03-09 | samsara | [Senior Machine Learning Engineer](https://www.samsara.com/company/careers/roles/7412596?gh_jid=7412596) | Remote - Canada | greenhouse |
 | 2026-03-09 | samsara | [Senior Machine Learning Engineer](https://www.samsara.com/company/careers/roles/7266471?gh_jid=7266471) | Remote - US | greenhouse |
+| 2026-03-09 | samsara | [Senior Machine Learning Engineer](https://www.samsara.com/company/careers/roles/7327168?gh_jid=7327168) | Remote - US | greenhouse |
+| 2026-03-09 | samsara | [Senior Machine Learning Engineer](https://www.samsara.com/company/careers/roles/7266367?gh_jid=7266367) | Remote - US | greenhouse |
+| 2026-03-09 | samsara | [Senior Machine Learning Engineer](https://www.samsara.com/company/careers/roles/7412596?gh_jid=7412596) | Remote - Canada | greenhouse |
 | 2026-03-09 | samsara | [Senior Machine Learning Engineer](https://www.samsara.com/company/careers/roles/7315656?gh_jid=7315656) | Remote - Canada | greenhouse |
 | 2026-03-09 | samsara | [Senior Marketing AI Data Engineer](https://www.samsara.com/company/careers/roles/7510710?gh_jid=7510710) | Remote - US | greenhouse |
 | 2026-03-09 | samsara | [Senior Marketing AI Data Engineer](https://www.samsara.com/company/careers/roles/7532262?gh_jid=7532262) | Remote - Canada | greenhouse |
 | 2026-03-09 | samsara | [Sr. AI/Machine Learning Engineer - Supply Chain](https://www.samsara.com/company/careers/roles/7266407?gh_jid=7266407) | Remote - US | greenhouse |
-| 2026-03-09 | samsara | [Staff Machine Learning Engineer](https://www.samsara.com/company/careers/roles/7266357?gh_jid=7266357) | Remote - US | greenhouse |
 | 2026-03-09 | samsara | [Staff Machine Learning Engineer](https://www.samsara.com/company/careers/roles/7431070?gh_jid=7431070) | Remote - Canada | greenhouse |
+| 2026-03-09 | samsara | [Staff Machine Learning Engineer](https://www.samsara.com/company/careers/roles/7266357?gh_jid=7266357) | Remote - US | greenhouse |
 | 2026-03-09 | physicsx | [Senior Machine Learning Engineer](https://job-boards.eu.greenhouse.io/physicsx/jobs/4678291101) | New York, United States | greenhouse |
 | 2026-03-09 | brinqa | [Senior Software Engineer - AI Team](https://job-boards.greenhouse.io/brinqa/jobs/5815933004) | Remote - Nova Scotia/Ontario, Canada | greenhouse |
 | 2026-03-09 | janeasystems | [Lead Machine Learning Engineer](https://job-boards.greenhouse.io/janeasystems/jobs/5821863004) | Remote | greenhouse |
@@ -105,11 +105,6 @@ Page 2/2 | [Prev](jobs_page_1.md)
 | 2026-03-09 | innovecs | [Senior Data Engineer](https://jobs.innovecs.com/vacancies?gh_jid=8419068002) | Ukraine, Poland, Romania, Spain, Remote | greenhouse |
 | 2026-03-09 | innovecs | [Senior Machine Learning Engineer](https://jobs.innovecs.com/vacancies?gh_jid=8444634002) | Ukraine, Poland, Romania, Spain, Remote | greenhouse |
 | 2026-03-09 | roblox | [Senior Data Scientist, Game Engine Simulation](https://careers.roblox.com/jobs/7629528?gh_jid=7629528) | San Mateo, CA, United States | greenhouse |
-| 2026-03-09 | sigmacomputing | [Director of Product Management,  AI Business Intelligence](https://job-boards.greenhouse.io/sigmacomputing/jobs/7656912003) | San Francisco, CA | greenhouse |
-| 2026-03-09 | sigmacomputing | [Staff AI/ML Engineer](https://job-boards.greenhouse.io/sigmacomputing/jobs/7656899003) | San Francisco, CA | greenhouse |
-| 2026-03-09 | sigmacomputing | [Staff AI/ML Engineer](https://job-boards.greenhouse.io/sigmacomputing/jobs/7656898003) | New York City, NY | greenhouse |
-| 2026-03-09 | sigmacomputing | [Senior AI/ML Engineer](https://job-boards.greenhouse.io/sigmacomputing/jobs/7656897003) | New York City, NY | greenhouse |
-| 2026-03-09 | sigmacomputing | [Senior AI/ML Engineer](https://job-boards.greenhouse.io/sigmacomputing/jobs/7656896003) | San Francisco, CA | greenhouse |
 
 Page 2/2 | [Prev](jobs_page_1.md)
 
