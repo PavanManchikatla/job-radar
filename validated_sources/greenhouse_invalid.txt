@@ -5617,7 +5617,6 @@ littleotter	http_404
 bescareers	no_jobs
 calm	no_matching_jobs
 bottomlinetechnologies	no_matching_jobs
-avidxchangeinc	no_matching_jobs
 processstreet	no_jobs
 scaletowinllc	no_matching_jobs
 epicgames	no_matching_jobs
@@ -5988,7 +5987,6 @@ theswiftgroup	http_404
 scoutmotors	no_matching_jobs
 taxbit	no_matching_jobs
 careersatkokua	no_jobs
-resortpass	no_matching_jobs
 exactsales	no_jobs
 playq	no_matching_jobs
 airnorth	no_matching_jobs
@@ -6024,7 +6022,6 @@ henrymeds	no_matching_jobs
 momentous	no_matching_jobs
 nova401	no_matching_jobs
 keplergroup	no_matching_jobs
-liaisoninternational	no_matching_jobs
 zenoti	no_matching_jobs
 anewclimate	http_404
 jukeboxhealth	no_matching_jobs
