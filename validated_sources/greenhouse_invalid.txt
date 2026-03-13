@@ -3596,7 +3596,6 @@ workspace one	http_404
 manageengine	http_404
 kaseya	no_matching_jobs
 intune	http_404
-connectwise	no_matching_jobs
 datto	http_404
 n-able	http_404
 acronis	http_404
@@ -7740,7 +7739,6 @@ kiosk	http_404
 upboundext	no_matching_jobs
 trellis	http_404
 adicettherapeuticsinc	no_matching_jobs
-actblue	no_matching_jobs
 vaco	no_matching_jobs
 sonyhondamobilityofamerica	no_matching_jobs
 teneolinkedin	no_matching_jobs
@@ -8421,7 +8419,6 @@ worlds	http_404
 sendwaveapp	http_404
 weploy	no_matching_jobs
 bancopan	no_matching_jobs
-relaypro	no_matching_jobs
 missiontelecom	no_matching_jobs
 annexonbioscience	no_matching_jobs
 pt	no_matching_jobs

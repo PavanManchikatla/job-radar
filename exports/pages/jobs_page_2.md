@@ -1,12 +1,40 @@
 # Jobs Feed (Page 2/2)
 
-_Last updated: 2026-03-13 08:22 CDT_
+_Last updated: 2026-03-13 12:05 CDT_
 
 Page 2/2 | [Prev](jobs_page_1.md)
 
 
 | Posted | Company | Title | Location | Source |
 |---|---|---|---|---|
+| 2026-03-10 | wealthfront | [Quantitative Researcher - Investments](https://jobs.lever.co/wealthfront/e0002cff-bf1e-4184-a53e-93e8dff5325a) | Palo Alto, CA (Open to US-based Remote) | lever |
+| 2026-03-10 | runwayml | [Staff Product Analytics Engineer](https://job-boards.greenhouse.io/runwayml/jobs/4632881005) | Remote | greenhouse |
+| 2026-03-10 | runwayml | [Staff Product Manager, Machine Learning](https://job-boards.greenhouse.io/runwayml/jobs/4117243005) | Remote | greenhouse |
+| 2026-03-10 | crunchyroll | [Staff Analytics Engineer](https://boards.greenhouse.io/crunchyroll/jobs/7609325?gh_jid=7609325) | Los Angeles, California, United States | greenhouse |
+| 2026-03-10 | crunchyroll | [Staff Analytics Engineer](https://boards.greenhouse.io/crunchyroll/jobs/7600271?gh_jid=7600271) | San Francisco, CA, United States | greenhouse |
+| 2026-03-10 | cloverhealth | [Senior Clinical Data Analyst](https://job-boards.greenhouse.io/cloverhealth/jobs/7602853) | Remote - USA | greenhouse |
+| 2026-03-10 | doordashusa | [Lead Data Scientist](https://job-boards.greenhouse.io/doordashusa/jobs/7380096) | San Francisco, CA; Seattle, WA; New York, NY | greenhouse |
+| 2026-03-10 | rhombuspower | [Data Scientist, Air Education & Training Command (Active Secret Clearance)](https://job-boards.greenhouse.io/rhombuspower/jobs/7601341003) | San Antonio, Texas, United States | greenhouse |
+| 2026-03-10 | growtherapy | [Senior Data Scientist - Growth / Care](https://job-boards.greenhouse.io/growtherapy/jobs/4641722005) | New York City, San Francisco, or Seattle preferred; remote candidates welcome | greenhouse |
+| 2026-03-10 | growtherapy | [Staff Data Scientist - Growth / Care](https://job-boards.greenhouse.io/growtherapy/jobs/4641723005) | New York City, San Francisco, or Seattle preferred; remote candidates welcome | greenhouse |
+| 2026-03-10 | rhombuspower | [Data Engineer, Palo Alto](https://job-boards.greenhouse.io/rhombuspower/jobs/7599845003) | Palo Alto, California, United States | greenhouse |
+| 2026-03-10 | inflectionai | [Machine Learning Engineer](https://boards.greenhouse.io/inflectionai/jobs/4661506006?gh_jid=4661506006) | Palo Alto, California, United States | greenhouse |
+| 2026-03-10 | robinhood | [Senior Machine Learning Engineer, Agentic](https://boards.greenhouse.io/robinhood/jobs/7121213?t=gh_src=&gh_jid=7121213) | Bellevue, WA; Menlo Park, CA | greenhouse |
+| 2026-03-10 | robinhood | [Senior Software Engineer, Data Engineering](https://boards.greenhouse.io/robinhood/jobs/4738660?t=gh_src=&gh_jid=4738660) | Menlo Park, CA | greenhouse |
+| 2026-03-10 | robinhood | [Data Scientist, Product](https://boards.greenhouse.io/robinhood/jobs/7324983?t=gh_src=&gh_jid=7324983) | New York, NY | greenhouse |
+| 2026-03-10 | robinhood | [Staff Data Scientist, Incentives (ML)](https://boards.greenhouse.io/robinhood/jobs/7489481?t=gh_src=&gh_jid=7489481) | Menlo Park, CA | greenhouse |
+| 2026-03-10 | robinhood | [Senior Data Scientist, Fraud](https://boards.greenhouse.io/robinhood/jobs/7412037?t=gh_src=&gh_jid=7412037) | Menlo Park, CA | greenhouse |
+| 2026-03-10 | robinhood | [Staff Data Scientist, Experimentation Platform](https://boards.greenhouse.io/robinhood/jobs/7272710?t=gh_src=&gh_jid=7272710) | Menlo Park, CA | greenhouse |
+| 2026-03-10 | robinhood | [Senior Analytics Engineer, Corporate Strategy](https://boards.greenhouse.io/robinhood/jobs/7346630?t=gh_src=&gh_jid=7346630) | Menlo Park, CA | greenhouse |
+| 2026-03-10 | robinhood | [Senior Data Scientist, Product](https://boards.greenhouse.io/robinhood/jobs/7324981?t=gh_src=&gh_jid=7324981) | Menlo Park, CA | greenhouse |
+| 2026-03-10 | 8451 | [Senior Data Scientist (P4513)](https://job-boards.greenhouse.io/8451/jobs/8419058002) | Cincinnati, OH; Chicago, IL | greenhouse |
+| 2026-03-10 | attentive | [Principal Machine Learning Engineer](https://job-boards.greenhouse.io/attentive/jobs/4121282009) | United States | greenhouse |
+| 2026-03-10 | point72 | [AI Engineer, IS](https://boards.greenhouse.io/point72/jobs/8041302002?gh_jid=8041302002) | United States | greenhouse |
+| 2026-03-10 | point72 | [Data Engineer, Knowledge Graph](https://boards.greenhouse.io/point72/jobs/8448917002?gh_jid=8448917002) | New York, NY | greenhouse |
+| 2026-03-10 | point72 | [Data Engineer, Proprietary Research](https://boards.greenhouse.io/point72/jobs/7667745002?gh_jid=7667745002) | New York, NY | greenhouse |
+| 2026-03-10 | point72 | [Data Scientist, Proprietary Research](https://boards.greenhouse.io/point72/jobs/7695570002?gh_jid=7695570002) | New York, NY | greenhouse |
+| 2026-03-10 | point72 | [Machine Learning Engineer, Genai Technology](https://boards.greenhouse.io/point72/jobs/8392982002?gh_jid=8392982002) | New York, NY | greenhouse |
+| 2026-03-10 | point72 | [Machine Learning Engineer, GenAI Technology](https://boards.greenhouse.io/point72/jobs/8342478002?gh_jid=8342478002) | United States | greenhouse |
 | 2026-03-10 | point72 | [Quantitative Researcher - Machine Learning](https://boards.greenhouse.io/point72/jobs/8023550002?gh_jid=8023550002) | New York, London, or Hong Kong | greenhouse |
 | 2026-03-10 | alvys | [Senior Data Engineer](https://job-boards.greenhouse.io/alvys/jobs/5149624008) | United States (Remote) | greenhouse |
 | 2026-03-10 | arcboatcompany | [Senior Data Engineer](https://job-boards.greenhouse.io/arcboatcompany/jobs/5128364008) | Torrance, CA | greenhouse |
@@ -50,31 +78,6 @@ Page 2/2 | [Prev](jobs_page_1.md)
 | 2026-03-10 | daymarkhealth | [Senior Data Engineer](https://job-boards.greenhouse.io/daymarkhealth/jobs/5143019008) | New York, NY / Philadelphia, PA / Boston, MA | greenhouse |
 | 2026-03-10 | bird | [Analytics Engineer](https://www.bird.co/careers?gh_jid=7649998003) | Remote- Canada | greenhouse |
 | 2026-03-10 | bird | [Analytics Engineer](https://www.bird.co/careers?gh_jid=7649997003) | Remote - USA | greenhouse |
-| 2026-03-10 | thenewyorktimes | [Analytics Engineer II, Data Platform](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4660132005) | New York, NY | greenhouse |
-| 2026-03-10 | thenewyorktimes | [Business Data Analyst](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4667727005) | New York, NY | greenhouse |
-| 2026-03-10 | thenewyorktimes | [Data Engineer, Customer-Facing Data Products](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4582421005) | New York, NY | greenhouse |
-| 2026-03-10 | thenewyorktimes | [Data Engineer, Revenue Technology](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4645686005) | New York, NY | greenhouse |
-| 2026-03-10 | thenewyorktimes | [Machine Learning Scientist](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4626195005) | New York, NY | greenhouse |
-| 2026-03-10 | thenewyorktimes | [ML Ops Engineer, Machine Learning & AI](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4655096005) | New York, NY | greenhouse |
-| 2026-03-10 | thenewyorktimes | [Senior Analytics Engineer, Data Platform](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4659940005) | New York, NY | greenhouse |
-| 2026-03-10 | thenewyorktimes | [Senior Software Engineer, Machine Learning Platform](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4653126005) | New York, NY | greenhouse |
-| 2026-03-10 | thenewyorktimes | [Software Engineer, Machine Learning Platform](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4653129005) | New York, NY | greenhouse |
-| 2026-03-10 | fleetio | [Senior Analytics Engineer - Auto Integrate](https://job-boards.greenhouse.io/fleetio/jobs/5070772007) | Remote - USA, CAN, MEX | greenhouse |
-| 2026-03-10 | exiger | [Junior Analytics Engineer](https://www.exiger.com/careers/5822304004?gh_jid=5822304004) | McLean, Virginia, United States; United States (Remote) | greenhouse |
-| 2026-03-10 | overstory | [Staff Machine Learning Engineer - Wildfire](https://job-boards.eu.greenhouse.io/overstory/jobs/4702478101) | Remote: United States \| Canada | greenhouse |
-| 2026-03-10 | hightouch | [Software Engineer - AI Productivity](https://job-boards.greenhouse.io/hightouch/jobs/5809895004) | Remote (North America) | greenhouse |
-| 2026-03-10 | consensys | [Onchain Data Analyst](https://consensys.io/open-roles/7461446?gh_jid=7461446) | UNITED STATES - Remote | greenhouse |
-| 2026-03-10 | consensys | [Senior Analytics Engineer](https://consensys.io/open-roles/7335661?gh_jid=7335661) | UNITED STATES - Remote, CANADA - Remote, LATAM - Remote, EMEA - Remote | greenhouse |
-| 2026-03-10 | consensys | [Senior Data Engineer](https://consensys.io/open-roles/7335693?gh_jid=7335693) | UNITED STATES - Remote, CANADA - Remote, LATAM - Remote, EMEA - Remote | greenhouse |
-| 2026-03-10 | wavemm1 | [Senior Analytics Engineer](https://www.wave.com/en/careers/job/5762854004?gh_jid=5762854004) | Remote | greenhouse |
-| 2026-03-10 | correlationone | [Teaching Assistant: Machine Learning Data Associate](https://job-boards.greenhouse.io/correlationone/jobs/5802065004) | Remote: EMEA | greenhouse |
-| 2026-03-10 | sothebys | [CRM Data Analyst](https://job-boards.greenhouse.io/sothebys/jobs/5247214004) | New York, United States | greenhouse |
-| 2026-03-10 | gympass | [Data Analytics Manager](https://job-boards.greenhouse.io/gympass/jobs/8392610002) | Brazil (Remote) | greenhouse |
-| 2026-03-10 | wehrtyou | [AI Researcher](https://www.hudsonrivertrading.com/careers/job/?gh_jid=7024891) | London, United Kingdom; New York, NY, United States; Seattle, Washington, United States | greenhouse |
-| 2026-03-10 | wehrtyou | [Quantitative Researcher (Mid-Freq)](https://www.hudsonrivertrading.com/careers/job/?gh_jid=3903145) | New York, NY, United States | greenhouse |
-| 2026-03-10 | lyft | [Data Science Manager, Mapping](https://app.careerpuck.com/job-board/lyft/job/8448243002?gh_jid=8448243002) | New York, NY | greenhouse |
-| 2026-03-10 | lyft | [Data Science Manager, Mapping](https://app.careerpuck.com/job-board/lyft/job/8448175002?gh_jid=8448175002) | San Francisco, CA | greenhouse |
-| 2026-03-10 | gympass | [Senior Data Engineer \| Deep Individual Data team](https://job-boards.greenhouse.io/gympass/jobs/8116065002) | Brazil (Remote) | greenhouse |
 
 Page 2/2 | [Prev](jobs_page_1.md)
 
