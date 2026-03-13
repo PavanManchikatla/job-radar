@@ -5165,7 +5165,6 @@ excelsportsmanagement	no_matching_jobs
 garnerhealthconfidential	http_404
 buildops	no_matching_jobs
 objective	http_404
-ridgeline	no_matching_jobs
 understoodcare	no_matching_jobs
 later	no_matching_jobs
 l5	http_404
