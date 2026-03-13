@@ -116,3 +116,4 @@ canarytechnologies
 rigetti
 fiscalnote
 ro
+retired

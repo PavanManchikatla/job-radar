@@ -9914,7 +9914,6 @@ rivr	no_matching_jobs
 rightformula	no_matching_jobs
 rhombus-systems	no_matching_jobs
 rocketcommunications	no_matching_jobs
-retired	no_matching_jobs
 quartzy	no_matching_jobs
 marcusgrahamproject	no_matching_jobs
 rw1	no_matching_jobs
