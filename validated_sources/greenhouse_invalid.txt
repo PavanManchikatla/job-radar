@@ -6206,7 +6206,6 @@ worldquant	no_matching_jobs
 appsflyer	no_matching_jobs
 wfclainc	no_matching_jobs
 ripplematch	no_matching_jobs
-remotecom	no_matching_jobs
 karbon	no_matching_jobs
 catonetworks	no_matching_jobs
 drweng	no_matching_jobs

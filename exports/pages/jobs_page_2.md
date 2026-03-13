@@ -1,12 +1,19 @@
 # Jobs Feed (Page 2/2)
 
-_Last updated: 2026-03-13 04:04 CDT_
+_Last updated: 2026-03-13 08:22 CDT_
 
 Page 2/2 | [Prev](jobs_page_1.md)
 
 
 | Posted | Company | Title | Location | Source |
 |---|---|---|---|---|
+| 2026-03-10 | point72 | [Quantitative Researcher - Machine Learning](https://boards.greenhouse.io/point72/jobs/8023550002?gh_jid=8023550002) | New York, London, or Hong Kong | greenhouse |
+| 2026-03-10 | alvys | [Senior Data Engineer](https://job-boards.greenhouse.io/alvys/jobs/5149624008) | United States (Remote) | greenhouse |
+| 2026-03-10 | arcboatcompany | [Senior Data Engineer](https://job-boards.greenhouse.io/arcboatcompany/jobs/5128364008) | Torrance, CA | greenhouse |
+| 2026-03-10 | superluminalrx | [Machine Learning Engineer](https://job-boards.greenhouse.io/superluminalrx/jobs/5106397008) | Boston, MA | greenhouse |
+| 2026-03-10 | abnormalsecurity | [Senior Marketing Data Analyst](https://abnormal.ai/careers/jobs/7660669003?gh_jid=7660669003) | Remote - USA | greenhouse |
+| 2026-03-10 | contentful | [Data Engineer](https://job-boards.greenhouse.io/contentful/jobs/7544099) | Denver, Colorado, United States | greenhouse |
+| 2026-03-10 | thrivemarket | [Senior Data Scientist](https://thrivemarketjobs.com/job_posting.html?id=4091138009&gh_jid=4091138009) | Playa Vista, CA or Remote | greenhouse |
 | 2026-03-10 | thrivemarket | [Senior Data Analyst, Business Strategy](https://thrivemarketjobs.com/job_posting.html?id=4112655009&gh_jid=4112655009) | Playa Vista, CA or Remote | greenhouse |
 | 2026-03-10 | thrivemarket | [Senior Data Analyst, Product](https://thrivemarketjobs.com/job_posting.html?id=4105269009&gh_jid=4105269009) | Playa Vista, CA or Remote | greenhouse |
 | 2026-03-10 | thrivemarket | [Product Analytics Manager](https://thrivemarketjobs.com/job_posting.html?id=4047453009&gh_jid=4047453009) | Playa Vista, CA or Remote | greenhouse |
@@ -68,11 +75,6 @@ Page 2/2 | [Prev](jobs_page_1.md)
 | 2026-03-10 | lyft | [Data Science Manager, Mapping](https://app.careerpuck.com/job-board/lyft/job/8448243002?gh_jid=8448243002) | New York, NY | greenhouse |
 | 2026-03-10 | lyft | [Data Science Manager, Mapping](https://app.careerpuck.com/job-board/lyft/job/8448175002?gh_jid=8448175002) | San Francisco, CA | greenhouse |
 | 2026-03-10 | gympass | [Senior Data Engineer \| Deep Individual Data team](https://job-boards.greenhouse.io/gympass/jobs/8116065002) | Brazil (Remote) | greenhouse |
-| 2026-03-10 | nubank | [Lead ML Data Engineer, AI Core](https://job-boards.greenhouse.io/nubank/jobs/7645916) | USA, Durham; USA, Miami; USA, Palo Alto | greenhouse |
-| 2026-03-10 | fourkites | [Staff Software Engineer - AI](https://job-boards.greenhouse.io/fourkites/jobs/7601583) | Chennai or Remote, India | greenhouse |
-| 2026-03-10 | realtimeboardglobal | [Lead Research Scientist](https://miro.com/careers/vacancy/8395670002?gh_jid=8395670002) | Copenhagen, DK; London, UK; Remote EMEA | greenhouse |
-| 2026-03-10 | realtimeboardglobal | [Machine Learning Research Engineer](https://miro.com/careers/vacancy/8395672002?gh_jid=8395672002) | Copenhagen, DK; London, UK; Remote EMEA | greenhouse |
-| 2026-03-10 | realtimeboardglobal | [Machine Learning Research Manager](https://miro.com/careers/vacancy/8418244002?gh_jid=8418244002) | Copenhagen, DK; London, UK; Remote EMEA | greenhouse |
 
 Page 2/2 | [Prev](jobs_page_1.md)
 
