@@ -130,7 +130,6 @@ pivotal	http_404
 codespaces	http_404
 jira	http_404
 bitbucket	http_404
-gitlab	no_matching_jobs
 trello	http_404
 render	http_404
 monday.com	http_404
