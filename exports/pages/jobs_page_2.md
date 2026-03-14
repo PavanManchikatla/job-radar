@@ -1,12 +1,13 @@
 # Jobs Feed (Page 2/2)
 
-_Last updated: 2026-03-14 04:01 CDT_
+_Last updated: 2026-03-14 08:14 CDT_
 
 Page 2/2 | [Prev](jobs_page_1.md)
 
 
 | Posted | Company | Title | Location | Source |
 |---|---|---|---|---|
+| 2026-03-11 | airbnb | [Staff Data Scientist, Marketplace Optimization and Ranking](https://careers.airbnb.com/positions/7705161?gh_jid=7705161) | Remote | greenhouse |
 | 2026-03-11 | veracyte | [Senior Data Engineer](https://veracyte.com/job-detail?gh_jid=5031731007) | Remote ; San Diego, California, United States | greenhouse |
 | 2026-03-11 | dragos | [Staff Analytics Engineer](https://job-boards.greenhouse.io/dragos/jobs/4897029008) | United States | greenhouse |
 | 2026-03-11 | torcrobotics | [Machine Learning Engineer, II - App Engine (CUDA)](https://job-boards.greenhouse.io/torcrobotics/jobs/8136086002) | Ann Arbor, MI | greenhouse |
@@ -40,18 +41,6 @@ Page 2/2 | [Prev](jobs_page_1.md)
 | 2026-03-11 | moniepoint | [Data Science Manager (Fraud)](https://job-boards.eu.greenhouse.io/moniepoint/jobs/4784673101) | Remote, Bangalore | greenhouse |
 | 2026-03-11 | runwise | [Marketing Operations & Analytics Manager](https://job-boards.greenhouse.io/runwise/jobs/4662280006) | Remote | greenhouse |
 | 2026-03-11 | canarytechnologies | [Senior Business Intelligence Analyst](https://jobs.lever.co/canarytechnologies/acfdc428-9d33-4448-872f-5ad9f2b768d4) | New York, NY | lever |
-| 2026-03-11 | letsgetchecked | [Business Intelligence Analyst](https://job-boards.eu.greenhouse.io/letsgetchecked/jobs/4805757101) | Remote, United States | greenhouse |
-| 2026-03-11 | letsgetchecked | [Junior Business Intelligence Analyst](https://job-boards.eu.greenhouse.io/letsgetchecked/jobs/4805740101) | Remote, United States | greenhouse |
-| 2026-03-11 | iconcareers | [Senior Data Engineer](https://job-boards.greenhouse.io/iconcareers/jobs/5704474004) | Austin, Texas, United States | greenhouse |
-| 2026-03-11 | datacamp | [Curriculum Manager - Business Intelligence](https://job-boards.greenhouse.io/datacamp/jobs/7704300) | Belgium; Portugal; United Kingdom; United States | greenhouse |
-| 2026-03-11 | datacamp | [Curriculum Manager - Business Intelligence](https://job-boards.greenhouse.io/datacamp/jobs/7704295) | Belgium; Portugal; United Kingdom; United States | greenhouse |
-| 2026-03-11 | datacamp | [Curriculum Manager - Business Intelligence](https://job-boards.greenhouse.io/datacamp/jobs/7704292) | Belgium; Portugal; United Kingdom; United States | greenhouse |
-| 2026-03-11 | datacamp | [Curriculum Manager - Business Intelligence](https://job-boards.greenhouse.io/datacamp/jobs/7704273) | Belgium; Portugal; United Kingdom; United States | greenhouse |
-| 2026-03-11 | fluxon | [Senior Software Engineer (AI Engineer)](https://job-boards.greenhouse.io/fluxon/jobs/4648816005) | Portugal, Remote | greenhouse |
-| 2026-03-11 | fluxon | [Senior Software Engineer (AI Engineer)](https://job-boards.greenhouse.io/fluxon/jobs/4648674005) | Poland, Remote | greenhouse |
-| 2026-03-11 | fluxon | [Senior Software Engineer (AI Engineer)](https://job-boards.greenhouse.io/fluxon/jobs/4648524005) | Gurgaon, India - Remote | greenhouse |
-| 2026-03-11 | fluxon | [Senior Software Engineer (AI Engineer)](https://job-boards.greenhouse.io/fluxon/jobs/4648518005) | Bengaluru, India - Remote | greenhouse |
-| 2026-03-11 | fluxon | [Senior Software Engineer (AI Engineer)](https://job-boards.greenhouse.io/fluxon/jobs/4648179005) | Hyderabad, India - Remote | greenhouse |
 
 Page 2/2 | [Prev](jobs_page_1.md)
 
