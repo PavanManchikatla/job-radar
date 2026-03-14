@@ -5301,7 +5301,6 @@ goalhonduras	no_matching_jobs
 doma	no_matching_jobs
 focuspartnerswealth	no_matching_jobs
 dexory	no_matching_jobs
-pantherlabs	no_matching_jobs
 candid	no_matching_jobs
 snapdocs	http_404
 northpointrecoveryholdingsllc	no_matching_jobs
@@ -5395,7 +5394,6 @@ hollywoodparksofistadium	http_404
 g2crowd	http_404
 jumio	no_matching_jobs
 unrealsnacks	no_matching_jobs
-airbnb	no_matching_jobs
 mycase	no_jobs
 gemechanicalasp	no_matching_jobs
 aviatrix	no_matching_jobs
@@ -6009,7 +6007,6 @@ junglescout	no_matching_jobs
 zestai	no_matching_jobs
 julieproducts	no_matching_jobs
 glydways	no_matching_jobs
-1uphealth	no_matching_jobs
 alpenlabs	http_404
 vulncheck	no_matching_jobs
 vardaspace	no_matching_jobs

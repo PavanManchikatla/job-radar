@@ -9814,7 +9814,6 @@ ou-education-services	no_matching_jobs
 owner	no_jobs
 educationatwork	no_matching_jobs
 csit	no_matching_jobs
-panopto	no_matching_jobs
 padsplit	no_matching_jobs
 partyslate	no_matching_jobs
 nitra	no_matching_jobs
