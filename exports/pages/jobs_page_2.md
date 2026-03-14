@@ -1,6 +1,6 @@
 # Jobs Feed (Page 2/2)
 
-_Last updated: 2026-03-13 21:21 CDT_
+_Last updated: 2026-03-14 00:36 CDT_
 
 Page 2/2 | [Prev](jobs_page_1.md)
 
@@ -14,11 +14,11 @@ Page 2/2 | [Prev](jobs_page_1.md)
 | 2026-03-11 | torcrobotics | [Data Scientist, I - Decision Science](https://job-boards.greenhouse.io/torcrobotics/jobs/8445206002) | Ann Arbor, MI | greenhouse |
 | 2026-03-11 | torcrobotics | [Machine Learning Engineer, II - Annotation Automation](https://job-boards.greenhouse.io/torcrobotics/jobs/8445193002) | Ann Arbor, MI | greenhouse |
 | 2026-03-11 | torcrobotics | [Senior, ML Engineer - Offline Perception](https://job-boards.greenhouse.io/torcrobotics/jobs/8304659002) | Remote - US, Ann Arbor, MI | greenhouse |
-| 2026-03-11 | torcrobotics | [Staff, ML Engineer - Road & Lane Detection](https://job-boards.greenhouse.io/torcrobotics/jobs/8308328002) | Remote - Canada, Montreal, Canada | greenhouse |
 | 2026-03-11 | torcrobotics | [Staff, ML Engineer - Road & Lane Detection](https://job-boards.greenhouse.io/torcrobotics/jobs/8304684002) | Remote - US, Ann Arbor, MI | greenhouse |
+| 2026-03-11 | torcrobotics | [Staff, ML Engineer - Road & Lane Detection](https://job-boards.greenhouse.io/torcrobotics/jobs/8308328002) | Remote - Canada, Montreal, Canada | greenhouse |
 | 2026-03-11 | torcrobotics | [Senior, ML Engineer - ML Ops Framework](https://job-boards.greenhouse.io/torcrobotics/jobs/8308069002) | Remote - Canada, Montreal, Canada | greenhouse |
-| 2026-03-11 | torcrobotics | [Senior, ML Engineer - Neural Rendering](https://job-boards.greenhouse.io/torcrobotics/jobs/8429809002) | Montreal, Canada, Remote - Canada, Remote - US | greenhouse |
 | 2026-03-11 | torcrobotics | [Senior, ML Engineer - Neural Rendering](https://job-boards.greenhouse.io/torcrobotics/jobs/8375567002) | Remote - US, Ann Arbor, MI | greenhouse |
+| 2026-03-11 | torcrobotics | [Senior, ML Engineer - Neural Rendering](https://job-boards.greenhouse.io/torcrobotics/jobs/8429809002) | Montreal, Canada, Remote - Canada, Remote - US | greenhouse |
 | 2026-03-11 | torcrobotics | [Staff, Data Scientist - Data Operations & Enrichment](https://job-boards.greenhouse.io/torcrobotics/jobs/8445210002) | Ann Arbor, MI, Remote - US | greenhouse |
 | 2026-03-11 | torcrobotics | [Senior, ML Engineer - Learned Localization](https://job-boards.greenhouse.io/torcrobotics/jobs/8325873002) | Montreal, Canada, Remote - Canada | greenhouse |
 | 2026-03-11 | torcrobotics | [Senior, ML Engineer - ML Ops Framework](https://job-boards.greenhouse.io/torcrobotics/jobs/8304653002) | Remote - US, Ann Arbor, MI | greenhouse |
@@ -54,7 +54,6 @@ Page 2/2 | [Prev](jobs_page_1.md)
 | 2026-03-11 | fluxon | [Senior Software Engineer (AI Engineer)](https://job-boards.greenhouse.io/fluxon/jobs/4648179005) | Hyderabad, India - Remote | greenhouse |
 | 2026-03-11 | moniepoint | [Senior Data Analyst](https://job-boards.eu.greenhouse.io/moniepoint/jobs/4763337101) | Remote, Bangalore | greenhouse |
 | 2026-03-11 | moniepoint | [Senior Data Analyst](https://job-boards.eu.greenhouse.io/moniepoint/jobs/4716555101) | Remote, Spain | greenhouse |
-| 2026-03-11 | janestreet | [Data Engineer](https://job-boards.greenhouse.io/janestreet/jobs/6558007002) | New York, New York, United States | greenhouse |
 
 Page 2/2 | [Prev](jobs_page_1.md)
 
