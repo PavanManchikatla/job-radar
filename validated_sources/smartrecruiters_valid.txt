@@ -1,9 +1,8 @@
 sandisk
+servicenow
 canva
 coherusbiosciences
 evolutioniq
 modernloop
 shaped
 kombo
-servicenow
-acumatica
