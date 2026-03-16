@@ -6490,7 +6490,6 @@ fuseglobalpartners	no_matching_jobs
 hsgllp	no_matching_jobs
 velir-private	no_jobs
 storycannabis	no_matching_jobs
-voyagertechnologiesinc	no_matching_jobs
 splitero	no_matching_jobs
 sandstonecarebroomfield	no_jobs
 hyannisportresearch	no_matching_jobs

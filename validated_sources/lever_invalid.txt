@@ -10139,7 +10139,6 @@ circuithub	http_404
 thetrevorproject	no_matching_jobs
 zopa	no_matching_jobs
 y-combinator	http_404
-zushealth	no_matching_jobs
 agilemd	http_404
 sift	http_404
 npowermedicine	no_matching_jobs
