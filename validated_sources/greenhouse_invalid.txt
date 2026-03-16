@@ -5625,7 +5625,6 @@ infuse	no_matching_jobs
 littleotter	http_404
 bottomlinetechnologies	no_matching_jobs
 tezatechnologies	http_404
-avidxchangeinc	no_matching_jobs
 processstreet	no_jobs
 hoyoverse	no_matching_jobs
 globalenergyallianceforpeopleandplanetgeappllc	no_matching_jobs
@@ -5777,7 +5776,6 @@ reflective	no_matching_jobs
 utahtitleloansinc	no_matching_jobs
 sonymusicinternshipsus	no_matching_jobs
 skysafe	no_jobs
-nice	no_matching_jobs
 shapercapital	no_matching_jobs
 digrestaurants	no_matching_jobs
 antaresrx	no_matching_jobs
@@ -6724,7 +6722,6 @@ simscale	no_matching_jobs
 vialogic	no_matching_jobs
 shakepay	no_matching_jobs
 netbrain	no_matching_jobs
-mediabrands	no_matching_jobs
 galileo	no_matching_jobs
 bertkeasp	no_matching_jobs
 designedconveyorsystems	no_matching_jobs
@@ -6850,7 +6847,6 @@ zestyai	no_matching_jobs
 samcarthiring	http_404
 quadbridge	no_matching_jobs
 pinwheelapi	no_matching_jobs
-nebius	no_matching_jobs
 takealotgroup	no_matching_jobs
 kernelize	no_matching_jobs
 huntedlabs	no_matching_jobs
@@ -7419,7 +7415,6 @@ fcbworldwide	no_matching_jobs
 glyphicbiotechnologies	no_matching_jobs
 vesalius	no_jobs
 updater	no_matching_jobs
-beyondtrust	no_matching_jobs
 eonio	no_matching_jobs
 monumentalsports	no_matching_jobs
 arcoeducacao	no_matching_jobs
