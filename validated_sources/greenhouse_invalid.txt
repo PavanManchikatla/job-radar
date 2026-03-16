@@ -6103,7 +6103,6 @@ novacredit	no_matching_jobs
 halcyon	no_matching_jobs
 orangetwist	no_matching_jobs
 styra	http_404
-remotecom	no_matching_jobs
 sironamedical	no_matching_jobs
 peloton	no_matching_jobs
 samsungaustinsemiconductor	http_404
