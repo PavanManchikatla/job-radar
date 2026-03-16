@@ -678,3 +678,5 @@ zoominfo
 garnerhealth
 humansignal
 voyagertechnologiesinc
+zipcolimited
+warp

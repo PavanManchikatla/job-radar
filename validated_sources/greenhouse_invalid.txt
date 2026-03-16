@@ -6516,7 +6516,6 @@ guardsquare	no_matching_jobs
 wavexr	http_404
 shoparoundthecorner	no_matching_jobs
 graft	http_404
-zipcolimited	no_matching_jobs
 remotasks	no_matching_jobs
 optimadermatologycareers	no_matching_jobs
 novo	no_jobs
@@ -8448,7 +8447,6 @@ bulletfarm	http_404
 pdmgroupasp	no_matching_jobs
 wisetack	no_matching_jobs
 uvimco	no_matching_jobs
-warp	no_matching_jobs
 amenitiz	no_matching_jobs
 aurorainnovation	no_matching_jobs
 nuna	http_404
