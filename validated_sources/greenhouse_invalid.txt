@@ -6545,7 +6545,6 @@ skydio	http_404
 refeyn	no_jobs
 verkada	no_matching_jobs
 firstkeyhomes	http_404
-sollishealth	no_matching_jobs
 kyowakirinusa90	no_matching_jobs
 ennoblecare	no_matching_jobs
 bloomworks	no_jobs
@@ -6562,7 +6561,6 @@ productschool	no_matching_jobs
 noahmedical	no_matching_jobs
 melio	no_matching_jobs
 biomedrealty	no_matching_jobs
-redapt	no_matching_jobs
 bam	http_404
 rocketmiles	no_matching_jobs
 etec	no_matching_jobs
@@ -7712,7 +7710,6 @@ cribl	no_matching_jobs
 crexi	no_matching_jobs
 climatefinancesolutions	no_matching_jobs
 valerahealth	no_matching_jobs
-googlefiber	no_matching_jobs
 sbusa	no_matching_jobs
 papapartners	no_jobs
 resultsforamerica	no_jobs

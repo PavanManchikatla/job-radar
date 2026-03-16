@@ -9455,7 +9455,6 @@ cardiosense	no_jobs
 bhhc	no_matching_jobs
 brightlyworks	no_matching_jobs
 celaralabs	no_matching_jobs
-bhg-inc	no_matching_jobs
 brainstorminc	no_matching_jobs
 celestia	no_matching_jobs
 bpmcpa	no_matching_jobs
@@ -9573,7 +9572,6 @@ fieldnation	no_matching_jobs
 finch	no_matching_jobs
 figfinancial	no_matching_jobs
 findigs	no_matching_jobs
-findhelp	no_matching_jobs
 ethree	no_matching_jobs
 finquery	no_matching_jobs
 fitifyworkouts	http_404
