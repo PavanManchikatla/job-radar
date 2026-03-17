@@ -7337,7 +7337,6 @@ omnifdn	http_404
 kraftonindia	no_matching_jobs
 uchicagoepic	no_jobs
 crescolabs	no_matching_jobs
-pathward	no_matching_jobs
 penrodsoftware	http_404
 oafkenya	no_matching_jobs
 goldenhippo	no_matching_jobs
@@ -8442,7 +8441,6 @@ pieinsurance	no_matching_jobs
 eaf	no_jobs
 marqeta	no_matching_jobs
 doublegood	no_matching_jobs
-5wpr	no_matching_jobs
 otterbein	no_matching_jobs
 schrdinger	no_matching_jobs
 affirmedrxpbc	no_matching_jobs

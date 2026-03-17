@@ -9379,7 +9379,6 @@ ans	no_matching_jobs
 arcteryx	http_404
 saraworks	http_404
 arvor-insurance	no_matching_jobs
-allegiantair	no_matching_jobs
 aerispartners	http_404
 amityfdn	no_matching_jobs
 audinate	no_jobs
@@ -9462,7 +9461,6 @@ bumbleinc	no_matching_jobs
 cdcfoundation	no_matching_jobs
 certifyos	no_matching_jobs
 businesswire	no_matching_jobs
-brillio-2	no_matching_jobs
 capricor	no_matching_jobs
 bloomon	no_matching_jobs
 callan	no_matching_jobs
