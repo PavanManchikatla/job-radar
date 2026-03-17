@@ -1,14 +1,22 @@
 # Jobs Feed (Page 1/1)
 
-_Last updated: 2026-03-16 21:27 CDT_
+_Last updated: 2026-03-17 00:47 CDT_
 
 | Posted | Company | Title | Location | Source |
 |---|---|---|---|---|
+| 2026-03-17 | go1au | [Senior Data Scientist](https://job-boards.greenhouse.io/go1au/jobs/4660940005) | Australia - Remote | greenhouse |
 | 2026-03-17 | a3c41b8b71eff8c4 | [Pricing Data Analyst](https://job-boards.greenhouse.io/a3c41b8b71eff8c4/jobs/7636637003) | United States, Remote | greenhouse |
+| 2026-03-17 | calicolabs | [Machine Learning / Senior Machine Learning Scientist / Engineer](https://www.calicolabs.com/careers/?gh_jid=8465426002) | South San Francisco, CA | greenhouse |
+| 2026-03-17 | vectranetworks | [Distinguished AI Researcher](https://www.vectra.ai/about/jobs?gh_jid=7366878) | San Jose, CA, United States | greenhouse |
+| 2026-03-17 | vectranetworks | [Sr. AI/ML Engineer](https://www.vectra.ai/about/jobs?gh_jid=7060677) | San Jose, CA | greenhouse |
+| 2026-03-17 | consensys | [Senior Analytics Engineer](https://consensys.io/open-roles/7335661?gh_jid=7335661) | UNITED STATES - Remote, CANADA - Remote, LATAM - Remote, EMEA - Remote | greenhouse |
+| 2026-03-17 | verisign | [Sr Research Engineer](https://job-boards.greenhouse.io/verisign/jobs/7636398003) | Reston,Virginia,United States | greenhouse |
+| 2026-03-17 | funga | [Data Scientist](https://job-boards.greenhouse.io/funga/jobs/5155669008) | Austin, TX or Remote within Continental US considered | greenhouse |
+| 2026-03-17 | funga | [Data Engineer](https://job-boards.greenhouse.io/funga/jobs/5115038008) | Austin, TX or Remote within Continental US considered | greenhouse |
+| 2026-03-17 | striveworks | [Senior Machine Learning Engineer](https://job-boards.greenhouse.io/striveworks/jobs/7611089003) | Austin, Texas or Remote | greenhouse |
 | 2026-03-17 | cresta | [Senior Machine Learning Engineer](https://job-boards.greenhouse.io/cresta/jobs/4741283008) | United States (Remote) | greenhouse |
 | 2026-03-17 | acuitymd | [Senior/Staff Data Engineer, Data Platform](https://job-boards.greenhouse.io/acuitymd/jobs/5745887004) | Boston or Remote | greenhouse |
 | 2026-03-17 | biohub | [Director, Data Engineering](https://job-boards.greenhouse.io/biohub/jobs/7361393) | Redwood City, CA (Hybrid) | greenhouse |
-| 2026-03-17 | verisign | [Sr Research Engineer](https://job-boards.greenhouse.io/verisign/jobs/7636398003) | Reston,Virginia,United States | greenhouse |
 | 2026-03-17 | xpengmotors | [Senior Staff Machine Learning Engineer – Autonomous Driving Foundation Models](https://job-boards.greenhouse.io/xpengmotors/jobs/8465375002) | Santa Clara, CA | greenhouse |
 | 2026-03-17 | xpengmotors | [Staff Machine Learning Engineer – Autonomous Driving Model Quantization & Deployment](https://job-boards.greenhouse.io/xpengmotors/jobs/8465380002) | Santa Clara, CA | greenhouse |
 | 2026-03-17 | khanacademy | [Sr. AI Engineer (24 months fixed-term)](https://job-boards.greenhouse.io/khanacademy/jobs/7724300) | Mountain View, CA / Remote (Continental US + Hawaii + Canada Only) | greenhouse |
@@ -266,8 +274,5 @@ _Last updated: 2026-03-16 21:27 CDT_
 | 2026-03-14 | pinterest | [Staff Machine Learning Engineer, Content Quality Signals](https://www.pinterestcareers.com/jobs/?gh_jid=7531060) | San Francisco, CA, US; Remote, US | greenhouse |
 | 2026-03-14 | gitlab | [Data Analyst, Product](https://job-boards.greenhouse.io/gitlab/jobs/8455464002) | Remote, North America | greenhouse |
 | 2026-03-14 | flagshippioneeringinc | [(Senior) Machine Learning Engineer](https://boards.greenhouse.io/flagshippioneeringinc/jobs/8461675002?gh_jid=8461675002) | Cambridge, MA USA | greenhouse |
-| 2026-03-14 | veriff | [Senior Data Engineer](https://www.veriff.com/careers/position/8462036002?gh_jid=8462036002) | Tallinn, Spain (Remote) | greenhouse |
-| 2026-03-14 | veriff | [Staff Applied Research Engineer, Biometrics](https://www.veriff.com/careers/position/8457006002?gh_jid=8457006002) | Spain (Remote) | greenhouse |
-| 2026-03-14 | granum | [AI Engineer](https://job-boards.greenhouse.io/granum/jobs/8462420002) | Remote | greenhouse |
 
 [Back to README](../../README.md)
