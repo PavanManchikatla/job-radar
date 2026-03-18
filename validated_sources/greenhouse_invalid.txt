@@ -5063,7 +5063,6 @@ uniswapfoundation	no_jobs
 insider	no_matching_jobs
 ruggable	no_matching_jobs
 beamup	no_matching_jobs
-fundraiseup	no_matching_jobs
 hackerrank	no_matching_jobs
 endorlabs	no_matching_jobs
 forgeglobal	no_matching_jobs
@@ -5173,7 +5172,6 @@ later	no_matching_jobs
 tcgcapital	http_404
 cortica	no_matching_jobs
 code3	no_matching_jobs
-vaxcyte	no_matching_jobs
 grovecollaborative	no_matching_jobs
 districtofcolumbiainternationalschool	no_matching_jobs
 understoodcare	no_matching_jobs
@@ -5481,7 +5479,6 @@ voter	no_matching_jobs
 pagerhealth	no_matching_jobs
 enterpret	no_matching_jobs
 tempus	http_404
-cascadeloans	no_matching_jobs
 kairospower	no_matching_jobs
 cottinghambutlerinsuranceservicesinc	no_matching_jobs
 jetairegroup	http_404
@@ -7097,7 +7094,6 @@ braingu	no_jobs
 radiant	http_404
 searchdiscovery	http_404
 axicom	no_matching_jobs
-earnest	no_matching_jobs
 bitso	no_matching_jobs
 americannational	http_404
 willowinnovations	no_matching_jobs
@@ -7140,7 +7136,6 @@ reltio	no_matching_jobs
 dovetail	http_404
 quadraturecapital	no_matching_jobs
 coop	no_jobs
-instridehealth	no_matching_jobs
 southshoreskin	no_matching_jobs
 soundagriculture	no_matching_jobs
 locusrobotics	no_matching_jobs
