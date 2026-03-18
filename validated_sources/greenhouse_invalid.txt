@@ -5468,7 +5468,6 @@ clydegroup	no_jobs
 loominc	http_404
 bynderjobs	http_404
 clearmatics	no_jobs
-iftother	no_matching_jobs
 nlcventures	no_matching_jobs
 antora	no_matching_jobs
 understood	no_matching_jobs
@@ -6815,7 +6814,6 @@ epirus	no_matching_jobs
 5minlab	no_matching_jobs
 coursera	no_matching_jobs
 upbound	no_matching_jobs
-viralnation	no_matching_jobs
 miqdigital	no_matching_jobs
 goclio	http_404
 agwestfarmcredit	no_matching_jobs
@@ -7754,7 +7752,6 @@ crunchbase	http_404
 bbposlimited	no_matching_jobs
 benchprep	no_matching_jobs
 navvis	no_matching_jobs
-rapidsos	no_matching_jobs
 praxis	no_matching_jobs
 rattle	http_404
 carewell	no_jobs
@@ -7780,7 +7777,6 @@ lineleap	http_404
 baublebar	no_matching_jobs
 covetool	http_404
 ourgroup	no_matching_jobs
-logos	no_matching_jobs
 shapeways	http_404
 changeorg58	http_404
 nutrabolt	no_matching_jobs
@@ -8121,7 +8117,6 @@ xpinc	no_matching_jobs
 instiglio	no_matching_jobs
 plianttherapeuticsinc	no_matching_jobs
 rampnetwork	no_jobs
-regscale	no_matching_jobs
 decibelfoundation	no_matching_jobs
 riversidenaturalfoodsltd	no_matching_jobs
 litify	no_matching_jobs

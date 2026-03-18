@@ -1465,7 +1465,6 @@ instagram	http_404
 revel	no_matching_jobs
 kounta pos	http_404
 pinterest	http_404
-olo	no_matching_jobs
 snapchat	http_404
 tiktok	http_404
 youtube	http_404
