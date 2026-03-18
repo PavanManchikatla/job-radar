@@ -6048,7 +6048,6 @@ offerzen	no_matching_jobs
 sparkfund	no_matching_jobs
 anewclimate	http_404
 jukeboxhealth	no_matching_jobs
-vardaspace	no_matching_jobs
 phoenixcontact	no_matching_jobs
 gomaestro	no_matching_jobs
 reserv	http_404
