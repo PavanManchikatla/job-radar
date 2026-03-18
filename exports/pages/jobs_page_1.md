@@ -1,12 +1,16 @@
 # Jobs Feed (Page 1/1)
 
-_Last updated: 2026-03-17 21:31 CDT_
+_Last updated: 2026-03-18 00:52 CDT_
 
 | Posted | Company | Title | Location | Source |
 |---|---|---|---|---|
 | 2026-03-18 | a3c41b8b71eff8c4 | [Pricing Data Analyst](https://job-boards.greenhouse.io/a3c41b8b71eff8c4/jobs/7636637003) | United States, Remote | greenhouse |
-| 2026-03-18 | wing | [Senior Data Analyst](https://wing.com/careers/8438734002?gh_jid=8438734002) | Remote, USA | greenhouse |
+| 2026-03-18 | snorkelai | [Staff Applied AI Engineer - Pre-Sales](https://job-boards.greenhouse.io/snorkelai/jobs/5831080004) | New York City, NY (Hybrid); Redwood City, CA (Hybrid); San Francisco, CA (Hybrid); United States (Remote) | greenhouse |
 | 2026-03-18 | verisign | [Sr Research Engineer](https://job-boards.greenhouse.io/verisign/jobs/7636398003) | Reston,Virginia,United States | greenhouse |
+| 2026-03-18 | humansignal | [AI Engineer (GTM)](https://job-boards.greenhouse.io/humansignal/jobs/5828847004) | Remote | greenhouse |
+| 2026-03-18 | yipitdatajobs | [Data Engineering Manager](https://job-boards.greenhouse.io/yipitdatajobs/jobs/7446282) | US Remote | greenhouse |
+| 2026-03-18 | yipitdata | [Data Engineering Lead](https://job-boards.greenhouse.io/yipitdata/jobs/7306248) | US Remote | greenhouse |
+| 2026-03-18 | wing | [Senior Data Analyst](https://wing.com/careers/8438734002?gh_jid=8438734002) | Remote, USA | greenhouse |
 | 2026-03-18 | samsungsemiconductor | [Principal, CPU Architecture & Performance Research Engineer](https://job-boards.greenhouse.io/samsungsemiconductor/jobs/7618068003) | San Jose, California, United States | greenhouse |
 | 2026-03-18 | samsungsemiconductor | [Senior, CPU Architecture & Performance Research Engineer](https://job-boards.greenhouse.io/samsungsemiconductor/jobs/7618081003) | San Jose, California, United States | greenhouse |
 | 2026-03-18 | samsungsemiconductor | [Staff, CPU Architecture & Performance Research Engineer](https://job-boards.greenhouse.io/samsungsemiconductor/jobs/7618074003) | San Jose, California, United States | greenhouse |
@@ -45,12 +49,12 @@ _Last updated: 2026-03-17 21:31 CDT_
 | 2026-03-17 | dropbox | [People Team Data Analyst, Talent Acquisition](https://jobs.dropbox.com/listing/7536371?gh_jid=7536371) | Remote - US: Select locations | greenhouse |
 | 2026-03-17 | gusto | [Senior Analytics Engineer, Customer Experience](https://job-boards.greenhouse.io/gusto/jobs/7679230) | Denver, CO;San Francisco, CA;New York, NY;Las Vegas, NV;Chicago, IL;Phoenix, AZ | greenhouse |
 | 2026-03-17 | smartasset | [Senior ML Engineer](https://job-boards.greenhouse.io/smartasset/jobs/8452710002) | Remote, Contiguous United States | greenhouse |
-| 2026-03-17 | contentful | [Senior Business Intelligence Analyst](https://job-boards.greenhouse.io/contentful/jobs/7564839) | Denver, Colorado, United States | greenhouse |
+| 2026-03-17 | contentful | [Senior Business Intelligence Analyst](https://job-boards.greenhouse.io/contentful/jobs/7580405) | New York City, New York, United States | greenhouse |
 | 2026-03-17 | contentful | [Senior Business Intelligence Analyst](https://job-boards.greenhouse.io/contentful/jobs/7580401) | San Francisco, California, United States | greenhouse |
 | 2026-03-17 | contentful | [Senior Business Intelligence Analyst](https://job-boards.greenhouse.io/contentful/jobs/7576693) | New York City, New York, United States | greenhouse |
-| 2026-03-17 | contentful | [Senior Business Intelligence Analyst](https://job-boards.greenhouse.io/contentful/jobs/7560356) | Denver, Colorado, United States | greenhouse |
 | 2026-03-17 | contentful | [Senior Business Intelligence Analyst](https://job-boards.greenhouse.io/contentful/jobs/7576686) | San Francisco, California, United States | greenhouse |
-| 2026-03-17 | contentful | [Senior Business Intelligence Analyst](https://job-boards.greenhouse.io/contentful/jobs/7580405) | New York City, New York, United States | greenhouse |
+| 2026-03-17 | contentful | [Senior Business Intelligence Analyst](https://job-boards.greenhouse.io/contentful/jobs/7560356) | Denver, Colorado, United States | greenhouse |
+| 2026-03-17 | contentful | [Senior Business Intelligence Analyst](https://job-boards.greenhouse.io/contentful/jobs/7564839) | Denver, Colorado, United States | greenhouse |
 | 2026-03-17 | contentful | [Data Engineer](https://job-boards.greenhouse.io/contentful/jobs/7544099) | Denver, Colorado, United States | greenhouse |
 | 2026-03-17 | contentful | [Data Scientist](https://job-boards.greenhouse.io/contentful/jobs/7548713) | Denver, Colorado, United States | greenhouse |
 | 2026-03-17 | okx | [Principal AI Engineer, AI Agent Development](https://job-boards.greenhouse.io/okx/jobs/7650500003) | San Jose, California, United States | greenhouse |
@@ -138,8 +142,8 @@ _Last updated: 2026-03-17 21:31 CDT_
 | 2026-03-17 | doordashusa | [Senior Software Engineer, Data Engineering](https://job-boards.greenhouse.io/doordashusa/jobs/6021795) | San Francisco, CA; Sunnyvale, CA; Seattle, WA | greenhouse |
 | 2026-03-17 | doordashusa | [Senior Software Engineer, Machine Learning - Consumer ML](https://job-boards.greenhouse.io/doordashusa/jobs/6338077) | San Francisco, CA; Sunnyvale, CA; Seattle, WA | greenhouse |
 | 2026-03-17 | doordashusa | [Software Engineer II, Data Engineering](https://job-boards.greenhouse.io/doordashusa/jobs/6458514) | San Francisco, CA; Sunnyvale, CA | greenhouse |
-| 2026-03-17 | doordashusa | [Software Engineer, Machine Learning Infrastructure](https://job-boards.greenhouse.io/doordashusa/jobs/6296361) | San Francisco, CA; Sunnyvale, CA; Seattle, WA | greenhouse |
 | 2026-03-17 | doordashusa | [Software Engineer, Machine Learning Infrastructure](https://job-boards.greenhouse.io/doordashusa/jobs/7659437) | San Francisco, CA; Sunnyvale, CA; Seattle, WA | greenhouse |
+| 2026-03-17 | doordashusa | [Software Engineer, Machine Learning Infrastructure](https://job-boards.greenhouse.io/doordashusa/jobs/6296361) | San Francisco, CA; Sunnyvale, CA; Seattle, WA | greenhouse |
 | 2026-03-17 | doordashusa | [Staff Machine Learning Engineer - DashPass](https://job-boards.greenhouse.io/doordashusa/jobs/7488724) | San Francisco, CA; Sunnyvale, CA | greenhouse |
 | 2026-03-17 | doordashusa | [Staff Machine Learning Engineer, Money (Founding ML Lead)](https://job-boards.greenhouse.io/doordashusa/jobs/7634941) | San Francisco, CA; Los Angeles, CA | greenhouse |
 | 2026-03-17 | doordashusa | [Staff Software Engineer, Machine Learning - Personalization](https://job-boards.greenhouse.io/doordashusa/jobs/5575224) | San Francisco, CA; Sunnyvale, CA | greenhouse |
@@ -337,8 +341,8 @@ _Last updated: 2026-03-17 21:31 CDT_
 | 2026-03-16 | pointdigitalfinance | [Senior Data Engineer](https://point.com/hiring?gh_jid=8438661002) | United States | greenhouse |
 | 2026-03-16 | datadog | [Staff AI Engineer - MCP Services](https://careers.datadoghq.com/detail/7627404/?gh_jid=7627404) | France, Remote; Germany, Remote; Ireland, Remote; Italy, Remote; Spain, Remote; Switzerland, Remote | greenhouse |
 | 2026-03-16 | datadog | [Staff AI Engineer - MCP Services](https://careers.datadoghq.com/detail/7627410/?gh_jid=7627410) | Portugal, Remote | greenhouse |
-| 2026-03-16 | datadog | [Staff AI Engineer - Notebooks](https://careers.datadoghq.com/detail/7627445/?gh_jid=7627445) | Portugal, Remote | greenhouse |
 | 2026-03-16 | datadog | [Staff AI Engineer - Notebooks](https://careers.datadoghq.com/detail/7627429/?gh_jid=7627429) | France, Remote; Germany, Remote; Ireland, Remote; Italy, Remote; Spain, Remote; Switzerland, Remote | greenhouse |
+| 2026-03-16 | datadog | [Staff AI Engineer - Notebooks](https://careers.datadoghq.com/detail/7627445/?gh_jid=7627445) | Portugal, Remote | greenhouse |
 | 2026-03-16 | shinvestmentsllc | [Data Analyst](https://senecaholdings.com/jobs/?gh_jid=4670023005) | Remote | greenhouse |
 | 2026-03-16 | shinvestmentsllc | [RCMI Senior Solution Technical Expert (SSTE), Data Analyst](https://senecaholdings.com/jobs/?gh_jid=4663626005) | Remote | greenhouse |
 | 2026-03-16 | collibra | [Senior AI Engineer, Unstructured AI](https://www.collibra.com/us/en/company/careers/job-listing/?gh_jid=7561707) | New York, New York, USA | greenhouse |
@@ -387,7 +391,6 @@ _Last updated: 2026-03-17 21:31 CDT_
 | 2026-03-16 | okx | [Sr/Principal Data Scientist, Risk Strategy](https://job-boards.greenhouse.io/okx/jobs/7552740003) | San Jose, California, United States | greenhouse |
 | 2026-03-15 | waymo | [Staff Data Scientist, TLM, Driving Quality](https://careers.withwaymo.com/jobs?gh_jid=7239320) | Mountain View, California, USA | greenhouse |
 | 2026-03-15 | zushealth | [Engineering Manager, Analytics Engineering](https://jobs.lever.co/zushealth/6c789511-7058-4a38-a12f-f528d6b194b7) | Boston, MA | lever |
-| 2026-03-15 | humansignal | [AI Engineer (GTM)](https://job-boards.greenhouse.io/humansignal/jobs/5826301004) | Remote | greenhouse |
 | 2026-03-15 | garnerhealth | [Senior Data Engineer](https://job-boards.greenhouse.io/garnerhealth/jobs/5820416004) | Remote | greenhouse |
 
 [Back to README](../../README.md)
