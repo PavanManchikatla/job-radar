@@ -1,12 +1,15 @@
 # Jobs Feed (Page 2/2)
 
-_Last updated: 2026-03-18 21:31 CDT_
+_Last updated: 2026-03-19 00:49 CDT_
 
 Page 2/2 | [Prev](jobs_page_1.md)
 
 
 | Posted | Company | Title | Location | Source |
 |---|---|---|---|---|
+| 2026-03-16 | accenturefederalservices | [Palantir Data Scientist (Onsite Vandenberg, CA)](https://boards.greenhouse.io/accenturefederalservices/jobs/4661716006?gh_jid=4661716006) | Point Mugu, CA | greenhouse |
+| 2026-03-16 | accenturefederalservices | [Analytics Manager](https://boards.greenhouse.io/accenturefederalservices/jobs/4656050006?gh_jid=4656050006) | Reston, VA | greenhouse |
+| 2026-03-16 | accenturefederalservices | [Data Scientist](https://boards.greenhouse.io/accenturefederalservices/jobs/4651049006?gh_jid=4651049006) | Arlington, VA | greenhouse |
 | 2026-03-16 | accenturefederalservices | [Data Engineer/Reporting Analyst](https://boards.greenhouse.io/accenturefederalservices/jobs/4649110006?gh_jid=4649110006) | Arlington, VA | greenhouse |
 | 2026-03-16 | accenturefederalservices | [Data Scientist 4](https://boards.greenhouse.io/accenturefederalservices/jobs/4648696006?gh_jid=4648696006) | Annapolis Junction, MD | greenhouse |
 | 2026-03-16 | accenturefederalservices | [Data Engineer in St. Louis, MO](https://boards.greenhouse.io/accenturefederalservices/jobs/4644934006?gh_jid=4644934006) | St. Louis, MO | greenhouse |
@@ -79,7 +82,6 @@ Page 2/2 | [Prev](jobs_page_1.md)
 | 2026-03-16 | mediabrands | [Data Analyst, Data Solutions & Analytics](https://job-boards.greenhouse.io/mediabrands/jobs/5038915007) | New York, New York, United States | greenhouse |
 | 2026-03-16 | nice | [AI Data Engineer](https://boards.eu.greenhouse.io/nice/jobs/4812095101?gh_jid=4812095101) | USA - Remote | greenhouse |
 | 2026-03-16 | americaninstitutesforresearch | [Quantitative Researcher, Healthcare Innovations](https://job-boards.greenhouse.io/americaninstitutesforresearch/jobs/5072165008) | US-Remote \| US-VA-Arlington \| US-NC-Chapel Hill \| US-IL-Chicago \| US-CA-Sacramento \| US-TX-Austin | greenhouse |
-| 2026-03-16 | americaninstitutesforresearch | [Quantitative Researcher, Learning Supports](https://job-boards.greenhouse.io/americaninstitutesforresearch/jobs/5141608008) | US-Remote \| US-VA-Arlington \| US-NC-Chapel Hill \| US-IL-Chicago \| US-CA-Sacramento \| US-TX-Austin | greenhouse |
 | 2026-03-16 | torcrobotics | [Data Scientist, I - Decision Science](https://job-boards.greenhouse.io/torcrobotics/jobs/8445206002) | Ann Arbor, MI | greenhouse |
 | 2026-03-16 | darkwolfsolutions | [Senior Data Engineer](https://job-boards.greenhouse.io/darkwolfsolutions/jobs/7664134003) | Chantilly/Herndon, VA | greenhouse |
 | 2026-03-16 | darkwolfsolutions | [Data Engineer/ETL Engineer](https://job-boards.greenhouse.io/darkwolfsolutions/jobs/7664152003) | Chantilly/Herndon, VA | greenhouse |
@@ -99,16 +101,6 @@ Page 2/2 | [Prev](jobs_page_1.md)
 | 2026-03-16 | anthropic | [Data Scientist](https://job-boards.greenhouse.io/anthropic/jobs/5098499008) | San Francisco, CA \| New York City, NY | greenhouse |
 | 2026-03-16 | sandtechholdingslimited | [Senior Data Scientist](https://job-boards.eu.greenhouse.io/sandtechholdingslimited/jobs/4781907101) | United States | greenhouse |
 | 2026-03-16 | coinbase | [Analytics Engineer](https://www.coinbase.com/careers/positions/7701638?gh_jid=7701638) | Remote - UK | greenhouse |
-| 2026-03-16 | sigmacomputing | [Director of Product Management,  AI Business Intelligence](https://job-boards.greenhouse.io/sigmacomputing/jobs/7656912003) | San Francisco, CA | greenhouse |
-| 2026-03-16 | sigmacomputing | [Staff AI/ML Engineer](https://job-boards.greenhouse.io/sigmacomputing/jobs/7656899003) | San Francisco, CA | greenhouse |
-| 2026-03-16 | sigmacomputing | [Staff AI/ML Engineer](https://job-boards.greenhouse.io/sigmacomputing/jobs/7656898003) | New York City, NY | greenhouse |
-| 2026-03-16 | sigmacomputing | [Senior AI/ML Engineer](https://job-boards.greenhouse.io/sigmacomputing/jobs/7656897003) | New York City, NY | greenhouse |
-| 2026-03-16 | sigmacomputing | [Senior AI/ML Engineer](https://job-boards.greenhouse.io/sigmacomputing/jobs/7656896003) | San Francisco, CA | greenhouse |
-| 2026-03-16 | warp | [Analytics Engineer](https://job-boards.greenhouse.io/warp/jobs/5828901004) | Remote within US and Canada | greenhouse |
-| 2026-03-16 | zipcolimited | [Senior Data Analyst (Finance & Accounting)](https://job-boards.greenhouse.io/zipcolimited/jobs/4662838006) | United States | greenhouse |
-| 2026-03-16 | okx | [Data Engineer](https://job-boards.greenhouse.io/okx/jobs/7660176003) | United States (US) | greenhouse |
-| 2026-03-16 | okx | [Principal Data Scientist, Risk & AI](https://job-boards.greenhouse.io/okx/jobs/7612307003) | San Jose, California, United States | greenhouse |
-| 2026-03-16 | okx | [Sr/Principal Data Scientist, Risk Strategy](https://job-boards.greenhouse.io/okx/jobs/7552740003) | San Jose, California, United States | greenhouse |
 
 Page 2/2 | [Prev](jobs_page_1.md)
 

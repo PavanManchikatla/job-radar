@@ -1,17 +1,20 @@
 ## Jobs Feed (auto-updated)
 
 <!-- JOBS:START -->
-_Last updated: 2026-03-18 21:31 CDT_
+_Last updated: 2026-03-19 00:49 CDT_
 
 Page 1/2 | [Next](exports/pages/jobs_page_2.md)
 
 | Posted | Company | Title | Location | Source |
 |---|---|---|---|---|
-| 2026-03-19 | additionwealth | [Senior Data Analyst](https://jobs.lever.co/additionwealth/87f880a1-ccdd-4cfd-8a28-8da655d435d9) | New York, NY | lever |
 | 2026-03-19 | a3c41b8b71eff8c4 | [Pricing Data Analyst](https://job-boards.greenhouse.io/a3c41b8b71eff8c4/jobs/7636637003) | United States, Remote | greenhouse |
-| 2026-03-19 | googlefiber | [Finance Analytics Engineer](https://fiber.google.com/careers/job/?gh_jid=5821415004) | Alabama; Arizona; Atlanta, Georgia; Austin, Texas; California; Charlotte, North Carolina; Chicago, Illinois; Colorado; Denver, Colorado; Durham, North Carolina; Florida; Georgia; Henderson, Nevada, United States; Huntsville, Alabama; Idaho, United States; Illinois, United States; Iowa; Irvine, California; Jefferson City, Missouri, United States; Kansas City, Missouri; Lakewood, Colorado, United States; Las Vegas, Nevada, United States; Logan, Utah, United States; Mesa, Arizona, United States; Miami, Florida; Missouri; Mountain View, California; Nashville, Tennessee; Nebraska, United States; Nevada, United States; New York, New York, United States; North Carolina; Omaha, Nebraska, United States; Pocatello, Idaho, United States; Provo, Utah; Salt Lake City, Utah; San Antonio, Texas; San Diego, California; San Francisco, California; Seattle, Washington; Sunnyvale, California, United States; Tennessee; Texas; Utah; Washington; West Des Moines, Iowa; Wilmington, North Carolina, United States | greenhouse |
 | 2026-03-19 | cloverhealth | [Senior Machine Learning Engineer](https://job-boards.greenhouse.io/cloverhealth/jobs/7729938) | Remote - USA | greenhouse |
+| 2026-03-19 | roblox | [Senior Data Scientist - Generative AI](https://careers.roblox.com/jobs/7420848?gh_jid=7420848) | San Mateo, CA, United States | greenhouse |
 | 2026-03-19 | verisign | [Sr Research Engineer](https://job-boards.greenhouse.io/verisign/jobs/7636398003) | Reston,Virginia,United States | greenhouse |
+| 2026-03-19 | deepmind | [Research Engineer, Gemini AutoRater](https://job-boards.greenhouse.io/deepmind/jobs/7689450) | Mountain View, California, US | greenhouse |
+| 2026-03-19 | anthropic | [Research Engineer / Scientist, Frontier Red Team (Cyber)](https://job-boards.greenhouse.io/anthropic/jobs/5076477008) | San Francisco, CA | greenhouse |
+| 2026-03-19 | additionwealth | [Senior Data Analyst](https://jobs.lever.co/additionwealth/87f880a1-ccdd-4cfd-8a28-8da655d435d9) | New York, NY | lever |
+| 2026-03-19 | googlefiber | [Finance Analytics Engineer](https://fiber.google.com/careers/job/?gh_jid=5821415004) | Alabama; Arizona; Atlanta, Georgia; Austin, Texas; California; Charlotte, North Carolina; Chicago, Illinois; Colorado; Denver, Colorado; Durham, North Carolina; Florida; Georgia; Henderson, Nevada, United States; Huntsville, Alabama; Idaho, United States; Illinois, United States; Iowa; Irvine, California; Jefferson City, Missouri, United States; Kansas City, Missouri; Lakewood, Colorado, United States; Las Vegas, Nevada, United States; Logan, Utah, United States; Mesa, Arizona, United States; Miami, Florida; Missouri; Mountain View, California; Nashville, Tennessee; Nebraska, United States; Nevada, United States; New York, New York, United States; North Carolina; Omaha, Nebraska, United States; Pocatello, Idaho, United States; Provo, Utah; Salt Lake City, Utah; San Antonio, Texas; San Diego, California; San Francisco, California; Seattle, Washington; Sunnyvale, California, United States; Tennessee; Texas; Utah; Washington; West Des Moines, Iowa; Wilmington, North Carolina, United States | greenhouse |
 | 2026-03-19 | nansen | [Senior AI/ML Engineer](https://job-boards.greenhouse.io/nansen/jobs/5118185004) | Remote Europe \| Remote Asia | greenhouse |
 | 2026-03-19 | waymo | [Machine Learning Engineer, Geometry Team](https://careers.withwaymo.com/jobs?gh_jid=7733702) | Kirkland, Washington, United States | greenhouse |
 | 2026-03-19 | xpengmotors | [Senior Staff Research Engineer – Reinforcement Learning for AI Agents](https://job-boards.greenhouse.io/xpengmotors/jobs/8469033002) | Santa Clara, CA | greenhouse |
@@ -504,9 +507,6 @@ Page 1/2 | [Next](exports/pages/jobs_page_2.md)
 | 2026-03-16 | engineersgate | [Quantitative Researcher](https://job-boards.greenhouse.io/engineersgate/jobs/5775150) | New York, NY | greenhouse |
 | 2026-03-16 | rvohealth | [Senior Data Analyst](https://job-boards.greenhouse.io/rvohealth/jobs/4659423005) | Charlotte, North Carolina, United States | greenhouse |
 | 2026-03-16 | gusto | [Staff Applied AI/ ML Engineer](https://job-boards.greenhouse.io/gusto/jobs/7065172) | Denver, CO;San Francisco, CA;New York, NY;Seattle, WA;Toronto, Ontario, CAN - Remote | greenhouse |
-| 2026-03-16 | accenturefederalservices | [Palantir Data Scientist (Onsite Vandenberg, CA)](https://boards.greenhouse.io/accenturefederalservices/jobs/4661716006?gh_jid=4661716006) | Point Mugu, CA | greenhouse |
-| 2026-03-16 | accenturefederalservices | [Analytics Manager](https://boards.greenhouse.io/accenturefederalservices/jobs/4656050006?gh_jid=4656050006) | Reston, VA | greenhouse |
-| 2026-03-16 | accenturefederalservices | [Data Scientist](https://boards.greenhouse.io/accenturefederalservices/jobs/4651049006?gh_jid=4651049006) | Arlington, VA | greenhouse |
 
 Page 1/2 | [Next](exports/pages/jobs_page_2.md)
 <!-- JOBS:END -->
