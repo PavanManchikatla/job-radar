@@ -9678,7 +9678,6 @@ instructure	no_jobs
 jetsetpilates	no_matching_jobs
 justwatch	no_matching_jobs
 kasheesh	no_matching_jobs
-gopuff	no_matching_jobs
 jvs-boston	no_matching_jobs
 hungerfreeamerica	no_matching_jobs
 kariusdx	no_matching_jobs

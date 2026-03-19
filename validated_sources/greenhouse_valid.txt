@@ -712,3 +712,6 @@ regscale
 ians
 lumenbioscience
 thesciongroupllc
+vestmark
+otter
+thoughtworks

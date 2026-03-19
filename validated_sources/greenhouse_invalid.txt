@@ -5042,7 +5042,6 @@ charterts	no_jobs
 blocpower	http_404
 invitae	http_404
 commonwealth	http_404
-vestmark	no_matching_jobs
 stone	no_matching_jobs
 supernal	no_matching_jobs
 mavensecuritiesholdingltd	no_matching_jobs
@@ -5079,7 +5078,6 @@ opswat	no_matching_jobs
 codalinc	no_matching_jobs
 pax8	http_404
 thltestcareers	no_matching_jobs
-otter	no_matching_jobs
 vimeo	http_404
 lendinghome	http_404
 octaura	no_matching_jobs
@@ -5129,7 +5127,6 @@ linqia	no_matching_jobs
 gruve	no_matching_jobs
 nitricity	no_matching_jobs
 akqa	no_matching_jobs
-thoughtworks	no_matching_jobs
 crescendohealth	no_matching_jobs
 zeals	no_matching_jobs
 medsien	no_matching_jobs
