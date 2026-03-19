@@ -9348,7 +9348,6 @@ kunai	http_404
 allata	http_404
 all	http_404
 albedo	no_jobs
-additionwealth	no_matching_jobs
 advocate	no_matching_jobs
 amiri	http_404
 alltrails	no_matching_jobs
