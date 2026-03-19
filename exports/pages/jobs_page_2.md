@@ -1,12 +1,14 @@
 # Jobs Feed (Page 2/2)
 
-_Last updated: 2026-03-19 00:49 CDT_
+_Last updated: 2026-03-19 04:07 CDT_
 
 Page 2/2 | [Prev](jobs_page_1.md)
 
 
 | Posted | Company | Title | Location | Source |
 |---|---|---|---|---|
+| 2026-03-16 | rvohealth | [Senior Data Analyst](https://job-boards.greenhouse.io/rvohealth/jobs/4659423005) | Charlotte, North Carolina, United States | greenhouse |
+| 2026-03-16 | gusto | [Staff Applied AI/ ML Engineer](https://job-boards.greenhouse.io/gusto/jobs/7065172) | Denver, CO;San Francisco, CA;New York, NY;Seattle, WA;Toronto, Ontario, CAN - Remote | greenhouse |
 | 2026-03-16 | accenturefederalservices | [Palantir Data Scientist (Onsite Vandenberg, CA)](https://boards.greenhouse.io/accenturefederalservices/jobs/4661716006?gh_jid=4661716006) | Point Mugu, CA | greenhouse |
 | 2026-03-16 | accenturefederalservices | [Analytics Manager](https://boards.greenhouse.io/accenturefederalservices/jobs/4656050006?gh_jid=4656050006) | Reston, VA | greenhouse |
 | 2026-03-16 | accenturefederalservices | [Data Scientist](https://boards.greenhouse.io/accenturefederalservices/jobs/4651049006?gh_jid=4651049006) | Arlington, VA | greenhouse |
@@ -96,11 +98,6 @@ Page 2/2 | [Prev](jobs_page_1.md)
 | 2026-03-16 | databricks | [Specialist Solutions Architect - ML & AI Engineer (Financial Services)](https://databricks.com/company/careers/open-positions/job?gh_jid=8434243002) | Remote - Georgia; Remote - Illinois; Remote - New York; Remote - North Carolina; Remote - Texas | greenhouse |
 | 2026-03-16 | arcanaanalytics | [Senior AI Engineer — Inference & Agent Systems](https://job-boards.greenhouse.io/arcanaanalytics/jobs/4183986009) | United States | greenhouse |
 | 2026-03-16 | monzo | [Senior Staff Machine Learning Scientist, Operations](https://job-boards.greenhouse.io/monzo/jobs/7571050) | Cardiff, London or Remote (UK) | greenhouse |
-| 2026-03-16 | 6sense | [VP, Product Management - Artificial Intelligence Experiences](https://boards.greenhouse.io/6sense/jobs/7206014?gh_jid=7206014) | United States, Remote | greenhouse |
-| 2026-03-16 | biohub | [Staff Data Scientist, Genomics](https://job-boards.greenhouse.io/biohub/jobs/7488689) | Redwood City, CA (Hybrid) | greenhouse |
-| 2026-03-16 | anthropic | [Data Scientist](https://job-boards.greenhouse.io/anthropic/jobs/5098499008) | San Francisco, CA \| New York City, NY | greenhouse |
-| 2026-03-16 | sandtechholdingslimited | [Senior Data Scientist](https://job-boards.eu.greenhouse.io/sandtechholdingslimited/jobs/4781907101) | United States | greenhouse |
-| 2026-03-16 | coinbase | [Analytics Engineer](https://www.coinbase.com/careers/positions/7701638?gh_jid=7701638) | Remote - UK | greenhouse |
 
 Page 2/2 | [Prev](jobs_page_1.md)
 
