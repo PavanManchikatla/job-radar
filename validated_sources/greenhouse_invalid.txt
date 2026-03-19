@@ -6879,7 +6879,6 @@ engageseniortherapy	no_matching_jobs
 lambcareers	no_matching_jobs
 gavindebeckerassociates	no_matching_jobs
 franklincovey	http_404
-ians	no_matching_jobs
 clearviewhealthcarepartners	no_matching_jobs
 gassouth	no_matching_jobs
 ogilvyspain	no_matching_jobs
@@ -8466,7 +8465,6 @@ databento	no_matching_jobs
 blab	no_jobs
 group14	no_matching_jobs
 blumira	no_matching_jobs
-lumenbioscience	no_matching_jobs
 beauhurst	no_matching_jobs
 blackswan	no_jobs
 relishworks	no_matching_jobs
@@ -8625,7 +8623,6 @@ traveloka	http_404
 vts	no_matching_jobs
 armissecurity	no_matching_jobs
 wellsaidlabs	no_jobs
-thesciongroupllc	no_matching_jobs
 lumahealth	no_matching_jobs
 zennify	no_matching_jobs
 innovaccer	http_404
