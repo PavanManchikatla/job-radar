@@ -804,7 +804,6 @@ root	no_matching_jobs
 kin	http_404
 clearcover	http_404
 next	http_404
-openly	no_matching_jobs
 sure	http_404
 metromile	http_404
 policygenius	http_404
@@ -6119,7 +6118,6 @@ sensiblecare	no_matching_jobs
 outerbiosciences	no_matching_jobs
 lazarusenterprises	no_jobs
 soci	no_matching_jobs
-monzoreferrals	no_matching_jobs
 runelabs	http_404
 mlbfellowship	no_matching_jobs
 copperco	no_matching_jobs
@@ -6344,7 +6342,6 @@ jellyvision	no_matching_jobs
 sojern	no_matching_jobs
 vynyl	no_matching_jobs
 fletcherjonesishiringmechanicsandtechnicians	no_matching_jobs
-impiricus	no_matching_jobs
 eastridgeacademy	no_jobs
 hypori	no_matching_jobs
 krollbondratingagency	no_matching_jobs
