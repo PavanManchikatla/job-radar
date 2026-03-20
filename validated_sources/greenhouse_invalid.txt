@@ -1381,7 +1381,6 @@ trifecta nutrition	http_404
 factor meals	http_404
 green chef	http_404
 fresh n lean	http_404
-hungryroot	no_matching_jobs
 purple carrot	http_404
 splendid spoon	http_404
 mosaic foods	http_404
@@ -6105,7 +6104,6 @@ butlr	no_matching_jobs
 kaikosystems	no_matching_jobs
 integraladscience	http_404
 edreports	no_matching_jobs
-terraclear	no_matching_jobs
 bluestatedigital	no_matching_jobs
 socialpoint	no_jobs
 kernagency	no_jobs
@@ -6398,7 +6396,6 @@ calyxinstitute	no_jobs
 bluecrestcapitalmanagement	no_matching_jobs
 roadrunner	no_matching_jobs
 axisteletherapy	no_matching_jobs
-lynxanalytics	no_matching_jobs
 settle	http_404
 tangocard	http_404
 barrfoundation	no_jobs
@@ -6746,7 +6743,6 @@ luminar	no_jobs
 wakam	no_matching_jobs
 kensingtontours	no_matching_jobs
 matherplace	no_matching_jobs
-palmettocleantech	no_matching_jobs
 timescale	http_404
 neda	no_matching_jobs
 nightdivestudios	no_matching_jobs

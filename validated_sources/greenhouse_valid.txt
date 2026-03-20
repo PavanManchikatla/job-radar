@@ -715,3 +715,7 @@ thesciongroupllc
 vestmark
 otter
 thoughtworks
+hungryroot
+terraclear
+lynxanalytics
+palmettocleantech
