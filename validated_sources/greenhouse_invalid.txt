@@ -5470,7 +5470,6 @@ genedx	no_matching_jobs
 mindvalley	http_404
 charterup	no_matching_jobs
 voter	no_matching_jobs
-pagerhealth	no_matching_jobs
 enterpret	no_matching_jobs
 tempus	http_404
 kairospower	no_matching_jobs
@@ -5617,7 +5616,6 @@ tezatechnologies	http_404
 processstreet	no_jobs
 hoyoverse	no_matching_jobs
 globalenergyallianceforpeopleandplanetgeappllc	no_matching_jobs
-epicgames	no_matching_jobs
 morty	no_matching_jobs
 galileofinancialtechnologies	no_matching_jobs
 scaletowinllc	no_matching_jobs
@@ -7519,7 +7517,6 @@ glooko	no_matching_jobs
 quince	no_matching_jobs
 wayvia	no_matching_jobs
 preciselyusjobs	no_matching_jobs
-goatgroup	no_matching_jobs
 prisma6	no_matching_jobs
 rebag	no_matching_jobs
 joskoasp	no_matching_jobs

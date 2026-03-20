@@ -9422,7 +9422,6 @@ bestegg	http_404
 bluematrix	http_404
 bisnow	no_matching_jobs
 bigblue	no_matching_jobs
-bluesight	no_matching_jobs
 applydigital	no_matching_jobs
 bosonai	no_matching_jobs
 bolster	no_matching_jobs
