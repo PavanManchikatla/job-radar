@@ -1,12 +1,16 @@
 # Jobs Feed (Page 2/2)
 
-_Last updated: 2026-03-20 04:05 CDT_
+_Last updated: 2026-03-20 08:23 CDT_
 
 Page 2/2 | [Prev](jobs_page_1.md)
 
 
 | Posted | Company | Title | Location | Source |
 |---|---|---|---|---|
+| 2026-03-17 | adaptivebiotechnologies | [Senior Machine Learning Scientist](https://www.adaptivebiotech.com/career-listings/listing?gh_jid=8464809002) | Remote (WFH) | greenhouse |
+| 2026-03-17 | pinterest | [Data Scientist II, Growth Marketing](https://www.pinterestcareers.com/jobs/?gh_jid=6483005) | San Francisco, CA, US; Remote, US | greenhouse |
+| 2026-03-17 | equipmentsharecom | [Analytics Engineer](https://www.equipmentshare.com/careers/openings/?gh_jid=7456447) | Columbia, MO (Headquarters) | greenhouse |
+| 2026-03-17 | equipmentsharecom | [Analytics Engineer, People Analytics](https://www.equipmentshare.com/careers/openings/?gh_jid=7527399) | Kansas City, MO | greenhouse |
 | 2026-03-17 | equipmentsharecom | [Analytics Engineer, People Analytics](https://www.equipmentshare.com/careers/openings/?gh_jid=7425167) | St. Louis, MO | greenhouse |
 | 2026-03-17 | equipmentsharecom | [Analytics Engineer, People Analytics](https://www.equipmentshare.com/careers/openings/?gh_jid=7424890) | Kansas City, MO | greenhouse |
 | 2026-03-17 | equipmentsharecom | [Analytics Engineer, People Analytics](https://www.equipmentshare.com/careers/openings/?gh_jid=7425181) | Chicago, IL (Southwest) | greenhouse |
@@ -123,13 +127,10 @@ Page 2/2 | [Prev](jobs_page_1.md)
 | 2026-03-17 | motional | [Senior Software Engineer, ML Infrastructure](https://motional.com/open-positions/?gh_jid=7667614003#/7667614003) | Pittsburgh, Pennsylvania, United States | greenhouse |
 | 2026-03-17 | spotify | [Machine Learning Engineering Manager - Surfaces Music](https://jobs.lever.co/spotify/5277f56c-0e14-4593-921c-5460c46d6a35) | New York, NY | lever |
 | 2026-03-17 | unity3d | [Senior Data Engineer](https://unity.com/careers/positions/7658435?gh_jid=7658435) | San Francisco, CA, USA | greenhouse |
-| 2026-03-17 | consensys | [Onchain Data Analyst](https://consensys.io/open-roles/7461446?gh_jid=7461446) | UNITED STATES - Remote | greenhouse |
 | 2026-03-17 | consensys | [Senior Analytics Engineer](https://consensys.io/open-roles/7335661?gh_jid=7335661) | UNITED STATES - Remote, CANADA - Remote, LATAM - Remote, EMEA - Remote | greenhouse |
 | 2026-03-17 | consensys | [Senior Data Engineer](https://consensys.io/open-roles/7335693?gh_jid=7335693) | UNITED STATES - Remote, CANADA - Remote, LATAM - Remote, EMEA - Remote | greenhouse |
 | 2026-03-17 | wavemm1 | [Senior Analytics Engineer](https://www.wave.com/en/careers/job/5762854004?gh_jid=5762854004) | Remote | greenhouse |
 | 2026-03-17 | instacart | [Senior Machine Learning Engineer II, Search & Recommendations Ranking](https://instacart.careers/job/?gh_jid=7565508) | US - Remote | greenhouse |
-| 2026-03-17 | rushstreetinteractive | [Casino Data Analyst](https://job-boards.greenhouse.io/rushstreetinteractive/jobs/5819862004) | USA - Remote | greenhouse |
-| 2026-03-17 | gitlab | [Senior Fullstack Engineer (TypeScript), AI Engineering: Editor Extensions](https://job-boards.greenhouse.io/gitlab/jobs/8452278002) | Remote, Canada; Remote, Ireland; Remote, Netherlands; Remote, United Kingdom; Remote, US-Southeast | greenhouse |
 
 Page 2/2 | [Prev](jobs_page_1.md)
 

@@ -119,3 +119,4 @@ brillio-2
 olo
 additionwealth
 gopuff
+malt

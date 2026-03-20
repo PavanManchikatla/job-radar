@@ -9734,7 +9734,6 @@ levelai	no_matching_jobs
 mamo	http_404
 launchsquad	no_matching_jobs
 magnetforensics	no_matching_jobs
-malt	no_matching_jobs
 mediafly	http_404
 mcgovern	no_matching_jobs
 matters	http_404
