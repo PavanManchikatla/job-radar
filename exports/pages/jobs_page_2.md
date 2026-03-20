@@ -1,6 +1,6 @@
 # Jobs Feed (Page 2/2)
 
-_Last updated: 2026-03-20 00:42 CDT_
+_Last updated: 2026-03-20 04:05 CDT_
 
 Page 2/2 | [Prev](jobs_page_1.md)
 
@@ -130,10 +130,6 @@ Page 2/2 | [Prev](jobs_page_1.md)
 | 2026-03-17 | instacart | [Senior Machine Learning Engineer II, Search & Recommendations Ranking](https://instacart.careers/job/?gh_jid=7565508) | US - Remote | greenhouse |
 | 2026-03-17 | rushstreetinteractive | [Casino Data Analyst](https://job-boards.greenhouse.io/rushstreetinteractive/jobs/5819862004) | USA - Remote | greenhouse |
 | 2026-03-17 | gitlab | [Senior Fullstack Engineer (TypeScript), AI Engineering: Editor Extensions](https://job-boards.greenhouse.io/gitlab/jobs/8452278002) | Remote, Canada; Remote, Ireland; Remote, Netherlands; Remote, United Kingdom; Remote, US-Southeast | greenhouse |
-| 2026-03-17 | fourkites | [Senior AI Engineer](https://job-boards.greenhouse.io/fourkites/jobs/7640820) | Chennai or Remote, India | greenhouse |
-| 2026-03-17 | grailbio | [Machine Learning Infrastructure Engineer - #4694](https://jobs.lever.co/grailbio/664f9059-7d62-447a-b083-b645cfd84530) | Menlo Park, CA | lever |
-| 2026-03-17 | workstream | [AI Engineer](https://job-boards.greenhouse.io/workstream/jobs/5156961004) | Shanghai or Remote China | greenhouse |
-| 2026-03-17 | go1au | [Senior Data Scientist](https://job-boards.greenhouse.io/go1au/jobs/4660940005) | Australia - Remote | greenhouse |
 
 Page 2/2 | [Prev](jobs_page_1.md)
 
