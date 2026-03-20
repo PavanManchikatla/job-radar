@@ -1,12 +1,15 @@
 # Jobs Feed (Page 2/2)
 
-_Last updated: 2026-03-19 21:25 CDT_
+_Last updated: 2026-03-20 00:42 CDT_
 
 Page 2/2 | [Prev](jobs_page_1.md)
 
 
 | Posted | Company | Title | Location | Source |
 |---|---|---|---|---|
+| 2026-03-17 | equipmentsharecom | [Analytics Engineer, People Analytics](https://www.equipmentshare.com/careers/openings/?gh_jid=7425167) | St. Louis, MO | greenhouse |
+| 2026-03-17 | equipmentsharecom | [Analytics Engineer, People Analytics](https://www.equipmentshare.com/careers/openings/?gh_jid=7424890) | Kansas City, MO | greenhouse |
+| 2026-03-17 | equipmentsharecom | [Analytics Engineer, People Analytics](https://www.equipmentshare.com/careers/openings/?gh_jid=7425181) | Chicago, IL (Southwest) | greenhouse |
 | 2026-03-17 | equipmentsharecom | [Analytics Engineer, People Analytics](https://www.equipmentshare.com/careers/openings/?gh_jid=7527398) | St. Louis, MO | greenhouse |
 | 2026-03-17 | equipmentsharecom | [Analytics Engineer, People Analytics](https://www.equipmentshare.com/careers/openings/?gh_jid=7425511) | Denver, CO (North) | greenhouse |
 | 2026-03-17 | equipmentsharecom | [Analytics Engineer, People Analytics](https://www.equipmentshare.com/careers/openings/?gh_jid=7425513) | Dallas, TX | greenhouse |
@@ -91,8 +94,8 @@ Page 2/2 | [Prev](jobs_page_1.md)
 | 2026-03-17 | doordashusa | [Senior Software Engineer, Data Engineering](https://job-boards.greenhouse.io/doordashusa/jobs/6021795) | San Francisco, CA; Sunnyvale, CA; Seattle, WA | greenhouse |
 | 2026-03-17 | doordashusa | [Senior Software Engineer, Machine Learning - Consumer ML](https://job-boards.greenhouse.io/doordashusa/jobs/6338077) | San Francisco, CA; Sunnyvale, CA; Seattle, WA | greenhouse |
 | 2026-03-17 | doordashusa | [Software Engineer II, Data Engineering](https://job-boards.greenhouse.io/doordashusa/jobs/6458514) | San Francisco, CA; Sunnyvale, CA | greenhouse |
-| 2026-03-17 | doordashusa | [Software Engineer, Machine Learning Infrastructure](https://job-boards.greenhouse.io/doordashusa/jobs/6296361) | San Francisco, CA; Sunnyvale, CA; Seattle, WA | greenhouse |
 | 2026-03-17 | doordashusa | [Software Engineer, Machine Learning Infrastructure](https://job-boards.greenhouse.io/doordashusa/jobs/7659437) | San Francisco, CA; Sunnyvale, CA; Seattle, WA | greenhouse |
+| 2026-03-17 | doordashusa | [Software Engineer, Machine Learning Infrastructure](https://job-boards.greenhouse.io/doordashusa/jobs/6296361) | San Francisco, CA; Sunnyvale, CA; Seattle, WA | greenhouse |
 | 2026-03-17 | doordashusa | [Staff Machine Learning Engineer - DashPass](https://job-boards.greenhouse.io/doordashusa/jobs/7488724) | San Francisco, CA; Sunnyvale, CA | greenhouse |
 | 2026-03-17 | doordashusa | [Staff Machine Learning Engineer, Money (Founding ML Lead)](https://job-boards.greenhouse.io/doordashusa/jobs/7634941) | San Francisco, CA; Los Angeles, CA | greenhouse |
 | 2026-03-17 | doordashusa | [Staff Software Engineer, Machine Learning - Personalization](https://job-boards.greenhouse.io/doordashusa/jobs/5575224) | San Francisco, CA; Sunnyvale, CA | greenhouse |
@@ -126,16 +129,11 @@ Page 2/2 | [Prev](jobs_page_1.md)
 | 2026-03-17 | wavemm1 | [Senior Analytics Engineer](https://www.wave.com/en/careers/job/5762854004?gh_jid=5762854004) | Remote | greenhouse |
 | 2026-03-17 | instacart | [Senior Machine Learning Engineer II, Search & Recommendations Ranking](https://instacart.careers/job/?gh_jid=7565508) | US - Remote | greenhouse |
 | 2026-03-17 | rushstreetinteractive | [Casino Data Analyst](https://job-boards.greenhouse.io/rushstreetinteractive/jobs/5819862004) | USA - Remote | greenhouse |
-| 2026-03-17 | automatticcareers | [Applied AI Engineer](https://job-boards.greenhouse.io/automatticcareers/jobs/7558576) | Remote | greenhouse |
 | 2026-03-17 | gitlab | [Senior Fullstack Engineer (TypeScript), AI Engineering: Editor Extensions](https://job-boards.greenhouse.io/gitlab/jobs/8452278002) | Remote, Canada; Remote, Ireland; Remote, Netherlands; Remote, United Kingdom; Remote, US-Southeast | greenhouse |
 | 2026-03-17 | fourkites | [Senior AI Engineer](https://job-boards.greenhouse.io/fourkites/jobs/7640820) | Chennai or Remote, India | greenhouse |
 | 2026-03-17 | grailbio | [Machine Learning Infrastructure Engineer - #4694](https://jobs.lever.co/grailbio/664f9059-7d62-447a-b083-b645cfd84530) | Menlo Park, CA | lever |
 | 2026-03-17 | workstream | [AI Engineer](https://job-boards.greenhouse.io/workstream/jobs/5156961004) | Shanghai or Remote China | greenhouse |
 | 2026-03-17 | go1au | [Senior Data Scientist](https://job-boards.greenhouse.io/go1au/jobs/4660940005) | Australia - Remote | greenhouse |
-| 2026-03-17 | vectranetworks | [Distinguished AI Researcher](https://www.vectra.ai/about/jobs?gh_jid=7366878) | San Jose, CA, United States | greenhouse |
-| 2026-03-17 | vectranetworks | [Sr. AI/ML Engineer](https://www.vectra.ai/about/jobs?gh_jid=7060677) | San Jose, CA | greenhouse |
-| 2026-03-17 | funga | [Data Engineer](https://job-boards.greenhouse.io/funga/jobs/5115038008) | Austin, TX or Remote within Continental US considered | greenhouse |
-| 2026-03-17 | striveworks | [Senior Machine Learning Engineer](https://job-boards.greenhouse.io/striveworks/jobs/7611089003) | Austin, Texas or Remote | greenhouse |
 
 Page 2/2 | [Prev](jobs_page_1.md)
 
