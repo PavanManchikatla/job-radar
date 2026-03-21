@@ -1,18 +1,27 @@
 # Jobs Feed (Page 2/2)
 
-_Last updated: 2026-03-20 15:57 CDT_
+_Last updated: 2026-03-20 21:19 CDT_
 
 Page 2/2 | [Prev](jobs_page_1.md)
 
 
 | Posted | Company | Title | Location | Source |
 |---|---|---|---|---|
+| 2026-03-18 | tebra | [Senior Machine Learning Engineer](https://job-boards.greenhouse.io/tebra/jobs/4649944005) | United States - Remote | greenhouse |
+| 2026-03-18 | tebra | [Staff Machine Learning Engineer](https://job-boards.greenhouse.io/tebra/jobs/4637693005) | United States - Remote | greenhouse |
+| 2026-03-18 | deepmind | [Research Scientist, Recommendation Systems](https://job-boards.greenhouse.io/deepmind/jobs/7461811) | Mountain View, California, US | greenhouse |
+| 2026-03-18 | vaxcyte | [Senior Manager, Quality Control Data Analyst](https://boards.greenhouse.io/vaxcyte/jobs/5151345008?gh_jid=5151345008) | San Carlos, California, United States | greenhouse |
+| 2026-03-18 | earnest | [Lead Data Scientist](https://app.careerpuck.com/job-board/earnest/job/7723864?gh_jid=7723864) | Remote | greenhouse |
+| 2026-03-18 | datadog | [Senior AI Engineer - APM Experiences](https://careers.datadoghq.com/detail/7415266/?gh_jid=7415266) | New York, New York, USA | greenhouse |
+| 2026-03-18 | datadog | [Senior AI Engineer - APM Integrations](https://careers.datadoghq.com/detail/7582805/?gh_jid=7582805) | Germany, Remote; Italy, Remote; Spain, Remote | greenhouse |
+| 2026-03-18 | datadog | [Senior AI Engineer - APM Integrations](https://careers.datadoghq.com/detail/7582802/?gh_jid=7582802) | Portugal, Remote | greenhouse |
+| 2026-03-18 | datadog | [Senior Software Engineer - AI Code Gen - Agent Engineer](https://careers.datadoghq.com/detail/7107875/?gh_jid=7107875) | New York, New York, USA | greenhouse |
 | 2026-03-18 | datadog | [Senior Staff GenAI Engineer - Application Performance Monitoring (APM)](https://careers.datadoghq.com/detail/6960503/?gh_jid=6960503) | New York, New York, USA | greenhouse |
 | 2026-03-18 | datadog | [Staff AI Engineer - MCP Services](https://careers.datadoghq.com/detail/7627410/?gh_jid=7627410) | Portugal, Remote | greenhouse |
 | 2026-03-18 | datadog | [Staff AI Engineer - MCP Services](https://careers.datadoghq.com/detail/7627404/?gh_jid=7627404) | France, Remote; Germany, Remote; Ireland, Remote; Italy, Remote; Spain, Remote; Switzerland, Remote | greenhouse |
 | 2026-03-18 | datadog | [Staff AI Engineer - Notebooks](https://careers.datadoghq.com/detail/7629288/?gh_jid=7629288) | New York, New York, USA | greenhouse |
-| 2026-03-18 | datadog | [Staff AI Engineer - Notebooks](https://careers.datadoghq.com/detail/7627429/?gh_jid=7627429) | France, Remote; Germany, Remote; Ireland, Remote; Italy, Remote; Spain, Remote; Switzerland, Remote | greenhouse |
 | 2026-03-18 | datadog | [Staff AI Engineer - Notebooks](https://careers.datadoghq.com/detail/7627445/?gh_jid=7627445) | Portugal, Remote | greenhouse |
+| 2026-03-18 | datadog | [Staff AI Engineer - Notebooks](https://careers.datadoghq.com/detail/7627429/?gh_jid=7627429) | France, Remote; Germany, Remote; Ireland, Remote; Italy, Remote; Spain, Remote; Switzerland, Remote | greenhouse |
 | 2026-03-18 | datadog | [Staff GenAI Engineer - Application Performance Monitoring (APM)](https://careers.datadoghq.com/detail/6958985/?gh_jid=6958985) | New York, New York, USA | greenhouse |
 | 2026-03-18 | youcom | [AI Engineer, Enterprise Solutions](https://job-boards.greenhouse.io/youcom/jobs/4866878008) | San Francisco, CA (Remote) | greenhouse |
 | 2026-03-18 | youcom | [Senior AI Engineer, Enterprise Solutions](https://job-boards.greenhouse.io/youcom/jobs/4919811008) | San Francisco, CA (Remote) | greenhouse |
@@ -85,20 +94,6 @@ Page 2/2 | [Prev](jobs_page_1.md)
 | 2026-03-18 | humansignal | [AI Engineer (GTM)](https://job-boards.greenhouse.io/humansignal/jobs/5828847004) | Remote | greenhouse |
 | 2026-03-18 | yipitdatajobs | [Data Engineering Manager](https://job-boards.greenhouse.io/yipitdatajobs/jobs/7446282) | US Remote | greenhouse |
 | 2026-03-18 | yipitdata | [Data Engineering Lead](https://job-boards.greenhouse.io/yipitdata/jobs/7306248) | US Remote | greenhouse |
-| 2026-03-18 | wing | [Senior Data Analyst](https://wing.com/careers/8438734002?gh_jid=8438734002) | Remote, USA | greenhouse |
-| 2026-03-18 | samsungsemiconductor | [Principal, CPU Architecture & Performance Research Engineer](https://job-boards.greenhouse.io/samsungsemiconductor/jobs/7618068003) | San Jose, California, United States | greenhouse |
-| 2026-03-18 | samsungsemiconductor | [Senior, CPU Architecture & Performance Research Engineer](https://job-boards.greenhouse.io/samsungsemiconductor/jobs/7618081003) | San Jose, California, United States | greenhouse |
-| 2026-03-18 | samsungsemiconductor | [Staff, CPU Architecture & Performance Research Engineer](https://job-boards.greenhouse.io/samsungsemiconductor/jobs/7618074003) | San Jose, California, United States | greenhouse |
-| 2026-03-17 | adaptivebiotechnologies | [Principal Machine Learning Scientist](https://www.adaptivebiotech.com/career-listings/listing?gh_jid=8464777002) | Remote (WFH) | greenhouse |
-| 2026-03-17 | adaptivebiotechnologies | [Senior Machine Learning Scientist](https://www.adaptivebiotech.com/career-listings/listing?gh_jid=8464809002) | Remote (WFH) | greenhouse |
-| 2026-03-17 | pinterest | [Data Scientist II, Growth Marketing](https://www.pinterestcareers.com/jobs/?gh_jid=6483005) | San Francisco, CA, US; Remote, US | greenhouse |
-| 2026-03-17 | letsgetchecked | [Business Intelligence Analyst](https://job-boards.eu.greenhouse.io/letsgetchecked/jobs/4805757101) | Remote, United States | greenhouse |
-| 2026-03-17 | letsgetchecked | [Junior Business Intelligence Analyst](https://job-boards.eu.greenhouse.io/letsgetchecked/jobs/4805740101) | Remote, United States | greenhouse |
-| 2026-03-17 | offerup | [Senior Data Scientist (Hybrid @ Bellevue, WA or Remote @ Florida)](https://job-boards.greenhouse.io/offerup/jobs/7568501) | (Hybrid @ Bellevue, WA or Remote @ Florida) | greenhouse |
-| 2026-03-17 | redventures | [Director of Data Engineering](https://www.redventures.com/careers/positions/open?gh_jid=7528917) | Charlotte, NC | greenhouse |
-| 2026-03-17 | smarterdx | [Data Engineering Manager](https://job-boards.greenhouse.io/smarterdx/jobs/5038937007) | Remote (United States) | greenhouse |
-| 2026-03-17 | dropbox | [People Team Data Analyst, Talent Acquisition](https://jobs.dropbox.com/listing/7536374?gh_jid=7536374) | Remote - Canada: Select locations | greenhouse |
-| 2026-03-17 | dropbox | [People Team Data Analyst, Talent Acquisition](https://jobs.dropbox.com/listing/7536371?gh_jid=7536371) | Remote - US: Select locations | greenhouse |
 
 Page 2/2 | [Prev](jobs_page_1.md)
 

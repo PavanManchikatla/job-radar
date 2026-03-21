@@ -3013,7 +3013,6 @@ ontraport	http_404
 keap	http_404
 autopilot	http_404
 customer.io	http_404
-klaviyo	no_matching_jobs
 iterable	no_matching_jobs
 mparticle	http_404
 braze	no_matching_jobs
@@ -8389,7 +8388,6 @@ freewill	no_matching_jobs
 navierai	no_matching_jobs
 acorns	http_404
 bdainc	no_matching_jobs
-imaginepediatrics	no_matching_jobs
 businessolver	no_matching_jobs
 boostinsurance	no_jobs
 vestwell	no_matching_jobs
