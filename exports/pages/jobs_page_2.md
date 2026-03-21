@@ -1,6 +1,6 @@
 # Jobs Feed (Page 2/2)
 
-_Last updated: 2026-03-21 03:58 CDT_
+_Last updated: 2026-03-21 08:11 CDT_
 
 Page 2/2 | [Prev](jobs_page_1.md)
 
@@ -85,15 +85,6 @@ Page 2/2 | [Prev](jobs_page_1.md)
 | 2026-03-18 | sezzle | [AI Engineer II (Remote)](https://job-boards.greenhouse.io/sezzle/jobs/7633988003) | Brazil, Remote | greenhouse |
 | 2026-03-18 | sezzle | [AI Engineer II (Remote)](https://job-boards.greenhouse.io/sezzle/jobs/7633986003) | Türkiye, Remote | greenhouse |
 | 2026-03-18 | geotab | [Senior Data Scientist](https://job-boards.greenhouse.io/geotab/jobs/4918405008) | Atlanta, Georgia - USA | greenhouse |
-| 2026-03-18 | tailscale | [Analytics Engineer, Data](https://job-boards.greenhouse.io/tailscale/jobs/4562134005) | Remote (Canada) | greenhouse |
-| 2026-03-18 | tailscale | [Analytics Engineer, Data](https://job-boards.greenhouse.io/tailscale/jobs/4562146005) | Remote (United States) | greenhouse |
-| 2026-03-18 | flipapp1 | [(Senior) AI Engineer (m/f/d)](https://www.getflip.com/careers/jobs/4678596101?gh_jid=4678596101) | Berlin, Berlin, Germany; Remote (Europe); Stuttgart, Baden-Württemberg, Germany | greenhouse |
-| 2026-03-18 | cloverhealth | [Senior Clinical Data Analyst](https://job-boards.greenhouse.io/cloverhealth/jobs/7602853) | Remote - USA | greenhouse |
-| 2026-03-18 | clarityai | [Staff AI Engineer](https://job-boards.eu.greenhouse.io/clarityai/jobs/4802689101) | Remote | greenhouse |
-| 2026-03-18 | clarityai | [Software/Data Engineer - EU Taxonomy Team](https://job-boards.eu.greenhouse.io/clarityai/jobs/4783604101) | Remote | greenhouse |
-| 2026-03-18 | cresta | [Senior Machine Learning Engineer Automatic Speech Recognition (ASR)](https://job-boards.greenhouse.io/cresta/jobs/5082821008) | Germany (Remote) | greenhouse |
-| 2026-03-18 | cresta | [Senior Machine Learning Engineer - Automatic Speech Recognition (ASR)](https://job-boards.greenhouse.io/cresta/jobs/5101011008) | United Kingdom (Remote) | greenhouse |
-| 2026-03-18 | fixify | [Data Science Manager](https://job-boards.greenhouse.io/fixify/jobs/5132721008) | Ireland, Remote | greenhouse |
 
 Page 2/2 | [Prev](jobs_page_1.md)
 
