@@ -1,15 +1,15 @@
 ## Jobs Feed (auto-updated)
 
 <!-- JOBS:START -->
-_Last updated: 2026-03-22 04:00 CDT_
+_Last updated: 2026-03-22 08:15 CDT_
 
 | Posted | Company | Title | Location | Source |
 |---|---|---|---|---|
+| 2026-03-22 | babylist | [Senior Engineering Manager, Machine Learning](https://job-boards.greenhouse.io/babylist/jobs/5815353004) | United States and Canada | greenhouse |
 | 2026-03-22 | verisign | [Sr Research Engineer](https://job-boards.greenhouse.io/verisign/jobs/7636398003) | Reston,Virginia,United States | greenhouse |
 | 2026-03-22 | khealthcareers | [Senior AI Researcher](https://job-boards.greenhouse.io/khealthcareers/jobs/5776768004) | Tel-Aviv, IL | greenhouse |
 | 2026-03-21 | securityscorecard | [Senior Data Scientist](https://job-boards.greenhouse.io/securityscorecard/jobs/7565684) | Remote (US & CAN) | greenhouse |
 | 2026-03-21 | securityscorecard | [Senior Machine Learning Engineer](https://job-boards.greenhouse.io/securityscorecard/jobs/7648717) | Remote (LATAM) | greenhouse |
-| 2026-03-21 | babylist | [Senior Engineering Manager, Machine Learning](https://job-boards.greenhouse.io/babylist/jobs/5815353004) | United States and Canada | greenhouse |
 | 2026-03-21 | mozilla | [Staff Data Scientist, Revenue](https://job-boards.greenhouse.io/mozilla/jobs/7572361) | Remote US | greenhouse |
 | 2026-03-21 | mozilla | [Staff Data Scientist, Revenue](https://job-boards.greenhouse.io/mozilla/jobs/7246864) | Remote | greenhouse |
 | 2026-03-21 | mozilla | [Senior Data Scientist, Revenue and Business](https://job-boards.greenhouse.io/mozilla/jobs/7137777) | Remote US | greenhouse |
@@ -401,17 +401,4 @@ _Last updated: 2026-03-22 04:00 CDT_
 | 2026-03-19 | upstart | [Principal Machine Learning Engineer](https://careers.upstart.com/jobs?gh_jid=7370621) | United States \| Remote | greenhouse |
 | 2026-03-19 | onestudyteam | [Senior Data Analyst](https://job-boards.greenhouse.io/onestudyteam/jobs/5832169004) | United States-Remote | greenhouse |
 | 2026-03-19 | zipcolimited | [Senior Machine Learning Engineer](https://job-boards.greenhouse.io/zipcolimited/jobs/4662516006) | United States | greenhouse |
-| 2026-03-19 | veriff | [Staff Applied Research Engineer, Biometrics](https://www.veriff.com/careers/position/8457006002?gh_jid=8457006002) | Spain (Remote), USA (Remote) | greenhouse |
-| 2026-03-19 | prolific | [AI Research Engineer](https://job-boards.eu.greenhouse.io/prolific/jobs/4580702101) | Remote, UK | greenhouse |
-| 2026-03-19 | prolific | [AI Training - Machine Learning Specialist (EST)](https://job-boards.eu.greenhouse.io/prolific/jobs/4749737101) | Remote | greenhouse |
-| 2026-03-19 | prolific | [AI Training - Machine Learning Specialist (PST)](https://job-boards.eu.greenhouse.io/prolific/jobs/4749770101) | Remote | greenhouse |
-| 2026-03-19 | prolific | [AI Training - Machine Learning Specialist (UK)](https://job-boards.eu.greenhouse.io/prolific/jobs/4749781101) | Remote | greenhouse |
-| 2026-03-19 | prolific | [AI Training - Research Scientist (CAN)](https://job-boards.eu.greenhouse.io/prolific/jobs/4761612101) | Remote | greenhouse |
-| 2026-03-19 | prolific | [AI Training - Research Scientist (EST)](https://job-boards.eu.greenhouse.io/prolific/jobs/4761583101) | Remote | greenhouse |
-| 2026-03-19 | prolific | [AI Training - Research Scientist (PST)](https://job-boards.eu.greenhouse.io/prolific/jobs/4761610101) | Remote | greenhouse |
-| 2026-03-19 | prolific | [AI Training - Research Scientist (UK)](https://job-boards.eu.greenhouse.io/prolific/jobs/4761614101) | Remote | greenhouse |
-| 2026-03-19 | prolific | [Data Analyst](https://job-boards.eu.greenhouse.io/prolific/jobs/4815535101) | United States | greenhouse |
-| 2026-03-19 | prolific | [Research Engineer, AI Services](https://job-boards.eu.greenhouse.io/prolific/jobs/4772448101) | Remote, US | greenhouse |
-| 2026-03-19 | elastic | [Principal Software Engineer II - Machine Learning - Elasticsearch](https://jobs.elastic.co/jobs?gh_jid=7735254&gh_jid=7735254) | United States | greenhouse |
-| 2026-03-19 | innovecs | [Senior Machine Learning Engineer](https://jobs.innovecs.com/vacancies?gh_jid=8444634002) | Ukraine, Poland, Romania, Spain, Remote | greenhouse |
 <!-- JOBS:END -->
