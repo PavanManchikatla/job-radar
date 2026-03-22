@@ -1,12 +1,12 @@
 ## Jobs Feed (auto-updated)
 
 <!-- JOBS:START -->
-_Last updated: 2026-03-22 00:45 CDT_
+_Last updated: 2026-03-22 04:00 CDT_
 
 | Posted | Company | Title | Location | Source |
 |---|---|---|---|---|
-| 2026-03-22 | khealthcareers | [Senior AI Researcher](https://job-boards.greenhouse.io/khealthcareers/jobs/5776768004) | Tel-Aviv, IL | greenhouse |
 | 2026-03-22 | verisign | [Sr Research Engineer](https://job-boards.greenhouse.io/verisign/jobs/7636398003) | Reston,Virginia,United States | greenhouse |
+| 2026-03-22 | khealthcareers | [Senior AI Researcher](https://job-boards.greenhouse.io/khealthcareers/jobs/5776768004) | Tel-Aviv, IL | greenhouse |
 | 2026-03-21 | securityscorecard | [Senior Data Scientist](https://job-boards.greenhouse.io/securityscorecard/jobs/7565684) | Remote (US & CAN) | greenhouse |
 | 2026-03-21 | securityscorecard | [Senior Machine Learning Engineer](https://job-boards.greenhouse.io/securityscorecard/jobs/7648717) | Remote (LATAM) | greenhouse |
 | 2026-03-21 | babylist | [Senior Engineering Manager, Machine Learning](https://job-boards.greenhouse.io/babylist/jobs/5815353004) | United States and Canada | greenhouse |
@@ -414,10 +414,4 @@ _Last updated: 2026-03-22 00:45 CDT_
 | 2026-03-19 | prolific | [Research Engineer, AI Services](https://job-boards.eu.greenhouse.io/prolific/jobs/4772448101) | Remote, US | greenhouse |
 | 2026-03-19 | elastic | [Principal Software Engineer II - Machine Learning - Elasticsearch](https://jobs.elastic.co/jobs?gh_jid=7735254&gh_jid=7735254) | United States | greenhouse |
 | 2026-03-19 | innovecs | [Senior Machine Learning Engineer](https://jobs.innovecs.com/vacancies?gh_jid=8444634002) | Ukraine, Poland, Romania, Spain, Remote | greenhouse |
-| 2026-03-19 | medier | [Data Engineer - Relocation](https://job-boards.eu.greenhouse.io/medier/jobs/4814950101) | Remote | greenhouse |
-| 2026-03-19 | nansen | [Analytics Engineer](https://job-boards.greenhouse.io/nansen/jobs/5783726004) | Remote Europe \| Remote Asia | greenhouse |
-| 2026-03-19 | pinterest | [Principal Machine Learning Engineer, Ads Delivery](https://www.pinterestcareers.com/jobs/?gh_jid=6963868) | San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US | greenhouse |
-| 2026-03-19 | pinterest | [Staff Machine Learning Engineer, Ads Late Funnel](https://www.pinterestcareers.com/jobs/?gh_jid=7679644) | San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US | greenhouse |
-| 2026-03-19 | klaviyo | [Senior Software Engineer - Analytics Data Engineering](https://www.klaviyo.com/careers/jobs?gh_jid=7564587003) | Boston, MA | greenhouse |
-| 2026-03-19 | pinterest | [Staff Machine Learning Engineer, Content Quality Signals](https://www.pinterestcareers.com/jobs/?gh_jid=7531060) | San Francisco, CA, US; Remote, US | greenhouse |
 <!-- JOBS:END -->
