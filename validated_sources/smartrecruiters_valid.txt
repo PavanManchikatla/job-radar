@@ -1,6 +1,4 @@
 sandisk
-servicenow
-canva
 coherusbiosciences
 evolutioniq
 modernloop
