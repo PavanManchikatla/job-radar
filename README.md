@@ -1,10 +1,11 @@
 ## Jobs Feed (auto-updated)
 
 <!-- JOBS:START -->
-_Last updated: 2026-03-21 21:32 CDT_
+_Last updated: 2026-03-22 00:45 CDT_
 
 | Posted | Company | Title | Location | Source |
 |---|---|---|---|---|
+| 2026-03-22 | khealthcareers | [Senior AI Researcher](https://job-boards.greenhouse.io/khealthcareers/jobs/5776768004) | Tel-Aviv, IL | greenhouse |
 | 2026-03-22 | verisign | [Sr Research Engineer](https://job-boards.greenhouse.io/verisign/jobs/7636398003) | Reston,Virginia,United States | greenhouse |
 | 2026-03-21 | securityscorecard | [Senior Data Scientist](https://job-boards.greenhouse.io/securityscorecard/jobs/7565684) | Remote (US & CAN) | greenhouse |
 | 2026-03-21 | securityscorecard | [Senior Machine Learning Engineer](https://job-boards.greenhouse.io/securityscorecard/jobs/7648717) | Remote (LATAM) | greenhouse |
@@ -419,7 +420,4 @@ _Last updated: 2026-03-21 21:32 CDT_
 | 2026-03-19 | pinterest | [Staff Machine Learning Engineer, Ads Late Funnel](https://www.pinterestcareers.com/jobs/?gh_jid=7679644) | San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US | greenhouse |
 | 2026-03-19 | klaviyo | [Senior Software Engineer - Analytics Data Engineering](https://www.klaviyo.com/careers/jobs?gh_jid=7564587003) | Boston, MA | greenhouse |
 | 2026-03-19 | pinterest | [Staff Machine Learning Engineer, Content Quality Signals](https://www.pinterestcareers.com/jobs/?gh_jid=7531060) | San Francisco, CA, US; Remote, US | greenhouse |
-| 2026-03-19 | cloverhealth | [Senior Machine Learning Engineer](https://job-boards.greenhouse.io/cloverhealth/jobs/7729938) | Remote - USA | greenhouse |
-| 2026-03-19 | roblox | [Senior Data Scientist - Generative AI](https://careers.roblox.com/jobs/7420848?gh_jid=7420848) | San Mateo, CA, United States | greenhouse |
-| 2026-03-19 | additionwealth | [Senior Data Analyst](https://jobs.lever.co/additionwealth/87f880a1-ccdd-4cfd-8a28-8da655d435d9) | New York, NY | lever |
 <!-- JOBS:END -->
