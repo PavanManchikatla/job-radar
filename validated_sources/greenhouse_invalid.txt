@@ -3817,7 +3817,6 @@ symantec vip	http_404
 identrust	http_404
 entrust	http_404
 globalsign	http_404
-digicert	no_matching_jobs
 sectigo	http_404
 letsencrypt	http_404
 godaddy	no_matching_jobs
@@ -6281,7 +6280,6 @@ veranahealth	no_matching_jobs
 chanzuckerberginitiative	no_matching_jobs
 classkick	http_404
 wheelhousedmg	no_matching_jobs
-twinhealth	no_matching_jobs
 renewedvision	no_matching_jobs
 btig27	no_matching_jobs
 remixtherapeutics	no_matching_jobs
