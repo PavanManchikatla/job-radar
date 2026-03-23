@@ -1,12 +1,21 @@
 # Jobs Feed (Page 1/1)
 
-_Last updated: 2026-03-23 04:12 CDT_
+_Last updated: 2026-03-23 08:22 CDT_
 
 | Posted | Company | Title | Location | Source |
 |---|---|---|---|---|
+| 2026-03-23 | verisign | [Sr Research Engineer](https://job-boards.greenhouse.io/verisign/jobs/7636398003) | Reston,Virginia,United States | greenhouse |
+| 2026-03-23 | dbtlabsinc | [AI Engineer, Go-To-Market](https://job-boards.greenhouse.io/dbtlabsinc/jobs/4674836005) | US - Remote | greenhouse |
+| 2026-03-23 | pandadoc | [Staff GTM Data Scientist](https://job-boards.greenhouse.io/pandadoc/jobs/7483765) | Remote (USA) | greenhouse |
+| 2026-03-23 | pandadoc | [Staff GTM Data Scientist](https://job-boards.greenhouse.io/pandadoc/jobs/7474848) | Europe (Remote) | greenhouse |
+| 2026-03-23 | pandadoc | [Staff GTM Data Scientist](https://job-boards.greenhouse.io/pandadoc/jobs/7472183) | Remote (Portugal) | greenhouse |
+| 2026-03-23 | pandadoc | [Staff Product Data Scientist](https://job-boards.greenhouse.io/pandadoc/jobs/7483822) | USA (Remote) | greenhouse |
+| 2026-03-23 | pandadoc | [Staff Product Data Scientist](https://job-boards.greenhouse.io/pandadoc/jobs/7483614) | Ukraine (Remote) | greenhouse |
+| 2026-03-23 | pandadoc | [Staff Product Data Scientist](https://job-boards.greenhouse.io/pandadoc/jobs/7483602) | Remote (Portugal) | greenhouse |
+| 2026-03-23 | pandadoc | [Staff Product Data Scientist](https://job-boards.greenhouse.io/pandadoc/jobs/7483272) | Poland (Remote) | greenhouse |
+| 2026-03-23 | twilio | [Data Engineer (L3)](https://job-boards.greenhouse.io/twilio/jobs/7359642) | Remote - India | greenhouse |
 | 2026-03-23 | chime | [Senior Data Analyst, Credit Risk](https://boards.greenhouse.io/chime/jobs/8327705002?gh_jid=8327705002) | San Francisco, CA, USA | greenhouse |
 | 2026-03-23 | klaviyo | [Senior Software Engineer - Analytics Data Engineering](https://www.klaviyo.com/careers/jobs?gh_jid=7564587003) | Boston, MA | greenhouse |
-| 2026-03-23 | verisign | [Sr Research Engineer](https://job-boards.greenhouse.io/verisign/jobs/7636398003) | Reston,Virginia,United States | greenhouse |
 | 2026-03-23 | yipitdatajobs | [Data Analyst](https://job-boards.greenhouse.io/yipitdatajobs/jobs/7364209) | India Remote | greenhouse |
 | 2026-03-22 | zocalohealth | [Principal Data Engineer](https://job-boards.greenhouse.io/zocalohealth/jobs/5108751008) | Remote | greenhouse |
 | 2026-03-22 | nice | [AI Data Engineer](https://boards.eu.greenhouse.io/nice/jobs/4812095101?gh_jid=4812095101) | USA - Remote | greenhouse |
@@ -42,8 +51,8 @@ _Last updated: 2026-03-23 04:12 CDT_
 | 2026-03-20 | waymo | [Machine Learning Engineer, 3D Object Detection  (PhD New Grad)](https://careers.withwaymo.com/jobs?gh_jid=7539786) | Mountain View, CA USA;  San Francisco, CA USA; | greenhouse |
 | 2026-03-20 | waymo | [Machine Learning Engineer, ADV Systems](https://careers.withwaymo.com/jobs?gh_jid=7446320) | Mountain View, California, United States; San Francisco, California, United States | greenhouse |
 | 2026-03-20 | waymo | [Machine Learning Engineer, Data & Systems](https://careers.withwaymo.com/jobs?gh_jid=7446301) | Mountain View, California, United States; San Francisco, California, United States | greenhouse |
-| 2026-03-20 | waymo | [Machine Learning Engineer - Mapping](https://careers.withwaymo.com/jobs?gh_jid=7429811) | Mountain View, CA, USA | greenhouse |
 | 2026-03-20 | waymo | [Machine Learning Engineer - Mapping](https://careers.withwaymo.com/jobs?gh_jid=7429791) | Mountain View, CA, USA | greenhouse |
+| 2026-03-20 | waymo | [Machine Learning Engineer - Mapping](https://careers.withwaymo.com/jobs?gh_jid=7429811) | Mountain View, CA, USA | greenhouse |
 | 2026-03-20 | waymo | [Machine Learning Engineer, Mapping](https://careers.withwaymo.com/jobs?gh_jid=7090492) | Mountain View, CA, USA | greenhouse |
 | 2026-03-20 | waymo | [Machine Learning Engineer, ML Flywheel](https://careers.withwaymo.com/jobs?gh_jid=7426598) | Mountain View, CA, USA | greenhouse |
 | 2026-03-20 | waymo | [Machine Learning Engineer, ML Resources](https://careers.withwaymo.com/jobs?gh_jid=7424806) | Mountain View, CA, USA | greenhouse |
@@ -203,11 +212,5 @@ _Last updated: 2026-03-23 04:12 CDT_
 | 2026-03-20 | anthropic | [Staff Research Engineer, Discovery Team](https://job-boards.greenhouse.io/anthropic/jobs/4593216008) | San Francisco, CA | greenhouse |
 | 2026-03-20 | flagshippioneeringinc | [(Senior) Scientist, Machine Learning](https://boards.greenhouse.io/flagshippioneeringinc/jobs/8469505002?gh_jid=8469505002) | Cambridge, MA USA | greenhouse |
 | 2026-03-20 | theknotworldwide | [Director, Machine Learning Science](https://job-boards.greenhouse.io/theknotworldwide/jobs/4779503008) | Remote - United States | greenhouse |
-| 2026-03-20 | remotecom | [Finance Systems Data Analyst](https://job-boards.greenhouse.io/remotecom/jobs/7551628003) | Remote-Western Europe | greenhouse |
-| 2026-03-20 | remotereferralboardinternaluseonly | [Finance Systems Data Analyst](https://job-boards.greenhouse.io/remotereferralboardinternaluseonly/jobs/7551275003) | Remote-Europe | greenhouse |
-| 2026-03-20 | remotecom | [Finance Systems Data Analyst](https://job-boards.greenhouse.io/remotecom/jobs/7547120003) | Remote-Southern Europe | greenhouse |
-| 2026-03-20 | aqr | [Client Analytics - BI Developer](https://careers.aqr.com/jobs?gh_jid=7728026&gh_jid=7728026) | Greenwich, CT | greenhouse |
-| 2026-03-20 | a3c41b8b71eff8c4 | [Pricing Data Analyst](https://job-boards.greenhouse.io/a3c41b8b71eff8c4/jobs/7636637003) | United States, Remote | greenhouse |
-| 2026-03-20 | dynetherapeutics | [Director, Data, Integration & AI Engineering](https://job-boards.greenhouse.io/dynetherapeutics/jobs/5822891004) | Waltham, MA | greenhouse |
 
 [Back to README](../../README.md)
