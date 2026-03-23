@@ -1,14 +1,15 @@
 # Jobs Feed (Page 1/1)
 
-_Last updated: 2026-03-22 15:44 CDT_
+_Last updated: 2026-03-22 21:24 CDT_
 
 | Posted | Company | Title | Location | Source |
 |---|---|---|---|---|
+| 2026-03-23 | verisign | [Sr Research Engineer](https://job-boards.greenhouse.io/verisign/jobs/7636398003) | Reston,Virginia,United States | greenhouse |
+| 2026-03-22 | zocalohealth | [Principal Data Engineer](https://job-boards.greenhouse.io/zocalohealth/jobs/5108751008) | Remote | greenhouse |
 | 2026-03-22 | nice | [AI Data Engineer](https://boards.eu.greenhouse.io/nice/jobs/4812095101?gh_jid=4812095101) | USA - Remote | greenhouse |
 | 2026-03-22 | nice | [Senior Software Engineer - AI Coding Agents](https://boards.eu.greenhouse.io/nice/jobs/4818439101?gh_jid=4818439101) | USA - Atlanta, GA; USA - Richardson, TX; USA - Sandy, UT | greenhouse |
 | 2026-03-22 | nice | [Software Engineer - AI Coding Agents](https://boards.eu.greenhouse.io/nice/jobs/4818465101?gh_jid=4818465101) | USA - Atlanta, GA; USA - Richardson, TX; USA - Sandy, UT | greenhouse |
 | 2026-03-22 | fourkites | [Senior AI Engineer](https://job-boards.greenhouse.io/fourkites/jobs/7640820) | Chennai or Remote, India | greenhouse |
-| 2026-03-22 | verisign | [Sr Research Engineer](https://job-boards.greenhouse.io/verisign/jobs/7636398003) | Reston,Virginia,United States | greenhouse |
 | 2026-03-22 | fourkites | [Senior AI Engineer](https://job-boards.greenhouse.io/fourkites/jobs/7640838) | Chennai or Remote, India | greenhouse |
 | 2026-03-21 | mozilla | [Staff Data Scientist, Revenue](https://job-boards.greenhouse.io/mozilla/jobs/7572361) | Remote US | greenhouse |
 | 2026-03-21 | mozilla | [Staff Data Scientist, Revenue](https://job-boards.greenhouse.io/mozilla/jobs/7246864) | Remote | greenhouse |
@@ -209,43 +210,5 @@ _Last updated: 2026-03-22 15:44 CDT_
 | 2026-03-20 | aestudio | [Data Scientist](https://job-boards.greenhouse.io/aestudio/jobs/4011756004) | LA office / US remote | greenhouse |
 | 2026-03-20 | terraclear | [Machine Learning Engineer](https://job-boards.greenhouse.io/terraclear/jobs/5830566004) | Remote, USA | greenhouse |
 | 2026-03-20 | drivewealth | [Principal AI Engineer - Core Platform](https://boards.greenhouse.io/drivewealth/jobs/7663504003?gh_jid=7663504003) | New York, New York, United States | greenhouse |
-| 2026-03-20 | pairteam | [Staff AI Engineer](https://job-boards.greenhouse.io/pairteam/jobs/8470873002) | Remote (United States) | greenhouse |
-| 2026-03-20 | palmettocleantech | [Senior Data Analyst](https://job-boards.greenhouse.io/palmettocleantech/jobs/5159799008) | 1616 Camden Rd Charlotte, NC 28203 | greenhouse |
-| 2026-03-20 | pairteam | [Senior AI Engineer](https://job-boards.greenhouse.io/pairteam/jobs/8470905002) | Remote (United States) | greenhouse |
-| 2026-03-19 | lynxanalytics | [Senior Data Scientist (US)](https://job-boards.greenhouse.io/lynxanalytics/jobs/8470862002) | Bridgewater, New Jersey, United States | greenhouse |
-| 2026-03-19 | pairteam | [Principal AI Engineer](https://job-boards.greenhouse.io/pairteam/jobs/8417693002) | Remote (United States) | greenhouse |
-| 2026-03-19 | billcom | [Senior Credit Strategy Data Scientist](https://www.bill.com/job?5821631004&gh_jid=5821631004) | Draper, Utah, United States; San Jose, California, United States | greenhouse |
-| 2026-03-19 | okx | [Principal AI Engineer, AI Agent Development](https://job-boards.greenhouse.io/okx/jobs/7650500003) | San Jose, California, United States | greenhouse |
-| 2026-03-19 | airtable | [AI Analytics Engineer (Business Analytics)](https://job-boards.greenhouse.io/airtable/jobs/8470036002) | San Francisco, CA; Austin, TX; New York, NY | greenhouse |
-| 2026-03-19 | chime | [Senior Data Analyst, Trust & Safety](https://boards.greenhouse.io/chime/jobs/8344063002?gh_jid=8344063002) | San Francisco, CA, USA | greenhouse |
-| 2026-03-19 | airtable | [AI Analytics Engineer (AI & Analytics Platform)](https://job-boards.greenhouse.io/airtable/jobs/8434287002) | San Francisco, CA; Austin, TX; New York, NY | greenhouse |
-| 2026-03-19 | airtable | [AI Analytics Engineer (Marketing Analytics)](https://job-boards.greenhouse.io/airtable/jobs/8434307002) | San Francisco, CA; Austin, TX; New York, NY | greenhouse |
-| 2026-03-19 | jensenhughes | [Data Scientist (Finance & Accounting / Forecasting)](https://job-boards.greenhouse.io/jensenhughes/jobs/4955806008) | Mumbai; Remote | greenhouse |
-| 2026-03-19 | veracyte | [Principal Data Scientist](https://veracyte.com/job-detail?gh_jid=5047449007) | Remote ; San Diego, California, United States; South San Francisco, California, United States | greenhouse |
-| 2026-03-19 | veracyte | [Data Scientist II](https://veracyte.com/job-detail?gh_jid=4870218007) | Remote ; San Diego, California, United States; South San Francisco, California, United States | greenhouse |
-| 2026-03-19 | redapt | [Data Engineer](https://job-boards.greenhouse.io/redapt/jobs/5154070008) | Woodinville, Washington, United States | greenhouse |
-| 2026-03-19 | gridware | [Research Engineer, Electrical](https://jobs.lever.co/gridware/9cc70879-ce1f-4634-b46f-2c433f46869e) | San Francisco, CA | lever |
-| 2026-03-19 | reddit | [Staff Data Scientist, Ads](https://job-boards.greenhouse.io/reddit/jobs/7721787) | Remote - United States | greenhouse |
-| 2026-03-19 | reddit | [Staff Data Scientist, Ads](https://job-boards.greenhouse.io/reddit/jobs/7721851) | Remote - British Columbia, Canada | greenhouse |
-| 2026-03-19 | gridware | [Senior Data Scientist, Fleet Performance Optimization](https://jobs.lever.co/gridware/19da7a08-71dd-46c3-92fc-f9200771e922) | San Francisco, CA | lever |
-| 2026-03-19 | opendoor | [Data Scientist](https://www.opendoor.com/careers/open-positions?gh_jid=4659693006) | Seattle, Washington, United States | greenhouse |
-| 2026-03-19 | zetaglobal | [Lead AI Engineer](https://job-boards.greenhouse.io/zetaglobal/jobs/5791991004) | Remote - United States | greenhouse |
-| 2026-03-19 | zetaglobal | [Principal Agentic AI Engineer](https://job-boards.greenhouse.io/zetaglobal/jobs/5699168004) | San Francisco, California, United States | greenhouse |
-| 2026-03-19 | zetaglobal | [Principal Agentic AI Engineer](https://job-boards.greenhouse.io/zetaglobal/jobs/5820291004) | New York, New York, United States | greenhouse |
-| 2026-03-19 | zetaglobal | [Principal AI/ML Engineer - AdTech](https://job-boards.greenhouse.io/zetaglobal/jobs/5692542004) | Remote - United States | greenhouse |
-| 2026-03-19 | zetaglobal | [Senior Agentic AI Engineer](https://job-boards.greenhouse.io/zetaglobal/jobs/5803067004) | San Francisco, California, United States | greenhouse |
-| 2026-03-19 | zetaglobal | [Senior Agentic AI Engineer](https://job-boards.greenhouse.io/zetaglobal/jobs/5820297004) | New York, New York, United States | greenhouse |
-| 2026-03-19 | zetaglobal | [Senior Data Engineer](https://job-boards.greenhouse.io/zetaglobal/jobs/5796289004) | San Francisco, California, United States | greenhouse |
-| 2026-03-19 | zetaglobal | [Senior Data Engineer](https://job-boards.greenhouse.io/zetaglobal/jobs/5800452004) | Remote - United States | greenhouse |
-| 2026-03-19 | zetaglobal | [Senior Product Manager, Modeling & Machine Learning Operations](https://job-boards.greenhouse.io/zetaglobal/jobs/5819830004) | Remote - United States | greenhouse |
-| 2026-03-19 | earnin | [Head of Machine Learning](https://job-boards.greenhouse.io/earnin/jobs/7106869) | Mountain View, US | greenhouse |
-| 2026-03-19 | calendly | [Senior Machine Learning Engineer](https://job-boards.greenhouse.io/calendly/jobs/8468253002) | Remote - US | greenhouse |
-| 2026-03-19 | smartasset | [Data Engineer](https://job-boards.greenhouse.io/smartasset/jobs/8429932002) | New York, NY (remote) | greenhouse |
-| 2026-03-19 | coinbase | [Senior Data Scientist - Growth](https://www.coinbase.com/careers/positions/7407390?gh_jid=7407390) | Remote - USA | greenhouse |
-| 2026-03-19 | hungryroot | [Senior Operations Research Engineer](https://job-boards.greenhouse.io/hungryroot/jobs/5832474004) | Remote | greenhouse |
-| 2026-03-19 | hungryroot | [Data Scientist, Machine Learning](https://job-boards.greenhouse.io/hungryroot/jobs/5832686004) | Remote | greenhouse |
-| 2026-03-19 | coinbase | [Senior Data Scientist - Retail Trading](https://www.coinbase.com/careers/positions/7583593?gh_jid=7583593) | Remote - USA | greenhouse |
-| 2026-03-19 | coinbase | [Data Scientist II - Identity and Access](https://www.coinbase.com/careers/positions/6679661?gh_jid=6679661) | Remote - USA | greenhouse |
-| 2026-03-19 | coinbase | [Senior Data Scientist - Customer Experience](https://www.coinbase.com/careers/positions/6969295?gh_jid=6969295) | Remote - USA | greenhouse |
 
 [Back to README](../../README.md)
