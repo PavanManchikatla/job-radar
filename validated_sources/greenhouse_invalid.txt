@@ -5427,7 +5427,6 @@ silvus-international-opportunites	no_jobs
 tyreeanddangelo	no_matching_jobs
 cellsignalingtechnology79	no_matching_jobs
 modoenergy	no_matching_jobs
-loop	no_matching_jobs
 propertyfinder	http_404
 jetairegroup	http_404
 couchbaseinc	no_matching_jobs
@@ -6093,7 +6092,6 @@ alphasense	no_matching_jobs
 texasairsystems	no_matching_jobs
 sigmoid	no_matching_jobs
 criminaljusticeagency	no_matching_jobs
-flyzipline	no_matching_jobs
 cordros	http_404
 styra	http_404
 harborglobal	no_matching_jobs
@@ -6775,7 +6773,6 @@ broadwayventures	no_matching_jobs
 edobestsandbox	no_jobs
 workco	http_404
 hippo70	no_matching_jobs
-stratainformationgroup	no_matching_jobs
 biltrewards	http_404
 trinityairmedical	no_matching_jobs
 groww	no_matching_jobs
