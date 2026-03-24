@@ -4982,7 +4982,6 @@ spacex	no_matching_jobs
 bioptimizers	http_404
 patreon	http_404
 buzzfeed	no_matching_jobs
-possiblefinancialinc	no_matching_jobs
 outlierorg	http_404
 expressvpn	no_matching_jobs
 odeko	no_matching_jobs
@@ -5126,7 +5125,6 @@ ozow	no_matching_jobs
 theplaceforchildrenwithautism	no_matching_jobs
 linqia	no_matching_jobs
 crescendohealth	no_matching_jobs
-thoughtworks	no_matching_jobs
 zeals	no_matching_jobs
 medsien	no_matching_jobs
 turtlerockstudios	no_matching_jobs
@@ -5210,7 +5208,6 @@ summitpartnerslp	no_matching_jobs
 alphahawaii	no_matching_jobs
 brevium	no_matching_jobs
 canonicaljobs	http_404
-metron	no_matching_jobs
 testlio	no_matching_jobs
 benevity	no_matching_jobs
 allbirdsretail	no_matching_jobs
@@ -6759,7 +6756,6 @@ cybrid	no_matching_jobs
 knab	no_matching_jobs
 appnovation	no_matching_jobs
 enveritas	no_matching_jobs
-honor	no_matching_jobs
 aura798	no_matching_jobs
 eigerjobs	no_matching_jobs
 broadwayventures	no_matching_jobs

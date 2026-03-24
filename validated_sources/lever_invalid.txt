@@ -9683,7 +9683,6 @@ journeyclinical	http_404
 joyrideautos	no_matching_jobs
 juneshine	no_matching_jobs
 iru	no_matching_jobs
-intersect	no_matching_jobs
 kasheesh	no_matching_jobs
 jetbridge	http_404
 jetsupport	no_matching_jobs
