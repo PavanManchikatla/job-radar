@@ -5125,7 +5125,6 @@ ernestpackagingsolutions	no_matching_jobs
 ozow	no_matching_jobs
 theplaceforchildrenwithautism	no_matching_jobs
 linqia	no_matching_jobs
-kiavi	no_matching_jobs
 crescendohealth	no_matching_jobs
 thoughtworks	no_matching_jobs
 zeals	no_matching_jobs
@@ -5289,7 +5288,6 @@ evolutionparkingguestservices	http_404
 startree	no_matching_jobs
 maslanskycareers	no_matching_jobs
 spotonproduct	http_404
-bloomerang	no_matching_jobs
 otrcapital1	no_matching_jobs
 focuspartnerswealth	no_matching_jobs
 peakenergy	no_matching_jobs
@@ -5449,7 +5447,6 @@ wolt	no_matching_jobs
 telemedicine	no_matching_jobs
 wholesail	no_matching_jobs
 artefactjobs	no_matching_jobs
-rti	no_matching_jobs
 versprite	no_matching_jobs
 gravitywell	no_jobs
 essential	no_matching_jobs
@@ -5796,7 +5793,6 @@ axs	no_matching_jobs
 its	no_matching_jobs
 partnerize	no_matching_jobs
 berlinbrands	no_matching_jobs
-glossgenius	no_matching_jobs
 dialecticch	no_matching_jobs
 appletreeprep	no_matching_jobs
 careersatwonder	http_404
@@ -6480,7 +6476,6 @@ fuseglobalpartners	no_matching_jobs
 hsgllp	no_matching_jobs
 graphcore	no_matching_jobs
 storycannabis	no_matching_jobs
-splitero	no_matching_jobs
 velir-private	no_jobs
 jwplumbingheatingair	no_matching_jobs
 sandstonecarebroomfield	no_jobs

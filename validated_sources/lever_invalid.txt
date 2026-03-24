@@ -9904,7 +9904,6 @@ remedyproductstudio	no_matching_jobs
 researchinnovations	http_404
 resilience	http_404
 padsplit	no_matching_jobs
-redsox	no_matching_jobs
 petvisor	no_matching_jobs
 retro	no_matching_jobs
 rezotx	no_matching_jobs
