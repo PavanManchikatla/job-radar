@@ -5676,7 +5676,6 @@ lucidsoftware	no_matching_jobs
 marscousg	no_matching_jobs
 audibenehearcom	no_matching_jobs
 foundationriskpartners	no_matching_jobs
-sharkninjaoperatingllc	no_matching_jobs
 quorum	http_404
 huddleup	no_matching_jobs
 future	no_matching_jobs
@@ -6447,7 +6446,6 @@ bitpanda	no_matching_jobs
 holisticindustries	no_matching_jobs
 ripplcare	no_jobs
 braeburn	no_matching_jobs
-appliedintuition	no_matching_jobs
 gostudent	no_matching_jobs
 assemblyairemote	http_404
 soundcloud71	no_jobs
