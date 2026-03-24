@@ -5380,7 +5380,6 @@ comparaja	no_matching_jobs
 genscript	no_matching_jobs
 aquaticcapitalmanagement	no_matching_jobs
 fashionnova	no_matching_jobs
-riotgames	no_matching_jobs
 idme	no_matching_jobs
 veterinarypracticepartners	no_matching_jobs
 blisspointmediatinuiti	http_404
@@ -5648,7 +5647,6 @@ cloverly	no_matching_jobs
 team1	no_jobs
 hispanicaccessfoundation	no_jobs
 tiptop	no_matching_jobs
-hugeinc	no_matching_jobs
 coast	no_matching_jobs
 spsnorthamerica	no_matching_jobs
 thetustingroupasp	http_404

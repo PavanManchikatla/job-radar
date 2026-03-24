@@ -457,3 +457,5 @@ possiblefinancialinc
 metron
 thoughtworks
 honor
+riotgames
+hugeinc
