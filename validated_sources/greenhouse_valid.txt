@@ -462,3 +462,6 @@ hugeinc
 bluewaterthinking
 dataiku
 homesolutions
+relex
+invoca
+paradigminccareersopenpositions

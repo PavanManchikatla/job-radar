@@ -4282,7 +4282,6 @@ toolsgroup	http_404
 llamasoft	http_404
 symphony retailai	http_404
 antuit	http_404
-relex	no_matching_jobs
 celect	http_404
 upstox	http_404
 ifs logistics	http_404
@@ -7211,10 +7210,8 @@ jobber	http_404
 174powerglobal	http_404
 embroker	no_jobs
 oneacrefundrwanda	no_matching_jobs
-invoca	no_matching_jobs
 kellerpostman	no_matching_jobs
 worthi	http_404
-paradigminccareersopenpositions	no_matching_jobs
 thedutchie	no_matching_jobs
 aceable	no_matching_jobs
 revenuecat	http_404
