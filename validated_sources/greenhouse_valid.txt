@@ -460,3 +460,5 @@ honor
 riotgames
 hugeinc
 bluewaterthinking
+dataiku
+homesolutions

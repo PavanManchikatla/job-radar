@@ -258,7 +258,6 @@ domino	http_404
 anaconda	http_404
 observable	http_404
 zeppelin	http_404
-dataiku	no_matching_jobs
 cypress	http_404
 alteryx	http_404
 tableau	http_404
@@ -6770,7 +6769,6 @@ codeorg	no_matching_jobs
 cannondesign	no_matching_jobs
 swiftsolar	no_matching_jobs
 healthnote	http_404
-homesolutions	no_matching_jobs
 nerostechnologies	no_matching_jobs
 clara	no_matching_jobs
 fastautoloansinc	no_matching_jobs

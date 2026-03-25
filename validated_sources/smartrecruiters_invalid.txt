@@ -2844,7 +2844,6 @@ workday	no_postings
 microsoft dynamics	http_400
 hubspot	no_postings
 zendesk	no_postings
-servicenow	no_matching_jobs
 float	no_postings
 zoho	no_postings
 forecast	no_postings
