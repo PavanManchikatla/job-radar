@@ -1,9 +1,16 @@
 # Jobs Feed (Page 1/1)
 
-_Last updated: 2026-03-25 21:28 CDT_
+_Last updated: 2026-03-26 00:59 CDT_
 
 | Posted | Company | Title | Location | Source |
 |---|---|---|---|---|
+| 2026-03-26 | databricks | [AI Engineer - FDE (Forward Deployed Engineer)](https://databricks.com/company/careers/open-positions/job?gh_jid=8335860002) | United States | greenhouse |
+| 2026-03-26 | tubitv | [Data Scientist](https://job-boards.greenhouse.io/tubitv/jobs/7753149) | San Francisco, CA (Hybrid) | greenhouse |
+| 2026-03-26 | bpcs | [Data Analyst - Gaming](https://job-boards.greenhouse.io/bpcs/jobs/7754001) | Remote | greenhouse |
+| 2026-03-26 | instacart | [Senior Analytics Engineer, Marketing](https://instacart.careers/job/?gh_jid=7754354) | United States - Remote | greenhouse |
+| 2026-03-26 | verisign | [Sr Research Engineer](https://job-boards.greenhouse.io/verisign/jobs/7636398003) | Reston,Virginia,United States | greenhouse |
+| 2026-03-26 | bloomerang | [Associate Conversion Data Analyst](https://job-boards.greenhouse.io/bloomerang/jobs/4634354005) | Remote, US | greenhouse |
+| 2026-03-26 | flagshippioneeringinc | [(Senior) Machine Learning Engineer](https://boards.greenhouse.io/flagshippioneeringinc/jobs/8475065002?gh_jid=8475065002) | Boston, MA USA | greenhouse |
 | 2026-03-26 | riotgames | [Senior Machine Learning Engineer, Skill & Matchmaking - VALORANT Data Ops](https://www.riotgames.com/en/work-with-us/job/7078979?gh_jid=7078979) | Los Angeles, USA | greenhouse |
 | 2026-03-26 | ridgeline | [Senior Engineering Manager, Data Engineering](https://boards.greenhouse.io/ridgeline/jobs/7663483003?gh_jid=7663483003) | New York, NY; San Ramon, CA | greenhouse |
 | 2026-03-26 | precisionmedicinegroup | [AI Engineer](https://job-boards.greenhouse.io/precisionmedicinegroup/jobs/5769763004) | Remote, United States | greenhouse |
@@ -12,7 +19,6 @@ _Last updated: 2026-03-25 21:28 CDT_
 | 2026-03-26 | precisionmedicinegroup | [Senior Data Engineer](https://job-boards.greenhouse.io/precisionmedicinegroup/jobs/5798846004) | Remote, India | greenhouse |
 | 2026-03-26 | pfm | [Senior AI Engineer](https://job-boards.greenhouse.io/pfm/jobs/5636639004) | Remote, India | greenhouse |
 | 2026-03-26 | pfm | [Senior Clinical Data Engineer (LATAM)](https://job-boards.greenhouse.io/pfm/jobs/5813365004) | Remote, Argentina; Remote, Brazil; Remote, Chile; Remote, Colombia; Remote, Mexico; Remote, Peru | greenhouse |
-| 2026-03-26 | verisign | [Sr Research Engineer](https://job-boards.greenhouse.io/verisign/jobs/7636398003) | Reston,Virginia,United States | greenhouse |
 | 2026-03-26 | striveworks | [Senior Data Scientist](https://job-boards.greenhouse.io/striveworks/jobs/7679525003) | Austin, Texas or Remote | greenhouse |
 | 2026-03-26 | notexternal | [Senior Data Engineer](https://job-boards.greenhouse.io/notexternal/jobs/7755115) | Remote | greenhouse |
 | 2026-03-26 | bpcs | [Senior Data Engineer](https://job-boards.greenhouse.io/bpcs/jobs/7755104) | Remote | greenhouse |
@@ -26,10 +32,7 @@ _Last updated: 2026-03-25 21:28 CDT_
 | 2026-03-26 | riotgames | [Sr. Manager, Data Engineering - PubSports Insights](https://www.riotgames.com/en/work-with-us/job/7674330?gh_jid=7674330) | Los Angeles, USA | greenhouse |
 | 2026-03-26 | riotgames | [Sr. Manager, Machine Learning Engineering - Game Tech Group, Anti-Cheat](https://www.riotgames.com/en/work-with-us/job/7681592?gh_jid=7681592) | Los Angeles, USA | greenhouse |
 | 2026-03-26 | riotgames | [Staff Data Engineer, Tech Strategy & Ops - DROIDS Insights](https://www.riotgames.com/en/work-with-us/job/7624803?gh_jid=7624803) | Los Angeles, USA | greenhouse |
-| 2026-03-26 | instacart | [Senior Analytics Engineer, Marketing](https://instacart.careers/job/?gh_jid=7754354) | United States - Remote | greenhouse |
-| 2026-03-25 | bpcs | [Data Analyst - Gaming](https://job-boards.greenhouse.io/bpcs/jobs/7754001) | Remote | greenhouse |
 | 2026-03-25 | mobilityware | [Data Analyst, User Acquisition](http://boards.greenhouse.io/mobilityware/jobs/7754000?gh_jid=7754000) | Irvine, CA | greenhouse |
-| 2026-03-25 | tubitv | [Data Scientist](https://job-boards.greenhouse.io/tubitv/jobs/7753149) | San Francisco, CA (Hybrid) | greenhouse |
 | 2026-03-25 | jensenhughes | [Data Scientist](https://job-boards.greenhouse.io/jensenhughes/jobs/5166221008) | Remote - United States | greenhouse |
 | 2026-03-25 | alpaca | [Senior Analytics Engineer](https://job-boards.greenhouse.io/alpaca/jobs/5740810004) | Remote - North America | greenhouse |
 | 2026-03-25 | hugeinc | [Freelance Senior Data Engineer](https://job-boards.greenhouse.io/hugeinc/jobs/7718600) | United States | greenhouse |
