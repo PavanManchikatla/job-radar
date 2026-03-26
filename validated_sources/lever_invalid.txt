@@ -9721,7 +9721,6 @@ liquid	http_404
 livechatinc	no_matching_jobs
 lingarogroup	no_matching_jobs
 kogniz	no_matching_jobs
-greenlight	no_matching_jobs
 cgsfederal	no_matching_jobs
 gravie	no_matching_jobs
 lumivero	no_jobs

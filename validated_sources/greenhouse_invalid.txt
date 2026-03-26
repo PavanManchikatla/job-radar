@@ -490,7 +490,6 @@ greenhill	http_404
 houlihan lokey	http_404
 玉山銀行	http_404
 lионgate	http_404
-zoominfo	no_matching_jobs
 raymond james	http_404
 qatalyst	http_404
 guggenheim	http_404
@@ -7033,7 +7032,6 @@ veritasvetpartners	no_matching_jobs
 adonis	no_matching_jobs
 skedda	no_matching_jobs
 midihealth	no_matching_jobs
-campminder	no_matching_jobs
 chestercommunitycharterschool	no_matching_jobs
 kymberconsultinggroup	no_matching_jobs
 oneacrefundmalawi	no_matching_jobs
