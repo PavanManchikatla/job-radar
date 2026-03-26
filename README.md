@@ -1,25 +1,26 @@
 ## Jobs Feed (auto-updated)
 
 <!-- JOBS:START -->
-_Last updated: 2026-03-26 00:59 CDT_
+_Last updated: 2026-03-26 04:13 CDT_
 
 | Posted | Company | Title | Location | Source |
 |---|---|---|---|---|
+| 2026-03-26 | sonyinteractiveentertainmentglobal | [Staff Software Engineer - AI Tools](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5655306004) | United Kingdom, Remote | greenhouse |
+| 2026-03-26 | verisign | [Sr Research Engineer](https://job-boards.greenhouse.io/verisign/jobs/7636398003) | Reston,Virginia,United States | greenhouse |
 | 2026-03-26 | databricks | [AI Engineer - FDE (Forward Deployed Engineer)](https://databricks.com/company/careers/open-positions/job?gh_jid=8335860002) | United States | greenhouse |
 | 2026-03-26 | tubitv | [Data Scientist](https://job-boards.greenhouse.io/tubitv/jobs/7753149) | San Francisco, CA (Hybrid) | greenhouse |
 | 2026-03-26 | bpcs | [Data Analyst - Gaming](https://job-boards.greenhouse.io/bpcs/jobs/7754001) | Remote | greenhouse |
 | 2026-03-26 | instacart | [Senior Analytics Engineer, Marketing](https://instacart.careers/job/?gh_jid=7754354) | United States - Remote | greenhouse |
-| 2026-03-26 | verisign | [Sr Research Engineer](https://job-boards.greenhouse.io/verisign/jobs/7636398003) | Reston,Virginia,United States | greenhouse |
 | 2026-03-26 | bloomerang | [Associate Conversion Data Analyst](https://job-boards.greenhouse.io/bloomerang/jobs/4634354005) | Remote, US | greenhouse |
 | 2026-03-26 | flagshippioneeringinc | [(Senior) Machine Learning Engineer](https://boards.greenhouse.io/flagshippioneeringinc/jobs/8475065002?gh_jid=8475065002) | Boston, MA USA | greenhouse |
 | 2026-03-26 | riotgames | [Senior Machine Learning Engineer, Skill & Matchmaking - VALORANT Data Ops](https://www.riotgames.com/en/work-with-us/job/7078979?gh_jid=7078979) | Los Angeles, USA | greenhouse |
 | 2026-03-26 | ridgeline | [Senior Engineering Manager, Data Engineering](https://boards.greenhouse.io/ridgeline/jobs/7663483003?gh_jid=7663483003) | New York, NY; San Ramon, CA | greenhouse |
+| 2026-03-26 | pfm | [Senior AI Engineer](https://job-boards.greenhouse.io/pfm/jobs/5636639004) | Remote, India | greenhouse |
+| 2026-03-26 | pfm | [Senior Clinical Data Engineer (LATAM)](https://job-boards.greenhouse.io/pfm/jobs/5813365004) | Remote, Argentina; Remote, Brazil; Remote, Chile; Remote, Colombia; Remote, Mexico; Remote, Peru | greenhouse |
 | 2026-03-26 | precisionmedicinegroup | [AI Engineer](https://job-boards.greenhouse.io/precisionmedicinegroup/jobs/5769763004) | Remote, United States | greenhouse |
 | 2026-03-26 | precisionmedicinegroup | [Senior AI Engineer](https://job-boards.greenhouse.io/precisionmedicinegroup/jobs/5636640004) | Remote, India | greenhouse |
 | 2026-03-26 | precisionmedicinegroup | [Senior Clinical Data Engineer (LATAM)](https://job-boards.greenhouse.io/precisionmedicinegroup/jobs/5808918004) | Remote, Argentina; Remote, Brazil; Remote, Chile; Remote, Colombia; Remote, Mexico; Remote, Peru | greenhouse |
 | 2026-03-26 | precisionmedicinegroup | [Senior Data Engineer](https://job-boards.greenhouse.io/precisionmedicinegroup/jobs/5798846004) | Remote, India | greenhouse |
-| 2026-03-26 | pfm | [Senior AI Engineer](https://job-boards.greenhouse.io/pfm/jobs/5636639004) | Remote, India | greenhouse |
-| 2026-03-26 | pfm | [Senior Clinical Data Engineer (LATAM)](https://job-boards.greenhouse.io/pfm/jobs/5813365004) | Remote, Argentina; Remote, Brazil; Remote, Chile; Remote, Colombia; Remote, Mexico; Remote, Peru | greenhouse |
 | 2026-03-26 | striveworks | [Senior Data Scientist](https://job-boards.greenhouse.io/striveworks/jobs/7679525003) | Austin, Texas or Remote | greenhouse |
 | 2026-03-26 | notexternal | [Senior Data Engineer](https://job-boards.greenhouse.io/notexternal/jobs/7755115) | Remote | greenhouse |
 | 2026-03-26 | bpcs | [Senior Data Engineer](https://job-boards.greenhouse.io/bpcs/jobs/7755104) | Remote | greenhouse |
@@ -105,8 +106,8 @@ _Last updated: 2026-03-26 00:59 CDT_
 | 2026-03-25 | amendconsulting | [Data Engineer](https://job-boards.greenhouse.io/amendconsulting/jobs/4005816009) | Cincinnati, Ohio, United States | greenhouse |
 | 2026-03-25 | prolific | [Data Analyst](https://job-boards.eu.greenhouse.io/prolific/jobs/4815535101) | New York, US | greenhouse |
 | 2026-03-25 | webflow | [Revenue Analytics Manager](https://job-boards.greenhouse.io/webflow/jobs/7723458) | U.S. Remote | greenhouse |
-| 2026-03-25 | reddit | [Senior Machine Learning Engineer, Ads](https://job-boards.greenhouse.io/reddit/jobs/6960831) | Remote - United States | greenhouse |
 | 2026-03-25 | reddit | [Senior Machine Learning Engineer, Ads](https://job-boards.greenhouse.io/reddit/jobs/6960833) | Remote - Ontario, Canada | greenhouse |
+| 2026-03-25 | reddit | [Senior Machine Learning Engineer, Ads](https://job-boards.greenhouse.io/reddit/jobs/6960831) | Remote - United States | greenhouse |
 | 2026-03-25 | reddit | [Machine Learning Engineer, Ads](https://job-boards.greenhouse.io/reddit/jobs/7131934) | Remote - Ontario, Canada | greenhouse |
 | 2026-03-25 | reddit | [Machine Learning Engineer, Ads](https://job-boards.greenhouse.io/reddit/jobs/7131932) | Remote - United States | greenhouse |
 | 2026-03-25 | thrivemarket | [Senior Data Analyst, Operational Excellence](https://thrivemarketjobs.com/job_posting.html?id=4195446009&gh_jid=4195446009) | Playa Vista, CA or Remote | greenhouse |
@@ -429,6 +430,4 @@ _Last updated: 2026-03-26 00:59 CDT_
 | 2026-03-23 | pandadoc | [Staff Product Data Scientist](https://job-boards.greenhouse.io/pandadoc/jobs/7483614) | Ukraine (Remote) | greenhouse |
 | 2026-03-23 | pandadoc | [Staff Product Data Scientist](https://job-boards.greenhouse.io/pandadoc/jobs/7483602) | Remote (Portugal) | greenhouse |
 | 2026-03-23 | pandadoc | [Staff Product Data Scientist](https://job-boards.greenhouse.io/pandadoc/jobs/7483272) | Poland (Remote) | greenhouse |
-| 2026-03-23 | chime | [Senior Data Analyst, Credit Risk](https://boards.greenhouse.io/chime/jobs/8327705002?gh_jid=8327705002) | San Francisco, CA, USA | greenhouse |
-| 2026-03-23 | klaviyo | [Senior Software Engineer - Analytics Data Engineering](https://www.klaviyo.com/careers/jobs?gh_jid=7564587003) | Boston, MA | greenhouse |
 <!-- JOBS:END -->

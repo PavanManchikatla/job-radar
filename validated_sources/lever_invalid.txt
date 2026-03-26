@@ -9443,7 +9443,6 @@ brightmachines	no_matching_jobs
 btse	http_404
 bluematrix	http_404
 breakwatertech	http_404
-bloomon	no_matching_jobs
 c12qe	no_matching_jobs
 bluebottlecoffee	no_matching_jobs
 bpmcpa	no_matching_jobs
