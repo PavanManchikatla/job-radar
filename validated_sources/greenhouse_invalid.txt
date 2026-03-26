@@ -5459,7 +5459,6 @@ nlcventures	no_matching_jobs
 loominc	http_404
 illumio	http_404
 compliancygroupllc	no_matching_jobs
-coreone	no_matching_jobs
 bynderjobs	http_404
 clearmatics	no_jobs
 antora	no_matching_jobs
@@ -5616,7 +5615,6 @@ hoyoverse	no_matching_jobs
 bottomlinetechnologies	no_matching_jobs
 globalenergyallianceforpeopleandplanetgeappllc	no_matching_jobs
 scaletowinllc	no_matching_jobs
-merceradvisors	no_matching_jobs
 matteprojects	no_matching_jobs
 aspireio	no_matching_jobs
 clearwayjobs	no_matching_jobs
@@ -6304,7 +6302,6 @@ volleythat	http_404
 nurix	no_matching_jobs
 kayak	no_matching_jobs
 tecovas	no_matching_jobs
-practicebetter	no_matching_jobs
 fortra	no_jobs
 go1blinkist	no_jobs
 aiedu	no_matching_jobs
@@ -6640,7 +6637,6 @@ whisperaero	no_jobs
 tvscientific	http_404
 freedamedia	http_404
 tastytrade	no_matching_jobs
-waymark	no_matching_jobs
 learneo	no_matching_jobs
 logixboard	http_404
 socure	http_404
