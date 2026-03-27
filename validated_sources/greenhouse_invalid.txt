@@ -6990,7 +6990,6 @@ messagelab	no_jobs
 privategdcareers	no_matching_jobs
 frukt	no_jobs
 nursedash	http_404
-cooksys	no_matching_jobs
 orium	no_matching_jobs
 gotion	no_matching_jobs
 phantomai	no_matching_jobs
