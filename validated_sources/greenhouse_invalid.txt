@@ -77,7 +77,6 @@ hey	http_404
 akamai	http_404
 imperva	http_404
 edgecast	http_404
-fastly	no_matching_jobs
 incapsula	http_404
 sucuri	http_404
 cloudflare	no_matching_jobs

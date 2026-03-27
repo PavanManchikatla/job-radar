@@ -479,3 +479,4 @@ waymark
 chaosindustries
 tanium
 cooksys
+fastly
