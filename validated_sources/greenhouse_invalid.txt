@@ -5465,7 +5465,6 @@ antora	no_matching_jobs
 skinlaundry	no_matching_jobs
 iftother	no_matching_jobs
 genedx	no_matching_jobs
-chaosindustries	no_matching_jobs
 mindvalley	http_404
 charterup	no_matching_jobs
 woodruffsawyer	http_404
@@ -6528,7 +6527,6 @@ morsemicro	no_matching_jobs
 stripes	no_matching_jobs
 biomedrealty	no_matching_jobs
 wikimedia	no_matching_jobs
-tanium	no_matching_jobs
 lifeskillsautismacademy	no_matching_jobs
 productschool	no_matching_jobs
 remotasks	no_matching_jobs
