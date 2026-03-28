@@ -5442,7 +5442,6 @@ gravitywell	no_jobs
 essential	no_matching_jobs
 civilscience	no_matching_jobs
 armorcode	no_matching_jobs
-mochihealth	no_matching_jobs
 hummingbirdregtech	no_matching_jobs
 sanityio	http_404
 fetchrewards	http_404
