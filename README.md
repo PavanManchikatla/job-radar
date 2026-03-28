@@ -1,10 +1,13 @@
 ## Jobs Feed (auto-updated)
 
 <!-- JOBS:START -->
-_Last updated: 2026-03-28 08:11 CDT_
+_Last updated: 2026-03-28 11:51 CDT_
 
 | Posted | Company | Title | Location | Source |
 |---|---|---|---|---|
+| 2026-03-28 | nice | [AI Data Engineer](https://boards.eu.greenhouse.io/nice/jobs/4812095101?gh_jid=4812095101) | USA - Remote | greenhouse |
+| 2026-03-28 | nice | [Senior Software Engineer - AI Coding Agents](https://boards.eu.greenhouse.io/nice/jobs/4818439101?gh_jid=4818439101) | Seattle, Washington, United States; USA - Atlanta, GA; USA - Richardson, TX; USA - Sandy, UT | greenhouse |
+| 2026-03-28 | nice | [Software Engineer - AI Coding Agents](https://boards.eu.greenhouse.io/nice/jobs/4818465101?gh_jid=4818465101) | Seattle, Washington, United States; USA - Atlanta, GA; USA - Richardson, TX; USA - Sandy, UT | greenhouse |
 | 2026-03-28 | verisign | [Sr Research Engineer](https://job-boards.greenhouse.io/verisign/jobs/7636398003) | Reston,Virginia,United States | greenhouse |
 | 2026-03-28 | doordashusa | [Principal Machine Learning Engineer, Ads & Promos Delivery](https://job-boards.greenhouse.io/doordashusa/jobs/7760003) | Sunnyvale, CA | greenhouse |
 | 2026-03-28 | spycloud | [Principal Security Research Engineer](https://job-boards.greenhouse.io/spycloud/jobs/7641311003) | Austin, Texas \| Remote | greenhouse |
@@ -137,7 +140,6 @@ _Last updated: 2026-03-28 08:11 CDT_
 | 2026-03-27 | paveakatroveinformationtechnologies | [Staff AI Engineer - Paige](https://job-boards.greenhouse.io/paveakatroveinformationtechnologies/jobs/4660935005) | San Francisco, CA & New York, NY | greenhouse |
 | 2026-03-27 | bloomerang | [Associate Conversion Data Analyst](https://job-boards.greenhouse.io/bloomerang/jobs/4634354005) | Remote, US | greenhouse |
 | 2026-03-27 | paveakatroveinformationtechnologies | [AI Engineer - Paige](https://job-boards.greenhouse.io/paveakatroveinformationtechnologies/jobs/4660955005) | San Francisco, CA & New York, NY | greenhouse |
-| 2026-03-27 | nice | [Senior Software Engineer - AI Coding Agents](https://boards.eu.greenhouse.io/nice/jobs/4818439101?gh_jid=4818439101) | Seattle, Washington, United States; USA - Atlanta, GA; USA - Richardson, TX; USA - Sandy, UT | greenhouse |
 | 2026-03-27 | zoox | [Staff Data Scientist - Verification & Validation](https://jobs.lever.co/zoox/d856c631-446c-452f-81f5-0359b50403c9) | Foster City, CA | lever |
 | 2026-03-27 | cooksys | [Snowflake (Data Engineer)](https://job-boards.greenhouse.io/cooksys/jobs/5167508008) | Nashville, TN | greenhouse |
 | 2026-03-27 | opendoor | [Applied Scientist](https://www.opendoor.com/careers/open-positions?gh_jid=4610036006) | Seattle, Washington, United States | greenhouse |
@@ -380,23 +382,4 @@ _Last updated: 2026-03-28 08:11 CDT_
 | 2026-03-25 | pagerhealth | [Applied AI Engineer](https://www.pagerhealth.com/pagerhealth-careers/?gh_jid=7749574) | US Remote | greenhouse |
 | 2026-03-25 | moloco | [Senior Data Scientist, Product Analytics - Ads Supply](https://job-boards.greenhouse.io/moloco/jobs/7678119003) | Menlo Park, California, United States | greenhouse |
 | 2026-03-25 | zocdoc | [Senior Data Scientist, Provider Network](https://job-boards.greenhouse.io/zocdoc/jobs/7746177) | New York, NY | greenhouse |
-| 2026-03-25 | fourkites | [Senior AI Engineer](https://job-boards.greenhouse.io/fourkites/jobs/7640838) | Chennai or Remote, India | greenhouse |
-| 2026-03-25 | fourkites | [Senior AI Engineer](https://job-boards.greenhouse.io/fourkites/jobs/7640820) | Chennai or Remote, India | greenhouse |
-| 2026-03-25 | fourkites | [Senior Analytics engineer - AI](https://job-boards.greenhouse.io/fourkites/jobs/7597775) | Chennai or Remote, India | greenhouse |
-| 2026-03-25 | fourkites | [Senior Staff Data Scientist](https://job-boards.greenhouse.io/fourkites/jobs/7089300) | Chennai or Remote, India | greenhouse |
-| 2026-03-25 | fourkites | [Staff Software Engineer - AI](https://job-boards.greenhouse.io/fourkites/jobs/7601583) | Chennai or Remote, India | greenhouse |
-| 2026-03-25 | pandadoc | [Staff GTM Data Scientist](https://job-boards.greenhouse.io/pandadoc/jobs/7472183) | Remote (Portugal) | greenhouse |
-| 2026-03-25 | coalition | [Data Engineer, Security](https://www.coalitioninc.com/job-posting?gh_jid=4665927005) | Any location, United States | greenhouse |
-| 2026-03-25 | heraldapi | [Software Engineer - AI Products](https://job-boards.greenhouse.io/heraldapi/jobs/4976239008) | New York, NY | greenhouse |
-| 2026-03-25 | coalition | [Senior Data Analyst](https://www.coalitioninc.com/job-posting?gh_jid=4665759005) | Any location, United States | greenhouse |
-| 2026-03-25 | lithic | [Data Engineer](https://job-boards.greenhouse.io/lithic/jobs/5833301004) | New York, New York, United States | greenhouse |
-| 2026-03-25 | appliedintuition | [Software Engineer - AI Engineering](https://boards.greenhouse.io/appliedintuition/jobs/4677060005?gh_jid=4677060005) | Sunnyvale, California, United States | greenhouse |
-| 2026-03-25 | coherehealth | [Machine Learning Engineer ll](https://job-boards.greenhouse.io/coherehealth/jobs/7628281003) | United States | greenhouse |
-| 2026-03-25 | coalition | [Staff Data Scientist, Insurance](https://www.coalitioninc.com/job-posting?gh_jid=4665930005) | Any location, United States | greenhouse |
-| 2026-03-25 | reddit | [Sr. Data Science Manager - Ads Marketplace](https://job-boards.greenhouse.io/reddit/jobs/7749073) | Remote - United States | greenhouse |
-| 2026-03-25 | reddit | [Sr. Data Science Manager - Ads Marketplace](https://job-boards.greenhouse.io/reddit/jobs/7749131) | Remote - Ontario, Canada | greenhouse |
-| 2026-03-25 | homesolutions | [Data Analyst](https://job-boards.greenhouse.io/homesolutions/jobs/4626730005) | Charlotte, NC | greenhouse |
-| 2026-03-25 | voyagertechnologiesinc | [Machine Learning Engineer - Mid-Level](https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4173802009) | El Segundo, CA | greenhouse |
-| 2026-03-25 | voyagertechnologiesinc | [Machine Learning Engineer - Associate](https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4173800009) | El Segundo, CA | greenhouse |
-| 2026-03-25 | spotify | [Senior Machine Learning Engineer](https://jobs.lever.co/spotify/0cd7549d-880c-4861-b343-c0564cc8e9de) | New York, NY | lever |
 <!-- JOBS:END -->
