@@ -1,14 +1,14 @@
 ## Jobs Feed (auto-updated)
 
 <!-- JOBS:START -->
-_Last updated: 2026-03-28 00:39 CDT_
+_Last updated: 2026-03-28 03:55 CDT_
 
 | Posted | Company | Title | Location | Source |
 |---|---|---|---|---|
+| 2026-03-28 | verisign | [Sr Research Engineer](https://job-boards.greenhouse.io/verisign/jobs/7636398003) | Reston,Virginia,United States | greenhouse |
 | 2026-03-28 | doordashusa | [Principal Machine Learning Engineer, Ads & Promos Delivery](https://job-boards.greenhouse.io/doordashusa/jobs/7760003) | Sunnyvale, CA | greenhouse |
 | 2026-03-28 | spycloud | [Principal Security Research Engineer](https://job-boards.greenhouse.io/spycloud/jobs/7641311003) | Austin, Texas \| Remote | greenhouse |
 | 2026-03-28 | arizeai | [AI Engineer - Instrumentation](https://job-boards.greenhouse.io/arizeai/jobs/5661972004) | Remote (United States) | greenhouse |
-| 2026-03-28 | verisign | [Sr Research Engineer](https://job-boards.greenhouse.io/verisign/jobs/7636398003) | Reston,Virginia,United States | greenhouse |
 | 2026-03-28 | five9 | [Forward Deployed AI Engineer/Data Scientist](https://www.five9.com/about/careers/job-detail?gh_jid=5840139004) | United States (Remote) | greenhouse |
 | 2026-03-28 | afresh | [Staff Software Engineer, ML Platform](https://job-boards.greenhouse.io/afresh/jobs/5706905004) | Remote - U.S. | greenhouse |
 | 2026-03-28 | appliedintuition | [Sensor Sim - ML Engineer](https://boards.greenhouse.io/appliedintuition/jobs/4678157005?gh_jid=4678157005) | Sunnyvale, California, United States | greenhouse |
@@ -401,8 +401,4 @@ _Last updated: 2026-03-28 00:39 CDT_
 | 2026-03-25 | consensys | [Senior Analytics Engineer](https://consensys.io/open-roles/7335661?gh_jid=7335661) | UNITED STATES - Remote, CANADA - Remote, LATAM - Remote, EMEA - Remote | greenhouse |
 | 2026-03-25 | consensys | [Senior Data Engineer](https://consensys.io/open-roles/7335693?gh_jid=7335693) | UNITED STATES - Remote, CANADA - Remote, LATAM - Remote, EMEA - Remote | greenhouse |
 | 2026-03-25 | moniepoint | [Data Analyst](https://job-boards.eu.greenhouse.io/moniepoint/jobs/4648475101) | Remote, Lagos, Nigeria | greenhouse |
-| 2026-03-25 | coalition | [Applied Scientist II](https://www.coalitioninc.com/job-posting?gh_jid=4665762005) | Any location, United States | greenhouse |
-| 2026-03-25 | anthropic | [Data Scientist, Marketing](https://job-boards.greenhouse.io/anthropic/jobs/5161402008) | San Francisco, CA | greenhouse |
-| 2026-03-25 | veracyte | [Director, Data Engineering](https://veracyte.com/job-detail?gh_jid=5073317007) | San Diego, California, United States | greenhouse |
-| 2026-03-25 | reddit | [Staff Machine Learning Engineer, Consumer](https://job-boards.greenhouse.io/reddit/jobs/7747244) | Remote - United States | greenhouse |
 <!-- JOBS:END -->
