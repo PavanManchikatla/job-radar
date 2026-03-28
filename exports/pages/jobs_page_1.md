@@ -1,6 +1,6 @@
 # Jobs Feed (Page 1/1)
 
-_Last updated: 2026-03-28 03:55 CDT_
+_Last updated: 2026-03-28 08:11 CDT_
 
 | Posted | Company | Title | Location | Source |
 |---|---|---|---|---|
@@ -131,6 +131,7 @@ _Last updated: 2026-03-28 03:55 CDT_
 | 2026-03-27 | automatticcareers | [Applied AI Engineer](https://job-boards.greenhouse.io/automatticcareers/jobs/7558576) | Remote | greenhouse |
 | 2026-03-27 | flagshippioneeringinc | [(Senior) Machine Learning Engineer / Data Scientist](https://boards.greenhouse.io/flagshippioneeringinc/jobs/8475065002?gh_jid=8475065002) | Boston, MA USA | greenhouse |
 | 2026-03-27 | sonyinteractiveentertainmentglobal | [Staff Software Engineer - AI Tools](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5655306004) | United Kingdom, Remote | greenhouse |
+| 2026-03-27 | Waymark | [Principal Data Engineer](https://remoteOK.com/remote-jobs/remote-principal-data-engineer-waymark-1130896) | Remote | remoteok |
 | 2026-03-27 | cloverhealth | [Senior Machine Learning Engineer](https://job-boards.greenhouse.io/cloverhealth/jobs/7729938) | Remote - USA | greenhouse |
 | 2026-03-27 | paveakatroveinformationtechnologies | [Staff AI Engineer - Paige](https://job-boards.greenhouse.io/paveakatroveinformationtechnologies/jobs/4660935005) | San Francisco, CA & New York, NY | greenhouse |
 | 2026-03-27 | bloomerang | [Associate Conversion Data Analyst](https://job-boards.greenhouse.io/bloomerang/jobs/4634354005) | Remote, US | greenhouse |
@@ -397,8 +398,5 @@ _Last updated: 2026-03-28 03:55 CDT_
 | 2026-03-25 | voyagertechnologiesinc | [Machine Learning Engineer - Mid-Level](https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4173802009) | El Segundo, CA | greenhouse |
 | 2026-03-25 | voyagertechnologiesinc | [Machine Learning Engineer - Associate](https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4173800009) | El Segundo, CA | greenhouse |
 | 2026-03-25 | spotify | [Senior Machine Learning Engineer](https://jobs.lever.co/spotify/0cd7549d-880c-4861-b343-c0564cc8e9de) | New York, NY | lever |
-| 2026-03-25 | consensys | [Senior Analytics Engineer](https://consensys.io/open-roles/7335661?gh_jid=7335661) | UNITED STATES - Remote, CANADA - Remote, LATAM - Remote, EMEA - Remote | greenhouse |
-| 2026-03-25 | consensys | [Senior Data Engineer](https://consensys.io/open-roles/7335693?gh_jid=7335693) | UNITED STATES - Remote, CANADA - Remote, LATAM - Remote, EMEA - Remote | greenhouse |
-| 2026-03-25 | moniepoint | [Data Analyst](https://job-boards.eu.greenhouse.io/moniepoint/jobs/4648475101) | Remote, Lagos, Nigeria | greenhouse |
 
 [Back to README](../../README.md)
