@@ -1,7 +1,7 @@
 ## Jobs Feed (auto-updated)
 
 <!-- JOBS:START -->
-_Last updated: 2026-03-28 21:32 CDT_
+_Last updated: 2026-03-29 01:01 CDT_
 
 | Posted | Company | Title | Location | Source |
 |---|---|---|---|---|
@@ -312,7 +312,4 @@ _Last updated: 2026-03-28 21:32 CDT_
 | 2026-03-26 | turing | [Staff Forward Deployed AI Engineer](https://job-boards.greenhouse.io/turing/jobs/5609732004) | New York, New York, United States; San Francisco, California, United States | greenhouse |
 | 2026-03-26 | gitlab | [Senior Data Analyst, Marketing Analytics](https://job-boards.greenhouse.io/gitlab/jobs/8472178002) | Remote, North America | greenhouse |
 | 2026-03-26 | gitlab | [Engineering Manager, AI Engineering:Agent Execution](https://job-boards.greenhouse.io/gitlab/jobs/8452291002) | Remote, EMEA; Remote, US-Southeast | greenhouse |
-| 2026-03-26 | databricks | [AI Engineer - FDE (Forward Deployed Engineer)](https://databricks.com/company/careers/open-positions/job?gh_jid=8335860002) | United States | greenhouse |
-| 2026-03-26 | tubitv | [Data Scientist](https://job-boards.greenhouse.io/tubitv/jobs/7753149) | San Francisco, CA (Hybrid) | greenhouse |
-| 2026-03-26 | instacart | [Senior Analytics Engineer, Marketing](https://instacart.careers/job/?gh_jid=7754354) | United States - Remote | greenhouse |
 <!-- JOBS:END -->
