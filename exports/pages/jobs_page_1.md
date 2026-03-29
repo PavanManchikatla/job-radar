@@ -1,16 +1,18 @@
 # Jobs Feed (Page 1/1)
 
-_Last updated: 2026-03-29 03:57 CDT_
+_Last updated: 2026-03-29 08:12 CDT_
 
 | Posted | Company | Title | Location | Source |
 |---|---|---|---|---|
+| 2026-03-29 | nextinsurance66 | [AI Engineer](https://job-boards.greenhouse.io/nextinsurance66/jobs/7550955003) | Boston, MA | greenhouse |
+| 2026-03-29 | nextinsurance66 | [AI Engineering Manager](https://job-boards.greenhouse.io/nextinsurance66/jobs/7550933003) | Boston, MA | greenhouse |
+| 2026-03-29 | verisign | [Sr Research Engineer](https://job-boards.greenhouse.io/verisign/jobs/7636398003) | Reston,Virginia,United States | greenhouse |
 | 2026-03-29 | samsara | [Senior Machine Learning Engineer](https://www.samsara.com/company/careers/roles/7266471?gh_jid=7266471) | Remote - US | greenhouse |
 | 2026-03-29 | samsara | [Senior Machine Learning Engineer](https://www.samsara.com/company/careers/roles/7315656?gh_jid=7315656) | Remote - Canada | greenhouse |
 | 2026-03-29 | samsara | [Senior Machine Learning Engineer](https://www.samsara.com/company/careers/roles/7412596?gh_jid=7412596) | Remote - Canada | greenhouse |
 | 2026-03-29 | samsara | [Senior Machine Learning Engineer](https://www.samsara.com/company/careers/roles/7266367?gh_jid=7266367) | Remote - US | greenhouse |
 | 2026-03-29 | samsara | [Staff Machine Learning Engineer](https://www.samsara.com/company/careers/roles/7266357?gh_jid=7266357) | Remote - US | greenhouse |
 | 2026-03-29 | samsara | [Staff Machine Learning Engineer](https://www.samsara.com/company/careers/roles/7431070?gh_jid=7431070) | Remote - Canada | greenhouse |
-| 2026-03-29 | verisign | [Sr Research Engineer](https://job-boards.greenhouse.io/verisign/jobs/7636398003) | Reston,Virginia,United States | greenhouse |
 | 2026-03-28 | springhealth66 | [Staff Security and AI Engineer](https://job-boards.greenhouse.io/springhealth66/jobs/4675797005) | San Francisco, CA (Hybrid) | greenhouse |
 | 2026-03-28 | nice | [AI Data Engineer](https://boards.eu.greenhouse.io/nice/jobs/4812095101?gh_jid=4812095101) | USA - Remote | greenhouse |
 | 2026-03-28 | nice | [Senior Software Engineer - AI Coding Agents](https://boards.eu.greenhouse.io/nice/jobs/4818439101?gh_jid=4818439101) | Seattle, Washington, United States; USA - Atlanta, GA; USA - Richardson, TX; USA - Sandy, UT | greenhouse |
@@ -301,15 +303,5 @@ _Last updated: 2026-03-29 03:57 CDT_
 | 2026-03-26 | storable | [Sr. Data Engineer](https://www.storable.com/about-us/culture/careers/?gh_jid=5814651004) | United States | greenhouse |
 | 2026-03-26 | iherb | [Sr. Data Engineer I](https://job-boards.greenhouse.io/iherb/jobs/7578260003) | United States of America - Remote / Home Office | greenhouse |
 | 2026-03-26 | technologyadvice | [Senior Data Analyst](https://technologyadvice.com/careers/opportunities/5805558004?gh_jid=5805558004) | Philippines - Remote | greenhouse |
-| 2026-03-26 | dataiku | [Data Engineer - Dataiku Cloud](https://job-boards.greenhouse.io/dataiku/jobs/5836898004) | Europe, Middle East, and Africa; France, Paris; France, Remote; Germany, Berlin - Munzstrasse 12; Germany, Remote; Netherlands, Amsterdam; Netherlands, Remote; Spain, Remote; United Kingdom, London; United Kingdom, Remote | greenhouse |
-| 2026-03-26 | zocdoc | [Data Scientist, Marketing](https://job-boards.greenhouse.io/zocdoc/jobs/7349018) | New York, NY | greenhouse |
-| 2026-03-26 | turing | [Principal Forward Deployed AI Engineer](https://job-boards.greenhouse.io/turing/jobs/5808363004) | San Francisco, California, United States | greenhouse |
-| 2026-03-26 | turing | [Principal Research Engineer - Code](https://job-boards.greenhouse.io/turing/jobs/5703798004) | San Francisco, California, United States | greenhouse |
-| 2026-03-26 | turing | [Principal Research Engineer - RL Gyms](https://job-boards.greenhouse.io/turing/jobs/5703799004) | San Francisco, California, United States | greenhouse |
-| 2026-03-26 | turing | [Staff Research Engineer - Code](https://job-boards.greenhouse.io/turing/jobs/5822280004) | San Francisco, California, United States | greenhouse |
-| 2026-03-26 | turing | [Principal Forward Deployed AI Engineer](https://job-boards.greenhouse.io/turing/jobs/5594226004) | New York, New York, United States | greenhouse |
-| 2026-03-26 | turing | [Staff Forward Deployed AI Engineer](https://job-boards.greenhouse.io/turing/jobs/5609732004) | New York, New York, United States; San Francisco, California, United States | greenhouse |
-| 2026-03-26 | gitlab | [Senior Data Analyst, Marketing Analytics](https://job-boards.greenhouse.io/gitlab/jobs/8472178002) | Remote, North America | greenhouse |
-| 2026-03-26 | gitlab | [Engineering Manager, AI Engineering:Agent Execution](https://job-boards.greenhouse.io/gitlab/jobs/8452291002) | Remote, EMEA; Remote, US-Southeast | greenhouse |
 
 [Back to README](../../README.md)
