@@ -5479,7 +5479,6 @@ kairospower	no_matching_jobs
 proskill	no_matching_jobs
 antora	no_matching_jobs
 moderawealthmanagement	no_matching_jobs
-genedx	no_matching_jobs
 instabase	no_matching_jobs
 stackline	no_matching_jobs
 northstarfund	no_jobs
