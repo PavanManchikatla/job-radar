@@ -5157,7 +5157,6 @@ brkz	no_matching_jobs
 pixocial	no_matching_jobs
 code3	no_matching_jobs
 evergreennephrology	no_matching_jobs
-ensono	no_matching_jobs
 vacasa	no_matching_jobs
 relativity	no_matching_jobs
 elementalexcelerator	http_404
@@ -6229,7 +6228,6 @@ definitivehcindia	no_matching_jobs
 jetzero	no_matching_jobs
 karbon	no_matching_jobs
 wfclainc	no_matching_jobs
-akidolabs	no_matching_jobs
 bursonglobal	http_404
 splashfinancial	no_matching_jobs
 chaincodelabs	no_matching_jobs
@@ -7359,7 +7357,6 @@ mast	no_matching_jobs
 rexfordindustrial	no_matching_jobs
 cbemllc	no_matching_jobs
 britive	no_matching_jobs
-shipbobinc	no_matching_jobs
 ataiwebsite	http_404
 qphox	no_matching_jobs
 showpad	no_matching_jobs
@@ -7583,7 +7580,6 @@ autura	no_matching_jobs
 weave	no_matching_jobs
 tines	no_matching_jobs
 strataidentity	no_jobs
-medeloop	no_matching_jobs
 capstack	http_404
 breezeway	no_matching_jobs
 akuity	no_matching_jobs
@@ -7898,7 +7894,6 @@ rubyreceptionists	http_404
 teamrubicon	no_jobs
 mithril	no_matching_jobs
 formhealth	no_matching_jobs
-berkadia	no_matching_jobs
 cpm	no_matching_jobs
 defcon	no_matching_jobs
 johnsonlawgroup	no_matching_jobs
