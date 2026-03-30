@@ -5653,7 +5653,6 @@ oneacrefund	no_matching_jobs
 eei	no_matching_jobs
 darkhorseviz	no_matching_jobs
 boldbusiness	no_matching_jobs
-physicsx	no_matching_jobs
 brainpop	no_matching_jobs
 thebaltimorebanner	no_matching_jobs
 siftscience	http_404
