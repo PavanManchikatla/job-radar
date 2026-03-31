@@ -6703,7 +6703,6 @@ aditumbio	no_matching_jobs
 thinkacademyus	no_matching_jobs
 appliedvr	no_matching_jobs
 seattlesoundersfc	no_matching_jobs
-designedconveyorsystems	no_matching_jobs
 predictiveindex	no_matching_jobs
 resonate	no_matching_jobs
 mill	no_matching_jobs
@@ -7537,7 +7536,6 @@ glooko	no_matching_jobs
 pearcommerce	no_jobs
 veza	no_matching_jobs
 wayvia	no_matching_jobs
-sage49	no_matching_jobs
 quince	no_matching_jobs
 prisma6	no_matching_jobs
 blockchain	no_matching_jobs
