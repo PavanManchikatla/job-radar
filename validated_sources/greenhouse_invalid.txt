@@ -6317,7 +6317,6 @@ simulamet	no_matching_jobs
 jadebiosciences	no_matching_jobs
 mycoworks	http_404
 kayak	no_matching_jobs
-nearsure	no_matching_jobs
 minitab	no_matching_jobs
 volleythat	http_404
 cycles	no_matching_jobs
