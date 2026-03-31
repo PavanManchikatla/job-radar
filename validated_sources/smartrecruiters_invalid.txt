@@ -3321,7 +3321,6 @@ pic stitch	http_400
 moldiv	no_postings
 layout	no_postings
 unfold	no_postings
-canva	no_matching_jobs
 mojo	no_postings
 quik	no_postings
 lumafusion	no_postings
