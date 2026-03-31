@@ -1426,7 +1426,6 @@ kounta	http_404
 3s pos	http_404
 toast pos	http_404
 ehopper	http_404
-toast	no_matching_jobs
 touchbistro pos	http_404
 cheddar up	http_404
 lightspeed restaurant	http_404
