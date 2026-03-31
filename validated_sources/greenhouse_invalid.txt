@@ -6142,7 +6142,6 @@ obexp	no_matching_jobs
 1800contacts	no_matching_jobs
 unchainedlabs	no_matching_jobs
 airsculpt	no_matching_jobs
-fastspring	no_matching_jobs
 syndio	no_matching_jobs
 manifest	no_matching_jobs
 seamlessai	no_matching_jobs
@@ -7065,7 +7064,6 @@ yepjobs	no_jobs
 select	http_404
 razorpaysoftwareprivatelimited	no_matching_jobs
 brainstation	no_matching_jobs
-seekout	no_matching_jobs
 hellotend	no_matching_jobs
 truckstop	no_matching_jobs
 waldensecurity	no_matching_jobs
@@ -7953,7 +7951,6 @@ branchmetrics	no_matching_jobs
 constructortech	no_matching_jobs
 accurx	http_404
 aspectbiosystems	no_matching_jobs
-extend	no_matching_jobs
 method	no_jobs
 konux	no_matching_jobs
 bitwarden	no_matching_jobs
@@ -8413,7 +8410,6 @@ clipboardhealth	http_404
 greenpointtechnologies	no_matching_jobs
 groma	no_matching_jobs
 brookecharterschools	no_matching_jobs
-mergeworld	no_matching_jobs
 sparkland	no_matching_jobs
 assuredguaranty	no_matching_jobs
 rocketlawyer	no_matching_jobs
