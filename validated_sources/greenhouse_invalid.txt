@@ -6715,7 +6715,6 @@ horizons	http_404
 pubgcorporation	no_matching_jobs
 hotelengine	http_404
 galileo	no_matching_jobs
-netbrain	no_matching_jobs
 shopee	http_404
 senrasystems	no_matching_jobs
 zenbusiness	no_matching_jobs
