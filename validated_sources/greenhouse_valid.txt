@@ -698,3 +698,7 @@ adahealth
 dimagi
 hologram
 mariadbplc
+hudl
+dynamisinc
+oddball
+twosixtechnologies

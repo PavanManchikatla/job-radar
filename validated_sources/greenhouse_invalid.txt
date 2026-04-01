@@ -4990,7 +4990,6 @@ btsecondaryboard	http_404
 antheia	no_matching_jobs
 thena	no_jobs
 transactlyconnect	no_matching_jobs
-hudl	no_matching_jobs
 xpincmlhr3	http_404
 sonypicturesanimation	no_matching_jobs
 alxafrica	no_matching_jobs
@@ -5492,7 +5491,6 @@ dandelionenergy	http_404
 hellobackpack	no_matching_jobs
 eositsolutions	no_matching_jobs
 hovercraft	no_matching_jobs
-dynamisinc	no_matching_jobs
 generalassembly	no_matching_jobs
 arcdev	http_404
 basepowercompany	http_404
@@ -5884,7 +5882,6 @@ bettyjobboard	no_matching_jobs
 companycam	no_matching_jobs
 m0dbathenextthingltd	no_matching_jobs
 payhawkio	no_matching_jobs
-oddball	no_matching_jobs
 jago	no_jobs
 rhythmagency	no_jobs
 oruka	no_matching_jobs
@@ -7928,7 +7925,6 @@ bcomsolutions	no_matching_jobs
 mbooth	no_matching_jobs
 unlockhealth	no_matching_jobs
 gravitate	no_jobs
-twosixtechnologies	no_matching_jobs
 dnsfilter	no_matching_jobs
 studsinc	no_matching_jobs
 fanduelgrouptvg	no_jobs
