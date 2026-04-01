@@ -5011,7 +5011,6 @@ ohsufoundation	no_jobs
 qcentrix	no_matching_jobs
 octanelending	no_matching_jobs
 polyai	no_matching_jobs
-adahealth	no_matching_jobs
 fanduel	no_matching_jobs
 retool	http_404
 cutover	no_matching_jobs
@@ -7149,7 +7148,6 @@ ogilvygermany	no_matching_jobs
 applytosuno	no_matching_jobs
 trinternational	no_jobs
 grist	no_matching_jobs
-dimagi	no_matching_jobs
 energage	no_matching_jobs
 cashcowlouisiana	no_matching_jobs
 national	no_matching_jobs
@@ -7491,7 +7489,6 @@ forerunner	no_matching_jobs
 imagendarystudios	http_404
 capco	no_matching_jobs
 hexium	no_jobs
-hologram	no_matching_jobs
 instead	no_matching_jobs
 virtahealth	http_404
 industriouslabs	no_matching_jobs
@@ -8103,7 +8100,6 @@ crisprecruit	no_matching_jobs
 dvtrading	no_matching_jobs
 neuroflow	no_matching_jobs
 kadmos3	no_matching_jobs
-mariadbplc	no_matching_jobs
 taskhumancoachingcommunity	http_404
 inceptive	no_matching_jobs
 lotlinx	no_matching_jobs
