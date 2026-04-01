@@ -864,7 +864,6 @@ iq	http_404
 breeze	http_404
 era	http_404
 cbre	http_404
-homelight	no_matching_jobs
 jerry	http_404
 cushman wakefield	http_404
 jll	http_404
@@ -5999,7 +5998,6 @@ asteralabs	no_matching_jobs
 valuatehealthconsultancy	no_jobs
 theswiftgroup	http_404
 sandiegocommunitypower	no_matching_jobs
-qualtrics	no_matching_jobs
 careersatkokua	no_jobs
 taxbit	no_matching_jobs
 exactsales	no_jobs
@@ -6609,7 +6607,6 @@ datakindinc	no_jobs
 pelago	no_matching_jobs
 tekion	no_matching_jobs
 thejewishfederationsofnorthamerica	no_matching_jobs
-alchemy	no_matching_jobs
 acumen	no_matching_jobs
 emendata	no_jobs
 forthealth	http_404
@@ -7800,7 +7797,6 @@ matik	no_matching_jobs
 103644278	no_matching_jobs
 swishanalytics	http_404
 filescom	no_matching_jobs
-gomotive	no_matching_jobs
 cerulacare	no_matching_jobs
 thinkingmachines	no_matching_jobs
 oliverusa	no_matching_jobs
@@ -8021,7 +8017,6 @@ blend	no_matching_jobs
 hut8	no_matching_jobs
 patterndata	no_matching_jobs
 hillel	no_matching_jobs
-sparkadvisors	no_matching_jobs
 homechef	no_matching_jobs
 advancedtechnologyservices	no_matching_jobs
 toojaysdeli	no_matching_jobs
