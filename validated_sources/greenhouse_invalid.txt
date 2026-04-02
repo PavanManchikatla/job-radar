@@ -7680,7 +7680,6 @@ homeconstructionregulatoryauthority	no_matching_jobs
 ginkgobioworks	no_matching_jobs
 sbusa	no_matching_jobs
 ashfieldmedcomms	no_matching_jobs
-cribl	no_matching_jobs
 jabrahearing	http_404
 formic	no_matching_jobs
 awalsme	no_matching_jobs
@@ -8300,7 +8299,6 @@ tulip	no_matching_jobs
 beat	http_404
 pubnub	no_matching_jobs
 zenjob	http_404
-doitintl	no_matching_jobs
 navigationfund	http_404
 doordashindia	no_matching_jobs
 osmosis	http_404
