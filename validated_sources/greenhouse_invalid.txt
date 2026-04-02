@@ -4236,7 +4236,6 @@ flock freight	http_404
 next trucking	http_404
 parade	http_404
 tower transit	http_404
-axle	no_matching_jobs
 outrider	no_matching_jobs
 freight farms	http_404
 hwy haul	http_404
