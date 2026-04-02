@@ -1,12 +1,42 @@
 # Jobs Feed (Page 2/2)
 
-_Last updated: 2026-04-01 16:11 CDT_
+_Last updated: 2026-04-01 21:34 CDT_
 
 Page 2/2 | [Prev](jobs_page_1.md)
 
 
 | Posted | Company | Title | Location | Source |
 |---|---|---|---|---|
+| 2026-03-30 | collectivehealth | [Staff AI Engineer – Agentic AI and Automaton](https://jobs.collectivehealth.com/apply/?gh_jid=7696901) | San Francisco, CA \| Lehi, UT \| Plano, TX | greenhouse |
+| 2026-03-30 | komodohealth | [Data Scientist III](https://job-boards.greenhouse.io/komodohealth/jobs/8455155002) | United States | greenhouse |
+| 2026-03-30 | komodohealth | [Applied AI Engineer](https://job-boards.greenhouse.io/komodohealth/jobs/8447511002) | San Francisco, CA | greenhouse |
+| 2026-03-30 | komodohealth | [Senior Applied AI Engineer](https://job-boards.greenhouse.io/komodohealth/jobs/8447510002) | New York, NY | greenhouse |
+| 2026-03-30 | komodohealth | [Staff Applied AI Engineer](https://job-boards.greenhouse.io/komodohealth/jobs/8447509002) | San Francisco, CA | greenhouse |
+| 2026-03-30 | extend | [Data Scientist, Claim Experience Analytics](https://job-boards.greenhouse.io/extend/jobs/5841244004) | Remote, US | greenhouse |
+| 2026-03-30 | medium | [Senior Data Scientist](https://job-boards.greenhouse.io/medium/jobs/4192878009) | Remote - US | greenhouse |
+| 2026-03-30 | extend | [Senior Data Scientist, Finance Analytics](https://job-boards.greenhouse.io/extend/jobs/5841127004) | Remote, US | greenhouse |
+| 2026-03-30 | stratacareers | [Applied Machine Learning Engineer](https://job-boards.greenhouse.io/stratacareers/jobs/7452181003) | Chicago, IL; Remote | greenhouse |
+| 2026-03-30 | stratacareers | [Manager, Data Engineering](https://job-boards.greenhouse.io/stratacareers/jobs/7628719003) | Chicago, IL | greenhouse |
+| 2026-03-30 | campminder | [Staff Data Engineer](https://job-boards.greenhouse.io/campminder/jobs/7757686) | Boulder, CO or remote | greenhouse |
+| 2026-03-30 | beyondtrust | [Sr Data Engineer](https://job-boards.greenhouse.io/beyondtrust/jobs/6602214) | Remote United States | greenhouse |
+| 2026-03-30 | nextinsurance66 | [AI Engineer](https://job-boards.greenhouse.io/nextinsurance66/jobs/7550955003) | Boston, MA | greenhouse |
+| 2026-03-30 | accenturefederalservices | [Data Scientist (Foundry Application)](https://boards.greenhouse.io/accenturefederalservices/jobs/4667319006?gh_jid=4667319006) | Arlington, VA | greenhouse |
+| 2026-03-30 | accenturefederalservices | [Data Engineer (Onsite Vandenberg, CA)](https://boards.greenhouse.io/accenturefederalservices/jobs/4666148006?gh_jid=4666148006) | Point Mugu, CA | greenhouse |
+| 2026-03-30 | accenturefederalservices | [Palantir Data Scientist (Onsite Vandenberg, CA)](https://boards.greenhouse.io/accenturefederalservices/jobs/4661716006?gh_jid=4661716006) | Point Mugu, CA | greenhouse |
+| 2026-03-30 | accenturefederalservices | [Data Engineer/Reporting Analyst](https://boards.greenhouse.io/accenturefederalservices/jobs/4649110006?gh_jid=4649110006) | Arlington, VA | greenhouse |
+| 2026-03-30 | accenturefederalservices | [Data Scientist 4](https://boards.greenhouse.io/accenturefederalservices/jobs/4648696006?gh_jid=4648696006) | Annapolis Junction, MD | greenhouse |
+| 2026-03-30 | accenturefederalservices | [Data Engineer in St. Louis, MO](https://boards.greenhouse.io/accenturefederalservices/jobs/4644934006?gh_jid=4644934006) | St. Louis, MO | greenhouse |
+| 2026-03-30 | accenturefederalservices | [Senior Data Analyst in St. Louis, MO](https://boards.greenhouse.io/accenturefederalservices/jobs/4644953006?gh_jid=4644953006) | St. Louis, MO | greenhouse |
+| 2026-03-30 | accenturefederalservices | [Azure Data Engineer in St. Louis, MO](https://boards.greenhouse.io/accenturefederalservices/jobs/4643762006?gh_jid=4643762006) | St. Louis, MO | greenhouse |
+| 2026-03-30 | accenturefederalservices | [AI / ML Engineer](https://boards.greenhouse.io/accenturefederalservices/jobs/4628914006?gh_jid=4628914006) | Annapolis Junction, MD | greenhouse |
+| 2026-03-30 | accenturefederalservices | [Sr. Cloud Data Engineer](https://boards.greenhouse.io/accenturefederalservices/jobs/4623820006?gh_jid=4623820006) | Tyson's Corner, VA | greenhouse |
+| 2026-03-30 | accenturefederalservices | [Jr Data Engineer](https://boards.greenhouse.io/accenturefederalservices/jobs/4623058006?gh_jid=4623058006) | Chantilly, VA | greenhouse |
+| 2026-03-30 | accenturefederalservices | [Data Engineer Senior Analyst](https://boards.greenhouse.io/accenturefederalservices/jobs/4620934006?gh_jid=4620934006) | Arlington, VA | greenhouse |
+| 2026-03-30 | accenturefederalservices | [Data Engineer](https://boards.greenhouse.io/accenturefederalservices/jobs/4618029006?gh_jid=4618029006) | Fort Belvoir, VA | greenhouse |
+| 2026-03-30 | accenturefederalservices | [Data Analyst Specialist](https://boards.greenhouse.io/accenturefederalservices/jobs/4615099006?gh_jid=4615099006) | Arlington, VA | greenhouse |
+| 2026-03-30 | accenturefederalservices | [AI / ML Engineer Manager](https://boards.greenhouse.io/accenturefederalservices/jobs/4611105006?gh_jid=4611105006) | Arlington, VA | greenhouse |
+| 2026-03-30 | accenturefederalservices | [Data Engineer Specialist](https://boards.greenhouse.io/accenturefederalservices/jobs/4610676006?gh_jid=4610676006) | Arlington, VA | greenhouse |
+| 2026-03-30 | accenturefederalservices | [Data Engineer Specialist](https://boards.greenhouse.io/accenturefederalservices/jobs/4612343006?gh_jid=4612343006) | Arlington, VA | greenhouse |
 | 2026-03-30 | accenturefederalservices | [Data Engineer Team Lead](https://boards.greenhouse.io/accenturefederalservices/jobs/4611519006?gh_jid=4611519006) | Arlington, VA | greenhouse |
 | 2026-03-30 | accenturefederalservices | [Data Engineer/Architect](https://boards.greenhouse.io/accenturefederalservices/jobs/4607396006?gh_jid=4607396006) | Columbia, MD | greenhouse |
 | 2026-03-30 | accenturefederalservices | [Cybersecurity Research Engineer](https://boards.greenhouse.io/accenturefederalservices/jobs/4587713006?gh_jid=4587713006) | Fort Meade, MD | greenhouse |
@@ -92,17 +122,11 @@ Page 2/2 | [Prev](jobs_page_1.md)
 | 2026-03-30 | coinbase | [Senior Machine Learning Engineer](https://www.coinbase.com/careers/positions/7711075?gh_jid=7711075) | Remote - India | greenhouse |
 | 2026-03-30 | coinbase | [Analytics Engineer](https://www.coinbase.com/careers/positions/7701638?gh_jid=7701638) | Remote - UK | greenhouse |
 | 2026-03-30 | coinbase | [Senior Machine Learning Platform Engineer (Platform)](https://www.coinbase.com/careers/positions/7604203?gh_jid=7604203) | Remote - USA | greenhouse |
-| 2026-03-30 | coinbase | [Senior Applied Scientist - Pricing](https://www.coinbase.com/careers/positions/7580544?gh_jid=7580544) | Remote - USA | greenhouse |
-| 2026-03-30 | coinbase | [Senior Data Scientist - Retail Onchain (Borrow/Lend/Earn)](https://www.coinbase.com/careers/positions/7583589?gh_jid=7583589) | Remote - USA | greenhouse |
-| 2026-03-30 | coinbase | [Senior Data Scientist - Retail Trading](https://www.coinbase.com/careers/positions/7583593?gh_jid=7583593) | Remote - USA | greenhouse |
 | 2026-03-30 | coinbase | [Senior Analytics Engineer](https://www.coinbase.com/careers/positions/7532597?gh_jid=7532597) | Remote - USA | greenhouse |
 | 2026-03-30 | coinbase | [Staff Machine Learning Engineer - Platform (Core AI Automation)](https://www.coinbase.com/careers/positions/7648987?gh_jid=7648987) | Remote - USA | greenhouse |
 | 2026-03-30 | coinbase | [Senior Data Scientist - Growth](https://www.coinbase.com/careers/positions/7407390?gh_jid=7407390) | Remote - USA | greenhouse |
 | 2026-03-30 | coinbase | [Staff Analytics Engineer](https://www.coinbase.com/careers/positions/7060033?gh_jid=7060033) | Remote - USA | greenhouse |
 | 2026-03-30 | coinbase | [Senior Data Scientist - Customer Experience](https://www.coinbase.com/careers/positions/6969295?gh_jid=6969295) | Remote - USA | greenhouse |
-| 2026-03-30 | coinbase | [Data Scientist II - Identity and Access](https://www.coinbase.com/careers/positions/6679661?gh_jid=6679661) | Remote - USA | greenhouse |
-| 2026-03-30 | coinbase | [Staff Applied Scientist - Causal Inference](https://www.coinbase.com/careers/positions/5670626?gh_jid=5670626) | Remote - USA | greenhouse |
-| 2026-03-29 | upwork | [Lead AI Engineer](https://job-boards.greenhouse.io/upwork/jobs/7174653003) | Palo Alto, California, United States | greenhouse |
 
 Page 2/2 | [Prev](jobs_page_1.md)
 

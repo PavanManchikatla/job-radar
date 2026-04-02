@@ -6270,7 +6270,6 @@ veranahealth	no_matching_jobs
 communitychange	http_404
 classkick	http_404
 skilledwoundcare	no_matching_jobs
-wheelhousedmg	no_matching_jobs
 chanzuckerberginitiative	no_matching_jobs
 phynetdermatology	no_matching_jobs
 remixtherapeutics	no_matching_jobs
@@ -7505,7 +7504,6 @@ deliveroo	http_404
 mrapple	no_matching_jobs
 alltrna	no_jobs
 scalellp	no_matching_jobs
-servicechampions	no_matching_jobs
 luganodiamonds	no_jobs
 phiture	no_matching_jobs
 pursuecare	no_jobs
@@ -8098,7 +8096,6 @@ familywell	no_matching_jobs
 simulauib	no_jobs
 redesignhealth	http_404
 triparc	no_matching_jobs
-edgeconnex	no_matching_jobs
 gingerlabsinc	no_matching_jobs
 jumptrading	no_matching_jobs
 everest	http_404
