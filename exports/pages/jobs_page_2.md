@@ -1,12 +1,13 @@
 # Jobs Feed (Page 2/2)
 
-_Last updated: 2026-04-02 01:07 CDT_
+_Last updated: 2026-04-02 04:21 CDT_
 
 Page 2/2 | [Prev](jobs_page_1.md)
 
 
 | Posted | Company | Title | Location | Source |
 |---|---|---|---|---|
+| 2026-03-30 | lyft | [Senior Data Scientist - Optimization, Central Market Management & AI](https://app.careerpuck.com/job-board/lyft/job/8483867002?gh_jid=8483867002) | New York, NY | greenhouse |
 | 2026-03-30 | lyft | [Senior Data Scientist - Optimization, Central Market Management & AI](https://app.careerpuck.com/job-board/lyft/job/8483708002?gh_jid=8483708002) | San Francisco, CA | greenhouse |
 | 2026-03-30 | collectivehealth | [Staff Conversational AI Engineer](https://jobs.collectivehealth.com/apply/?gh_jid=7760155) | Plano, TX | greenhouse |
 | 2026-03-30 | collectivehealth | [Staff AI Engineer – Agentic AI and Automaton](https://jobs.collectivehealth.com/apply/?gh_jid=7696901) | San Francisco, CA \| Lehi, UT \| Plano, TX | greenhouse |
@@ -119,7 +120,6 @@ Page 2/2 | [Prev](jobs_page_1.md)
 | 2026-03-30 | nebius | [Senior ML Engineer (AI Research)](https://careers.nebius.com/?gh_jid=4704805101) | Amsterdam, Netherlands; Israel; Remote - Europe; United Kingdom | greenhouse |
 | 2026-03-30 | nebius | [Senior ML Engineer (Token Factory)](https://careers.nebius.com/?gh_jid=4780713101) | Germany; Israel; Netherlands; Prague, Czech Republic; Remote - Europe; Remote - United States; United Kingdom | greenhouse |
 | 2026-03-30 | nebius | [Senior ML Engineer (Token Factory)](https://careers.nebius.com/?gh_jid=4790283101) | Amsterdam, Netherlands; Berlin, Germany; Israel; London, United Kingdom; Prague, Czech Republic; Remote - Europe | greenhouse |
-| 2026-03-30 | yipitdatajobs | [Data Analyst](https://job-boards.greenhouse.io/yipitdatajobs/jobs/6863299) | India Remote | greenhouse |
 
 Page 2/2 | [Prev](jobs_page_1.md)
 

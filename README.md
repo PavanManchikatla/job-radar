@@ -1,16 +1,17 @@
 ## Jobs Feed (auto-updated)
 
 <!-- JOBS:START -->
-_Last updated: 2026-04-02 01:07 CDT_
+_Last updated: 2026-04-02 04:21 CDT_
 
 Page 1/2 | [Next](exports/pages/jobs_page_2.md)
 
 | Posted | Company | Title | Location | Source |
 |---|---|---|---|---|
+| 2026-04-02 | monzo | [Platform Engineer, Machine Learning](https://job-boards.greenhouse.io/monzo/jobs/7118972) | Cardiff, London or Remote (UK); London | greenhouse |
+| 2026-04-02 | verisign | [Sr Research Engineer](https://job-boards.greenhouse.io/verisign/jobs/7636398003) | Reston,Virginia,United States | greenhouse |
 | 2026-04-02 | Onton.com | [Fullstack & Research Engineers](https://news.ycombinator.com/item?id=47609962) | San Francisco, CA, Hybrid Join us in pioneering the future of e-commerce search. Growing rapidly. We're a hard-working team of 10. We have an office in Jackson Square with a great view that we're looking to fill with other high-performance people! Tech-wise, it's React/Typescript + Julia, if that's interesting (no worries if you haven't used it). We've also built our own graph and vector DB to cope with the scale, and the foundations of a neuro-symbolic AI agent that learns more about the world on every search! Job posting and more information here → https://onton.com/careers We read and respond to every application. | hn_hiring |
 | 2026-04-02 | biohub | [Director, Data Engineering](https://job-boards.greenhouse.io/biohub/jobs/7361393) | New York, NY (Hybrid); Redwood City, CA (Hybrid) | greenhouse |
 | 2026-04-02 | haizelabs | [Research Engineer](https://job-boards.greenhouse.io/haizelabs/jobs/4070038008) | New York, NY | greenhouse |
-| 2026-04-02 | verisign | [Sr Research Engineer](https://job-boards.greenhouse.io/verisign/jobs/7636398003) | Reston,Virginia,United States | greenhouse |
 | 2026-04-02 | afresh | [Data Engineering Manager](https://job-boards.greenhouse.io/afresh/jobs/5843891004) | Remote - U.S. | greenhouse |
 | 2026-04-02 | acuitymd | [Director or VP of Data Engineering](https://job-boards.greenhouse.io/acuitymd/jobs/5753747004) | Boston or Remote | greenhouse |
 | 2026-04-02 | scaleai | [Senior Forward Deployed Data Scientist/Engineer](https://job-boards.greenhouse.io/scaleai/jobs/4636227005) | San Francisco, CA; New York, NY | greenhouse |
@@ -506,7 +507,6 @@ Page 1/2 | [Next](exports/pages/jobs_page_2.md)
 | 2026-03-30 | stackblitz | [Senior Applied AI Engineer](https://job-boards.greenhouse.io/stackblitz/jobs/4005254009) | Remote | greenhouse |
 | 2026-03-30 | five9 | [Forward Deployed AI Engineer/Data Scientist](https://www.five9.com/about/careers/job-detail?gh_jid=5840139004) | United States (Remote) | greenhouse |
 | 2026-03-30 | hebbia | [Data Scientist, Product](https://job-boards.greenhouse.io/hebbia/jobs/4670090005) | New York City; San Francisco, CA | greenhouse |
-| 2026-03-30 | lyft | [Senior Data Scientist - Optimization, Central Market Management & AI](https://app.careerpuck.com/job-board/lyft/job/8483867002?gh_jid=8483867002) | New York, NY | greenhouse |
 
 Page 1/2 | [Next](exports/pages/jobs_page_2.md)
 <!-- JOBS:END -->
