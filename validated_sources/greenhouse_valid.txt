@@ -716,3 +716,6 @@ doitintl
 streamlinedefense
 shift4
 sharebite
+lucidsoftware
+aperiatechnologies
+tulip

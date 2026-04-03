@@ -5656,7 +5656,6 @@ fortrobotics	no_matching_jobs
 getscale	no_matching_jobs
 trueanomalyinc	no_matching_jobs
 altruist	no_matching_jobs
-lucidsoftware	no_matching_jobs
 sharkninjaoperatingllc	no_matching_jobs
 marscousg	no_matching_jobs
 ardentmc	no_matching_jobs
@@ -8194,7 +8193,6 @@ meshy	http_404
 urgentcareforchildren	no_matching_jobs
 seoulrobotics	no_matching_jobs
 creditas	http_404
-aperiatechnologies	no_matching_jobs
 invivyd	no_matching_jobs
 inspiremedicalsystemsinc	no_matching_jobs
 aevexaerospace	no_matching_jobs
@@ -8292,7 +8290,6 @@ momentus	no_matching_jobs
 ltkuk	no_matching_jobs
 karya	no_matching_jobs
 craevents	no_jobs
-tulip	no_matching_jobs
 beat	http_404
 pubnub	no_matching_jobs
 zenjob	http_404
