@@ -5267,7 +5267,6 @@ secondharvest	no_matching_jobs
 synerg	no_matching_jobs
 beamtherapeutics	no_matching_jobs
 resolvetosavelives	no_matching_jobs
-streamlinedefense	no_matching_jobs
 nexxen	http_404
 peakenergy	no_matching_jobs
 appsumocareers	http_404
