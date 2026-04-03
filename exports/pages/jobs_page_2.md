@@ -1,12 +1,25 @@
 # Jobs Feed (Page 2/2)
 
-_Last updated: 2026-04-03 08:27 CDT_
+_Last updated: 2026-04-03 12:05 CDT_
 
 Page 2/2 | [Prev](jobs_page_1.md)
 
 
 | Posted | Company | Title | Location | Source |
 |---|---|---|---|---|
+| 2026-04-01 | point72 | [Machine Learning Engineer, GenAI Technology](https://boards.greenhouse.io/point72/jobs/8342478002?gh_jid=8342478002) | United States | greenhouse |
+| 2026-04-01 | point72 | [Quantitative Researcher - Machine Learning](https://boards.greenhouse.io/point72/jobs/8023550002?gh_jid=8023550002) | New York, London, or Hong Kong | greenhouse |
+| 2026-04-01 | point72 | [Senior Software Engineer, Machine Learning](https://boards.greenhouse.io/point72/jobs/8466849002?gh_jid=8466849002) | New York, NY | greenhouse |
+| 2026-04-01 | theweathercompany | [Product Data Scientist](https://job-boards.greenhouse.io/theweathercompany/jobs/5054032007) | Atlanta, GA | greenhouse |
+| 2026-04-01 | theweathercompany | [Senior Data Engineer](https://job-boards.greenhouse.io/theweathercompany/jobs/5033365007) | Atlanta, GA | greenhouse |
+| 2026-04-01 | possiblefinancialinc | [Data Scientist](https://job-boards.greenhouse.io/possiblefinancialinc/jobs/5083293007) | Seattle, Washington, United States | greenhouse |
+| 2026-04-01 | flex | [Director, Machine Learning & Platform](https://job-boards.greenhouse.io/flex/jobs/4655437005) | Remote (U.S.) | greenhouse |
+| 2026-04-01 | tanium | [Corporate AI Engineer](https://job-boards.greenhouse.io/tanium/jobs/7759897) | Addison, TX (Hybrid); Bellevue, WA (Hybrid); Durham, NC (Hybrid); Emeryville, CA (Hybrid); Reston, VA (Hybrid) | greenhouse |
+| 2026-03-31 | luxurypresence | [Staff Analytics Engineer - US (Remote)](https://jobs.lever.co/luxurypresence/b9ec9e28-bb5e-4386-a374-8870179ee995) | United States | lever |
+| 2026-03-31 | luxurypresence | [Staff Applied AI Engineer — Auggie Platform - US (Remote)](https://jobs.lever.co/luxurypresence/7e89a513-2564-42aa-be4e-b652d01e61e9) | United States | lever |
+| 2026-03-31 | luxurypresence | [Staff Software Engineer - AI Marketing - US (Remote)](https://jobs.lever.co/luxurypresence/6fa26581-2906-4781-9239-015252d20aad) | United States | lever |
+| 2026-03-31 | globalhealthcareexchangeinc | [Software Engineer III - Content Tooling (Data Engineering Focus)](https://job-boards.greenhouse.io/globalhealthcareexchangeinc/jobs/4670835005) | Office Location or Remote - USA | greenhouse |
+| 2026-03-31 | practicebetter | [Data & Analytics Engineer](https://job-boards.greenhouse.io/practicebetter/jobs/5172180008) | Remote - Canada | greenhouse |
 | 2026-03-31 | deepmind | [Research Scientist, Response Quality/Hermes](https://job-boards.greenhouse.io/deepmind/jobs/7669124) | Mountain View, California, US | greenhouse |
 | 2026-03-31 | toast | [Principal Product Analytics Engineer](https://careers.toasttab.com/jobs?gh_jid=7746009) | Remote, US | greenhouse |
 | 2026-03-31 | toast | [Analytics Engineer](https://careers.toasttab.com/jobs?gh_jid=7553301) | Remote, USA | greenhouse |
@@ -84,31 +97,6 @@ Page 2/2 | [Prev](jobs_page_1.md)
 | 2026-03-31 | ionq | [Senior Research Scientist - Thin-Film Lithium Niobate](https://job-boards.greenhouse.io/ionq/jobs/5837730004) | Boston, Massachusetts, United States | greenhouse |
 | 2026-03-31 | ionq | [Staff Data Engineer](https://job-boards.greenhouse.io/ionq/jobs/5472683004) | Boulder, Colorado, United States | greenhouse |
 | 2026-03-31 | optimaldynamics | [Senior AI Engineer](https://job-boards.greenhouse.io/optimaldynamics/jobs/5653165004) | Remote | greenhouse |
-| 2026-03-31 | accenturefederalservices | [AI / ML Engineer](https://boards.greenhouse.io/accenturefederalservices/jobs/4644242006?gh_jid=4644242006) | Chantilly, VA | greenhouse |
-| 2026-03-31 | greenlight | [AI/ML Engineer](https://jobs.lever.co/greenlight/cca30a59-003c-4b8c-8730-5805e0756c84) | Atlanta (Remote Friendly) | lever |
-| 2026-03-31 | automatticcareers | [Applied AI Engineer](https://job-boards.greenhouse.io/automatticcareers/jobs/7558576) | Remote | greenhouse |
-| 2026-03-31 | octus | [Senior Analytics Engineer](https://job-boards.greenhouse.io/octus/jobs/5092067007) | Remote - US | greenhouse |
-| 2026-03-31 | darkwolfsolutions | [Data Engineer](https://job-boards.greenhouse.io/darkwolfsolutions/jobs/7582903003) | Herndon, VA | greenhouse |
-| 2026-03-31 | nearsure | [(EG0014) Senior Applied AI Engineer - Talent Connection](https://job-boards.greenhouse.io/nearsure/jobs/5094344007) | Latin America - Remote | greenhouse |
-| 2026-03-31 | oscar | [Applied AI Engineer](http://www.hioscar.com/careers/7525125?gh_jid=7525125) | New York, New York, United States | greenhouse |
-| 2026-03-31 | oscar | [Data Scientist I](http://www.hioscar.com/careers/7594392?gh_jid=7594392) | Tempe, Arizona, United States | greenhouse |
-| 2026-03-31 | oscar | [Data Scientist I](http://www.hioscar.com/careers/7594388?gh_jid=7594388) | Los Angeles, California, United States | greenhouse |
-| 2026-03-31 | oscar | [Data Scientist I](http://www.hioscar.com/careers/7592274?gh_jid=7592274) | New York, New York, United States | greenhouse |
-| 2026-03-31 | oscar | [Data Scientist II](http://www.hioscar.com/careers/7592301?gh_jid=7592301) | New York, New York, United States | greenhouse |
-| 2026-03-31 | oscar | [Data Scientist II](http://www.hioscar.com/careers/7594416?gh_jid=7594416) | Tempe, Arizona, United States | greenhouse |
-| 2026-03-31 | oscar | [Data Scientist II](http://www.hioscar.com/careers/7594414?gh_jid=7594414) | Los Angeles, California, United States | greenhouse |
-| 2026-03-31 | oscar | [Senior Data Scientist, Advanced Risk Modeling](http://www.hioscar.com/careers/7374162?gh_jid=7374162) | Tempe, Arizona, United States | greenhouse |
-| 2026-03-31 | oscar | [Senior Data Scientist, Advanced Risk Modeling](http://www.hioscar.com/careers/7373481?gh_jid=7373481) | New York, New York, United States | greenhouse |
-| 2026-03-31 | oscar | [Senior Data Scientist, Advanced Risk Modeling](http://www.hioscar.com/careers/7374160?gh_jid=7374160) | Los Angeles, California, United States | greenhouse |
-| 2026-03-31 | oscar | [Senior Data Scientist, Data & Member Behavior](http://www.hioscar.com/careers/7592202?gh_jid=7592202) | Tempe, Arizona, United States | greenhouse |
-| 2026-03-31 | oscar | [Senior Data Scientist, Data & Member Behavior](http://www.hioscar.com/careers/7592191?gh_jid=7592191) | Los Angeles, California, United States | greenhouse |
-| 2026-03-31 | oscar | [Senior Data Scientist, Data & Member Behavior (Campaign Optimization)](http://www.hioscar.com/careers/7268251?gh_jid=7268251) | New York, New York, United States | greenhouse |
-| 2026-03-31 | octave | [Sr. Data Engineer](https://boards.greenhouse.io/octave/jobs/8457329002?gh_jid=8457329002) | Virtual (Remote) | greenhouse |
-| 2026-03-31 | fastspring | [Staff Data Engineer](https://job-boards.greenhouse.io/fastspring/jobs/5836608004) | Remote-United States | greenhouse |
-| 2026-03-31 | correlationone | [Teaching Assistant: Machine Learning Data Associate](https://job-boards.greenhouse.io/correlationone/jobs/5802065004) | Remote: EMEA | greenhouse |
-| 2026-03-31 | correlationone | [Lead Instructor: Machine Learning Data Associate](https://job-boards.greenhouse.io/correlationone/jobs/5799850004) | Remote: EMEA | greenhouse |
-| 2026-03-31 | accenturefederalservices | [Data Engineering Lead (Onsite - San Antonio, TX)](https://boards.greenhouse.io/accenturefederalservices/jobs/4665926006?gh_jid=4665926006) | San Antonio, TX | greenhouse |
-| 2026-03-31 | gympass | [Data Analytics Manager](https://job-boards.greenhouse.io/gympass/jobs/8392610002) | Brazil (Remote) | greenhouse |
 
 Page 2/2 | [Prev](jobs_page_1.md)
 

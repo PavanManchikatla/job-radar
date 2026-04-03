@@ -5985,7 +5985,6 @@ vpawv	no_matching_jobs
 airnorth	no_matching_jobs
 pontera	no_matching_jobs
 desktopmetal	http_404
-shift4	no_matching_jobs
 togetherwork	no_matching_jobs
 noredink	no_matching_jobs
 lazarusenterprises	no_jobs
@@ -8224,7 +8223,6 @@ digitalhands	no_matching_jobs
 oneacrefundtanzania	no_matching_jobs
 kasisto	no_matching_jobs
 checkbook	no_matching_jobs
-sharebite	no_matching_jobs
 cloudbees	http_404
 getwellnetwork	no_matching_jobs
 zenithhealth	no_matching_jobs
