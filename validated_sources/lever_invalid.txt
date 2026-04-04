@@ -9667,7 +9667,6 @@ ivo	no_matching_jobs
 ispace-inc	no_matching_jobs
 iru	no_matching_jobs
 januaryinc	no_matching_jobs
-jamcity	no_matching_jobs
 jetbridge	http_404
 innovativesol-2	no_matching_jobs
 inpay-2	no_matching_jobs
