@@ -1,8 +1,11 @@
-sandisk
 servicenow
 coherusbiosciences
 evolutioniq
 modernloop
 shaped
 kombo
-canva
+activehours
+evidation
+m1finance
+startuptap
+zipongo
