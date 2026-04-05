@@ -155,3 +155,4 @@ unstructuredtechnologies
 wavicledata
 wellfit
 wisdomtree
+tala

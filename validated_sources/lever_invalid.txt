@@ -10020,7 +10020,6 @@ tahoebio-ai	no_matching_jobs
 soniresources	no_matching_jobs
 talentneuron	http_404
 talentus	http_404
-tala	no_matching_jobs
 talkiatry	no_jobs
 teleport	no_jobs
 supernovacompanies	no_matching_jobs
