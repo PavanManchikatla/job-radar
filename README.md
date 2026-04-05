@@ -1,7 +1,7 @@
 ## Jobs Feed (auto-updated)
 
 <!-- JOBS:START -->
-_Last updated: 2026-04-04 21:49 CDT_
+_Last updated: 2026-04-05 01:10 CDT_
 
 | Posted | Company | Title | Location | Source |
 |---|---|---|---|---|
@@ -326,8 +326,4 @@ _Last updated: 2026-04-04 21:49 CDT_
 | 2026-04-02 | monzo | [Machine Learning Manager, Borrowing](https://job-boards.greenhouse.io/monzo/jobs/7766052) | Cardiff, London or Remote (UK) | greenhouse |
 | 2026-04-02 | innovecs | [Machine Learning Team Lead](https://jobs.innovecs.com/vacancies?gh_jid=8489542002) | Ukraine, Poland, Romania, Spain, Remote | greenhouse |
 | 2026-04-02 | monzo | [Platform Engineer, Machine Learning](https://job-boards.greenhouse.io/monzo/jobs/7118972) | Cardiff, London or Remote (UK); London | greenhouse |
-| 2026-04-02 | Onton.com | [Fullstack & Research Engineers](https://news.ycombinator.com/item?id=47609962) | San Francisco, CA, Hybrid Join us in pioneering the future of e-commerce search. Growing rapidly. We're a hard-working team of 10. We have an office in Jackson Square with a great view that we're looking to fill with other high-performance people! Tech-wise, it's React/Typescript + Julia, if that's interesting (no worries if you haven't used it). We've also built our own graph and vector DB to cope with the scale, and the foundations of a neuro-symbolic AI agent that learns more about the world on every search! Job posting and more information here → https://onton.com/careers We read and respond to every application. | hn_hiring |
-| 2026-04-02 | haizelabs | [Research Engineer](https://job-boards.greenhouse.io/haizelabs/jobs/4070038008) | New York, NY | greenhouse |
-| 2026-04-02 | afresh | [Data Engineering Manager](https://job-boards.greenhouse.io/afresh/jobs/5843891004) | Remote - U.S. | greenhouse |
-| 2026-04-02 | acuitymd | [Director or VP of Data Engineering](https://job-boards.greenhouse.io/acuitymd/jobs/5753747004) | Boston or Remote | greenhouse |
 <!-- JOBS:END -->
