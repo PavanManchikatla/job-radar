@@ -1,11 +1,17 @@
 # Jobs Feed (Page 1/1)
 
-_Last updated: 2026-04-06 01:36 CDT_
+_Last updated: 2026-04-06 04:45 CDT_
 
 | Posted | Company | Title | Location | Source |
 |---|---|---|---|---|
-| 2026-04-06 | purestorage | [Applied AI Engineer](https://job-boards.greenhouse.io/purestorage/jobs/7644129) | Remote, United States | greenhouse |
+| 2026-04-06 | pandadoc | [Staff GTM Data Scientist](https://job-boards.greenhouse.io/pandadoc/jobs/7474848) | Europe (Remote) | greenhouse |
+| 2026-04-06 | pandadoc | [Staff GTM Data Scientist](https://job-boards.greenhouse.io/pandadoc/jobs/7472183) | Remote (Portugal) | greenhouse |
+| 2026-04-06 | pandadoc | [Staff GTM Data Scientist](https://job-boards.greenhouse.io/pandadoc/jobs/7483765) | Remote (USA) | greenhouse |
+| 2026-04-06 | biohub | [Data Engineer](https://job-boards.greenhouse.io/biohub/jobs/7767734) | New York, NY (Hybrid); Redwood City, CA (Hybrid) | greenhouse |
+| 2026-04-06 | klaviyo | [Senior Software Engineer - Analytics Data Engineering](https://www.klaviyo.com/careers/jobs?gh_jid=7564587003) | Boston, MA | greenhouse |
+| 2026-04-06 | biohub | [Staff Software Engineer - AI Clusters Production Engineering & SRE](https://job-boards.greenhouse.io/biohub/jobs/7775820) | Redwood City, CA (Hybrid) | greenhouse |
 | 2026-04-06 | verisign | [Sr Research Engineer](https://job-boards.greenhouse.io/verisign/jobs/7636398003) | Reston,Virginia,United States | greenhouse |
+| 2026-04-06 | purestorage | [Applied AI Engineer](https://job-boards.greenhouse.io/purestorage/jobs/7644129) | Remote, United States | greenhouse |
 | 2026-04-06 | coreweave | [AI Engineer- Gen AI/SWE- Weights & Biases](https://coreweave.com/careers/job?4602115006&board=coreweave&gh_jid=4602115006) | Livingston, NJ / New York, NY / San Francisco, CA / Sunnyvale, CA / Bellevue, WA / Remove - US | greenhouse |
 | 2026-04-05 | bti36021 | [Data Scientist - Polygraph Required](https://job-boards.greenhouse.io/bti36021/jobs/7571993) | Herndon, VA & Chantilly, VA | greenhouse |
 | 2026-04-05 | bti36021 | [Databricks Data Engineer - Clearance Required](https://job-boards.greenhouse.io/bti36021/jobs/7376087) | Herndon,VA | greenhouse |
@@ -13,7 +19,6 @@ _Last updated: 2026-04-06 01:36 CDT_
 | 2026-04-05 | instacart | [Senior Data Scientist II - AI for Analytics](https://instacart.careers/job/?gh_jid=7779561) | United States - Remote | greenhouse |
 | 2026-04-05 | reddit | [Staff Research Engineer, Pre-training Science](https://job-boards.greenhouse.io/reddit/jobs/7554999) | Remote - United States | greenhouse |
 | 2026-04-05 | babylist | [Senior Engineering Manager, Machine Learning](https://job-boards.greenhouse.io/babylist/jobs/5815353004) | United States and Canada | greenhouse |
-| 2026-04-05 | tala | [Analytics Engineer II](https://jobs.lever.co/tala/5fe27251-ae2d-4581-a444-57c62846ecc1) | India - Remote | lever |
 | 2026-04-04 | machinifyinc | [Staff Data Scientist \| Analytics](https://job-boards.greenhouse.io/machinifyinc/jobs/4185395009) | Remote - US | greenhouse |
 | 2026-04-04 | machinifyinc | [Staff Data Scientist \| Modeling](https://job-boards.greenhouse.io/machinifyinc/jobs/4146866009) | Remote - US | greenhouse |
 | 2026-04-04 | icapitalnetwork | [Analytics & Business Intelligence - Assistant Vice President](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8390713002) | Salt Lake City, Utah, United States | greenhouse |
@@ -208,15 +213,5 @@ _Last updated: 2026-04-06 01:36 CDT_
 | 2026-04-03 | monzo | [Senior Analytics Engineering Manager](https://job-boards.greenhouse.io/monzo/jobs/7775035) | Cardiff, London or Remote (UK) | greenhouse |
 | 2026-04-03 | mariadbplc | [Senior Data Analytics Engineer](https://job-boards.eu.greenhouse.io/mariadbplc/jobs/4806337101) | Remote - Bulgaria | greenhouse |
 | 2026-04-03 | xapo61 | [Data Analyst (Remote - Work from Anywhere)](https://job-boards.greenhouse.io/xapo61/jobs/7616977003) | Remote - From Anywhere | greenhouse |
-| 2026-04-03 | simplepractice55 | [Senior Data Analyst, Early Onboarding & Engagement](https://www.simplepractice.com/careers/roles/5837302004?gh_jid=5837302004) | United States | greenhouse |
-| 2026-04-03 | simplepractice55 | [Senior Machine Learning Engineer, Applied AI](https://www.simplepractice.com/careers/roles/5598815004?gh_jid=5598815004) | United States | greenhouse |
-| 2026-04-03 | simplepractice55 | [Senior Data Analyst](https://www.simplepractice.com/careers/roles/5594713004?gh_jid=5594713004) | United States | greenhouse |
-| 2026-04-03 | simplepractice55 | [Senior Data Engineer](https://www.simplepractice.com/careers/roles/5598124004?gh_jid=5598124004) | United States | greenhouse |
-| 2026-04-03 | robinhood | [Staff Machine Learning Engineer, Agentic](https://boards.greenhouse.io/robinhood/jobs/7676714?t=gh_src=&gh_jid=7676714) | Bellevue, WA; Menlo Park, CA | greenhouse |
-| 2026-04-03 | robinhood | [Senior Data Scientist, ML (Incentives)](https://boards.greenhouse.io/robinhood/jobs/7596426?t=gh_src=&gh_jid=7596426) | Menlo Park, CA | greenhouse |
-| 2026-04-03 | robinhood | [Senior Data Scientist, Fraud](https://boards.greenhouse.io/robinhood/jobs/7412037?t=gh_src=&gh_jid=7412037) | Menlo Park, CA | greenhouse |
-| 2026-04-03 | robinhood | [Senior Machine Learning Engineer, Agentic](https://boards.greenhouse.io/robinhood/jobs/7121213?t=gh_src=&gh_jid=7121213) | Bellevue, WA; Menlo Park, CA | greenhouse |
-| 2026-04-03 | coinbase | [Staff Machine Learning Engineer - Platform (Core AI Automation)](https://www.coinbase.com/careers/positions/7648987?gh_jid=7648987) | Remote - USA | greenhouse |
-| 2026-04-03 | klaviyo | [Senior AI Engineer](https://www.klaviyo.com/careers/jobs?gh_jid=7668048003) | Boston, MA | greenhouse |
 
 [Back to README](../../README.md)
