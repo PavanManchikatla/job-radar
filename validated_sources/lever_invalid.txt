@@ -17815,7 +17815,6 @@ springfreeev	no_matching_jobs
 sprintfwd	http_404
 springhealth	http_404
 spruce	http_404
-solarlandscape	no_matching_jobs
 sprucestreetcomp	no_matching_jobs
 slang	http_404
 snowfork	http_404

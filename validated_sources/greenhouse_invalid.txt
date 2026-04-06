@@ -8548,7 +8548,6 @@ kronosresearch	no_matching_jobs
 plume	no_matching_jobs
 novoed	no_matching_jobs
 recursionpharmaceuticals	no_matching_jobs
-outschool	no_matching_jobs
 irely	no_matching_jobs
 sevenroomsuae	no_jobs
 oneproject	no_matching_jobs

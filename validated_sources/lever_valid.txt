@@ -156,3 +156,4 @@ wavicledata
 wellfit
 wisdomtree
 tala
+solarlandscape
