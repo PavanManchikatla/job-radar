@@ -5544,7 +5544,6 @@ usenourish	no_matching_jobs
 wildlifestudios	no_matching_jobs
 gsgcareers	no_jobs
 horizenlabs	no_jobs
-woolpert	no_matching_jobs
 meritamerica	no_matching_jobs
 gwkinvestmentmanagementllc	no_matching_jobs
 solmentalhealth	no_matching_jobs
@@ -6620,7 +6619,6 @@ deepscribe	http_404
 tekion	no_matching_jobs
 tds	no_matching_jobs
 solarisbank	no_jobs
-datakindinc	no_matching_jobs
 ampsortation	no_matching_jobs
 pelago	no_matching_jobs
 waltzhealth	no_matching_jobs
@@ -7123,7 +7121,6 @@ searchdiscovery	http_404
 axicom	no_matching_jobs
 unlimitedtechnology	no_matching_jobs
 americannational	http_404
-banyansoftware	no_matching_jobs
 willowinnovations	no_matching_jobs
 himarley	no_matching_jobs
 altium	no_matching_jobs
@@ -7612,7 +7609,6 @@ ridedott-ground-roles	http_404
 successacademycharterschool	no_matching_jobs
 logiwacareers	no_matching_jobs
 tangogameworks	no_matching_jobs
-freshprints	no_matching_jobs
 cellanome	no_matching_jobs
 buildingdecarbonizationcoalition	no_matching_jobs
 2kmadrid	no_matching_jobs
