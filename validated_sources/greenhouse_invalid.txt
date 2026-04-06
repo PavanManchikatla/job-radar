@@ -6627,7 +6627,6 @@ waltzhealth	no_matching_jobs
 acumen	no_matching_jobs
 forthealth	http_404
 thejewishfederationsofnorthamerica	no_matching_jobs
-cadencesolutions	no_matching_jobs
 cloudagronomics	http_404
 pantheon	no_matching_jobs
 integralmolecular	no_matching_jobs
