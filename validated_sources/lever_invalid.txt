@@ -9353,7 +9353,6 @@ kovitz	http_404
 altaml	no_matching_jobs
 ableserve	no_matching_jobs
 ampeco-global	no_matching_jobs
-anavationllc	no_matching_jobs
 alertus	no_matching_jobs
 animocabrands	no_matching_jobs
 anovium	http_404
@@ -9526,7 +9525,6 @@ dioxycle	http_404
 cprime	no_matching_jobs
 curri	no_jobs
 distru	no_matching_jobs
-disqo	no_matching_jobs
 djeholdings	no_jobs
 deleteme	no_matching_jobs
 dialogdesign	no_matching_jobs

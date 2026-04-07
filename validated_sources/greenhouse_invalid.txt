@@ -53,7 +53,6 @@ outreach	http_404
 apollo.io	http_404
 clearbit	http_404
 gong	http_404
-salesloft	no_matching_jobs
 demandbase	http_404
 qualified	http_404
 groove	http_404
@@ -5603,7 +5602,6 @@ tutorme	no_jobs
 oasisnetwork	http_404
 authenticbrandsgroup	no_matching_jobs
 quisitivejobs	no_matching_jobs
-cerebrassystems	no_matching_jobs
 lucanetgroup	no_matching_jobs
 penninteractive	no_matching_jobs
 coursemojo	no_jobs
@@ -8314,7 +8312,6 @@ durable	no_matching_jobs
 zenjob	http_404
 donorbox	no_matching_jobs
 lodestarspace	no_matching_jobs
-education	no_matching_jobs
 valtechgreenhouse	no_jobs
 craevents	no_jobs
 colehourcoheninc	no_matching_jobs
