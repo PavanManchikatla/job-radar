@@ -1,10 +1,11 @@
 ## Jobs Feed (auto-updated)
 
 <!-- JOBS:START -->
-_Last updated: 2026-04-06 21:50 CDT_
+_Last updated: 2026-04-07 01:24 CDT_
 
 | Posted | Company | Title | Location | Source |
 |---|---|---|---|---|
+| 2026-04-07 | hextechnologies | [AI Research Engineer, Search and Context](https://hex.tech/careers/5744112004/?gh_jid=5744112004) | SF, NYC, or Remote (USA) | greenhouse |
 | 2026-04-07 | verisign | [Sr Research Engineer](https://job-boards.greenhouse.io/verisign/jobs/7636398003) | Reston,Virginia,United States | greenhouse |
 | 2026-04-07 | checkr | [Staff Applied AI Engineer](https://job-boards.greenhouse.io/checkr/jobs/7779296) | San Francisco, California, United States | greenhouse |
 | 2026-04-07 | chime | [Data Analyst, Financial Crimes & Identity](https://boards.greenhouse.io/chime/jobs/8485895002?gh_jid=8485895002) | Chicago, IL, USA; San Francisco, CA, USA | greenhouse |
@@ -183,5 +184,4 @@ _Last updated: 2026-04-06 21:50 CDT_
 | 2026-04-04 | machinifyinc | [Staff Data Scientist \| Fraud / Billing](https://job-boards.greenhouse.io/machinifyinc/jobs/4146869009) | Remote - US | greenhouse |
 | 2026-04-04 | klaviyo | [AI Engineer II](https://www.klaviyo.com/careers/jobs?gh_jid=7668049003) | Boston, MA | greenhouse |
 | 2026-04-04 | klaviyo | [Senior AI Engineer](https://www.klaviyo.com/careers/jobs?gh_jid=7502768003) | Boston, MA | greenhouse |
-| 2026-04-04 | klaviyo | [Senior AI Engineer, ARIA Team](https://www.klaviyo.com/careers/jobs?gh_jid=7688489003) | Boston, MA | greenhouse |
 <!-- JOBS:END -->
