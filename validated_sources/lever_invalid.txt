@@ -15886,7 +15886,6 @@ bai-inc	exception
 codeway	no_matching_jobs
 cocollective	no_matching_jobs
 coinshift	http_404
-certifid	no_matching_jobs
 coinsquare	http_404
 clozd	http_404
 coil	http_404

@@ -5176,7 +5176,6 @@ l5	http_404
 buildops	no_matching_jobs
 grovecollaborative	no_matching_jobs
 understoodcare	no_matching_jobs
-mavenclinic	no_matching_jobs
 districtofcolumbiainternationalschool	no_matching_jobs
 tcgcapital	http_404
 xometryturkey	no_matching_jobs
@@ -7330,7 +7329,6 @@ galvanizeclimatesolutions	no_matching_jobs
 neuehealth	no_matching_jobs
 arise	http_404
 scsfinancial	no_matching_jobs
-crescolabs	no_matching_jobs
 carerev	no_matching_jobs
 spauldingridge	no_matching_jobs
 dualityroboticsinc	http_404
@@ -7548,7 +7546,6 @@ preciselyusjobs	no_matching_jobs
 glooko	no_matching_jobs
 tracelinkinc	no_matching_jobs
 veza	no_matching_jobs
-wayvia	no_matching_jobs
 quince	no_matching_jobs
 blockchain	no_matching_jobs
 prisma6	no_matching_jobs
@@ -7686,7 +7683,6 @@ tdg	no_matching_jobs
 powerdot	no_matching_jobs
 skylighthq	no_matching_jobs
 origisenergytechs	no_matching_jobs
-fidelityguarantylife	no_matching_jobs
 wizardsofthecoast	http_404
 fwdus	no_matching_jobs
 wurljobs	no_matching_jobs
@@ -12306,7 +12302,6 @@ csw	no_matching_jobs
 edgile	http_404
 edmond	http_404
 educators	http_404
-edo	no_matching_jobs
 edx	http_404
 edxbootcamps	no_jobs
 effectiveschoolsolutions	no_matching_jobs
