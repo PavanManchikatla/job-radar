@@ -788,3 +788,5 @@ crescolabs
 wayvia
 fidelityguarantylife
 edo
+fairlife
+kodiaksolutions

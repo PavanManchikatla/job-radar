@@ -5006,7 +5006,6 @@ d2l	no_matching_jobs
 sonobello	no_matching_jobs
 edgeandnode	http_404
 adelphigraduatecareers	no_matching_jobs
-fairlife	no_matching_jobs
 hashgraph	no_matching_jobs
 qcentrix	no_matching_jobs
 andesite	no_matching_jobs
@@ -12954,7 +12953,6 @@ knotstandard	http_404
 knack	no_matching_jobs
 kodiakcakes	http_404
 knoetic	http_404
-kodiaksolutions	no_matching_jobs
 kojotechnologies	http_404
 koho	http_404
 koko	no_matching_jobs
