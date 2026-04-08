@@ -7450,7 +7450,6 @@ brightcove	http_404
 goodr	no_matching_jobs
 braintrust	http_404
 butternutbox	no_matching_jobs
-thoughtworksreferral	no_matching_jobs
 rootstocklabsltd	no_matching_jobs
 hover	no_matching_jobs
 archer56	no_matching_jobs

@@ -9769,7 +9769,6 @@ knix	no_matching_jobs
 musixmatch	no_matching_jobs
 muttdata	no_matching_jobs
 narmi	no_jobs
-myollie	no_matching_jobs
 mytos	no_matching_jobs
 nekohealth	no_jobs
 mujininc	no_matching_jobs
