@@ -5031,7 +5031,6 @@ rubiconcarbon	no_matching_jobs
 aquia	no_matching_jobs
 mavensecuritiesholdingltd	no_matching_jobs
 thequalitygroupgmbh1	no_matching_jobs
-apptronik	no_matching_jobs
 americanmarketingassociation	no_matching_jobs
 blocpower	http_404
 invitae	http_404
@@ -6274,7 +6273,6 @@ harnessinc	no_matching_jobs
 bitreactor	no_jobs
 twinhealth	no_matching_jobs
 nucleus	no_matching_jobs
-selffinancial	no_matching_jobs
 equalexperts	no_matching_jobs
 applytoprecedent	no_matching_jobs
 cirkul	no_matching_jobs
@@ -6765,7 +6763,6 @@ knab	no_matching_jobs
 blockstream	http_404
 appnovation	no_matching_jobs
 eigerjobs	no_matching_jobs
-honor	no_matching_jobs
 broadwayventures	no_matching_jobs
 aura798	no_matching_jobs
 nurdie	no_matching_jobs
@@ -7126,7 +7123,6 @@ firaxis	no_matching_jobs
 flip	no_matching_jobs
 turingportal	http_404
 minthouse	no_jobs
-attune	no_matching_jobs
 ogilvyhealthcanada	no_matching_jobs
 tide	no_matching_jobs
 aralezbio	no_matching_jobs
@@ -7703,7 +7699,6 @@ sbusa	no_matching_jobs
 ginkgobioworks	no_matching_jobs
 ashfieldmedcomms	no_matching_jobs
 formic	no_matching_jobs
-cribl	no_matching_jobs
 jabrahearing	http_404
 tacobell	http_404
 climatefinancesolutions	no_matching_jobs
@@ -8363,7 +8358,6 @@ canvasconstruction	http_404
 synacksrt	no_matching_jobs
 alloy	no_matching_jobs
 onelocal	http_404
-peregrinetechnologies	no_matching_jobs
 calibratecareers	http_404
 nycedc	no_matching_jobs
 sixthstreet	no_matching_jobs
@@ -11896,7 +11890,6 @@ cardlytics	http_404
 cardinalcommerce	http_404
 carebridgehealth	http_404
 carecom	no_matching_jobs
-careaccess	no_matching_jobs
 careervillage	no_matching_jobs
 careersday	no_matching_jobs
 carmera	http_404
