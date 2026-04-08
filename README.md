@@ -1,12 +1,25 @@
 ## Jobs Feed (auto-updated)
 
 <!-- JOBS:START -->
-_Last updated: 2026-04-07 21:51 CDT_
+_Last updated: 2026-04-08 01:24 CDT_
 
 | Posted | Company | Title | Location | Source |
 |---|---|---|---|---|
-| 2026-04-08 | apptronik | [Principal Software Engineer - AI and Simulation](https://boards.greenhouse.io/apptronik/jobs/5848437004?gh_jid=5848437004) | Sunnyvale, CA | greenhouse |
+| 2026-04-08 | globalizationpartners | [Sr.EM Data Engineering](https://job-boards.greenhouse.io/globalizationpartners/jobs/7692014003) | India (Remote-First) | greenhouse |
+| 2026-04-08 | chime | [Data Analyst, Financial Crimes & Identity](https://boards.greenhouse.io/chime/jobs/8485895002?gh_jid=8485895002) | Chicago, IL, USA; San Francisco, CA, USA | greenhouse |
+| 2026-04-08 | chime | [Lead Data Analyst, Growth Science](https://boards.greenhouse.io/chime/jobs/8462910002?gh_jid=8462910002) | New York, NY, USA; San Francisco, CA, USA; Seattle, WA, USA | greenhouse |
+| 2026-04-08 | chime | [Lead Data Analyst](https://boards.greenhouse.io/chime/jobs/8403069002?gh_jid=8403069002) | San Francisco, CA, USA | greenhouse |
+| 2026-04-08 | chime | [Staff Data Analyst](https://boards.greenhouse.io/chime/jobs/8403065002?gh_jid=8403065002) | San Francisco, CA, USA | greenhouse |
+| 2026-04-08 | klaviyo | [Senior Business Intelligence Analyst](https://www.klaviyo.com/careers/jobs?gh_jid=7682122003) | Boston, MA | greenhouse |
+| 2026-04-08 | thumbtack | [Commercial Ops Analyst (Data Analyst)](https://job-boards.greenhouse.io/thumbtack/jobs/7610880) | Remote, Philippines | greenhouse |
+| 2026-04-08 | biohub | [Research Scientist](https://job-boards.greenhouse.io/biohub/jobs/7747518) | New York, NY (Hybrid); Redwood City, CA (Hybrid) | greenhouse |
+| 2026-04-08 | biohub | [Research Engineer](https://job-boards.greenhouse.io/biohub/jobs/7747517) | New York, NY (Hybrid); Redwood City, CA (Hybrid) | greenhouse |
+| 2026-04-08 | biohub | [Machine Learning Engineer](https://job-boards.greenhouse.io/biohub/jobs/7747522) | New York, NY (Hybrid); Redwood City, CA (Hybrid) | greenhouse |
 | 2026-04-08 | verisign | [Sr Research Engineer](https://job-boards.greenhouse.io/verisign/jobs/7636398003) | Reston,Virginia,United States | greenhouse |
+| 2026-04-08 | redapt | [AI/ML Engineer](https://job-boards.greenhouse.io/redapt/jobs/5154069008) | Woodinville, Washington, United States | greenhouse |
+| 2026-04-08 | precisionaq | [AI/ML Engineer II](https://job-boards.greenhouse.io/precisionaq/jobs/5850685004) | Remote, India | greenhouse |
+| 2026-04-08 | precisionmedicinegroup | [AI/ML Engineer II](https://job-boards.greenhouse.io/precisionmedicinegroup/jobs/5850683004) | Remote, India | greenhouse |
+| 2026-04-08 | apptronik | [Principal Software Engineer - AI and Simulation](https://boards.greenhouse.io/apptronik/jobs/5848437004?gh_jid=5848437004) | Sunnyvale, CA | greenhouse |
 | 2026-04-08 | samsungresearchamerica | [Principal Research Scientist, Vision Intelligence](https://job-boards.greenhouse.io/samsungresearchamerica/jobs/8484054002) | 665 Clyde Avenue, Mountain View,  CA, USA | greenhouse |
 | 2026-04-08 | freeformfuturecorp | [Principal Machine Learning Researcher (Physical AI)](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7692962003) | Los Angeles, CA (On-site) | greenhouse |
 | 2026-04-07 | peregrinetechnologies | [Manager, BI + Analytics Engineer](https://job-boards.greenhouse.io/peregrinetechnologies/jobs/4682486005) | San Francisco, CA | greenhouse |
@@ -142,7 +155,6 @@ _Last updated: 2026-04-07 21:51 CDT_
 | 2026-04-07 | zocdoc | [Staff Data Scientist, Marketplace](https://job-boards.greenhouse.io/zocdoc/jobs/7560841) | New York, NY | greenhouse |
 | 2026-04-07 | abovelending | [Senior Data Engineer](https://jobs.lever.co/abovelending/760ad8a9-082c-4b89-a07d-3fac7a2b8c03) | Chicago, IL | lever |
 | 2026-04-07 | twilio | [Staff Machine Learning Engineer (L4)](https://job-boards.greenhouse.io/twilio/jobs/7520997) | Remote - India | greenhouse |
-| 2026-04-07 | klaviyo | [Senior Business Intelligence Analyst](https://www.klaviyo.com/careers/jobs?gh_jid=7682122003) | Boston, MA | greenhouse |
 | 2026-04-07 | formationbio | [Principal Data Scientist](https://job-boards.greenhouse.io/formationbio/jobs/7785412) | New York, NY; Boston, MA | greenhouse |
 | 2026-04-07 | kalepa | [Senior Applied AI Engineer (Europe)](https://job-boards.greenhouse.io/kalepa/jobs/4076556004) | Europe (Full Remote) | greenhouse |
 | 2026-04-07 | coreweave | [(Senior) Engineering Manager, Data Engineering](https://coreweave.com/careers/job?4629116006&board=coreweave&gh_jid=4629116006) | Bellevue, WA/Sunnyvale, CA/New York, NY/Livingston, NJ | greenhouse |
@@ -180,7 +192,6 @@ _Last updated: 2026-04-07 21:51 CDT_
 | 2026-04-07 | phdata | [Data Engineer](https://www.phdata.io/jobs?gh_jid=7734047) | India - Remote | greenhouse |
 | 2026-04-07 | hextechnologies | [AI Research Engineer, Search and Context](https://hex.tech/careers/5744112004/?gh_jid=5744112004) | SF, NYC, or Remote (USA) | greenhouse |
 | 2026-04-07 | checkr | [Staff Applied AI Engineer](https://job-boards.greenhouse.io/checkr/jobs/7779296) | San Francisco, California, United States | greenhouse |
-| 2026-04-07 | chime | [Data Analyst, Financial Crimes & Identity](https://boards.greenhouse.io/chime/jobs/8485895002?gh_jid=8485895002) | Chicago, IL, USA; San Francisco, CA, USA | greenhouse |
 | 2026-04-07 | coinbase | [Senior Analytics Engineer (Platform - Financial Analytics)](https://www.coinbase.com/careers/positions/7736521?gh_jid=7736521) | Remote - USA | greenhouse |
 | 2026-04-07 | HHAeXchange | [Fraud Waste and Abuse Data Analyst](https://remoteOK.com/remote-jobs/remote-fraud-waste-and-abuse-data-analyst-hhaexchange-1131012) | United States | remoteok |
 | 2026-04-06 | reddit | [Staff Machine Learning Engineer, Dev Platform Data and Discovery](https://job-boards.greenhouse.io/reddit/jobs/7377109) | Remote - United States | greenhouse |

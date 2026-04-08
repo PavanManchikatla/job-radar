@@ -7681,7 +7681,6 @@ origisenergytechs	no_matching_jobs
 wizardsofthecoast	http_404
 fwdus	no_matching_jobs
 wurljobs	no_matching_jobs
-globalizationpartners	no_matching_jobs
 imubit	no_matching_jobs
 spacekinetic	no_matching_jobs
 cobre	no_matching_jobs
