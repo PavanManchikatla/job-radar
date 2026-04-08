@@ -5580,7 +5580,6 @@ aerospike	no_matching_jobs
 pomelocare	no_matching_jobs
 liveperson	no_matching_jobs
 changedotorgsourcing	http_404
-movableink	no_matching_jobs
 terniumrevenuecyclemanagement	no_matching_jobs
 apr	no_matching_jobs
 greenthumbindustries	no_matching_jobs
@@ -6450,7 +6449,6 @@ leveltenenergy	no_matching_jobs
 pacvue	no_matching_jobs
 aizerhealth	no_matching_jobs
 bitpanda	no_matching_jobs
-appliedintuition	no_matching_jobs
 onrunning	no_matching_jobs
 plushcare	http_404
 ripplcare	no_jobs

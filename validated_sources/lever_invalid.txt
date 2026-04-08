@@ -9463,7 +9463,6 @@ catalist	no_matching_jobs
 capital	no_matching_jobs
 chefrobotics	http_404
 capricor	no_matching_jobs
-cents	no_matching_jobs
 certifyos	no_matching_jobs
 cherre	no_matching_jobs
 cin7	no_matching_jobs
