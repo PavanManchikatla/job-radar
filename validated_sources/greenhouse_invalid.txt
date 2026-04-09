@@ -5011,7 +5011,6 @@ octanelending	no_matching_jobs
 ohsufoundation	no_jobs
 ukmed	no_matching_jobs
 retool	http_404
-polyai	no_matching_jobs
 cutover	no_matching_jobs
 bruntworkwear	no_matching_jobs
 fanduel	no_matching_jobs
@@ -5069,7 +5068,6 @@ forgeglobal	no_matching_jobs
 seam	no_matching_jobs
 forthea	no_matching_jobs
 scrollio	http_404
-hackerrank	no_matching_jobs
 reflexionmedical	no_jobs
 vimeo	http_404
 nitricity	no_matching_jobs
