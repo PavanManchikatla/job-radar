@@ -9827,7 +9827,6 @@ pibenchmark	no_matching_jobs
 picktrace	no_matching_jobs
 pioneer-services	no_matching_jobs
 people-ai	no_matching_jobs
-penumbrainc	no_matching_jobs
 jobgether	exception
 pivotenergy	no_matching_jobs
 placeshowroom	http_404
@@ -15657,7 +15656,6 @@ blendlabs	http_404
 blockspring	http_404
 blockstack	http_404
 blockswap	http_404
-beta	no_matching_jobs
 blox-route	no_jobs
 aldar	no_matching_jobs
 bloomcredit	http_404
@@ -15706,7 +15704,6 @@ arkbiotech	http_404
 brainchildbio	no_matching_jobs
 braveventurelabs	http_404
 brand-knew	no_matching_jobs
-bounteous	no_matching_jobs
 brazoderecho	http_404
 brewbike	http_404
 bound	http_404

@@ -5671,7 +5671,6 @@ quorum	http_404
 altruist	no_matching_jobs
 marscousg	no_matching_jobs
 audibenehearcom	no_matching_jobs
-future	no_matching_jobs
 foundationriskpartners	no_matching_jobs
 adeedo	no_matching_jobs
 huddleup	no_matching_jobs
@@ -6255,7 +6254,6 @@ givedirectly	no_matching_jobs
 gelfandrennertfeldman	no_matching_jobs
 tecovas	no_matching_jobs
 cordance	no_matching_jobs
-silananotechnologies	no_matching_jobs
 stokespacetechnologies	no_matching_jobs
 ixllearning	no_matching_jobs
 leagueapps	no_matching_jobs
