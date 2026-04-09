@@ -5862,7 +5862,6 @@ vscfiresecurityinc	no_matching_jobs
 truloveorthodontics	no_matching_jobs
 dremio	no_matching_jobs
 guidewheel	no_matching_jobs
-axios	no_matching_jobs
 samsungnext	no_matching_jobs
 bardelentertainment	http_404
 mgproperties	no_matching_jobs
@@ -6604,7 +6603,6 @@ tekion	no_matching_jobs
 tds	no_matching_jobs
 solarisbank	no_jobs
 ampsortation	no_matching_jobs
-pelago	no_matching_jobs
 waltzhealth	no_matching_jobs
 acumen	no_matching_jobs
 forthealth	http_404
@@ -7463,7 +7461,6 @@ hometap	no_matching_jobs
 universalhydrogen	http_404
 sirum	no_matching_jobs
 suitsupply	no_matching_jobs
-atariinc	no_matching_jobs
 yugalabs	http_404
 dayonebiopharmaceuticals	no_matching_jobs
 iovino	no_matching_jobs
@@ -8604,7 +8601,6 @@ pixability	no_matching_jobs
 skillsoft	no_matching_jobs
 leddartech	http_404
 headoutlinkedin	no_matching_jobs
-kunai	no_matching_jobs
 bedrockrobotics	no_jobs
 acommerce	no_matching_jobs
 hyperfine53	no_matching_jobs
