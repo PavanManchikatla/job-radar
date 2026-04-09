@@ -1,15 +1,18 @@
 ## Jobs Feed (auto-updated)
 
 <!-- JOBS:START -->
-_Last updated: 2026-04-09 01:27 CDT_
+_Last updated: 2026-04-09 04:45 CDT_
 
 | Posted | Company | Title | Location | Source |
 |---|---|---|---|---|
+| 2026-04-09 | oneacrefund | [Data Analyst and Salesforce Administrator](https://oneacrefund.org/vacancies/?gh_jid=7794307) | New York, United States of America | greenhouse |
+| 2026-04-09 | precisionmedicinegroup | [Senior Clinical Data Engineer (LATAM)](https://job-boards.greenhouse.io/precisionmedicinegroup/jobs/5808918004) | Remote, Argentina; Remote, Brazil; Remote, Chile; Remote, Colombia; Remote, Mexico; Remote, Peru | greenhouse |
+| 2026-04-09 | verisign | [Sr Research Engineer](https://job-boards.greenhouse.io/verisign/jobs/7636398003) | Reston,Virginia,United States | greenhouse |
+| 2026-04-09 | reddit | [Staff Machine Learning Engineer, Consumer](https://job-boards.greenhouse.io/reddit/jobs/7747244) | Remote - United States | greenhouse |
 | 2026-04-09 | selffinancial | [Staff Credit Data Analyst - Cards](https://job-boards.greenhouse.io/selffinancial/jobs/5857648004) | Austin, Remote | greenhouse |
 | 2026-04-09 | 10alabs | [Machine Learning Engineer](https://job-boards.greenhouse.io/10alabs/jobs/4000907009) | New York, NY | greenhouse |
 | 2026-04-09 | pindropsecurity | [Research Scientist (Deepfake Video)](https://www.pindrop.com/careers/job-title/?gh_jid=7532208) | US - Remote | greenhouse |
 | 2026-04-09 | hginsights | [Senior Director, Data Engineering](https://hginsights.com/hg-insights-careers/current-opportunities/?gh_jid=7686084003) | Remote (US) | greenhouse |
-| 2026-04-09 | verisign | [Sr Research Engineer](https://job-boards.greenhouse.io/verisign/jobs/7636398003) | Reston,Virginia,United States | greenhouse |
 | 2026-04-09 | waymo | [Applied Research Scientist, 3D Object Detection  (PhD New Grad)](https://careers.withwaymo.com/jobs?gh_jid=7467839) | Mountain View, CA USA;  San Francisco, CA USA; | greenhouse |
 | 2026-04-09 | waymo | [Applied Research Scientist, Perception LLM/VLM (PhD, New Grad)](https://careers.withwaymo.com/jobs?gh_jid=7488508) | Mountain View, CA USA;  San Francisco, CA USA; | greenhouse |
 | 2026-04-09 | waymo | [Business Intelligence Analyst](https://careers.withwaymo.com/jobs?gh_jid=7569449) | Mountain View, CA, US; San Francisco, CA, US | greenhouse |
@@ -114,7 +117,6 @@ _Last updated: 2026-04-09 01:27 CDT_
 | 2026-04-08 | precisionaq | [AI/ML Engineer II](https://job-boards.greenhouse.io/precisionaq/jobs/5850685004) | Remote, India | greenhouse |
 | 2026-04-08 | precisionmedicinegroup | [AI Engineer](https://job-boards.greenhouse.io/precisionmedicinegroup/jobs/5769763004) | Remote, United States | greenhouse |
 | 2026-04-08 | precisionmedicinegroup | [AI/ML Engineer II](https://job-boards.greenhouse.io/precisionmedicinegroup/jobs/5850683004) | Remote, India | greenhouse |
-| 2026-04-08 | precisionmedicinegroup | [Senior Clinical Data Engineer (LATAM)](https://job-boards.greenhouse.io/precisionmedicinegroup/jobs/5808918004) | Remote, Argentina; Remote, Brazil; Remote, Chile; Remote, Colombia; Remote, Mexico; Remote, Peru | greenhouse |
 | 2026-04-08 | veracyte | [Bioinformatics Research Scientist II](https://veracyte.com/job-detail?gh_jid=5101421007) | Remote ; San Diego, California, United States; South San Francisco, California, United States | greenhouse |
 | 2026-04-08 | brex | [Data Engineer](https://www.brex.com/careers/8366850002?gh_jid=8366850002) | San Francisco, California, United States | greenhouse |
 | 2026-04-08 | brex | [Data Analyst III](https://www.brex.com/careers/8463704002?gh_jid=8463704002) | New York, New York, United States | greenhouse |
@@ -408,15 +410,15 @@ _Last updated: 2026-04-09 01:27 CDT_
 | 2026-04-06 | outschool | [Machine Learning Engineer](https://job-boards.greenhouse.io/outschool/jobs/4616253006) | Remote (U.S.); San Francisco; San Francisco (Hybrid) | greenhouse |
 | 2026-04-06 | mercury | [Senior Software Engineer - AI Enablement](https://job-boards.greenhouse.io/mercury/jobs/5850044004) | San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States | greenhouse |
 | 2026-04-06 | thrivemarket | [Director, Data Science & Machine Learning](https://thrivemarketjobs.com/job_posting.html?id=4209714009&gh_jid=4209714009) | Playa Vista, CA or Remote | greenhouse |
-| 2026-04-06 | dropbox | [Data Scientist](https://jobs.dropbox.com/listing/7762007?gh_jid=7762007) | Remote - Canada: Select locations | greenhouse |
 | 2026-04-06 | dropbox | [Data Scientist](https://jobs.dropbox.com/listing/7762004?gh_jid=7762004) | Remote - US: Select locations | greenhouse |
 | 2026-04-06 | dropbox | [Data Scientist](https://jobs.dropbox.com/listing/7762009?gh_jid=7762009) | Remote - Mexico | greenhouse |
+| 2026-04-06 | dropbox | [Data Scientist](https://jobs.dropbox.com/listing/7762007?gh_jid=7762007) | Remote - Canada: Select locations | greenhouse |
 | 2026-04-06 | dropbox | [Staff Data Engineer](https://jobs.dropbox.com/listing/7739568?gh_jid=7739568) | Remote - Mexico | greenhouse |
 | 2026-04-06 | dropbox | [Data Engineer](https://jobs.dropbox.com/listing/7739553?gh_jid=7739553) | Remote - Mexico | greenhouse |
 | 2026-04-06 | dropbox | [Senior Data Scientist, AI Products](https://jobs.dropbox.com/listing/7729761?gh_jid=7729761) | Remote - US: Select locations | greenhouse |
 | 2026-04-06 | dropbox | [Senior Data Scientist, AI Products](https://jobs.dropbox.com/listing/7729764?gh_jid=7729764) | Remote - Canada: Select locations | greenhouse |
-| 2026-04-06 | dropbox | [Senior Data Science Manager, AI Products](https://jobs.dropbox.com/listing/7512377?gh_jid=7512377) | Remote - Canada: Select locations | greenhouse |
 | 2026-04-06 | dropbox | [Senior Data Science Manager, AI Products](https://jobs.dropbox.com/listing/7512374?gh_jid=7512374) | Remote - US: Select locations | greenhouse |
+| 2026-04-06 | dropbox | [Senior Data Science Manager, AI Products](https://jobs.dropbox.com/listing/7512377?gh_jid=7512377) | Remote - Canada: Select locations | greenhouse |
 | 2026-04-06 | motional | [Senior Software Engineer, Data Engineering](https://motional.com/open-positions/?gh_jid=7688371003#/7688371003) | Las Vegas, Nevada, United States | greenhouse |
 | 2026-04-06 | motional | [Senior Software Engineer, Data Engineering](https://motional.com/open-positions/?gh_jid=7688372003#/7688372003) | Remote U.S. | greenhouse |
 | 2026-04-06 | motional | [Senior Software Engineer, Data Engineering](https://motional.com/open-positions/?gh_jid=7686456003#/7686456003) | Boston, Massachusetts, United States | greenhouse |
@@ -486,9 +488,4 @@ _Last updated: 2026-04-09 01:27 CDT_
 | 2026-04-06 | pitchbookdata | [Engineering Manager, Machine Learning Operations](https://job-boards.greenhouse.io/pitchbookdata/jobs/4426868006) | New York, New York, United States | greenhouse |
 | 2026-04-06 | pandadoc | [Senior Analytics Engineer](https://job-boards.greenhouse.io/pandadoc/jobs/7560188) | Remote (USA) | greenhouse |
 | 2026-04-06 | fourkites | [AI Engineer I](https://job-boards.greenhouse.io/fourkites/jobs/7640817) | Chicago, IL | greenhouse |
-| 2026-04-06 | pandadoc | [Staff GTM Data Scientist](https://job-boards.greenhouse.io/pandadoc/jobs/7474848) | Europe (Remote) | greenhouse |
-| 2026-04-06 | pandadoc | [Staff GTM Data Scientist](https://job-boards.greenhouse.io/pandadoc/jobs/7472183) | Remote (Portugal) | greenhouse |
-| 2026-04-06 | pandadoc | [Staff GTM Data Scientist](https://job-boards.greenhouse.io/pandadoc/jobs/7483765) | Remote (USA) | greenhouse |
-| 2026-04-06 | biohub | [Data Engineer](https://job-boards.greenhouse.io/biohub/jobs/7767734) | New York, NY (Hybrid); Redwood City, CA (Hybrid) | greenhouse |
-| 2026-04-06 | klaviyo | [Senior Software Engineer - Analytics Data Engineering](https://www.klaviyo.com/careers/jobs?gh_jid=7564587003) | Boston, MA | greenhouse |
 <!-- JOBS:END -->
