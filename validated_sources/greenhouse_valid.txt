@@ -817,3 +817,5 @@ axios
 pelago
 atariinc
 kunai
+fartherfinance
+coupanginternal

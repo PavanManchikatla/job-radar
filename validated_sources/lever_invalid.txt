@@ -9525,7 +9525,6 @@ cprime	no_matching_jobs
 curri	no_jobs
 distru	no_matching_jobs
 djeholdings	no_jobs
-deleteme	no_matching_jobs
 dialogdesign	no_matching_jobs
 doola	no_matching_jobs
 dilitrust	no_matching_jobs
@@ -9766,7 +9765,6 @@ mulberry	no_matching_jobs
 myplacehealth	http_404
 knix	no_matching_jobs
 musixmatch	no_matching_jobs
-muttdata	no_matching_jobs
 narmi	no_jobs
 mytos	no_matching_jobs
 nekohealth	no_jobs
@@ -17133,7 +17131,6 @@ netlight	no_matching_jobs
 nainnorcal	no_matching_jobs
 nilc	http_404
 nebra-labs	no_matching_jobs
-nextech	no_matching_jobs
 nimbletalent	no_matching_jobs
 nexuse-group	no_matching_jobs
 nisum	http_404

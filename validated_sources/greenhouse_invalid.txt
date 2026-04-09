@@ -8305,7 +8305,6 @@ vicon	no_jobs
 hillhousehome	no_matching_jobs
 swarmaero	no_matching_jobs
 newlabcareers	no_matching_jobs
-fartherfinance	no_matching_jobs
 chanzuckerbergbiohub	http_404
 weinsteinproperties	no_matching_jobs
 aetion	http_404
@@ -12456,7 +12455,6 @@ foodpandapakistan	http_404
 foodpandaphilippines	http_404
 forallsecure	http_404
 foodspring	http_404
-coupanginternal	no_matching_jobs
 foodpandasingapore	http_404
 forgehealth	no_matching_jobs
 forgen	no_matching_jobs
