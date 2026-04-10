@@ -819,3 +819,6 @@ atariinc
 kunai
 fartherfinance
 coupanginternal
+abodo
+thoughtworks
+encora10

@@ -949,7 +949,6 @@ rentometer	http_404
 zumper	http_404
 dwellsy	http_404
 apartment list	http_404
-abodo	no_matching_jobs
 doorsteps	http_404
 trulia rentals	http_404
 landing	http_404
@@ -5126,7 +5125,6 @@ linqia	no_matching_jobs
 takecommandhealth	no_matching_jobs
 turtlerockstudios	no_matching_jobs
 crescendohealth	no_matching_jobs
-thoughtworks	no_matching_jobs
 gofasti	no_matching_jobs
 medsien	no_matching_jobs
 chariotenergy	no_matching_jobs
@@ -12305,7 +12303,6 @@ endpoint	http_404
 endeavourinspiredinfrastructure	no_matching_jobs
 curated	http_404
 energizecapital	no_matching_jobs
-encora10	no_matching_jobs
 energicorelimited	http_404
 energywebfoundation	http_404
 engieenergyaccess	http_404
