@@ -5141,7 +5141,6 @@ stemhealthcare	no_matching_jobs
 novalabs	http_404
 cerebral	no_matching_jobs
 kwaralearn	no_jobs
-renaissancelearning-nam	no_matching_jobs
 celigo	no_matching_jobs
 hiper	no_matching_jobs
 arkoselabs	no_matching_jobs
@@ -5982,7 +5981,6 @@ desktopmetal	http_404
 wallstreetprep	no_matching_jobs
 pontera	no_matching_jobs
 cameo	no_matching_jobs
-route	no_matching_jobs
 airnorth	no_matching_jobs
 lazarusenterprises	no_matching_jobs
 shift4	no_matching_jobs
@@ -7165,7 +7163,6 @@ veocorporatecareers	no_matching_jobs
 pebblepost	no_matching_jobs
 optimalcare	no_matching_jobs
 aclunc	no_matching_jobs
-bluerivertech	no_matching_jobs
 smarkets	http_404
 personalizedbeautydiscoveryincdbaipsy	no_matching_jobs
 optoinvest	no_matching_jobs
