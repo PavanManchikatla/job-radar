@@ -1,12 +1,14 @@
 # Jobs Feed (Page 1/2)
 
-_Last updated: 2026-04-11 01:03 CDT_
+_Last updated: 2026-04-11 04:19 CDT_
 
 Page 1/2 | [Next](jobs_page_2.md)
 
 
 | Posted | Company | Title | Location | Source |
 |---|---|---|---|---|
+| 2026-04-11 | coupanginternal | [Director, Machine Learning Engineering](https://boards.greenhouse.io/coupanginternal/jobs/7776742?gh_jid=7776742) | Mountain View, USA | greenhouse |
+| 2026-04-11 | klaviyo | [Senior Software Engineer - Analytics Data Engineering](https://www.klaviyo.com/careers/jobs?gh_jid=7564587003) | Boston, MA | greenhouse |
 | 2026-04-11 | verisign | [Sr Research Engineer](https://job-boards.greenhouse.io/verisign/jobs/7636398003) | Reston,Virginia,United States | greenhouse |
 | 2026-04-11 | biohub | [Machine Learning Engineer , AI](https://job-boards.greenhouse.io/biohub/jobs/7747522) | New York, NY (Hybrid) | greenhouse |
 | 2026-04-11 | biohub | [Machine Learning Engineer , AI](https://job-boards.greenhouse.io/biohub/jobs/7793658) | Redwood City, CA (Hybrid) | greenhouse |
@@ -378,7 +380,6 @@ Page 1/2 | [Next](jobs_page_2.md)
 | 2026-04-09 | appliedintuition | [Research Scientist - World-Action Foundation Model, Robotics](https://boards.greenhouse.io/appliedintuition/jobs/4599639005?gh_jid=4599639005) | Sunnyvale, California, United States | greenhouse |
 | 2026-04-09 | appliedintuition | [Sensor Sim - ML Engineer](https://boards.greenhouse.io/appliedintuition/jobs/4678157005?gh_jid=4678157005) | Sunnyvale, California, United States | greenhouse |
 | 2026-04-09 | appliedintuition | [Software Engineer - AI Engineering](https://boards.greenhouse.io/appliedintuition/jobs/4677060005?gh_jid=4677060005) | Sunnyvale, California, United States | greenhouse |
-| 2026-04-09 | coupanginternal | [Director, Machine Learning Engineering](https://boards.greenhouse.io/coupanginternal/jobs/7776742?gh_jid=7776742) | Mountain View, USA | greenhouse |
 | 2026-04-09 | ionq | [Staff Data Engineer](https://job-boards.greenhouse.io/ionq/jobs/5472683004) | Boulder, Colorado, United States | greenhouse |
 | 2026-04-09 | dynamisinc | [Junior Data Analyst](https://job-boards.greenhouse.io/dynamisinc/jobs/4669321006) | Arlington, VA & Huntsville, AL | greenhouse |
 | 2026-04-09 | samsungresearchamerica | [Principal Research Scientist, Vision Intelligence](https://job-boards.greenhouse.io/samsungresearchamerica/jobs/8484054002) | 665 Clyde Avenue, Mountain View,  CA, USA | greenhouse |
@@ -506,7 +507,6 @@ Page 1/2 | [Next](jobs_page_2.md)
 | 2026-04-08 | drivewealth | [Senior Data Engineer, RegTech](https://boards.greenhouse.io/drivewealth/jobs/6283156003?gh_jid=6283156003) | New York, New York, United States | greenhouse |
 | 2026-04-08 | ascend21 | [Data Engineering Lead](https://job-boards.greenhouse.io/ascend21/jobs/5055567008) | San Francisco, CA | greenhouse |
 | 2026-04-08 | electrasteel | [Principal Data Scientist](https://job-boards.greenhouse.io/electrasteel/jobs/4656810005) | Boulder, Colorado, United States | greenhouse |
-| 2026-04-08 | merceradvisors | [Senior Business Intelligence Analyst](https://job-boards.greenhouse.io/merceradvisors/jobs/5046203008) | Remote, USA | greenhouse |
 
 Page 1/2 | [Next](jobs_page_2.md)
 
