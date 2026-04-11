@@ -1,6 +1,6 @@
 # Jobs Feed (Page 2/2)
 
-_Last updated: 2026-04-10 21:44 CDT_
+_Last updated: 2026-04-11 01:03 CDT_
 
 Page 2/2 | [Prev](jobs_page_1.md)
 
@@ -50,12 +50,6 @@ Page 2/2 | [Prev](jobs_page_1.md)
 | 2026-04-08 | skylotechnologies | [Staff Research Engineer, AI and Innovation](https://job-boards.greenhouse.io/skylotechnologies/jobs/7645393003) | Mountain View, CA | greenhouse |
 | 2026-04-08 | evio | [Data Engineer (Remote)](https://job-boards.greenhouse.io/evio/jobs/4648240005) | Remote, United States | greenhouse |
 | 2026-04-08 | globalizationpartners | [Sr.EM Data Engineering](https://job-boards.greenhouse.io/globalizationpartners/jobs/7692014003) | India (Remote-First) | greenhouse |
-| 2026-04-08 | coupanginternal | [Staff Data Engineer, Search and Discovery](https://boards.greenhouse.io/coupanginternal/jobs/7439269?gh_jid=7439269) | Mountain View, USA | greenhouse |
-| 2026-04-08 | chime | [Lead Data Analyst, Growth Science](https://boards.greenhouse.io/chime/jobs/8462910002?gh_jid=8462910002) | New York, NY, USA; San Francisco, CA, USA; Seattle, WA, USA | greenhouse |
-| 2026-04-08 | chime | [Lead Data Analyst](https://boards.greenhouse.io/chime/jobs/8403069002?gh_jid=8403069002) | San Francisco, CA, USA | greenhouse |
-| 2026-04-08 | chime | [Staff Data Analyst](https://boards.greenhouse.io/chime/jobs/8403065002?gh_jid=8403065002) | San Francisco, CA, USA | greenhouse |
-| 2026-04-08 | thumbtack | [Commercial Ops Analyst (Data Analyst)](https://job-boards.greenhouse.io/thumbtack/jobs/7610880) | Remote, Philippines | greenhouse |
-| 2026-04-08 | redapt | [AI/ML Engineer](https://job-boards.greenhouse.io/redapt/jobs/5154069008) | Woodinville, Washington, United States | greenhouse |
 
 Page 2/2 | [Prev](jobs_page_1.md)
 
