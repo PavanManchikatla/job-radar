@@ -1,13 +1,17 @@
-# Jobs Feed (Page 1/2)
+# Jobs Feed (Page 1/1)
 
-_Last updated: 2026-04-11 12:14 CDT_
-
-Page 1/2 | [Next](jobs_page_2.md)
-
+_Last updated: 2026-04-11 16:10 CDT_
 
 | Posted | Company | Title | Location | Source |
 |---|---|---|---|---|
+| 2026-04-11 | brex | [Data Analyst II](https://www.brex.com/careers/8463696002?gh_jid=8463696002) | San Francisco, California, United States | greenhouse |
+| 2026-04-11 | brex | [Data Analyst II](https://www.brex.com/careers/8463702002?gh_jid=8463702002) | New York, New York, United States | greenhouse |
+| 2026-04-11 | brex | [Data Analyst III](https://www.brex.com/careers/8463699002?gh_jid=8463699002) | San Francisco, California, United States | greenhouse |
+| 2026-04-11 | brex | [Data Analyst III](https://www.brex.com/careers/8463704002?gh_jid=8463704002) | New York, New York, United States | greenhouse |
+| 2026-04-11 | brex | [Data Engineer](https://www.brex.com/careers/8366850002?gh_jid=8366850002) | San Francisco, California, United States | greenhouse |
+| 2026-04-11 | brex | [Senior Data Scientist, Finance](https://www.brex.com/careers/7892186002?gh_jid=7892186002) | San Francisco, California, United States | greenhouse |
 | 2026-04-11 | verisign | [Sr Research Engineer](https://job-boards.greenhouse.io/verisign/jobs/7636398003) | Reston,Virginia,United States | greenhouse |
+| 2026-04-11 | truveta | [Partner Data Analyst](https://job-boards.greenhouse.io/truveta/jobs/5841941004) | Seattle, WA | greenhouse |
 | 2026-04-11 | future | [Senior/Staff Data Analyst](https://job-boards.greenhouse.io/future/jobs/4683274005) | Remote | greenhouse |
 | 2026-04-11 | nebius | [AI Researcher (Early Talent)](https://careers.nebius.com/?gh_jid=4812140101) | Amsterdam, Netherlands; Berlin, Germany; Remote - Europe; Remote - United States | greenhouse |
 | 2026-04-11 | sonatus | [Staff AI Engineer, Data Analytics & Modeling - Office of the CTO](https://job-boards.greenhouse.io/sonatus/jobs/5059644007) | Sunnyvale, CA | greenhouse |
@@ -20,7 +24,6 @@ Page 1/2 | [Next](jobs_page_2.md)
 | 2026-04-11 | biohub | [Machine Learning Engineer , AI](https://job-boards.greenhouse.io/biohub/jobs/7793658) | Redwood City, CA (Hybrid) | greenhouse |
 | 2026-04-10 | forgeglobal | [Senior Data Engineer](https://job-boards.greenhouse.io/forgeglobal/jobs/5921622004) | Denver, Colorado, United States | greenhouse |
 | 2026-04-10 | coinbase | [Staff Machine Learning Engineer - Platform (Core AI Automation)](https://www.coinbase.com/careers/positions/7648987?gh_jid=7648987) | Remote - USA | greenhouse |
-| 2026-04-10 | brex | [Senior Data Scientist, Finance](https://www.brex.com/careers/7892186002?gh_jid=7892186002) | San Francisco, California, United States | greenhouse |
 | 2026-04-10 | stackav | [Staff Software Engineer, ML Acceleration](https://job-boards.greenhouse.io/stackav/jobs/5105771007) | Pittsburgh, PA or Remote | greenhouse |
 | 2026-04-10 | biohub | [Director, Data Engineering](https://job-boards.greenhouse.io/biohub/jobs/7361393) | New York, NY (Hybrid); Redwood City, CA (Hybrid) | greenhouse |
 | 2026-04-10 | biohub | [Staff Data Scientist, Imaging](https://job-boards.greenhouse.io/biohub/jobs/7685640) | Redwood City, CA (Hybrid) | greenhouse |
@@ -477,11 +480,6 @@ Page 1/2 | [Next](jobs_page_2.md)
 | 2026-04-08 | precisionmedicinegroup | [AI/ML Engineer II](https://job-boards.greenhouse.io/precisionmedicinegroup/jobs/5850683004) | Remote, India | greenhouse |
 | 2026-04-08 | coupanginternal | [Senior Staff Machine Learning Engineer (Coupang AI Foundations)](https://boards.greenhouse.io/coupanginternal/jobs/7774292?gh_jid=7774292) | Seattle, USA | greenhouse |
 | 2026-04-08 | veracyte | [Bioinformatics Research Scientist II](https://veracyte.com/job-detail?gh_jid=5101421007) | Remote ; San Diego, California, United States; South San Francisco, California, United States | greenhouse |
-| 2026-04-08 | brex | [Data Engineer](https://www.brex.com/careers/8366850002?gh_jid=8366850002) | San Francisco, California, United States | greenhouse |
-| 2026-04-08 | brex | [Data Analyst III](https://www.brex.com/careers/8463704002?gh_jid=8463704002) | New York, New York, United States | greenhouse |
-| 2026-04-08 | brex | [Data Analyst III](https://www.brex.com/careers/8463699002?gh_jid=8463699002) | San Francisco, California, United States | greenhouse |
-| 2026-04-08 | brex | [Data Analyst II](https://www.brex.com/careers/8463702002?gh_jid=8463702002) | New York, New York, United States | greenhouse |
-| 2026-04-08 | brex | [Data Analyst II](https://www.brex.com/careers/8463696002?gh_jid=8463696002) | San Francisco, California, United States | greenhouse |
 | 2026-04-08 | chime | [Data Analyst, Financial Crimes & Identity](https://boards.greenhouse.io/chime/jobs/8485895002?gh_jid=8485895002) | Chicago, IL, USA; San Francisco, CA, USA | greenhouse |
 | 2026-04-08 | wing | [Analytics Manager](https://wing.com/careers/8389529002?gh_jid=8389529002) | Remote, USA | greenhouse |
 | 2026-04-08 | pathrobotics | [Machine Learning Engineer - Perception](https://boards.greenhouse.io/pathrobotics/jobs/8499372002?gh_jid=8499372002) | Columbus, Ohio or Remote | greenhouse |
@@ -493,21 +491,5 @@ Page 1/2 | [Next](jobs_page_2.md)
 | 2026-04-08 | block | [Machine Learning Modeler, Advanced Insights & Modeling](http://block.xyz/careers/jobs/4962745008?gh_jid=4962745008) | Bay Area, CA, United States of America | greenhouse |
 | 2026-04-08 | otterai | [Data Scientist, Product](https://otter.ai/careers?gh_jid=7493533003) | Mountain View, CA | greenhouse |
 | 2026-04-08 | rackner | [AI/ML Engineer  TS/SCI](https://job-boards.greenhouse.io/rackner/jobs/4676295005) | Dayton, OH | greenhouse |
-| 2026-04-08 | able | [Data Engineer](https://job-boards.greenhouse.io/able/jobs/7755650002) | Remote, LatAm | greenhouse |
-| 2026-04-08 | point72 | [Business Intelligence Analyst](https://boards.greenhouse.io/point72/jobs/8466850002?gh_jid=8466850002) | Stamford, CT | greenhouse |
-| 2026-04-08 | codepath | [Lead Instructor, Applied AI Engineering - Summer 2026](https://job-boards.greenhouse.io/codepath/jobs/5101859007) | Remote, United States | greenhouse |
-| 2026-04-08 | accenturefederalservices | [Palantir Data Engineer](https://boards.greenhouse.io/accenturefederalservices/jobs/4663057006?gh_jid=4663057006) | Chantilly, VA | greenhouse |
-| 2026-04-08 | medallionakafirstlayerai | [Staff Machine Learning Engineer](https://job-boards.greenhouse.io/medallionakafirstlayerai/jobs/4195457009) | Remote | greenhouse |
-| 2026-04-08 | sparksoftcorporation | [Data Scientist](https://job-boards.greenhouse.io/sparksoftcorporation/jobs/5049787007) | Remote/Hybrid if local to Maryland | greenhouse |
-| 2026-04-08 | biohub | [Data Scientist, Imaging x AI/ML](https://job-boards.greenhouse.io/biohub/jobs/7480425) | Redwood City, CA (Hybrid) | greenhouse |
-| 2026-04-08 | robinhood | [Staff Data Scientist, Product (Crypto)](https://boards.greenhouse.io/robinhood/jobs/7489743?t=gh_src=&gh_jid=7489743) | Menlo Park, CA; New York, NY | greenhouse |
-| 2026-04-08 | drivewealth | [Principal Data Analytics Engineer](https://boards.greenhouse.io/drivewealth/jobs/7603891003?gh_jid=7603891003) | New York, New York, United States | greenhouse |
-| 2026-04-08 | scaleai | [Director, Enterprise Machine Learning & Research](https://job-boards.greenhouse.io/scaleai/jobs/4679727005) | San Francisco, CA; New York, NY | greenhouse |
-| 2026-04-08 | drivewealth | [Principal AI Engineer - Core Platform](https://boards.greenhouse.io/drivewealth/jobs/7663504003?gh_jid=7663504003) | New York, New York, United States | greenhouse |
-| 2026-04-08 | drivewealth | [Senior Data Analyst, RegTech, Compliance, and Trading](https://boards.greenhouse.io/drivewealth/jobs/7683253003?gh_jid=7683253003) | New York, New York, United States | greenhouse |
-| 2026-04-08 | drivewealth | [Senior Data Engineer, RegTech](https://boards.greenhouse.io/drivewealth/jobs/6283156003?gh_jid=6283156003) | New York, New York, United States | greenhouse |
-| 2026-04-08 | ascend21 | [Data Engineering Lead](https://job-boards.greenhouse.io/ascend21/jobs/5055567008) | San Francisco, CA | greenhouse |
-
-Page 1/2 | [Next](jobs_page_2.md)
 
 [Back to README](../../README.md)
