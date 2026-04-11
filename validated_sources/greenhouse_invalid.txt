@@ -5063,7 +5063,6 @@ accreditedlabs	no_matching_jobs
 trace3	no_matching_jobs
 scandit	no_matching_jobs
 dynamitegames	no_matching_jobs
-forgeglobal	no_matching_jobs
 seam	no_matching_jobs
 forthea	no_matching_jobs
 scrollio	http_404
@@ -11899,7 +11898,6 @@ cdataindia	http_404
 cdatasoftware	http_404
 ce	no_jobs
 censia	http_404
-cdbabyjobs	no_matching_jobs
 centerforhumancompatibleartificialintelligence	http_404
 centerforemploymentopportunities	no_matching_jobs
 centerforreproductiverights	http_404

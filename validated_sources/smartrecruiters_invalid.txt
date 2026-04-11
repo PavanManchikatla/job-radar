@@ -2266,7 +2266,6 @@ patriot	no_postings
 mushkin	no_postings
 plextor	no_postings
 ocz	no_postings
-sandisk	no_matching_jobs
 silicon power	http_400
 transcend	no_postings
 lexar	no_postings
