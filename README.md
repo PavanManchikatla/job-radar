@@ -1,7 +1,7 @@
 ## Jobs Feed (auto-updated)
 
 <!-- JOBS:START -->
-_Last updated: 2026-04-11 22:06 CDT_
+_Last updated: 2026-04-12 01:32 CDT_
 
 | Posted | Company | Title | Location | Source |
 |---|---|---|---|---|
@@ -438,9 +438,4 @@ _Last updated: 2026-04-11 22:06 CDT_
 | 2026-04-09 | elastic | [Principal Java Engineer II - Machine Learning - Elasticsearch](https://jobs.elastic.co/jobs?gh_jid=7735254&gh_jid=7735254) | United States | greenhouse |
 | 2026-04-09 | precisionmedicinegroup | [Senior Clinical Data Engineer (LATAM)](https://job-boards.greenhouse.io/precisionmedicinegroup/jobs/5808918004) | Remote, Argentina; Remote, Brazil; Remote, Chile; Remote, Colombia; Remote, Mexico; Remote, Peru | greenhouse |
 | 2026-04-09 | reddit | [Staff Machine Learning Engineer, Consumer](https://job-boards.greenhouse.io/reddit/jobs/7747244) | Remote - United States | greenhouse |
-| 2026-04-09 | 10alabs | [Machine Learning Engineer](https://job-boards.greenhouse.io/10alabs/jobs/4000907009) | New York, NY | greenhouse |
-| 2026-04-09 | pindropsecurity | [Research Scientist (Deepfake Video)](https://www.pindrop.com/careers/job-title/?gh_jid=7532208) | US - Remote | greenhouse |
-| 2026-04-09 | hginsights | [Senior Director, Data Engineering](https://hginsights.com/hg-insights-careers/current-opportunities/?gh_jid=7686084003) | Remote (US) | greenhouse |
-| 2026-04-09 | rdccareers | [Analytics Engineer](https://boards.greenhouse.io/rdccareers/jobs/7693940003?gh_jid=7693940003) | Austin, Texas, United States | greenhouse |
-| 2026-04-09 | abacusinsights | [AI Engineering Leader](https://boards.greenhouse.io/abacusinsights/jobs/8499626002?gh_jid=8499626002) | Remote- US | greenhouse |
 <!-- JOBS:END -->
