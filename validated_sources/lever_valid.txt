@@ -155,3 +155,5 @@ wavicledata
 wellfit
 wisdomtree
 actian
+lendbuzz
+trevipay

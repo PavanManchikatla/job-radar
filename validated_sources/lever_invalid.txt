@@ -9714,7 +9714,6 @@ leverdemo50000	no_matching_jobs
 lexeotx	no_matching_jobs
 levelai	no_matching_jobs
 kpaonline	no_matching_jobs
-lendbuzz	no_matching_jobs
 intropic	no_matching_jobs
 limberhealth	no_matching_jobs
 leverdemo713	no_matching_jobs
@@ -18075,7 +18074,6 @@ trela	no_jobs
 tilda-research	no_jobs
 timelycare	no_jobs
 trainual	http_404
-trevipay	no_matching_jobs
 trella	http_404
 thinair	http_404
 trio	no_jobs
