@@ -1,7 +1,7 @@
 ## Jobs Feed (auto-updated)
 
 <!-- JOBS:START -->
-_Last updated: 2026-04-12 22:08 CDT_
+_Last updated: 2026-04-13 01:49 CDT_
 
 | Posted | Company | Title | Location | Source |
 |---|---|---|---|---|
@@ -230,11 +230,8 @@ _Last updated: 2026-04-12 22:08 CDT_
 | 2026-04-10 | cloudchamberen | [Senior AI Engineer](https://job-boards.greenhouse.io/cloudchamberen/jobs/7592443003) | Novato, California, United States | greenhouse |
 | 2026-04-10 | theknotworldwide | [Senior CDP / CRM Data Engineer](https://job-boards.greenhouse.io/theknotworldwide/jobs/5156106008) | New York City, New York, United States | greenhouse |
 | 2026-04-10 | theknotworldwide | [Senior CDP / CRM Data Engineer](https://job-boards.greenhouse.io/theknotworldwide/jobs/5096931008) | Austin, Texas, USA | greenhouse |
+| 2026-04-10 | ibkr | [Data Engineer](https://job-boards.greenhouse.io/ibkr/jobs/8007251002) | Greenwich, CT | greenhouse |
+| 2026-04-10 | ibkr | [Senior Data Engineer](https://job-boards.greenhouse.io/ibkr/jobs/8112195002) | Greenwich, CT | greenhouse |
 | 2026-04-10 | otter | [Analytics Engineer - Seattle, WA](https://job-boards.greenhouse.io/otter/jobs/8097001002) | Seattle, WA | greenhouse |
 | 2026-04-10 | robinhood | [Senior Machine Learning Engineer, Agentic](https://boards.greenhouse.io/robinhood/jobs/7121213?t=gh_src=&gh_jid=7121213) | Bellevue, WA; Menlo Park, CA | greenhouse |
-| 2026-04-10 | bracebridgecapital | [Senior Quantitative Researcher – Risk System Lead](https://job-boards.greenhouse.io/bracebridgecapital/jobs/4635816005) | Boston, MA | greenhouse |
-| 2026-04-10 | rapidsos | [Business Intelligence & AI Analyst](https://job-boards.greenhouse.io/rapidsos/jobs/5072453007) | Remote | greenhouse |
-| 2026-04-10 | rapidsos | [Director, Business Intelligence & Analytics](https://job-boards.greenhouse.io/rapidsos/jobs/5083169007) | Remote: Boston, MA; NYC, NY; San Francisco, CA | greenhouse |
-| 2026-04-10 | biohub | [Research Engineer, AI](https://job-boards.greenhouse.io/biohub/jobs/7747517) | New York, NY (Hybrid) | greenhouse |
-| 2026-04-10 | omadahealth | [Senior Data Analyst, Product Analytics (Fixed Term 10 Months)](https://job-boards.greenhouse.io/omadahealth/jobs/7800367) | Remote, USA | greenhouse |
 <!-- JOBS:END -->
