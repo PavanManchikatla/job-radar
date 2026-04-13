@@ -16940,7 +16940,6 @@ lumosity	http_404
 luminostics	http_404
 manifestmedex	no_matching_jobs
 mainstreetwork	http_404
-mainspringenergy	no_matching_jobs
 lyciatherapeutics	http_404
 lykospbc	http_404
 maplemedia	http_404
@@ -17190,7 +17189,6 @@ nomihealth	no_matching_jobs
 observeinc	http_404
 nuuds	no_matching_jobs
 octopus	no_jobs
-momsmeals	no_matching_jobs
 oda	http_404
 nelly	no_matching_jobs
 offerpop	http_404
