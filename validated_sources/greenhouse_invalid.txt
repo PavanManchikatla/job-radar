@@ -7028,7 +7028,6 @@ paradigminccareersopenpositions	no_matching_jobs
 mindmedicine	http_404
 privategdcareers	no_matching_jobs
 day1academies	no_matching_jobs
-cloverhealth	no_matching_jobs
 psibufet	no_matching_jobs
 accelerationpartners	no_matching_jobs
 nationbuilder	http_404
@@ -12370,7 +12369,6 @@ engieenergyaccess	http_404
 englishscore	http_404
 enhesa	no_matching_jobs
 ensitefulinternalpositions	http_404
-enscohotjobs	no_matching_jobs
 ensembleai	http_404
 enumerate	no_matching_jobs
 envato	http_404
