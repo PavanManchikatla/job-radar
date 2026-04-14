@@ -7670,7 +7670,6 @@ workatbackbase	no_matching_jobs
 scotch	no_matching_jobs
 alku	no_matching_jobs
 wovencare	no_matching_jobs
-planetlabs	no_matching_jobs
 focalsystems	no_matching_jobs
 watershedclimate	http_404
 oodlefinance	no_matching_jobs

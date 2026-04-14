@@ -1,15 +1,16 @@
 ## Jobs Feed (auto-updated)
 
 <!-- JOBS:START -->
-_Last updated: 2026-04-14 01:36 CDT_
+_Last updated: 2026-04-14 04:52 CDT_
 
 | Posted | Company | Title | Location | Source |
 |---|---|---|---|---|
+| 2026-04-14 | realtimeboardglobal | [Machine Learning Research Engineer](https://miro.com/careers/vacancy/8395672002?gh_jid=8395672002) | Copenhagen, DK; London, UK; Remote EMEA | greenhouse |
+| 2026-04-14 | verisign | [Sr Research Engineer](https://job-boards.greenhouse.io/verisign/jobs/7636398003) | Reston,Virginia,United States | greenhouse |
 | 2026-04-14 | astspacemobile | [Senior Data Scientist - Computer Vision & ML, Cross-Domain AI](https://ast-science.com/company/careers/?gh_jid=4677746005) | Lanham, Maryland, United States | greenhouse |
 | 2026-04-14 | astspacemobile | [Senior Data Scientist, Cross-Domain AI](https://ast-science.com/company/careers/?gh_jid=4677745005) | Lanham, Maryland, United States | greenhouse |
 | 2026-04-14 | astspacemobile | [Data Engineer Lead](https://ast-science.com/company/careers/?gh_jid=4665019005) | Lanham, Maryland, United States | greenhouse |
 | 2026-04-14 | waymo | [Senior Product Data Scientist, Marketplace Algorithms ML](https://careers.withwaymo.com/jobs?gh_jid=7416740) | Mountain View, CA, USA; San Francisco, CA, USA | greenhouse |
-| 2026-04-14 | verisign | [Sr Research Engineer](https://job-boards.greenhouse.io/verisign/jobs/7636398003) | Reston,Virginia,United States | greenhouse |
 | 2026-04-14 | robinhood | [Staff Machine Learning Engineer, Agentic](https://boards.greenhouse.io/robinhood/jobs/7676714?t=gh_src=&gh_jid=7676714) | Bellevue, WA; Menlo Park, CA | greenhouse |
 | 2026-04-14 | robinhood | [Senior Data Scientist, ML (Incentives)](https://boards.greenhouse.io/robinhood/jobs/7596426?t=gh_src=&gh_jid=7596426) | Menlo Park, CA | greenhouse |
 | 2026-04-14 | robinhood | [Staff Data Scientist, Product (Crypto)](https://boards.greenhouse.io/robinhood/jobs/7489743?t=gh_src=&gh_jid=7489743) | Menlo Park, CA; New York, NY | greenhouse |
@@ -198,11 +199,12 @@ _Last updated: 2026-04-14 01:36 CDT_
 | 2026-04-13 | grafanalabs | [Staff AI Engineer \| Canada \| Remote](https://job-boards.greenhouse.io/grafanalabs/jobs/5839190004) | Canada (Remote) | greenhouse |
 | 2026-04-13 | grafanalabs | [Staff AI Engineer \| US \| Remote](https://job-boards.greenhouse.io/grafanalabs/jobs/5839189004) | United States (Remote) | greenhouse |
 | 2026-04-13 | thrivemarket | [Director, Data Science & Machine Learning](https://thrivemarketjobs.com/job_posting.html?id=4209714009&gh_jid=4209714009) | Playa Vista, CA or Remote | greenhouse |
+| 2026-04-13 | planetlabs | [Senior Geospatial AI/ML Engineer](https://job-boards.greenhouse.io/planetlabs/jobs/7799787) | United States, Remote | greenhouse |
 | 2026-04-13 | point72 | [Machine Learning Engineer, Genai Technology](https://boards.greenhouse.io/point72/jobs/8392983002?gh_jid=8392983002) | United States | greenhouse |
 | 2026-04-13 | remotereferralboardinternaluseonly | [Finance Systems Data Analyst](https://job-boards.greenhouse.io/remotereferralboardinternaluseonly/jobs/7551275003) | Remote-Europe | greenhouse |
 | 2026-04-13 | remotereferralboardinternaluseonly | [Senior Treasury Business Intelligence Analyst](https://job-boards.greenhouse.io/remotereferralboardinternaluseonly/jobs/7674094003) | Remote-EMEA&India | greenhouse |
-| 2026-04-13 | remotecom | [Finance Systems Data Analyst](https://job-boards.greenhouse.io/remotecom/jobs/7547120003) | Remote-Southern Europe | greenhouse |
 | 2026-04-13 | remotecom | [Finance Systems Data Analyst](https://job-boards.greenhouse.io/remotecom/jobs/7551628003) | Remote-Western Europe | greenhouse |
+| 2026-04-13 | remotecom | [Finance Systems Data Analyst](https://job-boards.greenhouse.io/remotecom/jobs/7547120003) | Remote-Southern Europe | greenhouse |
 | 2026-04-13 | remotecom | [Senior Treasury Business Intelligence Analyst](https://job-boards.greenhouse.io/remotecom/jobs/7673844003) | Remote-UK&I | greenhouse |
 | 2026-04-13 | remotecom | [Senior Treasury Business Intelligence Analyst](https://job-boards.greenhouse.io/remotecom/jobs/7674093003) | Remote-India | greenhouse |
 | 2026-04-13 | enscohotjobs | [Railway Research Engineer](https://job-boards.greenhouse.io/enscohotjobs/jobs/5124107008) | Pueblo, Colorado, United States | greenhouse |
@@ -231,5 +233,4 @@ _Last updated: 2026-04-14 01:36 CDT_
 | 2026-04-11 | nebius | [AI Researcher (Early Talent)](https://careers.nebius.com/?gh_jid=4812140101) | Amsterdam, Netherlands; Berlin, Germany; Remote - Europe; Remote - United States | greenhouse |
 | 2026-04-11 | fivetran | [Senior Marketing Data Analyst](https://www.fivetran.com/careers/job?gh_jid=7583474003) | Oakland, California, United States, AMER | greenhouse |
 | 2026-04-11 | fivetran | [Principal Software Engineer - AI Tooling & Adoption](https://www.fivetran.com/careers/job?gh_jid=6664139003) | Oakland, California, United States, AMER | greenhouse |
-| 2026-04-11 | coupanginternal | [Director, Machine Learning Engineering](https://boards.greenhouse.io/coupanginternal/jobs/7776742?gh_jid=7776742) | Mountain View, USA | greenhouse |
 <!-- JOBS:END -->
