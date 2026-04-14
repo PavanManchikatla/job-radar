@@ -5805,7 +5805,6 @@ foxrobotics	http_404
 pushpay	no_matching_jobs
 sevenrooms	http_404
 parachutehome	no_matching_jobs
-natera	no_matching_jobs
 summit	http_404
 focuspartnersaustralia	no_matching_jobs
 mobi	no_matching_jobs
@@ -11557,7 +11556,6 @@ amcrawfordinc	no_matching_jobs
 amika	http_404
 amdaris	no_matching_jobs
 amitechsolutions	http_404
-amperesand	no_matching_jobs
 ampersand	no_jobs
 ampla	http_404
 amedigital	http_404

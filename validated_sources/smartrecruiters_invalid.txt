@@ -2850,7 +2850,6 @@ resource guru	http_400
 forecast	no_postings
 freshworks	no_matching_jobs
 runn	no_postings
-servicenow	no_matching_jobs
 project.co	http_400
 productive	no_postings
 avaza	no_postings
