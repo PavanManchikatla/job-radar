@@ -8210,7 +8210,6 @@ doxocareers	no_jobs
 finitestate	no_matching_jobs
 sondermind	http_404
 archera	no_matching_jobs
-exiger	no_matching_jobs
 mbarecruitingcra	no_matching_jobs
 shearerssnacks	http_404
 parsecautomationcorp	no_matching_jobs

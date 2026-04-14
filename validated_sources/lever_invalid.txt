@@ -10073,7 +10073,6 @@ startengine	no_matching_jobs
 solutuslegal	no_matching_jobs
 uei	no_matching_jobs
 truv	no_matching_jobs
-tala	no_matching_jobs
 spiceai	no_matching_jobs
 v2sa	no_jobs
 unlimit	no_matching_jobs

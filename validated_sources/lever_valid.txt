@@ -159,3 +159,4 @@ lendbuzz
 trevipay
 mainspringenergy
 momsmeals
+tala
