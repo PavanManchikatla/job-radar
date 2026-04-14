@@ -1,14 +1,45 @@
 ## Jobs Feed (auto-updated)
 
 <!-- JOBS:START -->
-_Last updated: 2026-04-13 22:02 CDT_
+_Last updated: 2026-04-14 01:36 CDT_
 
 | Posted | Company | Title | Location | Source |
 |---|---|---|---|---|
-| 2026-04-14 | zipcolimited | [Senior Data Analyst (Finance & Accounting)](https://job-boards.greenhouse.io/zipcolimited/jobs/4662838006) | United States | greenhouse |
-| 2026-04-14 | zipcolimited | [Senior Machine Learning Engineer](https://job-boards.greenhouse.io/zipcolimited/jobs/4662516006) | United States | greenhouse |
-| 2026-04-14 | klaviyo | [Senior AI Engineer](https://www.klaviyo.com/careers/jobs?gh_jid=7688488003) | Boston, MA | greenhouse |
+| 2026-04-14 | astspacemobile | [Senior Data Scientist - Computer Vision & ML, Cross-Domain AI](https://ast-science.com/company/careers/?gh_jid=4677746005) | Lanham, Maryland, United States | greenhouse |
+| 2026-04-14 | astspacemobile | [Senior Data Scientist, Cross-Domain AI](https://ast-science.com/company/careers/?gh_jid=4677745005) | Lanham, Maryland, United States | greenhouse |
+| 2026-04-14 | astspacemobile | [Data Engineer Lead](https://ast-science.com/company/careers/?gh_jid=4665019005) | Lanham, Maryland, United States | greenhouse |
+| 2026-04-14 | waymo | [Senior Product Data Scientist, Marketplace Algorithms ML](https://careers.withwaymo.com/jobs?gh_jid=7416740) | Mountain View, CA, USA; San Francisco, CA, USA | greenhouse |
 | 2026-04-14 | verisign | [Sr Research Engineer](https://job-boards.greenhouse.io/verisign/jobs/7636398003) | Reston,Virginia,United States | greenhouse |
+| 2026-04-14 | robinhood | [Staff Machine Learning Engineer, Agentic](https://boards.greenhouse.io/robinhood/jobs/7676714?t=gh_src=&gh_jid=7676714) | Bellevue, WA; Menlo Park, CA | greenhouse |
+| 2026-04-14 | robinhood | [Senior Data Scientist, ML (Incentives)](https://boards.greenhouse.io/robinhood/jobs/7596426?t=gh_src=&gh_jid=7596426) | Menlo Park, CA | greenhouse |
+| 2026-04-14 | robinhood | [Staff Data Scientist, Product (Crypto)](https://boards.greenhouse.io/robinhood/jobs/7489743?t=gh_src=&gh_jid=7489743) | Menlo Park, CA; New York, NY | greenhouse |
+| 2026-04-14 | robinhood | [Senior Data Scientist, Fraud](https://boards.greenhouse.io/robinhood/jobs/7412037?t=gh_src=&gh_jid=7412037) | Menlo Park, CA | greenhouse |
+| 2026-04-14 | robinhood | [Senior Machine Learning Engineer, Agentic](https://boards.greenhouse.io/robinhood/jobs/7121213?t=gh_src=&gh_jid=7121213) | Bellevue, WA; Menlo Park, CA | greenhouse |
+| 2026-04-14 | vsco39 | [Senior Machine Learning Engineer](https://job-boards.greenhouse.io/vsco39/jobs/8436325002) | San Francisco, CA | greenhouse |
+| 2026-04-14 | zipcolimited | [Senior Machine Learning Engineer](https://job-boards.greenhouse.io/zipcolimited/jobs/4662516006) | United States | greenhouse |
+| 2026-04-14 | zipcolimited | [Senior Data Analyst (Finance & Accounting)](https://job-boards.greenhouse.io/zipcolimited/jobs/4662838006) | United States | greenhouse |
+| 2026-04-14 | accenturefederalservices | [AI / ML Engineer](https://boards.greenhouse.io/accenturefederalservices/jobs/4644242006?gh_jid=4644242006) | Chantilly, VA | greenhouse |
+| 2026-04-14 | accenturefederalservices | [AI / ML Engineer](https://boards.greenhouse.io/accenturefederalservices/jobs/4628914006?gh_jid=4628914006) | Annapolis Junction, MD | greenhouse |
+| 2026-04-14 | accenturefederalservices | [AI / ML Engineer Manager](https://boards.greenhouse.io/accenturefederalservices/jobs/4611105006?gh_jid=4611105006) | Arlington, VA | greenhouse |
+| 2026-04-14 | accenturefederalservices | [Azure Data Engineer in St. Louis, MO](https://boards.greenhouse.io/accenturefederalservices/jobs/4643762006?gh_jid=4643762006) | St. Louis, MO | greenhouse |
+| 2026-04-14 | accenturefederalservices | [Cybersecurity Research Engineer](https://boards.greenhouse.io/accenturefederalservices/jobs/4587713006?gh_jid=4587713006) | Fort Meade, MD | greenhouse |
+| 2026-04-14 | accenturefederalservices | [Data Engineering Lead (Onsite - San Antonio, TX)](https://boards.greenhouse.io/accenturefederalservices/jobs/4665926006?gh_jid=4665926006) | San Antonio, TX | greenhouse |
+| 2026-04-14 | accenturefederalservices | [Data Engineer in St. Louis, MO](https://boards.greenhouse.io/accenturefederalservices/jobs/4644934006?gh_jid=4644934006) | St. Louis, MO | greenhouse |
+| 2026-04-14 | accenturefederalservices | [Data Engineer (Onsite Vandenberg, CA)](https://boards.greenhouse.io/accenturefederalservices/jobs/4666148006?gh_jid=4666148006) | Point Mugu, CA | greenhouse |
+| 2026-04-14 | accenturefederalservices | [Data Engineer Senior Analyst](https://boards.greenhouse.io/accenturefederalservices/jobs/4620934006?gh_jid=4620934006) | Arlington, VA | greenhouse |
+| 2026-04-14 | accenturefederalservices | [Data Engineer Specialist](https://boards.greenhouse.io/accenturefederalservices/jobs/4610676006?gh_jid=4610676006) | Arlington, VA | greenhouse |
+| 2026-04-14 | accenturefederalservices | [Data Engineer Specialist](https://boards.greenhouse.io/accenturefederalservices/jobs/4612343006?gh_jid=4612343006) | Arlington, VA | greenhouse |
+| 2026-04-14 | accenturefederalservices | [Data Engineer Team Lead](https://boards.greenhouse.io/accenturefederalservices/jobs/4611519006?gh_jid=4611519006) | Arlington, VA | greenhouse |
+| 2026-04-14 | accenturefederalservices | [Data Scientist 4](https://boards.greenhouse.io/accenturefederalservices/jobs/4648696006?gh_jid=4648696006) | Annapolis Junction, MD | greenhouse |
+| 2026-04-14 | accenturefederalservices | [Data Scientist (Foundry Application)](https://boards.greenhouse.io/accenturefederalservices/jobs/4667319006?gh_jid=4667319006) | Arlington, VA | greenhouse |
+| 2026-04-14 | accenturefederalservices | [Data Scientist L3](https://boards.greenhouse.io/accenturefederalservices/jobs/4573539006?gh_jid=4573539006) | Annapolis Junction, MD | greenhouse |
+| 2026-04-14 | accenturefederalservices | [Jr Data Engineer](https://boards.greenhouse.io/accenturefederalservices/jobs/4623058006?gh_jid=4623058006) | Chantilly, VA | greenhouse |
+| 2026-04-14 | accenturefederalservices | [Operations Research Scientist](https://boards.greenhouse.io/accenturefederalservices/jobs/4587698006?gh_jid=4587698006) | Fort Meade, MD | greenhouse |
+| 2026-04-14 | accenturefederalservices | [Palantir Data Engineer](https://boards.greenhouse.io/accenturefederalservices/jobs/4663057006?gh_jid=4663057006) | Chantilly, VA | greenhouse |
+| 2026-04-14 | accenturefederalservices | [Palantir Data Scientist (Onsite Vandenberg, CA)](https://boards.greenhouse.io/accenturefederalservices/jobs/4661716006?gh_jid=4661716006) | Point Mugu, CA | greenhouse |
+| 2026-04-14 | accenturefederalservices | [Senior Data Analyst in St. Louis, MO](https://boards.greenhouse.io/accenturefederalservices/jobs/4644953006?gh_jid=4644953006) | St. Louis, MO | greenhouse |
+| 2026-04-14 | accenturefederalservices | [Sr. Cloud Data Engineer](https://boards.greenhouse.io/accenturefederalservices/jobs/4623820006?gh_jid=4623820006) | Tyson's Corner, VA | greenhouse |
+| 2026-04-14 | klaviyo | [Senior AI Engineer](https://www.klaviyo.com/careers/jobs?gh_jid=7688488003) | Boston, MA | greenhouse |
 | 2026-04-14 | vianttechnology | [Sr. Data Analyst](https://job-boards.greenhouse.io/vianttechnology/jobs/4204282009) | Irvine, California, United States | greenhouse |
 | 2026-04-14 | vianttechnology | [Staff Applied Scientist](https://job-boards.greenhouse.io/vianttechnology/jobs/4017433009) | Irvine, California, United States; Los Angeles, California, United States | greenhouse |
 | 2026-04-14 | SEEKING | [AI/ML Engineer](https://news.ycombinator.com/item?id=47759666) | Auburn AL → SF/Seattle/NYC/Remote, F-1 STEM OPT through Feb 2028 (no sponsorship needed) 4 yrs production GenAI: AWS Bedrock RAG (92% recall, HIPAA), LangGraph multi-agent copilots shipped to prod, QLoRA/LLaMA 2 fine-tuning, LangChain/LlamaIndex, Python, Docker/K8s. Co-author ACL 2024 (healthcare AI). MS Data Science UNT 2024. Currently ML Research Scientist @ Auburn (multi-agent VLMs). Open to: Applied Scientist / ML Eng / GenAI Eng / AI Eng Email: ksaimanikanta4@gmail.com GitHub: github.com/saikasireddy Resume: [ https://docs.google.com/document/d/1pjp-I0XfRP96fxu-nbIdOAVQ... ] | hn_hiring |
@@ -50,8 +81,6 @@ _Last updated: 2026-04-13 22:02 CDT_
 | 2026-04-13 | lilasciences | [Research Scientist I/II, Statistical Mechanics and Dynamics](https://job-boards.greenhouse.io/lilasciences/jobs/4031471009) | Cambridge, MA USA | greenhouse |
 | 2026-04-13 | agile-defense | [Data Engineer III](https://jobs.lever.co/agile-defense/d63db8e7-1bd0-4d45-87c3-19c531435f5d) | Doral, FL | lever |
 | 2026-04-13 | lilasciences | [Senior Software Engineer, ML Research](https://job-boards.greenhouse.io/lilasciences/jobs/4031328009) | Cambridge, MA USA | greenhouse |
-| 2026-04-13 | biohub | [Machine Learning Engineer , AI](https://job-boards.greenhouse.io/biohub/jobs/7793658) | Redwood City, CA (Hybrid) | greenhouse |
-| 2026-04-13 | biohub | [Machine Learning Engineer , AI](https://job-boards.greenhouse.io/biohub/jobs/7747522) | New York, NY (Hybrid) | greenhouse |
 | 2026-04-13 | lilasciences | [Machine Learning Scientist I/II, Scientific Reasoning](https://job-boards.greenhouse.io/lilasciences/jobs/4031437009) | Cambridge, MA USA | greenhouse |
 | 2026-04-13 | lilasciences | [Senior / Principal Research Engineer, LLM Synthetic Data](https://job-boards.greenhouse.io/lilasciences/jobs/4158000009) | Cambridge, MA USA; San Francisco, CA USA | greenhouse |
 | 2026-04-13 | lilasciences | [Machine Learning Scientist I/II, Multi-Modal Scientific Reasonings](https://job-boards.greenhouse.io/lilasciences/jobs/4116672009) | Cambridge, MA USA | greenhouse |
@@ -172,8 +201,8 @@ _Last updated: 2026-04-13 22:02 CDT_
 | 2026-04-13 | point72 | [Machine Learning Engineer, Genai Technology](https://boards.greenhouse.io/point72/jobs/8392983002?gh_jid=8392983002) | United States | greenhouse |
 | 2026-04-13 | remotereferralboardinternaluseonly | [Finance Systems Data Analyst](https://job-boards.greenhouse.io/remotereferralboardinternaluseonly/jobs/7551275003) | Remote-Europe | greenhouse |
 | 2026-04-13 | remotereferralboardinternaluseonly | [Senior Treasury Business Intelligence Analyst](https://job-boards.greenhouse.io/remotereferralboardinternaluseonly/jobs/7674094003) | Remote-EMEA&India | greenhouse |
-| 2026-04-13 | remotecom | [Finance Systems Data Analyst](https://job-boards.greenhouse.io/remotecom/jobs/7551628003) | Remote-Western Europe | greenhouse |
 | 2026-04-13 | remotecom | [Finance Systems Data Analyst](https://job-boards.greenhouse.io/remotecom/jobs/7547120003) | Remote-Southern Europe | greenhouse |
+| 2026-04-13 | remotecom | [Finance Systems Data Analyst](https://job-boards.greenhouse.io/remotecom/jobs/7551628003) | Remote-Western Europe | greenhouse |
 | 2026-04-13 | remotecom | [Senior Treasury Business Intelligence Analyst](https://job-boards.greenhouse.io/remotecom/jobs/7673844003) | Remote-UK&I | greenhouse |
 | 2026-04-13 | remotecom | [Senior Treasury Business Intelligence Analyst](https://job-boards.greenhouse.io/remotecom/jobs/7674093003) | Remote-India | greenhouse |
 | 2026-04-13 | enscohotjobs | [Railway Research Engineer](https://job-boards.greenhouse.io/enscohotjobs/jobs/5124107008) | Pueblo, Colorado, United States | greenhouse |
@@ -185,7 +214,6 @@ _Last updated: 2026-04-13 22:02 CDT_
 | 2026-04-13 | precisionmedicinegroup | [Senior Clinical Data Engineer (LATAM)](https://job-boards.greenhouse.io/precisionmedicinegroup/jobs/5808918004) | Remote, Argentina; Remote, Brazil; Remote, Chile; Remote, Colombia; Remote, Mexico; Remote, Peru | greenhouse |
 | 2026-04-13 | govini | [Data Analyst](https://job-boards.greenhouse.io/govini/jobs/4077374009) | Arlington, Virginia, United States | greenhouse |
 | 2026-04-13 | babylist | [Senior Engineering Manager, Machine Learning](https://job-boards.greenhouse.io/babylist/jobs/5815353004) | United States and Canada | greenhouse |
-| 2026-04-13 | geotab | [Senior Data Scientist](https://job-boards.greenhouse.io/geotab/jobs/4918405008) | Atlanta, Georgia - USA | greenhouse |
 | 2026-04-13 | shopltk | [Data Analyst](https://job-boards.greenhouse.io/shopltk/jobs/7671051003) | United States | greenhouse |
 | 2026-04-13 | sigmoid | [Principal Data Scientist](https://job-boards.greenhouse.io/sigmoid/jobs/8502021002) | Newark, New Jersey, United States | greenhouse |
 | 2026-04-13 | ensono | [Lead Consultant, Data & AI Engineering](https://ensono.com/company/careers/jobs-board/?gh_jid=4678965005) | Remote - United Kingdom | greenhouse |
