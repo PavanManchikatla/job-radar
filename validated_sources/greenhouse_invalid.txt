@@ -5242,7 +5242,6 @@ mdclarity	no_matching_jobs
 codazen	no_jobs
 minware	http_404
 scytherobotics	http_404
-aclu	no_matching_jobs
 svetness	no_matching_jobs
 snapmobileinc	no_matching_jobs
 startree	no_matching_jobs
@@ -6047,7 +6046,6 @@ taxvalet	no_matching_jobs
 glydways	no_matching_jobs
 julieproducts	no_matching_jobs
 alpenlabs	http_404
-vulncheck	no_matching_jobs
 tripactions	no_matching_jobs
 keplergroup	no_matching_jobs
 phoenixcontact	no_matching_jobs
@@ -6916,7 +6914,6 @@ paloit	no_matching_jobs
 baselayer	no_matching_jobs
 aircapture	no_matching_jobs
 gigster	http_404
-flywheeldigital	no_matching_jobs
 gsrmarkets	no_matching_jobs
 aisi	no_matching_jobs
 bluehole	no_matching_jobs
@@ -7299,7 +7296,6 @@ formlabs	no_matching_jobs
 orchard	no_matching_jobs
 meruhealth	no_matching_jobs
 theflatironschool	http_404
-recharge	no_matching_jobs
 corporatecareers	no_matching_jobs
 sonymusic	http_404
 thenuclearcompany	no_matching_jobs
@@ -8046,7 +8042,6 @@ launch2	no_matching_jobs
 patterndata	no_matching_jobs
 homechef	no_matching_jobs
 sparkadvisors	no_matching_jobs
-olsson	no_matching_jobs
 143studiosinc	no_matching_jobs
 oxosmedical	no_matching_jobs
 saasgroup	no_matching_jobs
@@ -12641,7 +12636,6 @@ gropyus	no_matching_jobs
 groupblack	http_404
 growetalents	no_matching_jobs
 growflow	http_404
-growthloop	no_matching_jobs
 groupninemedia	http_404
 growetalentpool	no_matching_jobs
 gsacapital	no_matching_jobs
