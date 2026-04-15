@@ -4974,7 +4974,6 @@ peopledatalabs	http_404
 journey	no_matching_jobs
 privateidentity	no_matching_jobs
 ntx	no_matching_jobs
-zambold	no_matching_jobs
 evgsn	no_matching_jobs
 alteradigitalhealthindia	http_404
 joinuplift	http_404
@@ -5998,7 +5997,6 @@ bayasystems	no_matching_jobs
 desktopmetal	http_404
 pontera	no_matching_jobs
 vpawv	no_matching_jobs
-shift4	no_matching_jobs
 asteralabs	no_matching_jobs
 togetherwork	no_matching_jobs
 lazarusenterprises	no_matching_jobs
@@ -6519,7 +6517,6 @@ novo	no_jobs
 truework	no_matching_jobs
 ventustherapeutics	no_jobs
 apprentice	no_jobs
-forwardnetworks	no_matching_jobs
 hopskipdrive	no_matching_jobs
 sugar	http_404
 lambda	http_404
@@ -7071,7 +7068,6 @@ chestercommunitycharterschool	no_matching_jobs
 thefloridapanthers	no_matching_jobs
 costar	no_matching_jobs
 labelbox	no_matching_jobs
-altentechnologyusa	no_matching_jobs
 yepjobs	no_jobs
 polly	http_404
 select	http_404
@@ -7235,7 +7231,6 @@ ever	no_matching_jobs
 pendo	no_matching_jobs
 embroker	no_matching_jobs
 madano	no_matching_jobs
-invoca	no_matching_jobs
 kellerpostman	no_matching_jobs
 worthi	http_404
 doordashmexico	no_matching_jobs
@@ -7522,7 +7517,6 @@ medicalinformaticsengineering	no_matching_jobs
 submittable	no_matching_jobs
 tysonmendesllp	no_matching_jobs
 jackhealth	no_matching_jobs
-koboldmetalsdrc	no_matching_jobs
 lumos	no_matching_jobs
 alltrna	no_jobs
 mrapple	no_matching_jobs
