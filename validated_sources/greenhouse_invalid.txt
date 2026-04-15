@@ -8243,7 +8243,6 @@ april	http_404
 immoverkauf24	no_matching_jobs
 oneacrefundtanzania	no_matching_jobs
 kasisto	no_matching_jobs
-momentumfinancialservicesgroup	no_matching_jobs
 digitalhands	no_matching_jobs
 wundercapital	no_matching_jobs
 checkbook	no_matching_jobs

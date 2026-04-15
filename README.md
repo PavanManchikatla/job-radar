@@ -1,12 +1,19 @@
 ## Jobs Feed (auto-updated)
 
 <!-- JOBS:START -->
-_Last updated: 2026-04-15 01:35 CDT_
+_Last updated: 2026-04-15 04:54 CDT_
 
 | Posted | Company | Title | Location | Source |
 |---|---|---|---|---|
-| 2026-04-15 | vulncheck | [Senior AI Engineer](https://job-boards.greenhouse.io/vulncheck/jobs/4219227009) | Remote US | greenhouse |
+| 2026-04-15 | nice | [AI Data Engineer](https://boards.eu.greenhouse.io/nice/jobs/4812095101?gh_jid=4812095101) | USA - Remote | greenhouse |
+| 2026-04-15 | nice | [Senior Software Engineer - AI Coding Agents](https://boards.eu.greenhouse.io/nice/jobs/4818439101?gh_jid=4818439101) | Seattle, Washington, United States; USA - Atlanta, GA; USA - Richardson, TX; USA - Sandy, UT | greenhouse |
+| 2026-04-15 | nice | [Software Engineer - AI Coding Agents](https://boards.eu.greenhouse.io/nice/jobs/4818465101?gh_jid=4818465101) | Seattle, Washington, United States; USA - Atlanta, GA; USA - Richardson, TX; USA - Sandy, UT | greenhouse |
+| 2026-04-15 | refurbed | [Senior Data Analyst (f/m/x) - remote](https://www.refurbed.de/jobs/?gh_jid=4026715101) | Remote | greenhouse |
+| 2026-04-15 | refurbed | [Senior Data Scientist (f/m/x) - remote](https://www.refurbed.de/jobs/?gh_jid=4756814101) | Remote | greenhouse |
+| 2026-04-15 | momentumfinancialservicesgroup | [Senior Data Analyst, Cards](https://job-boards.greenhouse.io/momentumfinancialservicesgroup/jobs/5189086008) | Hyderabad (Remote) | greenhouse |
 | 2026-04-15 | verisign | [Sr Research Engineer](https://job-boards.greenhouse.io/verisign/jobs/7636398003) | Reston,Virginia,United States | greenhouse |
+| 2026-04-15 | chime | [Data Analyst, Financial Crimes & Identity](https://boards.greenhouse.io/chime/jobs/8485895002?gh_jid=8485895002) | Chicago, IL, USA; San Francisco, CA, USA | greenhouse |
+| 2026-04-15 | vulncheck | [Senior AI Engineer](https://job-boards.greenhouse.io/vulncheck/jobs/4219227009) | Remote US | greenhouse |
 | 2026-04-15 | funga | [Data Scientist](https://job-boards.greenhouse.io/funga/jobs/5155669008) | Austin, TX | greenhouse |
 | 2026-04-15 | webflow | [Lead AI Engineer, Enterprise AI Operations](https://job-boards.greenhouse.io/webflow/jobs/7689676) | U.S. Remote | greenhouse |
 | 2026-04-15 | figma | [AI Applied Scientist](https://boards.greenhouse.io/figma/jobs/5707966004?gh_jid=5707966004) | San Francisco, CA • New York, NY • United States | greenhouse |
@@ -348,8 +355,8 @@ _Last updated: 2026-04-15 01:35 CDT_
 | 2026-04-13 | point72 | [Machine Learning Engineer, Genai Technology](https://boards.greenhouse.io/point72/jobs/8392983002?gh_jid=8392983002) | United States | greenhouse |
 | 2026-04-13 | remotereferralboardinternaluseonly | [Finance Systems Data Analyst](https://job-boards.greenhouse.io/remotereferralboardinternaluseonly/jobs/7551275003) | Remote-Europe | greenhouse |
 | 2026-04-13 | remotereferralboardinternaluseonly | [Senior Treasury Business Intelligence Analyst](https://job-boards.greenhouse.io/remotereferralboardinternaluseonly/jobs/7674094003) | Remote-EMEA&India | greenhouse |
-| 2026-04-13 | remotecom | [Finance Systems Data Analyst](https://job-boards.greenhouse.io/remotecom/jobs/7551628003) | Remote-Western Europe | greenhouse |
 | 2026-04-13 | remotecom | [Finance Systems Data Analyst](https://job-boards.greenhouse.io/remotecom/jobs/7547120003) | Remote-Southern Europe | greenhouse |
+| 2026-04-13 | remotecom | [Finance Systems Data Analyst](https://job-boards.greenhouse.io/remotecom/jobs/7551628003) | Remote-Western Europe | greenhouse |
 | 2026-04-13 | remotecom | [Senior Treasury Business Intelligence Analyst](https://job-boards.greenhouse.io/remotecom/jobs/7673844003) | Remote-UK&I | greenhouse |
 | 2026-04-13 | remotecom | [Senior Treasury Business Intelligence Analyst](https://job-boards.greenhouse.io/remotecom/jobs/7674093003) | Remote-India | greenhouse |
 | 2026-04-13 | enscohotjobs | [Railway Research Engineer](https://job-boards.greenhouse.io/enscohotjobs/jobs/5124107008) | Pueblo, Colorado, United States | greenhouse |
