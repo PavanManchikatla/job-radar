@@ -8297,7 +8297,6 @@ go1us	no_matching_jobs
 impact	no_matching_jobs
 neoris	no_matching_jobs
 everdriven	no_matching_jobs
-yipitdata	no_matching_jobs
 trustpilot	no_matching_jobs
 taxibeat	http_404
 momentus	no_matching_jobs
@@ -8386,7 +8385,6 @@ ladder33	no_matching_jobs
 coreweaveu	no_matching_jobs
 greenlightguru	no_matching_jobs
 paypaycard	no_matching_jobs
-papa	no_matching_jobs
 c3integratedsolutions	no_matching_jobs
 trayio	http_404
 cityoffortworth	no_matching_jobs
