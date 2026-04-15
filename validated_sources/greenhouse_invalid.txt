@@ -6760,7 +6760,6 @@ enveritas	no_matching_jobs
 eigerjobs	no_matching_jobs
 aura798	no_matching_jobs
 appnovation	no_matching_jobs
-honor	no_matching_jobs
 broadwayventures	no_matching_jobs
 nurdie	no_matching_jobs
 trinityairmedical	no_matching_jobs
@@ -8447,7 +8446,6 @@ pieinsurance	no_matching_jobs
 olivai	no_matching_jobs
 eaf	http_404
 doublegood	no_matching_jobs
-marqeta	no_matching_jobs
 5wpr	no_matching_jobs
 leadingeducators	no_matching_jobs
 microblink	no_matching_jobs
@@ -8645,7 +8643,6 @@ atek	no_matching_jobs
 moneylion	http_404
 armissecurity	no_matching_jobs
 zennify	no_matching_jobs
-mqreferrals	no_matching_jobs
 jwp	no_matching_jobs
 innovaccer	http_404
 dianthustherapeutics	no_matching_jobs
@@ -9578,7 +9575,6 @@ etleap	http_404
 padlet	http_404
 simplyinsured	http_404
 wefunder	http_404
-lob	no_matching_jobs
 influxdata	http_404
 aptdeco	http_404
 goldbelly	no_matching_jobs
@@ -12937,7 +12933,6 @@ knack	no_matching_jobs
 knoetic	http_404
 knightdivisiontactical	no_matching_jobs
 knotstandard	http_404
-kodiaksolutions	no_matching_jobs
 kodiakcakes	http_404
 koho	http_404
 kojotechnologies	http_404
@@ -12999,7 +12994,6 @@ leiainc	http_404
 leit	no_matching_jobs
 lelandsaylorassociates	no_matching_jobs
 lemonlightmediainc	http_404
-leolabsinc	no_matching_jobs
 letgo	http_404
 letote	http_404
 lendzfinancial	no_matching_jobs
