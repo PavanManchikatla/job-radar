@@ -9436,7 +9436,6 @@ bedrockenergy	no_matching_jobs
 bluematrix	http_404
 brightonjones	no_matching_jobs
 bighealth	no_matching_jobs
-brillio-2	no_matching_jobs
 beaverprocess	no_matching_jobs
 brightmachines	no_matching_jobs
 auw	no_matching_jobs
@@ -9940,7 +9939,6 @@ scoperecruiting	no_matching_jobs
 scholarrock	no_matching_jobs
 saronic	no_matching_jobs
 seedify-fund	no_matching_jobs
-redsox	no_matching_jobs
 sequel-med-tech	no_matching_jobs
 serigraph	no_matching_jobs
 schmidt-entities	no_matching_jobs
