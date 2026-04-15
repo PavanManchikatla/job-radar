@@ -1,11 +1,13 @@
 # Jobs Feed (Page 1/1)
 
-_Last updated: 2026-04-14 22:00 CDT_
+_Last updated: 2026-04-15 01:35 CDT_
 
 | Posted | Company | Title | Location | Source |
 |---|---|---|---|---|
-| 2026-04-15 | webflow | [Lead AI Engineer, Enterprise AI Operations](https://job-boards.greenhouse.io/webflow/jobs/7689676) | U.S. Remote | greenhouse |
+| 2026-04-15 | vulncheck | [Senior AI Engineer](https://job-boards.greenhouse.io/vulncheck/jobs/4219227009) | Remote US | greenhouse |
 | 2026-04-15 | verisign | [Sr Research Engineer](https://job-boards.greenhouse.io/verisign/jobs/7636398003) | Reston,Virginia,United States | greenhouse |
+| 2026-04-15 | funga | [Data Scientist](https://job-boards.greenhouse.io/funga/jobs/5155669008) | Austin, TX | greenhouse |
+| 2026-04-15 | webflow | [Lead AI Engineer, Enterprise AI Operations](https://job-boards.greenhouse.io/webflow/jobs/7689676) | U.S. Remote | greenhouse |
 | 2026-04-15 | figma | [AI Applied Scientist](https://boards.greenhouse.io/figma/jobs/5707966004?gh_jid=5707966004) | San Francisco, CA • New York, NY • United States | greenhouse |
 | 2026-04-15 | figma | [Data Engineer](https://boards.greenhouse.io/figma/jobs/5220003004?gh_jid=5220003004) | San Francisco, CA • New York, NY • United States | greenhouse |
 | 2026-04-15 | figma | [Data Scientist](https://boards.greenhouse.io/figma/jobs/5552580004?gh_jid=5552580004) | San Francisco, CA • New York, NY • United States | greenhouse |
@@ -128,7 +130,6 @@ _Last updated: 2026-04-14 22:00 CDT_
 | 2026-04-14 | sonatus | [Senior Staff AI Engineer](https://job-boards.greenhouse.io/sonatus/jobs/5071418007) | Sunnyvale, CA | greenhouse |
 | 2026-04-14 | sonatus | [Staff AI Engineer, Agentic AI Application - Office of the CTO](https://job-boards.greenhouse.io/sonatus/jobs/5059580007) | Sunnyvale, CA | greenhouse |
 | 2026-04-14 | sonatus | [Staff AI Engineer, Data Analytics & Modeling - Office of the CTO](https://job-boards.greenhouse.io/sonatus/jobs/5059644007) | Sunnyvale, CA | greenhouse |
-| 2026-04-14 | vulncheck | [Senior AI Engineer](https://job-boards.greenhouse.io/vulncheck/jobs/4219227009) | Remote US | greenhouse |
 | 2026-04-14 | olsson | [Assistant Fire Protection Engineer - Data Engineer](https://job-boards.greenhouse.io/olsson/jobs/5188164008) | Dallas, TX; Fort Worth, TX; North Kansas City, MO; Omaha, NE; Tulsa, OK | greenhouse |
 | 2026-04-14 | coreweave | [Senior Engineering Manager, Data Engineering](https://coreweave.com/careers/job?4629116006&board=coreweave&gh_jid=4629116006) | Bellevue, WA/Sunnyvale, CA/New York, NY/Livingston, NJ | greenhouse |
 | 2026-04-14 | biohub | [Machine Learning Engineer , AI](https://job-boards.greenhouse.io/biohub/jobs/7793658) | Redwood City, CA (Hybrid) | greenhouse |
