@@ -1,18 +1,18 @@
 ## Jobs Feed (auto-updated)
 
 <!-- JOBS:START -->
-_Last updated: 2026-04-15 22:08 CDT_
+_Last updated: 2026-04-16 01:37 CDT_
 
 Page 1/2 | [Next](exports/pages/jobs_page_2.md)
 
 | Posted | Company | Title | Location | Source |
 |---|---|---|---|---|
-| 2026-04-16 | waymo | [Applied Research Scientist, Perception LLM/VLM (PhD, New Grad)](https://careers.withwaymo.com/jobs?gh_jid=7488508) | Mountain View, CA USA;  San Francisco, CA USA; | greenhouse |
-| 2026-04-16 | waymo | [Applied Research Scientist, 3D Object Detection  (PhD New Grad)](https://careers.withwaymo.com/jobs?gh_jid=7467839) | Mountain View, CA USA;  San Francisco, CA USA; | greenhouse |
-| 2026-04-16 | waymo | [Machine Learning Engineer, 3D Object Detection  (PhD New Grad)](https://careers.withwaymo.com/jobs?gh_jid=7539786) | Mountain View, CA USA;  San Francisco, CA USA; | greenhouse |
-| 2026-04-16 | able | [Staff Data Engineer](https://job-boards.greenhouse.io/able/jobs/8509491002) | Remote, LATAM | greenhouse |
+| 2026-04-16 | waymo | [Senior Staff ML Engineer, Driver Understanding and Evaluation](https://careers.withwaymo.com/jobs?gh_jid=7421737) | Mountain View,  CA, United States | greenhouse |
+| 2026-04-16 | waymo | [Senior Machine Learning Engineer, Driver Understanding and Evaluation](https://careers.withwaymo.com/jobs?gh_jid=7456078) | Mountain View, CA, USA | greenhouse |
+| 2026-04-16 | waymo | [Staff Machine Learning Engineer (Infra), Driver Understanding and Evaluation](https://careers.withwaymo.com/jobs?gh_jid=7438635) | Mountain View, CA, USA | greenhouse |
+| 2026-04-16 | waymo | [Machine Learning Engineer, Driver Understanding and Evaluation](https://careers.withwaymo.com/jobs?gh_jid=7455853) | Mountain View, CA, USA | greenhouse |
+| 2026-04-16 | waymo | [Staff Machine Learning Engineer, Driver Understanding and Evaluation](https://careers.withwaymo.com/jobs?gh_jid=7442152) | Mountain View, CA, USA | greenhouse |
 | 2026-04-16 | verisign | [Sr Research Engineer](https://job-boards.greenhouse.io/verisign/jobs/7636398003) | Reston,Virginia,United States | greenhouse |
-| 2026-04-16 | waymo | [Principal Software Engineer, ML System Architect](https://careers.withwaymo.com/jobs?gh_jid=7773177) | Mountain View, CA, USA | greenhouse |
 | 2026-04-16 | chime | [Data Analyst, Financial Crimes & Identity](https://boards.greenhouse.io/chime/jobs/8485895002?gh_jid=8485895002) | Chicago, IL, USA; San Francisco, CA, USA | greenhouse |
 | 2026-04-16 | chime | [Lead Data Analyst](https://boards.greenhouse.io/chime/jobs/8403069002?gh_jid=8403069002) | San Francisco, CA, USA | greenhouse |
 | 2026-04-16 | chime | [Lead Data Analyst, Growth Science](https://boards.greenhouse.io/chime/jobs/8462910002?gh_jid=8462910002) | New York, NY, USA; San Francisco, CA, USA; Seattle, WA, USA | greenhouse |
@@ -20,6 +20,12 @@ Page 1/2 | [Next](exports/pages/jobs_page_2.md)
 | 2026-04-16 | chime | [Senior Data Analyst, Trust & Safety](https://boards.greenhouse.io/chime/jobs/8344063002?gh_jid=8344063002) | San Francisco, CA, USA | greenhouse |
 | 2026-04-16 | chime | [Sr. Data Analyst, Lifecycle Marketing](https://boards.greenhouse.io/chime/jobs/8445046002?gh_jid=8445046002) | New York, NY, USA; San Francisco, CA, USA; Seattle, WA, USA | greenhouse |
 | 2026-04-16 | chime | [Staff Data Analyst](https://boards.greenhouse.io/chime/jobs/8403065002?gh_jid=8403065002) | San Francisco, CA, USA | greenhouse |
+| 2026-04-16 | striveworks | [Senior Machine Learning Engineer (Active Secret Clearance)](https://job-boards.greenhouse.io/striveworks/jobs/7702517003) | Austin, Texas or Remote | greenhouse |
+| 2026-04-16 | waymo | [Applied Research Scientist, Perception LLM/VLM (PhD, New Grad)](https://careers.withwaymo.com/jobs?gh_jid=7488508) | Mountain View, CA USA;  San Francisco, CA USA; | greenhouse |
+| 2026-04-16 | waymo | [Applied Research Scientist, 3D Object Detection  (PhD New Grad)](https://careers.withwaymo.com/jobs?gh_jid=7467839) | Mountain View, CA USA;  San Francisco, CA USA; | greenhouse |
+| 2026-04-16 | waymo | [Machine Learning Engineer, 3D Object Detection  (PhD New Grad)](https://careers.withwaymo.com/jobs?gh_jid=7539786) | Mountain View, CA USA;  San Francisco, CA USA; | greenhouse |
+| 2026-04-16 | able | [Staff Data Engineer](https://job-boards.greenhouse.io/able/jobs/8509491002) | Remote, LATAM | greenhouse |
+| 2026-04-16 | waymo | [Principal Software Engineer, ML System Architect](https://careers.withwaymo.com/jobs?gh_jid=7773177) | Mountain View, CA, USA | greenhouse |
 | 2026-04-16 | forgeglobal | [Senior Data Engineer](https://job-boards.greenhouse.io/forgeglobal/jobs/5921622004) | Denver, Colorado, United States | greenhouse |
 | 2026-04-16 | forgeglobal | [Senior Data Engineer](https://job-boards.greenhouse.io/forgeglobal/jobs/5921621004) | New York, New York, United States | greenhouse |
 | 2026-04-16 | forgeglobal | [Senior Data Engineer](https://job-boards.greenhouse.io/forgeglobal/jobs/5921620004) | San Francisco, California, United States | greenhouse |
@@ -387,7 +393,6 @@ Page 1/2 | [Next](exports/pages/jobs_page_2.md)
 | 2026-04-14 | SEEKING | [AI/ML Engineer](https://news.ycombinator.com/item?id=47759666) | Auburn AL → SF/Seattle/NYC/Remote, F-1 STEM OPT through Feb 2028 (no sponsorship needed) 4 yrs production GenAI: AWS Bedrock RAG (92% recall, HIPAA), LangGraph multi-agent copilots shipped to prod, QLoRA/LLaMA 2 fine-tuning, LangChain/LlamaIndex, Python, Docker/K8s. Co-author ACL 2024 (healthcare AI). MS Data Science UNT 2024. Currently ML Research Scientist @ Auburn (multi-agent VLMs). Open to: Applied Scientist / ML Eng / GenAI Eng / AI Eng Email: ksaimanikanta4@gmail.com GitHub: github.com/saikasireddy Resume: [ https://docs.google.com/document/d/1pjp-I0XfRP96fxu-nbIdOAVQ... ] | hn_hiring |
 | 2026-04-13 | servicenow | [Senior Staff Machine Learning Engineer](https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000120557977) | Santa Clara CALIFORNIA us | smartrecruiters |
 | 2026-04-13 | ridgeline | [Senior Staff AI Research Engineer, AI Platform](https://boards.greenhouse.io/ridgeline/jobs/7699222003?gh_jid=7699222003) | New York, NY | greenhouse |
-| 2026-04-13 | waymo | [Senior Machine Learning Engineer](https://careers.withwaymo.com/jobs?gh_jid=7456078) | Mountain View, CA, USA | greenhouse |
 | 2026-04-13 | nexhealth | [Staff Data Engineer](https://www.nexhealth.com/careers/open-positions?gh_jid=5584552004) | San Francisco, California, United States | greenhouse |
 | 2026-04-13 | tenstorrent | [C++ Machine Learning Engineer, AI Models Training](https://job-boards.greenhouse.io/tenstorrent/jobs/4607141007) | Santa Clara, California, United States | greenhouse |
 | 2026-04-13 | gofundme | [Senior Machine Learning Engineer](https://job-boards.greenhouse.io/gofundme/jobs/7456572) | San Francisco, CA | greenhouse |
@@ -405,8 +410,8 @@ Page 1/2 | [Next](exports/pages/jobs_page_2.md)
 | 2026-04-13 | janestreet | [Data Engineer](https://job-boards.greenhouse.io/janestreet/jobs/6558007002) | New York, New York, United States | greenhouse |
 | 2026-04-13 | janestreet | [Campus Recruiter, Machine Learning and Quantitative Research](https://job-boards.greenhouse.io/janestreet/jobs/8229056002) | New York, New York, United States | greenhouse |
 | 2026-04-13 | janestreet | [Machine Learning Educator](https://job-boards.greenhouse.io/janestreet/jobs/8056588002) | New York, New York, United States | greenhouse |
-| 2026-04-13 | janestreet | [Machine Learning Engineer](https://job-boards.greenhouse.io/janestreet/jobs/8048874002) | New York, New York, United States | greenhouse |
 | 2026-04-13 | janestreet | [Machine Learning Engineer](https://job-boards.greenhouse.io/janestreet/jobs/6485460002) | New York, New York, United States | greenhouse |
+| 2026-04-13 | janestreet | [Machine Learning Engineer](https://job-boards.greenhouse.io/janestreet/jobs/8048874002) | New York, New York, United States | greenhouse |
 | 2026-04-13 | janestreet | [Machine Learning Performance Engineer](https://job-boards.greenhouse.io/janestreet/jobs/7449077002) | New York, New York, United States | greenhouse |
 | 2026-04-13 | janestreet | [Machine Learning Performance Engineer](https://job-boards.greenhouse.io/janestreet/jobs/7449190002) | New York, New York, United States | greenhouse |
 | 2026-04-13 | janestreet | [Machine Learning Researcher](https://job-boards.greenhouse.io/janestreet/jobs/4276720002) | New York, New York, United States | greenhouse |
@@ -502,11 +507,6 @@ Page 1/2 | [Next](exports/pages/jobs_page_2.md)
 | 2026-04-13 | remotecom | [Senior Treasury Business Intelligence Analyst](https://job-boards.greenhouse.io/remotecom/jobs/7673844003) | Remote-UK&I | greenhouse |
 | 2026-04-13 | remotecom | [Senior Treasury Business Intelligence Analyst](https://job-boards.greenhouse.io/remotecom/jobs/7674093003) | Remote-India | greenhouse |
 | 2026-04-13 | enscohotjobs | [Railway Research Engineer](https://job-boards.greenhouse.io/enscohotjobs/jobs/5124107008) | Pueblo, Colorado, United States | greenhouse |
-| 2026-04-13 | ensco | [Railway Research Engineer](https://job-boards.greenhouse.io/ensco/jobs/5114386008) | Pueblo, Colorado, United States | greenhouse |
-| 2026-04-13 | bandwidth | [Sr. Analytics Engineer](https://job-boards.greenhouse.io/bandwidth/jobs/7583357) | Raleigh, NC | greenhouse |
-| 2026-04-13 | govini | [Senior Data Analyst](https://job-boards.greenhouse.io/govini/jobs/4077199009) | Arlington, Virginia, United States | greenhouse |
-| 2026-04-13 | precisionaq | [AI/ML Engineer II](https://job-boards.greenhouse.io/precisionaq/jobs/5850685004) | Remote, India | greenhouse |
-| 2026-04-13 | precisionmedicinegroup | [AI/ML Engineer II](https://job-boards.greenhouse.io/precisionmedicinegroup/jobs/5850683004) | Remote, India | greenhouse |
 
 Page 1/2 | [Next](exports/pages/jobs_page_2.md)
 <!-- JOBS:END -->
