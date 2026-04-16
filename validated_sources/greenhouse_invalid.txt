@@ -7088,7 +7088,6 @@ delawaretitleloansinc	no_jobs
 vitablehealth	no_matching_jobs
 found	no_matching_jobs
 oncoverycare	no_matching_jobs
-transcarent	no_matching_jobs
 varicent	no_matching_jobs
 gardacp	no_matching_jobs
 mathersplendido	no_matching_jobs
@@ -7396,7 +7395,6 @@ vitahealth	no_matching_jobs
 dialership	no_matching_jobs
 cleo-emea	no_jobs
 jobsatphamily	no_matching_jobs
-valtech	no_matching_jobs
 flamingo	no_matching_jobs
 smus	http_404
 monumentalsports	no_matching_jobs
@@ -8294,7 +8292,6 @@ trustpilot	no_matching_jobs
 taxibeat	http_404
 momentus	no_matching_jobs
 hc360	no_matching_jobs
-powerdigitalmarketing	no_matching_jobs
 durable	no_matching_jobs
 xgs	http_404
 zenjob	http_404

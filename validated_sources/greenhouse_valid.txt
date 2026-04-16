@@ -793,3 +793,6 @@ leolabsinc
 generalmatter
 hut8
 nflcareers
+transcarent
+valtech
+powerdigitalmarketing
