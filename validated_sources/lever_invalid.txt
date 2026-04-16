@@ -16019,7 +16019,6 @@ cybcube	http_404
 datahawk	http_404
 deliveryrelay	http_404
 dds	http_404
-daniels-sharpsmart	no_matching_jobs
 deloitte	http_404
 deft	http_404
 defialliance	http_404
@@ -16039,7 +16038,6 @@ deltadental	http_404
 dgraph	http_404
 device42	http_404
 dexcarehealth	no_matching_jobs
-crumbl	no_matching_jobs
 cygn	no_matching_jobs
 didomi	no_matching_jobs
 digital-matter	no_matching_jobs
