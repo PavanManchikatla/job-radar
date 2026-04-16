@@ -8023,7 +8023,6 @@ physiciansandproviders	no_matching_jobs
 trailerpark	no_matching_jobs
 hillel	no_matching_jobs
 blend	no_matching_jobs
-hut8	no_matching_jobs
 toojaysdeli	no_matching_jobs
 advancedtechnologyservices	no_matching_jobs
 launch2	no_matching_jobs
@@ -8557,7 +8556,6 @@ cajal-tx	no_jobs
 openeye	no_matching_jobs
 ambient	http_404
 watershed	no_matching_jobs
-nflcareers	no_matching_jobs
 applytopassagehealth	no_matching_jobs
 helium	no_jobs
 recorainc	http_404

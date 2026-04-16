@@ -9559,7 +9559,6 @@ enable	no_matching_jobs
 crypto-banter	no_matching_jobs
 espresso	http_404
 edpuzzle	no_matching_jobs
-ethenalabs	no_matching_jobs
 ethereumfoundation	no_jobs
 espace	no_matching_jobs
 eve	http_404
