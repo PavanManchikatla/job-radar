@@ -255,7 +255,6 @@ protractor	http_404
 testim	http_404
 h2o.ai	http_404
 katalon	http_404
-dataiku	no_matching_jobs
 jupyter	http_404
 zeppelin	http_404
 observable	http_404
@@ -5013,7 +5012,6 @@ hashgraph	no_matching_jobs
 andesite	no_matching_jobs
 octanelending	no_matching_jobs
 ohsufoundation	no_matching_jobs
-qcentrix	no_matching_jobs
 ukmed	no_matching_jobs
 onemedical	no_matching_jobs
 cutover	no_matching_jobs

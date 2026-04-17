@@ -805,3 +805,5 @@ faradayfuture
 stage
 midihealth
 syndigo
+dataiku
+qcentrix
