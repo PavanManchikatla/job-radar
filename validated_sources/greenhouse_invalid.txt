@@ -5260,7 +5260,6 @@ telgorithm	http_404
 atlassand	no_matching_jobs
 hook	no_matching_jobs
 studycontractors	no_matching_jobs
-syndigo	no_matching_jobs
 simula	no_matching_jobs
 vixxo	no_matching_jobs
 emslinqinc	no_matching_jobs

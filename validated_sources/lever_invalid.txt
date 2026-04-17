@@ -9612,7 +9612,6 @@ gettyimages	no_matching_jobs
 futureof-life	no_matching_jobs
 goalbookapp-2	no_matching_jobs
 givinghhc	no_matching_jobs
-foodsmart	no_matching_jobs
 gearset	no_matching_jobs
 genedit	http_404
 glsllc	no_matching_jobs

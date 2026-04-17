@@ -168,3 +168,4 @@ analyticpartners
 crumbl
 daniels-sharpsmart
 ethenalabs
+foodsmart
