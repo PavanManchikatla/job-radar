@@ -2239,7 +2239,6 @@ screen holdings	http_404
 alliance	no_jobs
 tokyo electron	http_404
 kokusai electric	http_404
-disco	no_matching_jobs
 ebara	http_404
 mad gaze glow	http_404
 asm international	http_404
@@ -5593,7 +5592,6 @@ oasisnetwork	http_404
 tutorme	no_jobs
 authenticbrandsgroup	no_matching_jobs
 quisitivejobs	no_matching_jobs
-merceradvisors	no_matching_jobs
 cloudbeds	no_matching_jobs
 lucanetgroup	no_matching_jobs
 penninteractive	no_matching_jobs
@@ -7944,7 +7942,6 @@ janetechnologies	http_404
 method	no_matching_jobs
 jrmconstructionmanagementllc	no_matching_jobs
 goldenstate	no_matching_jobs
-praxisprecisionmedicines	no_matching_jobs
 kmgmedicalgroup	no_jobs
 cosmoslabs	no_matching_jobs
 portable	no_matching_jobs
@@ -8277,7 +8274,6 @@ eyeo	no_matching_jobs
 maev	no_jobs
 havenly	http_404
 go1us	no_matching_jobs
-impact	no_matching_jobs
 neoris	no_matching_jobs
 everdriven	no_matching_jobs
 trustpilot	no_matching_jobs
@@ -8498,7 +8494,6 @@ nauto	no_matching_jobs
 tripadvisor	no_matching_jobs
 tenableinc	no_matching_jobs
 wgachidden	no_matching_jobs
-patientpoint	no_matching_jobs
 xosinc	no_matching_jobs
 vibesllc	no_matching_jobs
 apono	no_matching_jobs
@@ -11729,7 +11724,6 @@ bevicareers	no_matching_jobs
 beyondidcareers	http_404
 beyondidentity	no_jobs
 beyondidtalentcommunity	http_404
-bfiprep	no_matching_jobs
 beyondmissioncapablesolutionsllc	no_jobs
 bidease	no_matching_jobs
 billfront	http_404

@@ -807,3 +807,9 @@ midihealth
 syndigo
 dataiku
 qcentrix
+disco
+merceradvisors
+praxisprecisionmedicines
+impact
+patientpoint
+bfiprep
