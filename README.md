@@ -1,17 +1,23 @@
 ## Jobs Feed (auto-updated)
 
 <!-- JOBS:START -->
-_Last updated: 2026-04-17 01:39 CDT_
+_Last updated: 2026-04-17 04:52 CDT_
 
 | Posted | Company | Title | Location | Source |
 |---|---|---|---|---|
+| 2026-04-17 | robinhood | [Staff Machine Learning Engineer, Agentic](https://boards.greenhouse.io/robinhood/jobs/7676714?t=gh_src=&gh_jid=7676714) | Bellevue, WA; Menlo Park, CA | greenhouse |
+| 2026-04-17 | robinhood | [Senior Data Scientist, ML (Incentives)](https://boards.greenhouse.io/robinhood/jobs/7596426?t=gh_src=&gh_jid=7596426) | Menlo Park, CA | greenhouse |
+| 2026-04-17 | robinhood | [Staff Data Scientist, Product (Crypto)](https://boards.greenhouse.io/robinhood/jobs/7489743?t=gh_src=&gh_jid=7489743) | Menlo Park, CA; New York, NY | greenhouse |
+| 2026-04-17 | robinhood | [Senior Data Scientist, ML (Brokerage)](https://boards.greenhouse.io/robinhood/jobs/7482186?t=gh_src=&gh_jid=7482186) | Menlo Park, CA; New York, NY | greenhouse |
+| 2026-04-17 | robinhood | [Senior Data Scientist, Fraud](https://boards.greenhouse.io/robinhood/jobs/7412037?t=gh_src=&gh_jid=7412037) | Menlo Park, CA | greenhouse |
+| 2026-04-17 | robinhood | [Senior Machine Learning Engineer, Agentic](https://boards.greenhouse.io/robinhood/jobs/7121213?t=gh_src=&gh_jid=7121213) | Bellevue, WA; Menlo Park, CA | greenhouse |
+| 2026-04-17 | verisign | [Sr Research Engineer](https://job-boards.greenhouse.io/verisign/jobs/7636398003) | Reston,Virginia,United States | greenhouse |
 | 2026-04-17 | fourkites | [Staff AI Engineer](https://job-boards.greenhouse.io/fourkites/jobs/7404926) | Chennai or Remote, India | greenhouse |
 | 2026-04-17 | lightningai | [Lead Research Engineer](https://job-boards.greenhouse.io/lightningai/jobs/7546419003) | London, England, United Kingdom; New York, New York, United States; San Francisco, California, United States | greenhouse |
 | 2026-04-17 | lightningai | [Senior Application Security Engineer, AI and Machine Learning](https://job-boards.greenhouse.io/lightningai/jobs/7687112003) | San Francisco, California, United States; Seattle, Washington, United States | greenhouse |
 | 2026-04-17 | lightningai | [Research Engineer](https://job-boards.greenhouse.io/lightningai/jobs/6045023003) | London, England, United Kingdom; New York, New York, United States; San Francisco, California, United States | greenhouse |
 | 2026-04-17 | lightningai | [Machine Learning Solutions Engineer](https://job-boards.greenhouse.io/lightningai/jobs/5868155003) | New York, New York, United States | greenhouse |
 | 2026-04-17 | covar | [Machine Learning Engineer](https://job-boards.greenhouse.io/covar/jobs/5097883007) | Durham, NC | greenhouse |
-| 2026-04-17 | verisign | [Sr Research Engineer](https://job-boards.greenhouse.io/verisign/jobs/7636398003) | Reston,Virginia,United States | greenhouse |
 | 2026-04-17 | klaviyo | [Senior AI Engineer](https://www.klaviyo.com/careers/jobs?gh_jid=7502768003) | Boston, MA | greenhouse |
 | 2026-04-17 | evio | [Data Engineer (Remote)](https://job-boards.greenhouse.io/evio/jobs/4648240005) | Remote, United States | greenhouse |
 | 2026-04-17 | syndigo | [Senior Data Scientist](https://syndigo.com/open-positions/?gh_jid=5970904004) | Remote - UK | greenhouse |
@@ -312,14 +318,8 @@ _Last updated: 2026-04-17 01:39 CDT_
 | 2026-04-15 | airbnb | [Senior Data Scientist, Causal Inference](https://careers.airbnb.com/positions/7662244?gh_jid=7662244) | Remote | greenhouse |
 | 2026-04-15 | robinhood | [Data Scientist, Product](https://boards.greenhouse.io/robinhood/jobs/7324983?t=gh_src=&gh_jid=7324983) | New York, NY | greenhouse |
 | 2026-04-15 | robinhood | [Senior Analytics Engineer, Corporate Strategy](https://boards.greenhouse.io/robinhood/jobs/7346630?t=gh_src=&gh_jid=7346630) | Menlo Park, CA | greenhouse |
-| 2026-04-15 | robinhood | [Senior Data Scientist, Fraud](https://boards.greenhouse.io/robinhood/jobs/7412037?t=gh_src=&gh_jid=7412037) | Menlo Park, CA | greenhouse |
-| 2026-04-15 | robinhood | [Senior Data Scientist, ML (Brokerage)](https://boards.greenhouse.io/robinhood/jobs/7482186?t=gh_src=&gh_jid=7482186) | Menlo Park, CA; New York, NY | greenhouse |
-| 2026-04-15 | robinhood | [Senior Data Scientist, ML (Incentives)](https://boards.greenhouse.io/robinhood/jobs/7596426?t=gh_src=&gh_jid=7596426) | Menlo Park, CA | greenhouse |
 | 2026-04-15 | robinhood | [Senior Data Scientist, Product](https://boards.greenhouse.io/robinhood/jobs/7324981?t=gh_src=&gh_jid=7324981) | Menlo Park, CA | greenhouse |
-| 2026-04-15 | robinhood | [Senior Machine Learning Engineer, Agentic](https://boards.greenhouse.io/robinhood/jobs/7121213?t=gh_src=&gh_jid=7121213) | Bellevue, WA; Menlo Park, CA | greenhouse |
 | 2026-04-15 | robinhood | [Senior Software Engineer, Data Engineering](https://boards.greenhouse.io/robinhood/jobs/4738660?t=gh_src=&gh_jid=4738660) | Menlo Park, CA | greenhouse |
-| 2026-04-15 | robinhood | [Staff Data Scientist, Product (Crypto)](https://boards.greenhouse.io/robinhood/jobs/7489743?t=gh_src=&gh_jid=7489743) | Menlo Park, CA; New York, NY | greenhouse |
-| 2026-04-15 | robinhood | [Staff Machine Learning Engineer, Agentic](https://boards.greenhouse.io/robinhood/jobs/7676714?t=gh_src=&gh_jid=7676714) | Bellevue, WA; Menlo Park, CA | greenhouse |
 | 2026-04-15 | planetlabs | [AI Engineer, Marketing](https://job-boards.greenhouse.io/planetlabs/jobs/7782587) | Arlington, VA | greenhouse |
 | 2026-04-15 | planetlabs | [AI Engineer, Marketing](https://job-boards.greenhouse.io/planetlabs/jobs/7782580) | San Francisco, CA | greenhouse |
 | 2026-04-15 | exiger | [Data Scientist - Healthcare Supply Chain Riskdata](https://www.exiger.com/careers/5867784004?gh_jid=5867784004) | McLean, Virginia, United States | greenhouse |
@@ -500,5 +500,4 @@ _Last updated: 2026-04-17 01:39 CDT_
 | 2026-04-14 | torcrobotics | [Staff, ML Engineer - BEV](https://job-boards.greenhouse.io/torcrobotics/jobs/8304688002) | Remote - US, Ann Arbor, MI | greenhouse |
 | 2026-04-14 | prolific | [Research Scientist](https://job-boards.eu.greenhouse.io/prolific/jobs/4840827101) | Remote, US, East Coast | greenhouse |
 | 2026-04-14 | prolific | [Research Scientist](https://job-boards.eu.greenhouse.io/prolific/jobs/4840804101) | Remote, UK | greenhouse |
-| 2026-04-14 | realtimeboardglobal | [Machine Learning Research Engineer](https://miro.com/careers/vacancy/8395672002?gh_jid=8395672002) | Copenhagen, DK; London, UK; Remote EMEA | greenhouse |
 <!-- JOBS:END -->
