@@ -5281,7 +5281,6 @@ system	no_matching_jobs
 spotonproduct	http_404
 parento	no_matching_jobs
 hometapjobs	no_matching_jobs
-bloomerang	no_matching_jobs
 otrcapital1	no_matching_jobs
 jnanatherapeutics	http_404
 focuspartnerswealth	no_matching_jobs
@@ -5307,7 +5306,6 @@ forter	no_matching_jobs
 nyiso	no_matching_jobs
 veterinarypracticepartners	no_matching_jobs
 snapdocs	http_404
-gumgum	no_matching_jobs
 candid	no_matching_jobs
 rockbot	no_matching_jobs
 unframe	no_matching_jobs
@@ -7156,7 +7154,6 @@ roivantsciences	no_matching_jobs
 aptoslabs	no_matching_jobs
 supraoracles	http_404
 worksighted	no_jobs
-mixmode	no_matching_jobs
 dollarshaveclub	no_matching_jobs
 practisinglawinstitute	no_matching_jobs
 gelbergroup	no_matching_jobs
@@ -7918,7 +7915,6 @@ healthverity	no_matching_jobs
 mbooth	no_matching_jobs
 bcomsolutions	no_matching_jobs
 unlockhealth	no_matching_jobs
-twosixtechnologies	no_matching_jobs
 studsinc	no_matching_jobs
 gravitate	no_jobs
 ncamerica	no_matching_jobs
@@ -8603,7 +8599,6 @@ acommerce	no_matching_jobs
 bedrockrobotics	no_jobs
 hyperfine53	no_matching_jobs
 studentloanhero	http_404
-baton	no_matching_jobs
 mpowerfinancing	no_matching_jobs
 oneenergyrenewables	no_matching_jobs
 axsometherapeutics	no_matching_jobs

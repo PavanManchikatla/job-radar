@@ -813,3 +813,8 @@ praxisprecisionmedicines
 impact
 patientpoint
 bfiprep
+bloomerang
+gumgum
+mixmode
+twosixtechnologies
+baton
