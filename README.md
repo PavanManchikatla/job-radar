@@ -1,9 +1,7 @@
 ## Jobs Feed (auto-updated)
 
 <!-- JOBS:START -->
-_Last updated: 2026-04-17 21:47 CDT_
-
-Page 1/2 | [Next](exports/pages/jobs_page_2.md)
+_Last updated: 2026-04-18 01:17 CDT_
 
 | Posted | Company | Title | Location | Source |
 |---|---|---|---|---|
@@ -163,13 +161,13 @@ Page 1/2 | [Next](exports/pages/jobs_page_2.md)
 | 2026-04-17 | cloverhealth | [Senior Data Analyst, Risk Adjustment](https://job-boards.greenhouse.io/cloverhealth/jobs/7624421) | Remote - USA | greenhouse |
 | 2026-04-17 | metrostarsystems | [Data Engineer (6479)](https://metrostar.com/job-post/?gh_jid=7670486003) | Remote | greenhouse |
 | 2026-04-17 | metrostarsystems | [Associate Data Engineer (6481)](https://metrostar.com/job-post/?gh_jid=7670518003) | Remote | greenhouse |
-| 2026-04-17 | equipmentsharecom | [Analytics Engineer, People Analytics](https://www.equipmentshare.com/careers/openings/?gh_jid=7527399) | Kansas City, MO | greenhouse |
-| 2026-04-17 | equipmentsharecom | [Analytics Engineer, People Analytics](https://www.equipmentshare.com/careers/openings/?gh_jid=7425513) | Dallas, TX | greenhouse |
-| 2026-04-17 | equipmentsharecom | [Analytics Engineer, People Analytics](https://www.equipmentshare.com/careers/openings/?gh_jid=7425517) | Orlando, FL (South) | greenhouse |
 | 2026-04-17 | equipmentsharecom | [Analytics Engineer, People Analytics](https://www.equipmentshare.com/careers/openings/?gh_jid=7743569) | Kansas City, MO | greenhouse |
 | 2026-04-17 | equipmentsharecom | [Analytics Engineer, People Analytics](https://www.equipmentshare.com/careers/openings/?gh_jid=7425181) | Chicago, IL (Southwest) | greenhouse |
-| 2026-04-17 | equipmentsharecom | [Analytics Engineer, People Analytics](https://www.equipmentshare.com/careers/openings/?gh_jid=7425511) | Denver, CO (North) | greenhouse |
+| 2026-04-17 | equipmentsharecom | [Analytics Engineer, People Analytics](https://www.equipmentshare.com/careers/openings/?gh_jid=7527399) | Kansas City, MO | greenhouse |
 | 2026-04-17 | equipmentsharecom | [Analytics Engineer, People Analytics](https://www.equipmentshare.com/careers/openings/?gh_jid=7527398) | St. Louis, MO | greenhouse |
+| 2026-04-17 | equipmentsharecom | [Analytics Engineer, People Analytics](https://www.equipmentshare.com/careers/openings/?gh_jid=7425517) | Orlando, FL (South) | greenhouse |
+| 2026-04-17 | equipmentsharecom | [Analytics Engineer, People Analytics](https://www.equipmentshare.com/careers/openings/?gh_jid=7425513) | Dallas, TX | greenhouse |
+| 2026-04-17 | equipmentsharecom | [Analytics Engineer, People Analytics](https://www.equipmentshare.com/careers/openings/?gh_jid=7425511) | Denver, CO (North) | greenhouse |
 | 2026-04-17 | equipmentsharecom | [Business Intelligence Analyst](https://www.equipmentshare.com/careers/openings/?gh_jid=6907590) | Columbia, MO (Headquarters) | greenhouse |
 | 2026-04-17 | equipmentsharecom | [Business Intelligence Analyst](https://www.equipmentshare.com/careers/openings/?gh_jid=7768287) | Columbia, MO (Headquarters) | greenhouse |
 | 2026-04-17 | equipmentsharecom | [Data Analyst II](https://www.equipmentshare.com/careers/openings/?gh_jid=7525188) | Columbia, MO (Headquarters) | greenhouse |
@@ -506,7 +504,4 @@ Page 1/2 | [Next](exports/pages/jobs_page_2.md)
 | 2026-04-15 | refurbed | [Senior Data Analyst (f/m/x) - remote](https://www.refurbed.de/jobs/?gh_jid=4026715101) | Remote | greenhouse |
 | 2026-04-15 | refurbed | [Senior Data Scientist (f/m/x) - remote](https://www.refurbed.de/jobs/?gh_jid=4756814101) | Remote | greenhouse |
 | 2026-04-15 | momentumfinancialservicesgroup | [Senior Data Analyst, Cards](https://job-boards.greenhouse.io/momentumfinancialservicesgroup/jobs/5189086008) | Hyderabad (Remote) | greenhouse |
-| 2026-04-15 | brillio-2 | [Forward Deployed AI Engineer - Supply Chain](https://jobs.lever.co/brillio-2/3f0ff4f2-ea43-4478-b05b-ef8e54ccb239) | Chicago, Illinois, United States | lever |
-
-Page 1/2 | [Next](exports/pages/jobs_page_2.md)
 <!-- JOBS:END -->
