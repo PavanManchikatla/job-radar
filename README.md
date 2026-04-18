@@ -1,10 +1,13 @@
 ## Jobs Feed (auto-updated)
 
 <!-- JOBS:START -->
-_Last updated: 2026-04-18 04:24 CDT_
+_Last updated: 2026-04-18 08:36 CDT_
 
 | Posted | Company | Title | Location | Source |
 |---|---|---|---|---|
+| 2026-04-18 | babylist | [Senior Engineering Manager, Machine Learning](https://job-boards.greenhouse.io/babylist/jobs/5815353004) | United States and Canada | greenhouse |
+| 2026-04-18 | shopltk | [Data Analyst](https://job-boards.greenhouse.io/shopltk/jobs/7671051003) | United States | greenhouse |
+| 2026-04-18 | lucidmotors | [Data Scientist, Sales Planning and Forecasting](https://job-boards.greenhouse.io/lucidmotors/jobs/5104100007) | Southfield, MI | greenhouse |
 | 2026-04-18 | lucidmotors | [Staff Machine Learning Engineer – (ADAS/Autonomous Driving)](https://job-boards.greenhouse.io/lucidmotors/jobs/4620390007) | Newark, CA | greenhouse |
 | 2026-04-18 | lucidmotors | [Senior Machine Learning Engineer - Model Optimization & Deployment (ADAS/Autonomous Driving)](https://job-boards.greenhouse.io/lucidmotors/jobs/4759229007) | Southfield, MI | greenhouse |
 | 2026-04-18 | biohub | [Data Engineer, AI](https://job-boards.greenhouse.io/biohub/jobs/7767734) | New York, NY (Hybrid); Redwood City, CA (Hybrid) | greenhouse |
@@ -184,8 +187,6 @@ _Last updated: 2026-04-18 04:24 CDT_
 | 2026-04-17 | torcrobotics | [ML Engineer, I - Acceleration Team](https://job-boards.greenhouse.io/torcrobotics/jobs/8492425002) | Ann Arbor, MI | greenhouse |
 | 2026-04-17 | instacart | [Senior Data Scientist (I & II)](https://instacart.careers/job/?gh_jid=4949339) | United States - Remote | greenhouse |
 | 2026-04-17 | instacart | [Senior Data Scientist (I & II)](https://instacart.careers/job/?gh_jid=4949335) | Canada - Remote (ON, AB, BC, or NS Only) | greenhouse |
-| 2026-04-17 | babylist | [Senior Engineering Manager, Machine Learning](https://job-boards.greenhouse.io/babylist/jobs/5815353004) | United States and Canada | greenhouse |
-| 2026-04-17 | shopltk | [Data Analyst](https://job-boards.greenhouse.io/shopltk/jobs/7671051003) | United States | greenhouse |
 | 2026-04-17 | yipitdatajobs | [Data Analyst](https://job-boards.greenhouse.io/yipitdatajobs/jobs/6863299) | India Remote | greenhouse |
 | 2026-04-17 | robinhood | [Staff Machine Learning Engineer, Agentic](https://boards.greenhouse.io/robinhood/jobs/7676714?t=gh_src=&gh_jid=7676714) | Bellevue, WA; Menlo Park, CA | greenhouse |
 | 2026-04-17 | robinhood | [Senior Data Scientist, ML (Incentives)](https://boards.greenhouse.io/robinhood/jobs/7596426?t=gh_src=&gh_jid=7596426) | Menlo Park, CA | greenhouse |
@@ -488,15 +489,4 @@ _Last updated: 2026-04-18 04:24 CDT_
 | 2026-04-15 | dropbox | [Senior Data Scientist, AI Products](https://jobs.dropbox.com/listing/7789386?gh_jid=7789386) | Remote - US: Select locations | greenhouse |
 | 2026-04-15 | bluefishai | [Staff Applied AI Engineer](https://job-boards.greenhouse.io/bluefishai/jobs/5187803008) | Berlin, Remote in Germany | greenhouse |
 | 2026-04-15 | klaviyo | [Software Engineer II - Analytics Data Engineering](https://www.klaviyo.com/careers/jobs?gh_jid=7669291003) | Boston, MA | greenhouse |
-| 2026-04-15 | flagshippioneeringinc | [Principal Scientist, Machine Learning, Biomolecules](https://boards.greenhouse.io/flagshippioneeringinc/jobs/8209962002?gh_jid=8209962002) | Cambridge, MA USA | greenhouse |
-| 2026-04-15 | flagshippioneeringinc | [Principal Scientist, Machine Learning, Genomics](https://boards.greenhouse.io/flagshippioneeringinc/jobs/8229819002?gh_jid=8229819002) | Cambridge, MA USA | greenhouse |
-| 2026-04-15 | flagshippioneeringinc | [Principal Scientist, Machine Learning, Origination](https://boards.greenhouse.io/flagshippioneeringinc/jobs/8229820002?gh_jid=8229820002) | Cambridge, MA USA | greenhouse |
-| 2026-04-15 | flagshippioneeringinc | [(Senior) Data Engineer](https://boards.greenhouse.io/flagshippioneeringinc/jobs/8372694002?gh_jid=8372694002) | Boston, MA USA | greenhouse |
-| 2026-04-15 | flagshippioneeringinc | [(Senior) Machine Learning Engineer / Data Scientist](https://boards.greenhouse.io/flagshippioneeringinc/jobs/8475065002?gh_jid=8475065002) | Boston, MA USA | greenhouse |
-| 2026-04-15 | flagshippioneeringinc | [(Senior) Scientist, Machine Learning](https://boards.greenhouse.io/flagshippioneeringinc/jobs/8469505002?gh_jid=8469505002) | Cambridge, MA USA | greenhouse |
-| 2026-04-15 | monzo | [Senior Machine Learning Scientist, Borrowing](https://job-boards.greenhouse.io/monzo/jobs/7686352) | Cardiff, London or Remote (UK) | greenhouse |
-| 2026-04-15 | monzo | [Senior Data Scientist - Marketing and Growth](https://job-boards.greenhouse.io/monzo/jobs/6930501) | Cardiff, London or Remote (UK) | greenhouse |
-| 2026-04-15 | monzo | [Senior Data Scientist](https://job-boards.greenhouse.io/monzo/jobs/6180814) | Cardiff, London or Remote (UK) | greenhouse |
-| 2026-04-15 | valtech | [Senior Python+AI Engineer](https://job-boards.eu.greenhouse.io/valtech/jobs/4770898101) | Ukraine - Remote | greenhouse |
-| 2026-04-15 | anthropic | [Research Engineer, AI Observability](https://job-boards.greenhouse.io/anthropic/jobs/5125083008) | San Francisco, CA | greenhouse |
 <!-- JOBS:END -->
