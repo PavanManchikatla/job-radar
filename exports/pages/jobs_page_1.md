@@ -1,9 +1,11 @@
 # Jobs Feed (Page 1/1)
 
-_Last updated: 2026-04-18 01:17 CDT_
+_Last updated: 2026-04-18 04:24 CDT_
 
 | Posted | Company | Title | Location | Source |
 |---|---|---|---|---|
+| 2026-04-18 | lucidmotors | [Staff Machine Learning Engineer – (ADAS/Autonomous Driving)](https://job-boards.greenhouse.io/lucidmotors/jobs/4620390007) | Newark, CA | greenhouse |
+| 2026-04-18 | lucidmotors | [Senior Machine Learning Engineer - Model Optimization & Deployment (ADAS/Autonomous Driving)](https://job-boards.greenhouse.io/lucidmotors/jobs/4759229007) | Southfield, MI | greenhouse |
 | 2026-04-18 | biohub | [Data Engineer, AI](https://job-boards.greenhouse.io/biohub/jobs/7767734) | New York, NY (Hybrid); Redwood City, CA (Hybrid) | greenhouse |
 | 2026-04-18 | biohub | [Director, Data Engineering](https://job-boards.greenhouse.io/biohub/jobs/7361393) | New York, NY (Hybrid); Redwood City, CA (Hybrid) | greenhouse |
 | 2026-04-18 | twilio | [Senior Manager, Machine Learning](https://job-boards.greenhouse.io/twilio/jobs/7066029) | Remote - US | greenhouse |
@@ -354,7 +356,6 @@ _Last updated: 2026-04-18 01:17 CDT_
 | 2026-04-16 | spotify | [Data Scientist - Subscriptions](https://jobs.lever.co/spotify/1bd333fe-a039-4aa7-9a84-941296bbe86b) | New York, NY | lever |
 | 2026-04-16 | wongdoody | [Senior AI Engineer](https://job-boards.greenhouse.io/wongdoody/jobs/7541781003) | Berlin, DE \| Germany (REMOTE) \| Stuttgart, DE | greenhouse |
 | 2026-04-16 | wongdoody | [Creative AI Workflow Specialist / Creative AI Engineer](https://job-boards.greenhouse.io/wongdoody/jobs/6251927003) | Berlin, DE \| Germany (REMOTE) \| Stuttgart, DE | greenhouse |
-| 2026-04-16 | lucidmotors | [Senior Machine Learning Engineer - Model Optimization & Deployment (ADAS/Autonomous Driving)](https://job-boards.greenhouse.io/lucidmotors/jobs/4759229007) | Southfield, MI | greenhouse |
 | 2026-04-16 | chime | [Data Analyst, Financial Crimes & Identity](https://boards.greenhouse.io/chime/jobs/8485895002?gh_jid=8485895002) | Chicago, IL, USA; San Francisco, CA, USA | greenhouse |
 | 2026-04-16 | chime | [Lead Data Analyst](https://boards.greenhouse.io/chime/jobs/8403069002?gh_jid=8403069002) | San Francisco, CA, USA | greenhouse |
 | 2026-04-16 | chime | [Lead Data Analyst, Growth Science](https://boards.greenhouse.io/chime/jobs/8462910002?gh_jid=8462910002) | New York, NY, USA; San Francisco, CA, USA; Seattle, WA, USA | greenhouse |
@@ -497,11 +498,5 @@ _Last updated: 2026-04-18 01:17 CDT_
 | 2026-04-15 | monzo | [Senior Data Scientist](https://job-boards.greenhouse.io/monzo/jobs/6180814) | Cardiff, London or Remote (UK) | greenhouse |
 | 2026-04-15 | valtech | [Senior Python+AI Engineer](https://job-boards.eu.greenhouse.io/valtech/jobs/4770898101) | Ukraine - Remote | greenhouse |
 | 2026-04-15 | anthropic | [Research Engineer, AI Observability](https://job-boards.greenhouse.io/anthropic/jobs/5125083008) | San Francisco, CA | greenhouse |
-| 2026-04-15 | nice | [AI Data Engineer](https://boards.eu.greenhouse.io/nice/jobs/4812095101?gh_jid=4812095101) | USA - Remote | greenhouse |
-| 2026-04-15 | nice | [Senior Software Engineer - AI Coding Agents](https://boards.eu.greenhouse.io/nice/jobs/4818439101?gh_jid=4818439101) | Seattle, Washington, United States; USA - Atlanta, GA; USA - Richardson, TX; USA - Sandy, UT | greenhouse |
-| 2026-04-15 | nice | [Software Engineer - AI Coding Agents](https://boards.eu.greenhouse.io/nice/jobs/4818465101?gh_jid=4818465101) | Seattle, Washington, United States; USA - Atlanta, GA; USA - Richardson, TX; USA - Sandy, UT | greenhouse |
-| 2026-04-15 | refurbed | [Senior Data Analyst (f/m/x) - remote](https://www.refurbed.de/jobs/?gh_jid=4026715101) | Remote | greenhouse |
-| 2026-04-15 | refurbed | [Senior Data Scientist (f/m/x) - remote](https://www.refurbed.de/jobs/?gh_jid=4756814101) | Remote | greenhouse |
-| 2026-04-15 | momentumfinancialservicesgroup | [Senior Data Analyst, Cards](https://job-boards.greenhouse.io/momentumfinancialservicesgroup/jobs/5189086008) | Hyderabad (Remote) | greenhouse |
 
 [Back to README](../../README.md)
