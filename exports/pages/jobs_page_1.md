@@ -1,6 +1,6 @@
 # Jobs Feed (Page 1/1)
 
-_Last updated: 2026-04-19 12:06 CDT_
+_Last updated: 2026-04-19 16:02 CDT_
 
 | Posted | Company | Title | Location | Source |
 |---|---|---|---|---|
@@ -215,37 +215,5 @@ _Last updated: 2026-04-19 12:06 CDT_
 | 2026-04-16 | riotgames | [Staff ML Engineer, ML Platform - Game Tech Group](https://www.riotgames.com/en/work-with-us/job/7177094?gh_jid=7177094) | Los Angeles, USA | greenhouse |
 | 2026-04-16 | tanium | [Applied AI Engineer II](https://job-boards.greenhouse.io/tanium/jobs/7800318) | Addison, TX (Hybrid); Durham, NC (Hybrid) | greenhouse |
 | 2026-04-16 | riotgames | [Principal Research Scientist, Gameplay AI - Tech Research](https://www.riotgames.com/en/work-with-us/job/7584696?gh_jid=7584696) | Los Angeles, USA; Redwood City, USA | greenhouse |
-| 2026-04-16 | spotify | [Senior Staff Machine Learning Engineer - Agentic Systems](https://jobs.lever.co/spotify/19649848-0388-4311-a184-067d9ae77cf3) | New York, NY | lever |
-| 2026-04-16 | fingerprint | [Data Scientist](https://fingerprint.com/careers/jobs/apply/?gh_jid=5656524004) | Remote | greenhouse |
-| 2026-04-16 | gympass | [Mid-Level Data Analyst \| Partnerships](https://job-boards.greenhouse.io/gympass/jobs/8506850002) | Brazil (Remote) | greenhouse |
-| 2026-04-16 | servicenow | [Principal Machine Learning Engineer - VoIP Infrastructure](https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000121283305) | Chicago Illinois us | smartrecruiters |
-| 2026-04-16 | paveakatroveinformationtechnologies | [AI Engineer - Paige](https://job-boards.greenhouse.io/paveakatroveinformationtechnologies/jobs/4660955005) | San Francisco, CA & New York, NY | greenhouse |
-| 2026-04-16 | servicenow | [Staff Machine Learning Engineer - VoIP Infrastructure](https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000121284422) | Chicago Illinois  us | smartrecruiters |
-| 2026-04-16 | servicenow | [Staff Machine Learning Engineer - VoIP Infrastructure](https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000121285417) | Atlanta Georgia us | smartrecruiters |
-| 2026-04-16 | servicenow | [Staff Machine Learning Engineer - VoIP Infrastructure](https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000121284977) | San Diego California us | smartrecruiters |
-| 2026-04-16 | servicenow | [Staff Machine Learning Engineer - VoIP Infrastructure](https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000121283323) | Kirkland Washington us | smartrecruiters |
-| 2026-04-16 | storable | [Sr. Data Engineer](https://www.storable.com/about-us/culture/careers/?gh_jid=5814651004) | United States | greenhouse |
-| 2026-04-16 | gympass | [Senior Data Engineer \| Deep Individual Data team](https://job-boards.greenhouse.io/gympass/jobs/8116065002) | Brazil (Remote) | greenhouse |
-| 2026-04-16 | komodohealth | [Staff Data Engineer](https://job-boards.greenhouse.io/komodohealth/jobs/8508919002) | United States | greenhouse |
-| 2026-04-16 | billcom | [Senior Product Data Analyst](https://www.bill.com/job?5836436004&gh_jid=5836436004) | Draper, Utah, United States; San Jose, California, United States | greenhouse |
-| 2026-04-16 | databricks | [Senior Specialist Solutions Architect - AI & ML Engineer](https://databricks.com/company/careers/open-positions/job?gh_jid=8506063002) | Finland; Remote - Denmark; Stockholm, Sweden | greenhouse |
-| 2026-04-16 | launchpotato | [Lead Analytics Manager](https://launchpotato.com/careers-list?gh_jid=5970709004) | United States (remote) | greenhouse |
-| 2026-04-16 | launchpotato | [Lead BI Developer](https://launchpotato.com/careers-list?gh_jid=5970707004) | United States (remote) | greenhouse |
-| 2026-04-16 | launchpotato | [Lead Data Analyst, Marketing](https://launchpotato.com/careers-list?gh_jid=5970710004) | United States (remote) | greenhouse |
-| 2026-04-16 | narvar | [Senior AI Engineer](https://job-boards.greenhouse.io/narvar/jobs/7363442) | Remote - Canada | greenhouse |
-| 2026-04-16 | narvar | [Senior Data Engineer](https://job-boards.greenhouse.io/narvar/jobs/7758493) | Remote - Canada | greenhouse |
-| 2026-04-16 | narvar | [Senior Software Engineer II, Machine Learning](https://job-boards.greenhouse.io/narvar/jobs/7217201) | Remote - Canada | greenhouse |
-| 2026-04-16 | brex | [Data Engineer](https://www.brex.com/careers/8510493002?gh_jid=8510493002) | Seattle, Washington, United States | greenhouse |
-| 2026-04-16 | 8451 | [Senior Data Scientist (P353)](https://job-boards.greenhouse.io/8451/jobs/8482760002) | Cincinnati, OH; Chicago, IL | greenhouse |
-| 2026-04-16 | twilio | [Machine Learning Engineer](https://job-boards.greenhouse.io/twilio/jobs/7702644) | Remote - US | greenhouse |
-| 2026-04-16 | thumbtack | [Senior Data Scientist, Paid Marketing](https://job-boards.greenhouse.io/thumbtack/jobs/7308675) | Remote, Ontario | greenhouse |
-| 2026-04-16 | thumbtack | [Senior Data Scientist, Paid Marketing](https://job-boards.greenhouse.io/thumbtack/jobs/7308673) | Remote, United States | greenhouse |
-| 2026-04-16 | transcarent | [Healthcare Data Analyst](https://boards.greenhouse.io/transcarent/jobs/5972665004?gh_jid=5972665004) | US - Remote | greenhouse |
-| 2026-04-16 | turing | [Forward Deployed AI Engineer](https://job-boards.greenhouse.io/turing/jobs/5609732004) | New York, New York, United States; San Francisco, California, United States | greenhouse |
-| 2026-04-16 | turing | [Principal AI Engineer - Frontier Data](https://job-boards.greenhouse.io/turing/jobs/5808363004) | San Francisco, California, United States | greenhouse |
-| 2026-04-16 | turing | [Principal Forward Deployed AI Engineer](https://job-boards.greenhouse.io/turing/jobs/5594226004) | New York, New York, United States | greenhouse |
-| 2026-04-16 | turing | [Principal Research Engineer - Code](https://job-boards.greenhouse.io/turing/jobs/5703798004) | San Francisco, California, United States | greenhouse |
-| 2026-04-16 | turing | [Principal Research Engineer - RL Gyms](https://job-boards.greenhouse.io/turing/jobs/5703799004) | San Francisco, California, United States | greenhouse |
-| 2026-04-16 | turing | [Staff Research Engineer - Code](https://job-boards.greenhouse.io/turing/jobs/5822280004) | San Francisco, California, United States | greenhouse |
 
 [Back to README](../../README.md)
