@@ -1,17 +1,17 @@
 # Jobs Feed (Page 1/1)
 
-_Last updated: 2026-04-19 04:29 CDT_
+_Last updated: 2026-04-19 08:35 CDT_
 
 | Posted | Company | Title | Location | Source |
 |---|---|---|---|---|
-| 2026-04-19 | lucidmotors | [Senior Machine Learning Engineer - Model Optimization & Deployment (ADAS/Autonomous Driving)](https://job-boards.greenhouse.io/lucidmotors/jobs/4759229007) | Southfield, MI | greenhouse |
+| 2026-04-19 | babylist | [Senior Engineering Manager, Machine Learning](https://job-boards.greenhouse.io/babylist/jobs/5815353004) | United States and Canada | greenhouse |
+| 2026-04-19 | shopltk | [Data Analyst](https://job-boards.greenhouse.io/shopltk/jobs/7671051003) | United States | greenhouse |
 | 2026-04-19 | verisign | [Sr Research Engineer](https://job-boards.greenhouse.io/verisign/jobs/7636398003) | Reston,Virginia,United States | greenhouse |
+| 2026-04-19 | lucidmotors | [Senior Machine Learning Engineer - Model Optimization & Deployment (ADAS/Autonomous Driving)](https://job-boards.greenhouse.io/lucidmotors/jobs/4759229007) | Southfield, MI | greenhouse |
 | 2026-04-18 | aestudio | [Applied AI Data Scientist](https://job-boards.greenhouse.io/aestudio/jobs/4011756004) | LA office / US remote | greenhouse |
 | 2026-04-18 | aestudio | [Applied AI Data Scientist (Brazil)](https://job-boards.greenhouse.io/aestudio/jobs/4011417004) | Florianopolis office/ Brazil remote | greenhouse |
 | 2026-04-18 | waymo | [Senior Machine Learning Engineer, Sensor Validation](https://careers.withwaymo.com/jobs?gh_jid=7454241) | Mountain View, CA, USA; San Francisco, CA, USA; Kirkland, WA, USA | greenhouse |
 | 2026-04-18 | bluelabsanalyticsinc | [Data Analyst I](https://job-boards.greenhouse.io/bluelabsanalyticsinc/jobs/5106857007) | Washington D.C. or Remote | greenhouse |
-| 2026-04-18 | babylist | [Senior Engineering Manager, Machine Learning](https://job-boards.greenhouse.io/babylist/jobs/5815353004) | United States and Canada | greenhouse |
-| 2026-04-18 | shopltk | [Data Analyst](https://job-boards.greenhouse.io/shopltk/jobs/7671051003) | United States | greenhouse |
 | 2026-04-18 | lucidmotors | [Data Scientist, Sales Planning and Forecasting](https://job-boards.greenhouse.io/lucidmotors/jobs/5104100007) | Southfield, MI | greenhouse |
 | 2026-04-18 | lucidmotors | [Staff Machine Learning Engineer – (ADAS/Autonomous Driving)](https://job-boards.greenhouse.io/lucidmotors/jobs/4620390007) | Newark, CA | greenhouse |
 | 2026-04-18 | biohub | [Data Engineer, AI](https://job-boards.greenhouse.io/biohub/jobs/7767734) | New York, NY (Hybrid); Redwood City, CA (Hybrid) | greenhouse |
@@ -350,12 +350,5 @@ _Last updated: 2026-04-19 04:29 CDT_
 | 2026-04-16 | csciconsulting | [Business Intelligence Solution Architect](https://job-boards.greenhouse.io/csciconsulting/jobs/5179056008) | Indianapolis, IN | greenhouse |
 | 2026-04-16 | grvty | [Data Scientist - Senior](https://job-boards.greenhouse.io/grvty/jobs/4155652009) | Tampa, Florida, United States | greenhouse |
 | 2026-04-16 | grvty | [Data Scientist](https://job-boards.greenhouse.io/grvty/jobs/4091511009) | Doral, Florida, United States | greenhouse |
-| 2026-04-16 | precisionaq | [Senior Data Analyst (Power BI Developer)](https://job-boards.greenhouse.io/precisionaq/jobs/5967478004) | Remote, India | greenhouse |
-| 2026-04-16 | precisionmedicinegroup | [Senior Data Analyst (Power BI Developer)](https://job-boards.greenhouse.io/precisionmedicinegroup/jobs/5967411004) | Remote, India | greenhouse |
-| 2026-04-16 | nflcareers | [Manager, Health & Safety Data Scientist](https://job-boards.greenhouse.io/nflcareers/jobs/5131165008) | New York, New York, United States | greenhouse |
-| 2026-04-16 | elastic | [Principal Java Engineer II - Machine Learning - Elasticsearch](https://jobs.elastic.co/jobs?gh_jid=7735254&gh_jid=7735254) | United States | greenhouse |
-| 2026-04-16 | pinterest | [Staff Data Scientist, Engagement Ecosystem](https://www.pinterestcareers.com/jobs/?gh_jid=6819404) | San Francisco, CA, US; Remote, US | greenhouse |
-| 2026-04-16 | 1stdibscom | [Data Analyst](https://www.1stdibs.com/about/careers/apply/?gh_jid=7713727) | New York, NY | greenhouse |
-| 2026-04-16 | spotify | [Data Scientist - Subscriptions](https://jobs.lever.co/spotify/1bd333fe-a039-4aa7-9a84-941296bbe86b) | New York, NY | lever |
 
 [Back to README](../../README.md)
