@@ -17041,7 +17041,6 @@ missionhh	http_404
 missioncloud	http_404
 mit	no_jobs
 lansingschools	exception
-miteksystems-2	no_matching_jobs
 mittilabs	http_404
 mixlab	no_matching_jobs
 liveoakfiber	no_matching_jobs
