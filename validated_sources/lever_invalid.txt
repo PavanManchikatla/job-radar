@@ -9455,7 +9455,6 @@ catalist	no_matching_jobs
 celaralabs	no_matching_jobs
 capricor	no_matching_jobs
 celerocommerce	no_matching_jobs
-captivateiq	no_matching_jobs
 cdcfoundation	no_matching_jobs
 capital	no_matching_jobs
 certifyos	no_jobs
@@ -9721,7 +9720,6 @@ lingarogroup	no_matching_jobs
 lightship	no_matching_jobs
 lodgify	no_matching_jobs
 lnfusedinnovations	no_matching_jobs
-loopreturns	no_matching_jobs
 lucidworks	no_matching_jobs
 lumindigital	http_404
 level99	no_matching_jobs
@@ -16540,7 +16538,6 @@ hivemind-capital	no_matching_jobs
 hopthru	http_404
 honeybeerobotics	http_404
 hoteltonight	http_404
-hophr	no_matching_jobs
 hopper	http_404
 howgood	http_404
 glints	http_404

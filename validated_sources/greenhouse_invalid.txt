@@ -5113,7 +5113,6 @@ openzeppelin	no_matching_jobs
 collaborativerobotics	http_404
 vast	no_matching_jobs
 designpickle	no_jobs
-vegaamericas	no_matching_jobs
 excelsportsmanagement	no_matching_jobs
 ernestpackagingsolutions	no_matching_jobs
 theplaceforchildrenwithautism	no_matching_jobs
@@ -6025,7 +6024,6 @@ resortpass	no_matching_jobs
 qualtrics	no_matching_jobs
 taxbit	no_matching_jobs
 scoutmotors	no_matching_jobs
-energysolutions	no_matching_jobs
 careersatkokua	no_jobs
 exactsales	no_jobs
 playq	no_matching_jobs
