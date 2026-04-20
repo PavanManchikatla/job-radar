@@ -509,3 +509,5 @@ globalizationpartners
 coretrustpurchasinggroupllc
 muonspace
 googlefiber
+divergent
+varicent

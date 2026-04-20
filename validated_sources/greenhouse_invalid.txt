@@ -7071,7 +7071,6 @@ swingeducation	no_matching_jobs
 drsquatch	no_matching_jobs
 gramgamescareers	no_matching_jobs
 episodesixlinkedin	no_matching_jobs
-divergent	no_matching_jobs
 doctolib	no_matching_jobs
 digit	no_jobs
 myunidaysltd	http_404
@@ -7115,7 +7114,6 @@ found	no_matching_jobs
 vitablehealth	no_matching_jobs
 delawaretitleloansinc	no_jobs
 oncoverycare	no_matching_jobs
-varicent	no_matching_jobs
 mathersplendido	no_matching_jobs
 interchain	http_404
 amwell	no_matching_jobs
