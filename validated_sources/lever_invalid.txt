@@ -9778,7 +9778,6 @@ nextgenfed	no_matching_jobs
 evertas	exception
 nfx	no_matching_jobs
 nimblerx	no_matching_jobs
-nitra	no_matching_jobs
 finch	exception
 nominal	no_jobs
 noodle	no_matching_jobs

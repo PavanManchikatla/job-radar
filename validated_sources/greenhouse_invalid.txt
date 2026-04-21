@@ -3602,7 +3602,6 @@ menlo	http_404
 customer.io	http_404
 mobile iron	http_404
 lookout	no_matching_jobs
-jamf	no_matching_jobs
 airwatch	http_404
 intune	http_404
 workspace one	http_404
@@ -5130,7 +5129,6 @@ breakthroughenergy	http_404
 linqia	no_matching_jobs
 vikingglobalinvestors	no_matching_jobs
 crescendohealth	no_matching_jobs
-thoughtworks	no_matching_jobs
 turtlerockstudios	no_matching_jobs
 gofasti	no_matching_jobs
 medsien	no_matching_jobs
@@ -5687,7 +5685,6 @@ marscousg	no_jobs
 audibenehearcom	no_matching_jobs
 huddleup	no_matching_jobs
 repeatmd	no_jobs
-sharkninjaoperatingllc	no_matching_jobs
 mcclureoilcorporation	no_matching_jobs
 brillapubliccharterschools	no_matching_jobs
 adeedo	no_matching_jobs
@@ -6547,7 +6544,6 @@ lifeskillsautismacademy	no_matching_jobs
 animalcarecenterpearisburg	no_matching_jobs
 msfcareers	no_matching_jobs
 tennesseetitleloansinc	no_matching_jobs
-nearform	no_matching_jobs
 universalaudio	no_matching_jobs
 kyowakirinusa90	no_matching_jobs
 navigatr	http_404
@@ -6781,7 +6777,6 @@ cybrid	no_matching_jobs
 aura798	no_matching_jobs
 eigerjobs	no_matching_jobs
 appnovation	no_matching_jobs
-honor	no_matching_jobs
 broadwayventures	no_matching_jobs
 nurdie	no_matching_jobs
 biltrewards	http_404
@@ -7471,7 +7466,6 @@ kickstarter	no_matching_jobs
 wilsonelserattorneys	no_matching_jobs
 ameelio	no_matching_jobs
 goodr	no_matching_jobs
-thoughtworksreferral	no_matching_jobs
 brightcove	http_404
 butternutbox	no_matching_jobs
 pineparkhealth	no_matching_jobs
