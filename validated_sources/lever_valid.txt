@@ -166,3 +166,5 @@ captivateiq
 loopreturns
 hophr
 jamcity
+trellis
+aledade

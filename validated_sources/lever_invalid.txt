@@ -8339,7 +8339,6 @@ range	http_404
 kasaliving	http_404
 opentable	http_404
 soloioinc	http_404
-trellis	no_matching_jobs
 porternovelli	http_404
 careportalinc	http_404
 audicus	http_404
@@ -9358,7 +9357,6 @@ alltrails	no_matching_jobs
 ampeco-global	no_matching_jobs
 anlatan	http_404
 anovium	http_404
-aledade	no_matching_jobs
 animocabrands	no_matching_jobs
 anyroad	no_jobs
 anybotics	no_matching_jobs
