@@ -1,16 +1,21 @@
 # Jobs Feed (Page 1/1)
 
-_Last updated: 2026-04-20 21:55 CDT_
+_Last updated: 2026-04-21 01:27 CDT_
 
 | Posted | Company | Title | Location | Source |
 |---|---|---|---|---|
+| 2026-04-21 | cloudchamberen | [Senior AI Engineer](https://job-boards.greenhouse.io/cloudchamberen/jobs/7592443003) | Novato, California, United States | greenhouse |
+| 2026-04-21 | verisign | [Sr Research Engineer](https://job-boards.greenhouse.io/verisign/jobs/7636398003) | Reston,Virginia,United States | greenhouse |
+| 2026-04-21 | twilio | [Staff Machine Learning Engineer](https://job-boards.greenhouse.io/twilio/jobs/7061880) | Remote - US | greenhouse |
+| 2026-04-21 | yipitdatajobs | [Data Analyst](https://job-boards.greenhouse.io/yipitdatajobs/jobs/6863299) | India Remote | greenhouse |
+| 2026-04-21 | varicent | [Lead Data Engineer – Backend (Python / Typescript / Big Data / AWS / Kubernetes)](https://job-boards.greenhouse.io/varicent/jobs/5194824008) | Mexico, Remote | greenhouse |
+| 2026-04-21 | varicent | [Staff Data Engineer – Backend (Python / Typescript / Big Data / AWS / Kubernetes)](https://job-boards.greenhouse.io/varicent/jobs/5194825008) | Mexico, Remote | greenhouse |
 | 2026-04-21 | flagshippioneeringinc | [Principal Scientist, Machine Learning, Biomolecules](https://boards.greenhouse.io/flagshippioneeringinc/jobs/8209962002?gh_jid=8209962002) | Cambridge, MA USA | greenhouse |
 | 2026-04-21 | flagshippioneeringinc | [Principal Scientist, Machine Learning, Genomics](https://boards.greenhouse.io/flagshippioneeringinc/jobs/8229819002?gh_jid=8229819002) | Cambridge, MA USA | greenhouse |
 | 2026-04-21 | flagshippioneeringinc | [Principal Scientist, Machine Learning, Origination](https://boards.greenhouse.io/flagshippioneeringinc/jobs/8229820002?gh_jid=8229820002) | Cambridge, MA USA | greenhouse |
 | 2026-04-21 | flagshippioneeringinc | [(Senior) Data Engineer](https://boards.greenhouse.io/flagshippioneeringinc/jobs/8372694002?gh_jid=8372694002) | Boston, MA USA | greenhouse |
 | 2026-04-21 | flagshippioneeringinc | [(Senior) Machine Learning Engineer / Data Scientist](https://boards.greenhouse.io/flagshippioneeringinc/jobs/8475065002?gh_jid=8475065002) | Boston, MA USA | greenhouse |
 | 2026-04-21 | flagshippioneeringinc | [(Senior) Scientist, Machine Learning](https://boards.greenhouse.io/flagshippioneeringinc/jobs/8469505002?gh_jid=8469505002) | Cambridge, MA USA | greenhouse |
-| 2026-04-21 | verisign | [Sr Research Engineer](https://job-boards.greenhouse.io/verisign/jobs/7636398003) | Reston,Virginia,United States | greenhouse |
 | 2026-04-21 | earnest | [Lead Data Scientist](https://app.careerpuck.com/job-board/earnest/job/7723864?gh_jid=7723864) | Remote | greenhouse |
 | 2026-04-21 | purestorage | [Applied AI Engineer](https://job-boards.greenhouse.io/purestorage/jobs/7644129) | Remote, United States | greenhouse |
 | 2026-04-20 | hightouch | [Engineering Manager, Head of Machine Learning](https://job-boards.greenhouse.io/hightouch/jobs/5775517004) | Remote (North America) | greenhouse |
@@ -66,7 +71,6 @@ _Last updated: 2026-04-20 21:55 CDT_
 | 2026-04-20 | axle | [AI Engineer II](https://job-boards.greenhouse.io/axle/jobs/5114627007) | Remote | greenhouse |
 | 2026-04-20 | electrasteel | [Principal Data Scientist](https://job-boards.greenhouse.io/electrasteel/jobs/4656810005) | Boulder, Colorado, United States | greenhouse |
 | 2026-04-20 | grailbio | [Senior Data Analytics Engineer # 4527](https://jobs.lever.co/grailbio/0612093a-0938-4828-a7d4-c942697bae25) | Durham, NC | lever |
-| 2026-04-20 | cloudchamberen | [Senior AI Engineer](https://job-boards.greenhouse.io/cloudchamberen/jobs/7592443003) | Novato, California, United States | greenhouse |
 | 2026-04-20 | coreweave | [AI Engineer- Gen AI/SWE- Weights & Biases](https://coreweave.com/careers/job?4602115006&board=coreweave&gh_jid=4602115006) | Livingston, NJ / New York, NY / San Francisco, CA / Sunnyvale, CA / Bellevue, WA / Remove - US | greenhouse |
 | 2026-04-20 | coreweave | [Senior Engineering Manager, Data Engineering](https://coreweave.com/careers/job?4629116006&board=coreweave&gh_jid=4629116006) | Bellevue, WA/Sunnyvale, CA/New York, NY/Livingston, NJ | greenhouse |
 | 2026-04-20 | coreweave | [Sr. Data Scientist - Capacity Data](https://coreweave.com/careers/job?4663051006&board=coreweave&gh_jid=4663051006) | Livingston, NJ / New York, NY / Sunnyvale, CA | greenhouse |
