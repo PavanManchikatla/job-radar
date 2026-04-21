@@ -3222,7 +3222,6 @@ announcekit	http_404
 releasepad	http_404
 beamer	no_matching_jobs
 changefeed	http_404
-headway	no_matching_jobs
 launchnotes	http_404
 producter	http_404
 products ops	http_404
