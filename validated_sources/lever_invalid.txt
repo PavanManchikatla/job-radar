@@ -9667,7 +9667,6 @@ iterative	no_matching_jobs
 jabu-hr	no_matching_jobs
 iyzico	no_matching_jobs
 jam-loop	no_matching_jobs
-jamcity	no_matching_jobs
 januaryinc	no_matching_jobs
 jellysmack	no_matching_jobs
 jetbridge	http_404
