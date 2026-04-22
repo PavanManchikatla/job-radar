@@ -6637,7 +6637,6 @@ pantheon	no_matching_jobs
 kernalbio	no_matching_jobs
 prokidney	no_matching_jobs
 reprise	http_404
-capstoneintegratedsolutions	no_matching_jobs
 andela	http_404
 hcesquared	no_matching_jobs
 authorhealth	http_404
@@ -7174,7 +7173,6 @@ ogilvygermany	no_matching_jobs
 energage	no_matching_jobs
 applytosuno	no_matching_jobs
 national	no_matching_jobs
-dimagi	no_matching_jobs
 blenheimchalcot	no_jobs
 roivantsciences	no_matching_jobs
 4dmoleculartherapeutics	no_matching_jobs
