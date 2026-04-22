@@ -680,7 +680,6 @@ ngrave	http_404
 ellipal	http_404
 cobo	no_matching_jobs
 safepal	http_404
-keystone	no_matching_jobs
 arculus	no_matching_jobs
 chainlink	http_404
 polygon	http_404
@@ -6178,7 +6177,6 @@ harrys	no_matching_jobs
 reformation	no_matching_jobs
 teamlfg	no_matching_jobs
 airup	no_matching_jobs
-verse	no_matching_jobs
 dmarket	no_jobs
 ecoatmgazelle	no_matching_jobs
 wysemetersolutionsinc	http_404

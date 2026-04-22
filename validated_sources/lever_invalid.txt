@@ -60,7 +60,6 @@ hushmail	http_404
 spike	http_404
 polymail	http_404
 calendly	http_404
-outreach	no_matching_jobs
 mailbird	http_404
 gcp	http_404
 aws	http_404
@@ -9789,7 +9788,6 @@ ntdsoftware	http_404
 npowermedicine	no_matching_jobs
 o-p-e-n	no_matching_jobs
 okendo	no_matching_jobs
-omnidian	no_matching_jobs
 oneimpression	no_matching_jobs
 oomnitza	no_matching_jobs
 openpayd	http_404

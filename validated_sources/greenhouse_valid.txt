@@ -523,3 +523,5 @@ thoughtworksreferral
 cision
 capstoneintegratedsolutions
 dimagi
+keystone
+verse
