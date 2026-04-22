@@ -6292,7 +6292,6 @@ renewedvision	no_matching_jobs
 btig27	no_matching_jobs
 remixtherapeutics	no_matching_jobs
 phynetdermatology	no_matching_jobs
-bpcs	no_matching_jobs
 premierdermatology	no_matching_jobs
 kettle	no_matching_jobs
 marvelfusion	no_matching_jobs
@@ -6317,7 +6316,6 @@ gigaenergy	no_matching_jobs
 olaplexcareers	no_matching_jobs
 highdive	no_matching_jobs
 trase	no_matching_jobs
-mitratech	no_matching_jobs
 aypapower	no_matching_jobs
 jadebiosciences	no_matching_jobs
 keyfactorinc	no_matching_jobs
@@ -6376,7 +6374,6 @@ eastridgeacademy	no_matching_jobs
 crisistextline86	http_404
 viderityinc	http_404
 elitetechnology	no_matching_jobs
-notexternal	no_matching_jobs
 kicksaw	no_matching_jobs
 oasissecurity	no_matching_jobs
 boingo	no_matching_jobs
@@ -6659,7 +6656,6 @@ terapore	no_jobs
 mach49	no_jobs
 alphagrepsecurities	no_matching_jobs
 tvscientific	http_404
-figure	no_matching_jobs
 housinganywhere	no_matching_jobs
 starcloud	no_matching_jobs
 whisperaero	no_jobs

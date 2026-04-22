@@ -171,3 +171,5 @@ aledade
 nitra
 outreach
 omnidian
+sonatype
+npowermedicine

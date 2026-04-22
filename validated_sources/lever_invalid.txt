@@ -234,7 +234,6 @@ testim	http_404
 katalon	http_404
 ranorex	http_404
 tricentis	http_404
-sonatype	no_matching_jobs
 microfocus	http_404
 smartbear	http_404
 testcomplete	http_404
@@ -9785,7 +9784,6 @@ gate	exception
 gauntlet	exception
 jiostar	no_matching_jobs
 ntdsoftware	http_404
-npowermedicine	no_matching_jobs
 o-p-e-n	no_matching_jobs
 okendo	no_matching_jobs
 oneimpression	no_matching_jobs
