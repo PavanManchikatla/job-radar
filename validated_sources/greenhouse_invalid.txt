@@ -7308,7 +7308,6 @@ meruhealth	no_matching_jobs
 orchard	no_matching_jobs
 sonymusic	http_404
 thenuclearcompany	no_matching_jobs
-cision	no_matching_jobs
 stylitics	http_404
 antenna	no_matching_jobs
 pursuit	no_matching_jobs
