@@ -643,7 +643,6 @@ wintermute	http_404
 carl icahn	http_404
 galaxy digital	http_404
 kraken	http_404
-coinbase	no_matching_jobs
 binance	http_404
 gemini	no_matching_jobs
 bitfinex	http_404
@@ -5460,7 +5459,6 @@ gravitywell	no_jobs
 civilscience	no_matching_jobs
 armorcode	no_matching_jobs
 inspiraeducation	no_matching_jobs
-mochihealth	no_matching_jobs
 onarchipelago	no_matching_jobs
 hummingbirdregtech	no_matching_jobs
 cottinghambutlerinsuranceservicesinc	no_matching_jobs
@@ -5662,7 +5660,6 @@ thetustingroupasp	http_404
 eei	no_matching_jobs
 boldbusiness	no_matching_jobs
 thebaltimorebanner	no_matching_jobs
-physicsx	no_matching_jobs
 darkhorseviz	no_matching_jobs
 brainpop	no_matching_jobs
 siftscience	http_404
@@ -7528,7 +7525,6 @@ scalellp	no_matching_jobs
 deliveroo	http_404
 phiture	no_matching_jobs
 luganodiamonds	no_jobs
-servicechampions	no_matching_jobs
 pursuecare	no_jobs
 monograph	no_matching_jobs
 etelligentgroup	no_matching_jobs
