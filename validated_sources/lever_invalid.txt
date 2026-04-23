@@ -9808,7 +9808,6 @@ pattern	no_matching_jobs
 pattern-biosciences	no_matching_jobs
 levelup	no_matching_jobs
 magnetforensics	no_matching_jobs
-peerspace	no_matching_jobs
 payjoy	no_matching_jobs
 pentagrp	no_matching_jobs
 parcelvision	no_matching_jobs

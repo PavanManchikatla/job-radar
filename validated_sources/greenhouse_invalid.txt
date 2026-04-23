@@ -6523,7 +6523,6 @@ novo	no_jobs
 truework	no_matching_jobs
 helloheart	no_matching_jobs
 ventustherapeutics	no_jobs
-hopskipdrive	no_matching_jobs
 apprentice	no_jobs
 sugar	http_404
 lambda	http_404
@@ -6597,7 +6596,6 @@ pearsonorthodontics	no_jobs
 litmus46	http_404
 viseai	no_matching_jobs
 strike	no_matching_jobs
-phaidra	no_matching_jobs
 givewellprivateroles	no_matching_jobs
 mlbevents	no_matching_jobs
 anchorpoint	no_jobs
