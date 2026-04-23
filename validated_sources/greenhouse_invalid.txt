@@ -5436,7 +5436,6 @@ tyreeanddangelo	no_matching_jobs
 propertyfinder	http_404
 cellsignalingtechnology79	no_matching_jobs
 ethoslife	no_matching_jobs
-anteriad	no_matching_jobs
 jetairegroup	http_404
 couchbaseinc	no_matching_jobs
 christfellowship	no_matching_jobs
@@ -5548,7 +5547,6 @@ gsgcareers	no_jobs
 yld	no_matching_jobs
 horizenlabs	no_jobs
 linkedinlimitedpostings	no_matching_jobs
-gwkinvestmentmanagementllc	no_matching_jobs
 sidecarhealth	no_matching_jobs
 solmentalhealth	no_matching_jobs
 meritamerica	no_matching_jobs
