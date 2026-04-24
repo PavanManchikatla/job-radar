@@ -537,3 +537,5 @@ coinbase
 mochihealth
 physicsx
 servicechampions
+sofi
+crescolabs

@@ -5631,7 +5631,6 @@ calm	no_matching_jobs
 globalenergyallianceforpeopleandplanetgeappllc	no_matching_jobs
 morty	no_matching_jobs
 galileofinancialtechnologies	no_matching_jobs
-sofi	no_matching_jobs
 aspireio	no_matching_jobs
 cloverly	no_matching_jobs
 charmindustrial	http_404
@@ -7317,7 +7316,6 @@ cockroachlabs	no_matching_jobs
 govos	http_404
 nightfall	http_404
 firmpilotailawfirmmarketing	no_matching_jobs
-crescolabs	no_matching_jobs
 neuehealth	no_matching_jobs
 arise	http_404
 scsfinancial	no_matching_jobs
