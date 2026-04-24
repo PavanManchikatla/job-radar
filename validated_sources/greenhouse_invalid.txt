@@ -5057,7 +5057,6 @@ beamup	no_matching_jobs
 aift	no_matching_jobs
 uniswapfoundation	no_jobs
 globalaccelerator	no_matching_jobs
-hyphenconnect	no_matching_jobs
 trace3	no_matching_jobs
 ruggable	no_matching_jobs
 insider	no_matching_jobs
