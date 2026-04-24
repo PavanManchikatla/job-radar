@@ -84,7 +84,6 @@ redis	http_404
 opensearch	http_404
 elasticsearch	http_404
 solr	http_404
-fastly	no_matching_jobs
 algolia	no_matching_jobs
 mongodb	no_matching_jobs
 front	http_404
@@ -5038,7 +5037,6 @@ americanmarketingassociation	no_matching_jobs
 blocpower	http_404
 vestmark	no_matching_jobs
 prove	no_matching_jobs
-iterativehealth	no_matching_jobs
 supernal	no_matching_jobs
 attaintalent	no_matching_jobs
 omicron	no_matching_jobs
@@ -5421,7 +5419,6 @@ wallapop	no_matching_jobs
 bees	no_matching_jobs
 aippublishing	no_matching_jobs
 toshibaglobalcommercesolutions	no_matching_jobs
-airbnb	no_matching_jobs
 menyala	no_jobs
 lilium	http_404
 temporal	no_jobs
@@ -6165,7 +6162,6 @@ orcasecurity	no_matching_jobs
 acurussolutions	no_matching_jobs
 heartpaw	no_matching_jobs
 moz	http_404
-merchantsfleetmanagement	no_matching_jobs
 harrys	no_matching_jobs
 reformation	no_matching_jobs
 teamlfg	no_matching_jobs
@@ -6269,7 +6265,6 @@ harnessinc	no_matching_jobs
 singleops	http_404
 communitychange	http_404
 convene	no_matching_jobs
-twinhealth	no_matching_jobs
 selffinancial	no_matching_jobs
 bitreactor	no_jobs
 nucleus	no_matching_jobs
