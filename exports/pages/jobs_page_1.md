@@ -1,6 +1,6 @@
 # Jobs Feed (Page 1/1)
 
-_Last updated: 2026-04-25 12:05 CDT_
+_Last updated: 2026-04-25 16:03 CDT_
 
 | Posted | Company | Title | Location | Source |
 |---|---|---|---|---|
@@ -427,31 +427,5 @@ _Last updated: 2026-04-25 12:05 CDT_
 | 2026-04-22 | sezzle | [AI Engineer II - Marketing](https://job-boards.greenhouse.io/sezzle/jobs/7709994003) | Brazil, Remote | greenhouse |
 | 2026-04-22 | sezzle | [AI Engineer II - Marketing](https://job-boards.greenhouse.io/sezzle/jobs/7709995003) | Mexico, Remote | greenhouse |
 | 2026-04-22 | sezzle | [AI Engineer II - Marketing](https://job-boards.greenhouse.io/sezzle/jobs/7710056003) | Argentina, Remote | greenhouse |
-| 2026-04-22 | twilio | [Senior Manager, Machine Learning](https://job-boards.greenhouse.io/twilio/jobs/7066029) | Remote - US | greenhouse |
-| 2026-04-22 | known | [Data Scientist, Media Consultant](https://job-boards.greenhouse.io/known/jobs/8421167002) | New York, NY | greenhouse |
-| 2026-04-22 | reply | [AI/ML Engineer (AWS)](https://jobs.lever.co/reply/b8d21d9f-e88b-4328-b52f-c786dceb6970) | Atlanta, GA \| Kansas City, MO \| Philadelphia, PA | lever |
-| 2026-04-22 | reply | [AI/ML Engineer (AWS)](https://jobs.lever.co/reply/51efac74-658f-4cd2-84b6-88ac026126b2) | Irvine, CA \| Los Angeles, CA | lever |
-| 2026-04-22 | octus | [Senior Data Scientist](https://job-boards.greenhouse.io/octus/jobs/5074174007) | New York, New York, United States | greenhouse |
-| 2026-04-22 | mitratech | [Business Intelligence Analyst](https://job-boards.greenhouse.io/mitratech/jobs/7812294) | Remote Mexico | greenhouse |
-| 2026-04-22 | assemblyai | [Senior Software Engineer, Machine Learning](https://job-boards.greenhouse.io/assemblyai/jobs/4664764005) | Remote | greenhouse |
-| 2026-04-22 | sonatype | [Senior Data Analyst](https://jobs.lever.co/sonatype/86fbcaa1-c506-4286-a42d-ab219744343e) | Colombia - Remote | lever |
-| 2026-04-22 | striveworks | [Senior Data Scientist](https://job-boards.greenhouse.io/striveworks/jobs/7679525003) | Austin, Texas or Remote | greenhouse |
-| 2026-04-22 | striveworks | [Senior Machine Learning Engineer](https://job-boards.greenhouse.io/striveworks/jobs/7611089003) | Austin, Texas or Remote | greenhouse |
-| 2026-04-22 | striveworks | [Senior Machine Learning Engineer (Active Secret Clearance)](https://job-boards.greenhouse.io/striveworks/jobs/7702517003) | Austin, Texas or Remote | greenhouse |
-| 2026-04-22 | striveworks | [Staff Machine Learning Engineer](https://job-boards.greenhouse.io/striveworks/jobs/7513112003) | Austin, Texas or Remote | greenhouse |
-| 2026-04-22 | striveworks | [Staff Machine Learning Engineer (Active Secret Clearance)](https://job-boards.greenhouse.io/striveworks/jobs/7701202003) | Austin, Texas or Remote | greenhouse |
-| 2026-04-22 | hophr | [Applied Data Scientist](https://jobs.lever.co/hophr/8f90e46c-ef76-4617-ab5d-b2a429306e5b) | San Francisco, CA | lever |
-| 2026-04-22 | hophr | [AI/ML Engineer](https://jobs.lever.co/hophr/9e92ee57-64d5-493d-8f7d-42ac429ca826) | San Francisco, CA | lever |
-| 2026-04-22 | reply | [AI/ML Engineer (AWS)](https://jobs.lever.co/reply/940db179-e824-4a45-92e0-20c1a7e6d7a5) | Atlanta, GA \| Kansas City, MO \| Philadelphia, PA | lever |
-| 2026-04-22 | reddit | [Senior Data Science Manager, Marketing](https://job-boards.greenhouse.io/reddit/jobs/7834671) | Remote - United States | greenhouse |
-| 2026-04-22 | ntconcepts | [Data Scientist](https://job-boards.greenhouse.io/ntconcepts/jobs/5978863004) | Chantilly, VA | greenhouse |
-| 2026-04-22 | valtech | [Senior Data Scientist- GCP Focus (Marketing Analytics)](https://job-boards.eu.greenhouse.io/valtech/jobs/4848049101) | Colombia - Remote | greenhouse |
-| 2026-04-22 | valtech | [Senior Data Scientist –GCP Focus (Marketing Analytics)](https://job-boards.eu.greenhouse.io/valtech/jobs/4848055101) | Argentina - Remote | greenhouse |
-| 2026-04-22 | servicenow | [Senior Data Scientist - Moveworks](https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000122310689) | Mountain View California us | smartrecruiters |
-| 2026-04-22 | valtech | [Senior Data Scientist –GCP Focus (Marketing Analytics)](https://job-boards.eu.greenhouse.io/valtech/jobs/4845939101) | Brazil - Remote | greenhouse |
-| 2026-04-22 | forbes | [Marketing Data Analyst, Accolades](https://job-boards.greenhouse.io/forbes/jobs/5781889004) | United States | greenhouse |
-| 2026-04-22 | afresh | [Senior Data Engineer](https://job-boards.greenhouse.io/afresh/jobs/5829291004) | Remote - Ontario, Canada | greenhouse |
-| 2026-04-22 | afresh | [Senior Data Engineer](https://job-boards.greenhouse.io/afresh/jobs/5829281004) | Remote - United States | greenhouse |
-| 2026-04-22 | grafanalabs | [Staff Backend Engineer - Databases Pyroscope \| US \| Remote](https://job-boards.greenhouse.io/grafanalabs/jobs/5807096004) | United States (Remote) | greenhouse |
 
 [Back to README](../../README.md)
