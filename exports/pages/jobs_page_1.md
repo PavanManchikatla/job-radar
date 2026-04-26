@@ -1,20 +1,20 @@
 # Jobs Feed (Page 1/1)
 
-_Last updated: 2026-04-26 04:25 CDT_
+_Last updated: 2026-04-26 08:29 CDT_
 
 | Posted | Company | Title | Location | Source |
 |---|---|---|---|---|
+| 2026-04-26 | verisign | [Sr Research Engineer](https://job-boards.greenhouse.io/verisign/jobs/7636398003) | Reston,Virginia,United States | greenhouse |
+| 2026-04-26 | shopltk | [Data Analyst](https://job-boards.greenhouse.io/shopltk/jobs/7671051003) | United States | greenhouse |
+| 2026-04-26 | lucidmotors | [Engineering Manager, Data Engineering & Infrastructure](https://job-boards.greenhouse.io/lucidmotors/jobs/5106263007) | Newark, CA | greenhouse |
 | 2026-04-26 | lucidmotors | [Staff Machine Learning Engineer – (ADAS/Autonomous Driving)](https://job-boards.greenhouse.io/lucidmotors/jobs/4620390007) | Newark, CA | greenhouse |
 | 2026-04-26 | lucidmotors | [Senior Machine Learning Engineer - Model Optimization & Deployment (ADAS/Autonomous Driving)](https://job-boards.greenhouse.io/lucidmotors/jobs/4759229007) | Southfield, MI | greenhouse |
-| 2026-04-26 | verisign | [Sr Research Engineer](https://job-boards.greenhouse.io/verisign/jobs/7636398003) | Reston,Virginia,United States | greenhouse |
 | 2026-04-25 | equipmentsharecom | [Business Intelligence Analyst](https://www.equipmentshare.com/careers/openings/?gh_jid=6907590) | Columbia, MO (Headquarters) | greenhouse |
 | 2026-04-25 | equipmentsharecom | [Business Intelligence Analyst](https://www.equipmentshare.com/careers/openings/?gh_jid=7768287) | Columbia, MO (Headquarters) | greenhouse |
 | 2026-04-25 | equipmentsharecom | [Data Analyst II](https://www.equipmentshare.com/careers/openings/?gh_jid=7525188) | Columbia, MO (Headquarters) | greenhouse |
 | 2026-04-25 | equipmentsharecom | [Data Analyst - People](https://www.equipmentshare.com/careers/openings/?gh_jid=7701316) | Columbia, MO (Headquarters) | greenhouse |
 | 2026-04-25 | equipmentsharecom | [Financial Data Analyst](https://www.equipmentshare.com/careers/openings/?gh_jid=6900544) | Chicago, IL (Southwest) | greenhouse |
 | 2026-04-25 | equipmentsharecom | [Senior Data Analyst](https://www.equipmentshare.com/careers/openings/?gh_jid=7525159) | Columbia, MO (Headquarters) | greenhouse |
-| 2026-04-25 | shopltk | [Data Analyst](https://job-boards.greenhouse.io/shopltk/jobs/7671051003) | United States | greenhouse |
-| 2026-04-25 | lucidmotors | [Engineering Manager, Data Engineering & Infrastructure](https://job-boards.greenhouse.io/lucidmotors/jobs/5106263007) | Newark, CA | greenhouse |
 | 2026-04-25 | klaviyo | [Senior AI Engineer](https://www.klaviyo.com/careers/jobs?gh_jid=7668048003) | Boston, MA | greenhouse |
 | 2026-04-25 | klaviyo | [Senior Software Engineer - Analytics Data Engineering](https://www.klaviyo.com/careers/jobs?gh_jid=7564587003) | Boston, MA | greenhouse |
 | 2026-04-25 | klaviyo | [Senior AI Engineer](https://www.klaviyo.com/careers/jobs?gh_jid=7502768003) | Boston, MA | greenhouse |
@@ -382,15 +382,5 @@ _Last updated: 2026-04-26 04:25 CDT_
 | 2026-04-23 | roblox | [Principal AI/ML Engineer, Reliability](https://careers.roblox.com/jobs/7682993?gh_jid=7682993) | San Mateo, CA, United States | greenhouse |
 | 2026-04-23 | bpcs | [Senior Data Scientist -  Monetization Analytics](https://job-boards.greenhouse.io/bpcs/jobs/7846761) | Redmond, WA | greenhouse |
 | 2026-04-23 | renttherunway | [Data Analyst](https://job-boards.greenhouse.io/renttherunway/jobs/7846732) | Brooklyn, NY (Rent the Runway HQ) | greenhouse |
-| 2026-04-23 | fundraiseup | [Senior Data Engineer](https://fundraiseup.com/careers/4688140005/?gh_jid=4688140005) | Serbia - Remote | greenhouse |
-| 2026-04-23 | fundraiseup | [Senior Data Engineer](https://fundraiseup.com/careers/4688139005/?gh_jid=4688139005) | Georgia - Remote | greenhouse |
-| 2026-04-23 | fundraiseup | [Senior Data Engineer](https://fundraiseup.com/careers/4688138005/?gh_jid=4688138005) | Armenia - Remote | greenhouse |
-| 2026-04-23 | fundraiseup | [Senior Data Engineer](https://fundraiseup.com/careers/4688137005/?gh_jid=4688137005) | Turkey - Remote | greenhouse |
-| 2026-04-23 | fundraiseup | [Senior Data Engineer](https://fundraiseup.com/careers/4688136005/?gh_jid=4688136005) | Portugal - Remote | greenhouse |
-| 2026-04-23 | fundraiseup | [Senior Data Engineer](https://fundraiseup.com/careers/4688133005/?gh_jid=4688133005) | Cyprus - Remote | greenhouse |
-| 2026-04-23 | fundraiseup | [Senior Data Engineer](https://fundraiseup.com/careers/4688113005/?gh_jid=4688113005) | Spain - Remote | greenhouse |
-| 2026-04-23 | fundraiseup | [Senior Data Engineer](https://fundraiseup.com/careers/4688109005/?gh_jid=4688109005) | Poland - Remote | greenhouse |
-| 2026-04-23 | prolific | [Data Science Manager, Supply Marketplace](https://job-boards.eu.greenhouse.io/prolific/jobs/4842274101) | London or Remote within UK | greenhouse |
-| 2026-04-23 | prolific | [Data Analyst](https://job-boards.eu.greenhouse.io/prolific/jobs/4815535101) | New York, US | greenhouse |
 
 [Back to README](../../README.md)
