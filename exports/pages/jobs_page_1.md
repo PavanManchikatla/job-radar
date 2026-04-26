@@ -1,6 +1,6 @@
 # Jobs Feed (Page 1/1)
 
-_Last updated: 2026-04-25 22:01 CDT_
+_Last updated: 2026-04-26 01:32 CDT_
 
 | Posted | Company | Title | Location | Source |
 |---|---|---|---|---|
@@ -393,6 +393,5 @@ _Last updated: 2026-04-25 22:01 CDT_
 | 2026-04-23 | prolific | [Data Science Manager, Supply Marketplace](https://job-boards.eu.greenhouse.io/prolific/jobs/4842274101) | London or Remote within UK | greenhouse |
 | 2026-04-23 | prolific | [Data Analyst](https://job-boards.eu.greenhouse.io/prolific/jobs/4815535101) | New York, US | greenhouse |
 | 2026-04-23 | lynxanalytics | [Senior Data Scientist (US)](https://job-boards.greenhouse.io/lynxanalytics/jobs/8470862002) | Bridgewater, New Jersey, United States | greenhouse |
-| 2026-04-23 | figma | [Data Scientist, Core Data -  PhD (2026)](https://boards.greenhouse.io/figma/jobs/5976930004?gh_jid=5976930004) | New York, NY • United States; San Francisco, CA • New York, NY | greenhouse |
 
 [Back to README](../../README.md)
