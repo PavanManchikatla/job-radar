@@ -1,11 +1,11 @@
 # Jobs Feed (Page 1/1)
 
-_Last updated: 2026-04-26 22:12 CDT_
+_Last updated: 2026-04-27 02:01 CDT_
 
 | Posted | Company | Title | Location | Source |
 |---|---|---|---|---|
-| 2026-04-27 | samsara | [Data Engineer II](https://www.samsara.com/company/careers/roles/7650290?gh_jid=7650290) | Remote - US | greenhouse |
 | 2026-04-27 | verisign | [Sr Research Engineer](https://job-boards.greenhouse.io/verisign/jobs/7636398003) | Reston,Virginia,United States | greenhouse |
+| 2026-04-27 | samsara | [Data Engineer II](https://www.samsara.com/company/careers/roles/7650290?gh_jid=7650290) | Remote - US | greenhouse |
 | 2026-04-27 | bpcs | [Senior Data Scientist - Growth & Monetization](https://job-boards.greenhouse.io/bpcs/jobs/7846761) | Redmond, WA | greenhouse |
 | 2026-04-27 | enigmaio | [Senior Data Engineer](https://job-boards.greenhouse.io/enigmaio/jobs/67568) | New York, NY or Los Angeles, CA | greenhouse |
 | 2026-04-26 | enigmaio | [Senior Machine Learning Engineer, Match Team](https://job-boards.greenhouse.io/enigmaio/jobs/7807194) | New York, NY or Los Angeles, CA | greenhouse |
@@ -236,25 +236,5 @@ _Last updated: 2026-04-26 22:12 CDT_
 | 2026-04-24 | robinhood | [Senior Data Scientist, ML (Brokerage)](https://boards.greenhouse.io/robinhood/jobs/7482186?t=gh_src=&gh_jid=7482186) | Menlo Park, CA; New York, NY | greenhouse |
 | 2026-04-24 | robinhood | [Senior Data Scientist, Fraud](https://boards.greenhouse.io/robinhood/jobs/7412037?t=gh_src=&gh_jid=7412037) | Menlo Park, CA | greenhouse |
 | 2026-04-24 | sandtechholdingslimited | [Senior Data Scientist](https://job-boards.eu.greenhouse.io/sandtechholdingslimited/jobs/4781907101) | United States | greenhouse |
-| 2026-04-24 | lightningai | [Lead Research Engineer](https://job-boards.greenhouse.io/lightningai/jobs/7546419003) | New York, New York, United States; San Francisco, California, United States; Seattle, Washington, United States | greenhouse |
-| 2026-04-24 | lightningai | [Research Engineer](https://job-boards.greenhouse.io/lightningai/jobs/6045023003) | New York, New York, United States; San Francisco, California, United States | greenhouse |
-| 2026-04-24 | lightningai | [Machine Learning Solutions Engineer](https://job-boards.greenhouse.io/lightningai/jobs/5868155003) | New York, New York, United States | greenhouse |
-| 2026-04-24 | metropolis | [Machine Learning Engineer, Growth](https://job-boards.greenhouse.io/metropolis/jobs/7684493003) | Seattle, Washington, United States | greenhouse |
-| 2026-04-24 | metropolis | [Senior AI Engineer](https://job-boards.greenhouse.io/metropolis/jobs/7693675003) | Los Angeles, California, United States | greenhouse |
-| 2026-04-24 | metropolis | [Senior AI Engineer](https://job-boards.greenhouse.io/metropolis/jobs/7693671003) | New York, New York, United States | greenhouse |
-| 2026-04-24 | metropolis | [Senior AI Engineer](https://job-boards.greenhouse.io/metropolis/jobs/7693674003) | Seattle, Washington, United States | greenhouse |
-| 2026-04-24 | metropolis | [Senior Analytics Engineer](https://job-boards.greenhouse.io/metropolis/jobs/7638914003) | New York, New York, United States | greenhouse |
-| 2026-04-24 | metropolis | [Senior Analytics Engineer](https://job-boards.greenhouse.io/metropolis/jobs/7638915003) | Los Angeles, California, United States | greenhouse |
-| 2026-04-24 | metropolis | [Senior Analytics Engineer](https://job-boards.greenhouse.io/metropolis/jobs/7698757003) | Chicago, Illinois, United States | greenhouse |
-| 2026-04-24 | metropolis | [Senior Analytics Engineer](https://job-boards.greenhouse.io/metropolis/jobs/7698760003) | Nashville, Tennessee, United States | greenhouse |
-| 2026-04-24 | metropolis | [Senior Analytics Engineer](https://job-boards.greenhouse.io/metropolis/jobs/7638890003) | Seattle, Washington, United States | greenhouse |
-| 2026-04-24 | boulevard | [Senior Data Engineer](https://job-boards.greenhouse.io/boulevard/jobs/4676144006) | Remote - USA | greenhouse |
-| 2026-04-24 | twilio | [Machine Learning Engineer](https://job-boards.greenhouse.io/twilio/jobs/7059734) | Remote - US | greenhouse |
-| 2026-04-24 | turing | [Forward Deployed AI Engineer](https://job-boards.greenhouse.io/turing/jobs/5609732004) | New York, New York, United States; San Francisco, California, United States | greenhouse |
-| 2026-04-24 | turing | [Principal AI Engineer - Frontier Data](https://job-boards.greenhouse.io/turing/jobs/5808363004) | San Francisco, California, United States | greenhouse |
-| 2026-04-24 | turing | [Principal Forward Deployed AI Engineer](https://job-boards.greenhouse.io/turing/jobs/5594226004) | New York, New York, United States | greenhouse |
-| 2026-04-24 | turing | [Principal Research Engineer - Code](https://job-boards.greenhouse.io/turing/jobs/5703798004) | San Francisco, California, United States | greenhouse |
-| 2026-04-24 | turing | [Principal Research Engineer - RL Gyms](https://job-boards.greenhouse.io/turing/jobs/5703799004) | San Francisco, California, United States | greenhouse |
-| 2026-04-24 | turing | [Staff Research Engineer - Code](https://job-boards.greenhouse.io/turing/jobs/5822280004) | San Francisco, California, United States | greenhouse |
 
 [Back to README](../../README.md)
