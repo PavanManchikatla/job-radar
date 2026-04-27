@@ -1,10 +1,14 @@
 # Jobs Feed (Page 1/1)
 
-_Last updated: 2026-04-27 02:01 CDT_
+_Last updated: 2026-04-27 05:48 CDT_
 
 | Posted | Company | Title | Location | Source |
 |---|---|---|---|---|
 | 2026-04-27 | verisign | [Sr Research Engineer](https://job-boards.greenhouse.io/verisign/jobs/7636398003) | Reston,Virginia,United States | greenhouse |
+| 2026-04-27 | saasgroup | [Applied Research Scientist [Machine Visibility]](https://job-boards.eu.greenhouse.io/saasgroup/jobs/4848605101) | Remote, Europe | greenhouse |
+| 2026-04-27 | geniussports | [Senior Applied AI Engineer](https://boards.greenhouse.io/geniussports/jobs/7655005003?gh_jid=7655005003) | Los Angeles, California, United States | greenhouse |
+| 2026-04-27 | lucidmotors | [Data Scientist, Sales Planning and Forecasting](https://job-boards.greenhouse.io/lucidmotors/jobs/5104100007) | Southfield, MI | greenhouse |
+| 2026-04-27 | currenciesdirect | [Senior Data Analyst](https://job-boards.eu.greenhouse.io/currenciesdirect/jobs/4850056101) | Spain - Remote | greenhouse |
 | 2026-04-27 | samsara | [Data Engineer II](https://www.samsara.com/company/careers/roles/7650290?gh_jid=7650290) | Remote - US | greenhouse |
 | 2026-04-27 | bpcs | [Senior Data Scientist - Growth & Monetization](https://job-boards.greenhouse.io/bpcs/jobs/7846761) | Redmond, WA | greenhouse |
 | 2026-04-27 | enigmaio | [Senior Data Engineer](https://job-boards.greenhouse.io/enigmaio/jobs/67568) | New York, NY or Los Angeles, CA | greenhouse |
@@ -165,8 +169,8 @@ _Last updated: 2026-04-27 02:01 CDT_
 | 2026-04-24 | coinbase | [Senior Analytics Engineer (Platform - Financial Analytics)](https://www.coinbase.com/careers/positions/7736521?gh_jid=7736521) | Remote - USA | greenhouse |
 | 2026-04-24 | epicgames | [Senior Data Scientist, Trust and Safety](https://epicgames.com/careers/jobs/5764675004?gh_jid=5764675004) | Cary,North Carolina,United States | greenhouse |
 | 2026-04-24 | moniepoint | [Data Engineering Lead](https://job-boards.eu.greenhouse.io/moniepoint/jobs/4809248101) | Remote, Bangalore | greenhouse |
-| 2026-04-24 | prolific | [Research Scientist](https://job-boards.eu.greenhouse.io/prolific/jobs/4840804101) | Remote, UK | greenhouse |
 | 2026-04-24 | prolific | [Research Scientist](https://job-boards.eu.greenhouse.io/prolific/jobs/4840827101) | Remote, US, East Coast | greenhouse |
+| 2026-04-24 | prolific | [Research Scientist](https://job-boards.eu.greenhouse.io/prolific/jobs/4840804101) | Remote, UK | greenhouse |
 | 2026-04-24 | hippo70 | [Actuarial Data Scientist](https://boards.greenhouse.io/hippo70/jobs/8386055002?gh_jid=8386055002) | Dallas, TX / Austin, TX / Morristown, NJ / San Francisco Bay Area, CA | greenhouse |
 | 2026-04-24 | hyphenconnect | [Embodied AI Researcher (VLA Models)](https://job-boards.greenhouse.io/hyphenconnect/jobs/5120131007) | Boston, USA | greenhouse |
 | 2026-04-24 | hyphenconnect | [Embodied AI Researcher (VLA Models)](https://job-boards.greenhouse.io/hyphenconnect/jobs/5120130007) | Seattle, USA | greenhouse |
@@ -196,7 +200,6 @@ _Last updated: 2026-04-27 02:01 CDT_
 | 2026-04-24 | ibkr | [Data Engineer (Gen AI)](https://job-boards.greenhouse.io/ibkr/jobs/8365234002) | New York, NY | greenhouse |
 | 2026-04-24 | ibkr | [Senior Data Engineer](https://job-boards.greenhouse.io/ibkr/jobs/8112195002) | Greenwich, CT | greenhouse |
 | 2026-04-24 | garnerhealth | [Senior Data Engineer](https://job-boards.greenhouse.io/garnerhealth/jobs/5820416004) | Remote | greenhouse |
-| 2026-04-24 | currenciesdirect | [Senior Data Analyst](https://job-boards.eu.greenhouse.io/currenciesdirect/jobs/4850056101) | Spain - Remote; United Kingdom - London | greenhouse |
 | 2026-04-24 | hyphenconnect | [AI Specialist (AI Engineering)](https://job-boards.greenhouse.io/hyphenconnect/jobs/5119956007) | Boston, USA | greenhouse |
 | 2026-04-24 | hyphenconnect | [AI Specialist (AI Engineering)](https://job-boards.greenhouse.io/hyphenconnect/jobs/5119955007) | Seattle, USA | greenhouse |
 | 2026-04-24 | hyphenconnect | [AI Specialist (AI Engineering)](https://job-boards.greenhouse.io/hyphenconnect/jobs/5119954007) | Oregon, USA | greenhouse |
@@ -230,11 +233,5 @@ _Last updated: 2026-04-27 02:01 CDT_
 | 2026-04-24 | sharkninjaoperatingllc | [Applied Research Engineer II, Human Wellness](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4663172006) | United States | greenhouse |
 | 2026-04-24 | sharkninjaoperatingllc | [Machine Learning and AI Opportunities](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4600175006) | Needham, MA, United States | greenhouse |
 | 2026-04-24 | spotify | [Data Science Manager, Music Recommendations](https://jobs.lever.co/spotify/56300df8-a614-4b75-bed7-5b6da38218ec) | New York, NY | lever |
-| 2026-04-24 | cision | [Lead Business Intelligence Analyst](https://job-boards.eu.greenhouse.io/cision/jobs/4839248101) | Remote - India | greenhouse |
-| 2026-04-24 | dataiku | [Data Engineer II](https://job-boards.greenhouse.io/dataiku/jobs/5973407004) | Netherlands, Remote; Spain, Remote; United Kingdom, Remote | greenhouse |
-| 2026-04-24 | robinhood | [Senior Data Scientist, ML (Incentives)](https://boards.greenhouse.io/robinhood/jobs/7596426?t=gh_src=&gh_jid=7596426) | Menlo Park, CA | greenhouse |
-| 2026-04-24 | robinhood | [Senior Data Scientist, ML (Brokerage)](https://boards.greenhouse.io/robinhood/jobs/7482186?t=gh_src=&gh_jid=7482186) | Menlo Park, CA; New York, NY | greenhouse |
-| 2026-04-24 | robinhood | [Senior Data Scientist, Fraud](https://boards.greenhouse.io/robinhood/jobs/7412037?t=gh_src=&gh_jid=7412037) | Menlo Park, CA | greenhouse |
-| 2026-04-24 | sandtechholdingslimited | [Senior Data Scientist](https://job-boards.eu.greenhouse.io/sandtechholdingslimited/jobs/4781907101) | United States | greenhouse |
 
 [Back to README](../../README.md)
