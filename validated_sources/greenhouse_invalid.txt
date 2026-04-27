@@ -6951,7 +6951,6 @@ clever	no_matching_jobs
 dedrone	http_404
 answersnow	http_404
 petag	no_matching_jobs
-similarweb	no_matching_jobs
 maintainx	no_matching_jobs
 maxmanufacturingcareers	no_matching_jobs
 flywheeldigital	no_matching_jobs
@@ -8370,7 +8369,6 @@ newlabcareers	no_matching_jobs
 pinterestjobadvertisements	no_jobs
 doordashindia	no_matching_jobs
 hillhousehome	no_matching_jobs
-weinsteinproperties	no_matching_jobs
 pubnub	no_matching_jobs
 abatatherapeutics	http_404
 doitintl	no_matching_jobs
