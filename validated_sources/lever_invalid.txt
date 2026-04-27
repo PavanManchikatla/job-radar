@@ -9328,7 +9328,6 @@ netsage	http_404
 kion	http_404
 xdinizioengage	http_404
 32co	http_404
-3pillarglobal	no_matching_jobs
 jwp	http_404
 accurate	no_jobs
 5amventures	no_matching_jobs
@@ -15389,7 +15388,6 @@ agreena	http_404
 aicamp	no_jobs
 aidaly	http_404
 aicrete	no_matching_jobs
-agiloft	no_matching_jobs
 aidash	http_404
 21hhs	no_matching_jobs
 aigen	no_jobs

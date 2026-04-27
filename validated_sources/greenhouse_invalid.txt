@@ -860,7 +860,6 @@ anywhere	http_404
 gabi	http_404
 knock	no_matching_jobs
 realogy	http_404
-homelight	no_matching_jobs
 compass	http_404
 christies	http_404
 cbre	http_404
@@ -5545,7 +5544,6 @@ tenet3	no_jobs
 schoolstatus	no_matching_jobs
 insightassurance	no_matching_jobs
 123	no_matching_jobs
-hiddenlayer	no_matching_jobs
 wavemm1	no_matching_jobs
 wildlifestudios	no_matching_jobs
 yld	no_matching_jobs
@@ -5885,7 +5883,6 @@ samsungnext	no_matching_jobs
 grayscaleinvestments	no_matching_jobs
 obsidiantherapeutics	no_matching_jobs
 vscfiresecurityinc	no_matching_jobs
-buyersedgeplatformrecruiting	no_matching_jobs
 mgproperties	no_matching_jobs
 c3el	no_matching_jobs
 capitalontap	no_matching_jobs
@@ -7060,7 +7057,6 @@ debtbook	no_matching_jobs
 31stunion	no_matching_jobs
 kymberconsultinggroup	no_matching_jobs
 proyectosinternacionales	no_matching_jobs
-cleansimpleeats	no_matching_jobs
 accelerationpartners	no_matching_jobs
 aevum	http_404
 universityofchicago	http_404
@@ -7742,7 +7738,6 @@ sbusa	no_matching_jobs
 abiologics	no_matching_jobs
 papapartners	no_jobs
 valerahealth	no_matching_jobs
-crexi	no_matching_jobs
 mozillaai	no_jobs
 zonecompanysoftwareconsultingllc	no_matching_jobs
 turbineone	no_matching_jobs
