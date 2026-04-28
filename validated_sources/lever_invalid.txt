@@ -17056,7 +17056,6 @@ missionbarns	http_404
 missioncloud	http_404
 missionhh	http_404
 mit	no_jobs
-miteksystems-2	no_matching_jobs
 mirego	no_matching_jobs
 mobisystems	http_404
 mittilabs	http_404

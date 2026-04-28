@@ -5299,7 +5299,6 @@ spacex	no_matching_jobs
 sonymusiccanada	no_jobs
 kilpatricktownsendstocktonllp	http_404
 spinskinnylabsinc	http_404
-bloomerang	no_matching_jobs
 a3c41b8b71eff8c4	no_matching_jobs
 cellarity	no_jobs
 compliancygroupllc	no_matching_jobs
@@ -6083,7 +6082,6 @@ corviascorporateservicesllc	no_matching_jobs
 zocalohealth	no_matching_jobs
 vynamic	no_matching_jobs
 reemahealth	no_matching_jobs
-vardaspace	no_matching_jobs
 guildeducation	http_404
 wurl	http_404
 rothesaylife	no_matching_jobs
@@ -8633,7 +8631,6 @@ dcard	no_matching_jobs
 synchron	http_404
 siteline	no_matching_jobs
 ddome	no_matching_jobs
-rialtic	no_matching_jobs
 amylyx	no_matching_jobs
 healthjoy	no_matching_jobs
 babyzone	no_matching_jobs
