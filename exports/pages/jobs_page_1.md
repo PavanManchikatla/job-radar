@@ -1,11 +1,13 @@
 # Jobs Feed (Page 1/1)
 
-_Last updated: 2026-04-28 02:02 CDT_
+_Last updated: 2026-04-28 05:46 CDT_
 
 | Posted | Company | Title | Location | Source |
 |---|---|---|---|---|
-| 2026-04-28 | waymark | [Principal Data Engineer](https://job-boards.greenhouse.io/waymark/jobs/4030307005) | US - Remote | greenhouse |
 | 2026-04-28 | verisign | [Sr Research Engineer](https://job-boards.greenhouse.io/verisign/jobs/7636398003) | Reston,Virginia,United States | greenhouse |
+| 2026-04-28 | anthropic | [Research Engineer, Model Evaluations](https://job-boards.greenhouse.io/anthropic/jobs/5198255008) | Remote-Friendly (Travel-Required) \| San Francisco, CA \| New York City, NY | greenhouse |
+| 2026-04-28 | refurbed | [Senior Data Analyst (f/m/x) - remote](https://www.refurbed.de/jobs/?gh_jid=4026715101) | Remote | greenhouse |
+| 2026-04-28 | waymark | [Principal Data Engineer](https://job-boards.greenhouse.io/waymark/jobs/4030307005) | US - Remote | greenhouse |
 | 2026-04-28 | streamlinedefense | [Senior Exploitation Specialist / Data Scientist](https://job-boards.greenhouse.io/streamlinedefense/jobs/4546137007) | St. Louis, MO | greenhouse |
 | 2026-04-28 | streamlinedefense | [Senior Exploitation Specialist / Data Scientist (NGA Washington, NCE)](https://job-boards.greenhouse.io/streamlinedefense/jobs/5122204007) | Springfield, Virginia, United States | greenhouse |
 | 2026-04-28 | streamlinedefense | [Senior Exploitation Specialist / Data Scientist (USSOCOM, AOT)](https://job-boards.greenhouse.io/streamlinedefense/jobs/5122162007) | Fayetteville, North Carolina, United States | greenhouse |
@@ -179,10 +181,5 @@ _Last updated: 2026-04-28 02:02 CDT_
 | 2026-04-25 | equipmentsharecom | [Data Analyst - People](https://www.equipmentshare.com/careers/openings/?gh_jid=7701316) | Columbia, MO (Headquarters) | greenhouse |
 | 2026-04-25 | equipmentsharecom | [Financial Data Analyst](https://www.equipmentshare.com/careers/openings/?gh_jid=6900544) | Chicago, IL (Southwest) | greenhouse |
 | 2026-04-25 | equipmentsharecom | [Senior Data Analyst](https://www.equipmentshare.com/careers/openings/?gh_jid=7525159) | Columbia, MO (Headquarters) | greenhouse |
-| 2026-04-25 | klaviyo | [Senior AI Engineer](https://www.klaviyo.com/careers/jobs?gh_jid=7668048003) | Boston, MA | greenhouse |
-| 2026-04-25 | klaviyo | [Senior Software Engineer - Analytics Data Engineering](https://www.klaviyo.com/careers/jobs?gh_jid=7564587003) | Boston, MA | greenhouse |
-| 2026-04-25 | klaviyo | [Senior AI Engineer](https://www.klaviyo.com/careers/jobs?gh_jid=7502768003) | Boston, MA | greenhouse |
-| 2026-04-25 | pinterest | [Engineering Manager II, Machine Learning – User Understanding](https://www.pinterestcareers.com/jobs/?gh_jid=7494658) | San Francisco, CA, US; Remote, US | greenhouse |
-| 2026-04-25 | shift4 | [AWS Cloud Data Engineer](https://job-boards.greenhouse.io/shift4/jobs/5114279007) | Atlanta, Georgia, United States; Center Valley, Pennsylvania, United States; Las Vegas, NV; Tampa, Florida, United States | greenhouse |
 
 [Back to README](../../README.md)
