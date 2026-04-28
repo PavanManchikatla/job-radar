@@ -3317,7 +3317,6 @@ quote maker	http_400
 quote creator	http_400
 pic collage	http_400
 instasize	no_postings
-canva	no_matching_jobs
 pic stitch	http_400
 layout	no_postings
 moldiv	no_postings
@@ -4116,7 +4115,6 @@ lear	no_postings
 toyoda gosei	http_400
 sumitomo	no_postings
 koito	no_postings
-continental	no_matching_jobs
 nsk	no_postings
 jtekt	no_postings
 marelli	no_postings
