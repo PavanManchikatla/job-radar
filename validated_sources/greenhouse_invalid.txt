@@ -5131,7 +5131,6 @@ kiavi	no_matching_jobs
 crescendohealth	no_matching_jobs
 linqia	no_matching_jobs
 corelight	no_matching_jobs
-vikingglobalinvestors	no_matching_jobs
 chariotenergy	no_matching_jobs
 apothecom	no_matching_jobs
 smartrent	no_matching_jobs
