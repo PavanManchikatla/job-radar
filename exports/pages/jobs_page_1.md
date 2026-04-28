@@ -1,9 +1,11 @@
 # Jobs Feed (Page 1/1)
 
-_Last updated: 2026-04-27 22:19 CDT_
+_Last updated: 2026-04-28 02:02 CDT_
 
 | Posted | Company | Title | Location | Source |
 |---|---|---|---|---|
+| 2026-04-28 | waymark | [Principal Data Engineer](https://job-boards.greenhouse.io/waymark/jobs/4030307005) | US - Remote | greenhouse |
+| 2026-04-28 | verisign | [Sr Research Engineer](https://job-boards.greenhouse.io/verisign/jobs/7636398003) | Reston,Virginia,United States | greenhouse |
 | 2026-04-28 | streamlinedefense | [Senior Exploitation Specialist / Data Scientist](https://job-boards.greenhouse.io/streamlinedefense/jobs/4546137007) | St. Louis, MO | greenhouse |
 | 2026-04-28 | streamlinedefense | [Senior Exploitation Specialist / Data Scientist (NGA Washington, NCE)](https://job-boards.greenhouse.io/streamlinedefense/jobs/5122204007) | Springfield, Virginia, United States | greenhouse |
 | 2026-04-28 | streamlinedefense | [Senior Exploitation Specialist / Data Scientist (USSOCOM, AOT)](https://job-boards.greenhouse.io/streamlinedefense/jobs/5122162007) | Fayetteville, North Carolina, United States | greenhouse |
@@ -12,7 +14,6 @@ _Last updated: 2026-04-27 22:19 CDT_
 | 2026-04-28 | vardaspace | [Data Engineer - Mid-Level](https://job-boards.greenhouse.io/vardaspace/jobs/7717898003) | El Segundo, California, United States | greenhouse |
 | 2026-04-28 | rialtic | [Claims Analytics Manager](https://job-boards.greenhouse.io/rialtic/jobs/7608898003) | Atlanta or Remote | greenhouse |
 | 2026-04-28 | streamlinedefense | [Senior Exploitation Specialist/Data Scientist](https://job-boards.greenhouse.io/streamlinedefense/jobs/5025574007) | Doral, Florida, United States | greenhouse |
-| 2026-04-28 | verisign | [Sr Research Engineer](https://job-boards.greenhouse.io/verisign/jobs/7636398003) | Reston,Virginia,United States | greenhouse |
 | 2026-04-28 | bluerivertech | [Sr Data Scientist](https://www.bluerivertechnology.com/job/?gh_jid=7859762) | Santa Clara, CA | greenhouse |
 | 2026-04-28 | cariadinc | [Staff Engineer, Machine Learning](https://job-boards.greenhouse.io/cariadinc/jobs/5202451008) | Mountain View, CA | greenhouse |
 | 2026-04-28 | upwork | [Director, Machine Learning](https://job-boards.greenhouse.io/upwork/jobs/7715338003) | Austin, Texas, United States; Chicago; Palo Alto, California, United States | greenhouse |
@@ -89,6 +90,7 @@ _Last updated: 2026-04-27 22:19 CDT_
 | 2026-04-27 | surveymonkey | [Senior Director, AI Engineering](https://job-boards.greenhouse.io/surveymonkey/jobs/7858583) | Canada - Remote | greenhouse |
 | 2026-04-27 | 2u | [Senior Data Engineer (South Africa)](https://job-boards.greenhouse.io/2u/jobs/8359328002) | Cape Town, South Africa; Remote - South Africa | greenhouse |
 | 2026-04-27 | givecampus | [Senior Data Engineer](https://job-boards.greenhouse.io/givecampus/jobs/4233395009) | United States | greenhouse |
+| 2026-04-27 | quizlet-2 | [Machine Learning Engineer, Monetization & Decision Systems](https://jobs.lever.co/quizlet-2/4e5e411e-2bb7-427d-8052-8e682ea7faf4) | Denver, CO; New York, NY; San Francisco, CA; Seattle, WA | lever |
 | 2026-04-27 | sezzle | [Sr. AI engineer](https://job-boards.greenhouse.io/sezzle/jobs/6279633003) | Brazil, Remote | greenhouse |
 | 2026-04-27 | sezzle | [Sr. AI engineer (Remote)](https://job-boards.greenhouse.io/sezzle/jobs/6271349003) | Türkiye, Remote | greenhouse |
 | 2026-04-27 | turing | [Principal Research Engineer - RL Gyms](https://job-boards.greenhouse.io/turing/jobs/5703799004) | San Francisco, California, United States | greenhouse |
