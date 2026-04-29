@@ -390,7 +390,6 @@ chase	http_404
 citi	http_404
 bankofamerica	http_404
 pnc	http_404
-stripe	no_matching_jobs
 citigroup	http_404
 usbank	http_404
 td bank	http_404
@@ -5424,7 +5423,6 @@ studiokraftonboard	no_matching_jobs
 aviatrix	no_matching_jobs
 essential	no_matching_jobs
 menyala	no_jobs
-airbnb	no_matching_jobs
 bees	no_matching_jobs
 technergetics	no_matching_jobs
 silvus-international-opportunites	no_jobs

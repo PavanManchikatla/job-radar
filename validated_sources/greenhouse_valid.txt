@@ -737,3 +737,5 @@ careaccess
 vikingglobalinvestors
 splashfinancial
 braincorporation
+stripe
+airbnb
