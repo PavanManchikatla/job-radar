@@ -7070,7 +7070,6 @@ aviationinstituteofmaintenance	no_matching_jobs
 familyoffice	no_matching_jobs
 codex	no_jobs
 pulumicorporation	no_matching_jobs
-inspiren	no_matching_jobs
 costar	no_matching_jobs
 chestercommunitycharterschool	no_matching_jobs
 divergent	no_matching_jobs
@@ -7588,7 +7587,6 @@ convoso	no_matching_jobs
 gravwell	no_matching_jobs
 nabis	no_matching_jobs
 gocardless	no_matching_jobs
-acquia	no_matching_jobs
 autura	no_matching_jobs
 magic	no_jobs
 wellist	no_matching_jobs

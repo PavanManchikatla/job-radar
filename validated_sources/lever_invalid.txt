@@ -10205,7 +10205,6 @@ ginkgo-bioworks	http_404
 scope-ar	http_404
 new	http_404
 schmidt-entities	no_matching_jobs
-playonsports	no_matching_jobs
 scope	http_404
 snapmagic	http_404
 aptdeco	http_404
