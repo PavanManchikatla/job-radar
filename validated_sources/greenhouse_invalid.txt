@@ -6243,7 +6243,6 @@ bursonglobal	http_404
 jetzero	no_matching_jobs
 chaincodelabs	no_matching_jobs
 debutbiotech25	no_matching_jobs
-splashfinancial	no_matching_jobs
 deliveryassociates	no_matching_jobs
 akidolabs	no_matching_jobs
 minno	no_matching_jobs
@@ -11826,7 +11825,6 @@ boundlessimmigration	http_404
 boxedwholesale	http_404
 bosonprotocol	http_404
 brainly	http_404
-braincorporation	no_matching_jobs
 brainlabs	no_matching_jobs
 branch32	http_404
 braintechnologies	http_404
