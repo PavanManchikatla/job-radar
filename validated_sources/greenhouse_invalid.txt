@@ -6396,7 +6396,6 @@ kasian	http_404
 oceanx	no_matching_jobs
 weedmaps77	no_matching_jobs
 dkatalislabs	no_matching_jobs
-exactera	no_matching_jobs
 ascendtogether	no_matching_jobs
 knowde	no_jobs
 greenhouse	no_matching_jobs
@@ -11444,7 +11443,6 @@ accion	http_404
 accelbyte	http_404
 achronixsemiconductor	http_404
 accumulussynergyinc	http_404
-acadiapharmaceuticals	no_matching_jobs
 achs	no_jobs
 acrerewards	http_404
 achieversearlycollegeprep	no_matching_jobs
@@ -12386,7 +12384,6 @@ everisusainc	http_404
 everops	http_404
 evergreenbloomerang	no_jobs
 eventussystemsinc	http_404
-eplusinc	no_matching_jobs
 everchron	no_matching_jobs
 evergreenservicesgroup	no_matching_jobs
 evive	http_404
