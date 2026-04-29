@@ -5620,7 +5620,6 @@ bescareers	no_jobs
 bottomlinetechnologies	no_matching_jobs
 calm	no_matching_jobs
 avidxchangeinc	no_matching_jobs
-hoyoverse	no_matching_jobs
 processstreet	no_matching_jobs
 morty	no_matching_jobs
 globalenergyallianceforpeopleandplanetgeappllc	no_matching_jobs
