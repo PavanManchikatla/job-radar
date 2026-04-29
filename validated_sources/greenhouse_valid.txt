@@ -742,3 +742,5 @@ airbnb
 hoyoverse
 inspiren
 acquia
+antenna
+freshprints

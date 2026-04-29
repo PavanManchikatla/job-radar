@@ -7314,7 +7314,6 @@ meruhealth	no_matching_jobs
 isaraerospace	no_matching_jobs
 pursuit	no_matching_jobs
 torq	no_matching_jobs
-antenna	no_matching_jobs
 science37	no_matching_jobs
 besfellowship	no_matching_jobs
 withumsmithbrown	no_matching_jobs
@@ -7363,7 +7362,6 @@ hubspotjobs	no_matching_jobs
 kraftonindia	no_matching_jobs
 uchicagoepic	http_404
 omnifdn	http_404
-freshprints	no_matching_jobs
 magiceden	http_404
 loyal36	no_matching_jobs
 momentmarkets	no_jobs
