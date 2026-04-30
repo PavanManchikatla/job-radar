@@ -5391,7 +5391,6 @@ caylent	no_matching_jobs
 walleyecapital-external-students	no_matching_jobs
 phxproduction	no_matching_jobs
 presidents	no_matching_jobs
-metropolitancommercialbank	no_matching_jobs
 unitedmasterstranslation	no_matching_jobs
 goodunited	http_404
 genscript	no_matching_jobs
@@ -8621,7 +8620,6 @@ babyzone	no_matching_jobs
 daybreakhealth	no_matching_jobs
 classicalcharterschools	http_404
 testnisc	no_matching_jobs
-thesciongroupllc	no_matching_jobs
 gogratia	no_jobs
 link	no_matching_jobs
 droit	no_matching_jobs
