@@ -9364,7 +9364,6 @@ anyroad	no_jobs
 anysignal	http_404
 ans	no_matching_jobs
 apolloresearch	no_matching_jobs
-aofl	no_matching_jobs
 andersencorp	no_matching_jobs
 applike	no_matching_jobs
 appen-2	no_matching_jobs
@@ -9445,7 +9444,6 @@ brainstorminc	no_matching_jobs
 brilliant	no_matching_jobs
 btse	http_404
 brightedge	no_matching_jobs
-businesswire	no_matching_jobs
 assist-world	no_matching_jobs
 c12qe	no_matching_jobs
 brightmachines	no_matching_jobs

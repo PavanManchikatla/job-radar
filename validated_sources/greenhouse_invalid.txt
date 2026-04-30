@@ -5835,7 +5835,6 @@ bluecoreinc	no_jobs
 catdaddy	no_matching_jobs
 gafg	no_matching_jobs
 starburst	no_matching_jobs
-advancedspace	no_matching_jobs
 lacarguy	no_matching_jobs
 gr8tech	no_matching_jobs
 smavagmbh	no_matching_jobs
@@ -7377,7 +7376,6 @@ qphox	no_matching_jobs
 ataiwebsite	http_404
 pascal	http_404
 treehousefab	no_matching_jobs
-shipbobinc	no_matching_jobs
 mindgym	no_matching_jobs
 foundrydigital	no_jobs
 showpad	no_matching_jobs
