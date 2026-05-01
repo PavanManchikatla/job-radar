@@ -1,12 +1,16 @@
 # Jobs Feed (Page 2/2)
 
-_Last updated: 2026-05-01 02:10 CDT_
+_Last updated: 2026-05-01 05:19 CDT_
 
 Page 2/2 | [Prev](jobs_page_1.md)
 
 
 | Posted | Company | Title | Location | Source |
 |---|---|---|---|---|
+| 2026-04-28 | sezzle | [Sr. AI Engineer - Marketing](https://job-boards.greenhouse.io/sezzle/jobs/7709931003) | Mexico, Remote | greenhouse |
+| 2026-04-28 | sezzle | [Sr. AI Engineer - Marketing](https://job-boards.greenhouse.io/sezzle/jobs/7709930003) | Brazil, Remote | greenhouse |
+| 2026-04-28 | dropbox | [Data Scientist](https://jobs.dropbox.com/listing/7762009?gh_jid=7762009) | Remote - Mexico | greenhouse |
+| 2026-04-28 | dropbox | [Data Scientist](https://jobs.dropbox.com/listing/7762007?gh_jid=7762007) | Remote - Canada: Select locations | greenhouse |
 | 2026-04-28 | dropbox | [Data Scientist](https://jobs.dropbox.com/listing/7762004?gh_jid=7762004) | Remote - US: Select locations | greenhouse |
 | 2026-04-28 | dropbox | [Senior Data Scientist, AI Products](https://jobs.dropbox.com/listing/7789386?gh_jid=7789386) | Remote - US: Select locations | greenhouse |
 | 2026-04-28 | dropbox | [Senior Data Scientist, AI Products](https://jobs.dropbox.com/listing/7789389?gh_jid=7789389) | Remote - Canada: Select locations | greenhouse |
@@ -54,10 +58,6 @@ Page 2/2 | [Prev](jobs_page_1.md)
 | 2026-04-28 | rxsense | [Senior Data Engineer](https://job-boards.greenhouse.io/rxsense/jobs/4647700005) | Remote | greenhouse |
 | 2026-04-28 | grafanalabs | [Staff Backend Engineer - Databases Tempo \| US \| Remote](https://job-boards.greenhouse.io/grafanalabs/jobs/5982444004) | United States (Remote) | greenhouse |
 | 2026-04-28 | grafanalabs | [Staff Backend Engineer - Databases Tempo \| Canada \| Remote](https://job-boards.greenhouse.io/grafanalabs/jobs/5982443004) | Canada (Remote) | greenhouse |
-| 2026-04-28 | gohighlevel | [Finance Analytics Manager](https://jobs.lever.co/gohighlevel/9ec22254-b023-4bef-87f9-cf6835ba24b6) | United States | lever |
-| 2026-04-28 | gohighlevel | [Finance Analytics Manager](https://jobs.lever.co/gohighlevel/32b3bb1c-0793-46ec-8781-57a256271748) | United States | lever |
-| 2026-04-28 | anthropic | [Research Engineer, Model Evaluations](https://job-boards.greenhouse.io/anthropic/jobs/5198255008) | Remote-Friendly (Travel-Required) \| San Francisco, CA \| New York City, NY | greenhouse |
-| 2026-04-28 | refurbed | [Senior Data Analyst (f/m/x) - remote](https://www.refurbed.de/jobs/?gh_jid=4026715101) | Remote | greenhouse |
 
 Page 2/2 | [Prev](jobs_page_1.md)
 
