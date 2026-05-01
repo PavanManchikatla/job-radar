@@ -7991,7 +7991,6 @@ sprig	http_404
 missionbio	http_404
 merge	no_matching_jobs
 plotly	no_jobs
-whop	no_matching_jobs
 guidelighthealth	no_matching_jobs
 telnyx54	no_matching_jobs
 smalldoor	http_404

@@ -1,12 +1,15 @@
 # Jobs Feed (Page 2/2)
 
-_Last updated: 2026-04-30 22:27 CDT_
+_Last updated: 2026-05-01 02:10 CDT_
 
 Page 2/2 | [Prev](jobs_page_1.md)
 
 
 | Posted | Company | Title | Location | Source |
 |---|---|---|---|---|
+| 2026-04-28 | dropbox | [Data Scientist](https://jobs.dropbox.com/listing/7762004?gh_jid=7762004) | Remote - US: Select locations | greenhouse |
+| 2026-04-28 | dropbox | [Senior Data Scientist, AI Products](https://jobs.dropbox.com/listing/7789386?gh_jid=7789386) | Remote - US: Select locations | greenhouse |
+| 2026-04-28 | dropbox | [Senior Data Scientist, AI Products](https://jobs.dropbox.com/listing/7789389?gh_jid=7789389) | Remote - Canada: Select locations | greenhouse |
 | 2026-04-28 | dropbox | [Data Engineer](https://jobs.dropbox.com/listing/7739553?gh_jid=7739553) | Remote - Mexico | greenhouse |
 | 2026-04-28 | dropbox | [Senior Data Scientist, AI Products](https://jobs.dropbox.com/listing/7729764?gh_jid=7729764) | Remote - Canada: Select locations | greenhouse |
 | 2026-04-28 | dropbox | [Senior Data Scientist, AI Products](https://jobs.dropbox.com/listing/7729761?gh_jid=7729761) | Remote - US: Select locations | greenhouse |
@@ -55,8 +58,6 @@ Page 2/2 | [Prev](jobs_page_1.md)
 | 2026-04-28 | gohighlevel | [Finance Analytics Manager](https://jobs.lever.co/gohighlevel/32b3bb1c-0793-46ec-8781-57a256271748) | United States | lever |
 | 2026-04-28 | anthropic | [Research Engineer, Model Evaluations](https://job-boards.greenhouse.io/anthropic/jobs/5198255008) | Remote-Friendly (Travel-Required) \| San Francisco, CA \| New York City, NY | greenhouse |
 | 2026-04-28 | refurbed | [Senior Data Analyst (f/m/x) - remote](https://www.refurbed.de/jobs/?gh_jid=4026715101) | Remote | greenhouse |
-| 2026-04-28 | waymark | [Principal Data Engineer](https://job-boards.greenhouse.io/waymark/jobs/4030307005) | US - Remote | greenhouse |
-| 2026-04-28 | airbnb | [Senior Data Scientist, Platform](https://careers.airbnb.com/positions/7594971?gh_jid=7594971) | United States | greenhouse |
 
 Page 2/2 | [Prev](jobs_page_1.md)
 
