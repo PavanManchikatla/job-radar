@@ -6656,7 +6656,6 @@ mediabrands	no_matching_jobs
 terapore	no_jobs
 tvscientific	http_404
 whisperaero	no_jobs
-figure	no_matching_jobs
 housinganywhere	no_matching_jobs
 cbeyondata	http_404
 starcloud	no_matching_jobs
@@ -7329,7 +7328,6 @@ blackcanyonconsulting	no_matching_jobs
 galvanizeclimatesolutions	no_matching_jobs
 neuehealth	no_matching_jobs
 simtrabps	no_matching_jobs
-federato	no_matching_jobs
 zyngacareers	no_matching_jobs
 dualityroboticsinc	http_404
 cockroachlabs	no_matching_jobs
