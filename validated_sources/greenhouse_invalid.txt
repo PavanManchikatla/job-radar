@@ -5617,7 +5617,6 @@ littleotter	http_404
 clearwayjobs	no_matching_jobs
 bescareers	no_jobs
 bottomlinetechnologies	no_matching_jobs
-calm	no_matching_jobs
 avidxchangeinc	no_matching_jobs
 processstreet	no_matching_jobs
 morty	no_matching_jobs
@@ -6241,7 +6240,6 @@ debutbiotech25	no_matching_jobs
 deliveryassociates	no_matching_jobs
 akidolabs	no_matching_jobs
 minno	no_matching_jobs
-sterlingtonpllc	no_matching_jobs
 propublica	no_matching_jobs
 foundrytechnologiesinc	http_404
 ftgoldenwolf	http_404
@@ -7265,7 +7263,6 @@ digibeeinc	http_404
 zerostudios	no_matching_jobs
 truecaller	no_matching_jobs
 groundtruth	http_404
-sagesure	no_matching_jobs
 inversionspace	no_matching_jobs
 asknicely	http_404
 doordashmexico	no_matching_jobs
