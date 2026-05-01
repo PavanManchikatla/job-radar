@@ -5159,7 +5159,6 @@ brkz	no_matching_jobs
 later	no_matching_jobs
 evergreennephrology	no_matching_jobs
 elementalexcelerator	http_404
-cortica	no_matching_jobs
 vacasa	no_matching_jobs
 objective	http_404
 code3	no_matching_jobs
@@ -5525,7 +5524,6 @@ theoriamedical	no_matching_jobs
 muckrack	no_matching_jobs
 brooklinen	no_matching_jobs
 keeleycompanies	no_jobs
-generalassembly	no_matching_jobs
 foliahealth	no_matching_jobs
 theblacktux	http_404
 threeflow	no_jobs
@@ -6813,7 +6811,6 @@ sequoiabiotech	http_404
 onedegree	http_404
 stridehealth	no_matching_jobs
 cuyana	no_matching_jobs
-acuitymd	no_matching_jobs
 quin	http_404
 miqdigital	no_matching_jobs
 cannondesign	no_matching_jobs
@@ -7918,7 +7915,6 @@ eko	no_matching_jobs
 saltsecurity	no_matching_jobs
 phasev	no_matching_jobs
 fazz	no_jobs
-andurilindustries	no_matching_jobs
 championsgroupholdings	no_matching_jobs
 medelitellc	no_matching_jobs
 carefeed	no_matching_jobs
@@ -8297,7 +8293,6 @@ go1us	no_matching_jobs
 eyeo	no_matching_jobs
 aviatornation	no_matching_jobs
 everdriven	no_matching_jobs
-oura	no_matching_jobs
 zenjob	http_404
 havenly	http_404
 xgs	http_404
@@ -8526,7 +8521,6 @@ xosinc	no_matching_jobs
 nauto	no_matching_jobs
 eliotcommunityhumanservices	no_matching_jobs
 well	http_404
-veeamsoftware	no_matching_jobs
 tripadvisor	no_matching_jobs
 mcculloughrobertson	no_matching_jobs
 thatch	no_matching_jobs

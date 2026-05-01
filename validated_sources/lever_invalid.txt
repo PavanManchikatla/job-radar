@@ -10088,7 +10088,6 @@ venteur	no_matching_jobs
 vesta-tech	no_jobs
 vevo	no_matching_jobs
 verygoodsecurity	no_matching_jobs
-viaseparations	no_matching_jobs
 trustly	no_matching_jobs
 viget	no_matching_jobs
 vida	no_matching_jobs
@@ -16143,7 +16142,6 @@ elevatelabs	http_404
 egenesisbio	no_matching_jobs
 diversified-automation	no_matching_jobs
 elliemae	http_404
-elementsolutions	no_matching_jobs
 elliveproductions	http_404
 electrum	http_404
 dscout	no_jobs
@@ -17700,7 +17698,6 @@ seekai	http_404
 seilabs	http_404
 seaportglobal	no_matching_jobs
 selfbook	http_404
-seerinteractive	no_matching_jobs
 scottlogic	no_matching_jobs
 selfmade	http_404
 semanticbits	http_404
