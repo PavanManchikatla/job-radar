@@ -1,13 +1,16 @@
 ## Jobs Feed (auto-updated)
 
 <!-- JOBS:START -->
-_Last updated: 2026-05-02 01:40 CDT_
+_Last updated: 2026-05-02 04:39 CDT_
 
 | Posted | Company | Title | Location | Source |
 |---|---|---|---|---|
+| 2026-05-02 | lucidmotors | [Staff Machine Learning Engineer – (ADAS/Autonomous Driving)](https://job-boards.greenhouse.io/lucidmotors/jobs/4620390007) | Newark, CA | greenhouse |
+| 2026-05-02 | klaviyo | [Senior Software Engineer - Analytics Data Engineering](https://www.klaviyo.com/careers/jobs?gh_jid=7564587003) | Boston, MA | greenhouse |
+| 2026-05-02 | stitchfix | [Principal Full-Stack Data Scientist - Recommendation Algorithms](https://www.stitchfix.com/careers/jobs?gh_jid=7557715&gh_jid=7557715) | Remote, USA | greenhouse |
+| 2026-05-02 | verisign | [Sr Research Engineer](https://job-boards.greenhouse.io/verisign/jobs/7636398003) | Reston,Virginia,United States | greenhouse |
 | 2026-05-02 | apptronik | [Principal Software Engineer - AI and Simulation](https://boards.greenhouse.io/apptronik/jobs/5848437004?gh_jid=5848437004) | Sunnyvale, CA | greenhouse |
 | 2026-05-02 | netbrain | [AI Engineer](https://job-boards.greenhouse.io/netbrain/jobs/5102519007) | Burlington, MA \| Hybrid | greenhouse |
-| 2026-05-02 | verisign | [Sr Research Engineer](https://job-boards.greenhouse.io/verisign/jobs/7636398003) | Reston,Virginia,United States | greenhouse |
 | 2026-05-02 | coupanginternal | [Staff Machine Learning Engineer](https://boards.greenhouse.io/coupanginternal/jobs/7871810?gh_jid=7871810) | Mountain View, USA | greenhouse |
 | 2026-05-02 | coupanginternal | [Staff Machine Learning Engineer](https://boards.greenhouse.io/coupanginternal/jobs/7868368?gh_jid=7868368) | Mountain View, USA | greenhouse |
 | 2026-05-02 | roblox | [[2026] Senior Machine Learning Engineer, Recommendation Systems - PhD Early Career](https://careers.roblox.com/jobs/7350081?gh_jid=7350081) | San Mateo, CA, United States | greenhouse |
@@ -228,6 +231,7 @@ _Last updated: 2026-05-02 01:40 CDT_
 | 2026-05-01 | anthropic | [Research Engineer, Search and Knowledge Post-Training](https://job-boards.greenhouse.io/anthropic/jobs/5206456008) | Remote-Friendly (Travel-Required) \| San Francisco, CA \| Seattle, WA \| New York City, NY | greenhouse |
 | 2026-05-01 | shopltk | [Data Analyst](https://job-boards.greenhouse.io/shopltk/jobs/7671051003) | United States | greenhouse |
 | 2026-05-01 | point72 | [Senior Software Engineer, Machine Learning](https://boards.greenhouse.io/point72/jobs/8466849002?gh_jid=8466849002) | New York, NY | greenhouse |
+| 2026-05-01 | Business Wire | [Senior Data Engineer](https://remoteOK.com/remote-jobs/remote-senior-data-engineer-business-wire-1131415) | Remote | remoteok |
 | 2026-05-01 | lucidmotors | [Data Scientist, Sales Planning and Forecasting](https://job-boards.greenhouse.io/lucidmotors/jobs/5104100007) | Southfield, MI | greenhouse |
 | 2026-05-01 | ensono | [Lead Consultant, Data & AI Engineering](https://ensono.com/company/careers/jobs-board/?gh_jid=4678965005) | Remote - United Kingdom | greenhouse |
 | 2026-05-01 | eve | [Strategic Finance and Analytics Manager](https://job-boards.greenhouse.io/eve/jobs/4204067009) | San Mateo, CA (Hybrid) | greenhouse |
@@ -496,7 +500,4 @@ _Last updated: 2026-05-02 01:40 CDT_
 | 2026-04-29 | grvty | [Data Scientist 3](https://job-boards.greenhouse.io/grvty/jobs/4121621009) | Annapolis Junction, Maryland, United States | greenhouse |
 | 2026-04-29 | grvty | [Data Scientist 2](https://job-boards.greenhouse.io/grvty/jobs/4118288009) | Annapolis Junction, Maryland, United States | greenhouse |
 | 2026-04-29 | hoyoverse | [Research Scientist](https://job-boards.greenhouse.io/hoyoverse/jobs/5123590007) | United States | greenhouse |
-| 2026-04-29 | bandwidth | [Sr. Analytics Engineer](https://job-boards.greenhouse.io/bandwidth/jobs/7583357) | Raleigh, NC | greenhouse |
-| 2026-04-29 | wongdoody | [Senior AI Engineer](https://job-boards.greenhouse.io/wongdoody/jobs/7541781003) | Berlin, DE \| Germany (REMOTE) \| Stuttgart, DE | greenhouse |
-| 2026-04-29 | nextinsurance66 | [AI Engineer](https://job-boards.greenhouse.io/nextinsurance66/jobs/7550955003) | Boston, MA | greenhouse |
 <!-- JOBS:END -->
