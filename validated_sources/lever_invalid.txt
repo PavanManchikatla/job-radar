@@ -16046,7 +16046,6 @@ deltadental	http_404
 bfsaulhotels	no_matching_jobs
 delphix	no_jobs
 deltasands	no_matching_jobs
-dadavidson	no_matching_jobs
 descript-2	http_404
 desmos	http_404
 desafiolatam	no_jobs
@@ -16484,7 +16483,6 @@ hashtagpaid	no_matching_jobs
 hatchcard	http_404
 hawkemedia	no_jobs
 hazelanalytics	http_404
-havenparkcommunities	no_matching_jobs
 hdvi	http_404
 goshippo	http_404
 health-atscale	http_404

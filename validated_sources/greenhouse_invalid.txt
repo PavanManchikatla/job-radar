@@ -5231,7 +5231,6 @@ liventus	no_matching_jobs
 eero	http_404
 supermetricsoy	no_matching_jobs
 readai	http_404
-chartbeatinc	no_matching_jobs
 codazen	no_matching_jobs
 kano	no_matching_jobs
 fiveringsllc	no_matching_jobs
@@ -5612,7 +5611,6 @@ tireseasycom	no_matching_jobs
 teknema	no_matching_jobs
 adaptivewater	no_matching_jobs
 littleotter	http_404
-clearwayjobs	no_matching_jobs
 bescareers	no_jobs
 bottomlinetechnologies	no_matching_jobs
 avidxchangeinc	no_matching_jobs

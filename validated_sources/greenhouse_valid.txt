@@ -763,3 +763,5 @@ acuitymd
 andurilindustries
 oura
 veeamsoftware
+chartbeatinc
+clearwayjobs
