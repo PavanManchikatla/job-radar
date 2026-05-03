@@ -1,5 +1,6 @@
 sandisk
 servicenow
+continental
 coherusbiosciences
 evolutioniq
 modernloop
@@ -10,5 +11,3 @@ evidation
 m1finance
 startuptap
 zipongo
-canva
-continental
