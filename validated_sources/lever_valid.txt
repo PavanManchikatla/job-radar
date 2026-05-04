@@ -151,3 +151,4 @@ tunnl-data
 unify
 unstructuredtechnologies
 wisdomtree
+brightedge

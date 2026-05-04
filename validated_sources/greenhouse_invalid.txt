@@ -6704,7 +6704,6 @@ follettsoftware	no_matching_jobs
 twistbioscience	no_matching_jobs
 kindsnacks	no_matching_jobs
 ashfieldadvisory	no_matching_jobs
-florencehealthcare	no_matching_jobs
 rapha	http_404
 specialty1	no_matching_jobs
 dataikujobs	no_matching_jobs
@@ -6891,7 +6890,6 @@ paystack	no_matching_jobs
 summitpublicschools	http_404
 ziina	no_matching_jobs
 exodus54	no_matching_jobs
-dbtlabsinc	no_matching_jobs
 sonymusiccareersaustralia	no_matching_jobs
 openwork	no_matching_jobs
 dailyharvest	http_404
@@ -8070,7 +8068,6 @@ tidewatertech	no_matching_jobs
 bpd	no_matching_jobs
 pokemoncareers	no_matching_jobs
 offshorelaunch	no_matching_jobs
-launch2	no_matching_jobs
 elitedentalpartnersllc	no_matching_jobs
 trailerpark	no_matching_jobs
 physiciansandproviders	no_matching_jobs

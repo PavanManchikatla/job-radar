@@ -9438,7 +9438,6 @@ bosonai	no_matching_jobs
 bigblue	no_matching_jobs
 bhhc	no_matching_jobs
 brainstorminc	no_matching_jobs
-brightedge	no_matching_jobs
 breakwatertech	http_404
 brightlyworks	no_matching_jobs
 brilliant	no_matching_jobs
