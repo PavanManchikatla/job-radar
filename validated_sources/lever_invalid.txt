@@ -9599,7 +9599,6 @@ florence	no_matching_jobs
 fullyvested	no_matching_jobs
 freebalance	http_404
 emburse	no_matching_jobs
-foodsmart	no_matching_jobs
 flowlife	no_matching_jobs
 gantri	http_404
 gatchealth	no_matching_jobs

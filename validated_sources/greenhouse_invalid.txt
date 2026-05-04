@@ -6272,7 +6272,6 @@ monocl	no_matching_jobs
 codeforamerica	no_matching_jobs
 singleops	http_404
 leagueapps	no_matching_jobs
-cafortune	no_matching_jobs
 stokespacetechnologies	no_matching_jobs
 nucleus	no_matching_jobs
 applytoprecedent	no_matching_jobs
@@ -14023,7 +14022,6 @@ skinpros	no_matching_jobs
 smartbiz	http_404
 slicareers	http_404
 smaamerica	no_matching_jobs
-simpluris	no_matching_jobs
 sleepdoctor	no_matching_jobs
 smartersorting	http_404
 smartdesignworldwide	http_404
