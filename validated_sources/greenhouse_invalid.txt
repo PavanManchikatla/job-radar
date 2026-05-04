@@ -8396,7 +8396,6 @@ via	no_matching_jobs
 canvasconstruction	http_404
 higharc	http_404
 kuraoncology	no_matching_jobs
-wing	no_matching_jobs
 yext	no_matching_jobs
 onelocal	http_404
 synacksrt	no_matching_jobs
