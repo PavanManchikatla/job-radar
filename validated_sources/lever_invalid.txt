@@ -10015,7 +10015,6 @@ syw	http_404
 surfshark	no_matching_jobs
 supportkind	no_matching_jobs
 synmax	no_matching_jobs
-smarsh	no_matching_jobs
 sysdig	no_matching_jobs
 talentneuron	http_404
 tahoebio-ai	no_matching_jobs
