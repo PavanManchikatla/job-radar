@@ -9840,7 +9840,6 @@ piccollage	no_matching_jobs
 piplabs	no_matching_jobs
 peoplegrove	no_matching_jobs
 placeshowroom	http_404
-openx	no_matching_jobs
 plaid	no_jobs
 pigment	no_matching_jobs
 playbook	no_matching_jobs
