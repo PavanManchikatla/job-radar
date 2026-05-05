@@ -5869,7 +5869,6 @@ themarshallproject	no_matching_jobs
 guidewheel	no_matching_jobs
 truloveorthodontics	no_matching_jobs
 leasingmarkt	no_matching_jobs
-buyersedgeplatformrecruiting	no_matching_jobs
 shapetherapeutics	http_404
 bardelentertainment	http_404
 obsidiantherapeutics	no_matching_jobs
@@ -6202,7 +6201,6 @@ caliberhealth	no_matching_jobs
 feverup	no_matching_jobs
 cowbellcyber	no_matching_jobs
 valorainc	http_404
-homechefinternalemployees	no_matching_jobs
 invisibletech	no_matching_jobs
 98point6	http_404
 verifone	no_matching_jobs
@@ -7246,7 +7244,6 @@ embroker	no_jobs
 coop	no_jobs
 madano	no_matching_jobs
 invoca	no_matching_jobs
-pendo	no_matching_jobs
 kellerpostman	no_matching_jobs
 worthi	http_404
 noctrixhealth	no_matching_jobs
@@ -7919,7 +7916,6 @@ howardair	no_matching_jobs
 mithril	no_matching_jobs
 studioscience	no_matching_jobs
 arevonenergyimpltest	no_matching_jobs
-cpm	no_matching_jobs
 talentscreditas	http_404
 johnsonlawgroup	no_matching_jobs
 engineeringatgigs	no_matching_jobs
@@ -12409,7 +12405,6 @@ evergreenbloomerang	no_jobs
 everops	http_404
 everchron	no_matching_jobs
 evermore	no_matching_jobs
-encora10	no_matching_jobs
 evmos	http_404
 evidation	http_404
 evive	http_404
