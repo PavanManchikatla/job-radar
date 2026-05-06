@@ -1,12 +1,22 @@
 # Jobs Feed (Page 2/2)
 
-_Last updated: 2026-05-05 22:18 CDT_
+_Last updated: 2026-05-06 02:06 CDT_
 
 Page 2/2 | [Prev](jobs_page_1.md)
 
 
 | Posted | Company | Title | Location | Source |
 |---|---|---|---|---|
+| 2026-05-04 | kaizengaming | [Principal Data Scientist](https://careers.kaizengaming.com/job-details/6539642003?gh_jid=6539642003) | Remote | greenhouse |
+| 2026-05-04 | kaizengaming | [Senior Data Scientist](https://careers.kaizengaming.com/job-details/6264027003?gh_jid=6264027003) | Remote | greenhouse |
+| 2026-05-04 | launch2 | [Lead Data Engineer](https://job-boards.greenhouse.io/launch2/jobs/5987280004) | Panama City, Panama (remote) | greenhouse |
+| 2026-05-04 | launch2 | [Lead Data Engineer](https://job-boards.greenhouse.io/launch2/jobs/5987275004) | Montevideo, Uruguay (remote) | greenhouse |
+| 2026-05-04 | launch2 | [Senior Data Engineer](https://job-boards.greenhouse.io/launch2/jobs/5987338004) | Panama City, Panama (remote) | greenhouse |
+| 2026-05-04 | launch2 | [Lead Data Engineer](https://job-boards.greenhouse.io/launch2/jobs/5987274004) | Valparaíso, Chile (remote) | greenhouse |
+| 2026-05-04 | launch2 | [Lead Data Engineer](https://job-boards.greenhouse.io/launch2/jobs/5987273004) | Lima, Peru (remote) | greenhouse |
+| 2026-05-04 | launch2 | [Lead Data Engineer](https://job-boards.greenhouse.io/launch2/jobs/5987272004) | Quito, Ecuador (remote) | greenhouse |
+| 2026-05-04 | launch2 | [Lead Data Engineer](https://job-boards.greenhouse.io/launch2/jobs/5987271004) | Cuenca, Ecuador (remote) | greenhouse |
+| 2026-05-04 | launch2 | [Senior Data Engineer](https://job-boards.greenhouse.io/launch2/jobs/5987337004) | Montevideo, Uruguay (remote) | greenhouse |
 | 2026-05-04 | launch2 | [Senior Data Engineer](https://job-boards.greenhouse.io/launch2/jobs/5987335004) | Lima, Peru (remote) | greenhouse |
 | 2026-05-04 | launch2 | [Senior Data Engineer](https://job-boards.greenhouse.io/launch2/jobs/5987336004) | Valparaíso, Chile (remote) | greenhouse |
 | 2026-05-04 | launch2 | [Senior Data Engineer](https://job-boards.greenhouse.io/launch2/jobs/5987334004) | Quito, Ecuador (remote) | greenhouse |
