@@ -8300,7 +8300,6 @@ zinnia	no_matching_jobs
 arionkoder	no_matching_jobs
 emigrantbank	no_matching_jobs
 guru	http_404
-globalhealthcareexchangeinc	no_matching_jobs
 rclco	no_matching_jobs
 hanwharenewables	no_matching_jobs
 ustwo	http_404
