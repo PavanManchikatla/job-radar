@@ -160,3 +160,4 @@ disqo
 ippon
 kpler
 wavicledata
+magnals

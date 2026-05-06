@@ -9769,7 +9769,6 @@ makpar	no_matching_jobs
 minders	no_matching_jobs
 morningbrew	no_matching_jobs
 mujininc	no_matching_jobs
-magnals	no_matching_jobs
 malt	no_matching_jobs
 myplacehealth	http_404
 mythic-ai	http_404
