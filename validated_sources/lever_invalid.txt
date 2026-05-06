@@ -16669,7 +16669,6 @@ ionicpartners	http_404
 intrafi	no_matching_jobs
 invinity	no_matching_jobs
 integrabeauty	no_matching_jobs
-ippon	no_matching_jobs
 isometrictechnologies	http_404
 itutor	http_404
 izotope	http_404
@@ -16819,7 +16818,6 @@ kolsquare	http_404
 launchhousing	no_matching_jobs
 laminarprojects	no_matching_jobs
 lavictoria	no_jobs
-kpler	no_matching_jobs
 latch	no_matching_jobs
 layup	no_matching_jobs
 latticehq	http_404
