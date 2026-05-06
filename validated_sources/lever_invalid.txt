@@ -9528,7 +9528,6 @@ demiurgestudios	no_matching_jobs
 coingecko	no_matching_jobs
 delfidiagnostics	no_matching_jobs
 ciandt	no_matching_jobs
-disqo	no_matching_jobs
 dexterity	no_matching_jobs
 diversifiedradiology	http_404
 dga	no_matching_jobs
