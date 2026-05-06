@@ -5564,7 +5564,6 @@ bicyclehealth	no_matching_jobs
 jenzabar	http_404
 neocol	no_matching_jobs
 bitcoindepot	no_matching_jobs
-m9solutions	no_matching_jobs
 gravitonresearchcapital	no_matching_jobs
 trimarkassociates	http_404
 lunarenergy	no_matching_jobs
@@ -6432,7 +6431,6 @@ atlasxhm	no_matching_jobs
 allinc	no_matching_jobs
 mercyforanimals	no_matching_jobs
 axiomtalentplatform	no_matching_jobs
-ispottv	no_matching_jobs
 bitmex	no_matching_jobs
 lcgboston	no_matching_jobs
 cipherhealth	no_matching_jobs
