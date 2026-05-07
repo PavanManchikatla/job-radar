@@ -7349,7 +7349,6 @@ vtex	no_matching_jobs
 phcglobal	http_404
 uchicagoepic	http_404
 sensei	no_matching_jobs
-hubspotjobs	no_matching_jobs
 seisandbox	no_matching_jobs
 elliginthealth	no_matching_jobs
 omnifdn	http_404
