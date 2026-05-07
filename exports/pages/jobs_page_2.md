@@ -1,12 +1,14 @@
 # Jobs Feed (Page 2/2)
 
-_Last updated: 2026-05-06 22:20 CDT_
+_Last updated: 2026-05-07 02:11 CDT_
 
 Page 2/2 | [Prev](jobs_page_1.md)
 
 
 | Posted | Company | Title | Location | Source |
 |---|---|---|---|---|
+| 2026-05-05 | launch2 | [Senior Data Engineer](https://job-boards.greenhouse.io/launch2/jobs/5988243004) | Boynton Beach, FL (remote) | greenhouse |
+| 2026-05-05 | launch2 | [Senior Data Engineer](https://job-boards.greenhouse.io/launch2/jobs/5988241004) | Denver, CO (remote) | greenhouse |
 | 2026-05-05 | launch2 | [Senior Data Engineer](https://job-boards.greenhouse.io/launch2/jobs/5988240004) | San Diego, CA (remote) | greenhouse |
 | 2026-05-05 | launch2 | [Senior Data Engineer](https://job-boards.greenhouse.io/launch2/jobs/5988239004) | Los Angeles, CA (remote) | greenhouse |
 | 2026-05-05 | launch2 | [Senior Data Engineer](https://job-boards.greenhouse.io/launch2/jobs/5988238004) | Tucson, AZ (remote) | greenhouse |
@@ -310,7 +312,6 @@ Page 2/2 | [Prev](jobs_page_1.md)
 | 2026-05-04 | klaviyo | [Software Engineer II - Analytics Data Engineering](https://www.klaviyo.com/careers/jobs?gh_jid=7669291003) | Boston, MA | greenhouse |
 | 2026-05-04 | klaviyo | [Senior Software Engineer - Analytics Data Engineering](https://www.klaviyo.com/careers/jobs?gh_jid=7564587003) | Boston, MA | greenhouse |
 | 2026-05-04 | stitchfix | [Principal Full-Stack Data Scientist - Recommendation Algorithms](https://www.stitchfix.com/careers/jobs?gh_jid=7557715&gh_jid=7557715) | Remote, USA | greenhouse |
-| 2026-05-04 | instacart | [Senior Staff Machine Learning Engineer, Ads Quality](https://instacart.careers/job/?gh_jid=6967732) | United States - Remote | greenhouse |
 
 Page 2/2 | [Prev](jobs_page_1.md)
 
