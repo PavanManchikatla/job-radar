@@ -4179,7 +4179,6 @@ cartken	http_404
 starship	http_404
 refraction	http_404
 marble	http_404
-kodiak	no_matching_jobs
 dispatch	no_jobs
 boxbot	http_404
 ottonomy	http_404
@@ -5987,7 +5986,6 @@ carbonrobotics	no_matching_jobs
 catchafire	http_404
 momentous	no_matching_jobs
 cameo	no_matching_jobs
-zetaglobal	no_matching_jobs
 internrecruiting	no_jobs
 platformscience	no_matching_jobs
 watchduty	no_matching_jobs
@@ -6379,7 +6377,6 @@ boingo	no_matching_jobs
 fincent	http_404
 tastytrade	no_matching_jobs
 cabinethealth	http_404
-greenhouse	no_matching_jobs
 aidashinc	no_matching_jobs
 safetyworxs	no_matching_jobs
 oceanx	no_matching_jobs
@@ -7566,7 +7563,6 @@ n2publishingglassdoor	no_matching_jobs
 prisma6	no_matching_jobs
 sonymusiccareersfrance	no_matching_jobs
 rollstack	http_404
-convoso	no_matching_jobs
 blockchain	no_matching_jobs
 taginfraestrutura	no_jobs
 ofallonguidepost	http_404

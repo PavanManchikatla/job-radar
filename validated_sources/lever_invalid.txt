@@ -15764,7 +15764,6 @@ canimmunize	no_jobs
 canvasmedical	no_matching_jobs
 cambiumnetworks	no_matching_jobs
 caliza-financial-technologies	no_matching_jobs
-canvasww	no_matching_jobs
 campusworksinc	no_matching_jobs
 capchase	http_404
 captiv8	http_404
@@ -15868,7 +15867,6 @@ clozd	http_404
 clubassist	no_matching_jobs
 blackbirdinteractive	no_matching_jobs
 cagents	no_matching_jobs
-civitech	no_matching_jobs
 cmgx	no_matching_jobs
 clabs	no_jobs
 coalfire	no_matching_jobs
