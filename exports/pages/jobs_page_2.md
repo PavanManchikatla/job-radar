@@ -1,12 +1,23 @@
 # Jobs Feed (Page 2/2)
 
-_Last updated: 2026-05-07 06:01 CDT_
+_Last updated: 2026-05-07 09:42 CDT_
 
 Page 2/2 | [Prev](jobs_page_1.md)
 
 
 | Posted | Company | Title | Location | Source |
 |---|---|---|---|---|
+| 2026-05-05 | launch2 | [Senior Data Engineer](https://job-boards.greenhouse.io/launch2/jobs/5988256004) | Manchester, NH (remote) | greenhouse |
+| 2026-05-05 | launch2 | [Senior Data Engineer](https://job-boards.greenhouse.io/launch2/jobs/5988255004) | Raleigh, NC (remote) | greenhouse |
+| 2026-05-05 | launch2 | [Senior Data Engineer](https://job-boards.greenhouse.io/launch2/jobs/5988254004) | Charlotte, NC (remote) | greenhouse |
+| 2026-05-05 | launch2 | [Senior Data Engineer](https://job-boards.greenhouse.io/launch2/jobs/5988253004) | Asheville, NC (remote) | greenhouse |
+| 2026-05-05 | launch2 | [Senior Data Engineer](https://job-boards.greenhouse.io/launch2/jobs/5988252004) | Saint Louis, MO (remote) | greenhouse |
+| 2026-05-05 | launch2 | [Senior Data Engineer](https://job-boards.greenhouse.io/launch2/jobs/5988251004) | Detroit, MI (remote) | greenhouse |
+| 2026-05-05 | launch2 | [Senior Data Engineer](https://job-boards.greenhouse.io/launch2/jobs/5988250004) | Baltimore, MD (remote) | greenhouse |
+| 2026-05-05 | launch2 | [Senior Data Engineer](https://job-boards.greenhouse.io/launch2/jobs/5988249004) | Kansas City, KS (remote) | greenhouse |
+| 2026-05-05 | launch2 | [Senior Data Engineer](https://job-boards.greenhouse.io/launch2/jobs/5988248004) | Chicago, IL (remote) | greenhouse |
+| 2026-05-05 | launch2 | [Senior Data Engineer](https://job-boards.greenhouse.io/launch2/jobs/5988247004) | Atlanta, GA (remote) | greenhouse |
+| 2026-05-05 | launch2 | [Senior Data Engineer](https://job-boards.greenhouse.io/launch2/jobs/5988246004) | Miami, FL (hybrid) | greenhouse |
 | 2026-05-05 | launch2 | [Senior Data Engineer](https://job-boards.greenhouse.io/launch2/jobs/5988245004) | Fort Lauderdale, FL (hybrid) | greenhouse |
 | 2026-05-05 | launch2 | [Senior Data Engineer](https://job-boards.greenhouse.io/launch2/jobs/5988244004) | Delray Beach, FL (hybrid) | greenhouse |
 | 2026-05-05 | launch2 | [Senior Data Engineer](https://job-boards.greenhouse.io/launch2/jobs/5988242004) | Stamford, CT (remote) | greenhouse |
@@ -102,7 +113,6 @@ Page 2/2 | [Prev](jobs_page_1.md)
 | 2026-05-04 | capitalrx | [Senior Data Engineer](https://job-boards.greenhouse.io/capitalrx/jobs/5135005008) | Remote | greenhouse |
 | 2026-05-04 | capitalrx | [Senior Machine Learning Engineer I](https://job-boards.greenhouse.io/capitalrx/jobs/4759211008) | Remote | greenhouse |
 | 2026-05-04 | capitalrx | [Senior Machine Learning Engineer II](https://job-boards.greenhouse.io/capitalrx/jobs/4749307008) | Remote | greenhouse |
-| 2026-05-04 | capitalrx | [Underwriting Data Analyst](https://job-boards.greenhouse.io/capitalrx/jobs/5195812008) | Denver, Colorado, United States; New York, New York, United States; Remote | greenhouse |
 | 2026-05-04 | metropolis | [Senior AI Engineer](https://job-boards.greenhouse.io/metropolis/jobs/7693675003) | Los Angeles, California, United States | greenhouse |
 | 2026-05-04 | metropolis | [Senior AI Engineer](https://job-boards.greenhouse.io/metropolis/jobs/7693671003) | New York, New York, United States | greenhouse |
 | 2026-05-04 | metropolis | [Senior AI Engineer](https://job-boards.greenhouse.io/metropolis/jobs/7693674003) | Seattle, Washington, United States | greenhouse |
@@ -188,110 +198,6 @@ Page 2/2 | [Prev](jobs_page_1.md)
 | 2026-05-04 | fundraiseup | [Lead AI Engineer](https://fundraiseup.com/careers/4672475005/?gh_jid=4672475005) | USA (EST and CST) - Remote | greenhouse |
 | 2026-05-04 | clear | [Senior Analytics Engineer, Business Intelligence](https://job-boards.greenhouse.io/clear/jobs/7875067) | New York, New York, United States | greenhouse |
 | 2026-05-04 | clear | [Staff Data Scientist](https://job-boards.greenhouse.io/clear/jobs/7875065) | New York, New York, United States | greenhouse |
-| 2026-05-04 | smxtech | [Data Analyst (5080)](https://www.smxtech.com/careers/?gh_jid=7646112003) | Quantico, VA | greenhouse |
-| 2026-05-04 | dbtlabsinc | [Senior Data Engineer](https://job-boards.greenhouse.io/dbtlabsinc/jobs/4673224005) | US - Remote | greenhouse |
-| 2026-05-04 | sofi | [Staff Marketing Data Scientist, Machine Learning](https://sofi.com/careers/job/7708743003?gh_jid=7708743003) | CA - San Francisco, NY - New York | greenhouse |
-| 2026-05-04 | collibra | [Senior AI Engineer, Unstructured AI](https://www.collibra.com/us/en/company/careers/job-listing/?gh_jid=7561707) | New York, New York, USA | greenhouse |
-| 2026-05-04 | formativgroup | [Junior Consultant - Data Engineering](https://job-boards.greenhouse.io/formativgroup/jobs/4226268009) | Remote / PAN-India - Contract | greenhouse |
-| 2026-05-04 | dv01 | [Sr. Data Analyst, Collateral Data Solutions](https://job-boards.greenhouse.io/dv01/jobs/8534389002) | Remote - USA | greenhouse |
-| 2026-05-04 | florencehealthcare | [Senior AI Engineer](https://job-boards.greenhouse.io/florencehealthcare/jobs/4691781005) | Atlanta, GA | greenhouse |
-| 2026-05-04 | honeycombinsurance | [Data Analyst](https://job-boards.greenhouse.io/honeycombinsurance/jobs/4673900005) | Chicago, IL; New York City, NY | greenhouse |
-| 2026-05-04 | kaizengaming | [Principal Data Scientist](https://careers.kaizengaming.com/job-details/6539642003?gh_jid=6539642003) | Remote | greenhouse |
-| 2026-05-04 | kaizengaming | [Senior Data Scientist](https://careers.kaizengaming.com/job-details/6264027003?gh_jid=6264027003) | Remote | greenhouse |
-| 2026-05-04 | launch2 | [Lead Data Engineer](https://job-boards.greenhouse.io/launch2/jobs/5987280004) | Panama City, Panama (remote) | greenhouse |
-| 2026-05-04 | launch2 | [Lead Data Engineer](https://job-boards.greenhouse.io/launch2/jobs/5987275004) | Montevideo, Uruguay (remote) | greenhouse |
-| 2026-05-04 | launch2 | [Senior Data Engineer](https://job-boards.greenhouse.io/launch2/jobs/5987338004) | Panama City, Panama (remote) | greenhouse |
-| 2026-05-04 | launch2 | [Lead Data Engineer](https://job-boards.greenhouse.io/launch2/jobs/5987274004) | Valparaíso, Chile (remote) | greenhouse |
-| 2026-05-04 | launch2 | [Lead Data Engineer](https://job-boards.greenhouse.io/launch2/jobs/5987273004) | Lima, Peru (remote) | greenhouse |
-| 2026-05-04 | launch2 | [Lead Data Engineer](https://job-boards.greenhouse.io/launch2/jobs/5987272004) | Quito, Ecuador (remote) | greenhouse |
-| 2026-05-04 | launch2 | [Lead Data Engineer](https://job-boards.greenhouse.io/launch2/jobs/5987271004) | Cuenca, Ecuador (remote) | greenhouse |
-| 2026-05-04 | launch2 | [Senior Data Engineer](https://job-boards.greenhouse.io/launch2/jobs/5987337004) | Montevideo, Uruguay (remote) | greenhouse |
-| 2026-05-04 | launch2 | [Senior Data Engineer](https://job-boards.greenhouse.io/launch2/jobs/5987335004) | Lima, Peru (remote) | greenhouse |
-| 2026-05-04 | launch2 | [Senior Data Engineer](https://job-boards.greenhouse.io/launch2/jobs/5987336004) | Valparaíso, Chile (remote) | greenhouse |
-| 2026-05-04 | launch2 | [Senior Data Engineer](https://job-boards.greenhouse.io/launch2/jobs/5987334004) | Quito, Ecuador (remote) | greenhouse |
-| 2026-05-04 | launch2 | [Senior Data Engineer](https://job-boards.greenhouse.io/launch2/jobs/5987333004) | Cuenca, Ecuador (remote) | greenhouse |
-| 2026-05-04 | launch2 | [Senior Data Engineer](https://job-boards.greenhouse.io/launch2/jobs/5987332004) | Antigua, Guatemala (remote) | greenhouse |
-| 2026-05-04 | launch2 | [Lead Data Engineer](https://job-boards.greenhouse.io/launch2/jobs/5987270004) | Antigua, Guatemala (remote) | greenhouse |
-| 2026-05-04 | launch2 | [Senior Data Engineer](https://job-boards.greenhouse.io/launch2/jobs/5987331004) | Barranquilla, Colombia (remote) | greenhouse |
-| 2026-05-04 | launch2 | [Lead Data Engineer](https://job-boards.greenhouse.io/launch2/jobs/5987269004) | Barranquilla, Colombia (remote) | greenhouse |
-| 2026-05-04 | launch2 | [Lead Data Engineer](https://job-boards.greenhouse.io/launch2/jobs/5987268004) | Cali, Colombia (remote) | greenhouse |
-| 2026-05-04 | launch2 | [Lead Data Engineer](https://job-boards.greenhouse.io/launch2/jobs/5987267004) | Medellin, Colombia (remote) | greenhouse |
-| 2026-05-04 | launch2 | [Senior Data Engineer](https://job-boards.greenhouse.io/launch2/jobs/5987329004) | Medellin, Colombia (remote) | greenhouse |
-| 2026-05-04 | launch2 | [Senior Data Engineer](https://job-boards.greenhouse.io/launch2/jobs/5987330004) | Cali, Colombia (remote) | greenhouse |
-| 2026-05-04 | launch2 | [Senior Data Engineer](https://job-boards.greenhouse.io/launch2/jobs/5987328004) | Bogota, Colombia (remote) | greenhouse |
-| 2026-05-04 | launch2 | [Lead Data Engineer](https://job-boards.greenhouse.io/launch2/jobs/5987266004) | Bogota, Colombia (remote) | greenhouse |
-| 2026-05-04 | launch2 | [Lead Data Engineer](https://job-boards.greenhouse.io/launch2/jobs/5987264004) | Alajuela, Costa Rica (remote) | greenhouse |
-| 2026-05-04 | launch2 | [Lead Data Engineer](https://job-boards.greenhouse.io/launch2/jobs/5987263004) | Cartago, Costa Rica (remote) | greenhouse |
-| 2026-05-04 | launch2 | [Lead Data Engineer](https://job-boards.greenhouse.io/launch2/jobs/5987262004) | Heredia, Costa Rica (remote) | greenhouse |
-| 2026-05-04 | launch2 | [Senior Data Engineer](https://job-boards.greenhouse.io/launch2/jobs/5987327004) | Alajuela, Costa Rica (remote) | greenhouse |
-| 2026-05-04 | launch2 | [Lead Data Engineer](https://job-boards.greenhouse.io/launch2/jobs/5987261004) | San Jose, Costa Rica (remote) | greenhouse |
-| 2026-05-04 | launch2 | [Lead Data Engineer](https://job-boards.greenhouse.io/launch2/jobs/5987258004) | Playa del Carmen, Mexico (remote) | greenhouse |
-| 2026-05-04 | launch2 | [Senior Data Engineer](https://job-boards.greenhouse.io/launch2/jobs/5987326004) | Cartago, Costa Rica (remote) | greenhouse |
-| 2026-05-04 | launch2 | [Lead Data Engineer](https://job-boards.greenhouse.io/launch2/jobs/5987257004) | Mexico City, Mexico (remote) | greenhouse |
-| 2026-05-04 | launch2 | [Senior Data Engineer](https://job-boards.greenhouse.io/launch2/jobs/5987324004) | San Jose, Costa Rica (remote) | greenhouse |
-| 2026-05-04 | launch2 | [Senior Data Engineer](https://job-boards.greenhouse.io/launch2/jobs/5987325004) | Heredia, Costa Rica (remote) | greenhouse |
-| 2026-05-04 | launch2 | [Lead Data Engineer](https://job-boards.greenhouse.io/launch2/jobs/5987256004) | Leon, Mexico (remote) | greenhouse |
-| 2026-05-04 | launch2 | [Lead Data Engineer](https://job-boards.greenhouse.io/launch2/jobs/5987255004) | Toluca, Mexico (remote) | greenhouse |
-| 2026-05-04 | launch2 | [Senior Data Engineer](https://job-boards.greenhouse.io/launch2/jobs/5987322004) | Playa del Carmen, Mexico (remote) | greenhouse |
-| 2026-05-04 | launch2 | [Senior Data Engineer](https://job-boards.greenhouse.io/launch2/jobs/5987321004) | Mexico City, Mexico (remote) | greenhouse |
-| 2026-05-04 | launch2 | [Senior Data Engineer](https://job-boards.greenhouse.io/launch2/jobs/5987320004) | Leon, Mexico (remote) | greenhouse |
-| 2026-05-04 | launch2 | [Senior Data Engineer](https://job-boards.greenhouse.io/launch2/jobs/5987319004) | Toluca, Mexico (remote) | greenhouse |
-| 2026-05-04 | launch2 | [Lead Data Engineer](https://job-boards.greenhouse.io/launch2/jobs/5987254004) | Guadalajara, Mexico (remote) | greenhouse |
-| 2026-05-04 | launch2 | [Senior Data Engineer](https://job-boards.greenhouse.io/launch2/jobs/5987318004) | Guadalajara, Mexico (remote) | greenhouse |
-| 2026-05-04 | launch2 | [Lead Data Engineer](https://job-boards.greenhouse.io/launch2/jobs/5987252004) | Monterrey, Mexico (remote) | greenhouse |
-| 2026-05-04 | launch2 | [Lead Data Engineer](https://job-boards.greenhouse.io/launch2/jobs/5987253004) | Puebla, Mexico (remote) | greenhouse |
-| 2026-05-04 | launch2 | [Senior Data Engineer](https://job-boards.greenhouse.io/launch2/jobs/5987316004) | Monterrey, Mexico (remote) | greenhouse |
-| 2026-05-04 | launch2 | [Senior Data Engineer](https://job-boards.greenhouse.io/launch2/jobs/5987317004) | Puebla, Mexico (remote) | greenhouse |
-| 2026-05-04 | launch2 | [Lead Data Engineer](https://job-boards.greenhouse.io/launch2/jobs/5987251004) | Ciudad de Mexico, Mexico (remote) | greenhouse |
-| 2026-05-04 | launch2 | [Senior Data Engineer](https://job-boards.greenhouse.io/launch2/jobs/5987315004) | Ciudad de Mexico, Mexico (remote) | greenhouse |
-| 2026-05-04 | launch2 | [Lead Data Engineer](https://job-boards.greenhouse.io/launch2/jobs/5987250004) | Mar del Plata, Argentina (remote) | greenhouse |
-| 2026-05-04 | launch2 | [Lead Data Engineer](https://job-boards.greenhouse.io/launch2/jobs/5987249004) | La Plata, Argentina (remote) | greenhouse |
-| 2026-05-04 | launch2 | [Lead Data Engineer](https://job-boards.greenhouse.io/launch2/jobs/5987248004) | Santa fe, Argentina (remote) | greenhouse |
-| 2026-05-04 | launch2 | [Senior Data Engineer](https://job-boards.greenhouse.io/launch2/jobs/5987314004) | Mar del Plata, Argentina (remote) | greenhouse |
-| 2026-05-04 | launch2 | [Lead Data Engineer](https://job-boards.greenhouse.io/launch2/jobs/5987247004) | Rosario, Argentina (remote) | greenhouse |
-| 2026-05-04 | launch2 | [Senior Data Engineer](https://job-boards.greenhouse.io/launch2/jobs/5987313004) | La Plata, Argentina (remote) | greenhouse |
-| 2026-05-04 | launch2 | [Senior Data Engineer](https://job-boards.greenhouse.io/launch2/jobs/5987312004) | Santa fe, Argentina (remote) | greenhouse |
-| 2026-05-04 | launch2 | [Senior Data Engineer](https://job-boards.greenhouse.io/launch2/jobs/5987311004) | Rosario, Argentina (remote) | greenhouse |
-| 2026-05-04 | launch2 | [Senior Data Engineer](https://job-boards.greenhouse.io/launch2/jobs/5987310004) | Cordoba, Argentina (remote) | greenhouse |
-| 2026-05-04 | launch2 | [Senior Data Engineer](https://job-boards.greenhouse.io/launch2/jobs/5987309004) | Buenos Aires, Argentina (remote) | greenhouse |
-| 2026-05-04 | launch2 | [Senior Data Engineer](https://job-boards.greenhouse.io/launch2/jobs/5987304004) | Porto Alegre, Brazil (remote) | greenhouse |
-| 2026-05-04 | launch2 | [Senior Data Engineer](https://job-boards.greenhouse.io/launch2/jobs/5987303004) | Recife, Brazil (remote) | greenhouse |
-| 2026-05-04 | launch2 | [Senior Data Engineer](https://job-boards.greenhouse.io/launch2/jobs/5987302004) | Curitiba, Brazil (remote) | greenhouse |
-| 2026-05-04 | launch2 | [Lead Data Engineer](https://job-boards.greenhouse.io/launch2/jobs/5987245004) | Buenos Aires, Argentina (remote) | greenhouse |
-| 2026-05-04 | launch2 | [Lead Data Engineer](https://job-boards.greenhouse.io/launch2/jobs/5987246004) | Cordoba, Argentina (remote) | greenhouse |
-| 2026-05-04 | launch2 | [Lead Data Engineer](https://job-boards.greenhouse.io/launch2/jobs/5987244004) | Porto Alegre, Brazil (remote) | greenhouse |
-| 2026-05-04 | launch2 | [Senior Data Engineer](https://job-boards.greenhouse.io/launch2/jobs/5987301004) | Manaus, Brazil (remote) | greenhouse |
-| 2026-05-04 | launch2 | [Lead Data Engineer](https://job-boards.greenhouse.io/launch2/jobs/5987243004) | Recife, Brazil (remote) | greenhouse |
-| 2026-05-04 | launch2 | [Senior Data Engineer](https://job-boards.greenhouse.io/launch2/jobs/5987300004) | Belo Horizonte, Brazil (remote) | greenhouse |
-| 2026-05-04 | launch2 | [Senior Data Engineer](https://job-boards.greenhouse.io/launch2/jobs/5987299004) | Fortaleza, Brazil (remote) | greenhouse |
-| 2026-05-04 | launch2 | [Lead Data Engineer](https://job-boards.greenhouse.io/launch2/jobs/5987241004) | Manaus, Brazil (remote) | greenhouse |
-| 2026-05-04 | launch2 | [Lead Data Engineer](https://job-boards.greenhouse.io/launch2/jobs/5987242004) | Curitiba, Brazil (remote) | greenhouse |
-| 2026-05-04 | launch2 | [Senior Data Engineer](https://job-boards.greenhouse.io/launch2/jobs/5987298004) | Salvador, Brazil (remote) | greenhouse |
-| 2026-05-04 | launch2 | [Senior Data Engineer](https://job-boards.greenhouse.io/launch2/jobs/5987297004) | Brasilia, Brazil (remote) | greenhouse |
-| 2026-05-04 | launch2 | [Senior Data Engineer](https://job-boards.greenhouse.io/launch2/jobs/5987295004) | Rio de Jaineiro, Brazil (remote) | greenhouse |
-| 2026-05-04 | launch2 | [Lead Data Engineer](https://job-boards.greenhouse.io/launch2/jobs/5987239004) | Fortaleza, Brazil (remote) | greenhouse |
-| 2026-05-04 | launch2 | [Lead Data Engineer](https://job-boards.greenhouse.io/launch2/jobs/5987240004) | Belo Horizonte, Brazil (remote) | greenhouse |
-| 2026-05-04 | launch2 | [Senior Data Engineer](https://job-boards.greenhouse.io/launch2/jobs/5987294004) | Sao Paulo, Brazil (remote) | greenhouse |
-| 2026-05-04 | launch2 | [Lead Data Engineer](https://job-boards.greenhouse.io/launch2/jobs/5987238004) | Salvador, Brazil (remote) | greenhouse |
-| 2026-05-04 | launch2 | [Lead Data Engineer](https://job-boards.greenhouse.io/launch2/jobs/5987236004) | Brasilia, Brazil (remote) | greenhouse |
-| 2026-05-04 | launch2 | [Senior Data Engineer](https://job-boards.greenhouse.io/launch2/jobs/5987291004) | Quebec, Canada (remote) | greenhouse |
-| 2026-05-04 | launch2 | [Lead Data Engineer](https://job-boards.greenhouse.io/launch2/jobs/5987235004) | Rio de Jaineiro, Brazil (remote) | greenhouse |
-| 2026-05-04 | launch2 | [Senior Data Engineer](https://job-boards.greenhouse.io/launch2/jobs/5987290004) | Halifax, Canada (remote) | greenhouse |
-| 2026-05-04 | launch2 | [Lead Data Engineer](https://job-boards.greenhouse.io/launch2/jobs/5987231004) | Halifax, Canada (remote) | greenhouse |
-| 2026-05-04 | launch2 | [Lead Data Engineer](https://job-boards.greenhouse.io/launch2/jobs/5987234004) | Sao Paulo, Brazil (remote) | greenhouse |
-| 2026-05-04 | launch2 | [Senior Data Engineer](https://job-boards.greenhouse.io/launch2/jobs/5987288004) | Mississauga, Canada (remote) | greenhouse |
-| 2026-05-04 | launch2 | [Lead Data Engineer](https://job-boards.greenhouse.io/launch2/jobs/5987230004) | Mississauga, Canada (remote) | greenhouse |
-| 2026-05-04 | launch2 | [Senior Data Engineer](https://job-boards.greenhouse.io/launch2/jobs/5987287004) | Victoria, Canada (remote) | greenhouse |
-| 2026-05-04 | launch2 | [Lead Data Engineer](https://job-boards.greenhouse.io/launch2/jobs/5987229004) | Victoria, Canada (remote) | greenhouse |
-| 2026-05-04 | launch2 | [Senior Data Engineer](https://job-boards.greenhouse.io/launch2/jobs/5987286004) | Vancouver, Canada (remote) | greenhouse |
-| 2026-05-04 | launch2 | [Senior Data Engineer](https://job-boards.greenhouse.io/launch2/jobs/5987285004) | Ottawa, Canada (remote) | greenhouse |
-| 2026-05-04 | launch2 | [Lead Data Engineer](https://job-boards.greenhouse.io/launch2/jobs/5987226004) | Vancouver, Canada (remote) | greenhouse |
-| 2026-05-04 | launch2 | [Lead Data Engineer](https://job-boards.greenhouse.io/launch2/jobs/5987228004) | Quebec, Canada (remote) | greenhouse |
-| 2026-05-04 | launch2 | [Senior Data Engineer](https://job-boards.greenhouse.io/launch2/jobs/5987284004) | Montreal, Canada (remote) | greenhouse |
-| 2026-05-04 | launch2 | [Senior Data Engineer](https://job-boards.greenhouse.io/launch2/jobs/5987281004) | Toronto, Canada (remote) | greenhouse |
-| 2026-05-04 | launch2 | [Lead Data Engineer](https://job-boards.greenhouse.io/launch2/jobs/5987225004) | Ottawa, Canada (remote) | greenhouse |
-| 2026-05-04 | launch2 | [Lead Data Engineer](https://job-boards.greenhouse.io/launch2/jobs/5987224004) | Montreal, Canada (remote) | greenhouse |
-| 2026-05-04 | launch2 | [Lead Data Engineer](https://job-boards.greenhouse.io/launch2/jobs/5987223004) | Toronto, Canada (remote) | greenhouse |
 
 Page 2/2 | [Prev](jobs_page_1.md)
 

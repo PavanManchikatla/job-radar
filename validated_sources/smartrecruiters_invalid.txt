@@ -14719,7 +14719,6 @@ shaker	no_postings
 shapeshift	no_postings
 shapiroplasticsurgery	no_postings
 shapr3d	no_postings
-sgs	no_matching_jobs
 sharegateen	no_postings
 shednycinc	no_postings
 shearwater	no_postings
