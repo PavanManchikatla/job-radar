@@ -163,3 +163,5 @@ wavicledata
 magnals
 civitech
 canvasww
+loadsmart
+nextgenfed

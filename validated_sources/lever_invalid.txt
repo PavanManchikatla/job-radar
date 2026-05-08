@@ -4365,7 +4365,6 @@ robinhood	http_404
 webull	http_404
 moomoo	http_404
 tastyworks	http_404
-loadsmart	no_matching_jobs
 sushil finance	http_404
 tradestation	http_404
 thinkorswim	http_404
@@ -9787,7 +9786,6 @@ kyivstar	no_matching_jobs
 myob-2	no_matching_jobs
 nevados	no_matching_jobs
 nextmillennium	no_jobs
-nextgenfed	no_matching_jobs
 nfx	no_matching_jobs
 nimblerx	no_matching_jobs
 nium	no_matching_jobs

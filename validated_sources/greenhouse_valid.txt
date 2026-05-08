@@ -803,3 +803,8 @@ goodwaygroup
 aevexaerospace
 cpisecurity
 inovalon
+amplitude
+anaplan
+mochihealth
+aircapture
+northmarq

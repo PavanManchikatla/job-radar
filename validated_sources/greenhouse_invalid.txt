@@ -2945,7 +2945,6 @@ staff planner	http_404
 jedox	http_404
 datarails	no_matching_jobs
 host analytics	http_404
-anaplan	no_matching_jobs
 tidemark	http_404
 kaufman hall	http_404
 lucanet	http_404
@@ -3018,7 +3017,6 @@ hotjar	http_404
 vwo	http_404
 crazy egg	http_404
 mixpanel	no_matching_jobs
-amplitude	no_matching_jobs
 optimizely	http_404
 google optimize	http_404
 monetate	http_404
@@ -5458,7 +5456,6 @@ skinlaundry	no_matching_jobs
 inspiraeducation	no_matching_jobs
 innophaseiot	no_matching_jobs
 fetchrewards	http_404
-mochihealth	no_matching_jobs
 civilscience	no_matching_jobs
 sanityio	http_404
 collectorsuniverse	http_404
@@ -6916,7 +6913,6 @@ baselayer	no_matching_jobs
 enboarder	no_matching_jobs
 gsrmarkets	no_matching_jobs
 gigster	http_404
-aircapture	no_matching_jobs
 kindbody	http_404
 qualia	no_matching_jobs
 hoodhp	no_matching_jobs
@@ -7379,7 +7375,6 @@ qphox	no_matching_jobs
 mixbook	no_jobs
 foundrydigital	no_jobs
 showpad	no_matching_jobs
-northmarq	no_matching_jobs
 placerlabs	no_matching_jobs
 homewardhealth	no_matching_jobs
 fusionworldwide	no_matching_jobs
