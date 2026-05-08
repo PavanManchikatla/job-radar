@@ -794,3 +794,5 @@ kodiak
 zetaglobal
 greenhouse
 convoso
+obsidiansecurity
+weinsteinproperties

@@ -7893,7 +7893,6 @@ digitalbridge	no_matching_jobs
 nonantumveterinaryclinic	no_matching_jobs
 treelinebiosciences	no_matching_jobs
 toggleai	no_matching_jobs
-obsidiansecurity	no_matching_jobs
 wil	no_matching_jobs
 distributional	http_404
 forgebiologics	no_matching_jobs
@@ -8513,7 +8512,6 @@ madisonreedcolorbar	no_matching_jobs
 applytowhoosh	no_jobs
 relishworks	no_matching_jobs
 vim	no_matching_jobs
-weinsteinproperties	no_matching_jobs
 conga	no_matching_jobs
 kajabi	http_404
 verainstituteofjustice	no_matching_jobs
