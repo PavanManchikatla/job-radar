@@ -1,12 +1,15 @@
 ## Jobs Feed (auto-updated)
 
 <!-- JOBS:START -->
-_Last updated: 2026-05-08 01:33 CDT_
+_Last updated: 2026-05-08 04:56 CDT_
 
 Page 1/2 | [Next](exports/pages/jobs_page_2.md)
 
 | Posted | Company | Title | Location | Source |
 |---|---|---|---|---|
+| 2026-05-08 | conga | [Staff Data Analyst](https://job-boards.greenhouse.io/conga/jobs/5130433007) | US - Boston, MA ; US - Houston, TX | greenhouse |
+| 2026-05-08 | ibkr | [Data Engineer (Gen AI)](https://job-boards.greenhouse.io/ibkr/jobs/8365234002) | New York, NY | greenhouse |
+| 2026-05-08 | ibkr | [Senior Data Engineer](https://job-boards.greenhouse.io/ibkr/jobs/8112195002) | Greenwich, CT | greenhouse |
 | 2026-05-08 | verisign | [Sr Research Engineer](https://job-boards.greenhouse.io/verisign/jobs/7636398003) | Reston,Virginia,United States | greenhouse |
 | 2026-05-08 | waymark | [Senior/Principal Data Engineer](https://job-boards.greenhouse.io/waymark/jobs/4030307005) | US - Remote | greenhouse |
 | 2026-05-08 | weinsteinproperties | [Business Intelligence Developer](https://job-boards.greenhouse.io/weinsteinproperties/jobs/7857870) | Richmond, VA | greenhouse |
@@ -167,8 +170,10 @@ Page 1/2 | [Next](exports/pages/jobs_page_2.md)
 | 2026-05-07 | babylist | [Senior Engineering Manager, Machine Learning](https://job-boards.greenhouse.io/babylist/jobs/5815353004) | United States and Canada | greenhouse |
 | 2026-05-07 | beyondtrust | [Sr Data Engineer](https://job-boards.greenhouse.io/beyondtrust/jobs/6602214) | Remote United States \| Remote Canada | greenhouse |
 | 2026-05-07 | shopltk | [Data Analyst](https://job-boards.greenhouse.io/shopltk/jobs/7671051003) | United States | greenhouse |
+| 2026-05-07 | spotify | [Associate Analytics Engineer](https://jobs.lever.co/spotify/d95e1989-9a1a-4853-95b1-ecdebf5f81ff) | New York, NY | lever |
 | 2026-05-07 | turing | [Senior Gen AI Engineer](https://job-boards.greenhouse.io/turing/jobs/5985157004) | United States | greenhouse |
 | 2026-05-07 | lucidmotors | [Data Scientist, Sales Planning and Forecasting](https://job-boards.greenhouse.io/lucidmotors/jobs/5104100007) | Southfield, MI | greenhouse |
+| 2026-05-07 | Valon Mortgage | [Senior Data Engineer](https://remoteOK.com/remote-jobs/remote-senior-data-engineer-valon-mortgage-1131504) | Remote | remoteok |
 | 2026-05-07 | klaviyo | [Software Engineer II - Analytics Data Engineering](https://www.klaviyo.com/careers/jobs?gh_jid=7669291003) | Boston, MA | greenhouse |
 | 2026-05-07 | octus | [Principal Data Engineer](https://job-boards.greenhouse.io/octus/jobs/5106528007) | New York, New York, United States | greenhouse |
 | 2026-05-07 | octus | [Senior Data Scientist](https://job-boards.greenhouse.io/octus/jobs/5074174007) | New York, New York, United States | greenhouse |
@@ -502,11 +507,6 @@ Page 1/2 | [Next](exports/pages/jobs_page_2.md)
 | 2026-05-05 | encora10 | [Business Intelligence Analyst (GCP & Tableau Support)](https://job-boards.greenhouse.io/encora10/jobs/5129462007) | Scottsdale, AZ | greenhouse |
 | 2026-05-05 | engine | [Staff Data Analyst, Growth](https://job-boards.greenhouse.io/engine/jobs/7664315003) | Remote - USA | greenhouse |
 | 2026-05-05 | 360learning | [AI Engineer](https://jobs.lever.co/360learning/705f8577-c37e-48a9-a4c0-8277164bc0c0) | Paris, Remote | lever |
-| 2026-05-05 | kalderos | [Sr. Data Engineer](https://www.kalderos.com/company/job-board/?gh_jid=7725099003) | Chicago, IL; Boston, MA; Remote | greenhouse |
-| 2026-05-05 | calicolabs | [Senior Machine Learning Research Engineer (ML Platform)](https://www.calicolabs.com/careers/?gh_jid=8457339002) | South San Francisco, CA | greenhouse |
-| 2026-05-05 | lightningai | [Research Engineer](https://job-boards.greenhouse.io/lightningai/jobs/6045023003) | London, England, United Kingdom; New York, New York, United States; San Francisco, California, United States; Seattle, Washington, United States | greenhouse |
-| 2026-05-05 | shopmonkey | [Senior ML Engineer](https://boards.greenhouse.io/shopmonkey/jobs/7656211003?gh_jid=7656211003) | Remote - California; Remote - Colorado; Remote - Massachusetts; Remote - North Carolina; Remote - Texas; Remote - Washington | greenhouse |
-| 2026-05-05 | calicolabs | [Machine Learning Scientist / Senior Machine Learning Scientist](https://www.calicolabs.com/careers/?gh_jid=8533254002) | South San Francisco, CA | greenhouse |
 
 Page 1/2 | [Next](exports/pages/jobs_page_2.md)
 <!-- JOBS:END -->

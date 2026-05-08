@@ -1,12 +1,17 @@
 # Jobs Feed (Page 2/2)
 
-_Last updated: 2026-05-08 01:33 CDT_
+_Last updated: 2026-05-08 04:56 CDT_
 
 Page 2/2 | [Prev](jobs_page_1.md)
 
 
 | Posted | Company | Title | Location | Source |
 |---|---|---|---|---|
+| 2026-05-05 | kalderos | [Sr. Data Engineer](https://www.kalderos.com/company/job-board/?gh_jid=7725099003) | Chicago, IL; Boston, MA; Remote | greenhouse |
+| 2026-05-05 | calicolabs | [Senior Machine Learning Research Engineer (ML Platform)](https://www.calicolabs.com/careers/?gh_jid=8457339002) | South San Francisco, CA | greenhouse |
+| 2026-05-05 | lightningai | [Research Engineer](https://job-boards.greenhouse.io/lightningai/jobs/6045023003) | London, England, United Kingdom; New York, New York, United States; San Francisco, California, United States; Seattle, Washington, United States | greenhouse |
+| 2026-05-05 | shopmonkey | [Senior ML Engineer](https://boards.greenhouse.io/shopmonkey/jobs/7656211003?gh_jid=7656211003) | Remote - California; Remote - Colorado; Remote - Massachusetts; Remote - North Carolina; Remote - Texas; Remote - Washington | greenhouse |
+| 2026-05-05 | calicolabs | [Machine Learning Scientist / Senior Machine Learning Scientist](https://www.calicolabs.com/careers/?gh_jid=8533254002) | South San Francisco, CA | greenhouse |
 | 2026-05-05 | calicolabs | [Machine Learning / Senior Machine Learning Scientist / Engineer](https://www.calicolabs.com/careers/?gh_jid=8465426002) | South San Francisco, CA | greenhouse |
 | 2026-05-05 | calicolabs | [Postdoctoral Fellow, Kelley Lab - Gene Regulation Machine Learning](https://www.calicolabs.com/careers/?gh_jid=8426354002) | South San Francisco, CA | greenhouse |
 | 2026-05-05 | calicolabs | [Senior Data Engineer, Drug Discovery Data Engineering](https://www.calicolabs.com/careers/?gh_jid=8430186002) | South San Francisco, CA | greenhouse |
@@ -42,8 +47,6 @@ Page 2/2 | [Prev](jobs_page_1.md)
 | 2026-05-05 | fairlife | [Sr. Analytics Engineer](https://job-boards.greenhouse.io/fairlife/jobs/5103068007) | Chicago, Illinois, United States | greenhouse |
 | 2026-05-05 | oura | [Senior Data Engineer](https://job-boards.greenhouse.io/oura/jobs/4199817009) | Remote - Boston, Massachusetts | greenhouse |
 | 2026-05-05 | deepmind | [Staff Research Engineer, Applied AI](https://job-boards.greenhouse.io/deepmind/jobs/7561938) | Mountain View, California, US | greenhouse |
-| 2026-05-05 | ibkr | [Data Engineer (Gen AI)](https://job-boards.greenhouse.io/ibkr/jobs/8365234002) | New York, NY | greenhouse |
-| 2026-05-05 | ibkr | [Senior Data Engineer](https://job-boards.greenhouse.io/ibkr/jobs/8112195002) | Greenwich, CT | greenhouse |
 | 2026-05-05 | govini | [Forward Deployed Senior Data Scientist](https://job-boards.greenhouse.io/govini/jobs/4120379009) | Arlington, Virginia, United States; Pittsburgh, Pennsylvania, United States; Remote | greenhouse |
 | 2026-05-05 | govini | [Lead Data Scientist - Knowledge Retrieval](https://job-boards.greenhouse.io/govini/jobs/4116290009) | Pittsburgh, Pennsylvania, United States | greenhouse |
 | 2026-05-05 | govini | [Lead Data Scientist - Simulation / Optimization](https://job-boards.greenhouse.io/govini/jobs/4115004009) | Pittsburgh, Pennsylvania, United States | greenhouse |
@@ -68,12 +71,6 @@ Page 2/2 | [Prev](jobs_page_1.md)
 | 2026-05-05 | engine | [Senior Data Analyst, Client Ops](https://job-boards.greenhouse.io/engine/jobs/7694235003) | Remote - USA | greenhouse |
 | 2026-05-05 | engine | [Senior Data Analyst, RevOps](https://job-boards.greenhouse.io/engine/jobs/7704254003) | Remote - USA | greenhouse |
 | 2026-05-05 | evoplaygames | [Data Engineer](https://job-boards.eu.greenhouse.io/evoplaygames/jobs/4857307101) | Remote | greenhouse |
-| 2026-05-05 | moniepoint | [Data Engineering Lead](https://job-boards.eu.greenhouse.io/moniepoint/jobs/4858265101) | Remote, Spain | greenhouse |
-| 2026-05-05 | monzoreferrals | [Senior Data Analyst, Financial Health](https://job-boards.greenhouse.io/monzoreferrals/jobs/7795855) | Cardiff, London or Remote (UK); London | greenhouse |
-| 2026-05-05 | phdata | [Senior Data Engineer](https://www.phdata.io/jobs?gh_jid=7734024) | India - Remote | greenhouse |
-| 2026-05-05 | phdata | [Senior Data Engineer](https://www.phdata.io/jobs?gh_jid=7625493) | India - Remote | greenhouse |
-| 2026-05-05 | whop | [Data Scientist](https://careers.whop.com?gh_jid=5126033007) | Palo Alto, CA | greenhouse |
-| 2026-05-05 | RevenueCat | [Senior Data Scientist, RC Capital](https://jobicy.com/jobs/143120-senior-data-scientist-rc-capital) | LATAM,  Canada,  USA | jobicy |
 
 Page 2/2 | [Prev](jobs_page_1.md)
 
