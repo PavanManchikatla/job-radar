@@ -1,12 +1,17 @@
 # Jobs Feed (Page 2/2)
 
-_Last updated: 2026-05-08 04:56 CDT_
+_Last updated: 2026-05-08 09:21 CDT_
 
 Page 2/2 | [Prev](jobs_page_1.md)
 
 
 | Posted | Company | Title | Location | Source |
 |---|---|---|---|---|
+| 2026-05-05 | generalassembly | [Lead Instructor: Agentic AI Engineering](https://job-boards.greenhouse.io/generalassembly/jobs/7874904) | U.S. Remote | greenhouse |
+| 2026-05-05 | Capital Technology Group (CTG) | [Senior AI/ML Engineer](https://news.ycombinator.com/item?id=48027869) | Remote (US Only) | hn_hiring |
+| 2026-05-05 | encora10 | [Business Intelligence Analyst (GCP & Tableau Support)](https://job-boards.greenhouse.io/encora10/jobs/5129462007) | Scottsdale, AZ | greenhouse |
+| 2026-05-05 | engine | [Staff Data Analyst, Growth](https://job-boards.greenhouse.io/engine/jobs/7664315003) | Remote - USA | greenhouse |
+| 2026-05-05 | 360learning | [AI Engineer](https://jobs.lever.co/360learning/705f8577-c37e-48a9-a4c0-8277164bc0c0) | Paris, Remote | lever |
 | 2026-05-05 | kalderos | [Sr. Data Engineer](https://www.kalderos.com/company/job-board/?gh_jid=7725099003) | Chicago, IL; Boston, MA; Remote | greenhouse |
 | 2026-05-05 | calicolabs | [Senior Machine Learning Research Engineer (ML Platform)](https://www.calicolabs.com/careers/?gh_jid=8457339002) | South San Francisco, CA | greenhouse |
 | 2026-05-05 | lightningai | [Research Engineer](https://job-boards.greenhouse.io/lightningai/jobs/6045023003) | London, England, United Kingdom; New York, New York, United States; San Francisco, California, United States; Seattle, Washington, United States | greenhouse |
@@ -67,10 +72,6 @@ Page 2/2 | [Prev](jobs_page_1.md)
 | 2026-05-05 | netdocuments | [Sr Business Intelligence Engineer](https://job-boards.greenhouse.io/netdocuments/jobs/5204850008) | Lehi, Utah, United States | greenhouse |
 | 2026-05-05 | sharkninjaoperatingllc | [Applied Research Engineer II, Human Wellness](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4663172006) | United States | greenhouse |
 | 2026-05-05 | sharkninjaoperatingllc | [Machine Learning and AI Opportunities](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4600175006) | Needham, MA, United States | greenhouse |
-| 2026-05-05 | zenbusiness | [Senior AI Engineer](https://job-boards.greenhouse.io/zenbusiness/jobs/5128891007) | Remote | greenhouse |
-| 2026-05-05 | engine | [Senior Data Analyst, Client Ops](https://job-boards.greenhouse.io/engine/jobs/7694235003) | Remote - USA | greenhouse |
-| 2026-05-05 | engine | [Senior Data Analyst, RevOps](https://job-boards.greenhouse.io/engine/jobs/7704254003) | Remote - USA | greenhouse |
-| 2026-05-05 | evoplaygames | [Data Engineer](https://job-boards.eu.greenhouse.io/evoplaygames/jobs/4857307101) | Remote | greenhouse |
 
 Page 2/2 | [Prev](jobs_page_1.md)
 

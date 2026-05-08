@@ -6562,7 +6562,6 @@ stripes	no_matching_jobs
 wikimedia	no_matching_jobs
 noahmedical	no_matching_jobs
 bam	http_404
-vectranetworks	no_matching_jobs
 etec	no_matching_jobs
 samainc	no_matching_jobs
 verkada	no_matching_jobs
@@ -12133,7 +12132,6 @@ cruiseuniversity	http_404
 crestwoodcareers	no_matching_jobs
 crowdbotics	no_jobs
 crownpeak	http_404
-crossmediainc	no_matching_jobs
 csgconsultantsassociate-environmental-planner-analyst-full-time-hybrid	http_404
 csgconsultantsassistant-planner-full-time-hybrid	http_404
 csgconsultantsbuilding-inspector-i	http_404
