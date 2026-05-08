@@ -1,12 +1,13 @@
 # Jobs Feed (Page 2/2)
 
-_Last updated: 2026-05-07 22:25 CDT_
+_Last updated: 2026-05-08 01:33 CDT_
 
 Page 2/2 | [Prev](jobs_page_1.md)
 
 
 | Posted | Company | Title | Location | Source |
 |---|---|---|---|---|
+| 2026-05-05 | calicolabs | [Machine Learning / Senior Machine Learning Scientist / Engineer](https://www.calicolabs.com/careers/?gh_jid=8465426002) | South San Francisco, CA | greenhouse |
 | 2026-05-05 | calicolabs | [Postdoctoral Fellow, Kelley Lab - Gene Regulation Machine Learning](https://www.calicolabs.com/careers/?gh_jid=8426354002) | South San Francisco, CA | greenhouse |
 | 2026-05-05 | calicolabs | [Senior Data Engineer, Drug Discovery Data Engineering](https://www.calicolabs.com/careers/?gh_jid=8430186002) | South San Francisco, CA | greenhouse |
 | 2026-05-05 | calicolabs | [Senior Machine Learning Software Engineer (MLOps)](https://www.calicolabs.com/careers/?gh_jid=8457266002) | South San Francisco, CA | greenhouse |
@@ -73,78 +74,6 @@ Page 2/2 | [Prev](jobs_page_1.md)
 | 2026-05-05 | phdata | [Senior Data Engineer](https://www.phdata.io/jobs?gh_jid=7625493) | India - Remote | greenhouse |
 | 2026-05-05 | whop | [Data Scientist](https://careers.whop.com?gh_jid=5126033007) | Palo Alto, CA | greenhouse |
 | 2026-05-05 | RevenueCat | [Senior Data Scientist, RC Capital](https://jobicy.com/jobs/143120-senior-data-scientist-rc-capital) | LATAM,  Canada,  USA | jobicy |
-| 2026-05-05 | optimaldynamics | [Senior AI Engineer](https://job-boards.greenhouse.io/optimaldynamics/jobs/5653165004) | Remote | greenhouse |
-| 2026-05-05 | launch2 | [Lead Data Engineer](https://job-boards.greenhouse.io/launch2/jobs/5988272004) | Madison, WI (remote) | greenhouse |
-| 2026-05-05 | launch2 | [Senior Data Engineer](https://job-boards.greenhouse.io/launch2/jobs/5988271004) | Madison, WI (remote) | greenhouse |
-| 2026-05-05 | launch2 | [Senior Data Engineer](https://job-boards.greenhouse.io/launch2/jobs/5988270004) | Seattle, WA (remote) | greenhouse |
-| 2026-05-05 | launch2 | [Senior Data Engineer](https://job-boards.greenhouse.io/launch2/jobs/5988268004) | Salt Lake City, UT (remote) | greenhouse |
-| 2026-05-05 | launch2 | [Senior Data Engineer](https://job-boards.greenhouse.io/launch2/jobs/5988269004) | Arlington, VA (remote) | greenhouse |
-| 2026-05-05 | launch2 | [Senior Data Engineer](https://job-boards.greenhouse.io/launch2/jobs/5988266004) | Austin, TX (remote) | greenhouse |
-| 2026-05-05 | launch2 | [Senior Data Engineer](https://job-boards.greenhouse.io/launch2/jobs/5988267004) | Dallas, TX (remote) | greenhouse |
-| 2026-05-05 | launch2 | [Senior Data Engineer](https://job-boards.greenhouse.io/launch2/jobs/5988264004) | Philadelphia, PA (remote) | greenhouse |
-| 2026-05-05 | launch2 | [Senior Data Engineer](https://job-boards.greenhouse.io/launch2/jobs/5988265004) | Charleston, SC (remote) | greenhouse |
-| 2026-05-05 | launch2 | [Senior Data Engineer](https://job-boards.greenhouse.io/launch2/jobs/5988263004) | Portland, OR (remote) | greenhouse |
-| 2026-05-05 | launch2 | [Senior Data Engineer](https://job-boards.greenhouse.io/launch2/jobs/5988262004) | Oklahoma City, OK (remote) | greenhouse |
-| 2026-05-05 | launch2 | [Senior Data Engineer](https://job-boards.greenhouse.io/launch2/jobs/5988261004) | Columbus, OH (remote) | greenhouse |
-| 2026-05-05 | launch2 | [Senior Data Engineer](https://job-boards.greenhouse.io/launch2/jobs/5988260004) | New York, NY (remote) | greenhouse |
-| 2026-05-05 | launch2 | [Senior Data Engineer](https://job-boards.greenhouse.io/launch2/jobs/5988259004) | Buffalo, NY (remote) | greenhouse |
-| 2026-05-05 | exiger | [Senior Data Analyst – Red Team (Supply Chain Risk & Threat Analysis)](https://www.exiger.com/careers/5890238004?gh_jid=5890238004) | Huntsville, Alabama, United States | greenhouse |
-| 2026-05-05 | launch2 | [Senior Data Engineer](https://job-boards.greenhouse.io/launch2/jobs/5988258004) | Las Vegas, NV (remote) | greenhouse |
-| 2026-05-05 | launch2 | [Senior Data Engineer](https://job-boards.greenhouse.io/launch2/jobs/5988257004) | Jersey City, NJ (remote) | greenhouse |
-| 2026-05-05 | launch2 | [Senior Data Engineer](https://job-boards.greenhouse.io/launch2/jobs/5988256004) | Manchester, NH (remote) | greenhouse |
-| 2026-05-05 | launch2 | [Senior Data Engineer](https://job-boards.greenhouse.io/launch2/jobs/5988255004) | Raleigh, NC (remote) | greenhouse |
-| 2026-05-05 | launch2 | [Senior Data Engineer](https://job-boards.greenhouse.io/launch2/jobs/5988254004) | Charlotte, NC (remote) | greenhouse |
-| 2026-05-05 | launch2 | [Senior Data Engineer](https://job-boards.greenhouse.io/launch2/jobs/5988253004) | Asheville, NC (remote) | greenhouse |
-| 2026-05-05 | launch2 | [Senior Data Engineer](https://job-boards.greenhouse.io/launch2/jobs/5988252004) | Saint Louis, MO (remote) | greenhouse |
-| 2026-05-05 | launch2 | [Senior Data Engineer](https://job-boards.greenhouse.io/launch2/jobs/5988251004) | Detroit, MI (remote) | greenhouse |
-| 2026-05-05 | launch2 | [Senior Data Engineer](https://job-boards.greenhouse.io/launch2/jobs/5988250004) | Baltimore, MD (remote) | greenhouse |
-| 2026-05-05 | launch2 | [Senior Data Engineer](https://job-boards.greenhouse.io/launch2/jobs/5988249004) | Kansas City, KS (remote) | greenhouse |
-| 2026-05-05 | launch2 | [Senior Data Engineer](https://job-boards.greenhouse.io/launch2/jobs/5988248004) | Chicago, IL (remote) | greenhouse |
-| 2026-05-05 | launch2 | [Senior Data Engineer](https://job-boards.greenhouse.io/launch2/jobs/5988247004) | Atlanta, GA (remote) | greenhouse |
-| 2026-05-05 | launch2 | [Senior Data Engineer](https://job-boards.greenhouse.io/launch2/jobs/5988246004) | Miami, FL (hybrid) | greenhouse |
-| 2026-05-05 | launch2 | [Senior Data Engineer](https://job-boards.greenhouse.io/launch2/jobs/5988245004) | Fort Lauderdale, FL (hybrid) | greenhouse |
-| 2026-05-05 | launch2 | [Senior Data Engineer](https://job-boards.greenhouse.io/launch2/jobs/5988244004) | Delray Beach, FL (hybrid) | greenhouse |
-| 2026-05-05 | launch2 | [Senior Data Engineer](https://job-boards.greenhouse.io/launch2/jobs/5988242004) | Stamford, CT (remote) | greenhouse |
-| 2026-05-05 | launch2 | [Senior Data Engineer](https://job-boards.greenhouse.io/launch2/jobs/5988243004) | Boynton Beach, FL (remote) | greenhouse |
-| 2026-05-05 | launch2 | [Senior Data Engineer](https://job-boards.greenhouse.io/launch2/jobs/5988241004) | Denver, CO (remote) | greenhouse |
-| 2026-05-05 | launch2 | [Senior Data Engineer](https://job-boards.greenhouse.io/launch2/jobs/5988240004) | San Diego, CA (remote) | greenhouse |
-| 2026-05-05 | launch2 | [Senior Data Engineer](https://job-boards.greenhouse.io/launch2/jobs/5988239004) | Los Angeles, CA (remote) | greenhouse |
-| 2026-05-05 | launch2 | [Senior Data Engineer](https://job-boards.greenhouse.io/launch2/jobs/5988238004) | Tucson, AZ (remote) | greenhouse |
-| 2026-05-05 | launch2 | [Senior Data Engineer](https://job-boards.greenhouse.io/launch2/jobs/5988237004) | Phoenix, AZ (remote) | greenhouse |
-| 2026-05-05 | launch2 | [Lead Data Engineer](https://job-boards.greenhouse.io/launch2/jobs/5988235004) | Seattle, WA (remote) | greenhouse |
-| 2026-05-05 | launch2 | [Lead Data Engineer](https://job-boards.greenhouse.io/launch2/jobs/5988234004) | Arlington, VA (remote) | greenhouse |
-| 2026-05-05 | launch2 | [Lead Data Engineer](https://job-boards.greenhouse.io/launch2/jobs/5988233004) | Salt Lake City, UT (remote) | greenhouse |
-| 2026-05-05 | launch2 | [Lead Data Engineer](https://job-boards.greenhouse.io/launch2/jobs/5988232004) | Dallas, TX (remote) | greenhouse |
-| 2026-05-05 | launch2 | [Lead Data Engineer](https://job-boards.greenhouse.io/launch2/jobs/5988230004) | Austin, TX (remote) | greenhouse |
-| 2026-05-05 | launch2 | [Lead Data Engineer](https://job-boards.greenhouse.io/launch2/jobs/5988229004) | Charleston, SC (remote) | greenhouse |
-| 2026-05-05 | launch2 | [Lead Data Engineer](https://job-boards.greenhouse.io/launch2/jobs/5988228004) | Philadelphia, PA (remote) | greenhouse |
-| 2026-05-05 | launch2 | [Lead Data Engineer](https://job-boards.greenhouse.io/launch2/jobs/5988227004) | Portland, OR (remote) | greenhouse |
-| 2026-05-05 | launch2 | [Lead Data Engineer](https://job-boards.greenhouse.io/launch2/jobs/5988226004) | Oklahoma City, OK (remote) | greenhouse |
-| 2026-05-05 | launch2 | [Lead Data Engineer](https://job-boards.greenhouse.io/launch2/jobs/5988223004) | Columbus, OH (remote) | greenhouse |
-| 2026-05-05 | launch2 | [Lead Data Engineer](https://job-boards.greenhouse.io/launch2/jobs/5988220004) | New York, NY (remote) | greenhouse |
-| 2026-05-05 | launch2 | [Lead Data Engineer](https://job-boards.greenhouse.io/launch2/jobs/5988219004) | Buffalo, NY (remote) | greenhouse |
-| 2026-05-05 | launch2 | [Lead Data Engineer](https://job-boards.greenhouse.io/launch2/jobs/5988218004) | Las Vegas, NV (remote) | greenhouse |
-| 2026-05-05 | launch2 | [Lead Data Engineer](https://job-boards.greenhouse.io/launch2/jobs/5988216004) | Manchester, NH (remote) | greenhouse |
-| 2026-05-05 | launch2 | [Lead Data Engineer](https://job-boards.greenhouse.io/launch2/jobs/5988217004) | Jersey City, NJ (remote) | greenhouse |
-| 2026-05-05 | launch2 | [Lead Data Engineer](https://job-boards.greenhouse.io/launch2/jobs/5988215004) | Raleigh, NC (remote) | greenhouse |
-| 2026-05-05 | launch2 | [Lead Data Engineer](https://job-boards.greenhouse.io/launch2/jobs/5988214004) | Charlotte, NC (remote) | greenhouse |
-| 2026-05-05 | launch2 | [Lead Data Engineer](https://job-boards.greenhouse.io/launch2/jobs/5988213004) | Asheville, NC (remote) | greenhouse |
-| 2026-05-05 | launch2 | [Lead Data Engineer](https://job-boards.greenhouse.io/launch2/jobs/5988212004) | Saint Louis, MO (remote) | greenhouse |
-| 2026-05-05 | launch2 | [Lead Data Engineer](https://job-boards.greenhouse.io/launch2/jobs/5988211004) | Detroit, MI (remote) | greenhouse |
-| 2026-05-05 | launch2 | [Lead Data Engineer](https://job-boards.greenhouse.io/launch2/jobs/5988210004) | Baltimore, MD (remote) | greenhouse |
-| 2026-05-05 | launch2 | [Lead Data Engineer](https://job-boards.greenhouse.io/launch2/jobs/5988209004) | Kansas City, KS (remote) | greenhouse |
-| 2026-05-05 | launch2 | [Lead Data Engineer](https://job-boards.greenhouse.io/launch2/jobs/5988208004) | Chicago, IL (remote) | greenhouse |
-| 2026-05-05 | launch2 | [Lead Data Engineer](https://job-boards.greenhouse.io/launch2/jobs/5988207004) | Atlanta, GA (remote) | greenhouse |
-| 2026-05-05 | launch2 | [Lead Data Engineer](https://job-boards.greenhouse.io/launch2/jobs/5988206004) | Miami, FL (hybrid) | greenhouse |
-| 2026-05-05 | launch2 | [Lead Data Engineer](https://job-boards.greenhouse.io/launch2/jobs/5988205004) | Fort Lauderdale, FL (hybrid) | greenhouse |
-| 2026-05-05 | launch2 | [Lead Data Engineer](https://job-boards.greenhouse.io/launch2/jobs/5988204004) | Delray Beach, FL (hybrid) | greenhouse |
-| 2026-05-05 | launch2 | [Lead Data Engineer](https://job-boards.greenhouse.io/launch2/jobs/5988203004) | Boynton Beach, FL (remote) | greenhouse |
-| 2026-05-05 | launch2 | [Lead Data Engineer](https://job-boards.greenhouse.io/launch2/jobs/5988202004) | Stamford, CT (remote) | greenhouse |
-| 2026-05-05 | launch2 | [Lead Data Engineer](https://job-boards.greenhouse.io/launch2/jobs/5988201004) | Denver, CO (remote) | greenhouse |
-| 2026-05-05 | launch2 | [Lead Data Engineer](https://job-boards.greenhouse.io/launch2/jobs/5988200004) | San Diego, CA (remote) | greenhouse |
-| 2026-05-05 | launch2 | [Lead Data Engineer](https://job-boards.greenhouse.io/launch2/jobs/5988199004) | Los Angeles, CA (remote) | greenhouse |
-| 2026-05-05 | launch2 | [Lead Data Engineer](https://job-boards.greenhouse.io/launch2/jobs/5988198004) | Tucson, AZ (remote) | greenhouse |
-| 2026-05-05 | launch2 | [Lead Data Engineer](https://job-boards.greenhouse.io/launch2/jobs/5987221004) | Phoenix, AZ (remote) | greenhouse |
 
 Page 2/2 | [Prev](jobs_page_1.md)
 
