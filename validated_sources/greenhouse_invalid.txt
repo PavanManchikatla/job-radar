@@ -7038,7 +7038,6 @@ gotion	no_matching_jobs
 universityofchicago	http_404
 31stunion	no_matching_jobs
 xphealth	no_matching_jobs
-goodwaygroup	no_matching_jobs
 veritasvetpartners	no_matching_jobs
 aevum	http_404
 readyresponders	http_404
@@ -8260,7 +8259,6 @@ rivaltechnologies	no_matching_jobs
 wundercapital	no_matching_jobs
 checkbook	no_matching_jobs
 sprouttherapy	http_404
-aevexaerospace	no_matching_jobs
 cloudbees	http_404
 maesa	no_matching_jobs
 digitalhands	no_matching_jobs
@@ -12126,7 +12124,6 @@ crestline	no_jobs
 crossbordersolutions	http_404
 crigroup	http_404
 crowdtap	http_404
-cpisecurity	no_matching_jobs
 comptechcomputertechnologies	no_matching_jobs
 cruiseuniversity	http_404
 crestwoodcareers	no_matching_jobs
@@ -12831,7 +12828,6 @@ instigliofutureopportunities	no_matching_jobs
 instnt	no_matching_jobs
 intelextechnologies	http_404
 intelligo	http_404
-inovalon	no_matching_jobs
 internationalbusinessuniversity	no_matching_jobs
 intermexwiretransfer	no_matching_jobs
 intelluminc	no_matching_jobs
