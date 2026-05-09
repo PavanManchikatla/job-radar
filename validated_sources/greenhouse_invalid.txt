@@ -5329,7 +5329,6 @@ rtingscom	no_matching_jobs
 affinidi	no_matching_jobs
 unframe	no_matching_jobs
 loizero	no_matching_jobs
-chaosindustries	no_matching_jobs
 prometheusrealestategroup	no_matching_jobs
 autods	no_matching_jobs
 shyftsolutionsllc	no_jobs
@@ -7981,7 +7980,6 @@ cosmoslabs	no_matching_jobs
 xendit	no_matching_jobs
 covant	no_jobs
 traversal	http_404
-eikontherapeutics	no_matching_jobs
 sprig	http_404
 apparatus	no_matching_jobs
 lyellimmunopharma	no_matching_jobs

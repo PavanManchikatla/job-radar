@@ -808,3 +808,5 @@ anaplan
 mochihealth
 aircapture
 northmarq
+chaosindustries
+eikontherapeutics

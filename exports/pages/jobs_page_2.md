@@ -1,12 +1,29 @@
 # Jobs Feed (Page 2/2)
 
-_Last updated: 2026-05-08 16:36 CDT_
+_Last updated: 2026-05-08 22:19 CDT_
 
 Page 2/2 | [Prev](jobs_page_1.md)
 
 
 | Posted | Company | Title | Location | Source |
 |---|---|---|---|---|
+| 2026-05-06 | growtherapy | [Data Analyst, Product Analytics](https://job-boards.greenhouse.io/growtherapy/jobs/4648815005) | San Francisco, CA | greenhouse |
+| 2026-05-06 | growtherapy | [Senior Data Scientist - Growth / Care](https://job-boards.greenhouse.io/growtherapy/jobs/4641722005) | New York City, San Francisco, or Seattle | greenhouse |
+| 2026-05-06 | growtherapy | [Staff Data Scientist - Growth / Care](https://job-boards.greenhouse.io/growtherapy/jobs/4641723005) | New York City, San Francisco, or Seattle | greenhouse |
+| 2026-05-06 | gridware | [Senior Data Analyst, Fleet Triage & Operations](https://jobs.lever.co/gridware/3a6f26bf-c744-45ee-b109-120a10e8923e) | San Francisco, CA | lever |
+| 2026-05-06 | wavicledata | [Senior Data Engineer](https://jobs.lever.co/wavicledata/ff226ee7-6a66-482e-814e-d5152a084fb1) | Oak Brook, IL | lever |
+| 2026-05-06 | akunacapital | [Junior Quantitative Researcher - Prediction Markets](https://www.akunacapital.com/careers/job/7863348/?gh_jid=7863348) | Chicago, IL | greenhouse |
+| 2026-05-06 | akunacapital | [Quantitative Researcher](https://www.akunacapital.com/careers/job/7496416/?gh_jid=7496416) | Chicago, IL | greenhouse |
+| 2026-05-06 | akunacapital | [Quantitative Researcher - Prediction Markets](https://www.akunacapital.com/careers/job/7846695/?gh_jid=7846695) | Chicago, IL | greenhouse |
+| 2026-05-06 | akunacapital | [Software Engineer - Data Engineering](https://www.akunacapital.com/careers/job/7496411/?gh_jid=7496411) | Chicago, IL | greenhouse |
+| 2026-05-06 | smarterdx | [Data Engineering Manager](https://job-boards.greenhouse.io/smarterdx/jobs/5038937007) | Remote (United States) | greenhouse |
+| 2026-05-06 | smarterdx | [Senior Data Scientist](https://job-boards.greenhouse.io/smarterdx/jobs/4686334007) | Remote (United States) | greenhouse |
+| 2026-05-06 | flex | [Director, Analytics Engineer](https://job-boards.greenhouse.io/flex/jobs/4685259005) | New York, New York, United States; Salt Lake City, Utah, United States; San Francisco, California, United States | greenhouse |
+| 2026-05-06 | flex | [Senior Data Scientist & Analytics, Product](https://job-boards.greenhouse.io/flex/jobs/4677028005) | New York, New York, United States | greenhouse |
+| 2026-05-06 | flex | [Sr. Staff Data Scientist](https://job-boards.greenhouse.io/flex/jobs/4679382005) | New York, New York, United States | greenhouse |
+| 2026-05-06 | flex | [Staff Data Scientist & Analytics](https://job-boards.greenhouse.io/flex/jobs/4658283005) | New York, New York, United States | greenhouse |
+| 2026-05-06 | technologyadvice | [Senior Data Analyst](https://technologyadvice.com/careers/opportunities/5989488004?gh_jid=5989488004) | Philippines - Remote | greenhouse |
+| 2026-05-06 | kpler | [Data Engineer](https://jobs.lever.co/kpler/8e09aae0-9da8-4766-8dc7-1ff56de56432) | Colombia (Remote) | lever |
 | 2026-05-06 | dropbox | [Senior Data Scientist, AI Products](https://jobs.dropbox.com/listing/7789389?gh_jid=7789389) | Remote - Canada: Select locations | greenhouse |
 | 2026-05-06 | dropbox | [Senior Data Scientist, AI Products](https://jobs.dropbox.com/listing/7789386?gh_jid=7789386) | Remote - US: Select locations | greenhouse |
 | 2026-05-06 | dropbox | [Data Scientist](https://jobs.dropbox.com/listing/7762009?gh_jid=7762009) | Remote - Mexico | greenhouse |
@@ -43,51 +60,6 @@ Page 2/2 | [Prev](jobs_page_1.md)
 | 2026-05-06 | morsecorp | [Machine Learning Engineer](https://boards.greenhouse.io/morsecorp/jobs/7619041003?gh_jid=7619041003) | Arlington, VA | greenhouse |
 | 2026-05-06 | morsecorp | [Machine Learning Engineer](https://boards.greenhouse.io/morsecorp/jobs/7619047003?gh_jid=7619047003) | Cambridge, MA | greenhouse |
 | 2026-05-06 | morsecorp | [Machine Learning Engineer](https://boards.greenhouse.io/morsecorp/jobs/7619052003?gh_jid=7619052003) | Seattle, WA | greenhouse |
-| 2026-05-06 | forgeglobal | [Quantitative Researcher](https://job-boards.greenhouse.io/forgeglobal/jobs/5983104004) | San Francisco, California, United States | greenhouse |
-| 2026-05-06 | forgeglobal | [Quantitative Researcher](https://job-boards.greenhouse.io/forgeglobal/jobs/5983120004) | New York, New York, United States | greenhouse |
-| 2026-05-06 | forgeglobal | [Senior Data Engineer](https://job-boards.greenhouse.io/forgeglobal/jobs/5988022004) | San Francisco, California, United States | greenhouse |
-| 2026-05-06 | forgeglobal | [Senior Data Engineer](https://job-boards.greenhouse.io/forgeglobal/jobs/5988024004) | Denver, Colorado, United States | greenhouse |
-| 2026-05-06 | forgeglobal | [Senior Data Engineer](https://job-boards.greenhouse.io/forgeglobal/jobs/5988023004) | New York, New York, United States | greenhouse |
-| 2026-05-06 | geotab | [Insights and Integrations Consultancy Data Scientist](https://job-boards.greenhouse.io/geotab/jobs/5174470008) | Atlanta, Georgia - USA; Las Vegas, Nevada - USA | greenhouse |
-| 2026-05-05 | zoox | [Senior Machine Learning Engineer - Perception Localization](https://jobs.lever.co/zoox/e04946b0-2589-48cb-8f34-b1d3f53ccfce) | Foster City, CA | lever |
-| 2026-05-05 | acuitymd | [Data Engineer, Encounters Intelligence](https://job-boards.greenhouse.io/acuitymd/jobs/5989148004) | Boston or Remote | greenhouse |
-| 2026-05-05 | waymo | [Senior Research Scientist, World Action Modeling](https://careers.withwaymo.com/jobs?gh_jid=7766821) | Mountain View, CA \| San Francisco, CA \| Kirkland, WA \| New York City, NY | greenhouse |
-| 2026-05-05 | waymo | [Senior Research Scientist, Sensor Simulation](https://careers.withwaymo.com/jobs?gh_jid=7723293) | Mountain View, CA \| San Francisco, CA \| Kirkland, WA \| New York City, NY | greenhouse |
-| 2026-05-05 | waymo | [Senior Machine Learning Engineer – VLM/LLM Evaluation](https://careers.withwaymo.com/jobs?gh_jid=7644924) | Mountain View, CA \| San Francisco, CA \| Kirkland, WA \| New York City, NY | greenhouse |
-| 2026-05-05 | stackav | [Staff ML Engineer, Dynamic World Perception](https://job-boards.greenhouse.io/stackav/jobs/4988221007) | Pittsburgh, PA or Remote | greenhouse |
-| 2026-05-05 | waymo | [Research Scientist, RL for Autonomous Planning & World Modeling](https://careers.withwaymo.com/jobs?gh_jid=7469425) | Mountain View, CA \| San Francisco, CA \| Kirkland, WA \| New York City, NY | greenhouse |
-| 2026-05-05 | lyft | [Applied Scientist- Pricing, Dynamic Pricing & Offer Selection](https://app.careerpuck.com/job-board/lyft/job/8403370002?gh_jid=8403370002) | New York, NY | greenhouse |
-| 2026-05-05 | lyft | [Applied Scientist- Pricing, Dynamic Pricing & Offer Selection](https://app.careerpuck.com/job-board/lyft/job/8402813002?gh_jid=8402813002) | San Francisco, CA | greenhouse |
-| 2026-05-05 | lyft | [Data Analyst - Global Growth Luxury Strategy](https://app.careerpuck.com/job-board/lyft/job/8514400002?gh_jid=8514400002) | New York, NY | greenhouse |
-| 2026-05-05 | lyft | [Data Science Manager, Machine Learning - Lyft Ads](https://app.careerpuck.com/job-board/lyft/job/8503999002?gh_jid=8503999002) | San Francisco, CA | greenhouse |
-| 2026-05-05 | lyft | [Data Science Manager, Machine Learning - Lyft Ads](https://app.careerpuck.com/job-board/lyft/job/8504137002?gh_jid=8504137002) | New York, NY | greenhouse |
-| 2026-05-05 | lyft | [Data Science Manager, Mapping](https://app.careerpuck.com/job-board/lyft/job/8448175002?gh_jid=8448175002) | San Francisco, CA | greenhouse |
-| 2026-05-05 | lyft | [Data Scientist, Algorithms - Lyft Ads](https://app.careerpuck.com/job-board/lyft/job/8330398002?gh_jid=8330398002) | San Francisco, CA | greenhouse |
-| 2026-05-05 | lyft | [Data Scientist, Algorithms - Lyft Ads](https://app.careerpuck.com/job-board/lyft/job/8330595002?gh_jid=8330595002) | New York, NY | greenhouse |
-| 2026-05-05 | lyft | [Data Scientist, Algorithms, Optimization - Fulfillment](https://app.careerpuck.com/job-board/lyft/job/8536085002?gh_jid=8536085002) | San Francisco, CA | greenhouse |
-| 2026-05-05 | lyft | [Data Scientist, Algorithms, Optimization - Fulfillment](https://app.careerpuck.com/job-board/lyft/job/8335733002?gh_jid=8335733002) | New York, NY | greenhouse |
-| 2026-05-05 | lyft | [Data Scientist, Algorithms, Optimization - Fulfillment](https://app.careerpuck.com/job-board/lyft/job/8335715002?gh_jid=8335715002) | Seattle, WA | greenhouse |
-| 2026-05-05 | lyft | [Data Scientist, Supply and Operations Technology, Lyft Urban Solutions](https://app.careerpuck.com/job-board/lyft/job/8402782002?gh_jid=8402782002) | New York, NY | greenhouse |
-| 2026-05-05 | lyft | [Machine Learning Engineer, Lyft Business](https://app.careerpuck.com/job-board/lyft/job/8513769002?gh_jid=8513769002) | New York, NY; San Francisco, CA | greenhouse |
-| 2026-05-05 | lyft | [Senior Data Scientist, Decisions - Risk](https://app.careerpuck.com/job-board/lyft/job/8477561002?gh_jid=8477561002) | San Francisco, CA | greenhouse |
-| 2026-05-05 | lyft | [Senior Data Scientist, Decisions - Risk](https://app.careerpuck.com/job-board/lyft/job/8477773002?gh_jid=8477773002) | New York, NY | greenhouse |
-| 2026-05-05 | lyft | [Senior Data Scientist - Optimization, Central Market Management & AI](https://app.careerpuck.com/job-board/lyft/job/8483708002?gh_jid=8483708002) | San Francisco, CA | greenhouse |
-| 2026-05-05 | lyft | [Senior Data Scientist - Optimization, Central Market Management & AI](https://app.careerpuck.com/job-board/lyft/job/8483867002?gh_jid=8483867002) | New York, NY | greenhouse |
-| 2026-05-05 | lyft | [Senior Data Scientist, Rider New Products](https://app.careerpuck.com/job-board/lyft/job/8355945002?gh_jid=8355945002) | San Francisco, CA | greenhouse |
-| 2026-05-05 | lyft | [Senior Data Scientist, Rider New Products](https://app.careerpuck.com/job-board/lyft/job/8355960002?gh_jid=8355960002) | New York, NY | greenhouse |
-| 2026-05-05 | lyft | [Senior Machine Learning Engineer, Recommendations](https://app.careerpuck.com/job-board/lyft/job/8430552002?gh_jid=8430552002) | San Francisco, CA | greenhouse |
-| 2026-05-05 | ifm-us | [Machine Learning Engineer – World Model](https://jobs.lever.co/ifm-us/f527ece9-8e42-4921-90c1-a1799f31bf4b) | Sunnyvale, CA | lever |
-| 2026-05-05 | optiverus | [Graduate Quantitative Researcher, PhD (2026 Start)](https://optiver.com/working-at-optiver/career-opportunities/7923852002/?gh_jid=7923852002) | Chicago, Illinois, United States | greenhouse |
-| 2026-05-05 | disqo | [Staff Data Engineer (Scala, Spark, & Gen AI)](https://jobs.lever.co/disqo/face1937-c6c9-46b8-9ee2-2374f4d3e637) | Los Angeles, CA | lever |
-| 2026-05-05 | entreehealth | [Associate Director, Data Engineering](https://job-boards.greenhouse.io/entreehealth/jobs/5152382008) | New York, NY | greenhouse |
-| 2026-05-05 | omnicomhealth | [Associate Director, Data Engineering](https://job-boards.greenhouse.io/omnicomhealth/jobs/5127299008) | New York, NY | greenhouse |
-| 2026-05-05 | omadahealth | [Senior Software Engineer, Data Engineering](https://job-boards.greenhouse.io/omadahealth/jobs/7871522) | Remote, USA | greenhouse |
-| 2026-05-05 | sigmacomputing | [Staff AI/ML Engineer](https://job-boards.greenhouse.io/sigmacomputing/jobs/7725298003) | New York City, NY | greenhouse |
-| 2026-05-05 | sigmacomputing | [Senior AI/ML Engineer](https://job-boards.greenhouse.io/sigmacomputing/jobs/7725297003) | New York City, NY | greenhouse |
-| 2026-05-05 | sigmacomputing | [Senior AI/ML Engineer](https://job-boards.greenhouse.io/sigmacomputing/jobs/7725296003) | San Francisco, CA | greenhouse |
-| 2026-05-05 | globalizationpartners | [Senior Data Scientist & Engineer](https://job-boards.greenhouse.io/globalizationpartners/jobs/7704107003) | India (Remote-First) | greenhouse |
-| 2026-05-05 | globalizationpartners | [Sr.EM Data Engineering](https://job-boards.greenhouse.io/globalizationpartners/jobs/7692014003) | India (Remote-First) | greenhouse |
-| 2026-05-05 | airbnb | [Senior Staff Machine Learning Engineer, Post Training](https://careers.airbnb.com/positions/7858738?gh_jid=7858738) | Remote - USA | greenhouse |
 
 Page 2/2 | [Prev](jobs_page_1.md)
 
