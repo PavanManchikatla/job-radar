@@ -1,12 +1,13 @@
 # Jobs Feed (Page 2/2)
 
-_Last updated: 2026-05-09 04:56 CDT_
+_Last updated: 2026-05-09 08:52 CDT_
 
 Page 2/2 | [Prev](jobs_page_1.md)
 
 
 | Posted | Company | Title | Location | Source |
 |---|---|---|---|---|
+| 2026-05-06 | growtherapy | [Senior Data Scientist - Growth / Care](https://job-boards.greenhouse.io/growtherapy/jobs/4641722005) | New York City, San Francisco, or Seattle | greenhouse |
 | 2026-05-06 | growtherapy | [Staff Data Scientist - Growth / Care](https://job-boards.greenhouse.io/growtherapy/jobs/4641723005) | New York City, San Francisco, or Seattle | greenhouse |
 | 2026-05-06 | gridware | [Senior Data Analyst, Fleet Triage & Operations](https://jobs.lever.co/gridware/3a6f26bf-c744-45ee-b109-120a10e8923e) | San Francisco, CA | lever |
 | 2026-05-06 | wavicledata | [Senior Data Engineer](https://jobs.lever.co/wavicledata/ff226ee7-6a66-482e-814e-d5152a084fb1) | Oak Brook, IL | lever |
@@ -39,18 +40,6 @@ Page 2/2 | [Prev](jobs_page_1.md)
 | 2026-05-06 | dropbox | [Staff Data Engineer, Analytics Data Engineering](https://jobs.dropbox.com/listing/7595183?gh_jid=7595183) | Remote - US: Select locations | greenhouse |
 | 2026-05-06 | dropbox | [Senior Data Science Manager, AI Products](https://jobs.dropbox.com/listing/7512372?gh_jid=7512372) | Remote - US: All locations | greenhouse |
 | 2026-05-06 | dropbox | [Senior Data Science Manager, AI Products](https://jobs.dropbox.com/listing/7512377?gh_jid=7512377) | Remote - Canada: Select locations | greenhouse |
-| 2026-05-06 | komodohealth | [Senior Data Engineer, Data Foundation— AI-Ready Data Products](https://job-boards.greenhouse.io/komodohealth/jobs/8527016002) | United States (Remote) | greenhouse |
-| 2026-05-06 | spotify | [Staff Machine Learning Engineer - Policy & Safety](https://jobs.lever.co/spotify/7d57d7dd-be86-452f-8ff4-9aeb67280262) | New York, NY | lever |
-| 2026-05-06 | crunchyroll | [Staff Data Analyst](https://boards.greenhouse.io/crunchyroll/jobs/7530973?gh_jid=7530973) | Los Angeles, California, United States | greenhouse |
-| 2026-05-06 | launchpotato | [Lead Data Analyst, Marketing](https://launchpotato.com/careers-list?gh_jid=5989365004) | United States (remote) | greenhouse |
-| 2026-05-06 | launchpotato | [Lead BI Developer](https://launchpotato.com/careers-list?gh_jid=5989359004) | United States (remote) | greenhouse |
-| 2026-05-06 | launchpotato | [Lead Analytics Manager](https://launchpotato.com/careers-list?gh_jid=5989362004) | United States (remote) | greenhouse |
-| 2026-05-06 | spotify | [Senior Machine Learning Engineer - Personalization, Horizon](https://jobs.lever.co/spotify/97568ea9-6b5c-4f4c-8ef5-31fe43546323) | New York, NY | lever |
-| 2026-05-06 | pandadoc | [Staff Product Data Scientist](https://job-boards.greenhouse.io/pandadoc/jobs/7483822) | Remote (USA) | greenhouse |
-| 2026-05-06 | pandadoc | [Staff Product Data Scientist](https://job-boards.greenhouse.io/pandadoc/jobs/7483614) | Remote (Ukraine) | greenhouse |
-| 2026-05-06 | pandadoc | [Staff Product Data Scientist](https://job-boards.greenhouse.io/pandadoc/jobs/7483272) | Remote (Poland) | greenhouse |
-| 2026-05-06 | pandadoc | [Staff GTM Data Scientist](https://job-boards.greenhouse.io/pandadoc/jobs/7474669) | Remote (Poland) | greenhouse |
-| 2026-05-06 | pandadoc | [Staff GTM Data Scientist](https://job-boards.greenhouse.io/pandadoc/jobs/7474848) | Remote (Europe) | greenhouse |
 
 Page 2/2 | [Prev](jobs_page_1.md)
 
