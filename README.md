@@ -1,9 +1,7 @@
 ## Jobs Feed (auto-updated)
 
 <!-- JOBS:START -->
-_Last updated: 2026-05-09 08:52 CDT_
-
-Page 1/2 | [Next](exports/pages/jobs_page_2.md)
+_Last updated: 2026-05-09 12:31 CDT_
 
 | Posted | Company | Title | Location | Source |
 |---|---|---|---|---|
@@ -493,20 +491,4 @@ Page 1/2 | [Next](exports/pages/jobs_page_2.md)
 | 2026-05-06 | wehrtyou | [Research Engineer](https://www.hudsonrivertrading.com/careers/job/?gh_jid=7583922) | London, United Kingdom; New York, NY, United States | greenhouse |
 | 2026-05-06 | wehrtyou | [Software Engineer - AI Tools](https://www.hudsonrivertrading.com/careers/job/?gh_jid=7583957) | Chicago, Illinois, United States; New York, NY, United States | greenhouse |
 | 2026-05-06 | anthropic | [Research Engineer, Knowledge Team](https://job-boards.greenhouse.io/anthropic/jobs/4017331008) | Remote-Friendly (Travel-Required) \| San Francisco, CA \| Seattle, WA \| New York City, NY | greenhouse |
-| 2026-05-06 | hopskipdrive | [Data Analyst - Revenue Ops](https://job-boards.greenhouse.io/hopskipdrive/jobs/5848097004) | Remote USA | greenhouse |
-| 2026-05-06 | axios | [Analytics Engineer](https://job-boards.greenhouse.io/axios/jobs/7799102) | Remote | greenhouse |
-| 2026-05-06 | sumologic | [AI Tech Lead - Staff Machine Learning Engineer](https://job-boards.greenhouse.io/sumologic/jobs/7306781) | United States | greenhouse |
-| 2026-05-06 | Extend | [Principal Data Engineer](https://remoteOK.com/remote-jobs/remote-principal-data-engineer-extend-1131491) | Remote | remoteok |
-| 2026-05-06 | pinterest | [Sr. Data Scientist, Responsible AI](https://www.pinterestcareers.com/jobs/?gh_jid=7494923) | San Francisco, CA, US; Remote, CA, US | greenhouse |
-| 2026-05-06 | pinterest | [Sr. Data Scientist, AI/ML Systems](https://www.pinterestcareers.com/jobs/?gh_jid=7494804) | San Francisco, CA, US; Remote, CA, US | greenhouse |
-| 2026-05-06 | smarterdx | [Staff Software Engineer, Machine Learning](https://job-boards.greenhouse.io/smarterdx/jobs/4730428007) | Remote (United States) | greenhouse |
-| 2026-05-06 | m9solutions | [Data Scientist II](https://job-boards.greenhouse.io/m9solutions/jobs/5129484007) | Remote | greenhouse |
-| 2026-05-06 | m9solutions | [Data Scientist III](https://job-boards.greenhouse.io/m9solutions/jobs/5129483007) | Remote | greenhouse |
-| 2026-05-06 | exiger | [Senior Data Analyst – Blue Team (Supply Chain Risk & Mitigation)](https://www.exiger.com/careers/5890319004?gh_jid=5890319004) | Huntsville, Alabama, United States | greenhouse |
-| 2026-05-06 | hginsights | [Applied Data Scientist - Research](https://hginsights.com/hg-insights-careers/current-opportunities/?gh_jid=7629275003) | Pune, Maharashtra, India; Remote (US) | greenhouse |
-| 2026-05-06 | clarityinnovates | [Data Scientist](https://job-boards.greenhouse.io/clarityinnovates/jobs/5102302007) | Tampa, FL | greenhouse |
-| 2026-05-06 | clarityinnovates | [Principal AI Engineer](https://job-boards.greenhouse.io/clarityinnovates/jobs/5120686007) | Herndon, VA or Columbia, MD | greenhouse |
-| 2026-05-06 | growtherapy | [Data Analyst, Product Analytics](https://job-boards.greenhouse.io/growtherapy/jobs/4648815005) | San Francisco, CA | greenhouse |
-
-Page 1/2 | [Next](exports/pages/jobs_page_2.md)
 <!-- JOBS:END -->
