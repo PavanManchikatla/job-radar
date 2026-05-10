@@ -1,10 +1,11 @@
 ## Jobs Feed (auto-updated)
 
 <!-- JOBS:START -->
-_Last updated: 2026-05-10 02:09 CDT_
+_Last updated: 2026-05-10 05:05 CDT_
 
 | Posted | Company | Title | Location | Source |
 |---|---|---|---|---|
+| 2026-05-10 | hginsights | [Applied Data Scientist - Research](https://hginsights.com/hg-insights-careers/current-opportunities/?gh_jid=7629275003) | Bengaluru, Karnataka, India; Pune, Maharashtra, India; Remote (US) | greenhouse |
 | 2026-05-10 | verisign | [Sr Research Engineer](https://job-boards.greenhouse.io/verisign/jobs/7636398003) | Reston,Virginia,United States | greenhouse |
 | 2026-05-10 | whop | [ML Engineer, Whop Ads](https://careers.whop.com?gh_jid=5132353007) | Palo Alto, CA | greenhouse |
 | 2026-05-10 | coupanginternal | [Staff Machine Learning Engineer](https://boards.greenhouse.io/coupanginternal/jobs/7871810?gh_jid=7871810) | Mountain View, USA | greenhouse |
@@ -311,7 +312,4 @@ _Last updated: 2026-05-10 02:09 CDT_
 | 2026-05-07 | beyondtrust | [Sr Data Engineer](https://job-boards.greenhouse.io/beyondtrust/jobs/6602214) | Remote United States \| Remote Canada | greenhouse |
 | 2026-05-07 | spotify | [Associate Analytics Engineer](https://jobs.lever.co/spotify/d95e1989-9a1a-4853-95b1-ecdebf5f81ff) | New York, NY | lever |
 | 2026-05-07 | turing | [Senior Gen AI Engineer](https://job-boards.greenhouse.io/turing/jobs/5985157004) | United States | greenhouse |
-| 2026-05-07 | lucidmotors | [Data Scientist, Sales Planning and Forecasting](https://job-boards.greenhouse.io/lucidmotors/jobs/5104100007) | Southfield, MI | greenhouse |
-| 2026-05-07 | Valon Mortgage | [Senior Data Engineer](https://remoteOK.com/remote-jobs/remote-senior-data-engineer-valon-mortgage-1131504) | Remote | remoteok |
-| 2026-05-07 | klaviyo | [Software Engineer II - Analytics Data Engineering](https://www.klaviyo.com/careers/jobs?gh_jid=7669291003) | Boston, MA | greenhouse |
 <!-- JOBS:END -->
