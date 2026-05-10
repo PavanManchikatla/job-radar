@@ -1,11 +1,14 @@
 ## Jobs Feed (auto-updated)
 
 <!-- JOBS:START -->
-_Last updated: 2026-05-10 12:24 CDT_
+_Last updated: 2026-05-10 16:14 CDT_
 
 | Posted | Company | Title | Location | Source |
 |---|---|---|---|---|
 | 2026-05-10 | verisign | [Sr Research Engineer](https://job-boards.greenhouse.io/verisign/jobs/7636398003) | Reston,Virginia,United States | greenhouse |
+| 2026-05-10 | physicsx | [Machine Learning Engineer](https://job-boards.eu.greenhouse.io/physicsx/jobs/4849382101) | New York, United States | greenhouse |
+| 2026-05-10 | physicsx | [Senior Computer Vision Data Scientist](https://job-boards.eu.greenhouse.io/physicsx/jobs/4852973101) | New York, United States | greenhouse |
+| 2026-05-10 | physicsx | [Senior Machine Learning Engineer](https://job-boards.eu.greenhouse.io/physicsx/jobs/4678291101) | New York, United States | greenhouse |
 | 2026-05-10 | babylist | [Senior Engineering Manager, Machine Learning](https://job-boards.greenhouse.io/babylist/jobs/5815353004) | United States and Canada | greenhouse |
 | 2026-05-10 | shopltk | [Data Analyst](https://job-boards.greenhouse.io/shopltk/jobs/7671051003) | United States | greenhouse |
 | 2026-05-10 | whop | [ML Engineer, Whop Ads](https://careers.whop.com?gh_jid=5132353007) | Palo Alto, CA | greenhouse |
@@ -178,28 +181,4 @@ _Last updated: 2026-05-10 12:24 CDT_
 | 2026-05-07 | greenhouse | [Principal Marketing Analytics Manager](https://job-boards.greenhouse.io/greenhouse/jobs/7891846?gh_jid=7891846) | Anywhere in the United States | greenhouse |
 | 2026-05-07 | komodohealth | [Staff Data Engineer](https://job-boards.greenhouse.io/komodohealth/jobs/8508919002) | United States | greenhouse |
 | 2026-05-07 | employerdirecthealthcare | [Senior Data Engineer](https://job-boards.greenhouse.io/employerdirecthealthcare/jobs/5130881007) | Dallas, TX - Hybrid (3x in office/week) | greenhouse |
-| 2026-05-07 | offerup | [AI/ML Engineer](https://job-boards.greenhouse.io/offerup/jobs/7739995) | Bellevue, WA | greenhouse |
-| 2026-05-07 | convoso | [[Remote] Principal Software Engineer - AI](https://www.convoso.com/careers/?gh_jid=8540118002#job-listings) | Woodland Hills, CA | greenhouse |
-| 2026-05-07 | inspire11 | [ML Engineering Consultant](https://job-boards.greenhouse.io/inspire11/jobs/7267809002) | Chicago, IL | greenhouse |
-| 2026-05-07 | icapitalnetwork | [Artificial Intelligence Forward Deployment Engineer - Associate](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8457208002) | New York, New York, United States | greenhouse |
-| 2026-05-07 | icapitalnetwork | [Data Engineer - Assistant Vice President](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8485858002) | Salt Lake City, Utah, United States | greenhouse |
-| 2026-05-07 | nextdoor | [Senior Machine Learning Engineer - Notifications/Feed](https://about.nextdoor.com/careers-list/?gh_jid=5584158) | US Remote | greenhouse |
-| 2026-05-07 | affirm | [Analytics Manager, Credit Risk](https://job-boards.greenhouse.io/affirm/jobs/7704631003) | Remote US | greenhouse |
-| 2026-05-07 | smithrx | [Marketing Data Analyst, Member Communications](https://job-boards.greenhouse.io/smithrx/jobs/8539228002) | Remote | greenhouse |
-| 2026-05-07 | kodiak | [Applied AI Engineer - Flywheel Automation & Continuous Learning](https://job-boards.greenhouse.io/kodiak/jobs/4005932009) | Mountain View, CA | greenhouse |
-| 2026-05-07 | cision | [Lead Business Intelligence Analyst](https://job-boards.eu.greenhouse.io/cision/jobs/4839248101) | Remote - India | greenhouse |
-| 2026-05-07 | riotgames | [Sourcing & Analytics Manager](https://www.riotgames.com/en/work-with-us/job/7838544?gh_jid=7838544) | Los Angeles, USA | greenhouse |
-| 2026-05-07 | riotgames | [Principal Data Engineer, Personalization - Publishing Platform](https://www.riotgames.com/en/work-with-us/job/7412551?gh_jid=7412551) | Los Angeles, USA | greenhouse |
-| 2026-05-07 | deepmind | [Research Engineer, Multimodal Reasoning For Information Literacy](https://job-boards.greenhouse.io/deepmind/jobs/7171371) | Mountain View, California, US | greenhouse |
-| 2026-05-07 | canvasww | [Junior Data Analyst](https://jobs.lever.co/canvasww/c5b12129-db3f-44fb-8789-75ee7b0936c6) | El Segundo, CA | lever |
-| 2026-05-07 | roblox | [Senior Data Scientist - Growth Measurement](https://careers.roblox.com/jobs/7477577?gh_jid=7477577) | San Mateo, CA, United States | greenhouse |
-| 2026-05-07 | nextinsurance66 | [AI Engineer](https://job-boards.greenhouse.io/nextinsurance66/jobs/7550955003) | Boston, MA | greenhouse |
-| 2026-05-07 | abinbev | [AI Engineer - Bees Personalization](https://job-boards.greenhouse.io/abinbev/jobs/8539930002) | Remote | greenhouse |
-| 2026-05-07 | civitech | [Analytics Engineer](https://jobs.lever.co/civitech/ac698b6a-83b6-4d8e-b487-3b40dc39b295) | Austin, TX or Remote | lever |
-| 2026-05-07 | gradientai | [Data Engineering Manager](https://job-boards.greenhouse.io/gradientai/jobs/7695407003) | Remote | greenhouse |
-| 2026-05-07 | turing | [Staff Research Engineer - RL Gyms](https://job-boards.greenhouse.io/turing/jobs/5703799004) | San Francisco, California, United States | greenhouse |
-| 2026-05-07 | turing | [Staff Research Engineer - Code](https://job-boards.greenhouse.io/turing/jobs/5822280004) | San Francisco, California, United States | greenhouse |
-| 2026-05-07 | suki | [Staff Machine Learning Engineer](https://www.suki.ai/open-positions?gh_jid=6555187003) | Redwood City, CA | greenhouse |
-| 2026-05-07 | generalmatter | [Applied AI Engineer](https://job-boards.greenhouse.io/generalmatter/jobs/5190258008) | Los Angeles, CA | greenhouse |
-| 2026-05-07 | hippo70 | [Actuarial Data Scientist](https://boards.greenhouse.io/hippo70/jobs/8386055002?gh_jid=8386055002) | Dallas, TX / Austin, TX / Morristown, NJ / San Francisco Bay Area, CA | greenhouse |
 <!-- JOBS:END -->
