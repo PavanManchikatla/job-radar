@@ -1,11 +1,13 @@
 # Jobs Feed (Page 1/1)
 
-_Last updated: 2026-05-10 05:05 CDT_
+_Last updated: 2026-05-10 08:53 CDT_
 
 | Posted | Company | Title | Location | Source |
 |---|---|---|---|---|
-| 2026-05-10 | hginsights | [Applied Data Scientist - Research](https://hginsights.com/hg-insights-careers/current-opportunities/?gh_jid=7629275003) | Bengaluru, Karnataka, India; Pune, Maharashtra, India; Remote (US) | greenhouse |
 | 2026-05-10 | verisign | [Sr Research Engineer](https://job-boards.greenhouse.io/verisign/jobs/7636398003) | Reston,Virginia,United States | greenhouse |
+| 2026-05-10 | babylist | [Senior Engineering Manager, Machine Learning](https://job-boards.greenhouse.io/babylist/jobs/5815353004) | United States and Canada | greenhouse |
+| 2026-05-10 | shopltk | [Data Analyst](https://job-boards.greenhouse.io/shopltk/jobs/7671051003) | United States | greenhouse |
+| 2026-05-10 | hginsights | [Applied Data Scientist - Research](https://hginsights.com/hg-insights-careers/current-opportunities/?gh_jid=7629275003) | Bengaluru, Karnataka, India; Pune, Maharashtra, India; Remote (US) | greenhouse |
 | 2026-05-10 | whop | [ML Engineer, Whop Ads](https://careers.whop.com?gh_jid=5132353007) | Palo Alto, CA | greenhouse |
 | 2026-05-10 | coupanginternal | [Staff Machine Learning Engineer](https://boards.greenhouse.io/coupanginternal/jobs/7871810?gh_jid=7871810) | Mountain View, USA | greenhouse |
 | 2026-05-10 | coupanginternal | [Staff Machine Learning Engineer](https://boards.greenhouse.io/coupanginternal/jobs/7868368?gh_jid=7868368) | Mountain View, USA | greenhouse |
@@ -14,8 +16,6 @@ _Last updated: 2026-05-10 05:05 CDT_
 | 2026-05-09 | powerdigitalmarketing | [AI Data Engineer](https://job-boards.greenhouse.io/powerdigitalmarketing/jobs/5108950007) | Remote - Mexico | greenhouse |
 | 2026-05-09 | americaninstitutesforresearch | [Quantitative Researcher, Human and Community Development](https://job-boards.greenhouse.io/americaninstitutesforresearch/jobs/5212127008) | US-Remote | greenhouse |
 | 2026-05-09 | clear | [Senior Analytics Engineer, Business Intelligence](https://job-boards.greenhouse.io/clear/jobs/7875067) | New York, New York, United States | greenhouse |
-| 2026-05-09 | babylist | [Senior Engineering Manager, Machine Learning](https://job-boards.greenhouse.io/babylist/jobs/5815353004) | United States and Canada | greenhouse |
-| 2026-05-09 | shopltk | [Data Analyst](https://job-boards.greenhouse.io/shopltk/jobs/7671051003) | United States | greenhouse |
 | 2026-05-09 | shipbobinc | [Applied AI Engineer, Agentic Systems](https://job-boards.greenhouse.io/shipbobinc/jobs/4638574005) | Remote - United States | greenhouse |
 | 2026-05-08 | chaosindustries | [Data Scientist: Mission Engineering](https://job-boards.greenhouse.io/chaosindustries/jobs/5133527007) | Hawthorne, California, United States | greenhouse |
 | 2026-05-08 | waymo | [Brand Media Strategy & Analytics Manager](https://careers.withwaymo.com/jobs?gh_jid=7839116) | Mountain View, CA, USA; San Francisco, CA, USA | greenhouse |
@@ -305,11 +305,5 @@ _Last updated: 2026-05-10 05:05 CDT_
 | 2026-05-07 | spotify | [Senior Machine Learning Engineer, Personalization, Magenta](https://jobs.lever.co/spotify/3cf07bc7-2b9f-4531-af88-a09cfdf7b3ab) | New York, NY | lever |
 | 2026-05-07 | aqr | [Client Analytics - BI Developer](https://careers.aqr.com/jobs?gh_jid=7728026&gh_jid=7728026) | Greenwich, CT | greenhouse |
 | 2026-05-07 | aqr | [Portfolio Analytics Engineer - Vice President](https://careers.aqr.com/jobs?gh_jid=7727614&gh_jid=7727614) | Greenwich, CT | greenhouse |
-| 2026-05-07 | consensys | [Senior Data Engineer](https://consensys.io/open-roles/7335693?gh_jid=7335693) | UNITED STATES - Remote, CANADA - Remote, LATAM - Remote, EMEA - Remote | greenhouse |
-| 2026-05-07 | clarityinnovates | [Data Scientist](https://job-boards.greenhouse.io/clarityinnovates/jobs/5093065007) | Herndon, VA; Ft. Meade, MD | greenhouse |
-| 2026-05-07 | eqvilentjobs | [Quantitative Analyst](https://job-boards.eu.greenhouse.io/eqvilentjobs/jobs/4595654101) | Remote | greenhouse |
-| 2026-05-07 | beyondtrust | [Sr Data Engineer](https://job-boards.greenhouse.io/beyondtrust/jobs/6602214) | Remote United States \| Remote Canada | greenhouse |
-| 2026-05-07 | spotify | [Associate Analytics Engineer](https://jobs.lever.co/spotify/d95e1989-9a1a-4853-95b1-ecdebf5f81ff) | New York, NY | lever |
-| 2026-05-07 | turing | [Senior Gen AI Engineer](https://job-boards.greenhouse.io/turing/jobs/5985157004) | United States | greenhouse |
 
 [Back to README](../../README.md)
