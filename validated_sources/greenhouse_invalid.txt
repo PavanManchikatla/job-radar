@@ -6746,7 +6746,6 @@ designedconveyorsystems	no_matching_jobs
 sourcescrub	no_jobs
 mill	no_matching_jobs
 vialogic	no_matching_jobs
-shakepay	no_matching_jobs
 fairsteadescllc	no_matching_jobs
 horizons	http_404
 dunnhumby	no_matching_jobs

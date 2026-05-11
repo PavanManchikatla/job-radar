@@ -9582,7 +9582,6 @@ distro	no_matching_jobs
 finix	no_matching_jobs
 dlocal	no_matching_jobs
 fliff	http_404
-finquery	no_matching_jobs
 findigs	no_matching_jobs
 florence	no_matching_jobs
 fieldnation	no_matching_jobs
@@ -9737,7 +9736,6 @@ kraken123	no_matching_jobs
 kippsocal	no_matching_jobs
 machinalabs	http_404
 jointopo	no_matching_jobs
-magnopus	no_matching_jobs
 lingarogroup	no_matching_jobs
 mahmee	no_matching_jobs
 mammothbiosci	no_matching_jobs
@@ -15597,7 +15595,6 @@ backflip	http_404
 baller	http_404
 avratalent	http_404
 bambee	http_404
-avante	no_matching_jobs
 bamtradingservices	http_404
 barefootproximity	http_404
 barkleyus	http_404
@@ -15744,7 +15741,6 @@ brightseedbio	no_matching_jobs
 broadwaytechnology	http_404
 brinc	http_404
 ahschc	no_matching_jobs
-braviantholdings	no_matching_jobs
 buildatmos	http_404
 boats	http_404
 brand-knew	no_matching_jobs
@@ -17717,7 +17713,6 @@ sait	no_matching_jobs
 servicerocket	no_matching_jobs
 sharethrough	http_404
 sheertex	http_404
-seerinteractive	no_matching_jobs
 sheerid	http_404
 scholarsoffinance	no_jobs
 shapertools	http_404
