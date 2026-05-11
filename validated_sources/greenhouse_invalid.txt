@@ -6886,7 +6886,6 @@ samcarthiring	http_404
 zestyai	no_matching_jobs
 arkestroinc	no_matching_jobs
 quadbridge	no_matching_jobs
-springhealth66	no_matching_jobs
 pinwheelapi	no_matching_jobs
 kernelize	no_matching_jobs
 takealotgroup	no_matching_jobs
@@ -7153,7 +7152,6 @@ billiontoone	no_matching_jobs
 theorchard	no_matching_jobs
 travelperk	http_404
 bertramcapitalmanagement	no_matching_jobs
-distantjob	no_matching_jobs
 braingu	no_jobs
 searchdiscovery	http_404
 radiant	http_404
@@ -8348,7 +8346,6 @@ eyeo	no_matching_jobs
 maev	no_jobs
 impact	no_matching_jobs
 go1us	no_matching_jobs
-everdriven	no_matching_jobs
 taxibeat	http_404
 neoris	no_matching_jobs
 trustpilot	no_matching_jobs
@@ -8528,7 +8525,6 @@ pt	no_matching_jobs
 historynet	no_jobs
 sweetgreen	no_matching_jobs
 triplepointllp	no_matching_jobs
-velir	no_matching_jobs
 annexonbioscience	no_matching_jobs
 aminohealth	http_404
 runwise	no_matching_jobs
