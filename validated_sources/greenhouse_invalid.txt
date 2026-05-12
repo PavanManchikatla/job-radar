@@ -3225,7 +3225,6 @@ supahub	http_404
 ducalis	http_404
 beamer	http_404
 announcekit	http_404
-headway	no_matching_jobs
 releasepad	http_404
 changefeed	http_404
 launchnotes	http_404
@@ -5590,7 +5589,6 @@ materialize	no_matching_jobs
 chromamedicine	no_matching_jobs
 alpineinvestors	no_matching_jobs
 iob	http_404
-greenthumbindustries	no_matching_jobs
 aerospike	no_matching_jobs
 pomelocare	no_matching_jobs
 changedotorgsourcing	http_404
@@ -6393,7 +6391,6 @@ sparetech	no_matching_jobs
 crisistextline86	http_404
 elitetechnology	no_matching_jobs
 viderityinc	http_404
-notexternal	no_matching_jobs
 skylotechnologies	http_404
 boingo	no_matching_jobs
 kicksaw	no_matching_jobs
@@ -6592,7 +6589,6 @@ utilityapi	http_404
 refeyn	no_matching_jobs
 firstkeyhomes	http_404
 stripes	no_matching_jobs
-wikimedia	no_matching_jobs
 productschool	no_matching_jobs
 noahmedical	no_matching_jobs
 etec	no_matching_jobs
@@ -6817,7 +6813,6 @@ fletcherjonesmotorcars	no_matching_jobs
 codeorg	no_matching_jobs
 skyryse	no_matching_jobs
 healthnote	http_404
-inflectionai	no_matching_jobs
 springfertility	no_matching_jobs
 wight	no_matching_jobs
 salientmotion	no_matching_jobs
@@ -7057,7 +7052,6 @@ mindmedicine	http_404
 csciconsulting	no_matching_jobs
 sandtechholdingslimited	no_matching_jobs
 day1academies	no_matching_jobs
-cloverhealth	no_matching_jobs
 privategdcareers	no_matching_jobs
 psibufet	no_matching_jobs
 nationbuilder	http_404
@@ -7861,7 +7855,6 @@ cerulacare	no_matching_jobs
 thinkingmachines	no_matching_jobs
 swishanalytics	http_404
 filescom	no_matching_jobs
-gomotive	no_matching_jobs
 noyocareers	no_matching_jobs
 kasaliving	http_404
 campusopportunities	no_matching_jobs
