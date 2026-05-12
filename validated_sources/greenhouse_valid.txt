@@ -649,3 +649,5 @@ everdriven
 velir
 shakepay
 2k
+gassouth
+prophecysimpledatalabs

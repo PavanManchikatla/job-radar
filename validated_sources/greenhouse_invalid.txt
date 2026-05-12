@@ -6929,7 +6929,6 @@ ripcpc	no_matching_jobs
 engageseniortherapy	no_matching_jobs
 cloudbedsthirdpartyboard	no_matching_jobs
 franklincovey	http_404
-gassouth	no_matching_jobs
 ians	no_matching_jobs
 clearviewhealthcarepartners	no_matching_jobs
 teccweb	no_matching_jobs
@@ -8259,7 +8258,6 @@ urbansky	no_matching_jobs
 parsecautomationcorp	no_matching_jobs
 shearerssnacks	http_404
 postscript	no_matching_jobs
-prophecysimpledatalabs	no_matching_jobs
 recruitingprograms	no_matching_jobs
 huntress	no_matching_jobs
 abdielcapital	no_jobs
