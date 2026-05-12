@@ -1,11 +1,35 @@
 ## Jobs Feed (auto-updated)
 
 <!-- JOBS:START -->
-_Last updated: 2026-05-12 06:01 CDT_
+_Last updated: 2026-05-12 09:52 CDT_
 
 | Posted | Company | Title | Location | Source |
 |---|---|---|---|---|
+| 2026-05-12 | bluefishai | [Senior Data Engineer](https://job-boards.greenhouse.io/bluefishai/jobs/5217308008) | Berlin, Remote in Germany | greenhouse |
+| 2026-05-12 | redventures | [Senior AI Engineer \| Sage Home Loans](https://www.redventures.com/careers/positions/open?gh_jid=7916907) | Charlotte, NC | greenhouse |
+| 2026-05-12 | capitalrx | [Underwriting Data Engineer](https://job-boards.greenhouse.io/capitalrx/jobs/5212026008) | Remote | greenhouse |
+| 2026-05-12 | axuall | [Sr. Business Intelligence & Analytics Manager](https://job-boards.greenhouse.io/axuall/jobs/4689177005) | Remote - US | greenhouse |
+| 2026-05-12 | crunchyroll | [Staff Data Analyst](https://boards.greenhouse.io/crunchyroll/jobs/7530973?gh_jid=7530973) | Los Angeles, California, United States | greenhouse |
+| 2026-05-12 | 2k | [AI Engineer](https://job-boards.greenhouse.io/2k/jobs/7685393003) | Novato, California, United States | greenhouse |
+| 2026-05-12 | cloudchamberen | [AI Engineer](https://job-boards.greenhouse.io/cloudchamberen/jobs/7685391003) | Novato, California, United States | greenhouse |
+| 2026-05-12 | grafanalabs | [Staff AI Engineer - Grafana Ops, AI/ML \| Canada \| Remote](https://job-boards.greenhouse.io/grafanalabs/jobs/5689219004) | Canada (Remote) | greenhouse |
+| 2026-05-12 | grafanalabs | [Staff AI Engineer - Grafana Ops, AI/ML \| USA \| Remote](https://job-boards.greenhouse.io/grafanalabs/jobs/5689218004) | United States (Remote) | greenhouse |
+| 2026-05-12 | grafanalabs | [Senior AI Engineer - Grafana Ops, AI/ML \| Canada \| Remote](https://job-boards.greenhouse.io/grafanalabs/jobs/5802160004) | Canada (Remote) | greenhouse |
+| 2026-05-12 | grafanalabs | [Senior AI Engineer - Grafana Ops, AI/ML \| USA \| Remote](https://job-boards.greenhouse.io/grafanalabs/jobs/5802159004) | United States (Remote) | greenhouse |
+| 2026-05-12 | grafanalabs | [Staff AI Engineer \| Canada \| Remote](https://job-boards.greenhouse.io/grafanalabs/jobs/5839190004) | Canada (Remote) | greenhouse |
+| 2026-05-12 | grafanalabs | [Staff AI Engineer \| US \| Remote](https://job-boards.greenhouse.io/grafanalabs/jobs/5839189004) | United States (Remote) | greenhouse |
+| 2026-05-12 | shakepay | [Staff Data Scientist - Risk](https://job-boards.greenhouse.io/shakepay/jobs/4653078005) | Remote, Canada | greenhouse |
+| 2026-05-12 | shakepay | [Senior Data Scientist - Risk](https://job-boards.greenhouse.io/shakepay/jobs/4694333005) | Remote, Canada | greenhouse |
 | 2026-05-12 | verisign | [Sr Research Engineer](https://job-boards.greenhouse.io/verisign/jobs/7636398003) | Reston,Virginia,United States | greenhouse |
+| 2026-05-12 | inflowfed | [Data Engineer](https://jobs.lever.co/inflowfed/26f59030-a73b-4d69-adfd-704e286df519) | Arlington, VA | lever |
+| 2026-05-12 | blip-global | [Senior Staff Data Engineer](https://job-boards.greenhouse.io/blip-global/jobs/4033025009) | Remote - Brazil | greenhouse |
+| 2026-05-12 | babylist | [Senior Engineering Manager, Machine Learning](https://job-boards.greenhouse.io/babylist/jobs/5815353004) | United States and Canada | greenhouse |
+| 2026-05-12 | geotab | [Insights and Integrations Consultancy Data Scientist](https://job-boards.greenhouse.io/geotab/jobs/5174470008) | Atlanta, Georgia - USA; Las Vegas, Nevada - USA | greenhouse |
+| 2026-05-12 | velir | [Senior AI/ML Engineer](https://job-boards.greenhouse.io/velir/jobs/5217084008) | Remote | greenhouse |
+| 2026-05-12 | shopltk | [Data Analyst](https://job-boards.greenhouse.io/shopltk/jobs/7671051003) | United States | greenhouse |
+| 2026-05-12 | cloudchamberen | [Senior AI Engineer](https://job-boards.greenhouse.io/cloudchamberen/jobs/7592443003) | Novato, California, United States | greenhouse |
+| 2026-05-12 | 2k | [Senior AI Engineer](https://job-boards.greenhouse.io/2k/jobs/7592447003) | Novato, California, United States | greenhouse |
+| 2026-05-12 | openx | [Staff Data Scientist](https://jobs.lever.co/openx/d7d9cf6e-d229-41ee-8157-80cde557f829) | New York, NY | lever |
 | 2026-05-12 | banyansoftware | [AI Engineer (Healthcare SaaS)- Medicat](https://job-boards.greenhouse.io/banyansoftware/jobs/5099809007) | United States | greenhouse |
 | 2026-05-12 | ibkr | [Data Engineer (Gen AI)](https://job-boards.greenhouse.io/ibkr/jobs/8365234002) | New York, NY | greenhouse |
 | 2026-05-12 | ibkr | [Senior Data Engineer](https://job-boards.greenhouse.io/ibkr/jobs/8112195002) | Greenwich, CT | greenhouse |
@@ -161,8 +185,6 @@ _Last updated: 2026-05-12 06:01 CDT_
 | 2026-05-11 | striveworks | [Machine Learning Engineer (Active Secret Clearance)](https://job-boards.greenhouse.io/striveworks/jobs/7713741003) | Austin, Texas, United States | greenhouse |
 | 2026-05-11 | striveworks | [Data Scientist (Active Secret Clearance)](https://job-boards.greenhouse.io/striveworks/jobs/7711179003) | Schofield Barracks, Hawaii, United States | greenhouse |
 | 2026-05-11 | striveworks | [Data Scientist (Active Secret Clearance)](https://job-boards.greenhouse.io/striveworks/jobs/7712528003) | Austin, Texas, United States | greenhouse |
-| 2026-05-11 | shakepay | [Staff Data Scientist - Risk](https://job-boards.greenhouse.io/shakepay/jobs/4653078005) | Remote, Canada | greenhouse |
-| 2026-05-11 | shakepay | [Senior Data Scientist - Risk](https://job-boards.greenhouse.io/shakepay/jobs/4694333005) | Remote, Canada | greenhouse |
 | 2026-05-11 | das42 | [Team Lead (Data Engineering)](https://job-boards.greenhouse.io/das42/jobs/5977173004) | Remote - US | greenhouse |
 | 2026-05-11 | das42 | [Data Engineer Consultant](https://job-boards.greenhouse.io/das42/jobs/5991808004) | Remote - US | greenhouse |
 | 2026-05-11 | nextdoor | [Senior Machine Learning Engineer - Notifications/Feed](https://about.nextdoor.com/careers-list/?gh_jid=5584158) | US Remote | greenhouse |
@@ -263,8 +285,6 @@ _Last updated: 2026-05-12 06:01 CDT_
 | 2026-05-11 | redventures | [Senior Business Intelligence Analyst \| The Points Guy](https://www.redventures.com/careers/positions/open?gh_jid=7825512) | New York City, NY | greenhouse |
 | 2026-05-11 | innovecs | [Senior Machine Learning Engineer](https://jobs.innovecs.com/vacancies?gh_jid=8444634002) | Ukraine, Poland, Romania, Spain, Remote | greenhouse |
 | 2026-05-11 | clarityai | [Staff AI Engineer](https://job-boards.eu.greenhouse.io/clarityai/jobs/4802689101) | Remote | greenhouse |
-| 2026-05-11 | babylist | [Senior Engineering Manager, Machine Learning](https://job-boards.greenhouse.io/babylist/jobs/5815353004) | United States and Canada | greenhouse |
-| 2026-05-11 | shopltk | [Data Analyst](https://job-boards.greenhouse.io/shopltk/jobs/7671051003) | United States | greenhouse |
 | 2026-05-11 | lucidmotors | [Engineering Manager, Data Engineering & Infrastructure](https://job-boards.greenhouse.io/lucidmotors/jobs/5106263007) | Newark, CA | greenhouse |
 | 2026-05-11 | waymark | [Senior/Principal Data Engineer](https://job-boards.greenhouse.io/waymark/jobs/4030307005) | US - Remote | greenhouse |
 | 2026-05-11 | alpaca | [Senior Data Engineer](https://job-boards.greenhouse.io/alpaca/jobs/5612141004) | Remote - North America - LATAM | greenhouse |
