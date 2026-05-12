@@ -1,10 +1,12 @@
 ## Jobs Feed (auto-updated)
 
 <!-- JOBS:START -->
-_Last updated: 2026-05-11 22:19 CDT_
+_Last updated: 2026-05-12 02:06 CDT_
 
 | Posted | Company | Title | Location | Source |
 |---|---|---|---|---|
+| 2026-05-12 | tenstorrent | [C++ Machine Learning Engineer, AI Models Training](https://job-boards.greenhouse.io/tenstorrent/jobs/4607141007) | Santa Clara, California, United States | greenhouse |
+| 2026-05-12 | verisign | [Sr Research Engineer](https://job-boards.greenhouse.io/verisign/jobs/7636398003) | Reston,Virginia,United States | greenhouse |
 | 2026-05-12 | waymo | [Applied Research Scientist, 3D Object Detection  (PhD New Grad)](https://careers.withwaymo.com/jobs?gh_jid=7467839) | Mountain View, CA USA;  San Francisco, CA USA; | greenhouse |
 | 2026-05-12 | waymo | [Applied Research Scientist, Perception LLM/VLM (PhD, New Grad)](https://careers.withwaymo.com/jobs?gh_jid=7488508) | Mountain View, CA USA;  San Francisco, CA USA; | greenhouse |
 | 2026-05-12 | waymo | [Brand Media Strategy & Analytics Manager](https://careers.withwaymo.com/jobs?gh_jid=7839116) | Mountain View, CA, USA; San Francisco, CA, USA | greenhouse |
@@ -68,7 +70,6 @@ _Last updated: 2026-05-11 22:19 CDT_
 | 2026-05-12 | abinbev | [Senior Data Engineer \| Bees Personalization](https://job-boards.greenhouse.io/abinbev/jobs/8422274002) | Remote | greenhouse |
 | 2026-05-12 | abinbev | [Senior Data Scientist - BEES Fintech](https://job-boards.greenhouse.io/abinbev/jobs/8417309002) | Remote | greenhouse |
 | 2026-05-12 | goatgroup | [Senior Machine Learning Engineer](https://job-boards.greenhouse.io/goatgroup/jobs/4674853005) | Remote US | greenhouse |
-| 2026-05-12 | verisign | [Sr Research Engineer](https://job-boards.greenhouse.io/verisign/jobs/7636398003) | Reston,Virginia,United States | greenhouse |
 | 2026-05-12 | gofundme | [Staff Data Scientist (Pricing)](https://job-boards.greenhouse.io/gofundme/jobs/7494744) | San Francisco, CA | greenhouse |
 | 2026-05-12 | gofundme | [Staff Data Analyst (Accounting)](https://job-boards.greenhouse.io/gofundme/jobs/7379251) | San Francisco, CA | greenhouse |
 | 2026-05-12 | gofundme | [Staff Machine Learning Engineer (Pricing)](https://job-boards.greenhouse.io/gofundme/jobs/7915173) | San Francisco, CA | greenhouse |
@@ -270,5 +271,4 @@ _Last updated: 2026-05-11 22:19 CDT_
 | 2026-05-09 | powerdigitalmarketing | [AI Data Engineer](https://job-boards.greenhouse.io/powerdigitalmarketing/jobs/5133634007) | Remote - United States | greenhouse |
 | 2026-05-09 | powerdigitalmarketing | [AI Data Engineer](https://job-boards.greenhouse.io/powerdigitalmarketing/jobs/5108950007) | Remote - Mexico | greenhouse |
 | 2026-05-09 | clear | [Senior Analytics Engineer, Business Intelligence](https://job-boards.greenhouse.io/clear/jobs/7875067) | New York, New York, United States | greenhouse |
-| 2026-05-09 | shipbobinc | [Applied AI Engineer, Agentic Systems](https://job-boards.greenhouse.io/shipbobinc/jobs/4638574005) | Remote - United States | greenhouse |
 <!-- JOBS:END -->
