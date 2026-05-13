@@ -16969,7 +16969,6 @@ mastrics	http_404
 magnitudesoftware	http_404
 marlettefunding	http_404
 mathpresso	http_404
-mantisinnovation	no_matching_jobs
 linuxacademy	http_404
 manifestmedex	no_jobs
 lightci	no_jobs

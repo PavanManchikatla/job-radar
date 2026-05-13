@@ -5374,7 +5374,6 @@ hollywoodparksofistadium	http_404
 wellth	http_404
 worldcoinorg	http_404
 humanrightswatch	no_matching_jobs
-cotullaeducation	no_matching_jobs
 traegergrills	no_matching_jobs
 abbycare	http_404
 hypr	no_matching_jobs
@@ -5813,7 +5812,6 @@ drdansanimalhospital	no_matching_jobs
 appletreeprep	no_matching_jobs
 careersatwonder	http_404
 sevenrooms	http_404
-natera	no_matching_jobs
 foxrobotics	http_404
 parachutehome	no_matching_jobs
 summit	no_jobs
