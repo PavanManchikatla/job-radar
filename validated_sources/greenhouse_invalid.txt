@@ -2613,7 +2613,6 @@ sideline	http_404
 openphone	http_404
 grasshopper	http_404
 ringcentral	http_404
-vonage	no_matching_jobs
 phone.com	http_404
 magicjack	http_404
 voip.ms	http_404
@@ -6680,7 +6679,6 @@ hydritechemicalco	no_matching_jobs
 honestmedicalgroup	http_404
 mach49	no_jobs
 terapore	no_jobs
-figure	no_matching_jobs
 tvscientific	http_404
 alphagrepsecurities	no_matching_jobs
 starcloud	no_matching_jobs
@@ -6979,7 +6977,6 @@ mississippititleloansinc	no_matching_jobs
 outlierai	http_404
 manifoldai	no_jobs
 iex	no_matching_jobs
-unity3d	no_matching_jobs
 acceleronfusion	no_matching_jobs
 inchargeenergy	no_matching_jobs
 fountain	http_404
@@ -8072,7 +8069,6 @@ patterndata	no_matching_jobs
 advancedtechnologyservices	no_matching_jobs
 toojaysdeli	no_matching_jobs
 sparkadvisors	no_matching_jobs
-homechef	no_matching_jobs
 oxosmedical	no_matching_jobs
 olsson	no_matching_jobs
 143studiosinc	no_matching_jobs
@@ -8554,7 +8550,6 @@ tripadvisor	no_matching_jobs
 tenableinc	no_matching_jobs
 nauto	no_matching_jobs
 wgachidden	no_matching_jobs
-patientpoint	no_matching_jobs
 apono	http_404
 thatch	no_matching_jobs
 vibesllc	no_matching_jobs
