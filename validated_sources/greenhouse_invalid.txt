@@ -5072,7 +5072,6 @@ planradar	no_matching_jobs
 accreditedlabs	no_matching_jobs
 forthea	no_matching_jobs
 dynamitegames	no_matching_jobs
-fundraiseup	no_matching_jobs
 endorlabs	no_matching_jobs
 scandit	no_matching_jobs
 seam	http_404
