@@ -1,16 +1,75 @@
 # Jobs Feed (Page 1/1)
 
-_Last updated: 2026-05-12 22:25 CDT_
+_Last updated: 2026-05-13 02:17 CDT_
 
 | Posted | Company | Title | Location | Source |
 |---|---|---|---|---|
+| 2026-05-13 | precisionaq | [Senior Data Engineer](https://job-boards.greenhouse.io/precisionaq/jobs/5995115004) | Remote, India | greenhouse |
+| 2026-05-13 | precisionmedicinegroup | [Senior Data Engineer](https://job-boards.greenhouse.io/precisionmedicinegroup/jobs/5995113004) | Remote, India | greenhouse |
+| 2026-05-13 | verisign | [Sr Research Engineer](https://job-boards.greenhouse.io/verisign/jobs/7636398003) | Reston,Virginia,United States | greenhouse |
+| 2026-05-13 | waymo | [Applied Research Scientist, 3D Object Detection  (PhD New Grad)](https://careers.withwaymo.com/jobs?gh_jid=7467839) | Mountain View, CA USA;  San Francisco, CA USA; | greenhouse |
+| 2026-05-13 | waymo | [Applied Research Scientist, Perception LLM/VLM (PhD, New Grad)](https://careers.withwaymo.com/jobs?gh_jid=7488508) | Mountain View, CA USA;  San Francisco, CA USA; | greenhouse |
+| 2026-05-13 | waymo | [Applied Scientist / MLE,  Perception Modeling](https://careers.withwaymo.com/jobs?gh_jid=7446279) | Mountain View, CA, USA; San Francisco, CA, USA | greenhouse |
+| 2026-05-13 | waymo | [Brand Media Strategy & Analytics Manager](https://careers.withwaymo.com/jobs?gh_jid=7839116) | Mountain View, CA, USA; San Francisco, CA, USA | greenhouse |
+| 2026-05-13 | waymo | [Business Intelligence Analyst / Data Analyst (SQL)](https://careers.withwaymo.com/jobs?gh_jid=7788473) | Mountain View, CA; San Francisco, CA | greenhouse |
+| 2026-05-13 | waymo | [Data Scientist](https://careers.withwaymo.com/jobs?gh_jid=6608598) | Mountain View, California, USA | greenhouse |
+| 2026-05-13 | waymo | [Machine Learning Engineer, 3D Object Detection  (PhD New Grad)](https://careers.withwaymo.com/jobs?gh_jid=7539786) | Mountain View, CA USA;  San Francisco, CA USA; | greenhouse |
+| 2026-05-13 | waymo | [Machine Learning Engineer, Depot Automation](https://careers.withwaymo.com/jobs?gh_jid=7852501) | Mountain View, CA, US | greenhouse |
+| 2026-05-13 | waymo | [Machine Learning Engineer, Driver Understanding and Evaluation](https://careers.withwaymo.com/jobs?gh_jid=7455853) | Mountain View, CA, USA | greenhouse |
+| 2026-05-13 | waymo | [Machine Learning Engineer (Infra), Driver Understanding and Evaluation](https://careers.withwaymo.com/jobs?gh_jid=7819946) | Mountain View, CA, USA | greenhouse |
+| 2026-05-13 | waymo | [Machine Learning Engineer - Mapping](https://careers.withwaymo.com/jobs?gh_jid=7429791) | Mountain View, CA, USA | greenhouse |
+| 2026-05-13 | waymo | [Machine Learning Engineer, ML Resources](https://careers.withwaymo.com/jobs?gh_jid=7424806) | Mountain View, CA, USA | greenhouse |
+| 2026-05-13 | waymo | [Machine Learning Engineer, Model Optimization](https://careers.withwaymo.com/jobs?gh_jid=7446322) | Mountain View, California, United States; San Francisco, California, United States | greenhouse |
+| 2026-05-13 | waymo | [Machine Learning Engineer, Prediction & Planning](https://careers.withwaymo.com/jobs?gh_jid=6506689) | Mountain View, CA, USA; San Francisco, CA, USA; New York City, NY, USA | greenhouse |
+| 2026-05-13 | waymo | [Machine Learning Engineer, Runtime & Optimization](https://careers.withwaymo.com/jobs?gh_jid=6506008) | Mountain View, California, USA | greenhouse |
+| 2026-05-13 | waymo | [Machine Learning Engineer, Simulation Realism](https://careers.withwaymo.com/jobs?gh_jid=6499165) | Mountain View, CA, USA | greenhouse |
+| 2026-05-13 | waymo | [Machine Learning Engineer, Simulation Realism](https://careers.withwaymo.com/jobs?gh_jid=6688617) | Mountain View, CA, USA | greenhouse |
+| 2026-05-13 | waymo | [Principal Software Engineer, ML Flywheel Technical Lead](https://careers.withwaymo.com/jobs?gh_jid=7545007) | Mountain View, CA, USA; San Francisco, CA, USA | greenhouse |
+| 2026-05-13 | waymo | [Principal Software Engineer, ML System Architect](https://careers.withwaymo.com/jobs?gh_jid=7773177) | Mountain View, CA, USA | greenhouse |
+| 2026-05-13 | waymo | [Research Scientist, Prediction & Planning](https://careers.withwaymo.com/jobs?gh_jid=7309064) | Mountain View, CA USA; New York, NY USA; San Francisco, CA USA; | greenhouse |
+| 2026-05-13 | waymo | [Research Scientist, RL for Autonomous Planning & World Modeling](https://careers.withwaymo.com/jobs?gh_jid=7469425) | Mountain View, CA \| San Francisco, CA \| Kirkland, WA \| New York City, NY | greenhouse |
+| 2026-05-13 | waymo | [Senior Applied Research Scientist, Perception Semantics](https://careers.withwaymo.com/jobs?gh_jid=7469421) | Mountain View, CA USA;  San Francisco, CA USA; | greenhouse |
+| 2026-05-13 | waymo | [Senior Data Scientist](https://careers.withwaymo.com/jobs?gh_jid=6508001) | Mountain View, California, USA | greenhouse |
+| 2026-05-13 | waymo | [Senior Machine Learning Engineer, Computer Vision/VLM](https://careers.withwaymo.com/jobs?gh_jid=7249525) | Mountain View, CA, USA; San Francisco, CA, USA | greenhouse |
+| 2026-05-13 | waymo | [Senior Machine Learning Engineer, Driver Understanding and Evaluation](https://careers.withwaymo.com/jobs?gh_jid=7456078) | Mountain View, CA, USA | greenhouse |
+| 2026-05-13 | waymo | [Senior Machine Learning Engineer (Infra), Driver Understanding and Evaluation](https://careers.withwaymo.com/jobs?gh_jid=7819951) | Mountain View, CA, USA | greenhouse |
+| 2026-05-13 | waymo | [Senior Machine Learning Engineer, Multimodal Perception (LLM/VLM)](https://careers.withwaymo.com/jobs?gh_jid=7767649) | Mountain View, CA, USA | greenhouse |
+| 2026-05-13 | waymo | [Senior Machine Learning Engineer, Perception LLM/VLM](https://careers.withwaymo.com/jobs?gh_jid=7488596) | Mountain View, CA USA;  San Francisco, CA USA; | greenhouse |
+| 2026-05-13 | waymo | [Senior Machine Learning Engineer, Prediction & Planning, System Architecture](https://careers.withwaymo.com/jobs?gh_jid=7826591) | Mountain View, CA, USA; San Francisco, CA, USA; New York City, NY, USA | greenhouse |
+| 2026-05-13 | waymo | [Senior Machine Learning Engineer, Runtime and Serving](https://careers.withwaymo.com/jobs?gh_jid=7845732) | Mountain View, CA, USA | greenhouse |
+| 2026-05-13 | waymo | [Senior Machine Learning Engineer, Simulation](https://careers.withwaymo.com/jobs?gh_jid=7430187) | Mountain View, CA, USA; New York, NY, USA | greenhouse |
+| 2026-05-13 | waymo | [Senior Machine Learning Engineer – VLM/LLM Evaluation](https://careers.withwaymo.com/jobs?gh_jid=7644924) | Mountain View, CA \| San Francisco, CA \| Kirkland, WA \| New York City, NY | greenhouse |
+| 2026-05-13 | waymo | [Senior Machine Learning Engineer, Weather & Degraded Road Surfaces](https://careers.withwaymo.com/jobs?gh_jid=7460854) | Mountain View, California, United States; San Francisco, California, United States | greenhouse |
+| 2026-05-13 | waymo | [Senior ML Engineer, LLM / VLM Distillation](https://careers.withwaymo.com/jobs?gh_jid=7858937) | Mountain View, California, United States, Mountain View, California, United States | greenhouse |
+| 2026-05-13 | waymo | [Senior Product Data Scientist, Marketplace Algorithms ML](https://careers.withwaymo.com/jobs?gh_jid=7416740) | Mountain View, CA, USA; San Francisco, CA, USA | greenhouse |
+| 2026-05-13 | waymo | [Senior Research Scientist, Foundation Model for Simulation](https://careers.withwaymo.com/jobs?gh_jid=7159299) | Mountain View, CA USA; San Francisco, CA USA | greenhouse |
+| 2026-05-13 | waymo | [Senior Research Scientist, Foundation Model (LLM/VLM)](https://careers.withwaymo.com/jobs?gh_jid=7572081) | Mountain View, CA, USA; San Francisco, CA, USA | greenhouse |
+| 2026-05-13 | waymo | [Senior Research Scientist, World Action Modeling](https://careers.withwaymo.com/jobs?gh_jid=7766821) | Mountain View, CA \| San Francisco, CA \| Kirkland, WA \| New York City, NY | greenhouse |
+| 2026-05-13 | waymo | [Senior Staff Data Scientist, Perception](https://careers.withwaymo.com/jobs?gh_jid=7872727) | Mountain View, CA USA | greenhouse |
+| 2026-05-13 | waymo | [Senior Staff Machine Learning Engineer, Depot Automation](https://careers.withwaymo.com/jobs?gh_jid=7774356) | Mountain View, CA, US | greenhouse |
+| 2026-05-13 | waymo | [Senior Staff Machine Learning Engineer, Perception](https://careers.withwaymo.com/jobs?gh_jid=6809263) | Mountain View, California, United States | greenhouse |
+| 2026-05-13 | waymo | [Senior Staff Machine Learning Engineer, Simulation](https://careers.withwaymo.com/jobs?gh_jid=7430495) | Mountain View,CA, USA; San Francisco, CA, USA; New York, NY, USA | greenhouse |
+| 2026-05-13 | waymo | [Senior/Staff ML Engineer, 3D/4D World Modeling, Simulation](https://careers.withwaymo.com/jobs?gh_jid=6669555) | Mountain View, CA, USA | greenhouse |
+| 2026-05-13 | waymo | [Senior Staff ML Engineer, Driver Understanding and Evaluation](https://careers.withwaymo.com/jobs?gh_jid=7421737) | Mountain View,  CA, United States | greenhouse |
+| 2026-05-13 | waymo | [Sr. Staff Data Scientist, TLM, Driving Quality](https://careers.withwaymo.com/jobs?gh_jid=7239320) | Mountain View, California, USA | greenhouse |
+| 2026-05-13 | waymo | [Staff Data Scientist, Launch Evaluation Quality](https://careers.withwaymo.com/jobs?gh_jid=7458013) | Mountain View, California, USA; San Francisco, California, USA; New York City, New York, USA | greenhouse |
+| 2026-05-13 | waymo | [Staff Machine Learning Engineer, Data Flywheel](https://careers.withwaymo.com/jobs?gh_jid=7593522) | Mountain View, CA USA;  San Francisco, CA USA; | greenhouse |
+| 2026-05-13 | waymo | [Staff Machine Learning Engineer, Driver Understanding and Evaluation](https://careers.withwaymo.com/jobs?gh_jid=7442152) | Mountain View, CA, USA | greenhouse |
+| 2026-05-13 | waymo | [Staff Machine Learning Engineer (Infra), Driver Understanding and Evaluation](https://careers.withwaymo.com/jobs?gh_jid=7438635) | Mountain View, CA, USA | greenhouse |
+| 2026-05-13 | waymo | [Staff Machine Learning Engineer, Prediction & Planning, System Architecture](https://careers.withwaymo.com/jobs?gh_jid=7822067) | Mountain View, CA, USA; San Francisco, CA, USA; New York City, NY, USA | greenhouse |
+| 2026-05-13 | waymo | [Staff Machine Learning Engineer, Simulation](https://careers.withwaymo.com/jobs?gh_jid=7483051) | New York, NY, USA; Mountain View, CA, USA; San Francisco, CA, USA | greenhouse |
+| 2026-05-13 | waymo | [Staff Machine Learning Engineer, Vehicle Compliance Reasoning](https://careers.withwaymo.com/jobs?gh_jid=7843511) | Mountain View, CA, USA; San Francisco, CA, USA | greenhouse |
+| 2026-05-13 | waymo | [Staff Machine Learning Engineer – VLM/LLM Evaluation](https://careers.withwaymo.com/jobs?gh_jid=7595124) | Mountain View, CA \| San Francisco, CA \| Kirkland, WA \| New York City, NY | greenhouse |
+| 2026-05-13 | waymo | [Staff Product Data Scientist, Operation Center](https://careers.withwaymo.com/jobs?gh_jid=7597108) | Mountain View, CA, US; San Francisco, CA, US | greenhouse |
+| 2026-05-13 | waymo | [Staff Software Engineer, Machine Learning, Planner Selection](https://careers.withwaymo.com/jobs?gh_jid=7170802) | Mountain View, California, USA | greenhouse |
+| 2026-05-13 | waymo | [Staff Software Engineer, Machine Learning, Route and Pin Quality](https://careers.withwaymo.com/jobs?gh_jid=7224992) | Mountain View, California, USA | greenhouse |
+| 2026-05-13 | waymark | [Senior/Principal Data Engineer](https://job-boards.greenhouse.io/waymark/jobs/4030307005) | US - Remote | greenhouse |
 | 2026-05-13 | avathon | [Senior AI Engineer](https://avathon.com/company/careers-job-listing/?gh_jid=4655248005) | Pleasanton, California, United States | greenhouse |
 | 2026-05-13 | avathon | [AI Engineer](https://avathon.com/company/careers-job-listing/?gh_jid=4667051005) | Pleasanton, California, United States | greenhouse |
 | 2026-05-13 | newsela | [Data Engineer](https://job-boards.greenhouse.io/newsela/jobs/7616064) | Remote - US | greenhouse |
 | 2026-05-13 | samsara | [Machine Learning for Supply Chain](https://www.samsara.com/company/careers/roles/7266407?gh_jid=7266407) | Remote - US | greenhouse |
 | 2026-05-13 | ispottv | [Research Data Scientist 1](https://job-boards.greenhouse.io/ispottv/jobs/4692645005) | Bellevue, WA | greenhouse |
 | 2026-05-13 | ispottv | [Research Data Scientist 1](https://job-boards.greenhouse.io/ispottv/jobs/4692638005) | Remote | greenhouse |
-| 2026-05-13 | verisign | [Sr Research Engineer](https://job-boards.greenhouse.io/verisign/jobs/7636398003) | Reston,Virginia,United States | greenhouse |
 | 2026-05-12 | altentechnologyusa | [Energy Data Engineer/Analyst](https://job-boards.greenhouse.io/altentechnologyusa/jobs/5136116007) | Foster City, California, United States | greenhouse |
 | 2026-05-12 | xpengmotors | [Senior Staff AI Engineer](https://job-boards.greenhouse.io/xpengmotors/jobs/8535404002) | Santa Clara, CA | greenhouse |
 | 2026-05-12 | biohub | [Sr Staff Data Scientist, Virtual Biology Initiative, AI Research](https://job-boards.greenhouse.io/biohub/jobs/7688757) | New York, NY (Hybrid); Redwood City, CA (Hybrid) | greenhouse |
@@ -30,12 +89,9 @@ _Last updated: 2026-05-12 22:25 CDT_
 | 2026-05-12 | octave | [Sr. Data Engineer](https://boards.greenhouse.io/octave/jobs/8457329002?gh_jid=8457329002) | Virtual (Remote) | greenhouse |
 | 2026-05-12 | temporaltechnologies | [Staff Software Engineer - AI SDK](https://job-boards.greenhouse.io/temporaltechnologies/jobs/5125079007) | United States, Remote Opportunity | greenhouse |
 | 2026-05-12 | mark43 | [Lead Data Engineer](https://mark43.com/list-job/6712969?gh_jid=6712969) | Remote, New York City | greenhouse |
-| 2026-05-12 | waymo | [Machine Learning Engineer, Depot Automation](https://careers.withwaymo.com/jobs?gh_jid=7852501) | Mountain View, CA, US | greenhouse |
 | 2026-05-12 | epicgames | [Senior Machine Learning Engineer, Discovery Recommendations](https://epicgames.com/careers/jobs/5972880004?gh_jid=5972880004) | Cary,North Carolina,United States | greenhouse |
-| 2026-05-12 | waymo | [Applied Scientist / MLE,  Perception Modeling](https://careers.withwaymo.com/jobs?gh_jid=7446279) | Mountain View, CA, USA; San Francisco, CA, USA | greenhouse |
 | 2026-05-12 | gusto | [Staff Data Scientist - Core Products](https://job-boards.greenhouse.io/gusto/jobs/7524662) | San Francisco, CA - Hybrid; New York, NY - Hybrid; | greenhouse |
 | 2026-05-12 | wikimedia | [Senior Data Scientist, Ecosystems](https://job-boards.greenhouse.io/wikimedia/jobs/7913716) | Remote | greenhouse |
-| 2026-05-12 | waymo | [Senior Staff Machine Learning Engineer, Depot Automation](https://careers.withwaymo.com/jobs?gh_jid=7774356) | Mountain View, CA, US | greenhouse |
 | 2026-05-12 | greenthumbindustries | [Analytics Engineer](https://job-boards.greenhouse.io/greenthumbindustries/jobs/7917727) | Chicago, Illinois, United States | greenhouse |
 | 2026-05-12 | andurilindustries | [Senior Research Scientist](https://boards.greenhouse.io/andurilindustries/jobs/5135687007?gh_jid=5135687007) | Broomfield, Colorado, United States | greenhouse |
 | 2026-05-12 | andurilindustries | [Research Scientist](https://boards.greenhouse.io/andurilindustries/jobs/5047082007?gh_jid=5047082007) | Broomfield, Colorado, United States | greenhouse |
@@ -124,59 +180,6 @@ _Last updated: 2026-05-12 22:25 CDT_
 | 2026-05-12 | ibkr | [Senior Data Engineer](https://job-boards.greenhouse.io/ibkr/jobs/8112195002) | Greenwich, CT | greenhouse |
 | 2026-05-12 | lucidmotors | [Staff Machine Learning Engineer – (ADAS/Autonomous Driving)](https://job-boards.greenhouse.io/lucidmotors/jobs/4620390007) | Newark, CA | greenhouse |
 | 2026-05-12 | tenstorrent | [C++ Machine Learning Engineer, AI Models Training](https://job-boards.greenhouse.io/tenstorrent/jobs/4607141007) | Santa Clara, California, United States | greenhouse |
-| 2026-05-12 | waymo | [Applied Research Scientist, 3D Object Detection  (PhD New Grad)](https://careers.withwaymo.com/jobs?gh_jid=7467839) | Mountain View, CA USA;  San Francisco, CA USA; | greenhouse |
-| 2026-05-12 | waymo | [Applied Research Scientist, Perception LLM/VLM (PhD, New Grad)](https://careers.withwaymo.com/jobs?gh_jid=7488508) | Mountain View, CA USA;  San Francisco, CA USA; | greenhouse |
-| 2026-05-12 | waymo | [Brand Media Strategy & Analytics Manager](https://careers.withwaymo.com/jobs?gh_jid=7839116) | Mountain View, CA, USA; San Francisco, CA, USA | greenhouse |
-| 2026-05-12 | waymo | [Business Intelligence Analyst / Data Analyst (SQL)](https://careers.withwaymo.com/jobs?gh_jid=7788473) | Mountain View, CA; San Francisco, CA | greenhouse |
-| 2026-05-12 | waymo | [Data Scientist](https://careers.withwaymo.com/jobs?gh_jid=6608598) | Mountain View, California, USA | greenhouse |
-| 2026-05-12 | waymo | [Machine Learning Engineer, 3D Object Detection  (PhD New Grad)](https://careers.withwaymo.com/jobs?gh_jid=7539786) | Mountain View, CA USA;  San Francisco, CA USA; | greenhouse |
-| 2026-05-12 | waymo | [Machine Learning Engineer, Driver Understanding and Evaluation](https://careers.withwaymo.com/jobs?gh_jid=7455853) | Mountain View, CA, USA | greenhouse |
-| 2026-05-12 | waymo | [Machine Learning Engineer (Infra), Driver Understanding and Evaluation](https://careers.withwaymo.com/jobs?gh_jid=7819946) | Mountain View, CA, USA | greenhouse |
-| 2026-05-12 | waymo | [Machine Learning Engineer - Mapping](https://careers.withwaymo.com/jobs?gh_jid=7429791) | Mountain View, CA, USA | greenhouse |
-| 2026-05-12 | waymo | [Machine Learning Engineer, ML Resources](https://careers.withwaymo.com/jobs?gh_jid=7424806) | Mountain View, CA, USA | greenhouse |
-| 2026-05-12 | waymo | [Machine Learning Engineer, Model Optimization](https://careers.withwaymo.com/jobs?gh_jid=7446322) | Mountain View, California, United States; San Francisco, California, United States | greenhouse |
-| 2026-05-12 | waymo | [Machine Learning Engineer, Prediction & Planning](https://careers.withwaymo.com/jobs?gh_jid=6506689) | Mountain View, CA, USA; San Francisco, CA, USA; New York City, NY, USA | greenhouse |
-| 2026-05-12 | waymo | [Machine Learning Engineer, Runtime & Optimization](https://careers.withwaymo.com/jobs?gh_jid=6506008) | Mountain View, California, USA | greenhouse |
-| 2026-05-12 | waymo | [Machine Learning Engineer, Simulation Realism](https://careers.withwaymo.com/jobs?gh_jid=6499165) | Mountain View, CA, USA | greenhouse |
-| 2026-05-12 | waymo | [Machine Learning Engineer, Simulation Realism](https://careers.withwaymo.com/jobs?gh_jid=6688617) | Mountain View, CA, USA | greenhouse |
-| 2026-05-12 | waymo | [Principal Software Engineer, ML Flywheel Technical Lead](https://careers.withwaymo.com/jobs?gh_jid=7545007) | Mountain View, CA, USA; San Francisco, CA, USA | greenhouse |
-| 2026-05-12 | waymo | [Principal Software Engineer, ML System Architect](https://careers.withwaymo.com/jobs?gh_jid=7773177) | Mountain View, CA, USA | greenhouse |
-| 2026-05-12 | waymo | [Research Scientist, Prediction & Planning](https://careers.withwaymo.com/jobs?gh_jid=7309064) | Mountain View, CA USA; New York, NY USA; San Francisco, CA USA; | greenhouse |
-| 2026-05-12 | waymo | [Research Scientist, RL for Autonomous Planning & World Modeling](https://careers.withwaymo.com/jobs?gh_jid=7469425) | Mountain View, CA \| San Francisco, CA \| Kirkland, WA \| New York City, NY | greenhouse |
-| 2026-05-12 | waymo | [Senior Applied Research Scientist, Perception Semantics](https://careers.withwaymo.com/jobs?gh_jid=7469421) | Mountain View, CA USA;  San Francisco, CA USA; | greenhouse |
-| 2026-05-12 | waymo | [Senior Data Scientist](https://careers.withwaymo.com/jobs?gh_jid=6508001) | Mountain View, California, USA | greenhouse |
-| 2026-05-12 | waymo | [Senior Machine Learning Engineer, Computer Vision/VLM](https://careers.withwaymo.com/jobs?gh_jid=7249525) | Mountain View, CA, USA; San Francisco, CA, USA | greenhouse |
-| 2026-05-12 | waymo | [Senior Machine Learning Engineer, Driver Understanding and Evaluation](https://careers.withwaymo.com/jobs?gh_jid=7456078) | Mountain View, CA, USA | greenhouse |
-| 2026-05-12 | waymo | [Senior Machine Learning Engineer (Infra), Driver Understanding and Evaluation](https://careers.withwaymo.com/jobs?gh_jid=7819951) | Mountain View, CA, USA | greenhouse |
-| 2026-05-12 | waymo | [Senior Machine Learning Engineer, Multimodal Perception (LLM/VLM)](https://careers.withwaymo.com/jobs?gh_jid=7767649) | Mountain View, CA, USA | greenhouse |
-| 2026-05-12 | waymo | [Senior Machine Learning Engineer, Perception LLM/VLM](https://careers.withwaymo.com/jobs?gh_jid=7488596) | Mountain View, CA USA;  San Francisco, CA USA; | greenhouse |
-| 2026-05-12 | waymo | [Senior Machine Learning Engineer, Prediction & Planning, System Architecture](https://careers.withwaymo.com/jobs?gh_jid=7826591) | Mountain View, CA, USA; San Francisco, CA, USA; New York City, NY, USA | greenhouse |
-| 2026-05-12 | waymo | [Senior Machine Learning Engineer, Runtime and Serving](https://careers.withwaymo.com/jobs?gh_jid=7845732) | Mountain View, CA, USA | greenhouse |
-| 2026-05-12 | waymo | [Senior Machine Learning Engineer, Simulation](https://careers.withwaymo.com/jobs?gh_jid=7430187) | Mountain View, CA, USA; New York, NY, USA | greenhouse |
-| 2026-05-12 | waymo | [Senior Machine Learning Engineer – VLM/LLM Evaluation](https://careers.withwaymo.com/jobs?gh_jid=7644924) | Mountain View, CA \| San Francisco, CA \| Kirkland, WA \| New York City, NY | greenhouse |
-| 2026-05-12 | waymo | [Senior Machine Learning Engineer, Weather & Degraded Road Surfaces](https://careers.withwaymo.com/jobs?gh_jid=7460854) | Mountain View, California, United States; San Francisco, California, United States | greenhouse |
-| 2026-05-12 | waymo | [Senior ML Engineer, LLM / VLM Distillation](https://careers.withwaymo.com/jobs?gh_jid=7858937) | Mountain View, California, United States, Mountain View, California, United States | greenhouse |
-| 2026-05-12 | waymo | [Senior Product Data Scientist, Marketplace Algorithms ML](https://careers.withwaymo.com/jobs?gh_jid=7416740) | Mountain View, CA, USA; San Francisco, CA, USA | greenhouse |
-| 2026-05-12 | waymo | [Senior Research Scientist, Foundation Model for Simulation](https://careers.withwaymo.com/jobs?gh_jid=7159299) | Mountain View, CA USA; San Francisco, CA USA | greenhouse |
-| 2026-05-12 | waymo | [Senior Research Scientist, Foundation Model (LLM/VLM)](https://careers.withwaymo.com/jobs?gh_jid=7572081) | Mountain View, CA, USA; San Francisco, CA, USA | greenhouse |
-| 2026-05-12 | waymo | [Senior Research Scientist, World Action Modeling](https://careers.withwaymo.com/jobs?gh_jid=7766821) | Mountain View, CA \| San Francisco, CA \| Kirkland, WA \| New York City, NY | greenhouse |
-| 2026-05-12 | waymo | [Senior Staff Data Scientist, Perception](https://careers.withwaymo.com/jobs?gh_jid=7872727) | Mountain View, CA USA | greenhouse |
-| 2026-05-12 | waymo | [Senior Staff Machine Learning Engineer, Perception](https://careers.withwaymo.com/jobs?gh_jid=6809263) | Mountain View, California, United States | greenhouse |
-| 2026-05-12 | waymo | [Senior Staff Machine Learning Engineer, Simulation](https://careers.withwaymo.com/jobs?gh_jid=7430495) | Mountain View,CA, USA; San Francisco, CA, USA; New York, NY, USA | greenhouse |
-| 2026-05-12 | waymo | [Senior/Staff ML Engineer, 3D/4D World Modeling, Simulation](https://careers.withwaymo.com/jobs?gh_jid=6669555) | Mountain View, CA, USA | greenhouse |
-| 2026-05-12 | waymo | [Senior Staff ML Engineer, Driver Understanding and Evaluation](https://careers.withwaymo.com/jobs?gh_jid=7421737) | Mountain View,  CA, United States | greenhouse |
-| 2026-05-12 | waymo | [Sr. Staff Data Scientist, TLM, Driving Quality](https://careers.withwaymo.com/jobs?gh_jid=7239320) | Mountain View, California, USA | greenhouse |
-| 2026-05-12 | waymo | [Staff Data Scientist, Launch Evaluation Quality](https://careers.withwaymo.com/jobs?gh_jid=7458013) | Mountain View, California, USA; San Francisco, California, USA; New York City, New York, USA | greenhouse |
-| 2026-05-12 | waymo | [Staff Machine Learning Engineer, Data Flywheel](https://careers.withwaymo.com/jobs?gh_jid=7593522) | Mountain View, CA USA;  San Francisco, CA USA; | greenhouse |
-| 2026-05-12 | waymo | [Staff Machine Learning Engineer, Driver Understanding and Evaluation](https://careers.withwaymo.com/jobs?gh_jid=7442152) | Mountain View, CA, USA | greenhouse |
-| 2026-05-12 | waymo | [Staff Machine Learning Engineer (Infra), Driver Understanding and Evaluation](https://careers.withwaymo.com/jobs?gh_jid=7438635) | Mountain View, CA, USA | greenhouse |
-| 2026-05-12 | waymo | [Staff Machine Learning Engineer, Prediction & Planning, System Architecture](https://careers.withwaymo.com/jobs?gh_jid=7822067) | Mountain View, CA, USA; San Francisco, CA, USA; New York City, NY, USA | greenhouse |
-| 2026-05-12 | waymo | [Staff Machine Learning Engineer, Simulation](https://careers.withwaymo.com/jobs?gh_jid=7483051) | New York, NY, USA; Mountain View, CA, USA; San Francisco, CA, USA | greenhouse |
-| 2026-05-12 | waymo | [Staff Machine Learning Engineer, Vehicle Compliance Reasoning](https://careers.withwaymo.com/jobs?gh_jid=7843511) | Mountain View, CA, USA; San Francisco, CA, USA | greenhouse |
-| 2026-05-12 | waymo | [Staff Machine Learning Engineer – VLM/LLM Evaluation](https://careers.withwaymo.com/jobs?gh_jid=7595124) | Mountain View, CA \| San Francisco, CA \| Kirkland, WA \| New York City, NY | greenhouse |
-| 2026-05-12 | waymo | [Staff Product Data Scientist, Operation Center](https://careers.withwaymo.com/jobs?gh_jid=7597108) | Mountain View, CA, US; San Francisco, CA, US | greenhouse |
-| 2026-05-12 | waymo | [Staff Software Engineer, Machine Learning, Planner Selection](https://careers.withwaymo.com/jobs?gh_jid=7170802) | Mountain View, California, USA | greenhouse |
-| 2026-05-12 | waymo | [Staff Software Engineer, Machine Learning, Route and Pin Quality](https://careers.withwaymo.com/jobs?gh_jid=7224992) | Mountain View, California, USA | greenhouse |
 | 2026-05-12 | zoominfo | [Senior Machine Learning Engineer](https://www.zoominfo.com/careers?gh_jid=8537816002) | Remote | greenhouse |
 | 2026-05-12 | abinbev | [AI Engineer - Bees Personalization](https://job-boards.greenhouse.io/abinbev/jobs/8539930002) | Remote | greenhouse |
 | 2026-05-12 | abinbev | [Senior Data Engineer \| Bees Personalization](https://job-boards.greenhouse.io/abinbev/jobs/8422274002) | Remote | greenhouse |
@@ -361,7 +364,6 @@ _Last updated: 2026-05-12 22:25 CDT_
 | 2026-05-11 | innovecs | [Senior Machine Learning Engineer](https://jobs.innovecs.com/vacancies?gh_jid=8444634002) | Ukraine, Poland, Romania, Spain, Remote | greenhouse |
 | 2026-05-11 | clarityai | [Staff AI Engineer](https://job-boards.eu.greenhouse.io/clarityai/jobs/4802689101) | Remote | greenhouse |
 | 2026-05-11 | lucidmotors | [Engineering Manager, Data Engineering & Infrastructure](https://job-boards.greenhouse.io/lucidmotors/jobs/5106263007) | Newark, CA | greenhouse |
-| 2026-05-11 | waymark | [Senior/Principal Data Engineer](https://job-boards.greenhouse.io/waymark/jobs/4030307005) | US - Remote | greenhouse |
 | 2026-05-11 | alpaca | [Senior Data Engineer](https://job-boards.greenhouse.io/alpaca/jobs/5612141004) | Remote - North America - LATAM | greenhouse |
 | 2026-05-10 | physicsx | [Machine Learning Engineer](https://job-boards.eu.greenhouse.io/physicsx/jobs/4849382101) | New York, United States | greenhouse |
 | 2026-05-10 | physicsx | [Senior Computer Vision Data Scientist](https://job-boards.eu.greenhouse.io/physicsx/jobs/4852973101) | New York, United States | greenhouse |
