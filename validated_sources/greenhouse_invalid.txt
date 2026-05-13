@@ -7839,7 +7839,6 @@ everylife	http_404
 changeorg58	http_404
 realpha	no_matching_jobs
 nutrabolt	no_matching_jobs
-legendcareers	no_matching_jobs
 canto	no_matching_jobs
 generalatlantic	no_matching_jobs
 animallogicglobalhybrid	http_404
