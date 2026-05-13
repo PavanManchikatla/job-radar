@@ -6613,7 +6613,6 @@ degreed	no_matching_jobs
 dubber	no_matching_jobs
 openweb	no_matching_jobs
 heartaerospace	no_matching_jobs
-foresitelabs	no_matching_jobs
 reachdesk	no_matching_jobs
 climatecabinet	no_matching_jobs
 pmg	no_matching_jobs
@@ -7100,7 +7099,6 @@ airspace	no_matching_jobs
 pulumicorporation	no_matching_jobs
 allworthfinancial	no_matching_jobs
 costar	no_matching_jobs
-altentechnologyusa	no_matching_jobs
 polly	http_404
 select	http_404
 yepjobs	no_jobs
@@ -8410,7 +8408,6 @@ nascompany	no_matching_jobs
 minio	no_matching_jobs
 nycedc	no_matching_jobs
 financialtimes33	no_matching_jobs
-materialbank	no_matching_jobs
 lightforceorthodontics	no_matching_jobs
 nohozephyrinc	http_404
 wizixtechnologygroupinc	no_matching_jobs

@@ -658,3 +658,6 @@ wikimedia
 inflectionai
 cloverhealth
 gomotive
+foresitelabs
+altentechnologyusa
+materialbank

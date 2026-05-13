@@ -3686,7 +3686,6 @@ aomei partition	http_404
 wintousb	http_404
 minitool partition	http_404
 easeus partition	http_404
-sophos	no_matching_jobs
 gparted	http_404
 active partition	http_404
 parted magic	http_404
