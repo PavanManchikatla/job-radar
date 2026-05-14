@@ -674,3 +674,4 @@ climateai
 pilothq
 grahamcapitalmanagement
 oportun
+10xgenomics

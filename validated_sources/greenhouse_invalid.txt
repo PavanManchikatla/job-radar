@@ -7129,7 +7129,6 @@ cleoai	http_404
 mathersplendido	no_matching_jobs
 cookunity	no_matching_jobs
 bluestarfamilies	no_matching_jobs
-10xgenomics	no_matching_jobs
 bitso	no_matching_jobs
 billiontoone	no_matching_jobs
 theorchard	no_matching_jobs
