@@ -1,12 +1,24 @@
 # Jobs Feed (Page 2/2)
 
-_Last updated: 2026-05-13 16:56 CDT_
+_Last updated: 2026-05-13 22:27 CDT_
 
 Page 2/2 | [Prev](jobs_page_1.md)
 
 
 | Posted | Company | Title | Location | Source |
 |---|---|---|---|---|
+| 2026-05-11 | recharge | [Senior Data Engineer](https://job-boards.greenhouse.io/recharge/jobs/8510444002) | Remote | greenhouse |
+| 2026-05-11 | phasev | [Senior Data Scientist](https://job-boards.greenhouse.io/phasev/jobs/4206725009) | One Broadway, 11th floor, Cambridge, MA 02142, USA | greenhouse |
+| 2026-05-11 | extend | [Lead Risk Analytics Data Scientist](https://job-boards.greenhouse.io/extend/jobs/5991092004) | Remote, US | greenhouse |
+| 2026-05-11 | appomni | [Principal Data Scientist - Risk Intelligence & AI](https://job-boards.greenhouse.io/appomni/jobs/5786077004) | Remote - USA | greenhouse |
+| 2026-05-11 | velir | [Senior Data Analyst](https://job-boards.greenhouse.io/velir/jobs/5215795008) | Remote | greenhouse |
+| 2026-05-11 | everdriven | [Business Intelligence Analyst](https://job-boards.greenhouse.io/everdriven/jobs/5207619008) | Greenwood Village, Colorado, United States | greenhouse |
+| 2026-05-11 | veracyte | [Bioinformatics Research Scientist II](https://veracyte.com/job-detail?gh_jid=5101421007) | Remote ; San Diego, California, United States; South San Francisco, California, United States | greenhouse |
+| 2026-05-11 | veracyte | [Director, Data Engineering](https://veracyte.com/job-detail?gh_jid=5073317007) | San Diego, California, United States | greenhouse |
+| 2026-05-11 | distantjob | [Senior Data Engineer](https://job-boards.greenhouse.io/distantjob/jobs/8538500002) | Remote | greenhouse |
+| 2026-05-11 | motional | [Staff Machine Learning Engineer](https://motional.com/open-positions/?gh_jid=7730526003#/7730526003) | Remote U.S. | greenhouse |
+| 2026-05-11 | motional | [Staff Machine Learning Engineer](https://motional.com/open-positions/?gh_jid=7730339003#/7730339003) | Las Vegas, Nevada, United States | greenhouse |
+| 2026-05-11 | motional | [Staff Machine Learning Engineer](https://motional.com/open-positions/?gh_jid=7730335003#/7730335003) | Pittsburgh, Pennsylvania, United States | greenhouse |
 | 2026-05-11 | motional | [Staff Machine Learning Engineer](https://motional.com/open-positions/?gh_jid=7730259003#/7730259003) | Boston, Massachusetts, United States | greenhouse |
 | 2026-05-11 | current81 | [Director, Analytics Engineering](https://current.com/careers/open-positions/?id=7912854&gh_jid=7912854) | New York, NY | greenhouse |
 | 2026-05-11 | pandadoc | [Senior Data Scientist - GTM Data](https://job-boards.greenhouse.io/pandadoc/jobs/7906530) | Remote (USA) | greenhouse |
@@ -29,7 +41,6 @@ Page 2/2 | [Prev](jobs_page_1.md)
 | 2026-05-11 | whoop | [Senior Research Scientist](https://jobs.lever.co/whoop/531ae22b-80d2-4189-a628-395504b3146e) | Boston, MA | lever |
 | 2026-05-11 | redventures | [Senior Business Intelligence Analyst \| The Points Guy](https://www.redventures.com/careers/positions/open?gh_jid=7825512) | New York City, NY | greenhouse |
 | 2026-05-11 | clarityai | [Staff AI Engineer](https://job-boards.eu.greenhouse.io/clarityai/jobs/4802689101) | Remote | greenhouse |
-| 2026-05-11 | alpaca | [Senior Data Engineer](https://job-boards.greenhouse.io/alpaca/jobs/5612141004) | Remote - North America - LATAM | greenhouse |
 
 Page 2/2 | [Prev](jobs_page_1.md)
 

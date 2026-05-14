@@ -6331,7 +6331,6 @@ gigaenergy	no_matching_jobs
 tacobelljobs	http_404
 brunswickgroup	no_matching_jobs
 keyfactorinc	no_matching_jobs
-climateai	no_matching_jobs
 jadebiosciences	no_matching_jobs
 aypapower	no_matching_jobs
 encompasstechnologiesllp	no_matching_jobs
@@ -7242,7 +7241,6 @@ ngcash	http_404
 sandboxx	no_matching_jobs
 theiconic	no_matching_jobs
 wormholefoundation	http_404
-pilothq	no_matching_jobs
 chariotdefense	no_matching_jobs
 olema	no_matching_jobs
 memorahealth	http_404
@@ -7653,7 +7651,6 @@ pagerduty	no_matching_jobs
 ddbhealth	no_jobs
 swayboxstudios	no_matching_jobs
 atalantatherapeutics	no_jobs
-grahamcapitalmanagement	no_matching_jobs
 strategicprojectpartners	no_matching_jobs
 supportingstrategies	no_matching_jobs
 alteradigitalhealth	http_404
