@@ -8116,7 +8116,6 @@ titelmedia	http_404
 gspoverheaddoorsolutions	no_matching_jobs
 bubbleskincare	no_matching_jobs
 insitro	http_404
-oportun	no_matching_jobs
 appdirect	no_matching_jobs
 assemblyhq	http_404
 buildkite	no_matching_jobs
