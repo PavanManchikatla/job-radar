@@ -1,12 +1,14 @@
 # Jobs Feed (Page 2/2)
 
-_Last updated: 2026-05-13 22:27 CDT_
+_Last updated: 2026-05-14 02:16 CDT_
 
 Page 2/2 | [Prev](jobs_page_1.md)
 
 
 | Posted | Company | Title | Location | Source |
 |---|---|---|---|---|
+| 2026-05-11 | snorkelai | [Staff Applied AI Engineer - Pre-Sales](https://job-boards.greenhouse.io/snorkelai/jobs/5831080004) | New York City, NY (Hybrid); Redwood City, CA (Hybrid); San Francisco, CA (Hybrid); United States (Remote) | greenhouse |
+| 2026-05-11 | snorkelai | [Staff/Principal Research Scientist](https://job-boards.greenhouse.io/snorkelai/jobs/5968785004) | Redwood City, CA (Hybrid); San Francisco, CA (Hybrid); United States (Remote) | greenhouse |
 | 2026-05-11 | recharge | [Senior Data Engineer](https://job-boards.greenhouse.io/recharge/jobs/8510444002) | Remote | greenhouse |
 | 2026-05-11 | phasev | [Senior Data Scientist](https://job-boards.greenhouse.io/phasev/jobs/4206725009) | One Broadway, 11th floor, Cambridge, MA 02142, USA | greenhouse |
 | 2026-05-11 | extend | [Lead Risk Analytics Data Scientist](https://job-boards.greenhouse.io/extend/jobs/5991092004) | Remote, US | greenhouse |
