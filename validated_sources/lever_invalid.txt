@@ -9566,7 +9566,6 @@ enable	no_matching_jobs
 esper	no_matching_jobs
 evertas	no_jobs
 capital	no_matching_jobs
-espace	no_matching_jobs
 eqbank	no_matching_jobs
 fehrandpeers	no_matching_jobs
 brooksrunning	no_matching_jobs
@@ -16450,7 +16449,6 @@ greybrook	http_404
 grand	no_matching_jobs
 gr0	no_matching_jobs
 graylog	no_jobs
-daniels-sharpsmart	no_matching_jobs
 freshhealth	no_matching_jobs
 greenroompr	http_404
 gojek	http_404

@@ -5341,7 +5341,6 @@ onsiteiq	http_404
 paytronix	no_jobs
 loizero	no_matching_jobs
 affinidi	no_matching_jobs
-habitathealth	no_matching_jobs
 autods	no_matching_jobs
 prometheusrealestategroup	no_matching_jobs
 pangeamoneytransfer	no_matching_jobs
@@ -5443,7 +5442,6 @@ propertyfinder	http_404
 jetairegroup	http_404
 ethoslife	no_matching_jobs
 couchbaseinc	no_matching_jobs
-anteriad	no_matching_jobs
 christfellowship	no_matching_jobs
 illumio	http_404
 aifleet	http_404
@@ -7568,7 +7566,6 @@ quora	http_404
 airbyte	http_404
 pearcommerce	http_404
 tracelinkinc	no_matching_jobs
-preciselyusjobs	no_matching_jobs
 trmlabs	http_404
 vetevolve	no_matching_jobs
 glooko	no_matching_jobs
