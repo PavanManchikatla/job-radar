@@ -1438,7 +1438,6 @@ touchbistro pos	http_404
 upserve pos	http_404
 lightspeed restaurant	http_404
 lavu pos	http_404
-toast	no_matching_jobs
 vend pos	http_404
 kounta pos	http_404
 epos now pos	http_404
@@ -5058,7 +5057,6 @@ opswat	no_matching_jobs
 mavenclinicproviders	no_matching_jobs
 aift	no_matching_jobs
 onevest	no_matching_jobs
-trace3	no_matching_jobs
 agilespaceindustries	http_404
 uniswapfoundation	no_jobs
 beamup	no_matching_jobs
@@ -5758,7 +5756,6 @@ virbiotechnologyinc	no_matching_jobs
 yugabyte	no_matching_jobs
 zetachain	no_matching_jobs
 nutrafol	no_matching_jobs
-authenticx	no_matching_jobs
 modulrfinance	no_matching_jobs
 everphone	http_404
 etchinc	no_matching_jobs
@@ -7085,7 +7082,6 @@ oneacrefundmalawi	no_matching_jobs
 codex	no_jobs
 airspace	no_matching_jobs
 pulumicorporation	no_matching_jobs
-allworthfinancial	no_matching_jobs
 costar	no_matching_jobs
 polly	http_404
 select	http_404
@@ -8357,7 +8353,6 @@ akko	no_matching_jobs
 blacklane	no_matching_jobs
 explorasolutions	no_jobs
 ostrohealth	no_matching_jobs
-constantcontact	no_matching_jobs
 flyr	no_jobs
 emarketer	no_matching_jobs
 otterbein	no_matching_jobs
