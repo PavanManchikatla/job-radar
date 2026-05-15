@@ -194,7 +194,6 @@ codacy	http_404
 codeclimate	http_404
 checkmarx	http_404
 noisli	http_404
-veracode	no_matching_jobs
 snyk	http_404
 sonatype	http_404
 blackduck	no_matching_jobs
@@ -6663,7 +6662,6 @@ singlestore	no_matching_jobs
 h5pgroup	no_matching_jobs
 matic	no_matching_jobs
 vidyard	http_404
-shifttechnology	no_matching_jobs
 clearscoretechnologylimited	no_matching_jobs
 easygo	no_matching_jobs
 check	http_404
