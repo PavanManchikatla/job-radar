@@ -10068,7 +10068,6 @@ upmetrics	http_404
 schmidt-entities	no_matching_jobs
 uprightproject	no_matching_jobs
 usmobile	http_404
-v2sa	no_matching_jobs
 uei	no_matching_jobs
 theodo	no_matching_jobs
 varomoney	no_jobs
