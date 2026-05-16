@@ -1,10 +1,12 @@
 ## Jobs Feed (auto-updated)
 
 <!-- JOBS:START -->
-_Last updated: 2026-05-15 22:16 CDT_
+_Last updated: 2026-05-16 01:52 CDT_
 
 | Posted | Company | Title | Location | Source |
 |---|---|---|---|---|
+| 2026-05-16 | verisign | [Research Engineer](https://job-boards.greenhouse.io/verisign/jobs/7650739003) | Reston,Virginia,United States | greenhouse |
+| 2026-05-16 | verisign | [Sr Research Engineer](https://job-boards.greenhouse.io/verisign/jobs/7636398003) | Reston,Virginia,United States | greenhouse |
 | 2026-05-16 | waymo | [Senior Research Scientist, World Action Modeling](https://careers.withwaymo.com/jobs?gh_jid=7766821) | Mountain View, CA, USA; San Francisco, CA, USA; Kirkland, WA, USA; New York City, NY, USA | greenhouse |
 | 2026-05-16 | waymo | [Staff Machine Learning Engineer – VLM/LLM Evaluation](https://careers.withwaymo.com/jobs?gh_jid=7595124) | Mountain View, CA, USA; San Francisco, CA, USA; Kirkland, WA, USA; New York City, NY, USA | greenhouse |
 | 2026-05-16 | waymo | [Senior Machine Learning Engineer – VLM/LLM Evaluation](https://careers.withwaymo.com/jobs?gh_jid=7644924) | Mountain View, CA, USA; San Francisco, CA, USA; Kirkland, WA, USA; New York City, NY, USA | greenhouse |
@@ -14,8 +16,6 @@ _Last updated: 2026-05-15 22:16 CDT_
 | 2026-05-16 | scaleai | [Forward Deployed AI Engineer, Enterprise](https://job-boards.greenhouse.io/scaleai/jobs/4694861005) | San Francisco, CA; New York, NY | greenhouse |
 | 2026-05-16 | clear | [Forward Deployed AI Engineer](https://job-boards.greenhouse.io/clear/jobs/7927496) | New York, NY, United States | greenhouse |
 | 2026-05-16 | clear | [Forward Deployed AI Engineer II](https://job-boards.greenhouse.io/clear/jobs/7927498) | New York, NY, United States | greenhouse |
-| 2026-05-16 | verisign | [Research Engineer](https://job-boards.greenhouse.io/verisign/jobs/7650739003) | Reston,Virginia,United States | greenhouse |
-| 2026-05-16 | verisign | [Sr Research Engineer](https://job-boards.greenhouse.io/verisign/jobs/7636398003) | Reston,Virginia,United States | greenhouse |
 | 2026-05-15 | scaleai | [Senior Staff Forward Deployed AI Engineer, Enterprise](https://job-boards.greenhouse.io/scaleai/jobs/4694869005) | San Francisco, CA; New York, NY | greenhouse |
 | 2026-05-15 | scaleai | [Staff Forward Deployed AI Engineer, Enterprise](https://job-boards.greenhouse.io/scaleai/jobs/4694865005) | San Francisco, CA; New York, NY | greenhouse |
 | 2026-05-15 | globalhealthcareexchangeinc | [Software Engineer III - Knowledge Representation (Ontology and ML Engineer)](https://job-boards.greenhouse.io/globalhealthcareexchangeinc/jobs/4696228005) | Office Location or Remote - USA | greenhouse |
@@ -467,5 +467,4 @@ _Last updated: 2026-05-15 22:16 CDT_
 | 2026-05-13 | wongdoody | [Creative AI Workflow Specialist / Creative AI Engineer](https://job-boards.greenhouse.io/wongdoody/jobs/6251927003) | Berlin, DE \| Germany (REMOTE) \| Stuttgart, DE | greenhouse |
 | 2026-05-13 | precisionaq | [Senior Data Engineer](https://job-boards.greenhouse.io/precisionaq/jobs/5995115004) | Remote, India | greenhouse |
 | 2026-05-13 | precisionmedicinegroup | [Senior Data Engineer](https://job-boards.greenhouse.io/precisionmedicinegroup/jobs/5995113004) | Remote, India | greenhouse |
-| 2026-05-13 | waymark | [Senior/Principal Data Engineer](https://job-boards.greenhouse.io/waymark/jobs/4030307005) | US - Remote | greenhouse |
 <!-- JOBS:END -->
