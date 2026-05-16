@@ -5790,7 +5790,6 @@ laportefr	no_matching_jobs
 lokainc	no_matching_jobs
 cariboubiosciencesinc	no_matching_jobs
 spire	no_matching_jobs
-zuora	no_matching_jobs
 ordergroove	no_matching_jobs
 particlehealth	no_jobs
 dialecticch	no_matching_jobs
@@ -7042,7 +7041,6 @@ frukt	no_jobs
 messagelab	no_jobs
 phantomai	no_matching_jobs
 nursedash	http_404
-cooksys	no_matching_jobs
 sourcegraph91	no_matching_jobs
 kymberconsultinggroup	no_matching_jobs
 31stunion	no_jobs

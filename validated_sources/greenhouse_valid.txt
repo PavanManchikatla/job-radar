@@ -689,3 +689,5 @@ constantcontact
 prove
 movableink
 knak
+zuora
+cooksys
