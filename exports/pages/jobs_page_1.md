@@ -1,6 +1,6 @@
 # Jobs Feed (Page 1/1)
 
-_Last updated: 2026-05-16 22:25 CDT_
+_Last updated: 2026-05-17 02:14 CDT_
 
 | Posted | Company | Title | Location | Source |
 |---|---|---|---|---|
@@ -328,8 +328,5 @@ _Last updated: 2026-05-16 22:25 CDT_
 | 2026-05-14 | dropbox | [Senior Data Engineer, AI and Systems Engineering](https://jobs.dropbox.com/listing/7872748?gh_jid=7872748) | Remote - Mexico | greenhouse |
 | 2026-05-14 | dropbox | [Senior Data Engineer, AI and Systems Engineering](https://jobs.dropbox.com/listing/7872745?gh_jid=7872745) | Remote - Poland | greenhouse |
 | 2026-05-14 | oportun | [Senior Data Scientist (R14015)](https://job-boards.greenhouse.io/oportun/jobs/4695070005) | Remote - India | greenhouse |
-| 2026-05-14 | airbnb | [Senior Staff Machine Learning Engineer, Infrastructure](https://careers.airbnb.com/positions/7759457?gh_jid=7759457) | United States | greenhouse |
-| 2026-05-14 | twilio | [Senior Manager, Machine Learning](https://job-boards.greenhouse.io/twilio/jobs/7919148) | Remote - India | greenhouse |
-| 2026-05-14 | temporaltechnologies | [Software Engineer - AI SDK](https://job-boards.greenhouse.io/temporaltechnologies/jobs/5134414007) | United States or Canada - Remote Opportunity | greenhouse |
 
 [Back to README](../../README.md)
