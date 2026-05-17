@@ -8027,7 +8027,6 @@ bigid	no_matching_jobs
 portable	no_matching_jobs
 packlink	no_jobs
 xendit	no_matching_jobs
-northpointtechnology	no_matching_jobs
 telnyx54	no_matching_jobs
 sfox	no_jobs
 aurosglobal	no_matching_jobs
