@@ -3227,7 +3227,6 @@ releasepad	http_404
 announcekit	http_404
 producter	http_404
 changefeed	http_404
-headway	no_matching_jobs
 launchnotes	http_404
 products ops	http_404
 cycle	http_404
@@ -5700,7 +5699,6 @@ lucidsoftware	no_matching_jobs
 foundationriskpartners	no_matching_jobs
 quorum	http_404
 huddleup	no_matching_jobs
-nice	no_matching_jobs
 repeatmd	no_jobs
 audibenehearcom	no_matching_jobs
 adeedo	no_matching_jobs

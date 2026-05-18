@@ -151,3 +151,4 @@ unstructuredtechnologies
 visotrust
 wavicledata
 wisdomtree
+enablecomp
