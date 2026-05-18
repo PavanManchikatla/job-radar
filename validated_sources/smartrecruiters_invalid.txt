@@ -2848,7 +2848,6 @@ zendesk	no_postings
 zoho	no_postings
 float	no_postings
 forecast	no_postings
-freshworks	no_matching_jobs
 project.co	http_400
 runn	no_postings
 resource guru	http_400
