@@ -7416,7 +7416,6 @@ theeverycompany	no_matching_jobs
 rexfordindustrial	no_matching_jobs
 zevia	no_matching_jobs
 britive	no_matching_jobs
-shipbobinc	no_matching_jobs
 cbemllc	no_matching_jobs
 mast	no_matching_jobs
 qphox	no_matching_jobs
