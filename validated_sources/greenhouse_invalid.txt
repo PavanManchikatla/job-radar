@@ -4464,7 +4464,6 @@ sar	http_404
 multispectral	http_404
 hyperspectral	http_404
 lidar	http_404
-radar	no_matching_jobs
 infrared	http_404
 optical	http_404
 near-infrared	http_404
@@ -6672,7 +6671,6 @@ capstoneintegratedsolutions	no_matching_jobs
 prokidney	no_matching_jobs
 andela	http_404
 reprise	http_404
-hcesquared	no_matching_jobs
 worldsurfleague	no_matching_jobs
 authorhealth	http_404
 h5pgroup	no_matching_jobs
@@ -7963,7 +7961,6 @@ cocoon	no_matching_jobs
 homeward	no_matching_jobs
 tomorrow	no_matching_jobs
 proton	no_matching_jobs
-rackner	no_matching_jobs
 eko	no_matching_jobs
 carefeed	no_jobs
 outsetmedical	no_matching_jobs
@@ -7988,7 +7985,6 @@ unlockhealth	no_matching_jobs
 gravitate	no_jobs
 healthverity	no_matching_jobs
 mbooth	no_matching_jobs
-twosixtechnologies	no_matching_jobs
 dnsfilter	no_matching_jobs
 studsinc	no_matching_jobs
 ncamerica	no_matching_jobs
