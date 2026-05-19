@@ -6252,7 +6252,6 @@ procaresolutions	no_matching_jobs
 ripplematch	no_matching_jobs
 aidashinc	no_matching_jobs
 bioptimus8	no_matching_jobs
-courierhealth	no_matching_jobs
 researchpartnership	no_matching_jobs
 thefarmersdog	no_matching_jobs
 copperhome	no_matching_jobs
