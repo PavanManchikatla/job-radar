@@ -5560,7 +5560,6 @@ tenet3	no_matching_jobs
 123	no_jobs
 wildlifestudios	no_matching_jobs
 gsgcareers	no_jobs
-yld	no_matching_jobs
 horizenlabs	no_jobs
 usenourish	no_matching_jobs
 betsson	no_matching_jobs
@@ -6819,7 +6818,6 @@ biltrewards	http_404
 trinityairmedical	no_matching_jobs
 groww	no_matching_jobs
 abacusgroup	http_404
-paretocaptiveservicesllc	no_matching_jobs
 cannondesign	no_matching_jobs
 codeorg	no_matching_jobs
 fletcherjonesmotorcars	no_matching_jobs

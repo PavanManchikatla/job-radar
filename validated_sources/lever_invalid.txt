@@ -16063,7 +16063,6 @@ dexcarehealth	no_matching_jobs
 developintelligence	no_matching_jobs
 deepsky	no_matching_jobs
 didi-global	http_404
-cyderes	no_matching_jobs
 dempseyuniform-2	no_matching_jobs
 deliverect	no_matching_jobs
 digitalremedy	http_404
