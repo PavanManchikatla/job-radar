@@ -814,7 +814,6 @@ lemonade	http_404
 mycelium	http_404
 hippo	http_404
 kin	http_404
-openly	no_matching_jobs
 metromile	http_404
 policygenius	http_404
 getsafe	http_404
@@ -6005,7 +6004,6 @@ parity	http_404
 trufflesecurity	no_matching_jobs
 tula	no_jobs
 armamentsresearchcompany	no_matching_jobs
-zetaglobal	no_matching_jobs
 1stdibscom	no_matching_jobs
 carbonrobotics	no_matching_jobs
 foresightmentalhealth	no_matching_jobs
@@ -7665,7 +7663,6 @@ pricefox	no_matching_jobs
 kins	http_404
 picnichealth	http_404
 laporteusa	no_matching_jobs
-sixfold	no_matching_jobs
 pagerduty	no_matching_jobs
 ddbhealth	no_jobs
 atalantatherapeutics	no_jobs
@@ -8049,7 +8046,6 @@ americaspromisealliance	no_matching_jobs
 katrisk	http_404
 jungroup	http_404
 kentik	no_matching_jobs
-trueclassicteesllc	no_matching_jobs
 ogilvyhealthuk	no_matching_jobs
 bfmateship	http_404
 wpp	no_matching_jobs

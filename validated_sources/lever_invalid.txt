@@ -9531,7 +9531,6 @@ buckmason	no_matching_jobs
 daedalean	no_jobs
 csit	no_matching_jobs
 daos-hub	no_matching_jobs
-corebts	no_matching_jobs
 dnb	no_matching_jobs
 dnc	no_jobs
 djeholdings	http_404
@@ -9611,7 +9610,6 @@ getlabs	no_matching_jobs
 dialogdesign	no_matching_jobs
 ghsmartjobs	no_matching_jobs
 glow	http_404
-finquery	no_matching_jobs
 geocomply-2	no_matching_jobs
 findem	no_matching_jobs
 gluegroups	no_matching_jobs
@@ -17489,7 +17487,6 @@ qrypt	no_matching_jobs
 quidd	http_404
 quidel	http_404
 qualdoc	no_matching_jobs
-protolabs	no_matching_jobs
 quitgenius	http_404
 purchasingplatform	no_matching_jobs
 quotapath	http_404

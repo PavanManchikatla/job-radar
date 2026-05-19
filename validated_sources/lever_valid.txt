@@ -154,3 +154,6 @@ wisdomtree
 enablecomp
 cimgroup
 cyderes
+corebts
+finquery
+protolabs
