@@ -5279,7 +5279,6 @@ boomilp	no_matching_jobs
 vixxo	no_matching_jobs
 thejpbfoundation	http_404
 mainstreethealth	no_matching_jobs
-emslinqinc	no_matching_jobs
 accuweather	no_matching_jobs
 secondharvest	no_matching_jobs
 synerg	no_matching_jobs
@@ -7924,7 +7923,6 @@ perfectserve	no_matching_jobs
 distributional	http_404
 howardair	no_matching_jobs
 apiiro	no_matching_jobs
-suvoda	no_matching_jobs
 sandstonedenver	no_matching_jobs
 forgebiologics	no_matching_jobs
 mithril	no_matching_jobs
