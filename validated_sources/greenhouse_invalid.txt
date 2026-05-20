@@ -5135,9 +5135,7 @@ breakthroughenergy	http_404
 kiavi	no_matching_jobs
 crescendohealth	no_matching_jobs
 vikingglobalinvestors	no_matching_jobs
-thoughtworks	no_matching_jobs
 gofasti	no_matching_jobs
-turtlerockstudios	no_matching_jobs
 medsien	no_matching_jobs
 zeals	no_jobs
 corelight	no_matching_jobs
@@ -5698,7 +5696,6 @@ huddleup	no_matching_jobs
 repeatmd	no_jobs
 audibenehearcom	no_matching_jobs
 adeedo	no_matching_jobs
-modernhealth	no_matching_jobs
 datavant2	no_matching_jobs
 mcclureoilcorporation	no_matching_jobs
 constructionresources	no_matching_jobs
@@ -6139,7 +6136,6 @@ transmitsecurity	no_matching_jobs
 styra	http_404
 sparrow	no_matching_jobs
 sironamedical	no_jobs
-novacredit	no_matching_jobs
 ovoenergy	no_matching_jobs
 halcyon	no_matching_jobs
 metoxinternationalinc	no_matching_jobs
