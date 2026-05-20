@@ -4419,7 +4419,6 @@ synspective	http_404
 si imaging services	http_404
 umbra	http_404
 qps research	http_404
-blacksky	no_matching_jobs
 maxar	http_404
 planet	http_404
 digitalglobe	http_404
