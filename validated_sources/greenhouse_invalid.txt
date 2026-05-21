@@ -5134,7 +5134,6 @@ breakthroughenergy	http_404
 kiavi	no_matching_jobs
 crescendohealth	no_matching_jobs
 vikingglobalinvestors	no_matching_jobs
-gofasti	no_matching_jobs
 medsien	no_matching_jobs
 zeals	no_jobs
 corelight	no_matching_jobs
@@ -5160,7 +5159,6 @@ arkoselabs	no_matching_jobs
 honeathome	no_jobs
 pixocial	no_matching_jobs
 veir	no_matching_jobs
-cortica	no_matching_jobs
 brkz	no_matching_jobs
 code3	no_matching_jobs
 evergreennephrology	no_matching_jobs
@@ -5376,7 +5374,6 @@ abbycare	http_404
 chainguard	no_matching_jobs
 hypr	no_matching_jobs
 targetrwe	no_matching_jobs
-superluminalrx	no_matching_jobs
 agodasandbox	no_matching_jobs
 attainpartners	no_matching_jobs
 relaypayments	no_matching_jobs
@@ -5565,7 +5562,6 @@ charlesandlynnschustermanfamilyphilanthropies	no_jobs
 terranorbitalcorporation	no_matching_jobs
 buftechnologies	no_jobs
 solmentalhealth	no_matching_jobs
-redcellpartners	no_matching_jobs
 aipalette	http_404
 traderepublicbank	no_matching_jobs
 modernanimal	no_matching_jobs
@@ -5863,7 +5859,6 @@ nasstudios	no_matching_jobs
 lacarguy	no_matching_jobs
 myriad360	no_matching_jobs
 audipacific	no_jobs
-trase	no_matching_jobs
 allarahealth	http_404
 metalab	no_matching_jobs
 gcmgrosvenor	no_matching_jobs
@@ -7490,7 +7485,6 @@ brightcove	http_404
 ameelio	no_matching_jobs
 goodr	no_matching_jobs
 braintrust	http_404
-thoughtworksreferral	no_matching_jobs
 butternutbox	no_matching_jobs
 ascend21	no_matching_jobs
 hover	no_matching_jobs
