@@ -310,7 +310,6 @@ fattmerchant	http_404
 payment depot	http_404
 national processing	http_404
 dharma merchant services	http_404
-mistral	no_matching_jobs
 stax	no_jobs
 clearent	http_404
 flagship merchant services	http_404
