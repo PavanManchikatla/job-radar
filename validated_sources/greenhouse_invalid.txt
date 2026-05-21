@@ -5024,7 +5024,6 @@ bruntworkwear	no_matching_jobs
 fanduel	no_matching_jobs
 retool	http_404
 davidzwirnergallery	no_matching_jobs
-spacex	no_matching_jobs
 tropic	http_404
 examplecorpsandbox	no_matching_jobs
 janestreetevents	no_matching_jobs
@@ -5153,7 +5152,6 @@ eclipsyssolutions	no_matching_jobs
 kwaralearn	no_jobs
 cerebral	no_matching_jobs
 celigo	no_matching_jobs
-renaissancelearning-nam	no_matching_jobs
 hiper	no_matching_jobs
 arkoselabs	no_matching_jobs
 honeathome	no_jobs
@@ -5698,7 +5696,6 @@ tigergraph	no_matching_jobs
 riseforfamilies	no_matching_jobs
 presidentssummit	no_matching_jobs
 folxhealth	no_matching_jobs
-openteams	no_matching_jobs
 genuine	no_jobs
 tracylocke	no_jobs
 b12	no_matching_jobs
@@ -7748,7 +7745,6 @@ mozillaai	no_jobs
 vailclinicincdbavailhealthhospital	no_matching_jobs
 launchpadtechnologiesinc	no_matching_jobs
 oneacrefundnigeria	no_matching_jobs
-muonspace	no_matching_jobs
 imubit	no_matching_jobs
 arcaea	no_matching_jobs
 nuvalent	no_matching_jobs
