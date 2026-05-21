@@ -6113,7 +6113,6 @@ ketryx	no_matching_jobs
 nkartatherapeutics	no_matching_jobs
 birdygrey	no_matching_jobs
 brightflag	http_404
-appodeal	no_matching_jobs
 pipetechnologies	http_404
 paystand	no_matching_jobs
 visiersolutionsinc	no_matching_jobs
