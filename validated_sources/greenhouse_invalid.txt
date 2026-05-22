@@ -6021,7 +6021,6 @@ resortpass	no_matching_jobs
 sandiegocommunitypower	no_matching_jobs
 theswiftgroup	http_404
 qualtrics	no_matching_jobs
-scoutmotors	no_matching_jobs
 taxbit	no_matching_jobs
 energysolutions	no_matching_jobs
 careersatkokua	no_matching_jobs
@@ -7166,7 +7165,6 @@ sesolabor	no_matching_jobs
 pismo	http_404
 qualifieddigital	no_matching_jobs
 topcompare	no_matching_jobs
-instridehealth	no_matching_jobs
 tiree	no_matching_jobs
 southshoreskin	no_matching_jobs
 crescent	no_matching_jobs
