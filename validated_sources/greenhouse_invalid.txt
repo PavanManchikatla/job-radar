@@ -5488,7 +5488,6 @@ voter	no_matching_jobs
 mindvalley	http_404
 woodruffsawyer	http_404
 understood	no_matching_jobs
-charterup	no_matching_jobs
 tempus	http_404
 cascadeloans	no_matching_jobs
 kairospower	no_matching_jobs
@@ -6158,7 +6157,6 @@ runelabs	http_404
 copperco	no_matching_jobs
 treasuryprime	no_matching_jobs
 obexp	no_matching_jobs
-talkdesk2	no_matching_jobs
 firstnationalbankofamerica	no_matching_jobs
 mountainsidetreatmentcenter	http_404
 unchainedlabs	no_matching_jobs
@@ -7250,7 +7248,6 @@ unbounce	no_jobs
 jobber	http_404
 ever	no_matching_jobs
 embroker	no_jobs
-invoca	no_matching_jobs
 madano	no_matching_jobs
 worthi	http_404
 aceable	no_matching_jobs
