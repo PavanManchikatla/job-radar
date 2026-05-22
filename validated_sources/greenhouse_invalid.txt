@@ -7206,7 +7206,6 @@ rondoenergy	no_matching_jobs
 avochato	no_matching_jobs
 datavirtuality	http_404
 horacemannservicecorporation	no_matching_jobs
-doordashusa	no_matching_jobs
 pebblepost	no_matching_jobs
 simplifed	no_matching_jobs
 veocorporatecareers	no_matching_jobs
