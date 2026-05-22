@@ -145,7 +145,6 @@ coda	http_404
 kubernetes	http_404
 airtable	no_matching_jobs
 basecamp	http_404
-smartsheet	no_matching_jobs
 openshift	http_404
 mongodb	no_matching_jobs
 teamwork	http_404
@@ -6045,7 +6044,6 @@ insureyourfuturega	no_jobs
 greenplaces	no_jobs
 curative	no_matching_jobs
 soligent	no_matching_jobs
-welbehealth	no_matching_jobs
 lynxtech	no_matching_jobs
 vpawashington	no_matching_jobs
 anchanto	no_matching_jobs
