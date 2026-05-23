@@ -6393,7 +6393,6 @@ abclabs	no_matching_jobs
 morganmorganjobsapplynow	no_matching_jobs
 ascendtogether	no_matching_jobs
 oliverplus	http_404
-inkind	no_matching_jobs
 selinicapital	no_matching_jobs
 oceanx	no_matching_jobs
 weedmaps77	no_matching_jobs
