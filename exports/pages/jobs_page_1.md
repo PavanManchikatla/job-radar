@@ -1,9 +1,11 @@
 # Jobs Feed (Page 1/1)
 
-_Last updated: 2026-05-23 05:18 CDT_
+_Last updated: 2026-05-23 08:49 CDT_
 
 | Posted | Company | Title | Location | Source |
 |---|---|---|---|---|
+| 2026-05-23 | scoutmotors | [Lead, AI Engineering](https://job-boards.greenhouse.io/scoutmotors/jobs/5144166007) | Charlotte, North Carolina, United States | greenhouse |
+| 2026-05-23 | shopltk | [Data Analyst](https://job-boards.greenhouse.io/shopltk/jobs/7671051003) | United States | greenhouse |
 | 2026-05-23 | andurilindustries | [People Data Analytics Engineer](https://boards.greenhouse.io/andurilindustries/jobs/4859842007?gh_jid=4859842007) | Costa Mesa, California, United States | greenhouse |
 | 2026-05-23 | andurilindustries | [People Data Analytics Engineer](https://boards.greenhouse.io/andurilindustries/jobs/4918732007?gh_jid=4918732007) | Boston, Massachusetts, United States | greenhouse |
 | 2026-05-23 | appodeal | [Financial Data Analyst](https://job-boards.greenhouse.io/appodeal/jobs/4255957008) | Barcelona, Spain/Parkland, Florida, USA | greenhouse |
@@ -61,7 +63,6 @@ _Last updated: 2026-05-23 05:18 CDT_
 | 2026-05-22 | doordashusa | [Senior Software Engineer, Data Engineering](https://job-boards.greenhouse.io/doordashusa/jobs/6108388) | San Francisco, CA; Sunnyvale, CA, Seattle, WA | greenhouse |
 | 2026-05-22 | mitratech | [Business Intelligence Analyst](https://job-boards.greenhouse.io/mitratech/jobs/7812294) | Remote Mexico | greenhouse |
 | 2026-05-22 | paretocaptiveservicesllc | [Lead Data Analyst](https://job-boards.greenhouse.io/paretocaptiveservicesllc/jobs/4682204006) | Philadelphia, Pennsylvania, United States | greenhouse |
-| 2026-05-22 | scoutmotors | [Lead, AI Engineering](https://job-boards.greenhouse.io/scoutmotors/jobs/5144166007) | Charlotte, North Carolina, United States | greenhouse |
 | 2026-05-22 | tegnainc | [AI Engineer](https://boards.greenhouse.io/tegnainc/jobs/4870922007?gh_jid=4870922007) | Tysons, Virginia, United States | greenhouse |
 | 2026-05-22 | zoominfo | [Principal AI Engineer, Data](https://www.zoominfo.com/careers?gh_jid=8561609002) | Waltham, Massachusetts, United States | greenhouse |
 | 2026-05-22 | renaissancelearning-nam | [Business Intelligence Analyst](https://job-boards.greenhouse.io/renaissancelearning-nam/jobs/5228352008) | Remote - US | greenhouse |
@@ -102,7 +103,6 @@ _Last updated: 2026-05-23 05:18 CDT_
 | 2026-05-22 | twosixtechnologies | [Data Scientist](https://job-boards.greenhouse.io/twosixtechnologies/jobs/5841779004) | Remote, USA | greenhouse |
 | 2026-05-22 | andurilindustries | [Senior Machine Learning Engineer, Sentry Tower](https://boards.greenhouse.io/andurilindustries/jobs/4927589007?gh_jid=4927589007) | Irvine, California, United States; Remote | greenhouse |
 | 2026-05-22 | netbrain | [AI Engineer](https://job-boards.greenhouse.io/netbrain/jobs/5102519007) | Burlington, MA \| Hybrid | greenhouse |
-| 2026-05-22 | shopltk | [Data Analyst](https://job-boards.greenhouse.io/shopltk/jobs/7671051003) | United States | greenhouse |
 | 2026-05-22 | polyai | [Forward Deployed AI Engineer (Must be PST timezone)](https://job-boards.eu.greenhouse.io/polyai/jobs/4796935101) | United States {West Coast} | greenhouse |
 | 2026-05-22 | acquia | [Staff AI Engineer](https://job-boards.greenhouse.io/acquia/jobs/7821888) | Remote-Canada | greenhouse |
 | 2026-05-22 | nimblegravity | [Senior Data Engineer](https://job-boards.greenhouse.io/nimblegravity/jobs/4673138005) | LATAM (Remote) | greenhouse |
@@ -347,10 +347,5 @@ _Last updated: 2026-05-23 05:18 CDT_
 | 2026-05-20 | gympass | [Mid-Level Data Analyst \| Partnerships](https://job-boards.greenhouse.io/gympass/jobs/8506850002) | Brazil (Remote) | greenhouse |
 | 2026-05-20 | zetaglobal | [Data Analyst, Data Cloud Intelligence](https://job-boards.greenhouse.io/zetaglobal/jobs/6000331004) | Remote - US | greenhouse |
 | 2026-05-20 | novacredit | [Senior Data Scientist](https://job-boards.greenhouse.io/novacredit/jobs/4253031009) | New York, NY | greenhouse |
-| 2026-05-20 | aloyoga | [Director of Data Engineering](https://boards.greenhouse.io/aloyoga/jobs/5785945004?gh_jid=5785945004) | Beverly Hills, California, United States | greenhouse |
-| 2026-05-20 | aloyoga | [Senior Data Analyst](https://boards.greenhouse.io/aloyoga/jobs/5833591004?gh_jid=5833591004) | Beverly Hills, California, United States | greenhouse |
-| 2026-05-20 | aloyoga | [Senior Data Scientist](https://boards.greenhouse.io/aloyoga/jobs/5763865004?gh_jid=5763865004) | Beverly Hills, California, United States | greenhouse |
-| 2026-05-20 | physicsx | [Senior Machine Learning Engineer](https://job-boards.eu.greenhouse.io/physicsx/jobs/4678291101) | New York, United States | greenhouse |
-| 2026-05-20 | typeface | [Principal ML Engineer](https://job-boards.greenhouse.io/typeface/jobs/5129777007) | Palo Alto, CA | greenhouse |
 
 [Back to README](../../README.md)
