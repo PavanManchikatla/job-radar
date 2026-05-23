@@ -1,9 +1,10 @@
 # Jobs Feed (Page 1/1)
 
-_Last updated: 2026-05-23 12:25 CDT_
+_Last updated: 2026-05-23 16:18 CDT_
 
 | Posted | Company | Title | Location | Source |
 |---|---|---|---|---|
+| 2026-05-23 | galaxydigitalservices | [Lead Data Engineer](https://job-boards.greenhouse.io/galaxydigitalservices/jobs/5843597004) | New York, NY | greenhouse |
 | 2026-05-23 | inkind | [Data Engineer (AI)](https://job-boards.greenhouse.io/inkind/jobs/5230006008) | Austin, in-person | greenhouse |
 | 2026-05-23 | scoutmotors | [Lead, AI Engineering](https://job-boards.greenhouse.io/scoutmotors/jobs/5144166007) | Charlotte, North Carolina, United States | greenhouse |
 | 2026-05-23 | shopltk | [Data Analyst](https://job-boards.greenhouse.io/shopltk/jobs/7671051003) | United States | greenhouse |
@@ -311,25 +312,5 @@ _Last updated: 2026-05-23 12:25 CDT_
 | 2026-05-20 | stripe | [Data Science Manager](https://stripe.com/jobs/search?gh_jid=7644403) | Seattle, WA OR New York, NY OR Remote North America | greenhouse |
 | 2026-05-20 | stripe | [Data Science Manager, Growth](https://stripe.com/jobs/search?gh_jid=7440963) | Seattle, WA OR New York, NY OR Remote North America | greenhouse |
 | 2026-05-20 | stripe | [Data Scientist](https://stripe.com/jobs/search?gh_jid=7809414) | Seattle, WA | greenhouse |
-| 2026-05-20 | shifttechnology | [Data Scientist / Engineer (Healthcare Payment Integrity)](https://job-boards.greenhouse.io/shifttechnology/jobs/5843676003) | US - Remote | greenhouse |
-| 2026-05-20 | affirm | [Senior Engineering Manager, Machine Learning Platform](https://job-boards.greenhouse.io/affirm/jobs/7705033003) | Remote US | greenhouse |
-| 2026-05-20 | affirm | [Senior Engineering Manager, Machine Learning Platform](https://job-boards.greenhouse.io/affirm/jobs/7705035003) | Remote Canada | greenhouse |
-| 2026-05-20 | hightouch | [Forward Deployed Marketing Data Scientist](https://job-boards.greenhouse.io/hightouch/jobs/5718912004) | Remote (North America) | greenhouse |
-| 2026-05-20 | anthropic | [Research Engineer, Economic Research Data Platform](https://job-boards.greenhouse.io/anthropic/jobs/5071132008) | San Francisco, CA | greenhouse |
-| 2026-05-20 | imc | [Hardware Machine Learning Engineer](https://job-boards.eu.greenhouse.io/imc/jobs/4713602101) | Chicago, United States; New York, United States | greenhouse |
-| 2026-05-20 | iterativehealth | [Staff Data Engineer](https://job-boards.greenhouse.io/iterativehealth/jobs/4666587006) | Cambridge, Massachusetts, United States, New York, New York, United States | greenhouse |
-| 2026-05-20 | iterativehealth | [Staff Data Scientist](https://job-boards.greenhouse.io/iterativehealth/jobs/4666589006) | Cambridge, Massachusetts, United States, New York, New York, United States | greenhouse |
-| 2026-05-20 | clickhouse | [Senior Analytics Engineer, GTM](https://job-boards.greenhouse.io/clickhouse/jobs/6000537004) | San Francisco, USA (Hybrid) | greenhouse |
-| 2026-05-20 | hcesquared | [Lead Data Scientist](https://job-boards.greenhouse.io/hcesquared/jobs/6000039004) | USA Remote | greenhouse |
-| 2026-05-20 | hcesquared | [Principal Data Engineer](https://job-boards.greenhouse.io/hcesquared/jobs/6000086004) | USA Remote | greenhouse |
-| 2026-05-20 | rackner | [AI/ML Engineer  (Active TS/SCI )](https://job-boards.greenhouse.io/rackner/jobs/4676295005) | Dayton, OH | greenhouse |
-| 2026-05-20 | suvoda | [Senior Data Analyst](https://www.suvoda.com/careers/job-openings?gh_jid=8558504002) | Remote - Romania | greenhouse |
-| 2026-05-20 | anthropic | [Applied AI Engineer, Beneficial Deployments](https://job-boards.greenhouse.io/anthropic/jobs/5068226008) | San Francisco, CA \| New York City, NY | greenhouse |
-| 2026-05-20 | clickhouse | [Senior Analytics Engineer, Product](https://job-boards.greenhouse.io/clickhouse/jobs/6000543004) | San Francisco, USA (Hybrid) | greenhouse |
-| 2026-05-20 | biohub | [Postdoctoral Fellow, Transcription Regulation using Genomics and Machine Learning](https://job-boards.greenhouse.io/biohub/jobs/7658780) | New York, NY (Onsite) | greenhouse |
-| 2026-05-20 | knak | [Senior Analytics Engineer](https://boards.greenhouse.io/knak/jobs/4696133005?gh_jid=4696133005) | Remote - Canada | greenhouse |
-| 2026-05-20 | agero | [Lead Data Analyst (Network)](https://www.agero.com/available-jobs?gh_jid=8540226002) | Remote | greenhouse |
-| 2026-05-20 | snorkelai | [Senior Software Engineer - AI / ML](https://job-boards.greenhouse.io/snorkelai/jobs/5971772004) | Redwood City, CA (Hybrid); San Francisco, CA (Hybrid) | greenhouse |
-| 2026-05-20 | wikimedia | [Senior Data Scientist, Ecosystems](https://job-boards.greenhouse.io/wikimedia/jobs/7913716) | Remote | greenhouse |
 
 [Back to README](../../README.md)
