@@ -9502,7 +9502,6 @@ conversica	no_matching_jobs
 conversenow	http_404
 cobaltrobotics	no_matching_jobs
 crypto-banter	no_matching_jobs
-bluelightconsulting	no_matching_jobs
 crypto-innovation	http_404
 crossfit	no_matching_jobs
 curio	http_404

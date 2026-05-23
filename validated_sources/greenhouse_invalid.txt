@@ -5537,7 +5537,6 @@ flipapp	no_matching_jobs
 brooklinen	no_matching_jobs
 theblacktux	http_404
 threeflow	no_jobs
-adaptivebiotechnologies	no_matching_jobs
 wavemm1	no_matching_jobs
 schoolstatus	no_matching_jobs
 woolpert	no_matching_jobs
