@@ -1,3 +1,4 @@
+mistral
 sonatype
 spotify
 sophos
@@ -6,21 +7,21 @@ weride
 loadsmart
 coupa
 oci
-trellis
 plume
 360learning
 3pillarglobal
-aeratechnology
 aisafety
 aofl
 aquabyte
 arsiem
 artera
-bluesight
+bluelightconsulting
 bluespace
+brillio-2
 canarytechnologies
 captivateiq
 cents
+corebts
 disqo
 drivemode
 economicmodeling
@@ -32,10 +33,10 @@ ethenalabs
 everlywell
 extremenetworks
 field-ai
+finquery
 fiscalnote
 foodsmart
 foundation-llm-technologies
-genbio
 gohighlevel
 goodleap
 gopuff
@@ -69,7 +70,6 @@ openx
 panopto
 peerspace
 penumbrainc
-percipient
 playonsports
 plus-2
 pointclickcare
@@ -81,7 +81,6 @@ rigetti
 ro
 smarsh
 steerbridge
-synapticure
 tagup
 tala
 tendo
@@ -98,7 +97,6 @@ whoop
 workwave
 woven-by-toyota
 zippi
-actian
 aeva
 agile-defense
 agiloft
@@ -106,6 +104,7 @@ analyticpartners
 avante
 braviantholdings
 certifid
+cimgroup
 circadiahealth
 civitech
 crumbl
@@ -114,7 +113,9 @@ dadavidson
 daniels-sharpsmart
 datalabusa
 elementsolutions
+enablecomp
 entefy
+erg
 gausslabs
 glass-health-inc
 gridmatic
@@ -129,7 +130,7 @@ kickmaker
 kpler
 life
 mainspringenergy
-mantisinnovation
+miteksystems-2
 modulate
 momenti-inc
 momsmeals
@@ -141,7 +142,6 @@ quokka
 rai
 redhorsecorp
 seerinteractive
-shopreli
 synergyecp
 totalsystech
 trustyou
@@ -151,14 +151,3 @@ unstructuredtechnologies
 visotrust
 wavicledata
 wisdomtree
-enablecomp
-cimgroup
-cyderes
-corebts
-finquery
-protolabs
-miteksystems-2
-mistral
-erg
-brillio-2
-bluelightconsulting
