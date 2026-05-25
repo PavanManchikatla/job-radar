@@ -6243,7 +6243,6 @@ aidashinc	no_matching_jobs
 researchpartnership	no_matching_jobs
 copperhome	no_matching_jobs
 soroco	no_jobs
-vulcanelements	no_matching_jobs
 shunnarahcareers	no_matching_jobs
 dialpad	no_matching_jobs
 seniordoc	no_matching_jobs
@@ -7361,7 +7360,6 @@ simtrabps	no_matching_jobs
 daiyafoodsinc	no_matching_jobs
 radiclehealth	no_matching_jobs
 jackpot	no_matching_jobs
-zyngacareers	no_matching_jobs
 realchemistry	no_matching_jobs
 thousandeyes	no_jobs
 govos	http_404
