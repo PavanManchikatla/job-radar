@@ -1,16 +1,20 @@
 # Jobs Feed (Page 1/1)
 
-_Last updated: 2026-05-25 10:21 CDT_
+_Last updated: 2026-05-25 13:13 CDT_
 
 | Posted | Company | Title | Location | Source |
 |---|---|---|---|---|
+| 2026-05-25 | 3pillarglobal | [Architect / Principal, AI ML Engineer](https://jobs.lever.co/3pillarglobal/e370fac4-8006-4a6d-af39-69ddab23ad57) | United States | lever |
+| 2026-05-25 | leagueinc | [Senior AI Engineer](https://job-boards.greenhouse.io/leagueinc/jobs/5812776004) | Canada - Remote | greenhouse |
+| 2026-05-25 | verisign | [Research Engineer](https://job-boards.greenhouse.io/verisign/jobs/7650739003) | Reston,Virginia,United States | greenhouse |
+| 2026-05-25 | verisign | [Sr Research Engineer](https://job-boards.greenhouse.io/verisign/jobs/7636398003) | Reston,Virginia,United States | greenhouse |
+| 2026-05-25 | affirm | [Machine Learning Engineer II](https://job-boards.greenhouse.io/affirm/jobs/7719653003) | Remote Canada | greenhouse |
+| 2026-05-25 | affirm | [Machine Learning Engineer II](https://job-boards.greenhouse.io/affirm/jobs/7719651003) | Remote US | greenhouse |
 | 2026-05-25 | zyngacareers | [Data Analyst - Player Success](https://job-boards.greenhouse.io/zyngacareers/jobs/5536935004) | Chicago, IL | greenhouse |
 | 2026-05-25 | twilio | [Staff Machine Learning Engineer (L4)](https://job-boards.greenhouse.io/twilio/jobs/7520997) | Remote - India | greenhouse |
 | 2026-05-25 | automatticcareers | [Senior Security Research Engineer](https://job-boards.greenhouse.io/automatticcareers/jobs/7847202) | Remote | greenhouse |
 | 2026-05-25 | abinbev | [Intermediate Data Engineer \| BEES Personalization](https://job-boards.greenhouse.io/abinbev/jobs/7598518002) | Brazil, Remote | greenhouse |
 | 2026-05-25 | inmobi | [Applied Scientist III](https://job-boards.greenhouse.io/inmobi/jobs/7253268) | San Mateo, CA | greenhouse |
-| 2026-05-25 | verisign | [Research Engineer](https://job-boards.greenhouse.io/verisign/jobs/7650739003) | Reston,Virginia,United States | greenhouse |
-| 2026-05-25 | verisign | [Sr Research Engineer](https://job-boards.greenhouse.io/verisign/jobs/7636398003) | Reston,Virginia,United States | greenhouse |
 | 2026-05-25 | scoutmotors | [Lead, AI Engineering](https://job-boards.greenhouse.io/scoutmotors/jobs/5144166007) | Charlotte, North Carolina, United States | greenhouse |
 | 2026-05-25 | vulcanelements | [Data Engineer](https://job-boards.greenhouse.io/vulcanelements/jobs/5216628008) | Research Triangle Park, NC | greenhouse |
 | 2026-05-25 | shopltk | [Data Analyst](https://job-boards.greenhouse.io/shopltk/jobs/7671051003) | United States | greenhouse |
@@ -94,35 +98,5 @@ _Last updated: 2026-05-25 10:21 CDT_
 | 2026-05-22 | paretocaptiveservicesllc | [Lead Data Analyst](https://job-boards.greenhouse.io/paretocaptiveservicesllc/jobs/4682204006) | Philadelphia, Pennsylvania, United States | greenhouse |
 | 2026-05-22 | tegnainc | [AI Engineer](https://boards.greenhouse.io/tegnainc/jobs/4870922007?gh_jid=4870922007) | Tysons, Virginia, United States | greenhouse |
 | 2026-05-22 | zoominfo | [Principal AI Engineer, Data](https://www.zoominfo.com/careers?gh_jid=8561609002) | Waltham, Massachusetts, United States | greenhouse |
-| 2026-05-22 | renaissancelearning-nam | [Business Intelligence Analyst](https://job-boards.greenhouse.io/renaissancelearning-nam/jobs/5228352008) | Remote - US | greenhouse |
-| 2026-05-22 | renttherunway | [Data Analyst III](https://job-boards.greenhouse.io/renttherunway/jobs/7904497) | Brooklyn, NY (Rent the Runway HQ) | greenhouse |
-| 2026-05-22 | renttherunway | [Senior Data Analyst (NYC)](https://job-boards.greenhouse.io/renttherunway/jobs/7480566) | Brooklyn, NY (Rent the Runway HQ) | greenhouse |
-| 2026-05-22 | hextechnologies | [AI Research Engineer, Search and Context](https://hex.tech/careers/5744112004/?gh_jid=5744112004) | SF, NYC, or Remote (US) | greenhouse |
-| 2026-05-22 | riotgames | [Staff ML Engineer, ML Platform - Game Tech Group](https://www.riotgames.com/en/work-with-us/job/7177094?gh_jid=7177094) | Los Angeles, USA | greenhouse |
-| 2026-05-22 | instacart | [Senior Machine Learning Engineer II, Growth Modeling](https://instacart.careers/job/?gh_jid=7566001) | USA - Remote | greenhouse |
-| 2026-05-22 | instridehealth | [Data Engineer II](https://job-boards.greenhouse.io/instridehealth/jobs/4698824005) | Remote, US | greenhouse |
-| 2026-05-22 | ibkr | [Data Engineer (Gen AI)](https://job-boards.greenhouse.io/ibkr/jobs/8365234002) | New York, NY | greenhouse |
-| 2026-05-22 | ibkr | [Senior Data Engineer](https://job-boards.greenhouse.io/ibkr/jobs/8112195002) | Greenwich, CT | greenhouse |
-| 2026-05-22 | amplitude | [Staff AI Engineer](https://job-boards.greenhouse.io/amplitude/jobs/8562414002) | San Francisco, CA | greenhouse |
-| 2026-05-22 | ruelala | [Senior Data Scientist](https://job-boards.greenhouse.io/ruelala/jobs/7954302) | Boston, MA, United States | greenhouse |
-| 2026-05-22 | robinhood | [Data Scientist, ML (Agentic, CX)](https://boards.greenhouse.io/robinhood/jobs/7489476?t=gh_src=&gh_jid=7489476) | Menlo Park, CA; New York, NY | greenhouse |
-| 2026-05-22 | robinhood | [Senior Data Scientist, Fraud](https://boards.greenhouse.io/robinhood/jobs/7412037?t=gh_src=&gh_jid=7412037) | Menlo Park, CA | greenhouse |
-| 2026-05-22 | robinhood | [Senior Data Scientist, ML (Brokerage)](https://boards.greenhouse.io/robinhood/jobs/7482186?t=gh_src=&gh_jid=7482186) | Menlo Park, CA; New York, NY | greenhouse |
-| 2026-05-22 | robinhood | [Senior Software Engineer, Data Engineering](https://boards.greenhouse.io/robinhood/jobs/4738660?t=gh_src=&gh_jid=4738660) | Menlo Park, CA | greenhouse |
-| 2026-05-22 | devtechnology | [Senior Data Analyst](https://job-boards.greenhouse.io/devtechnology/jobs/8555970002) | Tysons Corner, VA | greenhouse |
-| 2026-05-22 | berkadia | [Workforce Data Analyst](https://boards.greenhouse.io/berkadia/jobs/7608467003?gh_jid=7608467003) | Philadelphia, Pennsylvania, United States | greenhouse |
-| 2026-05-22 | twilio | [Senior Manager, Machine Learning](https://job-boards.greenhouse.io/twilio/jobs/7919148) | Remote - India | greenhouse |
-| 2026-05-22 | twilio | [Staff Data Scientist](https://job-boards.greenhouse.io/twilio/jobs/7821458) | Remote - US | greenhouse |
-| 2026-05-22 | twilio | [Staff, Data Scientist](https://job-boards.greenhouse.io/twilio/jobs/7851920) | Remote - US | greenhouse |
-| 2026-05-22 | twilio | [Machine Learning Engineer](https://job-boards.greenhouse.io/twilio/jobs/7702644) | Remote - US | greenhouse |
-| 2026-05-22 | twilio | [Principal Machine Learning & Data Engineer](https://job-boards.greenhouse.io/twilio/jobs/7155492) | Remote - US | greenhouse |
-| 2026-05-22 | twilio | [Staff Analytics Engineer](https://job-boards.greenhouse.io/twilio/jobs/7551660) | Remote - US | greenhouse |
-| 2026-05-22 | twilio | [Staff Machine Learning Engineer](https://job-boards.greenhouse.io/twilio/jobs/7061880) | Remote - US | greenhouse |
-| 2026-05-22 | twilio | [Machine Learning Engineer](https://job-boards.greenhouse.io/twilio/jobs/7059734) | Remote - US | greenhouse |
-| 2026-05-22 | twilio | [Senior Manager, Machine Learning](https://job-boards.greenhouse.io/twilio/jobs/7066029) | Remote - US | greenhouse |
-| 2026-05-22 | globalhealthcareexchangeinc | [Software Engineer III - Knowledge Representation (Ontology and ML Engineer)](https://job-boards.greenhouse.io/globalhealthcareexchangeinc/jobs/4693981005) | Office Location or Remote - USA | greenhouse |
-| 2026-05-22 | globalhealthcareexchangeinc | [Software Engineer III - Knowledge Representation (Ontology and ML Engineer)](https://job-boards.greenhouse.io/globalhealthcareexchangeinc/jobs/4696228005) | Office Location or Remote - USA | greenhouse |
-| 2026-05-22 | globalhealthcareexchangeinc | [Technical Data Analyst III](https://job-boards.greenhouse.io/globalhealthcareexchangeinc/jobs/4675115005) | Office Location or Remote - USA | greenhouse |
-| 2026-05-22 | octave | [Sr. Data Analyst, Providers](https://boards.greenhouse.io/octave/jobs/8457080002?gh_jid=8457080002) | Virtual (Remote) | greenhouse |
 
 [Back to README](../../README.md)
