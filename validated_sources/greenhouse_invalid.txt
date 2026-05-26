@@ -6492,7 +6492,6 @@ elemy	http_404
 plushcare	http_404
 gostudent	no_matching_jobs
 vac	http_404
-customerio	no_matching_jobs
 carbonfuture	no_matching_jobs
 industrious	http_404
 betsierivervet	no_jobs

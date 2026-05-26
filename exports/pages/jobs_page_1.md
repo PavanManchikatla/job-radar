@@ -1,13 +1,18 @@
 # Jobs Feed (Page 1/1)
 
-_Last updated: 2026-05-25 22:28 CDT_
+_Last updated: 2026-05-26 03:13 CDT_
 
 | Posted | Company | Title | Location | Source |
 |---|---|---|---|---|
-| 2026-05-26 | devtechnology | [Senior Data Analyst](https://job-boards.greenhouse.io/devtechnology/jobs/8555970002) | Tysons Corner, VA | greenhouse |
-| 2026-05-26 | veracode | [Principal AI Researcher](https://www.veracode.com/career/job?gh_jid=8355110002) | Remote, Europe; Remote, UK; Remote, US | greenhouse |
+| 2026-05-26 | ibkr | [Data Engineer (Gen AI)](https://job-boards.greenhouse.io/ibkr/jobs/8365234002) | New York, NY | greenhouse |
+| 2026-05-26 | ibkr | [Senior Data Engineer](https://job-boards.greenhouse.io/ibkr/jobs/8112195002) | Greenwich, CT | greenhouse |
+| 2026-05-26 | klaviyo | [Software Engineer II - Analytics Data Engineering](https://www.klaviyo.com/careers/jobs?gh_jid=7669291003) | Boston, MA | greenhouse |
+| 2026-05-26 | klaviyo | [Senior Software Engineer - Analytics Data Engineering](https://www.klaviyo.com/careers/jobs?gh_jid=7564587003) | Boston, MA | greenhouse |
 | 2026-05-26 | verisign | [Research Engineer](https://job-boards.greenhouse.io/verisign/jobs/7650739003) | Reston,Virginia,United States | greenhouse |
 | 2026-05-26 | verisign | [Sr Research Engineer](https://job-boards.greenhouse.io/verisign/jobs/7636398003) | Reston,Virginia,United States | greenhouse |
+| 2026-05-26 | customerio | [Senior Data Scientist](https://job-boards.greenhouse.io/customerio/jobs/7956880) | Americas Remote | greenhouse |
+| 2026-05-26 | devtechnology | [Senior Data Analyst](https://job-boards.greenhouse.io/devtechnology/jobs/8555970002) | Tysons Corner, VA | greenhouse |
+| 2026-05-26 | veracode | [Principal AI Researcher](https://www.veracode.com/career/job?gh_jid=8355110002) | Remote, Europe; Remote, UK; Remote, US | greenhouse |
 | 2026-05-25 | tegnainc | [AI Engineer](https://boards.greenhouse.io/tegnainc/jobs/4870922007?gh_jid=4870922007) | Tysons, Virginia, United States | greenhouse |
 | 2026-05-25 | dataiku | [Generative AI Engineer](https://job-boards.greenhouse.io/dataiku/jobs/6002762004) | United States, New York | greenhouse |
 | 2026-05-25 | chelseaavondale | [Research Scientist](https://job-boards.greenhouse.io/chelseaavondale/jobs/4605201006) | Remote, Canada | greenhouse |
@@ -65,7 +70,5 @@ _Last updated: 2026-05-25 22:28 CDT_
 | 2026-05-24 | scm | [Senior Quantitative Researcher Equities](https://job-boards.greenhouse.io/scm/jobs/1929651) | Radnor, PA | greenhouse |
 | 2026-05-23 | galaxydigitalservices | [Lead Data Engineer](https://job-boards.greenhouse.io/galaxydigitalservices/jobs/5843597004) | New York, NY | greenhouse |
 | 2026-05-23 | inkind | [Data Engineer (AI)](https://job-boards.greenhouse.io/inkind/jobs/5230006008) | Austin, in-person | greenhouse |
-| 2026-05-23 | appodeal | [Financial Data Analyst](https://job-boards.greenhouse.io/appodeal/jobs/4255957008) | Barcelona, Spain/Parkland, Florida, USA | greenhouse |
-| 2026-05-23 | gofasti | [1097- Data Analyst](https://careers.gofasti.com/job-application/6005246004?gh_jid=6005246004) | Remote | greenhouse |
 
 [Back to README](../../README.md)
