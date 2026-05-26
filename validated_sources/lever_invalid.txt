@@ -10617,7 +10617,6 @@ controlhub	http_404
 quadranthealth	http_404
 kodo	http_404
 quadrant-health	http_404
-wpromote	no_matching_jobs
 topkey	http_404
 pangeaapp	http_404
 anima	http_404
