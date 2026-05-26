@@ -124,7 +124,6 @@ vercel	http_404
 fly.io	http_404
 glitch	http_404
 codesandbox	http_404
-outreach	no_matching_jobs
 replit	http_404
 codespaces	http_404
 coder	http_404
@@ -9705,7 +9704,6 @@ joyrideautos	no_matching_jobs
 kyverna	http_404
 jiostar	no_matching_jobs
 kraken123	no_matching_jobs
-jetsupport	no_matching_jobs
 last-energy	no_matching_jobs
 kpaonline	no_matching_jobs
 knix	no_matching_jobs
@@ -10154,7 +10152,6 @@ circuithub	http_404
 onesignal	http_404
 streak	http_404
 y	http_404
-zencore	no_matching_jobs
 sift	http_404
 ycombinator	http_404
 zerohomes	no_matching_jobs
