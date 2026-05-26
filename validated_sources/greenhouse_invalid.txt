@@ -5522,7 +5522,6 @@ hellobackpack	no_matching_jobs
 dandelionenergy	http_404
 eositsolutions	no_matching_jobs
 hovercraft	no_matching_jobs
-scopely	no_matching_jobs
 mcewan copper	http_404
 basepowercompany	http_404
 arcdev	http_404
@@ -6915,7 +6914,6 @@ bluestaq	no_matching_jobs
 kreativekids	no_jobs
 lambcareers	no_matching_jobs
 fosphamarketing	no_matching_jobs
-osano	no_matching_jobs
 pay2dc	no_matching_jobs
 smartypantsvitamins	no_jobs
 visia	no_matching_jobs
@@ -8696,7 +8694,6 @@ dept	no_matching_jobs
 ujet	no_matching_jobs
 denverbroncosteamllc	no_matching_jobs
 lumahealth	no_matching_jobs
-atek	no_matching_jobs
 spotter	no_matching_jobs
 wellsaidlabs	http_404
 traveloka	http_404

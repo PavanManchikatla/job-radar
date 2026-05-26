@@ -2846,7 +2846,6 @@ microsoft dynamics	http_400
 hubspot	no_postings
 zoho	no_postings
 zendesk	no_postings
-servicenow	no_matching_jobs
 float	no_postings
 forecast	no_postings
 resource guru	http_400
@@ -4116,7 +4115,6 @@ lear	no_postings
 yazaki	no_postings
 sumitomo	no_postings
 toyoda gosei	http_400
-continental	no_matching_jobs
 koito	no_postings
 jtekt	no_postings
 bridgestone	no_postings
