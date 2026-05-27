@@ -7641,7 +7641,6 @@ successacademycharterschool	no_matching_jobs
 gohealth	no_jobs
 digitalfemsa	http_404
 ridedott-ground-roles	http_404
-cellanome	no_matching_jobs
 tangogameworks	no_matching_jobs
 logiwacareers	no_matching_jobs
 buildingdecarbonizationcoalition	no_jobs
@@ -8274,7 +8273,6 @@ terremotobiosciencesinc	no_matching_jobs
 abacusinsights	no_matching_jobs
 metronome	no_matching_jobs
 innovecs	no_matching_jobs
-themotleyfool	no_matching_jobs
 standardmetrics	no_matching_jobs
 apiiro	no_matching_jobs
 hopin	http_404

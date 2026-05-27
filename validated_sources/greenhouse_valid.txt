@@ -645,3 +645,5 @@ cloverhealth
 scopely
 osano
 atek
+themotleyfool
+cellanome
