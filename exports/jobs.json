@@ -1,8 +1,464 @@
 {
-  "generated_at": "2026-05-27T18:56:34.003238+00:00",
+  "generated_at": "2026-05-27T22:23:12.726880+00:00",
   "timezone": "America/Chicago",
-  "count": 282,
+  "count": 314,
   "jobs": [
+    {
+      "source": "greenhouse",
+      "job_id": "5126634007",
+      "title": "Senior Machine Learning Engineer",
+      "company": "andurilindustries",
+      "location": "Fort Collins, Colorado, United States",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5126634007?gh_jid=5126634007",
+      "posted_at": "2026-05-27T21:29:38+00:00",
+      "first_seen_at": "2026-05-27T21:56:25.240941+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
+      "score": 0
+    },
+    {
+      "source": "greenhouse",
+      "job_id": "8394603002",
+      "title": "Lead GTM Analytics Engineer",
+      "company": "digicert",
+      "location": "United States - Remote",
+      "url": "https://www.digicert.com/careers/?gh_jid=8394603002",
+      "posted_at": "2026-05-27T21:04:01+00:00",
+      "first_seen_at": "2026-05-27T21:52:13.712101+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
+      "score": 2
+    },
+    {
+      "source": "greenhouse",
+      "job_id": "7875067",
+      "title": "Senior Analytics Engineer, Business Intelligence",
+      "company": "clear",
+      "location": "New York, New York, United States",
+      "url": "https://job-boards.greenhouse.io/clear/jobs/7875067",
+      "posted_at": "2026-05-27T20:44:47+00:00",
+      "first_seen_at": "2026-05-27T21:55:01.761315+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
+      "score": 0
+    },
+    {
+      "source": "greenhouse",
+      "job_id": "8567759002",
+      "title": "Senior Finance Analytics Engineer, AI Native",
+      "company": "life360",
+      "location": "Remote, USA",
+      "url": "https://job-boards.greenhouse.io/life360/jobs/8567759002",
+      "posted_at": "2026-05-27T20:42:12+00:00",
+      "first_seen_at": "2026-05-27T21:57:30.604630+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
+      "score": 2
+    },
+    {
+      "source": "greenhouse",
+      "job_id": "4699761005",
+      "title": "Machine Learning Scientist, Algorithmic Recommendations (Email Targeting)",
+      "company": "thenewyorktimes",
+      "location": "New York, NY",
+      "url": "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4699761005",
+      "posted_at": "2026-05-27T20:37:51+00:00",
+      "first_seen_at": "2026-05-27T21:53:22.142828+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
+      "score": 1
+    },
+    {
+      "source": "greenhouse",
+      "job_id": "7318478",
+      "title": "Senior Analytics Engineer",
+      "company": "robinhood",
+      "location": "Menlo Park, CA",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/7318478?t=gh_src=&gh_jid=7318478",
+      "posted_at": "2026-05-27T20:32:47+00:00",
+      "first_seen_at": "2026-05-27T21:52:19.127514+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
+      "score": 0
+    },
+    {
+      "source": "greenhouse",
+      "job_id": "4699969005",
+      "title": "Senior Consultant Data Analyst",
+      "company": "excella",
+      "location": "Arlington, Virginia, United States, Remote",
+      "url": "https://job-boards.greenhouse.io/excella/jobs/4699969005",
+      "posted_at": "2026-05-27T20:19:12+00:00",
+      "first_seen_at": "2026-05-27T21:54:22.153673+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
+      "score": 2
+    },
+    {
+      "source": "greenhouse",
+      "job_id": "7339890",
+      "title": "Research Engineer, Materials Science",
+      "company": "deepmind",
+      "location": "Mountain View, California, US",
+      "url": "https://job-boards.greenhouse.io/deepmind/jobs/7339890",
+      "posted_at": "2026-05-27T19:59:09+00:00",
+      "first_seen_at": "2026-05-27T21:52:12.544031+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
+      "score": 1
+    },
+    {
+      "source": "greenhouse",
+      "job_id": "5076453007",
+      "title": "Data Engineer",
+      "company": "defenseunicorns",
+      "location": "United States - Remote",
+      "url": "https://job-boards.greenhouse.io/defenseunicorns/jobs/5076453007",
+      "posted_at": "2026-05-27T19:56:25+00:00",
+      "first_seen_at": "2026-05-27T21:57:15.598786+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
+      "score": 3
+    },
+    {
+      "source": "greenhouse",
+      "job_id": "7617545002",
+      "title": "Data Engineer",
+      "company": "inspire11",
+      "location": "Chicago, IL",
+      "url": "https://job-boards.greenhouse.io/inspire11/jobs/7617545002",
+      "posted_at": "2026-05-27T19:55:49+00:00",
+      "first_seen_at": "2026-05-27T21:55:20.970946+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
+      "score": 1
+    },
+    {
+      "source": "greenhouse",
+      "job_id": "7658481002",
+      "title": "Data Analyst",
+      "company": "inspire11",
+      "location": "Chicago, IL",
+      "url": "https://job-boards.greenhouse.io/inspire11/jobs/7658481002",
+      "posted_at": "2026-05-27T19:55:05+00:00",
+      "first_seen_at": "2026-05-27T21:55:20.970946+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
+      "score": 1
+    },
+    {
+      "source": "greenhouse",
+      "job_id": "8402813002",
+      "title": "Applied Scientist- Pricing, Dynamic Pricing & Offer Selection",
+      "company": "lyft",
+      "location": "San Francisco, CA",
+      "url": "https://app.careerpuck.com/job-board/lyft/job/8402813002?gh_jid=8402813002",
+      "posted_at": "2026-05-27T19:43:39+00:00",
+      "first_seen_at": "2026-05-27T21:54:43.759171+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
+      "score": 1
+    },
+    {
+      "source": "greenhouse",
+      "job_id": "8403370002",
+      "title": "Applied Scientist- Pricing, Dynamic Pricing & Offer Selection",
+      "company": "lyft",
+      "location": "New York, NY",
+      "url": "https://app.careerpuck.com/job-board/lyft/job/8403370002?gh_jid=8403370002",
+      "posted_at": "2026-05-27T19:43:39+00:00",
+      "first_seen_at": "2026-05-27T21:54:43.759171+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
+      "score": 1
+    },
+    {
+      "source": "greenhouse",
+      "job_id": "8514400002",
+      "title": "Data Analyst - Global Growth Luxury Strategy",
+      "company": "lyft",
+      "location": "New York, NY",
+      "url": "https://app.careerpuck.com/job-board/lyft/job/8514400002?gh_jid=8514400002",
+      "posted_at": "2026-05-27T19:43:39+00:00",
+      "first_seen_at": "2026-05-27T21:54:43.759171+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
+      "score": 1
+    },
+    {
+      "source": "greenhouse",
+      "job_id": "8504137002",
+      "title": "Data Science Manager, Machine Learning - Lyft Ads",
+      "company": "lyft",
+      "location": "New York, NY",
+      "url": "https://app.careerpuck.com/job-board/lyft/job/8504137002?gh_jid=8504137002",
+      "posted_at": "2026-05-27T19:43:39+00:00",
+      "first_seen_at": "2026-05-27T21:54:43.759171+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
+      "score": 0
+    },
+    {
+      "source": "greenhouse",
+      "job_id": "8503999002",
+      "title": "Data Science Manager, Machine Learning - Lyft Ads",
+      "company": "lyft",
+      "location": "San Francisco, CA",
+      "url": "https://app.careerpuck.com/job-board/lyft/job/8503999002?gh_jid=8503999002",
+      "posted_at": "2026-05-27T19:43:39+00:00",
+      "first_seen_at": "2026-05-27T21:54:43.759171+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
+      "score": 0
+    },
+    {
+      "source": "greenhouse",
+      "job_id": "8448175002",
+      "title": "Data Science Manager, Mapping",
+      "company": "lyft",
+      "location": "San Francisco, CA",
+      "url": "https://app.careerpuck.com/job-board/lyft/job/8448175002?gh_jid=8448175002",
+      "posted_at": "2026-05-27T19:43:39+00:00",
+      "first_seen_at": "2026-05-27T21:54:43.759171+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
+      "score": 0
+    },
+    {
+      "source": "greenhouse",
+      "job_id": "8335733002",
+      "title": "Data Scientist, Algorithms, Optimization - Fulfillment",
+      "company": "lyft",
+      "location": "New York, NY",
+      "url": "https://app.careerpuck.com/job-board/lyft/job/8335733002?gh_jid=8335733002",
+      "posted_at": "2026-05-27T19:43:39+00:00",
+      "first_seen_at": "2026-05-27T21:54:43.759171+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
+      "score": 1
+    },
+    {
+      "source": "greenhouse",
+      "job_id": "8536085002",
+      "title": "Data Scientist, Algorithms, Optimization - Fulfillment",
+      "company": "lyft",
+      "location": "San Francisco, CA",
+      "url": "https://app.careerpuck.com/job-board/lyft/job/8536085002?gh_jid=8536085002",
+      "posted_at": "2026-05-27T19:43:39+00:00",
+      "first_seen_at": "2026-05-27T21:54:43.759171+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
+      "score": 1
+    },
+    {
+      "source": "greenhouse",
+      "job_id": "8335715002",
+      "title": "Data Scientist, Algorithms, Optimization - Fulfillment",
+      "company": "lyft",
+      "location": "Seattle, WA",
+      "url": "https://app.careerpuck.com/job-board/lyft/job/8335715002?gh_jid=8335715002",
+      "posted_at": "2026-05-27T19:43:39+00:00",
+      "first_seen_at": "2026-05-27T21:54:43.759171+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
+      "score": 1
+    },
+    {
+      "source": "greenhouse",
+      "job_id": "8402782002",
+      "title": "Data Scientist, Supply and Operations Technology, Lyft Urban Solutions",
+      "company": "lyft",
+      "location": "New York, NY",
+      "url": "https://app.careerpuck.com/job-board/lyft/job/8402782002?gh_jid=8402782002",
+      "posted_at": "2026-05-27T19:43:39+00:00",
+      "first_seen_at": "2026-05-27T21:54:43.759171+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
+      "score": 1
+    },
+    {
+      "source": "greenhouse",
+      "job_id": "8513769002",
+      "title": "Machine Learning Engineer, Lyft Business",
+      "company": "lyft",
+      "location": "New York, NY; San Francisco, CA",
+      "url": "https://app.careerpuck.com/job-board/lyft/job/8513769002?gh_jid=8513769002",
+      "posted_at": "2026-05-27T19:43:39+00:00",
+      "first_seen_at": "2026-05-27T21:54:43.759171+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
+      "score": 1
+    },
+    {
+      "source": "greenhouse",
+      "job_id": "8477773002",
+      "title": "Senior Data Scientist, Decisions - Risk",
+      "company": "lyft",
+      "location": "New York, NY",
+      "url": "https://app.careerpuck.com/job-board/lyft/job/8477773002?gh_jid=8477773002",
+      "posted_at": "2026-05-27T19:43:39+00:00",
+      "first_seen_at": "2026-05-27T21:54:43.759171+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
+      "score": 0
+    },
+    {
+      "source": "greenhouse",
+      "job_id": "8477561002",
+      "title": "Senior Data Scientist, Decisions - Risk",
+      "company": "lyft",
+      "location": "San Francisco, CA",
+      "url": "https://app.careerpuck.com/job-board/lyft/job/8477561002?gh_jid=8477561002",
+      "posted_at": "2026-05-27T19:43:39+00:00",
+      "first_seen_at": "2026-05-27T21:54:43.759171+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
+      "score": 0
+    },
+    {
+      "source": "greenhouse",
+      "job_id": "8483708002",
+      "title": "Senior Data Scientist - Optimization, Central Market Management & AI",
+      "company": "lyft",
+      "location": "San Francisco, CA",
+      "url": "https://app.careerpuck.com/job-board/lyft/job/8483708002?gh_jid=8483708002",
+      "posted_at": "2026-05-27T19:43:39+00:00",
+      "first_seen_at": "2026-05-27T21:54:43.759171+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
+      "score": 0
+    },
+    {
+      "source": "greenhouse",
+      "job_id": "8483867002",
+      "title": "Senior Data Scientist - Optimization, Central Market Management & AI",
+      "company": "lyft",
+      "location": "New York, NY",
+      "url": "https://app.careerpuck.com/job-board/lyft/job/8483867002?gh_jid=8483867002",
+      "posted_at": "2026-05-27T19:43:39+00:00",
+      "first_seen_at": "2026-05-27T21:54:43.759171+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
+      "score": 0
+    },
+    {
+      "source": "greenhouse",
+      "job_id": "8355945002",
+      "title": "Senior Data Scientist, Rider New Products",
+      "company": "lyft",
+      "location": "San Francisco, CA",
+      "url": "https://app.careerpuck.com/job-board/lyft/job/8355945002?gh_jid=8355945002",
+      "posted_at": "2026-05-27T19:43:39+00:00",
+      "first_seen_at": "2026-05-27T21:54:43.759171+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
+      "score": 0
+    },
+    {
+      "source": "greenhouse",
+      "job_id": "8355960002",
+      "title": "Senior Data Scientist, Rider New Products",
+      "company": "lyft",
+      "location": "New York, NY",
+      "url": "https://app.careerpuck.com/job-board/lyft/job/8355960002?gh_jid=8355960002",
+      "posted_at": "2026-05-27T19:43:39+00:00",
+      "first_seen_at": "2026-05-27T21:54:43.759171+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
+      "score": 0
+    },
+    {
+      "source": "greenhouse",
+      "job_id": "8430552002",
+      "title": "Senior Machine Learning Engineer, Recommendations",
+      "company": "lyft",
+      "location": "San Francisco, CA",
+      "url": "https://app.careerpuck.com/job-board/lyft/job/8430552002?gh_jid=8430552002",
+      "posted_at": "2026-05-27T19:43:39+00:00",
+      "first_seen_at": "2026-05-27T21:54:43.759171+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
+      "score": 0
+    },
+    {
+      "source": "greenhouse",
+      "job_id": "6003007004",
+      "title": "Associate Research Scientist, Real World Evidence",
+      "company": "precisionaq",
+      "location": "Remote, United States",
+      "url": "https://job-boards.greenhouse.io/precisionaq/jobs/6003007004",
+      "posted_at": "2026-05-27T19:23:30+00:00",
+      "first_seen_at": "2026-05-27T21:56:22.183478+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
+      "score": 3
+    },
+    {
+      "source": "greenhouse",
+      "job_id": "6003005004",
+      "title": "Associate Research Scientist, Real World Evidence",
+      "company": "precisionmedicinegroup",
+      "location": "Remote, United States",
+      "url": "https://job-boards.greenhouse.io/precisionmedicinegroup/jobs/6003005004",
+      "posted_at": "2026-05-27T19:23:29+00:00",
+      "first_seen_at": "2026-05-27T21:55:20.279162+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
+      "score": 3
+    },
+    {
+      "source": "greenhouse",
+      "job_id": "7550959",
+      "title": "Senior Applied Scientist",
+      "company": "guild",
+      "location": "United States",
+      "url": "https://www.guild.com/open-positions-at-guild?gh_jid=7550959",
+      "posted_at": "2026-05-27T19:23:01+00:00",
+      "first_seen_at": "2026-05-27T21:58:23.596089+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
+      "score": 0
+    },
+    {
+      "source": "greenhouse",
+      "job_id": "7736643",
+      "title": "Director of Data Engineering",
+      "company": "philo",
+      "location": "San Francisco, CA, Brooklyn, NY, Cambridge, MA or remote within the U.S.",
+      "url": "https://job-boards.greenhouse.io/philo/jobs/7736643",
+      "posted_at": "2026-05-27T19:07:23+00:00",
+      "first_seen_at": "2026-05-27T21:53:09.533086+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
+      "score": 3
+    },
+    {
+      "source": "lever",
+      "job_id": "5f36d307-1d49-4591-a203-8fb6ea9c10d5",
+      "title": "Business Intelligence Sr Data Analyst",
+      "company": "openx",
+      "location": "US - Remote",
+      "url": "https://jobs.lever.co/openx/5f36d307-1d49-4591-a203-8fb6ea9c10d5",
+      "posted_at": "2026-05-27T19:05:50.692000+00:00",
+      "first_seen_at": "2026-05-27T21:58:52.627832+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
+      "score": 3
+    },
+    {
+      "source": "greenhouse",
+      "job_id": "7650739003",
+      "title": "Research Engineer",
+      "company": "verisign",
+      "location": "Reston,Virginia,United States",
+      "url": "https://job-boards.greenhouse.io/verisign/jobs/7650739003",
+      "posted_at": "2026-05-27T19:00:41+00:00",
+      "first_seen_at": "2026-05-27T21:52:34.123802+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
+      "score": 1
+    },
+    {
+      "source": "greenhouse",
+      "job_id": "7636398003",
+      "title": "Sr Research Engineer ",
+      "company": "verisign",
+      "location": "Reston,Virginia,United States",
+      "url": "https://job-boards.greenhouse.io/verisign/jobs/7636398003",
+      "posted_at": "2026-05-27T19:00:40+00:00",
+      "first_seen_at": "2026-05-27T21:52:34.123802+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
+      "score": 1
+    },
+    {
+      "source": "greenhouse",
+      "job_id": "7961233",
+      "title": "Senior Data Analyst, Data Analytics ",
+      "company": "current81",
+      "location": "New York, NY",
+      "url": "https://current.com/careers/open-positions/?id=7961233&gh_jid=7961233",
+      "posted_at": "2026-05-27T18:50:50+00:00",
+      "first_seen_at": "2026-05-27T21:53:34.137865+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
+      "score": 0
+    },
+    {
+      "source": "greenhouse",
+      "job_id": "8555703002",
+      "title": "Specialist Solutions Architect - Data Engineering & Warehousing",
+      "company": "databricks",
+      "location": "United States",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8555703002",
+      "posted_at": "2026-05-27T18:47:48+00:00",
+      "first_seen_at": "2026-05-27T21:52:50.976115+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
+      "score": 1
+    },
     {
       "source": "lever",
       "job_id": "a4b3fd9c-a416-48ff-9227-7f08a90f478f",
@@ -11,9 +467,69 @@
       "location": "United States",
       "url": "https://jobs.lever.co/vida/a4b3fd9c-a416-48ff-9227-7f08a90f478f",
       "posted_at": "2026-05-27T18:44:49.638000+00:00",
-      "first_seen_at": "2026-05-27T18:50:50.192358+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:59:48.516769+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 3
+    },
+    {
+      "source": "greenhouse",
+      "job_id": "8567449002",
+      "title": "Data Engineer \u2013 External Data Integrations",
+      "company": "otrcapital1",
+      "location": "Roswell, GA",
+      "url": "https://job-boards.greenhouse.io/otrcapital1/jobs/8567449002",
+      "posted_at": "2026-05-27T18:43:41+00:00",
+      "first_seen_at": "2026-05-27T22:01:33.175891+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
+      "score": 1
+    },
+    {
+      "source": "greenhouse",
+      "job_id": "7749867003",
+      "title": "AI/Machine Learning Engineer",
+      "company": "oddball",
+      "location": "Remote",
+      "url": "https://job-boards.greenhouse.io/oddball/jobs/7749867003",
+      "posted_at": "2026-05-27T18:40:26+00:00",
+      "first_seen_at": "2026-05-27T22:03:46.740502+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
+      "score": 3
+    },
+    {
+      "source": "greenhouse",
+      "job_id": "4121283009",
+      "title": "Senior Data Scientist",
+      "company": "attentive",
+      "location": "San Francisco, CA",
+      "url": "https://job-boards.greenhouse.io/attentive/jobs/4121283009",
+      "posted_at": "2026-05-27T18:36:19+00:00",
+      "first_seen_at": "2026-05-27T21:58:05.482514+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
+      "score": 0
+    },
+    {
+      "source": "greenhouse",
+      "job_id": "7550955003",
+      "title": "AI Engineer",
+      "company": "nextinsurance66",
+      "location": "Boston, MA",
+      "url": "https://job-boards.greenhouse.io/nextinsurance66/jobs/7550955003",
+      "posted_at": "2026-05-27T18:33:09+00:00",
+      "first_seen_at": "2026-05-27T21:53:12.533604+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
+      "score": 1
+    },
+    {
+      "source": "greenhouse",
+      "job_id": "4650884006",
+      "title": "Sr. Data Engineer",
+      "company": "pitchbookdata",
+      "location": "Seattle, Washington, United States",
+      "url": "https://job-boards.greenhouse.io/pitchbookdata/jobs/4650884006",
+      "posted_at": "2026-05-27T18:32:50+00:00",
+      "first_seen_at": "2026-05-27T21:52:56.326162+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
+      "score": 1
     },
     {
       "source": "greenhouse",
@@ -23,21 +539,9 @@
       "location": "Fully Remote - Based in USA",
       "url": "https://job-boards.greenhouse.io/bluewaterthinking/jobs/4684767006",
       "posted_at": "2026-05-27T18:12:38+00:00",
-      "first_seen_at": "2026-05-27T18:38:00.824283+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:58:19.221791+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 2
-    },
-    {
-      "source": "greenhouse",
-      "job_id": "7550955003",
-      "title": "AI Engineer",
-      "company": "nextinsurance66",
-      "location": "Boston, MA",
-      "url": "https://job-boards.greenhouse.io/nextinsurance66/jobs/7550955003",
-      "posted_at": "2026-05-27T18:11:16+00:00",
-      "first_seen_at": "2026-05-27T18:26:27.164279+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
-      "score": 1
     },
     {
       "source": "greenhouse",
@@ -47,8 +551,8 @@
       "location": "Salt Lake City, Utah, United States",
       "url": "https://job-boards.greenhouse.io/icapitalnetwork/jobs/8530256002",
       "posted_at": "2026-05-27T18:04:51+00:00",
-      "first_seen_at": "2026-05-27T18:30:20.039218+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:56:36.596731+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 1
     },
     {
@@ -59,21 +563,9 @@
       "location": "New York, New York, United States",
       "url": "https://job-boards.greenhouse.io/icapitalnetwork/jobs/8457208002",
       "posted_at": "2026-05-27T18:04:47+00:00",
-      "first_seen_at": "2026-05-27T18:30:20.039218+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:56:36.596731+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 1
-    },
-    {
-      "source": "greenhouse",
-      "job_id": "8390713002",
-      "title": "Analytics and Business Intelligence - Assistant Vice President",
-      "company": "icapitalnetwork",
-      "location": "Salt Lake City, Utah, United States",
-      "url": "https://job-boards.greenhouse.io/icapitalnetwork/jobs/8390713002",
-      "posted_at": "2026-05-27T18:04:44+00:00",
-      "first_seen_at": "2026-05-27T18:30:20.039218+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
-      "score": 0
     },
     {
       "source": "greenhouse",
@@ -83,8 +575,8 @@
       "location": "Pittsburgh, PA, Palo Alto, CA, Detroit, MI",
       "url": "https://job-boards.greenhouse.io/latitude/jobs/7947434",
       "posted_at": "2026-05-27T18:02:50+00:00",
-      "first_seen_at": "2026-05-27T18:30:49.448586+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:57:34.812187+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 0
     },
     {
@@ -95,8 +587,8 @@
       "location": "Remote - United States",
       "url": "https://cribl.io/job-detail/?gh_jid=5979543004",
       "posted_at": "2026-05-27T18:02:31+00:00",
-      "first_seen_at": "2026-05-27T18:29:52.418697+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:56:37.795685+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 3
     },
     {
@@ -107,8 +599,8 @@
       "location": "Columbia, MO (Headquarters)",
       "url": "https://www.equipmentshare.com/careers/openings/?gh_jid=7747059",
       "posted_at": "2026-05-27T17:56:01+00:00",
-      "first_seen_at": "2026-05-27T18:29:28.626840+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:56:09.002031+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 1
     },
     {
@@ -119,8 +611,8 @@
       "location": "Columbia, MO (Headquarters)",
       "url": "https://www.equipmentshare.com/careers/openings/?gh_jid=7747058",
       "posted_at": "2026-05-27T17:56:01+00:00",
-      "first_seen_at": "2026-05-27T18:29:28.626840+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:56:09.002031+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 1
     },
     {
@@ -131,8 +623,8 @@
       "location": "Columbia, MO (Headquarters)",
       "url": "https://www.equipmentshare.com/careers/openings/?gh_jid=6907590",
       "posted_at": "2026-05-27T17:56:01+00:00",
-      "first_seen_at": "2026-05-27T18:29:28.626840+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:56:09.002031+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 1
     },
     {
@@ -143,8 +635,8 @@
       "location": "Kansas City, MO",
       "url": "https://www.equipmentshare.com/careers/openings/?gh_jid=7942351",
       "posted_at": "2026-05-27T17:56:01+00:00",
-      "first_seen_at": "2026-05-27T18:29:28.626840+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:56:09.002031+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 1
     },
     {
@@ -155,8 +647,8 @@
       "location": "Chicago, IL (Southwest)",
       "url": "https://www.equipmentshare.com/careers/openings/?gh_jid=6900544",
       "posted_at": "2026-05-27T17:56:01+00:00",
-      "first_seen_at": "2026-05-27T18:29:28.626840+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:56:09.002031+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 1
     },
     {
@@ -167,8 +659,8 @@
       "location": "Columbia, MO (Headquarters)",
       "url": "https://www.equipmentshare.com/careers/openings/?gh_jid=7525159",
       "posted_at": "2026-05-27T17:56:01+00:00",
-      "first_seen_at": "2026-05-27T18:29:28.626840+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:56:09.002031+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 0
     },
     {
@@ -179,8 +671,8 @@
       "location": "United States, New York",
       "url": "https://job-boards.greenhouse.io/dataiku/jobs/6002762004",
       "posted_at": "2026-05-27T17:53:50+00:00",
-      "first_seen_at": "2026-05-27T18:25:15.212355+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:52:59.964676+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 1
     },
     {
@@ -191,8 +683,8 @@
       "location": "United States, Remote",
       "url": "https://job-boards.greenhouse.io/dataiku/jobs/5973402004",
       "posted_at": "2026-05-27T17:53:50+00:00",
-      "first_seen_at": "2026-05-27T18:25:15.212355+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:52:59.964676+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 2
     },
     {
@@ -203,8 +695,8 @@
       "location": "Germany, Berlin - Remote; Germany, Remote; Netherlands, Amsterdam; Netherlands, Remote; Spain, Remote; United Kingdom, London; United Kingdom, Remote",
       "url": "https://job-boards.greenhouse.io/dataiku/jobs/5973409004",
       "posted_at": "2026-05-27T17:50:29+00:00",
-      "first_seen_at": "2026-05-27T18:25:15.212355+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:52:59.964676+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 3
     },
     {
@@ -215,8 +707,8 @@
       "location": "Netherlands, Amsterdam; Netherlands, Remote; Spain, Remote; United Kingdom, London; United Kingdom, Remote",
       "url": "https://job-boards.greenhouse.io/dataiku/jobs/5973407004",
       "posted_at": "2026-05-27T17:50:29+00:00",
-      "first_seen_at": "2026-05-27T18:25:15.212355+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:52:59.964676+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 4
     },
     {
@@ -227,8 +719,8 @@
       "location": "United Kingdom, Remote",
       "url": "https://job-boards.greenhouse.io/dataiku/jobs/5978968004",
       "posted_at": "2026-05-27T17:50:29+00:00",
-      "first_seen_at": "2026-05-27T18:25:15.212355+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:52:59.964676+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 3
     },
     {
@@ -239,8 +731,8 @@
       "location": "Mountain View, CA, USA",
       "url": "https://careers.withwaymo.com/jobs?gh_jid=7767649",
       "posted_at": "2026-05-27T17:47:22+00:00",
-      "first_seen_at": "2026-05-27T18:25:30.157592+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:52:35.936113+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 0
     },
     {
@@ -251,8 +743,8 @@
       "location": "Pleasanton, California, USA HQ",
       "url": "https://boards.greenhouse.io/10xgenomics/jobs/7922933?gh_jid=7922933",
       "posted_at": "2026-05-27T17:42:27+00:00",
-      "first_seen_at": "2026-05-27T18:28:48.796521+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:55:33.570145+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 0
     },
     {
@@ -263,8 +755,8 @@
       "location": "Sterling, VA",
       "url": "https://job-boards.greenhouse.io/itero-group/jobs/5232677008",
       "posted_at": "2026-05-27T17:40:47+00:00",
-      "first_seen_at": "2026-05-27T18:36:37.678979+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:58:18.623841+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 1
     },
     {
@@ -275,8 +767,8 @@
       "location": "Remote",
       "url": "https://jobs.lever.co/magnals/c9f92c98-ffa7-467f-9356-1c93ea780e11",
       "posted_at": "2026-05-27T17:37:57.393000+00:00",
-      "first_seen_at": "2026-05-27T18:31:56.814887+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:59:05.262493+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 2
     },
     {
@@ -287,8 +779,8 @@
       "location": "San Francisco, CA",
       "url": "https://jobs.lever.co/rezotx/d377f1f7-b4cc-48b9-b37e-6c8509ea8f75",
       "posted_at": "2026-05-27T17:36:30.945000+00:00",
-      "first_seen_at": "2026-05-27T18:50:20.022910+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:59:45.755196+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 0
     },
     {
@@ -299,8 +791,8 @@
       "location": "Denver, CO;San Francisco, CA;New York, NY;Los Angeles, CA;Seattle, WA;Toronto, Ontario, CAN - Remote",
       "url": "https://job-boards.greenhouse.io/gusto/jobs/7948318",
       "posted_at": "2026-05-27T17:21:18+00:00",
-      "first_seen_at": "2026-05-27T18:25:44.827262+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:52:08.323554+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 3
     },
     {
@@ -311,8 +803,8 @@
       "location": "Remote - United States",
       "url": "https://job-boards.greenhouse.io/reddit/jobs/7958354",
       "posted_at": "2026-05-27T17:10:55+00:00",
-      "first_seen_at": "2026-05-27T18:25:25.344341+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:52:08.921319+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 3
     },
     {
@@ -323,8 +815,8 @@
       "location": "Remote - Ontario, Canada",
       "url": "https://job-boards.greenhouse.io/reddit/jobs/7958403",
       "posted_at": "2026-05-27T17:10:55+00:00",
-      "first_seen_at": "2026-05-27T18:25:25.344341+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:52:08.921319+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 2
     },
     {
@@ -335,8 +827,8 @@
       "location": "Remote - United States",
       "url": "https://job-boards.greenhouse.io/reddit/jobs/7445224",
       "posted_at": "2026-05-27T17:10:55+00:00",
-      "first_seen_at": "2026-05-27T18:25:25.344341+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:52:08.921319+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 2
     },
     {
@@ -347,20 +839,8 @@
       "location": "Sunnyvale, CA",
       "url": "https://job-boards.greenhouse.io/radar/jobs/7354751",
       "posted_at": "2026-05-27T17:10:33+00:00",
-      "first_seen_at": "2026-05-27T18:26:04.392198+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
-      "score": 1
-    },
-    {
-      "source": "greenhouse",
-      "job_id": "7802187",
-      "title": "Data Scientist",
-      "company": "radar",
-      "location": "Sunnyvale, CA",
-      "url": "https://job-boards.greenhouse.io/radar/jobs/7802187",
-      "posted_at": "2026-05-27T17:07:12+00:00",
-      "first_seen_at": "2026-05-27T18:26:04.392198+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:52:20.310610+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 1
     },
     {
@@ -371,8 +851,8 @@
       "location": "Los Angeles, California, United States; San Francisco, CA, United States",
       "url": "https://boards.greenhouse.io/crunchyroll/jobs/7568347?gh_jid=7568347",
       "posted_at": "2026-05-27T16:59:58+00:00",
-      "first_seen_at": "2026-05-27T18:25:34.341942+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:52:04.737751+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 2
     },
     {
@@ -383,21 +863,9 @@
       "location": "USA - Remote",
       "url": "https://instacart.careers/job/?gh_jid=7566001",
       "posted_at": "2026-05-27T16:54:02+00:00",
-      "first_seen_at": "2026-05-27T18:25:29.554324+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:52:01.723649+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 3
-    },
-    {
-      "source": "greenhouse",
-      "job_id": "7339890",
-      "title": "Research Engineer, Materials Science",
-      "company": "deepmind",
-      "location": "Mountain View, California, US",
-      "url": "https://job-boards.greenhouse.io/deepmind/jobs/7339890",
-      "posted_at": "2026-05-27T16:51:25+00:00",
-      "first_seen_at": "2026-05-27T18:25:15.808743+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
-      "score": 1
     },
     {
       "source": "greenhouse",
@@ -407,8 +875,8 @@
       "location": "San Francisco, CA | New York City, NY",
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5197529008",
       "posted_at": "2026-05-27T16:46:15+00:00",
-      "first_seen_at": "2026-05-27T18:25:21.219976+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:52:16.153173+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 1
     },
     {
@@ -419,8 +887,8 @@
       "location": "Remote, US",
       "url": "https://job-boards.greenhouse.io/patientpoint/jobs/4694351005",
       "posted_at": "2026-05-27T16:39:52+00:00",
-      "first_seen_at": "2026-05-27T18:47:15.457462+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:58:21.619657+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 3
     },
     {
@@ -431,8 +899,8 @@
       "location": "Mountain View, CA USA;  San Francisco, CA USA;",
       "url": "https://careers.withwaymo.com/jobs?gh_jid=7539786",
       "posted_at": "2026-05-27T16:39:12+00:00",
-      "first_seen_at": "2026-05-27T18:25:30.157592+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:52:35.936113+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 1
     },
     {
@@ -443,8 +911,8 @@
       "location": "Philadelphia, PA",
       "url": "https://healthverity.com/careers/jobs/?gh_jid=5232211008",
       "posted_at": "2026-05-27T16:36:45+00:00",
-      "first_seen_at": "2026-05-27T18:44:35.784472+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:58:21.022901+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 0
     },
     {
@@ -455,8 +923,8 @@
       "location": "Exton, PA",
       "url": "https://job-boards.greenhouse.io/energage/jobs/8370962002",
       "posted_at": "2026-05-27T16:34:56+00:00",
-      "first_seen_at": "2026-05-27T18:41:41.410316+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:58:20.426278+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 0
     },
     {
@@ -467,8 +935,8 @@
       "location": "London, England, United Kingdom; New York, New York, United States; San Francisco, California, United States; Seattle, Washington, United States",
       "url": "https://job-boards.greenhouse.io/lightningai/jobs/7546419003",
       "posted_at": "2026-05-27T16:29:32+00:00",
-      "first_seen_at": "2026-05-27T18:27:20.572738+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:54:02.342548+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 0
     },
     {
@@ -479,8 +947,8 @@
       "location": "New York, New York, United States",
       "url": "https://job-boards.greenhouse.io/lightningai/jobs/5868155003",
       "posted_at": "2026-05-27T16:29:32+00:00",
-      "first_seen_at": "2026-05-27T18:27:20.572738+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:54:02.342548+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 1
     },
     {
@@ -491,8 +959,8 @@
       "location": "London, England, United Kingdom; New York, New York, United States; San Francisco, California, United States; Seattle, Washington, United States",
       "url": "https://job-boards.greenhouse.io/lightningai/jobs/6045023003",
       "posted_at": "2026-05-27T16:29:32+00:00",
-      "first_seen_at": "2026-05-27T18:27:20.572738+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:54:02.342548+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 1
     },
     {
@@ -503,8 +971,8 @@
       "location": "San Francisco, California, United States; Seattle, Washington, United States",
       "url": "https://job-boards.greenhouse.io/lightningai/jobs/7687112003",
       "posted_at": "2026-05-27T16:29:32+00:00",
-      "first_seen_at": "2026-05-27T18:27:20.572738+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:54:02.342548+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 0
     },
     {
@@ -515,8 +983,8 @@
       "location": "San Francisco, CA; Sunnyvale, CA",
       "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7580407",
       "posted_at": "2026-05-27T16:28:24+00:00",
-      "first_seen_at": "2026-05-27T18:28:57.236554+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:55:47.408367+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 1
     },
     {
@@ -527,8 +995,8 @@
       "location": "San Francisco, CA; Sunnyvale, CA",
       "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7488724",
       "posted_at": "2026-05-27T16:28:24+00:00",
-      "first_seen_at": "2026-05-27T18:28:57.236554+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:55:47.408367+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 0
     },
     {
@@ -539,8 +1007,8 @@
       "location": "San Francisco, CA; Sunnyvale, CA",
       "url": "https://job-boards.greenhouse.io/doordashusa/jobs/5575224",
       "posted_at": "2026-05-27T16:28:24+00:00",
-      "first_seen_at": "2026-05-27T18:28:57.236554+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:55:47.408367+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 0
     },
     {
@@ -551,8 +1019,8 @@
       "location": "San Francisco, CA; Sunnyvale, CA;Seattle, WA",
       "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7028089",
       "posted_at": "2026-05-27T16:28:23+00:00",
-      "first_seen_at": "2026-05-27T18:28:57.236554+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:55:47.408367+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 1
     },
     {
@@ -563,8 +1031,8 @@
       "location": "Sunnyvale, CA; San Francisco, CA; Seattle, WA",
       "url": "https://job-boards.greenhouse.io/doordashusa/jobs/5657317",
       "posted_at": "2026-05-27T16:28:23+00:00",
-      "first_seen_at": "2026-05-27T18:28:57.236554+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:55:47.408367+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 1
     },
     {
@@ -575,8 +1043,8 @@
       "location": "San Francisco, CA; Sunnyvale, CA; Seattle, WA",
       "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7932109",
       "posted_at": "2026-05-27T16:28:23+00:00",
-      "first_seen_at": "2026-05-27T18:28:57.236554+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:55:47.408367+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 1
     },
     {
@@ -587,8 +1055,8 @@
       "location": "Remote",
       "url": "https://tucows.com/careers/jobs?gh_jid=7711078003",
       "posted_at": "2026-05-27T16:27:07+00:00",
-      "first_seen_at": "2026-05-27T18:31:06.846679+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:57:34.212638+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 3
     },
     {
@@ -599,8 +1067,8 @@
       "location": "Sunnyvale, CA",
       "url": "https://job-boards.greenhouse.io/sonatus/jobs/5096599007",
       "posted_at": "2026-05-27T16:25:01+00:00",
-      "first_seen_at": "2026-05-27T18:29:57.221303+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:56:41.400157+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 0
     },
     {
@@ -611,8 +1079,8 @@
       "location": "Sunnyvale, CA",
       "url": "https://job-boards.greenhouse.io/sonatus/jobs/5071418007",
       "posted_at": "2026-05-27T16:25:01+00:00",
-      "first_seen_at": "2026-05-27T18:29:57.221303+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:56:41.400157+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 0
     },
     {
@@ -623,8 +1091,8 @@
       "location": "Sunnyvale, CA",
       "url": "https://job-boards.greenhouse.io/sonatus/jobs/5059580007",
       "posted_at": "2026-05-27T16:25:01+00:00",
-      "first_seen_at": "2026-05-27T18:29:57.221303+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:56:41.400157+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 0
     },
     {
@@ -635,8 +1103,8 @@
       "location": "Sunnyvale, CA",
       "url": "https://job-boards.greenhouse.io/sonatus/jobs/5059644007",
       "posted_at": "2026-05-27T16:25:01+00:00",
-      "first_seen_at": "2026-05-27T18:29:57.221303+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:56:41.400157+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 0
     },
     {
@@ -647,8 +1115,8 @@
       "location": "Remote ",
       "url": "https://job-boards.greenhouse.io/alt/jobs/7617055003",
       "posted_at": "2026-05-27T16:21:37+00:00",
-      "first_seen_at": "2026-05-27T18:30:54.839234+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:57:06.593917+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 2
     },
     {
@@ -659,8 +1127,8 @@
       "location": "Remote",
       "url": "https://job-boards.greenhouse.io/horizonindustrieslimited/jobs/5147900008",
       "posted_at": "2026-05-27T16:17:22+00:00",
-      "first_seen_at": "2026-05-27T18:26:15.756979+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:53:32.941079+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 3
     },
     {
@@ -671,8 +1139,8 @@
       "location": "Fort Belvoir, VA",
       "url": "https://job-boards.greenhouse.io/horizonindustrieslimited/jobs/5171809008",
       "posted_at": "2026-05-27T16:17:22+00:00",
-      "first_seen_at": "2026-05-27T18:26:15.756979+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:53:32.941079+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 1
     },
     {
@@ -683,8 +1151,8 @@
       "location": "REMOTE",
       "url": "https://job-boards.greenhouse.io/horizonindustrieslimited/jobs/5160584008",
       "posted_at": "2026-05-27T16:17:22+00:00",
-      "first_seen_at": "2026-05-27T18:26:15.756979+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:53:32.941079+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 3
     },
     {
@@ -695,8 +1163,8 @@
       "location": "US Remote",
       "url": "https://about.nextdoor.com/careers-list/?gh_jid=7948362",
       "posted_at": "2026-05-27T16:12:20+00:00",
-      "first_seen_at": "2026-05-27T18:31:06.242733+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:57:42.014357+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 3
     },
     {
@@ -707,8 +1175,8 @@
       "location": "Remote, Canada",
       "url": "https://job-boards.greenhouse.io/shakepay/jobs/4653078005",
       "posted_at": "2026-05-27T16:05:30+00:00",
-      "first_seen_at": "2026-05-27T18:28:31.993321+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:56:09.579257+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 2
     },
     {
@@ -719,33 +1187,9 @@
       "location": "Remote, Canada",
       "url": "https://job-boards.greenhouse.io/shakepay/jobs/4694333005",
       "posted_at": "2026-05-27T16:05:29+00:00",
-      "first_seen_at": "2026-05-27T18:28:31.993321+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:56:09.579257+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 2
-    },
-    {
-      "source": "greenhouse",
-      "job_id": "7650739003",
-      "title": "Research Engineer",
-      "company": "verisign",
-      "location": "Reston,Virginia,United States",
-      "url": "https://job-boards.greenhouse.io/verisign/jobs/7650739003",
-      "posted_at": "2026-05-27T16:00:45+00:00",
-      "first_seen_at": "2026-05-27T18:25:48.759822+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
-      "score": 1
-    },
-    {
-      "source": "greenhouse",
-      "job_id": "7636398003",
-      "title": "Sr Research Engineer ",
-      "company": "verisign",
-      "location": "Reston,Virginia,United States",
-      "url": "https://job-boards.greenhouse.io/verisign/jobs/7636398003",
-      "posted_at": "2026-05-27T16:00:44+00:00",
-      "first_seen_at": "2026-05-27T18:25:48.759822+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
-      "score": 1
     },
     {
       "source": "greenhouse",
@@ -755,8 +1199,8 @@
       "location": "Mountain View, California, United States; San Francisco, California, United States",
       "url": "https://careers.withwaymo.com/jobs?gh_jid=7460854",
       "posted_at": "2026-05-27T15:55:37+00:00",
-      "first_seen_at": "2026-05-27T18:25:30.157592+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:52:35.936113+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 0
     },
     {
@@ -767,8 +1211,8 @@
       "location": "United States",
       "url": "https://job-boards.greenhouse.io/mntn/jobs/7958986",
       "posted_at": "2026-05-27T15:55:25+00:00",
-      "first_seen_at": "2026-05-27T18:39:58.161400+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:58:19.819769+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 0
     },
     {
@@ -779,8 +1223,8 @@
       "location": "Charlotte, North Carolina, United States",
       "url": "https://job-boards.greenhouse.io/scoutmotors/jobs/5144166007",
       "posted_at": "2026-05-27T15:43:12+00:00",
-      "first_seen_at": "2026-05-27T18:27:09.190286+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:53:56.352043+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 0
     },
     {
@@ -791,8 +1235,8 @@
       "location": "South San Francisco, California, USA",
       "url": "https://www.zipline.com/careers?gh_jid=7610295003#open-roles",
       "posted_at": "2026-05-27T15:41:52+00:00",
-      "first_seen_at": "2026-05-27T18:27:29.577733+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:54:01.152428+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": -1
     },
     {
@@ -803,8 +1247,8 @@
       "location": "United States (Remote)",
       "url": "https://job-boards.greenhouse.io/cresta/jobs/5232532008",
       "posted_at": "2026-05-27T15:38:48+00:00",
-      "first_seen_at": "2026-05-27T18:27:30.181152+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:53:49.143879+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 2
     },
     {
@@ -815,8 +1259,8 @@
       "location": "New York, NY",
       "url": "https://job-boards.greenhouse.io/zocdoc/jobs/7659010",
       "posted_at": "2026-05-27T15:24:32+00:00",
-      "first_seen_at": "2026-05-27T18:27:59.588589+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:54:46.764371+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 0
     },
     {
@@ -827,8 +1271,8 @@
       "location": "Northern VA or Remote",
       "url": "https://job-boards.greenhouse.io/muonspace/jobs/5144619007",
       "posted_at": "2026-05-27T15:10:50+00:00",
-      "first_seen_at": "2026-05-27T18:30:01.421629+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:56:53.404791+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 2
     },
     {
@@ -839,8 +1283,8 @@
       "location": "US-Remote",
       "url": "https://job-boards.greenhouse.io/connectwise/jobs/4600251005",
       "posted_at": "2026-05-27T15:01:58+00:00",
-      "first_seen_at": "2026-05-27T18:31:32.645843+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:58:31.820881+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 3
     },
     {
@@ -851,8 +1295,8 @@
       "location": "New York, NY",
       "url": "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4653104005",
       "posted_at": "2026-05-27T14:46:35+00:00",
-      "first_seen_at": "2026-05-27T18:26:36.764597+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:53:22.142828+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 1
     },
     {
@@ -863,8 +1307,8 @@
       "location": "New York, NY",
       "url": "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4690108005",
       "posted_at": "2026-05-27T14:46:35+00:00",
-      "first_seen_at": "2026-05-27T18:26:36.764597+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:53:22.142828+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 1
     },
     {
@@ -875,8 +1319,8 @@
       "location": "New York, NY",
       "url": "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4687007005",
       "posted_at": "2026-05-27T14:46:35+00:00",
-      "first_seen_at": "2026-05-27T18:26:36.764597+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:53:22.142828+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 1
     },
     {
@@ -887,8 +1331,8 @@
       "location": "New York, NY",
       "url": "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4655096005",
       "posted_at": "2026-05-27T14:46:35+00:00",
-      "first_seen_at": "2026-05-27T18:26:36.764597+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:53:22.142828+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 1
     },
     {
@@ -899,8 +1343,8 @@
       "location": "New York, NY",
       "url": "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4659940005",
       "posted_at": "2026-05-27T14:46:35+00:00",
-      "first_seen_at": "2026-05-27T18:26:36.764597+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:53:22.142828+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 0
     },
     {
@@ -911,8 +1355,8 @@
       "location": "New York, NY",
       "url": "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4691610005",
       "posted_at": "2026-05-27T14:46:35+00:00",
-      "first_seen_at": "2026-05-27T18:26:36.764597+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:53:22.142828+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 0
     },
     {
@@ -923,8 +1367,8 @@
       "location": "New York, NY",
       "url": "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4653126005",
       "posted_at": "2026-05-27T14:46:35+00:00",
-      "first_seen_at": "2026-05-27T18:26:36.764597+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:53:22.142828+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 0
     },
     {
@@ -935,8 +1379,8 @@
       "location": "New York, NY",
       "url": "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4680447005",
       "posted_at": "2026-05-27T14:46:35+00:00",
-      "first_seen_at": "2026-05-27T18:26:36.764597+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:53:22.142828+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 1
     },
     {
@@ -947,8 +1391,8 @@
       "location": "New York, NY",
       "url": "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4653129005",
       "posted_at": "2026-05-27T14:46:35+00:00",
-      "first_seen_at": "2026-05-27T18:26:36.764597+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:53:22.142828+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 1
     },
     {
@@ -959,8 +1403,8 @@
       "location": "Atlanta, GA",
       "url": "https://job-boards.greenhouse.io/stablekernel/jobs/6496585003",
       "posted_at": "2026-05-27T14:41:50+00:00",
-      "first_seen_at": "2026-05-27T18:31:43.448535+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:58:18.021572+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 0
     },
     {
@@ -971,8 +1415,8 @@
       "location": "Remote - India",
       "url": "https://job-boards.greenhouse.io/twilio/jobs/7520997",
       "posted_at": "2026-05-27T14:33:13+00:00",
-      "first_seen_at": "2026-05-27T18:25:28.349235+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:52:07.121749+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 2
     },
     {
@@ -983,21 +1427,9 @@
       "location": "Philadelphia, Pennsylvania, United States",
       "url": "https://job-boards.greenhouse.io/paretocaptiveservicesllc/jobs/4682204006",
       "posted_at": "2026-05-27T13:56:41+00:00",
-      "first_seen_at": "2026-05-27T18:28:13.996420+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:54:59.356767+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 0
-    },
-    {
-      "source": "greenhouse",
-      "job_id": "4650884006",
-      "title": "Sr. Data Engineer",
-      "company": "pitchbookdata",
-      "location": "Seattle, Washington, United States",
-      "url": "https://job-boards.greenhouse.io/pitchbookdata/jobs/4650884006",
-      "posted_at": "2026-05-27T13:51:22+00:00",
-      "first_seen_at": "2026-05-27T18:26:05.556068+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
-      "score": 1
     },
     {
       "source": "greenhouse",
@@ -1007,8 +1439,8 @@
       "location": "Remote",
       "url": "https://www.fglife.com/about/careers/apply.html?gh_jid=7749360003",
       "posted_at": "2026-05-27T13:35:18+00:00",
-      "first_seen_at": "2026-05-27T18:29:56.618381+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:57:24.600575+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 3
     },
     {
@@ -1019,8 +1451,8 @@
       "location": "New York, New York, USA",
       "url": "https://careers.datadoghq.com/detail/6958985/?gh_jid=6958985",
       "posted_at": "2026-05-27T13:30:26+00:00",
-      "first_seen_at": "2026-05-27T18:29:48.231113+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:56:33.619759+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 0
     },
     {
@@ -1031,8 +1463,8 @@
       "location": "New York, New York, USA",
       "url": "https://careers.datadoghq.com/detail/7629288/?gh_jid=7629288",
       "posted_at": "2026-05-27T13:30:17+00:00",
-      "first_seen_at": "2026-05-27T18:29:48.231113+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:56:33.619759+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 0
     },
     {
@@ -1043,8 +1475,8 @@
       "location": "New York, New York, USA",
       "url": "https://careers.datadoghq.com/detail/7752299/?gh_jid=7752299",
       "posted_at": "2026-05-27T13:30:05+00:00",
-      "first_seen_at": "2026-05-27T18:29:48.231113+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:56:33.619759+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 0
     },
     {
@@ -1055,8 +1487,8 @@
       "location": "Research Triangle Park, NC",
       "url": "https://job-boards.greenhouse.io/vulcanelements/jobs/5216628008",
       "posted_at": "2026-05-27T13:22:24+00:00",
-      "first_seen_at": "2026-05-27T18:31:26.047710+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:58:28.222851+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 1
     },
     {
@@ -1067,8 +1499,8 @@
       "location": "North Reading, MA",
       "url": "https://boards.greenhouse.io/bruntworkwear/jobs/4683762006?gh_jid=4683762006",
       "posted_at": "2026-05-27T13:07:41+00:00",
-      "first_seen_at": "2026-05-27T18:31:38.648661+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:58:32.583484+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 1
     },
     {
@@ -1079,8 +1511,8 @@
       "location": "United States",
       "url": "https://job-boards.greenhouse.io/dragos/jobs/5207887008",
       "posted_at": "2026-05-27T12:41:54+00:00",
-      "first_seen_at": "2026-05-27T18:27:38.582273+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:54:23.948237+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 1
     },
     {
@@ -1091,8 +1523,8 @@
       "location": "Kyiv, Lviv, Remote from Ukraine",
       "url": "https://squad.tech/careers/?gh_jid=7554288",
       "posted_at": "2026-05-27T12:16:00+00:00",
-      "first_seen_at": "2026-05-27T18:25:36.216537+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:52:17.922999+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 3
     },
     {
@@ -1103,8 +1535,8 @@
       "location": "United States",
       "url": "https://job-boards.greenhouse.io/shopltk/jobs/7671051003",
       "posted_at": "2026-05-27T11:01:16+00:00",
-      "first_seen_at": "2026-05-27T18:29:23.011701+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:56:52.799144+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 1
     },
     {
@@ -1115,8 +1547,8 @@
       "location": "Costa Mesa, California, United States",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/4995797007?gh_jid=4995797007",
       "posted_at": "2026-05-27T09:24:00+00:00",
-      "first_seen_at": "2026-05-27T18:30:08.169675+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:56:25.240941+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 0
     },
     {
@@ -1127,8 +1559,8 @@
       "location": "Costa Mesa, California, United States",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/4991618007?gh_jid=4991618007",
       "posted_at": "2026-05-27T09:23:57+00:00",
-      "first_seen_at": "2026-05-27T18:30:08.169675+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:56:25.240941+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 1
     },
     {
@@ -1139,8 +1571,8 @@
       "location": "Irvine, California, United States; Remote",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/4927589007?gh_jid=4927589007",
       "posted_at": "2026-05-27T09:22:02+00:00",
-      "first_seen_at": "2026-05-27T18:30:08.169675+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:56:25.240941+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 2
     },
     {
@@ -1151,8 +1583,8 @@
       "location": "Cardiff, London or Remote (UK); London",
       "url": "https://job-boards.greenhouse.io/monzo/jobs/7118972",
       "posted_at": "2026-05-27T08:59:29+00:00",
-      "first_seen_at": "2026-05-27T18:27:16.375911+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:54:14.347621+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 3
     },
     {
@@ -1163,8 +1595,8 @@
       "location": "Hybrid in Santa Clara, CA",
       "url": "https://job-boards.greenhouse.io/hackerrank/jobs/7793399",
       "posted_at": "2026-05-27T08:09:51+00:00",
-      "first_seen_at": "2026-05-27T18:25:46.347620+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:52:31.725613+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 1
     },
     {
@@ -1175,8 +1607,8 @@
       "location": "Hybrid in Santa Clara, CA",
       "url": "https://job-boards.greenhouse.io/hackerrank/jobs/7780916",
       "posted_at": "2026-05-27T08:08:29+00:00",
-      "first_seen_at": "2026-05-27T18:25:46.347620+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:52:31.725613+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 1
     },
     {
@@ -1187,8 +1619,8 @@
       "location": "Seattle, WA",
       "url": "https://stripe.com/jobs/search?gh_jid=7863844",
       "posted_at": "2026-05-27T05:02:34+00:00",
-      "first_seen_at": "2026-05-27T18:25:23.023197+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:51:59.948689+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 1
     },
     {
@@ -1199,8 +1631,8 @@
       "location": "Atlanta, GA",
       "url": "https://job-boards.greenhouse.io/florencehealthcare/jobs/4691781005",
       "posted_at": "2026-05-27T05:00:57+00:00",
-      "first_seen_at": "2026-05-27T18:28:11.589661+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:54:53.355308+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 0
     },
     {
@@ -1211,8 +1643,8 @@
       "location": "Yorktown, VA",
       "url": "https://senecaholdings.com/jobs/?gh_jid=4699445005",
       "posted_at": "2026-05-27T04:39:21+00:00",
-      "first_seen_at": "2026-05-27T18:30:25.431514+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:57:10.804080+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 1
     },
     {
@@ -1223,8 +1655,8 @@
       "location": "United States - Remote",
       "url": "https://job-boards.greenhouse.io/defenseunicorns/jobs/5132886007",
       "posted_at": "2026-05-27T04:35:49+00:00",
-      "first_seen_at": "2026-05-27T18:30:30.232257+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:57:15.598786+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 3
     },
     {
@@ -1235,8 +1667,8 @@
       "location": "Remote - USA",
       "url": "https://job-boards.greenhouse.io/boulevard/jobs/4671883006",
       "posted_at": "2026-05-27T03:08:41+00:00",
-      "first_seen_at": "2026-05-27T18:25:33.148406+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:52:18.522144+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 2
     },
     {
@@ -1247,8 +1679,8 @@
       "location": "Mountain View, CA",
       "url": "https://careers.withwaymo.com/jobs?gh_jid=7947334",
       "posted_at": "2026-05-27T02:08:16+00:00",
-      "first_seen_at": "2026-05-27T18:25:30.157592+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:52:35.936113+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 0
     },
     {
@@ -1259,8 +1691,8 @@
       "location": "San Francisco, CA or remote within the U.S.",
       "url": "https://job-boards.greenhouse.io/philo/jobs/7958304",
       "posted_at": "2026-05-27T00:36:12+00:00",
-      "first_seen_at": "2026-05-27T18:25:30.744925+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:53:09.533086+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 2
     },
     {
@@ -1271,8 +1703,8 @@
       "location": "Mountain View, CA, US; San Francisco, CA, US",
       "url": "https://careers.withwaymo.com/jobs?gh_jid=7957094",
       "posted_at": "2026-05-27T00:23:48+00:00",
-      "first_seen_at": "2026-05-27T18:25:30.157592+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:52:35.936113+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 0
     },
     {
@@ -1283,8 +1715,8 @@
       "location": "Remote U.S.",
       "url": "https://motional.com/open-positions/?gh_jid=7730611003#/7730611003",
       "posted_at": "2026-05-26T23:46:38+00:00",
-      "first_seen_at": "2026-05-27T18:25:31.955310+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:53:19.743077+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 3
     },
     {
@@ -1295,8 +1727,8 @@
       "location": "Las Vegas, Nevada, United States",
       "url": "https://motional.com/open-positions/?gh_jid=7730610003#/7730610003",
       "posted_at": "2026-05-26T23:46:37+00:00",
-      "first_seen_at": "2026-05-27T18:25:31.955310+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:53:19.743077+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 1
     },
     {
@@ -1307,8 +1739,8 @@
       "location": "Pittsburgh, Pennsylvania, United States",
       "url": "https://motional.com/open-positions/?gh_jid=7730609003#/7730609003",
       "posted_at": "2026-05-26T23:46:36+00:00",
-      "first_seen_at": "2026-05-27T18:25:31.955310+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:53:19.743077+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 1
     },
     {
@@ -1319,8 +1751,8 @@
       "location": "Boston, Massachusetts, United States",
       "url": "https://motional.com/open-positions/?gh_jid=7730596003#/7730596003",
       "posted_at": "2026-05-26T23:46:35+00:00",
-      "first_seen_at": "2026-05-27T18:25:31.955310+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:53:19.743077+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 1
     },
     {
@@ -1331,8 +1763,8 @@
       "location": "San Francisco, CA; New York, NY",
       "url": "https://job-boards.greenhouse.io/scaleai/jobs/4675684005",
       "posted_at": "2026-05-26T23:29:01+00:00",
-      "first_seen_at": "2026-05-27T18:25:20.465600+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:52:03.586095+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 1
     },
     {
@@ -1343,8 +1775,8 @@
       "location": "San Francisco, CA; New York, NY",
       "url": "https://job-boards.greenhouse.io/scaleai/jobs/4675694005",
       "posted_at": "2026-05-26T23:29:01+00:00",
-      "first_seen_at": "2026-05-27T18:25:20.465600+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:52:03.586095+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 1
     },
     {
@@ -1355,8 +1787,8 @@
       "location": "San Francisco, CA; New York, NY",
       "url": "https://job-boards.greenhouse.io/scaleai/jobs/4677657005",
       "posted_at": "2026-05-26T23:29:01+00:00",
-      "first_seen_at": "2026-05-27T18:25:20.465600+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:52:03.586095+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 1
     },
     {
@@ -1367,8 +1799,8 @@
       "location": "San Francisco, CA; New York, NY",
       "url": "https://job-boards.greenhouse.io/scaleai/jobs/4696595005",
       "posted_at": "2026-05-26T23:29:01+00:00",
-      "first_seen_at": "2026-05-27T18:25:20.465600+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:52:03.586095+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 1
     },
     {
@@ -1379,8 +1811,8 @@
       "location": "San Francisco, CA; New York, NY",
       "url": "https://job-boards.greenhouse.io/scaleai/jobs/4625345005",
       "posted_at": "2026-05-26T23:28:59+00:00",
-      "first_seen_at": "2026-05-27T18:25:20.465600+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:52:03.586095+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 1
     },
     {
@@ -1391,8 +1823,8 @@
       "location": "San Francisco, CA; New York, NY",
       "url": "https://job-boards.greenhouse.io/scaleai/jobs/4625344005",
       "posted_at": "2026-05-26T23:28:59+00:00",
-      "first_seen_at": "2026-05-27T18:25:20.465600+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:52:03.586095+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 1
     },
     {
@@ -1403,8 +1835,8 @@
       "location": "San Francisco, CA; New York, NY",
       "url": "https://job-boards.greenhouse.io/scaleai/jobs/4490301005",
       "posted_at": "2026-05-26T23:28:59+00:00",
-      "first_seen_at": "2026-05-27T18:25:20.465600+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:52:03.586095+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 1
     },
     {
@@ -1415,8 +1847,8 @@
       "location": "San Francisco, CA; New York, NY",
       "url": "https://job-boards.greenhouse.io/scaleai/jobs/4625341005",
       "posted_at": "2026-05-26T23:28:59+00:00",
-      "first_seen_at": "2026-05-27T18:25:20.465600+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:52:03.586095+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 1
     },
     {
@@ -1427,8 +1859,8 @@
       "location": "San Francisco, CA; New York, NY",
       "url": "https://job-boards.greenhouse.io/scaleai/jobs/4636227005",
       "posted_at": "2026-05-26T23:28:59+00:00",
-      "first_seen_at": "2026-05-27T18:25:20.465600+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:52:03.586095+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 1
     },
     {
@@ -1439,8 +1871,8 @@
       "location": "San Francisco, CA; New York, NY",
       "url": "https://job-boards.greenhouse.io/scaleai/jobs/4625337005",
       "posted_at": "2026-05-26T23:28:59+00:00",
-      "first_seen_at": "2026-05-27T18:25:20.465600+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:52:03.586095+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 0
     },
     {
@@ -1451,8 +1883,8 @@
       "location": "San Francisco, CA; St. Louis, MO; New York, NY; Washington, DC",
       "url": "https://job-boards.greenhouse.io/scaleai/jobs/4631848005",
       "posted_at": "2026-05-26T23:28:58+00:00",
-      "first_seen_at": "2026-05-27T18:25:20.465600+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:52:03.586095+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 0
     },
     {
@@ -1463,8 +1895,8 @@
       "location": "San Francisco, CA; New York, NY; Washington, DC",
       "url": "https://job-boards.greenhouse.io/scaleai/jobs/4281519005",
       "posted_at": "2026-05-26T23:28:58+00:00",
-      "first_seen_at": "2026-05-27T18:25:20.465600+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:52:03.586095+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 0
     },
     {
@@ -1475,8 +1907,8 @@
       "location": "Austin, Texas, United States",
       "url": "https://job-boards.greenhouse.io/charterup/jobs/5225364008",
       "posted_at": "2026-05-26T23:25:51+00:00",
-      "first_seen_at": "2026-05-27T18:26:24.759266+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:53:10.135402+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 1
     },
     {
@@ -1487,8 +1919,8 @@
       "location": "United States - Remote",
       "url": "https://job-boards.greenhouse.io/themotleyfool/jobs/5137200007",
       "posted_at": "2026-05-26T23:17:56+00:00",
-      "first_seen_at": "2026-05-27T18:31:31.451770+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:58:15.617477+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 3
     },
     {
@@ -1499,8 +1931,8 @@
       "location": "Remote - US & Canada (see post for locations)",
       "url": "https://www.invoca.com/company/job-listings/?gh_jid=8563012002",
       "posted_at": "2026-05-26T23:02:20+00:00",
-      "first_seen_at": "2026-05-27T18:29:05.606118+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:55:50.975902+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 2
     },
     {
@@ -1511,8 +1943,8 @@
       "location": "San Diego, Foster City, or Remote",
       "url": "https://job-boards.greenhouse.io/cellanome/jobs/4683977006",
       "posted_at": "2026-05-26T22:56:37+00:00",
-      "first_seen_at": "2026-05-27T18:31:44.052473+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:58:30.624135+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 3
     },
     {
@@ -1523,8 +1955,8 @@
       "location": "Remote - Canada",
       "url": "https://www.samsara.com/company/careers/roles/7431070?gh_jid=7431070",
       "posted_at": "2026-05-26T22:49:41+00:00",
-      "first_seen_at": "2026-05-27T18:29:02.010225+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:55:45.583241+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 2
     },
     {
@@ -1535,8 +1967,8 @@
       "location": "Remote - US",
       "url": "https://www.samsara.com/company/careers/roles/7859406?gh_jid=7859406",
       "posted_at": "2026-05-26T22:48:52+00:00",
-      "first_seen_at": "2026-05-27T18:29:02.010225+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:55:45.583241+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 4
     },
     {
@@ -1547,8 +1979,8 @@
       "location": "Remote - Canada",
       "url": "https://www.samsara.com/company/careers/roles/7868234?gh_jid=7868234",
       "posted_at": "2026-05-26T22:48:34+00:00",
-      "first_seen_at": "2026-05-27T18:29:02.010225+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:55:45.583241+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 1
     },
     {
@@ -1559,8 +1991,8 @@
       "location": "Remote - US",
       "url": "https://www.samsara.com/company/careers/roles/7266471?gh_jid=7266471",
       "posted_at": "2026-05-26T22:48:32+00:00",
-      "first_seen_at": "2026-05-27T18:29:02.010225+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:55:45.583241+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 2
     },
     {
@@ -1571,8 +2003,8 @@
       "location": "Remote - US",
       "url": "https://www.samsara.com/company/careers/roles/7721193?gh_jid=7721193",
       "posted_at": "2026-05-26T22:48:31+00:00",
-      "first_seen_at": "2026-05-27T18:29:02.010225+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:55:45.583241+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 2
     },
     {
@@ -1583,8 +2015,8 @@
       "location": "Remote - Canada",
       "url": "https://www.samsara.com/company/careers/roles/7746586?gh_jid=7746586",
       "posted_at": "2026-05-26T22:48:31+00:00",
-      "first_seen_at": "2026-05-27T18:29:02.010225+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:55:45.583241+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 2
     },
     {
@@ -1595,8 +2027,8 @@
       "location": "Remote - US",
       "url": "https://www.samsara.com/company/careers/roles/7834686?gh_jid=7834686",
       "posted_at": "2026-05-26T22:48:30+00:00",
-      "first_seen_at": "2026-05-27T18:29:02.010225+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:55:45.583241+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 1
     },
     {
@@ -1607,8 +2039,8 @@
       "location": "Remote - US",
       "url": "https://www.samsara.com/company/careers/roles/7491153?gh_jid=7491153",
       "posted_at": "2026-05-26T22:46:49+00:00",
-      "first_seen_at": "2026-05-27T18:29:02.010225+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:55:45.583241+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 3
     },
     {
@@ -1619,8 +2051,8 @@
       "location": "Remote - Canada",
       "url": "https://www.samsara.com/company/careers/roles/7315656?gh_jid=7315656",
       "posted_at": "2026-05-26T22:46:14+00:00",
-      "first_seen_at": "2026-05-27T18:29:02.010225+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:55:45.583241+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 2
     },
     {
@@ -1631,8 +2063,8 @@
       "location": "Remote - US",
       "url": "https://www.samsara.com/company/careers/roles/7266357?gh_jid=7266357",
       "posted_at": "2026-05-26T22:46:13+00:00",
-      "first_seen_at": "2026-05-27T18:29:02.010225+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:55:45.583241+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 2
     },
     {
@@ -1643,8 +2075,8 @@
       "location": "Remote - Canada",
       "url": "https://www.samsara.com/company/careers/roles/7589442?gh_jid=7589442",
       "posted_at": "2026-05-26T22:45:49+00:00",
-      "first_seen_at": "2026-05-27T18:29:02.010225+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:55:45.583241+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 3
     },
     {
@@ -1655,8 +2087,8 @@
       "location": "Austin, Texas, United States",
       "url": "https://boards.greenhouse.io/rdccareers/jobs/7742890003?gh_jid=7742890003",
       "posted_at": "2026-05-26T22:26:12+00:00",
-      "first_seen_at": "2026-05-27T18:26:09.163974+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:53:03.531034+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 1
     },
     {
@@ -1667,8 +2099,8 @@
       "location": "Mansfield, MA (Remote) ",
       "url": "https://job-boards.greenhouse.io/eclinicalsolutions/jobs/5123131007",
       "posted_at": "2026-05-26T22:15:50+00:00",
-      "first_seen_at": "2026-05-27T18:28:40.993889+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:55:31.773081+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 2
     },
     {
@@ -1679,8 +2111,8 @@
       "location": "Boston, Massachusetts, United States; Costa Mesa, California, United States",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5147099007?gh_jid=5147099007",
       "posted_at": "2026-05-26T22:05:02+00:00",
-      "first_seen_at": "2026-05-27T18:30:08.169675+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:56:25.240941+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 0
     },
     {
@@ -1691,8 +2123,8 @@
       "location": "Remote - United States",
       "url": "https://job-boards.greenhouse.io/scorpionenterprisesllc/jobs/5231440008",
       "posted_at": "2026-05-26T22:04:07+00:00",
-      "first_seen_at": "2026-05-27T18:30:54.239897+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:58:26.435271+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 2
     },
     {
@@ -1703,8 +2135,8 @@
       "location": "Chicago, Illinois, United States",
       "url": "https://job-boards.greenhouse.io/greenthumbindustries/jobs/7958627",
       "posted_at": "2026-05-26T21:45:22+00:00",
-      "first_seen_at": "2026-05-27T18:27:02.571065+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:53:22.739839+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 1
     },
     {
@@ -1715,8 +2147,8 @@
       "location": "San Francisco, CA, US; Remote, US",
       "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7908460",
       "posted_at": "2026-05-26T21:29:54+00:00",
-      "first_seen_at": "2026-05-27T18:25:27.746886+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:52:11.914173+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 3
     },
     {
@@ -1727,8 +2159,8 @@
       "location": "Mountain View CALIFORNIA us",
       "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000128590859",
       "posted_at": "2026-05-26T21:19:30.868000+00:00",
-      "first_seen_at": "2026-05-27T18:33:03.273491+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:59:49.280527+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 0
     },
     {
@@ -1739,8 +2171,8 @@
       "location": "Mountain View CALIFORNIA us",
       "url": "https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000128589934",
       "posted_at": "2026-05-26T21:17:28.503000+00:00",
-      "first_seen_at": "2026-05-27T18:33:03.273491+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:59:49.280527+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 0
     },
     {
@@ -1751,8 +2183,8 @@
       "location": "Americas Remote",
       "url": "https://job-boards.greenhouse.io/customerio/jobs/7956880",
       "posted_at": "2026-05-26T21:14:28+00:00",
-      "first_seen_at": "2026-05-27T18:31:21.851574+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:58:07.215781+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 2
     },
     {
@@ -1763,8 +2195,8 @@
       "location": "Santa Clara, CA",
       "url": "https://job-boards.greenhouse.io/xpengmotors/jobs/7613846002",
       "posted_at": "2026-05-26T21:03:08+00:00",
-      "first_seen_at": "2026-05-27T18:26:13.361143+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:52:38.920126+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 1
     },
     {
@@ -1775,8 +2207,8 @@
       "location": "Santa Clara, CA",
       "url": "https://job-boards.greenhouse.io/xpengmotors/jobs/7614027002",
       "posted_at": "2026-05-26T21:03:08+00:00",
-      "first_seen_at": "2026-05-27T18:26:13.361143+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:52:38.920126+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 1
     },
     {
@@ -1787,8 +2219,8 @@
       "location": "Santa Clara, CA",
       "url": "https://job-boards.greenhouse.io/xpengmotors/jobs/8446966002",
       "posted_at": "2026-05-26T21:03:08+00:00",
-      "first_seen_at": "2026-05-27T18:26:13.361143+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:52:38.920126+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 0
     },
     {
@@ -1799,8 +2231,8 @@
       "location": "Santa Clara, CA",
       "url": "https://job-boards.greenhouse.io/xpengmotors/jobs/7813395002",
       "posted_at": "2026-05-26T21:03:08+00:00",
-      "first_seen_at": "2026-05-27T18:26:13.361143+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:52:38.920126+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 0
     },
     {
@@ -1811,8 +2243,8 @@
       "location": "Santa Clara, CA",
       "url": "https://job-boards.greenhouse.io/xpengmotors/jobs/8535404002",
       "posted_at": "2026-05-26T21:03:08+00:00",
-      "first_seen_at": "2026-05-27T18:26:13.361143+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:52:38.920126+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 0
     },
     {
@@ -1823,8 +2255,8 @@
       "location": "Santa Clara, CA",
       "url": "https://job-boards.greenhouse.io/xpengmotors/jobs/8465375002",
       "posted_at": "2026-05-26T21:03:08+00:00",
-      "first_seen_at": "2026-05-27T18:26:13.361143+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:52:38.920126+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 0
     },
     {
@@ -1835,8 +2267,8 @@
       "location": "Santa Clara, CA",
       "url": "https://job-boards.greenhouse.io/xpengmotors/jobs/7849093002",
       "posted_at": "2026-05-26T21:03:08+00:00",
-      "first_seen_at": "2026-05-27T18:26:13.361143+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:52:38.920126+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 0
     },
     {
@@ -1847,8 +2279,8 @@
       "location": "Santa Clara, CA",
       "url": "https://job-boards.greenhouse.io/xpengmotors/jobs/8469033002",
       "posted_at": "2026-05-26T21:03:08+00:00",
-      "first_seen_at": "2026-05-27T18:26:13.361143+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:52:38.920126+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 0
     },
     {
@@ -1859,8 +2291,8 @@
       "location": "Santa Clara, CA",
       "url": "https://job-boards.greenhouse.io/xpengmotors/jobs/8446979002",
       "posted_at": "2026-05-26T21:03:08+00:00",
-      "first_seen_at": "2026-05-27T18:26:13.361143+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:52:38.920126+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 0
     },
     {
@@ -1871,8 +2303,8 @@
       "location": "Santa Clara, CA",
       "url": "https://job-boards.greenhouse.io/xpengmotors/jobs/8465380002",
       "posted_at": "2026-05-26T21:03:08+00:00",
-      "first_seen_at": "2026-05-27T18:26:13.361143+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:52:38.920126+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 0
     },
     {
@@ -1883,8 +2315,8 @@
       "location": "Santa Clara, CA",
       "url": "https://job-boards.greenhouse.io/xpengmotors/jobs/7813393002",
       "posted_at": "2026-05-26T21:03:08+00:00",
-      "first_seen_at": "2026-05-27T18:26:13.361143+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:52:38.920126+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 0
     },
     {
@@ -1895,8 +2327,8 @@
       "location": "Santa Clara, CA",
       "url": "https://job-boards.greenhouse.io/xpengmotors/jobs/8465309002",
       "posted_at": "2026-05-26T21:03:08+00:00",
-      "first_seen_at": "2026-05-27T18:26:13.361143+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:52:38.920126+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 0
     },
     {
@@ -1907,8 +2339,8 @@
       "location": "US - San Francisco, United States; US - Sunnyvale, United States",
       "url": "https://job-boards.greenhouse.io/scopely/jobs/5208115008",
       "posted_at": "2026-05-26T20:53:17+00:00",
-      "first_seen_at": "2026-05-27T18:31:30.253328+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:58:13.829664+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 1
     },
     {
@@ -1919,8 +2351,8 @@
       "location": "Continental United States",
       "url": "https://job-boards.greenhouse.io/atek/jobs/5230696008",
       "posted_at": "2026-05-26T20:39:12+00:00",
-      "first_seen_at": "2026-05-27T18:31:39.248053+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:58:15.017301+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 0
     },
     {
@@ -1931,8 +2363,8 @@
       "location": "Arlington, VA",
       "url": "https://jobs.lever.co/redhorsecorp/acf0afff-c65a-4b20-b47d-75c29a3ec561",
       "posted_at": "2026-05-26T20:21:16.887000+00:00",
-      "first_seen_at": "2026-05-27T18:33:00.304412+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:59:36.406857+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 1
     },
     {
@@ -1943,8 +2375,8 @@
       "location": "New York, New York, United States",
       "url": "https://job-boards.greenhouse.io/octus/jobs/5074174007",
       "posted_at": "2026-05-26T20:05:30+00:00",
-      "first_seen_at": "2026-05-27T18:26:40.365970+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:53:25.737831+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 0
     },
     {
@@ -1955,8 +2387,8 @@
       "location": "Fort Mill SC us",
       "url": "https://api.smartrecruiters.com/v1/companies/continental/postings/744000128579654",
       "posted_at": "2026-05-26T20:03:18.149000+00:00",
-      "first_seen_at": "2026-05-27T18:33:03.555571+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:59:49.485921+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 0
     },
     {
@@ -1967,21 +2399,9 @@
       "location": "Dallas, TX - Hybrid (3x in office/week)",
       "url": "https://job-boards.greenhouse.io/employerdirecthealthcare/jobs/5131535007",
       "posted_at": "2026-05-26T19:58:29+00:00",
-      "first_seen_at": "2026-05-27T18:26:42.771070+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:53:28.134283+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 2
-    },
-    {
-      "source": "greenhouse",
-      "job_id": "5231452008",
-      "title": "Senior AI Engineer",
-      "company": "osano",
-      "location": "Austin, TX",
-      "url": "https://job-boards.greenhouse.io/osano/jobs/5231452008",
-      "posted_at": "2026-05-26T19:58:02+00:00",
-      "first_seen_at": "2026-05-27T18:31:33.248671+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
-      "score": 0
     },
     {
       "source": "greenhouse",
@@ -1991,8 +2411,8 @@
       "location": "San Francisco, CA",
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5197337008",
       "posted_at": "2026-05-26T19:57:56+00:00",
-      "first_seen_at": "2026-05-27T18:25:21.219976+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:52:16.153173+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 1
     },
     {
@@ -2003,8 +2423,8 @@
       "location": "Remote - USA",
       "url": "https://job-boards.greenhouse.io/cloverhealth/jobs/7839078",
       "posted_at": "2026-05-26T19:52:37+00:00",
-      "first_seen_at": "2026-05-27T18:31:32.059516+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:58:24.632437+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 2
     },
     {
@@ -2015,8 +2435,8 @@
       "location": "Remote - USA",
       "url": "https://job-boards.greenhouse.io/cloverhealth/jobs/7848974",
       "posted_at": "2026-05-26T19:52:37+00:00",
-      "first_seen_at": "2026-05-27T18:31:32.059516+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:58:24.632437+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 2
     },
     {
@@ -2027,8 +2447,8 @@
       "location": "Remote - USA",
       "url": "https://job-boards.greenhouse.io/cloverhealth/jobs/7729938",
       "posted_at": "2026-05-26T19:52:37+00:00",
-      "first_seen_at": "2026-05-27T18:31:32.059516+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:58:24.632437+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 2
     },
     {
@@ -2039,8 +2459,8 @@
       "location": "New York, NY",
       "url": "https://job-boards.greenhouse.io/pdtpartners/jobs/82459",
       "posted_at": "2026-05-26T19:47:16+00:00",
-      "first_seen_at": "2026-05-27T18:29:03.203586+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:55:40.773053+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 0
     },
     {
@@ -2051,8 +2471,8 @@
       "location": "Mountain View, California, USA; San Francisco, California, USA",
       "url": "https://careers.withwaymo.com/jobs?gh_jid=7456042",
       "posted_at": "2026-05-26T19:44:59+00:00",
-      "first_seen_at": "2026-05-27T18:25:30.157592+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:52:35.936113+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 0
     },
     {
@@ -2063,8 +2483,8 @@
       "location": "Mountain View, California, USA; San Francisco, California, USA",
       "url": "https://careers.withwaymo.com/jobs?gh_jid=7455592",
       "posted_at": "2026-05-26T19:44:10+00:00",
-      "first_seen_at": "2026-05-27T18:25:30.157592+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:52:35.936113+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 1
     },
     {
@@ -2075,8 +2495,8 @@
       "location": "US - Remote",
       "url": "https://job-boards.greenhouse.io/waymark/jobs/4030307005",
       "posted_at": "2026-05-26T19:43:51+00:00",
-      "first_seen_at": "2026-05-27T18:28:06.785263+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:54:51.555571+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 2
     },
     {
@@ -2087,8 +2507,8 @@
       "location": "Remote, Berkeley, California, United States, Remote",
       "url": "https://job-boards.greenhouse.io/cariboubiosciencesinc/jobs/5973926004",
       "posted_at": "2026-05-26T19:28:52+00:00",
-      "first_seen_at": "2026-05-27T18:31:27.845366+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:58:12.015745+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 3
     },
     {
@@ -2099,8 +2519,8 @@
       "location": "Philadelphia, Pennsylvania, United States",
       "url": "https://boards.greenhouse.io/berkadia/jobs/7608467003?gh_jid=7608467003",
       "posted_at": "2026-05-26T19:28:11+00:00",
-      "first_seen_at": "2026-05-27T18:30:17.038957+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:56:45.601231+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 1
     },
     {
@@ -2111,8 +2531,8 @@
       "location": "United States",
       "url": "https://sofi.com/careers/job/7704502003?gh_jid=7704502003",
       "posted_at": "2026-05-26T19:20:03+00:00",
-      "first_seen_at": "2026-05-27T18:26:39.798511+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:53:25.143090+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 0
     },
     {
@@ -2123,8 +2543,8 @@
       "location": "Seattle, WA",
       "url": "https://job-boards.greenhouse.io/thealleninstitute/jobs/7899565",
       "posted_at": "2026-05-26T18:53:19+00:00",
-      "first_seen_at": "2026-05-27T18:30:07.423046+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:56:20.986025+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 1
     },
     {
@@ -2135,8 +2555,8 @@
       "location": "Seattle, WA",
       "url": "https://job-boards.greenhouse.io/thealleninstitute/jobs/7819106",
       "posted_at": "2026-05-26T18:53:19+00:00",
-      "first_seen_at": "2026-05-27T18:30:07.423046+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:56:20.986025+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 1
     },
     {
@@ -2147,8 +2567,8 @@
       "location": "Seattle, WA",
       "url": "https://job-boards.greenhouse.io/thealleninstitute/jobs/7723570",
       "posted_at": "2026-05-26T18:53:19+00:00",
-      "first_seen_at": "2026-05-27T18:30:07.423046+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:56:20.986025+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 1
     },
     {
@@ -2159,8 +2579,8 @@
       "location": "Seattle, WA",
       "url": "https://job-boards.greenhouse.io/thealleninstitute/jobs/7955021",
       "posted_at": "2026-05-26T18:53:19+00:00",
-      "first_seen_at": "2026-05-27T18:30:07.423046+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:56:20.986025+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 1
     },
     {
@@ -2171,8 +2591,8 @@
       "location": "Seattle, WA",
       "url": "https://job-boards.greenhouse.io/thealleninstitute/jobs/7848623",
       "posted_at": "2026-05-26T18:53:19+00:00",
-      "first_seen_at": "2026-05-27T18:30:07.423046+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:56:20.986025+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 1
     },
     {
@@ -2183,8 +2603,8 @@
       "location": "Seattle, WA",
       "url": "https://job-boards.greenhouse.io/thealleninstitute/jobs/7522005",
       "posted_at": "2026-05-26T18:53:19+00:00",
-      "first_seen_at": "2026-05-27T18:30:07.423046+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:56:20.986025+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 0
     },
     {
@@ -2195,8 +2615,8 @@
       "location": "Remote",
       "url": "https://job-boards.greenhouse.io/calendly/jobs/8563165002",
       "posted_at": "2026-05-26T18:16:31+00:00",
-      "first_seen_at": "2026-05-27T18:25:24.825292+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:52:17.346355+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 2
     },
     {
@@ -2207,8 +2627,8 @@
       "location": "Remote Mexico",
       "url": "https://job-boards.greenhouse.io/mitratech/jobs/7948246",
       "posted_at": "2026-05-26T18:12:02+00:00",
-      "first_seen_at": "2026-05-27T18:27:34.379835+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:54:26.952788+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 3
     },
     {
@@ -2219,8 +2639,8 @@
       "location": "Tysons Corner, VA",
       "url": "https://job-boards.greenhouse.io/devtechnology/jobs/8555970002",
       "posted_at": "2026-05-26T18:07:48+00:00",
-      "first_seen_at": "2026-05-27T18:30:56.041366+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:57:51.611791+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 0
     },
     {
@@ -2231,8 +2651,8 @@
       "location": "Remote - United States",
       "url": "https://job-boards.greenhouse.io/zetaglobal/jobs/5692542004",
       "posted_at": "2026-05-26T18:01:20+00:00",
-      "first_seen_at": "2026-05-27T18:27:05.577249+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:53:50.347550+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 2
     },
     {
@@ -2243,8 +2663,8 @@
       "location": "New York, New York, United States",
       "url": "https://job-boards.greenhouse.io/zetaglobal/jobs/5692538004",
       "posted_at": "2026-05-26T18:01:19+00:00",
-      "first_seen_at": "2026-05-27T18:27:05.577249+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:53:50.347550+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 0
     },
     {
@@ -2255,8 +2675,8 @@
       "location": "San Francisco, California, United States",
       "url": "https://job-boards.greenhouse.io/zetaglobal/jobs/5689165004",
       "posted_at": "2026-05-26T18:01:18+00:00",
-      "first_seen_at": "2026-05-27T18:27:05.577249+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:53:50.347550+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 0
     },
     {
@@ -2267,8 +2687,8 @@
       "location": "St. Louis, MO",
       "url": "https://boards.greenhouse.io/accenturefederalservices/jobs/4643762006?gh_jid=4643762006",
       "posted_at": "2026-05-26T17:59:12+00:00",
-      "first_seen_at": "2026-05-27T18:28:06.203386+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:54:47.373215+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 1
     },
     {
@@ -2279,8 +2699,8 @@
       "location": "San Francisco, CA, US; Remote, US",
       "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7642249",
       "posted_at": "2026-05-26T17:48:34+00:00",
-      "first_seen_at": "2026-05-27T18:25:27.746886+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:52:11.914173+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 3
     },
     {
@@ -2291,8 +2711,8 @@
       "location": "Ann Arbor, MI",
       "url": "https://job-boards.greenhouse.io/torcrobotics/jobs/8560188002",
       "posted_at": "2026-05-26T17:37:17+00:00",
-      "first_seen_at": "2026-05-27T18:31:41.060736+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:57:12.597078+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 1
     },
     {
@@ -2303,8 +2723,8 @@
       "location": "New York City, NY; San Francisco, CA | New York City, NY; Seattle, WA",
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5229976008",
       "posted_at": "2026-05-26T17:33:29+00:00",
-      "first_seen_at": "2026-05-27T18:25:21.219976+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:52:16.153173+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 1
     },
     {
@@ -2315,8 +2735,8 @@
       "location": "UK Remote",
       "url": "https://www.newrocket.com/careers/job?gh_jid=6006086004&gh_jid=6006086004",
       "posted_at": "2026-05-26T17:30:31+00:00",
-      "first_seen_at": "2026-05-27T18:26:24.162164+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:53:20.937235+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 3
     },
     {
@@ -2327,8 +2747,8 @@
       "location": "USA - Remote",
       "url": "https://www.newrocket.com/careers/job?gh_jid=6006074004&gh_jid=6006074004",
       "posted_at": "2026-05-26T17:27:20+00:00",
-      "first_seen_at": "2026-05-27T18:26:24.162164+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:53:20.937235+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 3
     },
     {
@@ -2339,8 +2759,8 @@
       "location": "Remote",
       "url": "https://job-boards.greenhouse.io/eclinicalsolutions/jobs/5067845007",
       "posted_at": "2026-05-26T17:24:14+00:00",
-      "first_seen_at": "2026-05-27T18:28:40.993889+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:55:31.773081+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 2
     },
     {
@@ -2351,8 +2771,8 @@
       "location": "New York, New York, United States",
       "url": "https://job-boards.greenhouse.io/turing/jobs/5984688004",
       "posted_at": "2026-05-26T16:59:30+00:00",
-      "first_seen_at": "2026-05-27T18:26:37.363613+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:54:42.550730+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 0
     },
     {
@@ -2363,8 +2783,8 @@
       "location": "LATAM (Remote), US (Remote)",
       "url": "https://job-boards.greenhouse.io/nimblegravity/jobs/4692556005",
       "posted_at": "2026-05-26T16:55:59+00:00",
-      "first_seen_at": "2026-05-27T18:28:41.590504+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:54:16.149995+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 3
     },
     {
@@ -2375,8 +2795,8 @@
       "location": "United States",
       "url": "https://www.storable.com/about-us/culture/careers/?gh_jid=5799003004",
       "posted_at": "2026-05-26T16:52:57+00:00",
-      "first_seen_at": "2026-05-27T18:26:48.167899+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:54:04.151513+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 0
     },
     {
@@ -2387,8 +2807,8 @@
       "location": "Canada - Remote (ON, AB, BC, or NS Only)",
       "url": "https://instacart.careers/job/?gh_jid=7958122",
       "posted_at": "2026-05-26T16:51:46+00:00",
-      "first_seen_at": "2026-05-27T18:25:29.554324+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:52:01.723649+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 2
     },
     {
@@ -2399,8 +2819,8 @@
       "location": "United States - Remote",
       "url": "https://instacart.careers/job/?gh_jid=7958121",
       "posted_at": "2026-05-26T16:49:45+00:00",
-      "first_seen_at": "2026-05-27T18:25:29.554324+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:52:01.723649+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 2
     },
     {
@@ -2411,8 +2831,8 @@
       "location": "Remote, United States",
       "url": "https://jobs.lever.co/wpromote/24d4df1b-1296-4278-b19d-dd1ebfb4bf3a",
       "posted_at": "2026-05-26T16:45:55.091000+00:00",
-      "first_seen_at": "2026-05-27T18:33:00.059836+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:59:50.228756+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 5
     },
     {
@@ -2423,8 +2843,8 @@
       "location": "San Francisco, CA; Seattle, WA; New York, NY; Los Angeles, CA; Chicago, IL; Austin, TX; Washington D.C.",
       "url": "https://job-boards.greenhouse.io/doordashusa/jobs/6103225",
       "posted_at": "2026-05-26T16:42:36+00:00",
-      "first_seen_at": "2026-05-27T18:28:57.236554+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:55:47.408367+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 0
     },
     {
@@ -2435,8 +2855,8 @@
       "location": "San Francisco, CA; Seattle, WA; New York, NY",
       "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7380096",
       "posted_at": "2026-05-26T16:42:36+00:00",
-      "first_seen_at": "2026-05-27T18:28:57.236554+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:55:47.408367+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 0
     },
     {
@@ -2447,8 +2867,8 @@
       "location": "Sunnyvale, CA",
       "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7760003",
       "posted_at": "2026-05-26T16:42:36+00:00",
-      "first_seen_at": "2026-05-27T18:28:57.236554+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:55:47.408367+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 0
     },
     {
@@ -2459,8 +2879,8 @@
       "location": "San Francisco, CA; Sunnyvale, CA, Seattle, WA",
       "url": "https://job-boards.greenhouse.io/doordashusa/jobs/6108388",
       "posted_at": "2026-05-26T16:42:36+00:00",
-      "first_seen_at": "2026-05-27T18:28:57.236554+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:55:47.408367+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 0
     },
     {
@@ -2471,8 +2891,8 @@
       "location": "San Francisco, CA; Sunnyvale, CA",
       "url": "https://job-boards.greenhouse.io/doordashusa/jobs/6458514",
       "posted_at": "2026-05-26T16:42:36+00:00",
-      "first_seen_at": "2026-05-27T18:28:57.236554+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:55:47.408367+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 2
     },
     {
@@ -2483,8 +2903,8 @@
       "location": "United States - Remote",
       "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7905285",
       "posted_at": "2026-05-26T16:42:36+00:00",
-      "first_seen_at": "2026-05-27T18:28:57.236554+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:55:47.408367+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 3
     },
     {
@@ -2495,8 +2915,8 @@
       "location": "San Francisco, CA; Sunnyvale, CA; Seattle, WA",
       "url": "https://job-boards.greenhouse.io/doordashusa/jobs/6107041",
       "posted_at": "2026-05-26T16:42:36+00:00",
-      "first_seen_at": "2026-05-27T18:28:57.236554+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:55:47.408367+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 0
     },
     {
@@ -2507,8 +2927,8 @@
       "location": "New York, NY; Chicago, IL",
       "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7727529",
       "posted_at": "2026-05-26T16:42:36+00:00",
-      "first_seen_at": "2026-05-27T18:28:57.236554+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:55:47.408367+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 1
     },
     {
@@ -2519,8 +2939,8 @@
       "location": "Seattle, Washington, United States",
       "url": "https://jobs.lever.co/brillio-2/4a9dd4fe-d97e-4304-9222-43a67a8d4975",
       "posted_at": "2026-05-26T16:32:56.186000+00:00",
-      "first_seen_at": "2026-05-27T18:31:48.174681+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:59:05.075567+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 0
     },
     {
@@ -2531,8 +2951,8 @@
       "location": "Remote (WFH)",
       "url": "https://www.adaptivebiotech.com/career-listings/listing?gh_jid=8464809002",
       "posted_at": "2026-05-26T16:32:06+00:00",
-      "first_seen_at": "2026-05-27T18:27:21.774791+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:53:14.942118+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 2
     },
     {
@@ -2543,21 +2963,9 @@
       "location": "Remote Spain",
       "url": "https://job-boards.greenhouse.io/affirm/jobs/7732927003",
       "posted_at": "2026-05-26T16:23:48+00:00",
-      "first_seen_at": "2026-05-27T18:27:13.977661+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:54:13.750762+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 2
-    },
-    {
-      "source": "greenhouse",
-      "job_id": "4658283005",
-      "title": "Staff Data Scientist & Analytics ",
-      "company": "flex",
-      "location": "New York, NY",
-      "url": "https://job-boards.greenhouse.io/flex/jobs/4658283005",
-      "posted_at": "2026-05-26T16:10:03+00:00",
-      "first_seen_at": "2026-05-27T18:31:00.257084+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
-      "score": 0
     },
     {
       "source": "greenhouse",
@@ -2567,8 +2975,8 @@
       "location": "Cincinnati, Ohio, United States",
       "url": "https://job-boards.greenhouse.io/amendconsulting/jobs/4257698009",
       "posted_at": "2026-05-26T15:33:39+00:00",
-      "first_seen_at": "2026-05-27T18:26:29.563918+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:53:23.933178+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 1
     },
     {
@@ -2579,8 +2987,8 @@
       "location": "Chicago, IL",
       "url": "https://jobs.lever.co/jetsupport/06b0cdeb-f781-4a0b-9ae6-4fdabeed300a",
       "posted_at": "2026-05-26T15:12:06.218000+00:00",
-      "first_seen_at": "2026-05-27T18:32:59.281731+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:59:44.159207+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 2
     },
     {
@@ -2591,8 +2999,8 @@
       "location": "Seattle, WA",
       "url": "https://jobs.lever.co/outreach/03198a0a-e455-43fd-9666-30ec5fedcb6b",
       "posted_at": "2026-05-26T15:10:54.191000+00:00",
-      "first_seen_at": "2026-05-27T18:32:58.716511+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:59:44.871862+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 0
     },
     {
@@ -2603,8 +3011,8 @@
       "location": "United States",
       "url": "https://job-boards.greenhouse.io/dragos/jobs/5181347008",
       "posted_at": "2026-05-26T15:08:30+00:00",
-      "first_seen_at": "2026-05-27T18:27:38.582273+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:54:23.948237+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 0
     },
     {
@@ -2615,8 +3023,8 @@
       "location": "Barcelona, Spain/Parkland, Florida, USA",
       "url": "https://job-boards.greenhouse.io/appodeal/jobs/4255957008",
       "posted_at": "2026-05-26T15:02:10+00:00",
-      "first_seen_at": "2026-05-27T18:27:13.373014+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:53:58.743112+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 1
     },
     {
@@ -2627,8 +3035,8 @@
       "location": "Arlington, VA",
       "url": "https://boards.greenhouse.io/accenturefederalservices/jobs/4683265006?gh_jid=4683265006",
       "posted_at": "2026-05-26T15:01:05+00:00",
-      "first_seen_at": "2026-05-27T18:28:06.203386+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:54:47.373215+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 1
     },
     {
@@ -2639,8 +3047,8 @@
       "location": "Arlington, VA",
       "url": "https://boards.greenhouse.io/accenturefederalservices/jobs/4683257006?gh_jid=4683257006",
       "posted_at": "2026-05-26T14:59:46+00:00",
-      "first_seen_at": "2026-05-27T18:28:06.203386+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:54:47.373215+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 1
     },
     {
@@ -2651,8 +3059,8 @@
       "location": "New York, NY",
       "url": "https://job-boards.greenhouse.io/harrys/jobs/7957773",
       "posted_at": "2026-05-26T14:59:09+00:00",
-      "first_seen_at": "2026-05-27T18:31:24.852887+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:58:10.840393+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 0
     },
     {
@@ -2663,8 +3071,8 @@
       "location": "New York, NY",
       "url": "https://job-boards.greenhouse.io/mammothbrands/jobs/7957775",
       "posted_at": "2026-05-26T14:59:08+00:00",
-      "first_seen_at": "2026-05-27T18:31:26.648836+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:58:16.821162+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 0
     },
     {
@@ -2675,8 +3083,8 @@
       "location": "New York, NY",
       "url": "https://job-boards.greenhouse.io/flamingo/jobs/7957783",
       "posted_at": "2026-05-26T14:59:07+00:00",
-      "first_seen_at": "2026-05-27T18:31:34.447058+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:58:10.219033+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 0
     },
     {
@@ -2687,8 +3095,8 @@
       "location": "New York, NY",
       "url": "https://job-boards.greenhouse.io/103644278/jobs/7957786",
       "posted_at": "2026-05-26T14:59:06+00:00",
-      "first_seen_at": "2026-05-27T18:31:29.067284+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:58:31.222775+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 0
     },
     {
@@ -2699,8 +3107,8 @@
       "location": "Arlington, VA",
       "url": "https://boards.greenhouse.io/accenturefederalservices/jobs/4683233006?gh_jid=4683233006",
       "posted_at": "2026-05-26T14:58:34+00:00",
-      "first_seen_at": "2026-05-27T18:28:06.203386+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:54:47.373215+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 1
     },
     {
@@ -2711,8 +3119,8 @@
       "location": "Remote - US",
       "url": "https://job-boards.greenhouse.io/newsela/jobs/7899338",
       "posted_at": "2026-05-26T14:57:24+00:00",
-      "first_seen_at": "2026-05-27T18:27:00.173159+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:52:53.926069+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 3
     },
     {
@@ -2723,8 +3131,8 @@
       "location": "Arlington, VA",
       "url": "https://boards.greenhouse.io/accenturefederalservices/jobs/4683208006?gh_jid=4683208006",
       "posted_at": "2026-05-26T14:57:08+00:00",
-      "first_seen_at": "2026-05-27T18:28:06.203386+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:54:47.373215+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 1
     },
     {
@@ -2735,8 +3143,8 @@
       "location": "LATAM,  Canada,  USA",
       "url": "https://jobicy.com/jobs/144856-senior-data-scientist-4",
       "posted_at": "2026-05-26T14:56:02+00:00",
-      "first_seen_at": "2026-05-27T18:33:05.615929+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:59:50.330309+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 0
     },
     {
@@ -2747,8 +3155,8 @@
       "location": "Arlington, VA",
       "url": "https://boards.greenhouse.io/accenturefederalservices/jobs/4683202006?gh_jid=4683202006",
       "posted_at": "2026-05-26T14:55:28+00:00",
-      "first_seen_at": "2026-05-27T18:28:06.203386+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:54:47.373215+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 1
     },
     {
@@ -2759,8 +3167,8 @@
       "location": "Arlington, VA",
       "url": "https://boards.greenhouse.io/accenturefederalservices/jobs/4683169006?gh_jid=4683169006",
       "posted_at": "2026-05-26T14:54:42+00:00",
-      "first_seen_at": "2026-05-27T18:28:06.203386+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:54:47.373215+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 1
     },
     {
@@ -2771,8 +3179,8 @@
       "location": "Remote (United States)",
       "url": "https://job-boards.greenhouse.io/smarterdx/jobs/4729710007",
       "posted_at": "2026-05-26T14:20:29+00:00",
-      "first_seen_at": "2026-05-27T18:31:04.441223+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:57:44.413420+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 2
     },
     {
@@ -2783,8 +3191,8 @@
       "location": "New York, New York, United States",
       "url": "https://boards.greenhouse.io/drivewealth/jobs/7606507003?gh_jid=7606507003",
       "posted_at": "2026-05-26T14:19:14+00:00",
-      "first_seen_at": "2026-05-27T18:29:06.802881+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:55:55.180684+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 0
     },
     {
@@ -2795,8 +3203,8 @@
       "location": "New York, New York, United States",
       "url": "https://boards.greenhouse.io/drivewealth/jobs/7683253003?gh_jid=7683253003",
       "posted_at": "2026-05-26T14:19:14+00:00",
-      "first_seen_at": "2026-05-27T18:29:06.802881+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:55:55.180684+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 0
     },
     {
@@ -2807,8 +3215,8 @@
       "location": "New York, New York, United States",
       "url": "https://boards.greenhouse.io/drivewealth/jobs/6283156003?gh_jid=6283156003",
       "posted_at": "2026-05-26T14:19:14+00:00",
-      "first_seen_at": "2026-05-27T18:29:06.802881+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:55:55.180684+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 0
     },
     {
@@ -2819,8 +3227,8 @@
       "location": "Remote (United States)",
       "url": "https://job-boards.greenhouse.io/smarterdx/jobs/4686334007",
       "posted_at": "2026-05-26T14:18:23+00:00",
-      "first_seen_at": "2026-05-27T18:31:04.441223+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:57:44.413420+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 2
     },
     {
@@ -2831,33 +3239,9 @@
       "location": "Virtual (Remote)",
       "url": "https://boards.greenhouse.io/octave/jobs/8457080002?gh_jid=8457080002",
       "posted_at": "2026-05-26T13:41:09+00:00",
-      "first_seen_at": "2026-05-27T18:25:45.749392+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:52:31.124816+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 3
-    },
-    {
-      "source": "greenhouse",
-      "job_id": "5802159004",
-      "title": "Senior AI Engineer - Grafana Ops, AI/ML | USA | Remote",
-      "company": "grafanalabs",
-      "location": "United States (Remote)",
-      "url": "https://job-boards.greenhouse.io/grafanalabs/jobs/5802159004",
-      "posted_at": "2026-05-26T13:01:17+00:00",
-      "first_seen_at": "2026-05-27T18:31:37.446093+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
-      "score": 2
-    },
-    {
-      "source": "greenhouse",
-      "job_id": "5802160004",
-      "title": "Senior AI Engineer - Grafana Ops, AI/ML | Canada | Remote",
-      "company": "grafanalabs",
-      "location": "Canada (Remote)",
-      "url": "https://job-boards.greenhouse.io/grafanalabs/jobs/5802160004",
-      "posted_at": "2026-05-26T13:01:16+00:00",
-      "first_seen_at": "2026-05-27T18:31:37.446093+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
-      "score": 2
     },
     {
       "source": "greenhouse",
@@ -2867,8 +3251,8 @@
       "location": "Denver, Colorado, United States",
       "url": "https://job-boards.greenhouse.io/contentful/jobs/7544099",
       "posted_at": "2026-05-26T12:40:29+00:00",
-      "first_seen_at": "2026-05-27T18:31:05.044651+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:57:49.818534+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 1
     },
     {
@@ -2879,8 +3263,8 @@
       "location": "Denver, Colorado, United States",
       "url": "https://job-boards.greenhouse.io/contentful/jobs/7548713",
       "posted_at": "2026-05-26T12:40:29+00:00",
-      "first_seen_at": "2026-05-27T18:31:05.044651+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:57:49.818534+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 1
     },
     {
@@ -2891,8 +3275,8 @@
       "location": "Denver, Colorado, United States",
       "url": "https://job-boards.greenhouse.io/contentful/jobs/7560356",
       "posted_at": "2026-05-26T12:40:29+00:00",
-      "first_seen_at": "2026-05-27T18:31:05.044651+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:57:49.818534+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 0
     },
     {
@@ -2903,8 +3287,8 @@
       "location": "Costa Mesa, California, United States",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5136528007?gh_jid=5136528007",
       "posted_at": "2026-05-26T12:31:08+00:00",
-      "first_seen_at": "2026-05-27T18:30:08.169675+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:56:25.240941+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 0
     },
     {
@@ -2915,8 +3299,8 @@
       "location": "New York, New York, United States",
       "url": "https://www.brex.com/careers/8463702002?gh_jid=8463702002",
       "posted_at": "2026-05-26T12:12:55+00:00",
-      "first_seen_at": "2026-05-27T18:28:15.277522+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:57:04.806322+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 2
     },
     {
@@ -2927,8 +3311,8 @@
       "location": "San Francisco, California, United States",
       "url": "https://www.brex.com/careers/8463699002?gh_jid=8463699002",
       "posted_at": "2026-05-26T12:12:55+00:00",
-      "first_seen_at": "2026-05-27T18:28:15.277522+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:57:04.806322+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 2
     },
     {
@@ -2939,8 +3323,8 @@
       "location": "New York, New York, United States",
       "url": "https://www.brex.com/careers/8463704002?gh_jid=8463704002",
       "posted_at": "2026-05-26T12:12:55+00:00",
-      "first_seen_at": "2026-05-27T18:28:15.277522+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:57:04.806322+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 2
     },
     {
@@ -2951,8 +3335,8 @@
       "location": "San Francisco, California, United States",
       "url": "https://www.brex.com/careers/8463696002?gh_jid=8463696002",
       "posted_at": "2026-05-26T12:12:54+00:00",
-      "first_seen_at": "2026-05-27T18:28:15.277522+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:57:04.806322+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 2
     },
     {
@@ -2963,8 +3347,8 @@
       "location": "San Francisco, California, United States",
       "url": "https://www.brex.com/careers/8366850002?gh_jid=8366850002",
       "posted_at": "2026-05-26T12:12:51+00:00",
-      "first_seen_at": "2026-05-27T18:28:15.277522+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:57:04.806322+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 1
     },
     {
@@ -2975,8 +3359,8 @@
       "location": "Ashville, Ohio, United States",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5107205007?gh_jid=5107205007",
       "posted_at": "2026-05-26T11:51:02+00:00",
-      "first_seen_at": "2026-05-27T18:30:08.169675+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:56:25.240941+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 1
     },
     {
@@ -2987,8 +3371,8 @@
       "location": "Costa Mesa, California, United States",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5057159007?gh_jid=5057159007",
       "posted_at": "2026-05-26T10:55:05+00:00",
-      "first_seen_at": "2026-05-27T18:30:08.169675+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:56:25.240941+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 1
     },
     {
@@ -2999,8 +3383,8 @@
       "location": "Washington, District of Columbia, United States",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5077336007?gh_jid=5077336007",
       "posted_at": "2026-05-26T10:45:30+00:00",
-      "first_seen_at": "2026-05-27T18:30:08.169675+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:56:25.240941+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 0
     },
     {
@@ -3011,8 +3395,8 @@
       "location": "Remote Mexico",
       "url": "https://job-boards.greenhouse.io/mitratech/jobs/7812294",
       "posted_at": "2026-05-26T09:24:56+00:00",
-      "first_seen_at": "2026-05-27T18:27:34.379835+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:54:26.952788+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 3
     },
     {
@@ -3023,8 +3407,8 @@
       "location": "New York, NY",
       "url": "https://job-boards.greenhouse.io/ibkr/jobs/8365234002",
       "posted_at": "2026-05-26T07:04:35+00:00",
-      "first_seen_at": "2026-05-27T18:26:28.965162+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:53:14.354756+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 1
     },
     {
@@ -3035,8 +3419,8 @@
       "location": "Greenwich, CT",
       "url": "https://job-boards.greenhouse.io/ibkr/jobs/8112195002",
       "posted_at": "2026-05-26T07:04:35+00:00",
-      "first_seen_at": "2026-05-27T18:26:28.965162+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:53:14.354756+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 0
     },
     {
@@ -3047,8 +3431,8 @@
       "location": "Boston, MA",
       "url": "https://www.klaviyo.com/careers/jobs?gh_jid=7669291003",
       "posted_at": "2026-05-26T07:02:36+00:00",
-      "first_seen_at": "2026-05-27T18:26:34.975206+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:52:09.516772+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 2
     },
     {
@@ -3059,8 +3443,8 @@
       "location": "Boston, MA",
       "url": "https://www.klaviyo.com/careers/jobs?gh_jid=7564587003",
       "posted_at": "2026-05-26T07:02:06+00:00",
-      "first_seen_at": "2026-05-27T18:26:34.975206+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:52:09.516772+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 0
     },
     {
@@ -3071,8 +3455,8 @@
       "location": "Remote, Europe; Remote, UK; Remote, US",
       "url": "https://www.veracode.com/career/job?gh_jid=8355110002",
       "posted_at": "2026-05-26T01:27:44+00:00",
-      "first_seen_at": "2026-05-27T18:25:19.970960+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:52:35.354901+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 1
     },
     {
@@ -3083,8 +3467,8 @@
       "location": "Tysons, Virginia, United States",
       "url": "https://boards.greenhouse.io/tegnainc/jobs/4870922007?gh_jid=4870922007",
       "posted_at": "2026-05-25T23:20:27+00:00",
-      "first_seen_at": "2026-05-27T18:30:08.852044+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:56:49.804948+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 1
     },
     {
@@ -3095,8 +3479,8 @@
       "location": "Remote, Canada",
       "url": "https://job-boards.greenhouse.io/chelseaavondale/jobs/4605201006",
       "posted_at": "2026-05-25T19:33:28+00:00",
-      "first_seen_at": "2026-05-27T18:28:42.194346+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:55:26.372951+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 3
     },
     {
@@ -3107,8 +3491,8 @@
       "location": "Remote Canada",
       "url": "https://job-boards.greenhouse.io/affirm/jobs/7719653003",
       "posted_at": "2026-05-25T15:10:02+00:00",
-      "first_seen_at": "2026-05-27T18:27:13.977661+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:54:13.750762+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 4
     },
     {
@@ -3119,8 +3503,8 @@
       "location": "Remote US",
       "url": "https://job-boards.greenhouse.io/affirm/jobs/7719651003",
       "posted_at": "2026-05-25T15:10:00+00:00",
-      "first_seen_at": "2026-05-27T18:27:13.977661+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:54:13.750762+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 4
     },
     {
@@ -3131,8 +3515,8 @@
       "location": "Remote",
       "url": "https://job-boards.greenhouse.io/automatticcareers/jobs/7847202",
       "posted_at": "2026-05-25T14:11:39+00:00",
-      "first_seen_at": "2026-05-27T18:26:25.971000+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:53:10.736744+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 2
     },
     {
@@ -3143,8 +3527,8 @@
       "location": "Brazil, Remote",
       "url": "https://job-boards.greenhouse.io/abinbev/jobs/7598518002",
       "posted_at": "2026-05-25T13:17:46+00:00",
-      "first_seen_at": "2026-05-27T18:27:02.103892+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:53:45.541551+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 3
     },
     {
@@ -3155,8 +3539,8 @@
       "location": "San Mateo, CA",
       "url": "https://job-boards.greenhouse.io/inmobi/jobs/7253268",
       "posted_at": "2026-05-25T13:12:58+00:00",
-      "first_seen_at": "2026-05-27T18:26:46.370627+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:53:32.340397+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 2
     },
     {
@@ -3167,8 +3551,8 @@
       "location": "Work from Home - Spain",
       "url": "https://job-boards.greenhouse.io/vonage/jobs/8405034002",
       "posted_at": "2026-05-25T10:25:49+00:00",
-      "first_seen_at": "2026-05-27T18:25:22.342596+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:52:06.516019+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 0
     },
     {
@@ -3179,8 +3563,8 @@
       "location": "San Francisco, CA | New York City, NY",
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5212119008",
       "posted_at": "2026-05-25T09:26:38+00:00",
-      "first_seen_at": "2026-05-27T18:25:21.219976+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:52:16.153173+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 1
     },
     {
@@ -3191,8 +3575,8 @@
       "location": "Chicago, United States; New York, United States",
       "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4713602101",
       "posted_at": "2026-05-25T06:53:45+00:00",
-      "first_seen_at": "2026-05-27T18:25:18.178012+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:52:14.345936+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 1
     },
     {
@@ -3203,8 +3587,8 @@
       "location": "Chicago, United States; Hong Kong, Hong Kong; Sydney,  Australia",
       "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4570309101",
       "posted_at": "2026-05-25T06:53:45+00:00",
-      "first_seen_at": "2026-05-27T18:25:18.178012+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:52:14.345936+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 1
     },
     {
@@ -3215,8 +3599,8 @@
       "location": "Chicago, United States; New York, United States",
       "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4699252101",
       "posted_at": "2026-05-25T06:53:45+00:00",
-      "first_seen_at": "2026-05-27T18:25:18.178012+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:52:14.345936+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 0
     },
     {
@@ -3227,8 +3611,8 @@
       "location": "Chicago, United States; New York, United States",
       "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4573906101",
       "posted_at": "2026-05-25T06:53:45+00:00",
-      "first_seen_at": "2026-05-27T18:25:18.178012+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:52:14.345936+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": -1
     },
     {
@@ -3239,8 +3623,8 @@
       "location": "Amsterdam, Netherlands; Chicago, United States; Hong Kong, Hong Kong; London, United Kingdom; New York, United States; Sydney,  Australia",
       "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4721116101",
       "posted_at": "2026-05-25T06:53:45+00:00",
-      "first_seen_at": "2026-05-27T18:25:18.178012+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:52:14.345936+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 0
     },
     {
@@ -3251,8 +3635,8 @@
       "location": "Chicago, United States",
       "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4660792101",
       "posted_at": "2026-05-25T06:53:45+00:00",
-      "first_seen_at": "2026-05-27T18:25:18.178012+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:52:14.345936+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 0
     },
     {
@@ -3263,8 +3647,8 @@
       "location": "New York, United States",
       "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4382558101",
       "posted_at": "2026-05-25T06:53:45+00:00",
-      "first_seen_at": "2026-05-27T18:25:18.178012+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:52:14.345936+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 0
     },
     {
@@ -3275,8 +3659,8 @@
       "location": "Chicago, United States; New York, United States",
       "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4740859101",
       "posted_at": "2026-05-25T06:53:45+00:00",
-      "first_seen_at": "2026-05-27T18:25:18.178012+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:52:14.345936+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 0
     },
     {
@@ -3287,8 +3671,8 @@
       "location": "Chicago, United States",
       "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4286816101",
       "posted_at": "2026-05-25T06:53:45+00:00",
-      "first_seen_at": "2026-05-27T18:25:18.178012+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:52:14.345936+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 0
     },
     {
@@ -3299,8 +3683,8 @@
       "location": "Chicago, United States",
       "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4849395101",
       "posted_at": "2026-05-25T06:53:45+00:00",
-      "first_seen_at": "2026-05-27T18:25:18.178012+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:52:14.345936+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 0
     },
     {
@@ -3311,8 +3695,8 @@
       "location": "Remote - USA",
       "url": "https://abnormal.ai/careers/jobs/7715170003?gh_jid=7715170003",
       "posted_at": "2026-05-25T04:05:27+00:00",
-      "first_seen_at": "2026-05-27T18:26:57.171719+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:53:34.739884+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 2
     },
     {
@@ -3323,8 +3707,8 @@
       "location": "Remote - UK",
       "url": "https://abnormal.ai/careers/jobs/7679778003?gh_jid=7679778003",
       "posted_at": "2026-05-25T04:03:10+00:00",
-      "first_seen_at": "2026-05-27T18:26:57.171719+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:53:34.739884+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 4
     },
     {
@@ -3335,8 +3719,8 @@
       "location": "Remote - USA",
       "url": "https://abnormal.ai/careers/jobs/7612697003?gh_jid=7612697003",
       "posted_at": "2026-05-25T04:01:34+00:00",
-      "first_seen_at": "2026-05-27T18:26:57.171719+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:53:34.739884+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 4
     },
     {
@@ -3347,8 +3731,8 @@
       "location": "San Francisco, CA",
       "url": "https://job-boards.greenhouse.io/sigmacomputing/jobs/7747538003",
       "posted_at": "2026-05-25T03:06:55+00:00",
-      "first_seen_at": "2026-05-27T18:31:20.048227+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:58:09.625106+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 0
     },
     {
@@ -3359,8 +3743,8 @@
       "location": "New York City, NY",
       "url": "https://job-boards.greenhouse.io/sigmacomputing/jobs/7747540003",
       "posted_at": "2026-05-25T03:04:58+00:00",
-      "first_seen_at": "2026-05-27T18:31:20.048227+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:58:09.625106+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 0
     },
     {
@@ -3371,8 +3755,8 @@
       "location": "New York City, NY",
       "url": "https://job-boards.greenhouse.io/sigmacomputing/jobs/7747539003",
       "posted_at": "2026-05-25T03:03:44+00:00",
-      "first_seen_at": "2026-05-27T18:31:20.048227+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:58:09.625106+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 0
     },
     {
@@ -3383,8 +3767,8 @@
       "location": "San Francisco, CA",
       "url": "https://job-boards.greenhouse.io/sigmacomputing/jobs/7737009003",
       "posted_at": "2026-05-25T03:02:36+00:00",
-      "first_seen_at": "2026-05-27T18:31:20.048227+00:00",
-      "last_seen_at": "2026-05-27T18:56:33.980344+00:00",
+      "first_seen_at": "2026-05-27T21:58:09.625106+00:00",
+      "last_seen_at": "2026-05-27T22:23:12.699430+00:00",
       "score": 0
     }
   ]

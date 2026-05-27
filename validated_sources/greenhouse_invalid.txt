@@ -5298,7 +5298,6 @@ system	no_matching_jobs
 syndigo	no_matching_jobs
 jnanatherapeutics	http_404
 spotonproduct	http_404
-otrcapital1	no_matching_jobs
 shinola	no_matching_jobs
 focuspartnerswealth	no_matching_jobs
 sonymusiccanada	no_jobs
@@ -5904,7 +5903,6 @@ m0dbathenextthingltd	no_matching_jobs
 bettyjobboard	no_matching_jobs
 rhythmagency	http_404
 payhawkio	no_matching_jobs
-oddball	no_matching_jobs
 shipmonk	no_matching_jobs
 thirtymadison	no_matching_jobs
 oruka	no_matching_jobs
