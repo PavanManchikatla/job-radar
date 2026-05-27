@@ -647,3 +647,6 @@ osano
 atek
 themotleyfool
 cellanome
+connectwise
+bruntworkwear
+stablekernel

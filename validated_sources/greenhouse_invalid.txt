@@ -3609,7 +3609,6 @@ workspace one	http_404
 intune	http_404
 manageengine	http_404
 datto	http_404
-connectwise	no_matching_jobs
 n-able	http_404
 kaseya	no_matching_jobs
 veeam	http_404
@@ -5020,7 +5019,6 @@ octanelending	no_matching_jobs
 onemedical	no_matching_jobs
 ukmed	no_matching_jobs
 adahealth	no_matching_jobs
-bruntworkwear	no_matching_jobs
 retool	http_404
 davidzwirnergallery	no_matching_jobs
 cutover	no_matching_jobs
@@ -5356,7 +5354,6 @@ surefirecyber	no_matching_jobs
 thematherevanston	no_matching_jobs
 checkalt	no_matching_jobs
 ribolifamilywines	no_matching_jobs
-stablekernel	no_matching_jobs
 nazare	no_jobs
 blackthorn	no_matching_jobs
 fubotv	no_matching_jobs
