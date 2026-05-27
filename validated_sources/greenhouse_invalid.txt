@@ -5793,7 +5793,6 @@ antaresrx	no_matching_jobs
 xometry	no_matching_jobs
 digrestaurants	no_matching_jobs
 superblocks	http_404
-itero-group	no_matching_jobs
 ferocia	no_matching_jobs
 boloai	no_matching_jobs
 hotwirede	http_404
@@ -6111,7 +6110,6 @@ regrow	http_404
 visiersolutionsinc	no_matching_jobs
 mrbeastyoutube	no_matching_jobs
 resortpass	no_matching_jobs
-bluewaterthinking	no_matching_jobs
 hatchcareers	no_matching_jobs
 slingshotbiosciences	no_matching_jobs
 medarrive	http_404
@@ -6720,7 +6718,6 @@ dataikujobs	no_matching_jobs
 66degrees	no_matching_jobs
 willowtree	http_404
 tenstreet	no_matching_jobs
-mntn	no_matching_jobs
 forteracorporation	no_matching_jobs
 waverleystreetfoundation	http_404
 socialscienceresearchcouncil	no_matching_jobs
@@ -7195,7 +7192,6 @@ grist	no_jobs
 forbes	no_matching_jobs
 coop	no_jobs
 jumia	no_matching_jobs
-energage	no_matching_jobs
 national	no_matching_jobs
 applytosuno	no_matching_jobs
 cashcowlouisiana	no_matching_jobs
@@ -7970,7 +7966,6 @@ myfitnesspal	no_matching_jobs
 hebrewpublic	no_matching_jobs
 latam	http_404
 a1msolutions	no_matching_jobs
-healthverity	no_matching_jobs
 bcomsolutions	no_matching_jobs
 unlockhealth	no_matching_jobs
 gravitate	no_jobs
@@ -8566,7 +8561,6 @@ nauto	no_matching_jobs
 tripadvisor	no_matching_jobs
 tenableinc	no_matching_jobs
 wgachidden	no_matching_jobs
-patientpoint	no_matching_jobs
 xosinc	no_matching_jobs
 apono	http_404
 vibesllc	no_matching_jobs

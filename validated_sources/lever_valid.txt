@@ -155,3 +155,5 @@ outreach
 jetsupport
 zencore
 wpromote
+rezotx
+vida

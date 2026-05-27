@@ -10054,7 +10054,6 @@ trilogyfederal	http_404
 skio	no_matching_jobs
 trivenibio	no_matching_jobs
 terrascend	no_matching_jobs
-rezotx	no_matching_jobs
 trunkio	no_matching_jobs
 trustarc	no_matching_jobs
 standtogether	no_matching_jobs
@@ -10480,7 +10479,6 @@ plura	http_404
 general-proximity	http_404
 turinglabsinc	http_404
 turing-labs-inc	http_404
-vida	no_matching_jobs
 ello	http_404
 vori	http_404
 quill	http_404
