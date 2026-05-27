@@ -1,14 +1,18 @@
 # Jobs Feed (Page 1/1)
 
-_Last updated: 2026-05-26 23:08 CDT_
+_Last updated: 2026-05-27 03:32 CDT_
 
 | Posted | Company | Title | Location | Source |
 |---|---|---|---|---|
+| 2026-05-27 | verisign | [Research Engineer](https://job-boards.greenhouse.io/verisign/jobs/7650739003) | Reston,Virginia,United States | greenhouse |
+| 2026-05-27 | verisign | [Sr Research Engineer](https://job-boards.greenhouse.io/verisign/jobs/7636398003) | Reston,Virginia,United States | greenhouse |
+| 2026-05-27 | stripe | [Analytics Engineer](https://stripe.com/jobs/search?gh_jid=7863844) | Seattle, WA | greenhouse |
+| 2026-05-27 | florencehealthcare | [Senior AI Engineer](https://job-boards.greenhouse.io/florencehealthcare/jobs/4691781005) | Atlanta, GA | greenhouse |
+| 2026-05-27 | shinvestmentsllc | [Data Scientist](https://senecaholdings.com/jobs/?gh_jid=4699445005) | Yorktown, VA | greenhouse |
+| 2026-05-27 | defenseunicorns | [Forward Deployed AI Engineer](https://job-boards.greenhouse.io/defenseunicorns/jobs/5132886007) | United States - Remote | greenhouse |
 | 2026-05-27 | boulevard | [Staff Data Analyst](https://job-boards.greenhouse.io/boulevard/jobs/4671883006) | Remote - USA | greenhouse |
 | 2026-05-27 | waymo | [Tech Lead Manager, Data Engineer](https://careers.withwaymo.com/jobs?gh_jid=7947334) | Mountain View, CA | greenhouse |
 | 2026-05-27 | flyzipline | [Business Intelligence Lead, Commercial](https://www.zipline.com/careers?gh_jid=7610295003) | South San Francisco, California, USA | greenhouse |
-| 2026-05-27 | verisign | [Research Engineer](https://job-boards.greenhouse.io/verisign/jobs/7650739003) | Reston,Virginia,United States | greenhouse |
-| 2026-05-27 | verisign | [Sr Research Engineer](https://job-boards.greenhouse.io/verisign/jobs/7636398003) | Reston,Virginia,United States | greenhouse |
 | 2026-05-27 | reddit | [Analytics Engineer](https://job-boards.greenhouse.io/reddit/jobs/7958354) | Remote - United States | greenhouse |
 | 2026-05-27 | reddit | [Senior Analytics Engineer](https://job-boards.greenhouse.io/reddit/jobs/7958403) | Remote - Ontario, Canada | greenhouse |
 | 2026-05-27 | reddit | [Senior Analytics Engineer](https://job-boards.greenhouse.io/reddit/jobs/7445224) | Remote - United States | greenhouse |
@@ -198,7 +202,6 @@ _Last updated: 2026-05-26 23:08 CDT_
 | 2026-05-25 | inmobi | [Applied Scientist III](https://job-boards.greenhouse.io/inmobi/jobs/7253268) | San Mateo, CA | greenhouse |
 | 2026-05-25 | vulcanelements | [Data Engineer](https://job-boards.greenhouse.io/vulcanelements/jobs/5216628008) | Research Triangle Park, NC | greenhouse |
 | 2026-05-25 | vonage | [Senior Data Scientist](https://job-boards.greenhouse.io/vonage/jobs/8405034002) | Work from Home - Spain | greenhouse |
-| 2026-05-25 | anthropic | [Data Scientist, Platform Product](https://job-boards.greenhouse.io/anthropic/jobs/5116820008) | New York City, NY \| Seattle, WA; San Francisco, CA | greenhouse |
 | 2026-05-25 | anthropic | [Data Scientist, Supply](https://job-boards.greenhouse.io/anthropic/jobs/5212119008) | San Francisco, CA \| New York City, NY | greenhouse |
 | 2026-05-25 | imc | [Hardware Machine Learning Engineer](https://job-boards.eu.greenhouse.io/imc/jobs/4713602101) | Chicago, United States; New York, United States | greenhouse |
 | 2026-05-25 | imc | [Machine Learning Engineer](https://job-boards.eu.greenhouse.io/imc/jobs/4570309101) | Chicago, United States; Hong Kong, Hong Kong; Sydney,  Australia | greenhouse |
@@ -221,14 +224,5 @@ _Last updated: 2026-05-26 23:08 CDT_
 | 2026-05-24 | turing | [Senior Gen AI Engineer](https://job-boards.greenhouse.io/turing/jobs/5985157004) | United States | greenhouse |
 | 2026-05-24 | turing | [Principal AI Engineer - Frontier Data](https://job-boards.greenhouse.io/turing/jobs/5808363004) | San Francisco, California, United States | greenhouse |
 | 2026-05-24 | turing | [Staff Research Engineer - Code](https://job-boards.greenhouse.io/turing/jobs/5822280004) | San Francisco, California, United States | greenhouse |
-| 2026-05-24 | scm | [Quantitative Researcher - Portfolio Optimization - Jersey City, NJ](https://job-boards.greenhouse.io/scm/jobs/7359467) | Jersey City, NJ | greenhouse |
-| 2026-05-24 | scm | [Quantitative Researcher - Portfolio Optimization - Remote](https://job-boards.greenhouse.io/scm/jobs/7359481) | Radnor, PA | greenhouse |
-| 2026-05-24 | scm | [Quantitative Researcher - Portfolio Optimization](https://job-boards.greenhouse.io/scm/jobs/7311297) | Radnor, PA | greenhouse |
-| 2026-05-24 | scm | [Senior Quantitative Researcher Equities - Jersey City, NJ](https://job-boards.greenhouse.io/scm/jobs/4833288) | Jersey City, NJ | greenhouse |
-| 2026-05-24 | scm | [Senior Quantitative Researcher Futures - Jersey City, NJ](https://job-boards.greenhouse.io/scm/jobs/4833298) | Jersey City, NJ | greenhouse |
-| 2026-05-24 | scm | [Senior Quantitative Researcher Equities - Remote](https://job-boards.greenhouse.io/scm/jobs/3891393) | Radnor, PA | greenhouse |
-| 2026-05-24 | scm | [Senior Quantitative Researcher Futures - Remote](https://job-boards.greenhouse.io/scm/jobs/3891412) | Radnor, PA | greenhouse |
-| 2026-05-24 | scm | [Senior Quantitative Researcher Futures](https://job-boards.greenhouse.io/scm/jobs/3235592) | Radnor, PA | greenhouse |
-| 2026-05-24 | scm | [Senior Quantitative Researcher Equities](https://job-boards.greenhouse.io/scm/jobs/1929651) | Radnor, PA | greenhouse |
 
 [Back to README](../../README.md)
