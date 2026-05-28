@@ -18196,7 +18196,6 @@ vergesense	no_matching_jobs
 victoryhrg	http_404
 vibrenthealth	http_404
 verisinsights	no_matching_jobs
-truezerotech	no_matching_jobs
 videahealth	http_404
 vestiairecollective	no_matching_jobs
 velo3d	no_matching_jobs
