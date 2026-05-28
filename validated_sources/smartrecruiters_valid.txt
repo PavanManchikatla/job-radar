@@ -11,3 +11,4 @@ startuptap
 zipongo
 servicenow
 continental
+canva
