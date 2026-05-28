@@ -9383,7 +9383,6 @@ devrev	http_404
 rialtic	http_404
 appzen	no_matching_jobs
 tatari	http_404
-arcadia	no_matching_jobs
 arbitrum-opco	no_matching_jobs
 appen	no_matching_jobs
 apolloresearch	no_matching_jobs

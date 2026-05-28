@@ -152,7 +152,6 @@ basecamp	http_404
 clarizen	http_404
 teamwork	http_404
 workfront	http_404
-airtable	no_matching_jobs
 wrike	no_matching_jobs
 mavenlink	http_404
 scoro	http_404
@@ -5045,7 +5044,6 @@ americanmarketingassociation	no_matching_jobs
 invitae	http_404
 commonwealth	http_404
 vestmark	no_matching_jobs
-prove	no_matching_jobs
 supernal	no_matching_jobs
 constellationsoftwareinc	no_matching_jobs
 omicron	no_matching_jobs
@@ -5896,7 +5894,6 @@ toastmastersinternational	no_jobs
 privatehealthmanagement	no_matching_jobs
 48f-relo	http_404
 c3el	no_matching_jobs
-carrotfertility	no_matching_jobs
 la2028	no_matching_jobs
 firstlook	http_404
 m0dbathenextthingltd	no_matching_jobs
@@ -7083,7 +7080,6 @@ divergent	no_matching_jobs
 wheely	no_matching_jobs
 doctolib	no_matching_jobs
 manticoregames	no_jobs
-lucidmotors	no_matching_jobs
 adonis	http_404
 skedda	no_jobs
 pivotbio	no_matching_jobs
@@ -7816,7 +7812,6 @@ fractylhealthinc	no_matching_jobs
 kiosk	http_404
 upboundext	no_matching_jobs
 adicettherapeuticsinc	no_matching_jobs
-actblue	no_matching_jobs
 katemcleod	no_matching_jobs
 trellis	http_404
 sonyhondamobilityofamerica	no_matching_jobs
