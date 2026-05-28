@@ -365,7 +365,6 @@ remitly	no_postings
 worldremit	no_postings
 xoom	no_postings
 azimo	no_postings
-wise	no_matching_jobs
 instarem	no_postings
 currencyfair	no_postings
 ofx	no_postings

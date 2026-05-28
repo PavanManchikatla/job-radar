@@ -12,3 +12,4 @@ zipongo
 servicenow
 continental
 canva
+wise
