@@ -670,3 +670,6 @@ khanacademy
 bpcs
 cybrid
 opensesame
+pagerhealth
+roofr
+oura

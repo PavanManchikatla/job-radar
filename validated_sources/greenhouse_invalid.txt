@@ -5486,7 +5486,6 @@ umistone	no_matching_jobs
 voter	no_matching_jobs
 mindvalley	http_404
 hootsuite	no_matching_jobs
-pagerhealth	no_matching_jobs
 clearmatics	no_jobs
 genedx	no_matching_jobs
 theoriamedical	no_matching_jobs
@@ -7591,7 +7590,6 @@ euclidpower	no_matching_jobs
 calahealth	no_matching_jobs
 logos	no_matching_jobs
 nabis	no_matching_jobs
-roofr	no_matching_jobs
 stackexchange	no_matching_jobs
 dexteritycapital	http_404
 wellist	no_matching_jobs
@@ -8307,7 +8305,6 @@ carbonchain	no_matching_jobs
 appfiretechnologiesllc	http_404
 poshmark	no_jobs
 intrinsicrobotics	no_matching_jobs
-oura	no_matching_jobs
 epicbio	no_matching_jobs
 aviatornation	no_matching_jobs
 burnt	no_matching_jobs
