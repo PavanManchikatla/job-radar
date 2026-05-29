@@ -1,19 +1,21 @@
 # Jobs Feed (Page 1/1)
 
-_Last updated: 2026-05-29 03:24 CDT_
+_Last updated: 2026-05-29 06:58 CDT_
 
 | Posted | Company | Title | Location | Source |
 |---|---|---|---|---|
-| 2026-05-29 | klaviyo | [Software Engineer II - Analytics Data Engineering](https://www.klaviyo.com/careers/jobs?gh_jid=7669291003) | Boston, MA | greenhouse |
-| 2026-05-29 | verisign | [Research Engineer](https://job-boards.greenhouse.io/verisign/jobs/7650739003) | Reston,Virginia,United States | greenhouse |
-| 2026-05-29 | verisign | [Sr Research Engineer](https://job-boards.greenhouse.io/verisign/jobs/7636398003) | Reston,Virginia,United States | greenhouse |
-| 2026-05-29 | thoughtworksreferral | [Senior AI Engineer](https://job-boards.greenhouse.io/thoughtworksreferral/jobs/7947468) | Chicago, Illinois, USA; Los Angeles, California, USA; San Francisco, California, USA; Seattle, Washington, USA | greenhouse |
 | 2026-05-29 | equipmentsharecom | [Analytics Engineer](https://www.equipmentshare.com/careers/openings/?gh_jid=7747059) | Columbia, MO (Headquarters) | greenhouse |
 | 2026-05-29 | equipmentsharecom | [Analytics Engineer](https://www.equipmentshare.com/careers/openings/?gh_jid=7747058) | Columbia, MO (Headquarters) | greenhouse |
-| 2026-05-29 | equipmentsharecom | [Business Intelligence Analyst](https://www.equipmentshare.com/careers/openings/?gh_jid=6907590) | Columbia, MO (Headquarters) | greenhouse |
 | 2026-05-29 | equipmentsharecom | [Financial Data Analyst](https://www.equipmentshare.com/careers/openings/?gh_jid=7942351) | Kansas City, MO | greenhouse |
+| 2026-05-29 | equipmentsharecom | [Business Intelligence Analyst](https://www.equipmentshare.com/careers/openings/?gh_jid=6907590) | Columbia, MO (Headquarters) | greenhouse |
 | 2026-05-29 | equipmentsharecom | [Financial Data Analyst](https://www.equipmentshare.com/careers/openings/?gh_jid=6900544) | Chicago, IL (Southwest) | greenhouse |
 | 2026-05-29 | equipmentsharecom | [Senior Data Analyst](https://www.equipmentshare.com/careers/openings/?gh_jid=7525159) | Columbia, MO (Headquarters) | greenhouse |
+| 2026-05-29 | shopltk | [Data Analyst](https://job-boards.greenhouse.io/shopltk/jobs/7671051003) | United States | greenhouse |
+| 2026-05-29 | verisign | [Research Engineer](https://job-boards.greenhouse.io/verisign/jobs/7650739003) | Reston,Virginia,United States | greenhouse |
+| 2026-05-29 | verisign | [Sr Research Engineer](https://job-boards.greenhouse.io/verisign/jobs/7636398003) | Reston,Virginia,United States | greenhouse |
+| 2026-05-29 | vonage | [Senior Data Scientist](https://job-boards.greenhouse.io/vonage/jobs/8405034002) | Work from Home - Spain | greenhouse |
+| 2026-05-29 | klaviyo | [Software Engineer II - Analytics Data Engineering](https://www.klaviyo.com/careers/jobs?gh_jid=7669291003) | Boston, MA | greenhouse |
+| 2026-05-29 | thoughtworksreferral | [Senior AI Engineer](https://job-boards.greenhouse.io/thoughtworksreferral/jobs/7947468) | Chicago, Illinois, USA; Los Angeles, California, USA; San Francisco, California, USA; Seattle, Washington, USA | greenhouse |
 | 2026-05-29 | obsidiansecurity | [Lead Analytics Engineer](https://job-boards.greenhouse.io/obsidiansecurity/jobs/5235104008) | Palo Alto, CA | greenhouse |
 | 2026-05-29 | rdccareers | [Principal Data Engineer](https://boards.greenhouse.io/rdccareers/jobs/7709529003?gh_jid=7709529003) | Austin, Texas, United States | greenhouse |
 | 2026-05-29 | faradayfuture | [Data Engineer (Agent Systems)](https://job-boards.greenhouse.io/faradayfuture/jobs/7752175003) | El Segundo, California, United States | greenhouse |
@@ -22,8 +24,8 @@ _Last updated: 2026-05-29 03:24 CDT_
 | 2026-05-29 | able | [Principal AI Engineer](https://job-boards.greenhouse.io/able/jobs/8538789002) | Remote - LATAM | greenhouse |
 | 2026-05-29 | devtechnology | [Senior Data Analyst](https://job-boards.greenhouse.io/devtechnology/jobs/8555970002) | Tysons Corner, VA | greenhouse |
 | 2026-05-29 | reddit | [Analytics Engineer](https://job-boards.greenhouse.io/reddit/jobs/7958354) | Remote - United States | greenhouse |
-| 2026-05-29 | reddit | [Senior Analytics Engineer](https://job-boards.greenhouse.io/reddit/jobs/7958403) | Remote - Ontario, Canada | greenhouse |
 | 2026-05-29 | reddit | [Senior Analytics Engineer](https://job-boards.greenhouse.io/reddit/jobs/7445224) | Remote - United States | greenhouse |
+| 2026-05-29 | reddit | [Senior Analytics Engineer](https://job-boards.greenhouse.io/reddit/jobs/7958403) | Remote - Ontario, Canada | greenhouse |
 | 2026-05-28 | zoox | [Software Engineer, ML Performance Optimization](https://jobs.lever.co/zoox/bc11276c-8db7-426e-9d00-d41c2097723a) | Foster City, CA | lever |
 | 2026-05-28 | globalhealthcareexchangeinc | [Technical Data Analyst II](https://job-boards.greenhouse.io/globalhealthcareexchangeinc/jobs/4697024005) | Office Location or Remote - USA | greenhouse |
 | 2026-05-28 | figureai | [Helix AI Engineer, Android](https://job-boards.greenhouse.io/figureai/jobs/4685209006) | San Jose, CA | greenhouse |
@@ -195,7 +197,6 @@ _Last updated: 2026-05-29 03:24 CDT_
 | 2026-05-28 | andurilindustries | [Director of AI Engineering & Research, Frontier Systems](https://boards.greenhouse.io/andurilindustries/jobs/4970360007?gh_jid=4970360007) | Washington, District of Columbia, United States | greenhouse |
 | 2026-05-28 | rdccareers | [Sr. Data Scientist, Product](https://boards.greenhouse.io/rdccareers/jobs/7742890003?gh_jid=7742890003) | Austin, Texas, United States | greenhouse |
 | 2026-05-28 | scoutmotors | [Lead, AI Engineering](https://job-boards.greenhouse.io/scoutmotors/jobs/5144166007) | Charlotte, North Carolina, United States | greenhouse |
-| 2026-05-28 | shopltk | [Data Analyst](https://job-boards.greenhouse.io/shopltk/jobs/7671051003) | United States | greenhouse |
 | 2026-05-28 | cision | [Data Analyst](https://job-boards.eu.greenhouse.io/cision/jobs/4873051101) | Remote - India | greenhouse |
 | 2026-05-28 | wongdoody | [Senior AI Engineer](https://job-boards.greenhouse.io/wongdoody/jobs/7541781003) | Berlin, DE \| Germany (REMOTE) \| Stuttgart, DE | greenhouse |
 | 2026-05-28 | wongdoody | [Creative AI Workflow Specialist / Creative AI Engineer](https://job-boards.greenhouse.io/wongdoody/jobs/6251927003) | Berlin, DE \| Germany (REMOTE) \| Stuttgart, DE | greenhouse |
@@ -449,7 +450,5 @@ _Last updated: 2026-05-29 03:24 CDT_
 | 2026-05-26 | brex | [Data Analyst II](https://www.brex.com/careers/8463696002?gh_jid=8463696002) | San Francisco, California, United States | greenhouse |
 | 2026-05-26 | brex | [Data Engineer](https://www.brex.com/careers/8366850002?gh_jid=8366850002) | San Francisco, California, United States | greenhouse |
 | 2026-05-26 | andurilindustries | [Product Data Engineer, Autonomous Airpower](https://boards.greenhouse.io/andurilindustries/jobs/5107205007?gh_jid=5107205007) | Ashville, Ohio, United States | greenhouse |
-| 2026-05-26 | andurilindustries | [Product Data Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5057159007?gh_jid=5057159007) | Costa Mesa, California, United States | greenhouse |
-| 2026-05-26 | mitratech | [Business Intelligence Analyst](https://job-boards.greenhouse.io/mitratech/jobs/7812294) | Remote Mexico | greenhouse |
 
 [Back to README](../../README.md)
