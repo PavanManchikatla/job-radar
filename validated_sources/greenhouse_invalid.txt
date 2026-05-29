@@ -138,7 +138,6 @@ glitch	http_404
 bitbucket	http_404
 atlassian	http_404
 jira	http_404
-gitlab	no_matching_jobs
 confluence	http_404
 trello	http_404
 render	http_404
@@ -7026,7 +7025,6 @@ calyxo	no_matching_jobs
 ttcglobal	no_matching_jobs
 biocaremedical	http_404
 dodgshunmedlin	no_matching_jobs
-khanacademy	no_matching_jobs
 tesseract	no_matching_jobs
 medallion	http_404
 corescientific	no_matching_jobs

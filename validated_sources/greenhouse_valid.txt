@@ -665,3 +665,5 @@ carrotfertility
 lucidmotors
 actblue
 otter
+gitlab
+khanacademy
