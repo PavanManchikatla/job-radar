@@ -5071,7 +5071,6 @@ dynamitegames	no_matching_jobs
 endorlabs	no_matching_jobs
 scandit	no_matching_jobs
 seam	http_404
-otter	no_matching_jobs
 reflexionmedical	no_jobs
 planradar	no_matching_jobs
 scrollio	http_404
