@@ -6294,7 +6294,6 @@ btig27	no_matching_jobs
 renewedvision	no_matching_jobs
 remixtherapeutics	no_matching_jobs
 phynetdermatology	no_matching_jobs
-bpcs	no_matching_jobs
 kettle	no_matching_jobs
 premierdermatology	no_matching_jobs
 lemmatree	no_jobs
@@ -6781,7 +6780,6 @@ kensingtontours	no_matching_jobs
 neda	no_matching_jobs
 nightdivestudios	no_jobs
 blockstream	http_404
-cybrid	no_matching_jobs
 knab	no_jobs
 enveritas	no_matching_jobs
 homesolutions	no_matching_jobs
@@ -7891,7 +7889,6 @@ grover	no_matching_jobs
 qualio	no_matching_jobs
 careof	http_404
 om1	no_jobs
-opensesame	no_matching_jobs
 uptivhealth	http_404
 treelinebiosciences	no_matching_jobs
 attivopartners	no_matching_jobs

@@ -667,3 +667,6 @@ actblue
 otter
 gitlab
 khanacademy
+bpcs
+cybrid
+opensesame
