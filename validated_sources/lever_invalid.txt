@@ -16857,7 +16857,6 @@ limitbreak	no_matching_jobs
 lillio	http_404
 larian	no_matching_jobs
 loblawdigital	http_404
-lessen	no_matching_jobs
 liveoakfiber	no_matching_jobs
 loft	http_404
 lifen	no_jobs
