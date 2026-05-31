@@ -1,4 +1,7 @@
+servicenow
 freshworks
+canva
+continental
 coherusbiosciences
 evolutioniq
 modernloop
@@ -9,7 +12,3 @@ evidation
 m1finance
 startuptap
 zipongo
-servicenow
-continental
-canva
-wise
