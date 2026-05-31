@@ -1,10 +1,11 @@
 ## Jobs Feed (auto-updated)
 
 <!-- JOBS:START -->
-_Last updated: 2026-05-30 23:09 CDT_
+_Last updated: 2026-05-31 03:15 CDT_
 
 | Posted | Company | Title | Location | Source |
 |---|---|---|---|---|
+| 2026-05-31 | lucidmotors | [Staff Machine Learning Engineer – (ADAS/Autonomous Driving)](https://job-boards.greenhouse.io/lucidmotors/jobs/4620390007) | Newark, CA | greenhouse |
 | 2026-05-31 | verisign | [Research Engineer](https://job-boards.greenhouse.io/verisign/jobs/7650739003) | Reston,Virginia,United States | greenhouse |
 | 2026-05-31 | verisign | [Sr Research Engineer](https://job-boards.greenhouse.io/verisign/jobs/7636398003) | Reston,Virginia,United States | greenhouse |
 | 2026-05-31 | reddit | [Analytics Engineer](https://job-boards.greenhouse.io/reddit/jobs/7958354) | Remote - United States | greenhouse |
@@ -100,7 +101,6 @@ _Last updated: 2026-05-30 23:09 CDT_
 | 2026-05-29 | opensesame | [Data Engineering Lead](https://boards.greenhouse.io/opensesame/jobs/7964848?gh_jid=7964848) | Remote | greenhouse |
 | 2026-05-29 | nubank | [Staff Analytics Engineer](https://job-boards.greenhouse.io/nubank/jobs/7963032) | USA, Durham; USA, Miami; USA, Palo Alto; USA, Washington DC | greenhouse |
 | 2026-05-29 | opensesame | [AI Engineer — Workforce Reinvention](https://boards.greenhouse.io/opensesame/jobs/7967740?gh_jid=7967740) | Remote | greenhouse |
-| 2026-05-29 | lucidmotors | [Staff Machine Learning Engineer – (ADAS/Autonomous Driving)](https://job-boards.greenhouse.io/lucidmotors/jobs/4620390007) | Newark, CA | greenhouse |
 | 2026-05-29 | gametimeunited | [Senior AI & ML Engineer](https://job-boards.greenhouse.io/gametimeunited/jobs/5236131008) | United States - Remote | greenhouse |
 | 2026-05-29 | eikontherapeutics | [Software Engineering Manager, Data Engineering](https://job-boards.greenhouse.io/eikontherapeutics/jobs/5129843007) | Millbrae, CA | greenhouse |
 | 2026-05-29 | includedhealth | [Sr. People Data Analyst](https://jobs.lever.co/includedhealth/4d306a54-b107-4b78-aac5-84455b8e6cd2) | Remote | lever |
@@ -379,7 +379,4 @@ _Last updated: 2026-05-30 23:09 CDT_
 | 2026-05-28 | wongdoody | [Senior AI Engineer](https://job-boards.greenhouse.io/wongdoody/jobs/7541781003) | Berlin, DE \| Germany (REMOTE) \| Stuttgart, DE | greenhouse |
 | 2026-05-28 | wongdoody | [Creative AI Workflow Specialist / Creative AI Engineer](https://job-boards.greenhouse.io/wongdoody/jobs/6251927003) | Berlin, DE \| Germany (REMOTE) \| Stuttgart, DE | greenhouse |
 | 2026-05-28 | canva | [Data Science Manager - GTM Sales](https://api.smartrecruiters.com/v1/companies/canva/postings/6000000001113764) | Austin us | smartrecruiters |
-| 2026-05-28 | chime | [Software Engineer, Machine Learning Platform](https://boards.greenhouse.io/chime/jobs/8505460002?gh_jid=8505460002) | San Francisco, CA, USA | greenhouse |
-| 2026-05-28 | consensys | [Senior Data Engineer](https://consensys.io/open-roles/7335693?gh_jid=7335693) | UNITED STATES - Remote, CANADA - Remote, LATAM - Remote, EMEA - Remote | greenhouse |
-| 2026-05-28 | iconcareers | [Senior AI Engineer Software Engineer Government Technology](https://job-boards.greenhouse.io/iconcareers/jobs/5840991004) | Austin, Texas, United States | greenhouse |
 <!-- JOBS:END -->
