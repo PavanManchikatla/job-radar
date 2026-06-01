@@ -9793,7 +9793,6 @@ nimbleai	http_404
 nekohealth	http_404
 nfx	no_matching_jobs
 nasafcu	no_matching_jobs
-nimblerx	no_matching_jobs
 nium	no_matching_jobs
 nominal	no_jobs
 noodle	no_matching_jobs
