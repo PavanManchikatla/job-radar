@@ -152,3 +152,5 @@ unify
 unstructuredtechnologies
 visotrust
 wisdomtree
+bounteous
+coatesgroup

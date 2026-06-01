@@ -590,7 +590,6 @@ founders fund	http_404
 coatue	http_404
 ribbit capital	http_404
 lux capital	http_404
-iconiq	no_matching_jobs
 durable capital	http_404
 brookfield	http_404
 index ventures	http_404
@@ -5012,7 +5011,6 @@ tiermobility	http_404
 hashgraph	no_matching_jobs
 adelphigraduatecareers	no_matching_jobs
 andesite	no_matching_jobs
-fairlife	no_matching_jobs
 sonobello	no_matching_jobs
 onemedical	no_matching_jobs
 adahealth	no_matching_jobs
@@ -5128,7 +5126,6 @@ shopmonkey	no_matching_jobs
 linqia	no_matching_jobs
 kiavi	no_matching_jobs
 vikingglobalinvestors	no_matching_jobs
-thoughtworks	no_matching_jobs
 crescendohealth	no_matching_jobs
 turtlerockstudios	no_matching_jobs
 medsien	no_matching_jobs
@@ -5381,7 +5378,6 @@ caylent	no_matching_jobs
 ventureforamerica	http_404
 energyhub	no_matching_jobs
 strava	http_404
-metropolitancommercialbank	no_matching_jobs
 harmonic	no_matching_jobs
 lumbermens	no_matching_jobs
 c6bank	no_matching_jobs
@@ -6576,7 +6572,6 @@ firstkeyhomes	http_404
 pagarme	no_jobs
 deutschnewyork	http_404
 refeyn	no_matching_jobs
-pindropsecurity	no_matching_jobs
 verkada	no_matching_jobs
 whatnot	http_404
 affinipay1	no_matching_jobs
@@ -7873,7 +7868,6 @@ generalatlantic	no_matching_jobs
 noyocareers	no_matching_jobs
 animallogicglobalhybrid	http_404
 incommonwith	no_matching_jobs
-legendcareers	no_matching_jobs
 classpass	no_matching_jobs
 builtinintegrationsandbox	no_matching_jobs
 swishanalytics	http_404
@@ -8563,7 +8557,6 @@ planetscale	no_matching_jobs
 group14	no_matching_jobs
 platformsh	no_matching_jobs
 blab	no_jobs
-engine	no_matching_jobs
 lumenbioscience	no_matching_jobs
 beauhurst	no_matching_jobs
 avelaeducation	http_404
@@ -8709,7 +8702,6 @@ bedrockrobotics	no_jobs
 kunai	no_matching_jobs
 mpowerfinancing	no_jobs
 hyperfine53	no_matching_jobs
-leaflink	no_matching_jobs
 acommerce	no_matching_jobs
 citizen	http_404
 oneenergyrenewables	no_matching_jobs

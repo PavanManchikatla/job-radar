@@ -15732,7 +15732,6 @@ boweryfarming	http_404
 brainnest	http_404
 bonedry	no_matching_jobs
 brainchildbio	no_matching_jobs
-bounteous	no_matching_jobs
 brafton	no_matching_jobs
 brand-knew	no_matching_jobs
 braveventurelabs	http_404
@@ -15898,7 +15897,6 @@ checkmate	http_404
 coinsquare	http_404
 coil	http_404
 clearer	http_404
-coatesgroup	no_matching_jobs
 coinmarketcap	no_matching_jobs
 coins	no_matching_jobs
 collectivei	http_404
