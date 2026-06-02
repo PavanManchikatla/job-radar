@@ -1864,7 +1864,6 @@ star fox	http_404
 xenoblade	http_404
 playstation studios	http_404
 naughty dog	http_404
-insomniac	no_matching_jobs
 sucker punch	http_404
 santa monica	http_404
 guerrilla games	http_404
@@ -5879,7 +5878,6 @@ vscfiresecurityinc	no_matching_jobs
 dumol	no_jobs
 dremio	no_matching_jobs
 themarshallproject	no_jobs
-setpoint	no_matching_jobs
 truloveorthodontics	no_jobs
 guidewheel	no_matching_jobs
 samsungnext	no_matching_jobs
@@ -6873,7 +6871,6 @@ cloudbedsthirdpartyboard	no_matching_jobs
 headoutreferrals	no_jobs
 samcarthiring	http_404
 arlosolutionsllc	no_matching_jobs
-zone5technologies	no_matching_jobs
 arkestroinc	no_matching_jobs
 zestyai	no_matching_jobs
 pinwheelapi	no_matching_jobs
@@ -6913,7 +6910,6 @@ obrienveterinarygroup	no_matching_jobs
 smartypantsvitamins	no_jobs
 bluestaq	no_matching_jobs
 pay2dc	no_matching_jobs
-osano	no_matching_jobs
 ripcpc	no_matching_jobs
 visia	no_matching_jobs
 kreativekids	no_jobs
@@ -8213,7 +8209,6 @@ formaaiinc	no_matching_jobs
 simspace	http_404
 clickstop	no_matching_jobs
 collectively	no_matching_jobs
-honeycomb	no_matching_jobs
 farmsanctuary	no_matching_jobs
 polycamcareers	no_matching_jobs
 manychat	no_matching_jobs

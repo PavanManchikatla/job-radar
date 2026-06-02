@@ -10106,7 +10106,6 @@ way	http_404
 unlimit	no_matching_jobs
 standtogether	no_matching_jobs
 wayground	http_404
-wadetrim	no_matching_jobs
 wealthsimple	no_jobs
 warblerlabs	http_404
 wealthfront	no_matching_jobs
@@ -16102,7 +16101,6 @@ dru-app	http_404
 dscout	http_404
 dronesense	no_jobs
 dten	http_404
-duetti	no_matching_jobs
 dutch	no_matching_jobs
 dwavesys	http_404
 dydx-ops	http_404

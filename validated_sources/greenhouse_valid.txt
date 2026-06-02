@@ -631,3 +631,8 @@ kallesgroup
 airbnb
 natera
 doitintl
+insomniac
+setpoint
+zone5technologies
+osano
+honeycomb
