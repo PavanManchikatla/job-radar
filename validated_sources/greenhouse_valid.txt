@@ -626,3 +626,5 @@ pindropsecurity
 legendcareers
 engine
 leaflink
+pipetechnologies
+kallesgroup

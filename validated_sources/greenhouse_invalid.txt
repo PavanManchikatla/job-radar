@@ -6109,7 +6109,6 @@ birdygrey	no_matching_jobs
 ketryx	no_matching_jobs
 brightflag	http_404
 nkartatherapeutics	no_matching_jobs
-pipetechnologies	no_matching_jobs
 visiersolutionsinc	no_matching_jobs
 dittoliveincorporated	http_404
 paystand	no_matching_jobs
@@ -8576,7 +8575,6 @@ kajabi	http_404
 actpowerservices	no_matching_jobs
 americaninstitutesforresearch	no_matching_jobs
 mojangab	no_matching_jobs
-kallesgroup	no_matching_jobs
 ahrefsjobs	no_matching_jobs
 eliotcommunityhumanservices	no_matching_jobs
 alphapublicschools	no_matching_jobs
