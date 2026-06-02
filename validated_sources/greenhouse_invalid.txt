@@ -5416,7 +5416,6 @@ equatic	no_jobs
 mycase	no_jobs
 gemechanicalasp	no_matching_jobs
 aviatrix	no_matching_jobs
-airbnb	no_matching_jobs
 studiokraftonboard	no_matching_jobs
 wallapop	no_matching_jobs
 aippublishing	no_matching_jobs
@@ -5814,7 +5813,6 @@ sevenrooms	http_404
 drdansanimalhospital	no_matching_jobs
 pushpay	no_matching_jobs
 foxrobotics	http_404
-natera	no_matching_jobs
 parachutehome	no_matching_jobs
 mobi	no_matching_jobs
 focuspartnersaustralia	no_matching_jobs
@@ -8387,7 +8385,6 @@ doordashindia	no_matching_jobs
 hillhousehome	no_matching_jobs
 beautypie	http_404
 clockworksystems	no_matching_jobs
-doitintl	no_matching_jobs
 swarmaero	http_404
 chanzuckerbergbiohub	http_404
 aetion	http_404

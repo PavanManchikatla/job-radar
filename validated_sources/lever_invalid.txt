@@ -862,7 +862,6 @@ the zebra	http_404
 livegamic	http_404
 jerry	http_404
 coverage cat	http_404
-anchorage	no_matching_jobs
 trov	http_404
 gabi	http_404
 breeze	http_404
@@ -18093,7 +18092,6 @@ trip-ninja	http_404
 trella	http_404
 trio	no_matching_jobs
 trailappliances	no_matching_jobs
-trility	no_matching_jobs
 tripalink	no_matching_jobs
 transmutex	no_jobs
 trueaccord	http_404
