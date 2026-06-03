@@ -17160,7 +17160,6 @@ notarize	http_404
 notch	http_404
 netlight	no_matching_jobs
 notonthehighstreet	http_404
-noblereach	no_matching_jobs
 noteworth	http_404
 nexuse-group	no_matching_jobs
 novi	http_404
@@ -18201,7 +18200,6 @@ videahealth	http_404
 viantinc	http_404
 vimpelcom	http_404
 token	http_404
-velo3d	no_matching_jobs
 vinted	http_404
 vippetcare	http_404
 vir	http_404

@@ -159,3 +159,5 @@ anchorage
 trility
 wadetrim
 duetti
+noblereach
+velo3d

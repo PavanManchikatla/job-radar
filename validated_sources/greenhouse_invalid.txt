@@ -55,7 +55,6 @@ salesloft	no_matching_jobs
 clearbit	http_404
 demandbase	http_404
 drift	http_404
-6sense	no_matching_jobs
 qualified	http_404
 chili piper	http_404
 yesware	http_404
@@ -1429,7 +1428,6 @@ kounta	http_404
 ehopper	http_404
 tillpoint	http_404
 cheddar up	http_404
-toast	no_matching_jobs
 3s pos	http_404
 toast pos	http_404
 touchbistro pos	http_404
@@ -5926,7 +5924,6 @@ leanixjobs	http_404
 id5	no_matching_jobs
 hatchhirescontractors	no_matching_jobs
 barkley	no_matching_jobs
-whalarinc	no_matching_jobs
 dalioeducation	no_jobs
 relationalai	no_matching_jobs
 guerrilla-games	no_matching_jobs
@@ -8246,7 +8243,6 @@ omnionpower	http_404
 caronsale	no_matching_jobs
 finitestate	no_matching_jobs
 efficientcomputer	no_matching_jobs
-goodsservices	no_matching_jobs
 dforeferrals	no_matching_jobs
 archera	no_matching_jobs
 aperaaiinc	no_matching_jobs
@@ -8575,7 +8571,6 @@ foodcorps	http_404
 persefoniaiinc	no_matching_jobs
 paypay	no_matching_jobs
 wgachidden	no_matching_jobs
-tripadvisor	no_matching_jobs
 nauto	no_matching_jobs
 cfoinsights	no_matching_jobs
 well	http_404
