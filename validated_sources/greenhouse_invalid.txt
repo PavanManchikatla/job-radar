@@ -5599,7 +5599,6 @@ tutorme	no_jobs
 aerospike	no_matching_jobs
 centriaautism	no_matching_jobs
 moveworks	no_jobs
-quisitivejobs	no_matching_jobs
 lucanetgroup	no_matching_jobs
 cloudbeds	no_matching_jobs
 authenticbrandsgroup	no_matching_jobs
@@ -6236,7 +6235,6 @@ bitmovin	no_matching_jobs
 rsgur	no_jobs
 wfclainc	no_matching_jobs
 catonetworks	no_matching_jobs
-sonyinteractiveentertainmentglobal	no_matching_jobs
 firstsanfranciscopartners	no_jobs
 drweng	no_matching_jobs
 jetzero	no_matching_jobs
@@ -6347,7 +6345,6 @@ insightrx	no_matching_jobs
 symblai47	no_jobs
 sagent	no_matching_jobs
 summer	no_matching_jobs
-ombud	no_matching_jobs
 riskified	no_matching_jobs
 saltxc	no_matching_jobs
 luno	no_matching_jobs
@@ -6452,7 +6449,6 @@ billtrust	no_matching_jobs
 healthlink	no_matching_jobs
 firstconnectinsurance	no_matching_jobs
 globalfishingwatchrfp	no_jobs
-esri	no_matching_jobs
 help	no_matching_jobs
 applytocloudforge	no_jobs
 argo	http_404
