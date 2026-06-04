@@ -5306,7 +5306,6 @@ insurtechinsights	no_matching_jobs
 mobentertainment	no_matching_jobs
 spinskinnylabsinc	http_404
 acgcareers	no_jobs
-edb	no_matching_jobs
 goalhonduras	no_matching_jobs
 northpointrecoveryholdingsllc	no_matching_jobs
 dexory	no_matching_jobs

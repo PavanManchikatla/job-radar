@@ -162,3 +162,5 @@ duetti
 noblereach
 velo3d
 acds
+brillio-2
+thetrevorproject

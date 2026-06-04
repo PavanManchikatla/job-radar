@@ -9457,7 +9457,6 @@ catalist	no_matching_jobs
 calstart	no_matching_jobs
 capitalsolutionsgroup	no_matching_jobs
 cdcfoundation	no_matching_jobs
-brillio-2	no_matching_jobs
 bumbleinc	no_matching_jobs
 celerocommerce	no_matching_jobs
 certifyos	no_jobs
@@ -10040,7 +10039,6 @@ thepeoplebrand	no_matching_jobs
 teramind	no_matching_jobs
 thrivecausemetics	no_matching_jobs
 thepieexecsearch	no_matching_jobs
-thetrevorproject	no_matching_jobs
 tokenmetrics	http_404
 plexus	no_matching_jobs
 tom-steyer	no_matching_jobs
