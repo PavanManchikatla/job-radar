@@ -6410,7 +6410,6 @@ clearfield	no_matching_jobs
 anomalojobs	http_404
 roadie	no_matching_jobs
 influxdb	http_404
-uniteus	no_matching_jobs
 dkatalislabs	no_matching_jobs
 ffeinc	no_matching_jobs
 allcareers	no_matching_jobs
@@ -6477,7 +6476,6 @@ industrious	http_404
 carbonfuture	no_matching_jobs
 onrunning	no_matching_jobs
 ecoinc	no_jobs
-accela	no_matching_jobs
 myheritage	no_matching_jobs
 relaygraduateschoolofeducation	no_matching_jobs
 ebanx	no_matching_jobs
