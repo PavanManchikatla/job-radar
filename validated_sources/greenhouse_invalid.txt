@@ -7340,7 +7340,6 @@ nightfall	http_404
 govos	http_404
 thousandeyes	http_404
 cockroachlabs	no_matching_jobs
-zyngacareers	no_matching_jobs
 firmpilotailawfirmmarketing	no_matching_jobs
 jackpot	no_matching_jobs
 indicacoesifoodinterno	no_matching_jobs
