@@ -5994,7 +5994,6 @@ vpawv	no_matching_jobs
 desktopmetal	http_404
 airnorth	no_matching_jobs
 pontera	no_matching_jobs
-asteralabs	no_matching_jobs
 lazarusenterprises	no_matching_jobs
 route	no_matching_jobs
 pagaya	no_matching_jobs
