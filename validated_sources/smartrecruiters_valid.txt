@@ -1,7 +1,6 @@
 servicenow
 freshworks
 canva
-continental
 coherusbiosciences
 evolutioniq
 modernloop
@@ -9,6 +8,5 @@ shaped
 kombo
 activehours
 evidation
-m1finance
 startuptap
 zipongo
