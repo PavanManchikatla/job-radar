@@ -620,3 +620,7 @@ lob
 fundraiseup
 coherehealth
 innovecs
+capstoneintegratedsolutions
+pendo
+focalsystems
+velir

@@ -6663,7 +6663,6 @@ pantheon	no_matching_jobs
 integralmolecular	no_matching_jobs
 prokidney	no_matching_jobs
 reprise	http_404
-capstoneintegratedsolutions	no_matching_jobs
 andela	http_404
 kernalbio	no_matching_jobs
 everbody	http_404
@@ -7278,7 +7277,6 @@ dhigroupinc	no_matching_jobs
 jobber	http_404
 ever	no_matching_jobs
 embroker	no_jobs
-pendo	no_matching_jobs
 madano	no_matching_jobs
 olly	no_matching_jobs
 kellerpostman	no_matching_jobs
@@ -7719,7 +7717,6 @@ paperlessparts	no_matching_jobs
 scotch	no_matching_jobs
 alku	no_matching_jobs
 wovencare	no_matching_jobs
-focalsystems	no_matching_jobs
 watershedclimate	http_404
 oodlefinance	no_matching_jobs
 noonlight	no_matching_jobs
@@ -8544,7 +8541,6 @@ pt	no_matching_jobs
 historynet	no_jobs
 annexonbioscience	no_matching_jobs
 sweetgreen	no_matching_jobs
-velir	no_matching_jobs
 aminohealth	http_404
 runwise	no_matching_jobs
 fulfil	no_matching_jobs
