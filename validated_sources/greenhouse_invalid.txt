@@ -5135,7 +5135,6 @@ kiavi	no_matching_jobs
 linqia	no_matching_jobs
 vikingglobalinvestors	no_matching_jobs
 crescendohealth	no_matching_jobs
-thoughtworks	no_matching_jobs
 turtlerockstudios	no_matching_jobs
 vimeo	http_404
 zeals	no_jobs
@@ -5674,7 +5673,6 @@ boldbusiness	no_matching_jobs
 thetustingroupasp	http_404
 darkhorseviz	no_matching_jobs
 oneacrefund	no_matching_jobs
-thebaltimorebanner	no_matching_jobs
 brainpop	no_matching_jobs
 siftscience	http_404
 vgw	no_matching_jobs
@@ -6291,7 +6289,6 @@ monocl	no_matching_jobs
 singleops	http_404
 convene	no_matching_jobs
 harnessinc	no_matching_jobs
-selffinancial	no_matching_jobs
 nucleus	no_matching_jobs
 bitreactor	no_jobs
 applytoprecedent	no_matching_jobs
@@ -7783,7 +7780,6 @@ newglobesandbox	no_matching_jobs
 ddbhealth	no_jobs
 delfina	no_matching_jobs
 salsify	no_matching_jobs
-hopscotchprimarycare	no_matching_jobs
 ogilvyhealthusa	no_matching_jobs
 tesseratherapeutics	no_matching_jobs
 fivetran	no_matching_jobs
@@ -8203,7 +8199,6 @@ riversidenaturalfoodsltd	no_matching_jobs
 atomiccartoons	no_matching_jobs
 decibelfoundation	no_matching_jobs
 litify	no_matching_jobs
-shift5	no_matching_jobs
 daylight	no_matching_jobs
 signifyhealthireland	http_404
 formaaiinc	no_matching_jobs
@@ -8591,7 +8586,6 @@ apono	http_404
 wgachidden	no_matching_jobs
 well	http_404
 vibesllc	no_matching_jobs
-thatch	no_matching_jobs
 krafton	no_matching_jobs
 daggerwinggroup	no_matching_jobs
 plume	no_matching_jobs
@@ -8608,7 +8602,6 @@ sevenroomsuae	no_jobs
 onapsis	no_matching_jobs
 remotewoman	no_matching_jobs
 oneproject	no_matching_jobs
-spoileralert	no_matching_jobs
 cadrehospice	no_matching_jobs
 indigenouspactpbcinc	no_matching_jobs
 aztec	http_404
