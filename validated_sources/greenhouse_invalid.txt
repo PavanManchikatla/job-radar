@@ -7509,7 +7509,6 @@ wilsonelserattorneys	no_matching_jobs
 goodr	no_matching_jobs
 brightcove	http_404
 perrystreetsoftware	http_404
-thoughtworksreferral	no_matching_jobs
 boku	no_matching_jobs
 ameelio	no_matching_jobs
 braintrust	http_404
@@ -8409,7 +8408,6 @@ interviewkickstart	no_matching_jobs
 via	no_matching_jobs
 carolinatitleloansinc	no_matching_jobs
 supergoop	no_matching_jobs
-consumerreports	no_matching_jobs
 maplighttherapeutics	no_matching_jobs
 atomicvest	http_404
 newleafenergy	no_matching_jobs

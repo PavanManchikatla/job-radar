@@ -2262,7 +2262,6 @@ teamgroup	no_postings
 adata	no_postings
 pny	no_postings
 kingston	no_postings
-sandisk	no_matching_jobs
 mushkin	no_postings
 patriot	no_postings
 plextor	no_postings
