@@ -5066,7 +5066,6 @@ uniswapfoundation	no_jobs
 insider	no_matching_jobs
 ruggable	no_matching_jobs
 onevest	no_matching_jobs
-fundraiseup	no_matching_jobs
 carbondirect	no_matching_jobs
 accreditedlabs	no_matching_jobs
 forthea	no_matching_jobs
@@ -6360,7 +6359,6 @@ summer	no_matching_jobs
 canopytax	no_matching_jobs
 zubiad	no_matching_jobs
 riskified	no_matching_jobs
-coherehealth	no_matching_jobs
 luno	no_matching_jobs
 orchestra	no_matching_jobs
 topsort	no_matching_jobs
@@ -8281,7 +8279,6 @@ meshy	http_404
 urgentcareforchildren	no_matching_jobs
 aperiatechnologies	no_jobs
 seoulrobotics	no_matching_jobs
-innovecs	no_matching_jobs
 inspiremedicalsystemsinc	no_matching_jobs
 creditas	http_404
 ghd	http_404

@@ -1,11 +1,16 @@
 # Jobs Feed (Page 1/1)
 
-_Last updated: 2026-06-07 23:21 CDT_
+_Last updated: 2026-06-08 04:24 CDT_
 
 | Posted | Company | Title | Location | Source |
 |---|---|---|---|---|
+| 2026-06-08 | veriff | [Senior Data Scientist](https://www.veriff.com/careers/position/8581588002?gh_jid=8581588002) | Tallinn, Spain (Remote) | greenhouse |
+| 2026-06-08 | innovecs | [Middle Data Scientist](https://jobs.innovecs.com/vacancies?gh_jid=8581408002) | Ukraine, Poland, Romania, Spain, Portugal (Remote) | greenhouse |
+| 2026-06-08 | monzo | [Machine Learning Platform Engineer](https://job-boards.greenhouse.io/monzo/jobs/7118972) | Cardiff, London or Remote (UK); London | greenhouse |
 | 2026-06-08 | verisign | [Research Engineer](https://job-boards.greenhouse.io/verisign/jobs/7650739003) | Reston,Virginia,United States | greenhouse |
 | 2026-06-08 | verisign | [Sr Research Engineer](https://job-boards.greenhouse.io/verisign/jobs/7636398003) | Reston,Virginia,United States | greenhouse |
+| 2026-06-08 | scoutai | [AI Engineer - Fury Team](https://job-boards.greenhouse.io/scoutai/jobs/4643324008) | Sunnyvale, CA | greenhouse |
+| 2026-06-08 | missionlane | [Staff Data Analyst](https://job-boards.greenhouse.io/missionlane/jobs/8571413002) | Remote, United States | greenhouse |
 | 2026-06-08 | reddit | [Senior Staff Data Scientist - Consumer Relevance](https://job-boards.greenhouse.io/reddit/jobs/7974605) | Remote - United States | greenhouse |
 | 2026-06-08 | reddit | [Senior Staff Data Scientist - Consumer Relevance](https://job-boards.greenhouse.io/reddit/jobs/7974647) | Remote - Ontario, Canada | greenhouse |
 | 2026-06-08 | reddit | [Analytics Engineer](https://job-boards.greenhouse.io/reddit/jobs/7958354) | Remote - United States | greenhouse |
@@ -97,8 +102,8 @@ _Last updated: 2026-06-07 23:21 CDT_
 | 2026-06-05 | arizeai | [Forward Deployed AI Engineer, EMEA](https://job-boards.greenhouse.io/arizeai/jobs/5781408004) | Remote (EMEA) | greenhouse |
 | 2026-06-05 | arizeai | [Forward Deployed AI Engineer, East](https://job-boards.greenhouse.io/arizeai/jobs/5993755004) | Remote (New York) | greenhouse |
 | 2026-06-05 | gitlab | [AI Engineer](https://job-boards.greenhouse.io/gitlab/jobs/8565469002) | Remote, US | greenhouse |
-| 2026-06-05 | gitlab | [Senior AI Engineer](https://job-boards.greenhouse.io/gitlab/jobs/8556658002) | Remote, Bangalore | greenhouse |
 | 2026-06-05 | gitlab | [Senior AI Engineer](https://job-boards.greenhouse.io/gitlab/jobs/8548545002) | Remote, US | greenhouse |
+| 2026-06-05 | gitlab | [Senior AI Engineer](https://job-boards.greenhouse.io/gitlab/jobs/8556658002) | Remote, Bangalore | greenhouse |
 | 2026-06-05 | gitlab | [Staff Backend (Python) Engineer, AI Engineering:Duo Chat](https://job-boards.greenhouse.io/gitlab/jobs/8450446002) | Remote, Americas; Remote, Canada; Remote, Ireland; Remote, Netherlands; Remote, United Kingdom | greenhouse |
 | 2026-06-05 | m9solutions | [Senior Data Engineer](https://job-boards.greenhouse.io/m9solutions/jobs/5157787007) | Remote - Public Trust clearance required | greenhouse |
 | 2026-06-05 | m9solutions | [Data Engineer](https://job-boards.greenhouse.io/m9solutions/jobs/5079352007) | Bethesda, MD - TS/SCI clearance required | greenhouse |
@@ -179,23 +184,5 @@ _Last updated: 2026-06-07 23:21 CDT_
 | 2026-06-05 | affirm | [Machine Learning Engineer II (Servicing ML)](https://job-boards.greenhouse.io/affirm/jobs/7719653003) | Remote Canada | greenhouse |
 | 2026-06-05 | affirm | [Machine Learning Engineer II (Servicing ML)](https://job-boards.greenhouse.io/affirm/jobs/7719651003) | Remote US | greenhouse |
 | 2026-06-05 | affirm | [Analytics Manager, Full Stack (Fraud Analytics)](https://job-boards.greenhouse.io/affirm/jobs/7532268003) | Remote UK | greenhouse |
-| 2026-06-05 | lucidmotors | [Engineering Manager, Data Engineering & Infrastructure](https://job-boards.greenhouse.io/lucidmotors/jobs/5106263007) | Newark, CA | greenhouse |
-| 2026-06-05 | riotgames | [Staff Research Scientist, Foundation Models - Tech Research](https://www.riotgames.com/en/work-with-us/job/7804510?gh_jid=7804510) | Los Angeles, USA; Mercer Island, USA; Redwood City, USA | greenhouse |
-| 2026-06-05 | hackerrank | [Machine Learning Engineer, Chakra](https://job-boards.greenhouse.io/hackerrank/jobs/7793399) | Hybrid in Santa Clara, CA | greenhouse |
-| 2026-06-05 | hackerrank | [Machine Learning Engineer - Evaluation](https://job-boards.greenhouse.io/hackerrank/jobs/7793404) | Hybrid in Santa Clara, CA | greenhouse |
-| 2026-06-05 | hackerrank | [Machine Learning Engineer, Integrity](https://job-boards.greenhouse.io/hackerrank/jobs/7780916) | Hybrid in Santa Clara, CA | greenhouse |
-| 2026-06-05 | flyzipline | [Forward Deployed AI Engineer, Aviation Regulatory](https://www.zipline.com/careers?gh_jid=7764299003#open-roles) | South San Francisco, California, USA | greenhouse |
-| 2026-06-05 | flyzipline | [Forward Deployed AI Engineer, Expansion](https://www.zipline.com/careers?gh_jid=7764294003#open-roles) | South San Francisco, California, USA | greenhouse |
-| 2026-06-05 | flyzipline | [Forward Deployed AI Engineer, Community Engagement](https://www.zipline.com/careers?gh_jid=7764300003#open-roles) | South San Francisco, California, USA | greenhouse |
-| 2026-06-05 | flyzipline | [Forward Deployed AI Engineer, Land Use and Government Affairs](https://www.zipline.com/careers?gh_jid=7764297003#open-roles) | South San Francisco, California, USA | greenhouse |
-| 2026-06-05 | flyzipline | [Forward Deployed AI Engineer, Launch, Design, and Construction Handoff](https://www.zipline.com/careers?gh_jid=7764301003#open-roles) | South San Francisco, California, USA | greenhouse |
-| 2026-06-05 | flyzipline | [Forward Deployed AI Engineer, Legal Real Estate](https://www.zipline.com/careers?gh_jid=7764298003#open-roles) | South San Francisco, California, USA | greenhouse |
-| 2026-06-05 | flyzipline | [Forward Deployed AI Engineer, Operations](https://www.zipline.com/careers?gh_jid=7764239003#open-roles) | South San Francisco, California, USA | greenhouse |
-| 2026-06-05 | flyzipline | [Forward Deployed AI Engineer, People](https://www.zipline.com/careers?gh_jid=7764302003#open-roles) | South San Francisco, California, USA | greenhouse |
-| 2026-06-05 | flyzipline | [Forward Deployed AI Engineer, Real Estate and Development](https://www.zipline.com/careers?gh_jid=7764296003#open-roles) | South San Francisco, California, USA | greenhouse |
-| 2026-06-05 | flyzipline | [Forward Deployed AI Engineer, Site Acquisition](https://www.zipline.com/careers?gh_jid=7764295003#open-roles) | South San Francisco, California, USA | greenhouse |
-| 2026-06-05 | flyzipline | [Forward Deployed AI Engineer, Talent](https://www.zipline.com/careers?gh_jid=7764303003#open-roles) | South San Francisco, California, USA | greenhouse |
-| 2026-06-05 | iherb | [Principal Machine Learning Engineer](https://job-boards.greenhouse.io/iherb/jobs/7764147003) | United States of America - Remote / Home Office | greenhouse |
-| 2026-06-05 | lyft | [Data Analyst, Operations Planning](https://app.careerpuck.com/job-board/lyft/job/8568512002?gh_jid=8568512002) | New York, NY | greenhouse |
 
 [Back to README](../../README.md)
