@@ -7598,7 +7598,6 @@ tracelinkinc	no_matching_jobs
 medium	no_jobs
 glooko	no_matching_jobs
 veza	no_matching_jobs
-goatgroup	no_matching_jobs
 quince	no_matching_jobs
 sage49	no_matching_jobs
 blockchain	no_matching_jobs
@@ -8542,7 +8541,6 @@ samsungresearchamericainternship	no_matching_jobs
 mobiik	no_matching_jobs
 vicecanada	http_404
 strongholdim	http_404
-engine	no_matching_jobs
 planetscale	no_matching_jobs
 group14	no_matching_jobs
 platformsh	no_matching_jobs
@@ -8575,7 +8573,6 @@ alphapublicschools	no_matching_jobs
 paypay	no_matching_jobs
 persefoniaiinc	no_matching_jobs
 classdojo	http_404
-tripadvisor	no_matching_jobs
 nauto	no_matching_jobs
 tenableinc	no_matching_jobs
 xosinc	no_matching_jobs
