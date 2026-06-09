@@ -5257,7 +5257,6 @@ scytherobotics	http_404
 minware	http_404
 grasshopperasia	no_matching_jobs
 snapmobileinc	no_matching_jobs
-aclu	no_matching_jobs
 startree	no_matching_jobs
 evolutionparkingguestservices	http_404
 aiserajobs	no_matching_jobs
@@ -6183,7 +6182,6 @@ heartpaw	no_matching_jobs
 liveramp	http_404
 moz	http_404
 acurussolutions	no_matching_jobs
-merchantsfleetmanagement	no_matching_jobs
 airup	no_matching_jobs
 ecoatmgazelle	no_matching_jobs
 dmarket	no_jobs
@@ -8479,7 +8477,6 @@ polychaincapital	no_matching_jobs
 avalabs	http_404
 navierai	no_matching_jobs
 acorns	http_404
-duolingo	no_matching_jobs
 gensyn	no_matching_jobs
 testendouble	no_matching_jobs
 livingstonassociates	no_matching_jobs
