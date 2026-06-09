@@ -7414,7 +7414,6 @@ britive	no_matching_jobs
 cbemllc	no_matching_jobs
 mast	no_matching_jobs
 qphox	no_matching_jobs
-shipbobinc	no_matching_jobs
 ataiwebsite	http_404
 showpad	no_matching_jobs
 pascal	http_404
