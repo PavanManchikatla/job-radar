@@ -5687,7 +5687,6 @@ hotmartcareersen	no_matching_jobs
 trueanomalyinc	no_matching_jobs
 getscale	no_matching_jobs
 sharkninjaoperatingllc	no_matching_jobs
-lucidsoftware	no_matching_jobs
 marscousg	no_jobs
 altruist	no_matching_jobs
 ardentmc	no_matching_jobs
