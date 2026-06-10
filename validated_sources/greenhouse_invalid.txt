@@ -6128,7 +6128,6 @@ sparrow	no_jobs
 sironamedical	no_jobs
 ovoenergy	no_matching_jobs
 metoxinternationalinc	no_matching_jobs
-halcyon	no_matching_jobs
 samsungaustinsemiconductor	http_404
 omnipresent	http_404
 mm	no_jobs
@@ -8027,7 +8026,6 @@ lyellimmunopharma	no_matching_jobs
 merge	no_matching_jobs
 traversal	http_404
 a1mreferrals	http_404
-everway	no_matching_jobs
 builder	no_matching_jobs
 apogeetherapeutics	no_matching_jobs
 meridianpartners	no_matching_jobs
@@ -9692,7 +9690,6 @@ human-interest	http_404
 human	http_404
 eight	http_404
 go1	http_404
-lattice	no_matching_jobs
 soundboks	http_404
 deepgram	http_404
 isono-health	http_404
