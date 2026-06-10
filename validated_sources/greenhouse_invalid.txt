@@ -5498,7 +5498,6 @@ genedx	no_matching_jobs
 opploans	no_matching_jobs
 tempus	http_404
 enterpret	no_matching_jobs
-charterup	no_matching_jobs
 cascadeloans	no_jobs
 theoriamedical	no_matching_jobs
 proskill	no_matching_jobs
@@ -8722,7 +8721,6 @@ ableserve	http_404
 actionlife	http_404
 activetheory	http_404
 adverum	http_404
-veeamsoftware	no_matching_jobs
 aeratechnology	http_404
 aerispartners	http_404
 advocate	http_404
