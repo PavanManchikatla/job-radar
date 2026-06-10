@@ -9341,7 +9341,6 @@ advocate	no_matching_jobs
 afero	no_matching_jobs
 aifund	http_404
 100ms	no_matching_jobs
-agtonomy	no_matching_jobs
 aizon	no_matching_jobs
 albedo	no_jobs
 all	http_404
@@ -9510,7 +9509,6 @@ commencis	no_matching_jobs
 assist-world	no_matching_jobs
 crescent-biopharma	no_matching_jobs
 curio	http_404
-convergentresearch	no_matching_jobs
 cprime	no_matching_jobs
 csit	no_matching_jobs
 curri	no_jobs

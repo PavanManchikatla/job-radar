@@ -646,3 +646,5 @@ everway
 lattice
 charterup
 veeamsoftware
+oura
+flex

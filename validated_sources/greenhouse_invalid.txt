@@ -8340,7 +8340,6 @@ maev	no_jobs
 eyeo	no_jobs
 havenly	http_404
 go1us	no_jobs
-oura	no_matching_jobs
 impact	no_matching_jobs
 everdriven	no_matching_jobs
 trustpilot	no_matching_jobs
@@ -8509,7 +8508,6 @@ greenbrookmedical	no_matching_jobs
 shearersinternalmobility	http_404
 aclunj	no_matching_jobs
 relaypro	no_matching_jobs
-flex	no_matching_jobs
 emporiarevolutionizinghomeenergy	no_matching_jobs
 twelve	http_404
 perionnetworkltd	no_matching_jobs
