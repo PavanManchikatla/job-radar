@@ -5624,7 +5624,6 @@ operatus	no_jobs
 authenticbrandsgroup	no_matching_jobs
 vsapartners	no_matching_jobs
 public	no_matching_jobs
-clearwayjobs	no_matching_jobs
 teknema	no_matching_jobs
 teads1	no_matching_jobs
 adaptivewater	no_matching_jobs
@@ -8269,7 +8268,6 @@ aevexaerospace	no_matching_jobs
 imvtcorporation	no_matching_jobs
 terremotobiosciencesinc	no_matching_jobs
 residential	no_matching_jobs
-evolutioniq	no_matching_jobs
 abacusinsights	no_matching_jobs
 newsweek	no_matching_jobs
 metronome	no_matching_jobs
