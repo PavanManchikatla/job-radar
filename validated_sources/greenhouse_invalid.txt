@@ -5825,7 +5825,6 @@ mobi	no_matching_jobs
 powerfinance	no_jobs
 zephyrhome	no_jobs
 turbotenant	no_matching_jobs
-udemybedi	no_matching_jobs
 energysolutionsinternships	no_jobs
 creativex	no_matching_jobs
 haizelabs	no_matching_jobs
@@ -8438,7 +8437,6 @@ wyndlabs	http_404
 lusternational	no_matching_jobs
 grassrootsanalytics	no_matching_jobs
 sandstonecoloradomedicaldetox	no_matching_jobs
-circleci	no_matching_jobs
 digitalcurrencygroup	no_matching_jobs
 livescore9	no_matching_jobs
 co58owxtuvc3ql11n5p1b79mj5flai45kbbwmpk5zvyfvj7tphwrf7kj9r0vr8krxku3n93jffzugl2w8420bfji9ar3q8hle6ty	no_matching_jobs
@@ -8492,7 +8490,6 @@ wisetack	no_matching_jobs
 olivai	no_matching_jobs
 eaf	http_404
 doublegood	no_matching_jobs
-pieinsurance	no_matching_jobs
 marqeta	no_matching_jobs
 leadingeducators	no_matching_jobs
 5wpr	no_matching_jobs
