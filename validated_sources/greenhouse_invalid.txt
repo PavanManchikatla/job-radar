@@ -8041,7 +8041,6 @@ xometryeurope	no_matching_jobs
 deepwatchindia	no_matching_jobs
 circleso	no_matching_jobs
 cb4	no_jobs
-expel	no_matching_jobs
 americaspromisealliance	no_matching_jobs
 jungroup	http_404
 katrisk	http_404
@@ -8348,7 +8347,6 @@ momentus	no_matching_jobs
 hc360	no_matching_jobs
 xgs	http_404
 durable	no_matching_jobs
-powerdigitalmarketing	no_matching_jobs
 zenjob	http_404
 donorbox	no_matching_jobs
 valtechgreenhouse	no_jobs
@@ -8701,7 +8699,6 @@ traveloka	http_404
 jwp	no_matching_jobs
 innovaccer	http_404
 zennify	no_matching_jobs
-nichecom	no_matching_jobs
 pqshield	no_matching_jobs
 dianthustherapeutics	no_matching_jobs
 kion	no_matching_jobs
