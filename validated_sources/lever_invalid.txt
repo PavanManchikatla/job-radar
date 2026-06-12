@@ -9393,7 +9393,6 @@ asapp-2	no_matching_jobs
 arsenalbio	no_matching_jobs
 arvor-insurance	no_matching_jobs
 ajax	no_matching_jobs
-artera	no_matching_jobs
 auw	no_matching_jobs
 ashoka	no_matching_jobs
 automatiq	no_matching_jobs
