@@ -6280,7 +6280,6 @@ monocl	no_matching_jobs
 singleops	http_404
 convene	no_matching_jobs
 harnessinc	no_matching_jobs
-nucleus	no_matching_jobs
 bitreactor	no_jobs
 applytoprecedent	no_matching_jobs
 cirkul	no_matching_jobs

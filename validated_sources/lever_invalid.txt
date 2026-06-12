@@ -9630,7 +9630,6 @@ crypto	no_matching_jobs
 great-gray-group	no_matching_jobs
 goswift	no_matching_jobs
 happyco	no_matching_jobs
-gravie	no_matching_jobs
 harmonicdesign	no_matching_jobs
 ghsmartjobs	no_matching_jobs
 getwingapp	no_matching_jobs
