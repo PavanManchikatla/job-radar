@@ -6682,7 +6682,6 @@ rvohealth	no_matching_jobs
 learneo	no_matching_jobs
 verramobility	no_matching_jobs
 logixboard	http_404
-mobilityware	no_matching_jobs
 guildgaragegroup	no_matching_jobs
 socure	http_404
 delartech	no_matching_jobs
@@ -8430,7 +8429,6 @@ trayio	http_404
 mergeworld	no_matching_jobs
 xai	no_matching_jobs
 wyndlabs	http_404
-lusternational	no_matching_jobs
 grassrootsanalytics	no_matching_jobs
 sandstonecoloradomedicaldetox	no_matching_jobs
 digitalcurrencygroup	no_matching_jobs
