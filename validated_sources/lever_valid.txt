@@ -157,3 +157,4 @@ foxitsoftware
 sep
 artera
 gravie
+delfidiagnostics

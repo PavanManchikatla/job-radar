@@ -1429,7 +1429,6 @@ tillpoint	http_404
 loyverse	http_404
 ehopper	http_404
 square for restaurants	http_404
-toast	no_matching_jobs
 touchbistro pos	http_404
 revel systems	http_404
 upserve pos	http_404
@@ -7326,7 +7325,6 @@ pano	http_404
 vanmetre	no_matching_jobs
 visualconcepts	no_matching_jobs
 isaraerospace	no_matching_jobs
-orchard	no_matching_jobs
 formlabs	no_matching_jobs
 recharge	no_jobs
 meruhealth	no_matching_jobs

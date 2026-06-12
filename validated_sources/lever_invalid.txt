@@ -9663,7 +9663,6 @@ inkitt	no_matching_jobs
 heartbeathealth	no_matching_jobs
 hypebeast	no_matching_jobs
 imentor	no_matching_jobs
-delfidiagnostics	no_matching_jobs
 electricmind	no_matching_jobs
 infstones	no_matching_jobs
 eqbank	no_matching_jobs
