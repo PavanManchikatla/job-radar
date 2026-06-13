@@ -6025,7 +6025,6 @@ resortpass	no_matching_jobs
 taxbit	no_matching_jobs
 energysolutions	no_matching_jobs
 careersatkokua	no_matching_jobs
-juullabs	no_matching_jobs
 playq	no_matching_jobs
 exactsales	no_jobs
 forta	no_jobs
