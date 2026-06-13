@@ -1,10 +1,17 @@
 ## Jobs Feed (auto-updated)
 
 <!-- JOBS:START -->
-_Last updated: 2026-06-13 05:57 CDT_
+_Last updated: 2026-06-13 09:26 CDT_
 
 | Posted | Company | Title | Location | Source |
 |---|---|---|---|---|
+| 2026-06-13 | reddit | [Analytics Engineer](https://job-boards.greenhouse.io/reddit/jobs/7958354) | Remote - United States | greenhouse |
+| 2026-06-13 | reddit | [Senior Staff Data Scientist - Consumer Relevance](https://job-boards.greenhouse.io/reddit/jobs/7974647) | Remote - Ontario, Canada | greenhouse |
+| 2026-06-13 | reddit | [Senior Staff Data Scientist - Consumer Relevance](https://job-boards.greenhouse.io/reddit/jobs/7974605) | Remote - United States | greenhouse |
+| 2026-06-13 | reddit | [Senior Analytics Engineer](https://job-boards.greenhouse.io/reddit/jobs/7958403) | Remote - Ontario, Canada | greenhouse |
+| 2026-06-13 | reddit | [Senior Analytics Engineer](https://job-boards.greenhouse.io/reddit/jobs/7445224) | Remote - United States | greenhouse |
+| 2026-06-13 | scoutmotors | [Lead, AI Engineering](https://job-boards.greenhouse.io/scoutmotors/jobs/5144166007) | Charlotte, North Carolina, United States | greenhouse |
+| 2026-06-13 | shopltk | [Data Analyst](https://job-boards.greenhouse.io/shopltk/jobs/7671051003) | United States | greenhouse |
 | 2026-06-13 | pinterest | [Machine Learning Engineer, Core Engineering](https://www.pinterestcareers.com/jobs/?gh_jid=6121450) | San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US; Remote, US | greenhouse |
 | 2026-06-13 | pinterest | [Sr. Staff Machine Learning Engineer, Content Ecosystem](https://www.pinterestcareers.com/jobs/?gh_jid=7919043) | San Francisco, CA, US; Remote, US | greenhouse |
 | 2026-06-13 | pinterest | [Sr. Software Engineer, ML Platform, tvScientific](https://www.pinterestcareers.com/jobs/?gh_jid=7642249) | San Francisco, CA, US; Remote, US | greenhouse |
@@ -40,11 +47,6 @@ _Last updated: 2026-06-13 05:57 CDT_
 | 2026-06-13 | andurilindustries | [Senior Research Scientist](https://boards.greenhouse.io/andurilindustries/jobs/5150395007?gh_jid=5150395007) | Broomfield, Colorado, United States | greenhouse |
 | 2026-06-13 | andurilindustries | [Staff Analytics Engineer](https://boards.greenhouse.io/andurilindustries/jobs/4457719007?gh_jid=4457719007) | Costa Mesa, California, United States | greenhouse |
 | 2026-06-13 | andurilindustries | [Staff Data Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5078991007?gh_jid=5078991007) | Costa Mesa, California, United States | greenhouse |
-| 2026-06-13 | reddit | [Senior Staff Data Scientist - Consumer Relevance](https://job-boards.greenhouse.io/reddit/jobs/7974647) | Remote - Ontario, Canada | greenhouse |
-| 2026-06-13 | reddit | [Senior Staff Data Scientist - Consumer Relevance](https://job-boards.greenhouse.io/reddit/jobs/7974605) | Remote - United States | greenhouse |
-| 2026-06-13 | reddit | [Analytics Engineer](https://job-boards.greenhouse.io/reddit/jobs/7958354) | Remote - United States | greenhouse |
-| 2026-06-13 | reddit | [Senior Analytics Engineer](https://job-boards.greenhouse.io/reddit/jobs/7958403) | Remote - Ontario, Canada | greenhouse |
-| 2026-06-13 | reddit | [Senior Analytics Engineer](https://job-boards.greenhouse.io/reddit/jobs/7445224) | Remote - United States | greenhouse |
 | 2026-06-13 | gofundme | [Staff Data Scientist (Pricing)](https://job-boards.greenhouse.io/gofundme/jobs/7494744) | San Francisco, CA | greenhouse |
 | 2026-06-12 | striveworks | [Data Scientist (Active Secret Clearance)](https://job-boards.greenhouse.io/striveworks/jobs/7711179003) | Schofield Barracks, Hawaii, United States | greenhouse |
 | 2026-06-12 | forgeglobal | [Senior Data Analyst](https://job-boards.greenhouse.io/forgeglobal/jobs/6014212004) | San Francisco, California, United States | greenhouse |
@@ -179,8 +181,6 @@ _Last updated: 2026-06-13 05:57 CDT_
 | 2026-06-12 | torcrobotics | [Machine Learning Engineer - New AI Initiatives](https://job-boards.greenhouse.io/torcrobotics/jobs/8567705002) | Remote - US | greenhouse |
 | 2026-06-12 | dynamisinc | [Data Scientist II](https://job-boards.greenhouse.io/dynamisinc/jobs/4688975006) | Vienna, VA | greenhouse |
 | 2026-06-12 | gravie | [Data Analyst](https://jobs.lever.co/gravie/8dc6e9a1-c1fc-4259-9677-d07565f4eb99) | Minneapolis, MN | lever |
-| 2026-06-12 | scoutmotors | [Lead, AI Engineering](https://job-boards.greenhouse.io/scoutmotors/jobs/5144166007) | Charlotte, North Carolina, United States | greenhouse |
-| 2026-06-12 | shopltk | [Data Analyst](https://job-boards.greenhouse.io/shopltk/jobs/7671051003) | United States | greenhouse |
 | 2026-06-12 | mariadbplc | [Senior Data Scientist](https://job-boards.eu.greenhouse.io/mariadbplc/jobs/4829004101) | Remote -- Romania | greenhouse |
 | 2026-06-12 | mariadbplc | [Senior Data Scientist](https://job-boards.eu.greenhouse.io/mariadbplc/jobs/4806320101) | Remote - Bulgaria | greenhouse |
 | 2026-06-12 | mariadbplc | [Senior Data Analytics Engineer](https://job-boards.eu.greenhouse.io/mariadbplc/jobs/4822565101) | Remote -- Romania | greenhouse |
@@ -429,8 +429,4 @@ _Last updated: 2026-06-13 05:57 CDT_
 | 2026-06-10 | fundraiseup | [Sales Analytics Manager](https://fundraiseup.com/careers/4696984005/?gh_jid=4696984005) | USA (EST and CST) - Remote | greenhouse |
 | 2026-06-10 | northbeam | [Senior Data Scientist](https://job-boards.greenhouse.io/northbeam/jobs/4688305006) | Remote - Canada | greenhouse |
 | 2026-06-10 | northbeam | [Senior Data Scientist](https://job-boards.greenhouse.io/northbeam/jobs/4600948006) | Remote - USA | greenhouse |
-| 2026-06-10 | afresh | [Senior Data Engineer](https://job-boards.greenhouse.io/afresh/jobs/5829281004) | Remote - United States | greenhouse |
-| 2026-06-10 | afresh | [Senior Data Engineer](https://job-boards.greenhouse.io/afresh/jobs/5829291004) | Remote - Ontario, Canada | greenhouse |
-| 2026-06-10 | instacart | [Senior Machine Learning Engineer, Search & Recommendations](https://instacart.careers/job/?gh_jid=7996528) | Canada - Remote (ON, AB, BC, or NS Only) | greenhouse |
-| 2026-06-10 | banyansoftware | [AI Engineer (Healthcare SaaS)- Medicat](https://job-boards.greenhouse.io/banyansoftware/jobs/5099809007) | United States | greenhouse |
 <!-- JOBS:END -->
