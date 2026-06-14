@@ -10,4 +10,3 @@ activehours
 evidation
 startuptap
 zipongo
-sandisk
