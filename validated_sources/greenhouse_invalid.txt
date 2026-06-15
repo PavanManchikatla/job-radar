@@ -5639,7 +5639,6 @@ teads1	no_matching_jobs
 bottomlinetechnologies	no_matching_jobs
 sorcero	no_matching_jobs
 inizio	no_matching_jobs
-calm	no_matching_jobs
 avidxchangeinc	no_matching_jobs
 hoyoverse	no_jobs
 processstreet	no_matching_jobs
