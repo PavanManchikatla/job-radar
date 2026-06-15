@@ -5544,7 +5544,6 @@ muckrack	no_matching_jobs
 brooklinen	no_matching_jobs
 rcxsports	no_matching_jobs
 vaticlabs	no_matching_jobs
-ibkr	no_matching_jobs
 theblacktux	http_404
 keeleycompanies	no_jobs
 envisionconsulting	no_matching_jobs
@@ -8008,7 +8007,6 @@ snowcompanies	no_matching_jobs
 myfitnesspal	no_matching_jobs
 tia	no_matching_jobs
 a1msolutions	no_matching_jobs
-healthverity	no_matching_jobs
 gravitate	no_jobs
 bcomsolutions	no_matching_jobs
 mbooth	no_matching_jobs

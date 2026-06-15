@@ -653,3 +653,5 @@ cybermediatechnologies
 dexisconsultinggroup
 docugami
 dotmatics
+ibkr
+healthverity
