@@ -5702,7 +5702,6 @@ tigergraph	no_matching_jobs
 constructionresources	no_matching_jobs
 brillapubliccharterschools	no_matching_jobs
 riseforfamilies	no_matching_jobs
-datavant2	no_matching_jobs
 presidentssummit	no_matching_jobs
 tracylocke	no_jobs
 folxhealth	no_matching_jobs
@@ -5921,7 +5920,6 @@ cerqlar	no_jobs
 freenow	no_matching_jobs
 pioneersquarelabs	no_matching_jobs
 humaninterest	no_matching_jobs
-adswerveinc	no_matching_jobs
 oulahealth	no_matching_jobs
 luster	no_jobs
 fay	no_matching_jobs
@@ -6036,7 +6034,6 @@ taskhumancorporate	http_404
 togetherwork	no_matching_jobs
 watchmakergenomics	no_matching_jobs
 theswiftgroup	http_404
-qualtrics	no_matching_jobs
 asteralabs	no_matching_jobs
 careersatkokua	no_matching_jobs
 exactsales	no_jobs
@@ -6306,7 +6303,6 @@ catonetworks	no_matching_jobs
 urbansportsclub	no_matching_jobs
 wheelhousedmg	no_matching_jobs
 chanzuckerberginitiative	no_matching_jobs
-youcom	no_matching_jobs
 renewedvision	no_matching_jobs
 btig27	no_matching_jobs
 remixtherapeutics	no_matching_jobs
@@ -6705,7 +6701,6 @@ learneo	no_matching_jobs
 rvohealth	no_matching_jobs
 verramobility	no_matching_jobs
 logixboard	http_404
-mobilityware	no_matching_jobs
 socure	http_404
 honestmedicalgroup	http_404
 nocdinc	http_404
@@ -7699,7 +7694,6 @@ strategicprojectpartners	no_matching_jobs
 swayboxstudios	no_matching_jobs
 pagerduty	no_matching_jobs
 laporteusa	no_matching_jobs
-ifoodcarreiras	no_matching_jobs
 grahamcapitalmanagement	no_matching_jobs
 alteradigitalhealth	http_404
 turo	http_404

@@ -145,3 +145,4 @@ unstructuredtechnologies
 velo3d
 visotrust
 wisdomtree
+finquery

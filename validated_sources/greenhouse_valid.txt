@@ -655,3 +655,9 @@ docugami
 dotmatics
 ibkr
 healthverity
+datavant2
+qualtrics
+youcom
+adswerveinc
+mobilityware
+ifoodcarreiras

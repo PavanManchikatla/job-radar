@@ -9648,7 +9648,6 @@ heetch	no_matching_jobs
 hellonanny	no_matching_jobs
 highlight	http_404
 hermeus	no_matching_jobs
-finquery	no_matching_jobs
 hively	http_404
 hint	no_matching_jobs
 highspot	no_matching_jobs
