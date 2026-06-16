@@ -9430,7 +9430,6 @@ athenapsych	no_matching_jobs
 blue	no_matching_jobs
 blencorp	no_matching_jobs
 bigblue	no_matching_jobs
-bluesight	no_matching_jobs
 bosonai	no_matching_jobs
 breakwatertech	http_404
 allegiantair	no_matching_jobs

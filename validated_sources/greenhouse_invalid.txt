@@ -5666,7 +5666,6 @@ nava	http_404
 supersod	no_matching_jobs
 team1	http_404
 hispanicaccessfoundation	http_404
-hugeinc	no_matching_jobs
 eei	no_matching_jobs
 coast	no_matching_jobs
 thetustingroupasp	http_404
@@ -6031,7 +6030,6 @@ taskhumancorporate	http_404
 togetherwork	no_matching_jobs
 watchmakergenomics	no_matching_jobs
 theswiftgroup	http_404
-asteralabs	no_matching_jobs
 careersatkokua	no_matching_jobs
 exactsales	no_jobs
 taxbit	no_matching_jobs
@@ -7155,7 +7153,6 @@ travelperk	http_404
 bitso	no_matching_jobs
 bluestarfamilies	no_matching_jobs
 theorchard	no_matching_jobs
-billiontoone	no_matching_jobs
 ergeon	no_jobs
 radiant	http_404
 bertramcapitalmanagement	no_matching_jobs
@@ -7756,7 +7753,6 @@ googlefiber	no_matching_jobs
 3redpartners	no_matching_jobs
 interfaceai	no_jobs
 arenanet	http_404
-civicnation	no_matching_jobs
 voxmedia	no_matching_jobs
 remodelhealth	no_matching_jobs
 homeconstructionregulatoryauthority	no_jobs
@@ -8517,7 +8513,6 @@ shearersinternalmobility	http_404
 aclunj	no_matching_jobs
 microblink	no_matching_jobs
 greenbrookmedical	no_matching_jobs
-affirmedrxpbc	no_matching_jobs
 emporiarevolutionizinghomeenergy	no_matching_jobs
 relaypro	no_matching_jobs
 twelve	http_404

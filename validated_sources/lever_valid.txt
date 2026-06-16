@@ -146,3 +146,4 @@ velo3d
 visotrust
 wisdomtree
 finquery
+bluesight
