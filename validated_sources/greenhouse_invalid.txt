@@ -7434,7 +7434,6 @@ shipbobinc	no_matching_jobs
 verticalbridge	no_matching_jobs
 showpad	no_matching_jobs
 pascal	http_404
-launchpotato	no_matching_jobs
 mindgym	no_matching_jobs
 treehousefab	no_matching_jobs
 northmarq	no_matching_jobs
@@ -8360,7 +8359,6 @@ burnt	no_matching_jobs
 eyeo	no_jobs
 maev	no_jobs
 impact	no_matching_jobs
-neoris	no_matching_jobs
 everdriven	no_matching_jobs
 momentus	no_matching_jobs
 hc360	no_matching_jobs
