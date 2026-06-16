@@ -5704,7 +5704,6 @@ riseforfamilies	no_matching_jobs
 presidentssummit	no_matching_jobs
 tracylocke	no_jobs
 folxhealth	no_matching_jobs
-openteams	no_matching_jobs
 genuine	no_jobs
 himshers	http_404
 smartcitykitchens	no_jobs
@@ -6760,7 +6759,6 @@ referralsuseonly	no_matching_jobs
 hive	no_matching_jobs
 dunnhumby	no_matching_jobs
 senrasystems	no_matching_jobs
-medistrava	no_matching_jobs
 legendyounggraduateeu	no_matching_jobs
 enforce	no_matching_jobs
 corcepttherapeutics	no_matching_jobs
@@ -6774,7 +6772,6 @@ filecoinfoundation	no_matching_jobs
 hwp	http_404
 vitta	no_matching_jobs
 luminar	http_404
-prolific	no_matching_jobs
 tailscale	no_matching_jobs
 imre	no_matching_jobs
 revivecareers	http_404
@@ -6857,7 +6854,6 @@ quin	http_404
 pulley	no_jobs
 spin	no_matching_jobs
 miqdigital	no_matching_jobs
-coursera	no_matching_jobs
 meter	http_404
 5minlab	no_matching_jobs
 subsplash	no_matching_jobs
@@ -7430,7 +7426,6 @@ mast	no_matching_jobs
 ataiwebsite	http_404
 cbemllc	no_matching_jobs
 qphox	no_matching_jobs
-shipbobinc	no_matching_jobs
 verticalbridge	no_matching_jobs
 showpad	no_matching_jobs
 pascal	http_404
@@ -7769,7 +7764,6 @@ ashfieldmedcomms	no_matching_jobs
 ginkgobioworks	no_matching_jobs
 sbusa	no_matching_jobs
 tacobell	http_404
-coretrustpurchasinggroupllc	no_matching_jobs
 formic	no_matching_jobs
 neuroblade	http_404
 climatefinancesolutions	http_404
@@ -8224,7 +8218,6 @@ formaaiinc	no_matching_jobs
 vsco39	no_matching_jobs
 collectively	no_matching_jobs
 noble	no_matching_jobs
-effectual	no_matching_jobs
 farmsanctuary	no_matching_jobs
 polycamcareers	no_matching_jobs
 manychat	no_matching_jobs
