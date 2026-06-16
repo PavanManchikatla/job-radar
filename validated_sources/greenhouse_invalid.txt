@@ -5873,7 +5873,6 @@ metalab	no_matching_jobs
 myriad360	no_matching_jobs
 intradiem	no_matching_jobs
 onbe	no_matching_jobs
-upgrade	no_matching_jobs
 turquoisehealth	http_404
 owkin	http_404
 mgtinsurance	no_matching_jobs
@@ -6301,7 +6300,6 @@ classkick	http_404
 catonetworks	no_matching_jobs
 urbansportsclub	no_matching_jobs
 wheelhousedmg	no_matching_jobs
-chanzuckerberginitiative	no_matching_jobs
 renewedvision	no_matching_jobs
 btig27	no_matching_jobs
 remixtherapeutics	no_matching_jobs
@@ -7617,7 +7615,6 @@ medium	no_jobs
 tracelinkinc	no_matching_jobs
 glooko	no_matching_jobs
 veza	http_404
-sage49	no_matching_jobs
 prisma6	no_matching_jobs
 strandtherapeutics	no_matching_jobs
 blockchain	no_matching_jobs
@@ -8087,7 +8084,6 @@ offshorelaunch	no_matching_jobs
 infotrust	no_matching_jobs
 counterpart	no_matching_jobs
 nanit	no_matching_jobs
-launch2	no_matching_jobs
 chewycom	http_404
 lightspeedhqfr	http_404
 meaningfulgigscreativecommunity	http_404
