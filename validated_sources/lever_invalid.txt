@@ -10161,7 +10161,6 @@ circuithub	http_404
 rescale	http_404
 ycombinator	http_404
 y	http_404
-wadetrim	no_matching_jobs
 onesignal	http_404
 streak	http_404
 y-combinator	http_404

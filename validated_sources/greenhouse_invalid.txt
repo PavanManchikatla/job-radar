@@ -5742,7 +5742,6 @@ revivn	no_matching_jobs
 edgewoodpartnersinsurancecenter	no_matching_jobs
 levanta	no_matching_jobs
 manscaped	no_matching_jobs
-mirakllabs	no_matching_jobs
 propellercommunications	no_matching_jobs
 flodesk	no_matching_jobs
 omidyarnetwork	no_matching_jobs
@@ -6041,7 +6040,6 @@ figment	no_matching_jobs
 oyster	http_404
 caribou	no_matching_jobs
 insureyourfuturega	http_404
-commercetools	no_matching_jobs
 collegevine	http_404
 zenoti	no_matching_jobs
 soligent	no_matching_jobs
@@ -7904,7 +7902,6 @@ alliedglobalmarketing	http_404
 rev	http_404
 gotutorcorps	no_matching_jobs
 synctera	http_404
-feedzai	no_matching_jobs
 cialfo	no_matching_jobs
 thatsnomoonentertainment	no_matching_jobs
 projectaservicesgmbhcokg	no_matching_jobs
@@ -8574,7 +8571,6 @@ tripadvisor	no_matching_jobs
 paypay	no_matching_jobs
 wgachidden	no_matching_jobs
 cfoinsights	no_matching_jobs
-patientpoint	no_matching_jobs
 xosinc	no_matching_jobs
 vibesllc	no_matching_jobs
 apono	http_404

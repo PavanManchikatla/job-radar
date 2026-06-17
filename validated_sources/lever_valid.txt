@@ -148,3 +148,4 @@ wisdomtree
 finquery
 bluesight
 dronedeploy
+wadetrim
