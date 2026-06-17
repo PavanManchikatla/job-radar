@@ -1458,7 +1458,6 @@ snapchat	http_404
 tiktok	http_404
 youtube	http_404
 whatsapp	http_404
-discord	no_matching_jobs
 twitch	no_matching_jobs
 line	http_404
 wechat	http_404
@@ -7500,7 +7499,6 @@ eh2	no_matching_jobs
 prendiodbaprendiobioprocure	no_matching_jobs
 sustainablewestchester	no_matching_jobs
 easyship	no_matching_jobs
-whogivesacrap	no_matching_jobs
 teachforall	no_matching_jobs
 behavox	no_matching_jobs
 rebtel	no_matching_jobs

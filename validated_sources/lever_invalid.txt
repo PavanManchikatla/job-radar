@@ -9541,7 +9541,6 @@ earthspecies	no_matching_jobs
 drivemode	no_matching_jobs
 eastwall	http_404
 easystreetcap	no_matching_jobs
-dronedeploy	no_matching_jobs
 educationatwork	http_404
 dilitrust	no_matching_jobs
 eastern-communications	no_matching_jobs
