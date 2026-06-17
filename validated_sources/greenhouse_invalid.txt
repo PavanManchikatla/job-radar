@@ -5738,7 +5738,6 @@ crystaldynamics	no_matching_jobs
 acilearning	no_matching_jobs
 ernesta	no_matching_jobs
 revivn	no_matching_jobs
-edgewoodpartnersinsurancecenter	no_matching_jobs
 levanta	no_matching_jobs
 manscaped	no_matching_jobs
 propellercommunications	no_matching_jobs
@@ -6351,7 +6350,6 @@ symblai47	no_jobs
 insightrx	no_matching_jobs
 summer	no_matching_jobs
 sagent	no_matching_jobs
-coherehealth	no_matching_jobs
 topsort	no_matching_jobs
 saltxc	no_matching_jobs
 riskified	no_matching_jobs
