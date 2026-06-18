@@ -9581,7 +9581,6 @@ fieldnation	no_matching_jobs
 finch	no_matching_jobs
 findem	no_matching_jobs
 finix	no_matching_jobs
-findigs	no_matching_jobs
 dnb	no_matching_jobs
 bhhc	no_matching_jobs
 fitzmark	no_matching_jobs

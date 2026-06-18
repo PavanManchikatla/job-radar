@@ -150,3 +150,4 @@ bluesight
 dronedeploy
 wadetrim
 cyderes
+findigs

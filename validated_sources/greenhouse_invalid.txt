@@ -5050,7 +5050,6 @@ charterts	no_matching_jobs
 vestmark	no_matching_jobs
 prove	no_matching_jobs
 apptronik	no_matching_jobs
-thequalitygroupgmbh1	no_matching_jobs
 supernal	no_matching_jobs
 constellationsoftwareinc	no_matching_jobs
 allscripts	http_404
@@ -5379,7 +5378,6 @@ abbycare	http_404
 targetrwe	http_404
 cotullaeducation	no_matching_jobs
 hypr	no_matching_jobs
-map	no_matching_jobs
 checkalt	no_jobs
 joinparadigm	no_matching_jobs
 harmonic	no_matching_jobs
@@ -6253,7 +6251,6 @@ splashfinancial	no_matching_jobs
 definitivehcindia	no_matching_jobs
 deliveryassociates	no_matching_jobs
 debutbiotech25	no_matching_jobs
-sterlingtonpllc	no_matching_jobs
 foundrytechnologiesinc	http_404
 propublica	no_matching_jobs
 minno	no_matching_jobs
@@ -6994,7 +6991,6 @@ bridgeway	no_matching_jobs
 southernpovertylawcenter	no_matching_jobs
 evpassport	no_jobs
 regionalspotonsales	http_404
-thequalitygroupgmbh2	no_matching_jobs
 metropolis	no_matching_jobs
 seldon	http_404
 relaytherapeutics	no_matching_jobs
@@ -8527,7 +8523,6 @@ fulfil	no_matching_jobs
 lighthouse	no_matching_jobs
 vicecanada	http_404
 databento	no_matching_jobs
-betterhelpcom	no_matching_jobs
 mobiik	no_matching_jobs
 planetscale	no_matching_jobs
 strongholdim	http_404
