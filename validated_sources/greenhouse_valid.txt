@@ -689,3 +689,4 @@ patientpoint
 clariticloudinc
 edgewoodpartnersinsurancecenter
 coherehealth
+syndigo

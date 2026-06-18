@@ -5284,7 +5284,6 @@ mainstreethealth	no_matching_jobs
 secondharvest	no_matching_jobs
 vixxo	no_matching_jobs
 highwire	no_matching_jobs
-syndigo	no_matching_jobs
 accuweather	no_matching_jobs
 atlassand	no_matching_jobs
 resolvetosavelives	no_matching_jobs
