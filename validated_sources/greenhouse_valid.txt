@@ -695,3 +695,5 @@ map
 sterlingtonpllc
 thequalitygroupgmbh2
 betterhelpcom
+whalarinc
+welbehealth

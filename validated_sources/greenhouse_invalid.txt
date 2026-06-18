@@ -5924,7 +5924,6 @@ leanixjobs	http_404
 headoutcareers	no_matching_jobs
 overdare	no_matching_jobs
 elementalimpact	no_matching_jobs
-whalarinc	no_matching_jobs
 hatchhirescontractors	no_matching_jobs
 barkley	no_matching_jobs
 id5	no_matching_jobs
@@ -6044,7 +6043,6 @@ scoutmotors	no_matching_jobs
 curative	no_matching_jobs
 lynxtech	no_matching_jobs
 vpawashington	no_matching_jobs
-welbehealth	no_matching_jobs
 cardinalpoint	no_matching_jobs
 bitly	no_jobs
 anchanto	no_matching_jobs
