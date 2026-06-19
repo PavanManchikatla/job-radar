@@ -5837,7 +5837,6 @@ accrue	no_matching_jobs
 presencelearning	no_matching_jobs
 harrowhealth	no_matching_jobs
 pliancy	no_matching_jobs
-codepath	no_matching_jobs
 gunner	http_404
 scout24	no_matching_jobs
 codeword	no_matching_jobs
