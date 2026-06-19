@@ -6391,7 +6391,6 @@ extrahopnetworks	no_matching_jobs
 oliverplus	http_404
 abclabs	no_matching_jobs
 selinicapital	no_matching_jobs
-morganmorganjobsapplynow	no_matching_jobs
 ascendtogether	no_matching_jobs
 kasian	http_404
 aspire	http_404
@@ -8683,7 +8682,6 @@ atek	no_matching_jobs
 denverbroncosteamllc	no_matching_jobs
 traveloka	http_404
 ujet	no_matching_jobs
-spotter	no_matching_jobs
 lumahealth	no_matching_jobs
 vts	no_matching_jobs
 moneylion	http_404

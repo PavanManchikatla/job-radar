@@ -14718,7 +14718,6 @@ seyond	no_postings
 sfaf	no_postings
 shaker	no_postings
 shapeshift	no_postings
-sgs	no_matching_jobs
 shapiroplasticsurgery	no_postings
 shapr3d	no_postings
 shearwater	no_postings
