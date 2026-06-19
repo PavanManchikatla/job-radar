@@ -8670,7 +8670,6 @@ sonypicturesimageworks	no_matching_jobs
 studentloanhero	http_404
 mpowerfinancing	no_jobs
 oneenergyrenewables	no_matching_jobs
-kunai	no_matching_jobs
 acommerce	no_matching_jobs
 citizen	http_404
 clair	http_404
