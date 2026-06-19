@@ -8144,7 +8144,6 @@ workera	no_jobs
 crookedmedia	no_matching_jobs
 luminaryhospice	no_matching_jobs
 crisprecruit	no_matching_jobs
-familywell	no_matching_jobs
 neuroflow	http_404
 redesignhealth	http_404
 taskhumancoachingcommunity	http_404
