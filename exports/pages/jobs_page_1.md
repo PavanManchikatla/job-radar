@@ -1,6 +1,6 @@
 # Jobs Feed (Page 1/1)
 
-_Last updated: 2026-06-20 09:31 CDT_
+_Last updated: 2026-06-20 12:57 CDT_
 
 | Posted | Company | Title | Location | Source |
 |---|---|---|---|---|
@@ -296,14 +296,5 @@ _Last updated: 2026-06-20 09:31 CDT_
 | 2026-06-17 | chaosindustries | [Data Scientist: Mission Engineering](https://job-boards.greenhouse.io/chaosindustries/jobs/5167241007) | El Segundo, California, United States | greenhouse |
 | 2026-06-17 | correlationone | [Lead Instructor: Machine Learning Data Associate](https://job-boards.greenhouse.io/correlationone/jobs/5799850004) | Remote: EMEA | greenhouse |
 | 2026-06-17 | correlationone | [Teaching Assistant: Machine Learning Data Associate](https://job-boards.greenhouse.io/correlationone/jobs/5802065004) | Remote: EMEA | greenhouse |
-| 2026-06-17 | pagerhealth | [Applied AI Engineer](https://www.pagerhealth.com/pagerhealth-careers/?gh_jid=7749574) | US Remote | greenhouse |
-| 2026-06-17 | amplitude | [Senior Data Scientist](https://job-boards.greenhouse.io/amplitude/jobs/8541697002) | San Francisco, CA | greenhouse |
-| 2026-06-17 | dexisconsultinggroup | [Data Scientist / Data Analyst - U.S. Government Agency](https://dexisonline.com/jobs/?gh_jid=4706867005) | Washington, District of Columbia, United States | greenhouse |
-| 2026-06-17 | goodwaygroup | [Global Data Engineer](https://job-boards.greenhouse.io/goodwaygroup/jobs/5991794004) | Remote | greenhouse |
-| 2026-06-17 | cargomatic | [Data Engineer](https://job-boards.greenhouse.io/cargomatic/jobs/5129940008) | San Francisco, CA | greenhouse |
-| 2026-06-17 | gympass | [Data Analyst Specialist \| CX Insights](https://job-boards.greenhouse.io/gympass/jobs/8547338002) | Brazil (Remote) | greenhouse |
-| 2026-06-17 | gympass | [Mid-Level Data Analyst \| Partnerships](https://job-boards.greenhouse.io/gympass/jobs/8506850002) | Brazil (Remote) | greenhouse |
-| 2026-06-17 | flagshippioneeringinc | [Principal Scientist, Machine Learning - Biomolecules](https://boards.greenhouse.io/flagshippioneeringinc/jobs/8584537002?gh_jid=8584537002) | Cambridge, MA USA | greenhouse |
-| 2026-06-17 | honeycomb | [Senior Software Engineer - AI Intelligence](https://job-boards.greenhouse.io/honeycomb/jobs/5212323008) | Remote - United States | greenhouse |
 
 [Back to README](../../README.md)
