@@ -5662,7 +5662,6 @@ supersod	no_matching_jobs
 team1	http_404
 hispanicaccessfoundation	http_404
 eei	no_matching_jobs
-coast	no_matching_jobs
 thetustingroupasp	http_404
 boldbusiness	no_matching_jobs
 darkhorseviz	no_matching_jobs
