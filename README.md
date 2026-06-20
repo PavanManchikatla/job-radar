@@ -1,7 +1,7 @@
 ## Jobs Feed (auto-updated)
 
 <!-- JOBS:START -->
-_Last updated: 2026-06-20 03:21 CDT_
+_Last updated: 2026-06-20 06:03 CDT_
 
 | Posted | Company | Title | Location | Source |
 |---|---|---|---|---|
@@ -315,7 +315,4 @@ _Last updated: 2026-06-20 03:21 CDT_
 | 2026-06-17 | thoughtworks | [Principal Machine Learning Engineer](https://www.thoughtworks.com/careers/jobs/7773336?gh_jid=7773336) | Chicago, Illinois, USA | greenhouse |
 | 2026-06-17 | clarityinnovates | [Senior Data Scientist](https://job-boards.greenhouse.io/clarityinnovates/jobs/5164073007) | Hurlburt Field, FL | greenhouse |
 | 2026-06-17 | agecareers | [Senior Data Analyst - Subject Matter Expert (SME)](https://job-boards.greenhouse.io/agecareers/jobs/5212060008) | Fort Meade, MD | greenhouse |
-| 2026-06-17 | feedzai | [Senior Data Scientist](https://careers.feedzai.com/job_description?gh_jid=8011825) | Brazil Remote | greenhouse |
-| 2026-06-17 | valtech | [Senior Data Engineer](https://job-boards.eu.greenhouse.io/valtech/jobs/4899760101) | Kosovo - Remote | greenhouse |
-| 2026-06-17 | valtech | [Senior Data Scientist](https://job-boards.eu.greenhouse.io/valtech/jobs/4899761101) | Kosovo - Remote | greenhouse |
 <!-- JOBS:END -->
