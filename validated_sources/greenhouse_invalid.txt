@@ -6029,7 +6029,6 @@ bdtmsd	no_jobs
 resortpass	no_matching_jobs
 theswiftgroup	http_404
 pioneersquarelabs	no_matching_jobs
-realtimeboardglobal	no_matching_jobs
 energysolutions	no_matching_jobs
 scoutmotors	no_matching_jobs
 desktopmetal	http_404
@@ -8681,7 +8680,6 @@ link	no_matching_jobs
 ancientnutrition	http_404
 amylyx	no_matching_jobs
 synchron	http_404
-ddome	no_matching_jobs
 classicalcharterschools	http_404
 enterrasolutions	no_matching_jobs
 siteline	no_matching_jobs
