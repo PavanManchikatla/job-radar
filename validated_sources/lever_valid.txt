@@ -135,3 +135,7 @@ velo3d
 versapay
 visotrust
 wisdomtree
+get-vocal-pbc
+arrivelogistics
+nimbus
+wellfit

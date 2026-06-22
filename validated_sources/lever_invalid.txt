@@ -9649,7 +9649,6 @@ hint	no_matching_jobs
 heyrowan	no_matching_jobs
 hively	http_404
 highspot	no_matching_jobs
-get-vocal-pbc	no_matching_jobs
 harmonicdesign	no_matching_jobs
 hr-hints	http_404
 hungerfreeamerica	no_matching_jobs
@@ -14038,7 +14037,6 @@ nobellfoods	http_404
 nobl9	http_404
 nogginit	http_404
 nomadhomes	http_404
-nimbus	no_matching_jobs
 navis	http_404
 nayya	http_404
 netcracker	http_404
@@ -15557,7 +15555,6 @@ arootah	no_matching_jobs
 appnation	no_matching_jobs
 artblocks	http_404
 artificial	http_404
-arrivelogistics	no_matching_jobs
 asfar	http_404
 ascoeq	http_404
 asap	http_404
@@ -18286,7 +18283,6 @@ wemaintain	http_404
 voodoo	no_matching_jobs
 wesalute	http_404
 westair	no_matching_jobs
-wellfit	no_matching_jobs
 willowinc	no_matching_jobs
 whiterabbit	no_matching_jobs
 whiterivertoyota	no_matching_jobs

@@ -3147,7 +3147,6 @@ blink	http_404
 speakap	http_404
 facebook workplace	http_404
 microsoft viva	http_404
-reach	no_matching_jobs
 poppulo	no_matching_jobs
 wire	http_404
 unily	http_404
@@ -5224,7 +5223,6 @@ flybyrobotics	http_404
 commerceiq	no_matching_jobs
 woodrodgers	http_404
 summitpartnerslp	no_matching_jobs
-seurat	no_matching_jobs
 factorialenergy	http_404
 paysend	http_404
 10alabs	no_matching_jobs
@@ -5404,7 +5402,6 @@ harmonic	no_matching_jobs
 fashionnova	no_matching_jobs
 mirumpharmaceuticals	no_matching_jobs
 strava	http_404
-unitedmasterstranslation	no_matching_jobs
 idme	no_matching_jobs
 voxel51	no_matching_jobs
 presidents	no_matching_jobs
