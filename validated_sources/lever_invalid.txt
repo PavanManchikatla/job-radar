@@ -9886,7 +9886,6 @@ qover	http_404
 paytmpayments	no_matching_jobs
 quadlock	no_matching_jobs
 provectus	no_matching_jobs
-quantcast	no_matching_jobs
 quantco-	no_matching_jobs
 quantumcircuits	no_matching_jobs
 quartzy	no_matching_jobs

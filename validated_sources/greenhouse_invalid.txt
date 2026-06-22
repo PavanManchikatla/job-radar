@@ -6035,7 +6035,6 @@ figment	no_matching_jobs
 exactsales	no_jobs
 lexer	http_404
 careersatkokua	no_matching_jobs
-lazarusenterprises	no_matching_jobs
 zenoti	no_matching_jobs
 oyster	http_404
 caribou	no_matching_jobs
@@ -6073,7 +6072,6 @@ nova401	no_matching_jobs
 alpenlabs	http_404
 sparkfund	no_matching_jobs
 vorbiopharma	no_matching_jobs
-zocalohealth	no_matching_jobs
 gomaestro	no_matching_jobs
 reserv	http_404
 pumpcareers	no_matching_jobs
@@ -6328,7 +6326,6 @@ aypapower	no_matching_jobs
 encompasstechnologiesllp	no_matching_jobs
 jadebiosciences	no_matching_jobs
 nearsure	http_404
-mitratech	no_matching_jobs
 kayak	no_matching_jobs
 keyfactorinc	no_matching_jobs
 simulamet	no_jobs
@@ -8471,7 +8468,6 @@ livescore9	no_matching_jobs
 assuredguaranty	no_matching_jobs
 quip	no_matching_jobs
 cakeai	no_jobs
-veeamsoftware	no_matching_jobs
 g2vp	no_jobs
 remotetcx	no_matching_jobs
 adhocteam	http_404
