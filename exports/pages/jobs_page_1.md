@@ -1,12 +1,17 @@
 # Jobs Feed (Page 1/1)
 
-_Last updated: 2026-06-23 03:16 CDT_
+_Last updated: 2026-06-23 06:44 CDT_
 
 | Posted | Company | Title | Location | Source |
 |---|---|---|---|---|
-| 2026-06-23 | imc | [Machine Learning Engineer](https://job-boards.eu.greenhouse.io/imc/jobs/4570309101) | Chicago, United States | greenhouse |
+| 2026-06-23 | shopltk | [Data Analyst](https://job-boards.greenhouse.io/shopltk/jobs/7671051003) | United States | greenhouse |
 | 2026-06-23 | verisign | [Research Engineer](https://job-boards.greenhouse.io/verisign/jobs/7650739003) | Reston,Virginia,United States | greenhouse |
 | 2026-06-23 | verisign | [Sr Research Engineer](https://job-boards.greenhouse.io/verisign/jobs/7636398003) | Reston,Virginia,United States | greenhouse |
+| 2026-06-23 | acquia | [Staff AI Engineer](https://job-boards.greenhouse.io/acquia/jobs/8014352) | Remote-United-States | greenhouse |
+| 2026-06-23 | acquia | [Staff AI Engineer](https://job-boards.greenhouse.io/acquia/jobs/8014297) | Remote-Canada | greenhouse |
+| 2026-06-23 | reddit | [Machine Learning Systems Engineer, Ads ML Platform](https://job-boards.greenhouse.io/reddit/jobs/8022942) | Remote - The Netherlands | greenhouse |
+| 2026-06-23 | reddit | [Machine Learning Systems Engineer, Ads ML Platform](https://job-boards.greenhouse.io/reddit/jobs/8022937) | Remote - United Kingdom | greenhouse |
+| 2026-06-23 | imc | [Machine Learning Engineer](https://job-boards.eu.greenhouse.io/imc/jobs/4570309101) | Chicago, United States | greenhouse |
 | 2026-06-23 | gympass | [Data Analyst Specialist \| CX Insights](https://job-boards.greenhouse.io/gympass/jobs/8547338002) | Brazil (Remote) | greenhouse |
 | 2026-06-23 | gympass | [Mid-Level Data Analyst \| Partnerships](https://job-boards.greenhouse.io/gympass/jobs/8506850002) | Brazil (Remote) | greenhouse |
 | 2026-06-23 | gympass | [Senior AI Analytics Engineer](https://job-boards.greenhouse.io/gympass/jobs/8582291002) | Brazil (Remote) | greenhouse |
@@ -18,11 +23,11 @@ _Last updated: 2026-06-23 03:16 CDT_
 | 2026-06-23 | mntn | [Senior Data Scientist](https://job-boards.greenhouse.io/mntn/jobs/8002118) | Remote | greenhouse |
 | 2026-06-23 | mntn | [Senior Engineering Manager - Machine Learning](https://job-boards.greenhouse.io/mntn/jobs/7918877) | United States | greenhouse |
 | 2026-06-23 | mntn | [Staff Analytics Engineer](https://job-boards.greenhouse.io/mntn/jobs/8016860) | United States | greenhouse |
-| 2026-06-23 | reddit | [Senior Staff Data Scientist - Consumer Relevance](https://job-boards.greenhouse.io/reddit/jobs/7974647) | Remote - Ontario, Canada | greenhouse |
 | 2026-06-23 | reddit | [Senior Staff Data Scientist - Consumer Relevance](https://job-boards.greenhouse.io/reddit/jobs/7974605) | Remote - United States | greenhouse |
+| 2026-06-23 | reddit | [Senior Staff Data Scientist - Consumer Relevance](https://job-boards.greenhouse.io/reddit/jobs/7974647) | Remote - Ontario, Canada | greenhouse |
 | 2026-06-23 | reddit | [Analytics Engineer](https://job-boards.greenhouse.io/reddit/jobs/7958354) | Remote - United States | greenhouse |
-| 2026-06-23 | reddit | [Senior Analytics Engineer](https://job-boards.greenhouse.io/reddit/jobs/7958403) | Remote - Ontario, Canada | greenhouse |
 | 2026-06-23 | reddit | [Senior Analytics Engineer](https://job-boards.greenhouse.io/reddit/jobs/7445224) | Remote - United States | greenhouse |
+| 2026-06-23 | reddit | [Senior Analytics Engineer](https://job-boards.greenhouse.io/reddit/jobs/7958403) | Remote - Ontario, Canada | greenhouse |
 | 2026-06-23 | reddit | [Senior Machine Learning Systems Engineer, Ads ML Experience Platform](https://job-boards.greenhouse.io/reddit/jobs/8022136) | Remote - United States | greenhouse |
 | 2026-06-22 | qualtrics | [Applied Scientist II](https://www.qualtrics.com/careers/us/en/job/8017422?gh_jid=8017422) | Seattle, Washington,  United States | greenhouse |
 | 2026-06-22 | qualtrics | [Staff Applied Scientist](https://www.qualtrics.com/careers/us/en/job/8017515?gh_jid=8017515) | Seattle, Washington,  United States | greenhouse |
@@ -163,7 +168,6 @@ _Last updated: 2026-06-23 03:16 CDT_
 | 2026-06-22 | 3cloud | [Lead Power BI Developer](https://job-boards.greenhouse.io/3cloud/jobs/7990652002?gh_jid=7990652002) | Remote - Philippines | greenhouse |
 | 2026-06-22 | realtimeboardglobal | [AI Engineer](https://miro.com/careers/vacancy/8189372002?gh_jid=8189372002) | Copenhagen, DK; London, UK; Remote Europe | greenhouse |
 | 2026-06-22 | appodeal | [Financial Data Analyst](https://job-boards.greenhouse.io/appodeal/jobs/4255957008) | Parkland, Florida, USA | greenhouse |
-| 2026-06-22 | shopltk | [Data Analyst](https://job-boards.greenhouse.io/shopltk/jobs/7671051003) | United States | greenhouse |
 | 2026-06-22 | mariadbplc | [Senior Data Scientist](https://job-boards.eu.greenhouse.io/mariadbplc/jobs/4829008101) | Remote - India | greenhouse |
 | 2026-06-22 | mariadbplc | [Senior Data Scientist](https://job-boards.eu.greenhouse.io/mariadbplc/jobs/4829004101) | Remote -- Romania | greenhouse |
 | 2026-06-22 | mariadbplc | [Senior Data Scientist](https://job-boards.eu.greenhouse.io/mariadbplc/jobs/4806320101) | Remote - Bulgaria | greenhouse |
