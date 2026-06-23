@@ -6952,7 +6952,6 @@ paloit	no_matching_jobs
 cardioone	http_404
 mantrahealth	no_matching_jobs
 gigster	http_404
-refurbed	no_matching_jobs
 baselayer	no_matching_jobs
 gsrmarkets	no_matching_jobs
 similarweb	no_matching_jobs
