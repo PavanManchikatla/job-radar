@@ -5639,7 +5639,6 @@ tezatechnologies	http_404
 teads1	no_matching_jobs
 dialoguehealthtechnologiesinc	http_404
 alpineinvestors	no_matching_jobs
-calm	no_matching_jobs
 avidxchangeinc	no_matching_jobs
 sorcero	no_matching_jobs
 quilt	no_matching_jobs
@@ -6517,7 +6516,6 @@ zenrows	no_matching_jobs
 relaygraduateschoolofeducation	no_matching_jobs
 storycannabis	no_matching_jobs
 velir-private	no_jobs
-voyagertechnologiesinc	no_matching_jobs
 openfx	no_matching_jobs
 plushcare	http_404
 brightsign	no_matching_jobs
@@ -6537,7 +6535,6 @@ graft	http_404
 zennioptical	no_matching_jobs
 zipcolimited	no_matching_jobs
 remotasks	no_matching_jobs
-meriton	no_matching_jobs
 novo	http_404
 aperiasolutions	no_matching_jobs
 purestorage	no_matching_jobs

@@ -17074,7 +17074,6 @@ macquarietechnologygroup	no_matching_jobs
 mindbloom	no_jobs
 mit	no_jobs
 mittilabs	http_404
-miteksystems-2	no_matching_jobs
 missioncloud	http_404
 mixlab	no_matching_jobs
 mobisystems	http_404
