@@ -8503,7 +8503,6 @@ vitalfarmsinternalcrew	no_matching_jobs
 stitchfix	no_matching_jobs
 schrdinger	no_matching_jobs
 olivai	no_matching_jobs
-marqeta	no_matching_jobs
 doublegood	no_matching_jobs
 5wpr	no_matching_jobs
 avetta	no_matching_jobs
