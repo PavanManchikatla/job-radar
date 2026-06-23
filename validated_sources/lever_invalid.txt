@@ -9599,7 +9599,6 @@ finn	no_matching_jobs
 fullyvested	no_matching_jobs
 gauntlet	no_matching_jobs
 gate	no_matching_jobs
-genbio	no_matching_jobs
 genedit	http_404
 genefab	no_matching_jobs
 geocomply-2	no_matching_jobs
