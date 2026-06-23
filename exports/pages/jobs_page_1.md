@@ -1,13 +1,17 @@
 # Jobs Feed (Page 1/1)
 
-_Last updated: 2026-06-22 22:53 CDT_
+_Last updated: 2026-06-23 03:16 CDT_
 
 | Posted | Company | Title | Location | Source |
 |---|---|---|---|---|
-| 2026-06-23 | lattice | [GTM Analytics Manager](https://lattice.com/job?gh_jid=8581363002) | Remote - US | greenhouse |
-| 2026-06-23 | calm | [Analytics Engineer](https://job-boards.greenhouse.io/calm/jobs/8603679002) | US Remote, Los Angeles, CA; San Francisco, CA; New York City, NY; Minneapolis, MN | greenhouse |
+| 2026-06-23 | imc | [Machine Learning Engineer](https://job-boards.eu.greenhouse.io/imc/jobs/4570309101) | Chicago, United States | greenhouse |
 | 2026-06-23 | verisign | [Research Engineer](https://job-boards.greenhouse.io/verisign/jobs/7650739003) | Reston,Virginia,United States | greenhouse |
 | 2026-06-23 | verisign | [Sr Research Engineer](https://job-boards.greenhouse.io/verisign/jobs/7636398003) | Reston,Virginia,United States | greenhouse |
+| 2026-06-23 | gympass | [Data Analyst Specialist \| CX Insights](https://job-boards.greenhouse.io/gympass/jobs/8547338002) | Brazil (Remote) | greenhouse |
+| 2026-06-23 | gympass | [Mid-Level Data Analyst \| Partnerships](https://job-boards.greenhouse.io/gympass/jobs/8506850002) | Brazil (Remote) | greenhouse |
+| 2026-06-23 | gympass | [Senior AI Analytics Engineer](https://job-boards.greenhouse.io/gympass/jobs/8582291002) | Brazil (Remote) | greenhouse |
+| 2026-06-23 | lattice | [GTM Analytics Manager](https://lattice.com/job?gh_jid=8581363002) | Remote - US | greenhouse |
+| 2026-06-23 | calm | [Analytics Engineer](https://job-boards.greenhouse.io/calm/jobs/8603679002) | US Remote, Los Angeles, CA; San Francisco, CA; New York City, NY; Minneapolis, MN | greenhouse |
 | 2026-06-23 | biohub | [Staff Research Scientist, AI Safety](https://job-boards.greenhouse.io/biohub/jobs/7997533) | New York, NY (Hybrid); Redwood City, CA (Hybrid) | greenhouse |
 | 2026-06-23 | yipitdatajobs | [Data Engineering Manager](https://job-boards.greenhouse.io/yipitdatajobs/jobs/7446282) | US Remote | greenhouse |
 | 2026-06-23 | mntn | [Senior Data Analyst, Customer Growth Analytics](https://job-boards.greenhouse.io/mntn/jobs/7980997) | United States | greenhouse |
@@ -46,7 +50,6 @@ _Last updated: 2026-06-22 22:53 CDT_
 | 2026-06-22 | penumbrainc | [Clinical Data Analyst II](https://jobs.lever.co/penumbrainc/f3263041-be26-4e97-9bb6-abf558cac6e7) | Your Remote US Home Office | lever |
 | 2026-06-22 | mitratech | [Principal AI Engineer](https://job-boards.greenhouse.io/mitratech/jobs/7939535) | Remote US | greenhouse |
 | 2026-06-22 | arrivelogistics | [Data Scientist II](https://jobs.lever.co/arrivelogistics/2765d8a2-0e24-4f3f-9d38-08cc4202275d) | Chicago, IL | lever |
-| 2026-06-22 | imc | [Machine Learning Engineer](https://job-boards.eu.greenhouse.io/imc/jobs/4570309101) | Chicago, United States; Hong Kong, Hong Kong; Sydney,  Australia | greenhouse |
 | 2026-06-22 | veeamsoftware | [Data Analytics Engineer- Finance](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4743651101) | Remote, United States | greenhouse |
 | 2026-06-22 | cresta | [Revenue Analytics Manager](https://job-boards.greenhouse.io/cresta/jobs/5232532008) | United States (Remote) | greenhouse |
 | 2026-06-22 | cresta | [Senior Machine Learning Engineer](https://job-boards.greenhouse.io/cresta/jobs/4741283008) | United States (Remote) | greenhouse |
