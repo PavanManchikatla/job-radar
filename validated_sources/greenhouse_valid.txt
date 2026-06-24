@@ -639,3 +639,4 @@ andurilindustries
 cpm
 sandtechholdingslimited
 tulip
+ninjatrader

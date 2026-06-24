@@ -9385,7 +9385,6 @@ amityfdn	no_matching_jobs
 aragon	no_jobs
 altarum	no_matching_jobs
 aquabyte	no_matching_jobs
-arbitalhealth	no_matching_jobs
 arbitrum-opco	no_jobs
 applike	no_jobs
 arcteryx	http_404
@@ -17584,7 +17583,6 @@ revhealth	no_matching_jobs
 reverielabs	http_404
 review	http_404
 reviewtrackers	http_404
-revenueanalytics	no_matching_jobs
 relayfi	http_404
 reli-sh	http_404
 revolut	http_404

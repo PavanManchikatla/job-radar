@@ -4364,7 +4364,6 @@ wealth-lab	http_404
 rightedge	http_404
 order flow	http_404
 chartpattern	http_404
-ninjatrader	no_matching_jobs
 quotetracker	http_404
 recognia	http_404
 pattern explorer	http_404
