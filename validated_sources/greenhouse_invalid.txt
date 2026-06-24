@@ -43,7 +43,6 @@ conjure	http_404
 fireflies.ai	http_404
 writesonic	http_404
 chorus.ai	http_404
-descript	no_matching_jobs
 gong	http_404
 people.ai	http_404
 apollo.io	http_404
@@ -5426,7 +5425,6 @@ equatic	no_jobs
 gemechanicalasp	no_matching_jobs
 studiokraftonboard	no_matching_jobs
 nooks	no_matching_jobs
-riotgames	no_matching_jobs
 katalyst	no_matching_jobs
 lilium	http_404
 toshibaglobalcommercesolutions	no_matching_jobs
@@ -7647,7 +7645,6 @@ aptitude8	no_matching_jobs
 escribers	no_matching_jobs
 gohealth	http_404
 bvnk	no_matching_jobs
-andurilindustries	no_matching_jobs
 paradigm62	http_404
 digitalfemsa	http_404
 questbridge	no_matching_jobs
@@ -7947,7 +7944,6 @@ studioscience	no_jobs
 arevonenergyimpltest	no_matching_jobs
 johnsonlawgroup	no_matching_jobs
 grover	no_matching_jobs
-cpm	no_matching_jobs
 alliedglobalmarketing	http_404
 engineeringatgigs	no_matching_jobs
 chicagotradingcampushiring	no_matching_jobs

@@ -633,3 +633,7 @@ meriton
 refurbed
 energage
 marqeta
+descript
+riotgames
+andurilindustries
+cpm
