@@ -8375,7 +8375,6 @@ hillhousehome	no_matching_jobs
 newlabcareers	no_matching_jobs
 aetion	http_404
 fartherfinance	no_matching_jobs
-tulip	no_matching_jobs
 chanzuckerbergbiohub	http_404
 abatatherapeutics	http_404
 doordashindia	no_matching_jobs
