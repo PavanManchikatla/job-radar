@@ -7085,7 +7085,6 @@ frukt	no_jobs
 readyresponders	http_404
 ingenious	no_matching_jobs
 smartasset	no_matching_jobs
-sandtechholdingslimited	no_matching_jobs
 soldejaneiro	no_matching_jobs
 accelschools	no_matching_jobs
 familyoffice	no_matching_jobs
