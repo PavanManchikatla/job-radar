@@ -2841,7 +2841,6 @@ peacock free	http_400
 service cloud	http_400
 commerce cloud	http_400
 mulesoft	no_postings
-servicenow	no_matching_jobs
 microsoft dynamics	http_400
 workday	no_postings
 hubspot	no_postings
