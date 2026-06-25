@@ -5570,7 +5570,6 @@ stridertechnologies	http_404
 kcftechnologies	no_jobs
 voltrondata	http_404
 sightlinemediagroup	no_matching_jobs
-ibkr	no_matching_jobs
 cherry	no_jobs
 ascendanalytics	no_matching_jobs
 bicyclehealth	no_matching_jobs
@@ -6242,7 +6241,6 @@ rsgur	no_jobs
 firstsanfranciscopartners	no_jobs
 wfclainc	no_matching_jobs
 lucidbots	no_matching_jobs
-catonetworks	no_matching_jobs
 mlbfellowship	no_matching_jobs
 definitivehcindia	no_matching_jobs
 chaincodelabs	no_matching_jobs
@@ -8042,7 +8040,6 @@ kentik	no_matching_jobs
 americaspromisealliance	no_matching_jobs
 lyellimmunopharma	no_matching_jobs
 ogilvyhealthuk	no_matching_jobs
-cc	no_matching_jobs
 wpp	no_matching_jobs
 panteracapitalcareers	no_matching_jobs
 thalamusgme	no_jobs
@@ -8571,7 +8568,6 @@ apono	http_404
 vibesllc	no_matching_jobs
 tenableinc	no_matching_jobs
 well	http_404
-naturesbakery	no_matching_jobs
 mcculloughrobertson	no_matching_jobs
 krafton	no_matching_jobs
 novoed	no_matching_jobs
