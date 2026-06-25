@@ -5400,7 +5400,6 @@ harmonic	no_matching_jobs
 fashionnova	no_matching_jobs
 mirumpharmaceuticals	no_matching_jobs
 strava	http_404
-idme	no_matching_jobs
 voxel51	no_matching_jobs
 presidents	no_matching_jobs
 goodunited	no_matching_jobs
@@ -8544,7 +8543,6 @@ vim	no_matching_jobs
 applytowhoosh	no_jobs
 eliotcommunityhumanservices	no_matching_jobs
 blinkhealth	no_matching_jobs
-upwork	no_matching_jobs
 americaninstitutesforresearch	no_matching_jobs
 verainstituteofjustice	no_matching_jobs
 actpowerservices	no_matching_jobs
