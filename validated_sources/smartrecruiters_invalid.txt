@@ -371,7 +371,6 @@ xoom	no_postings
 torfx	no_postings
 small world	http_400
 transfergo	no_postings
-wise	no_matching_jobs
 moneygram	no_postings
 ria	no_postings
 westernunion	no_postings

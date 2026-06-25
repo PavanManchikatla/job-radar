@@ -11,3 +11,4 @@ sgs
 startuptap
 zipongo
 servicenow
+wise
