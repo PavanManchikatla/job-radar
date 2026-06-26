@@ -6046,7 +6046,6 @@ taxbit	no_matching_jobs
 taxvalet	no_matching_jobs
 forta	no_jobs
 phoenixcontact	no_matching_jobs
-junglescout	no_matching_jobs
 artefact	no_matching_jobs
 greenplaces	no_matching_jobs
 quansight	no_jobs
