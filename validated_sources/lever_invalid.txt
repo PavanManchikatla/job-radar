@@ -9389,7 +9389,6 @@ arbitrum-opco	no_jobs
 applike	no_jobs
 arcteryx	http_404
 anyroad	no_matching_jobs
-appzen	no_matching_jobs
 anavationllc	no_matching_jobs
 arcadiascience	no_matching_jobs
 arsenalbio	no_matching_jobs
