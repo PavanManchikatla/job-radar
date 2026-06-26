@@ -1453,7 +1453,6 @@ tillpoint pos	http_404
 linkedin	no_matching_jobs
 snapchat	http_404
 tiktok	http_404
-twitch	no_matching_jobs
 telegram	http_404
 signal	http_404
 whatsapp	http_404
@@ -5361,7 +5360,6 @@ studycareers	no_matching_jobs
 thematherevanston	no_matching_jobs
 nazare	no_jobs
 learnlux	no_matching_jobs
-fubotv	no_matching_jobs
 autoproff	no_matching_jobs
 chainguard	no_matching_jobs
 integrityrehabgroup	no_matching_jobs
@@ -5972,7 +5970,6 @@ fender	no_matching_jobs
 hearcom	no_matching_jobs
 southworks	no_matching_jobs
 texaschillersystemsasp	no_matching_jobs
-harborglobal	no_matching_jobs
 bayasystems	no_matching_jobs
 futurhealth	no_matching_jobs
 siei	no_matching_jobs
@@ -8658,7 +8655,6 @@ glia	http_404
 pansophiclearning	no_matching_jobs
 lenusehealth	no_matching_jobs
 droit	no_jobs
-lumosfiber	no_matching_jobs
 fal	no_matching_jobs
 pixability	no_matching_jobs
 leddartech	http_404
