@@ -7786,7 +7786,6 @@ redpandadata	no_matching_jobs
 kiwicoinc	no_matching_jobs
 paperlesspost	no_matching_jobs
 sertis	no_matching_jobs
-babylist	no_matching_jobs
 omgcamontrealfr	no_matching_jobs
 decimainternational	no_matching_jobs
 stord13	http_404
