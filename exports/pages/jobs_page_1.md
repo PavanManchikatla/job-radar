@@ -1,16 +1,18 @@
 # Jobs Feed (Page 1/1)
 
-_Last updated: 2026-06-26 22:24 CDT_
+_Last updated: 2026-06-27 02:21 CDT_
 
 | Posted | Company | Title | Location | Source |
 |---|---|---|---|---|
+| 2026-06-27 | healthverity | [Lead Healthcare Data Analyst (Post-sale)](https://healthverity.com/careers/jobs/?gh_jid=5260658008) | Philadelphia, PA | greenhouse |
+| 2026-06-27 | healthverity | [Lead Healthcare Data Analyst (Pre-sale)](https://healthverity.com/careers/jobs/?gh_jid=5262041008) | Philadelphia, PA | greenhouse |
+| 2026-06-27 | verisign | [Research Engineer](https://job-boards.greenhouse.io/verisign/jobs/7650739003) | Reston,Virginia,United States | greenhouse |
+| 2026-06-27 | verisign | [Sr Research Engineer](https://job-boards.greenhouse.io/verisign/jobs/7636398003) | Reston,Virginia,United States | greenhouse |
 | 2026-06-27 | ro | [AI Data Scientist](https://jobs.lever.co/ro/68d2dbb0-7e75-412a-8067-ef0e11ea7f19) | New York, NY | lever |
 | 2026-06-27 | rdccareers | [Mgr, Data Engineering](https://boards.greenhouse.io/rdccareers/jobs/7783118003?gh_jid=7783118003) | Austin, Texas, United States | greenhouse |
 | 2026-06-27 | andurilindustries | [Supply Chain Master Data Analyst](https://boards.greenhouse.io/andurilindustries/jobs/4985350007?gh_jid=4985350007) | Costa Mesa, California, United States | greenhouse |
 | 2026-06-27 | ro | [AI Engineer](https://jobs.lever.co/ro/0b6ded09-e358-4e39-a428-a2cbf6b15cda) | New York, NY | lever |
 | 2026-06-27 | ro | [Senior AI Engineer](https://jobs.lever.co/ro/81dd41da-ba24-435b-83c4-bd19a312744b) | New York, NY | lever |
-| 2026-06-27 | verisign | [Research Engineer](https://job-boards.greenhouse.io/verisign/jobs/7650739003) | Reston,Virginia,United States | greenhouse |
-| 2026-06-27 | verisign | [Sr Research Engineer](https://job-boards.greenhouse.io/verisign/jobs/7636398003) | Reston,Virginia,United States | greenhouse |
 | 2026-06-27 | notexternal | [Content Curation Strategist / Data Analyst](https://job-boards.greenhouse.io/notexternal/jobs/8031583) | Remote | greenhouse |
 | 2026-06-27 | bpcs | [Content Curation Strategist / Data Analyst](https://job-boards.greenhouse.io/bpcs/jobs/8031574) | Remote | greenhouse |
 | 2026-06-27 | databricks | [Specialist Solutions Architect - Data Engineering & Warehousing](https://databricks.com/company/careers/open-positions/job?gh_jid=8570023002) | United States | greenhouse |
@@ -28,11 +30,11 @@ _Last updated: 2026-06-26 22:24 CDT_
 | 2026-06-27 | andurilindustries | [Machine Learning Research Engineer](https://boards.greenhouse.io/andurilindustries/jobs/4998882007?gh_jid=4998882007) | Washington, District of Columbia, United States | greenhouse |
 | 2026-06-27 | andurilindustries | [Mission Analytics Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5130552007?gh_jid=5130552007) | Irvine, California, United States | greenhouse |
 | 2026-06-27 | andurilindustries | [Perception Engineer, Machine Learning](https://boards.greenhouse.io/andurilindustries/jobs/5151287007?gh_jid=5151287007) | Seattle, Washington, United States | greenhouse |
-| 2026-06-27 | andurilindustries | [Research Scientist](https://boards.greenhouse.io/andurilindustries/jobs/5150951007?gh_jid=5150951007) | Broomfield, Colorado, United States | greenhouse |
 | 2026-06-27 | andurilindustries | [Research Scientist](https://boards.greenhouse.io/andurilindustries/jobs/5150279007?gh_jid=5150279007) | Huntsville, Alabama, United States | greenhouse |
 | 2026-06-27 | andurilindustries | [Research Scientist](https://boards.greenhouse.io/andurilindustries/jobs/5150299007?gh_jid=5150299007) | Broomfield, Colorado, United States | greenhouse |
-| 2026-06-27 | andurilindustries | [Research Scientist](https://boards.greenhouse.io/andurilindustries/jobs/5044436007?gh_jid=5044436007) | Fort Collins, Colorado, United States | greenhouse |
 | 2026-06-27 | andurilindustries | [Research Scientist](https://boards.greenhouse.io/andurilindustries/jobs/5150953007?gh_jid=5150953007) | Waltham, Massachusetts, United States | greenhouse |
+| 2026-06-27 | andurilindustries | [Research Scientist](https://boards.greenhouse.io/andurilindustries/jobs/5150951007?gh_jid=5150951007) | Broomfield, Colorado, United States | greenhouse |
+| 2026-06-27 | andurilindustries | [Research Scientist](https://boards.greenhouse.io/andurilindustries/jobs/5044436007?gh_jid=5044436007) | Fort Collins, Colorado, United States | greenhouse |
 | 2026-06-27 | andurilindustries | [Senior Advanced Research Scientist](https://boards.greenhouse.io/andurilindustries/jobs/5127039007?gh_jid=5127039007) | Broomfield, Colorado, United States; Fort Collins, Colorado, United States | greenhouse |
 | 2026-06-27 | andurilindustries | [Senior Analytics Engineer](https://boards.greenhouse.io/andurilindustries/jobs/4743827007?gh_jid=4743827007) | Costa Mesa, California, United States | greenhouse |
 | 2026-06-27 | andurilindustries | [Senior Analytics Engineer, People Data](https://boards.greenhouse.io/andurilindustries/jobs/5147099007?gh_jid=5147099007) | Boston, Massachusetts, United States; Costa Mesa, California, United States | greenhouse |
@@ -40,10 +42,10 @@ _Last updated: 2026-06-26 22:24 CDT_
 | 2026-06-27 | andurilindustries | [Senior Machine Learning Engineer, RL / Locomotion](https://boards.greenhouse.io/andurilindustries/jobs/5136528007?gh_jid=5136528007) | Costa Mesa, California, United States | greenhouse |
 | 2026-06-27 | andurilindustries | [Senior Machine Learning Engineer, Sentry Tower](https://boards.greenhouse.io/andurilindustries/jobs/4927589007?gh_jid=4927589007) | Irvine, California, United States; Remote | greenhouse |
 | 2026-06-27 | andurilindustries | [Senior People Data Analyst](https://boards.greenhouse.io/andurilindustries/jobs/5150566007?gh_jid=5150566007) | Boston, Massachusetts, United States; Costa Mesa, California, United States | greenhouse |
+| 2026-06-27 | andurilindustries | [Senior Research Scientist](https://boards.greenhouse.io/andurilindustries/jobs/5150952007?gh_jid=5150952007) | Broomfield, Colorado, United States | greenhouse |
+| 2026-06-27 | andurilindustries | [Senior Research Scientist](https://boards.greenhouse.io/andurilindustries/jobs/5150393007?gh_jid=5150393007) | Fort Collins, Colorado, United States | greenhouse |
 | 2026-06-27 | andurilindustries | [Senior Research Scientist](https://boards.greenhouse.io/andurilindustries/jobs/5150954007?gh_jid=5150954007) | Waltham, Massachusetts, United States | greenhouse |
 | 2026-06-27 | andurilindustries | [Senior Research Scientist](https://boards.greenhouse.io/andurilindustries/jobs/5150296007?gh_jid=5150296007) | Fort Collins, Colorado, United States | greenhouse |
-| 2026-06-27 | andurilindustries | [Senior Research Scientist](https://boards.greenhouse.io/andurilindustries/jobs/5150393007?gh_jid=5150393007) | Fort Collins, Colorado, United States | greenhouse |
-| 2026-06-27 | andurilindustries | [Senior Research Scientist](https://boards.greenhouse.io/andurilindustries/jobs/5150952007?gh_jid=5150952007) | Broomfield, Colorado, United States | greenhouse |
 | 2026-06-27 | andurilindustries | [Senior Research Scientist](https://boards.greenhouse.io/andurilindustries/jobs/5150395007?gh_jid=5150395007) | Broomfield, Colorado, United States | greenhouse |
 | 2026-06-27 | andurilindustries | [Software Engineer, Data Engineering](https://boards.greenhouse.io/andurilindustries/jobs/4991618007?gh_jid=4991618007) | Costa Mesa, California, United States | greenhouse |
 | 2026-06-27 | andurilindustries | [Space Special Projects, Research Scientist](https://boards.greenhouse.io/andurilindustries/jobs/5169881007?gh_jid=5169881007) | Reston, Virginia, United States | greenhouse |
