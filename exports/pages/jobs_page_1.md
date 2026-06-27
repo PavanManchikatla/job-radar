@@ -1,6 +1,6 @@
 # Jobs Feed (Page 1/1)
 
-_Last updated: 2026-06-27 08:58 CDT_
+_Last updated: 2026-06-27 12:37 CDT_
 
 | Posted | Company | Title | Location | Source |
 |---|---|---|---|---|
@@ -454,20 +454,5 @@ _Last updated: 2026-06-27 08:58 CDT_
 | 2026-06-24 | omadahealth | [Senior Applied AI Engineer](https://job-boards.greenhouse.io/omadahealth/jobs/8008825) | Remote, USA | greenhouse |
 | 2026-06-24 | gohighlevel | [Sr. Finance Analytics Manager (Product & Engineering)](https://jobs.lever.co/gohighlevel/f71656ab-4ac5-45ff-8a65-f5ec1fa7c076) | United States | lever |
 | 2026-06-24 | billiontoone | [Senior AI Engineer I](https://job-boards.greenhouse.io/billiontoone/jobs/4570095005) | Menlo Park, CA | greenhouse |
-| 2026-06-24 | roblox | [Senior Data Scientist - Analytical Data Product (Short Term)](https://careers.roblox.com/jobs/7967080?gh_jid=7967080) | San Mateo, CA, United States | greenhouse |
-| 2026-06-24 | 3cloud | [Senior Data Engineer - Managed Services](https://job-boards.greenhouse.io/3cloud/jobs/8603382002?gh_jid=8603382002) | Remote - US | greenhouse |
-| 2026-06-24 | arbitalhealth | [Senior Data Engineer](https://jobs.lever.co/arbitalhealth/8f4e9288-941f-4891-a02d-1429a59ec0e7) | Remote | lever |
-| 2026-06-24 | sovrn | [Principal Data Engineer](https://job-boards.greenhouse.io/sovrn/jobs/7872983) | Boulder, Colorado or New York City, New York or Remote | greenhouse |
-| 2026-06-24 | gwkinvestmentmanagementllc | [Fixed Income Portfolio & Data Analyst](https://job-boards.greenhouse.io/gwkinvestmentmanagementllc/jobs/4688254005) | Boston, MA | greenhouse |
-| 2026-06-24 | zoominfo | [Principal Business Intelligence Analyst](https://www.zoominfo.com/careers?gh_jid=8561611002) | Waltham, Massachusetts, United States | greenhouse |
-| 2026-06-24 | axle | [Data Engineer](https://job-boards.greenhouse.io/axle/jobs/5172769007) | Rockville, MD | greenhouse |
-| 2026-06-24 | thoughtworks | [Principal Data Scientist](https://www.thoughtworks.com/careers/jobs/8022577?gh_jid=8022577) | Chicago, Illinois, USA | greenhouse |
-| 2026-06-24 | zuora | [Sr AI Engineer](https://boards.greenhouse.io/zuora/jobs/7711259?gh_jid=7711259) | Remote - United States | greenhouse |
-| 2026-06-24 | icapitalnetwork | [Artificial intelligence Engineer - Vice President](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8549596002) | New York, New York, United States | greenhouse |
-| 2026-06-24 | icapitalnetwork | [Data Engineer - Assistant Vice President](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8530256002) | Salt Lake City, Utah, United States | greenhouse |
-| 2026-06-24 | coinbase | [Senior Data Scientist, CX Analytics](https://www.coinbase.com/careers/positions/8009392?gh_jid=8009392) | Remote - USA | greenhouse |
-| 2026-06-24 | monzo | [Senior Machine Learning Manager, Borrowing](https://job-boards.greenhouse.io/monzo/jobs/7996955) | Cardiff, London or Remote (UK) | greenhouse |
-| 2026-06-24 | viralnation | [Sr. Analyst, Business Intelligence](https://job-boards.greenhouse.io/viralnation/jobs/5172630007) | United States | greenhouse |
-| 2026-06-24 | tulip | [AI Engineer](https://tulip.co/careers/job-posting/?gh_jid=7650609003) | Somerville, MA | greenhouse |
 
 [Back to README](../../README.md)
