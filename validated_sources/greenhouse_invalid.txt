@@ -5232,7 +5232,6 @@ benevity	http_404
 buynomics	no_matching_jobs
 allbirdsretail	http_404
 wonderschool	no_matching_jobs
-brighthire	no_matching_jobs
 nationalpublicradioinc	no_matching_jobs
 horacemannagents	no_matching_jobs
 eventbriteinc	no_jobs

@@ -661,3 +661,4 @@ twitch
 fubotv
 harborglobal
 lumosfiber
+brighthire
