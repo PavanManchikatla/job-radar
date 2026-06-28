@@ -1,12 +1,23 @@
 ## Jobs Feed (auto-updated)
 
 <!-- JOBS:START -->
-_Last updated: 2026-06-28 05:56 CDT_
+_Last updated: 2026-06-28 09:12 CDT_
 
 | Posted | Company | Title | Location | Source |
 |---|---|---|---|---|
 | 2026-06-28 | verisign | [Research Engineer](https://job-boards.greenhouse.io/verisign/jobs/7650739003) | Reston,Virginia,United States | greenhouse |
 | 2026-06-28 | verisign | [Sr Research Engineer](https://job-boards.greenhouse.io/verisign/jobs/7636398003) | Reston,Virginia,United States | greenhouse |
+| 2026-06-28 | reddit | [Machine Learning Engineer, Ads Optimization & Ads Marketplace Quality](https://job-boards.greenhouse.io/reddit/jobs/8029120) | Remote - United States | greenhouse |
+| 2026-06-28 | reddit | [Senior Staff Data Scientist - Consumer Relevance](https://job-boards.greenhouse.io/reddit/jobs/7974605) | Remote - United States | greenhouse |
+| 2026-06-28 | reddit | [Senior Staff Data Scientist - Consumer Relevance](https://job-boards.greenhouse.io/reddit/jobs/7974647) | Remote - Ontario, Canada | greenhouse |
+| 2026-06-28 | reddit | [Machine Learning Systems Engineer, Ads ML Platform](https://job-boards.greenhouse.io/reddit/jobs/8022942) | Remote - The Netherlands | greenhouse |
+| 2026-06-28 | reddit | [Machine Learning Systems Engineer, Ads ML Platform](https://job-boards.greenhouse.io/reddit/jobs/8022937) | Remote - United Kingdom | greenhouse |
+| 2026-06-28 | reddit | [Analytics Engineer](https://job-boards.greenhouse.io/reddit/jobs/7958354) | Remote - United States | greenhouse |
+| 2026-06-28 | reddit | [Senior Machine Learning Systems Engineer, Ads ML Experience Platform](https://job-boards.greenhouse.io/reddit/jobs/8022136) | Remote - United States | greenhouse |
+| 2026-06-28 | reddit | [Senior Analytics Engineer](https://job-boards.greenhouse.io/reddit/jobs/7958403) | Remote - Ontario, Canada | greenhouse |
+| 2026-06-28 | reddit | [Senior Analytics Engineer](https://job-boards.greenhouse.io/reddit/jobs/7445224) | Remote - United States | greenhouse |
+| 2026-06-28 | babylist | [Senior Data Engineer](https://job-boards.greenhouse.io/babylist/jobs/6100946004) | United States | greenhouse |
+| 2026-06-28 | shopltk | [Data Analyst](https://job-boards.greenhouse.io/shopltk/jobs/7671051003) | United States | greenhouse |
 | 2026-06-28 | andurilindustries | [Director of AI Engineering & Research, Frontier Systems](https://boards.greenhouse.io/andurilindustries/jobs/4970360007?gh_jid=4970360007) | Washington, District of Columbia, United States | greenhouse |
 | 2026-06-28 | andurilindustries | [Staff Machine Learning/MLOps Engineer](https://boards.greenhouse.io/andurilindustries/jobs/4995797007?gh_jid=4995797007) | Costa Mesa, California, United States | greenhouse |
 | 2026-06-28 | andurilindustries | [Software Engineer, Data Engineering](https://boards.greenhouse.io/andurilindustries/jobs/4991618007?gh_jid=4991618007) | Costa Mesa, California, United States | greenhouse |
@@ -14,21 +25,10 @@ _Last updated: 2026-06-28 05:56 CDT_
 | 2026-06-28 | vianttechnology | [Staff Applied Scientist](https://job-boards.greenhouse.io/vianttechnology/jobs/4017433009) | Irvine, California, United States; Los Angeles, California, United States | greenhouse |
 | 2026-06-28 | lucidmotors | [Engineering Manager, Data Engineering & Infrastructure](https://job-boards.greenhouse.io/lucidmotors/jobs/5106263007) | Newark, CA | greenhouse |
 | 2026-06-28 | flyzipline | [Forward Deployed AI Engineer, Operations](https://www.zipline.com/open-roles?gh_jid=7764239003) | South San Francisco, California, USA | greenhouse |
-| 2026-06-28 | reddit | [Senior Staff Data Scientist - Consumer Relevance](https://job-boards.greenhouse.io/reddit/jobs/7974605) | Remote - United States | greenhouse |
-| 2026-06-28 | reddit | [Senior Staff Data Scientist - Consumer Relevance](https://job-boards.greenhouse.io/reddit/jobs/7974647) | Remote - Ontario, Canada | greenhouse |
-| 2026-06-28 | reddit | [Machine Learning Engineer, Ads Optimization & Ads Marketplace Quality](https://job-boards.greenhouse.io/reddit/jobs/8029120) | Remote - United States | greenhouse |
-| 2026-06-28 | reddit | [Machine Learning Systems Engineer, Ads ML Platform](https://job-boards.greenhouse.io/reddit/jobs/8022942) | Remote - The Netherlands | greenhouse |
-| 2026-06-28 | reddit | [Machine Learning Systems Engineer, Ads ML Platform](https://job-boards.greenhouse.io/reddit/jobs/8022937) | Remote - United Kingdom | greenhouse |
-| 2026-06-28 | reddit | [Analytics Engineer](https://job-boards.greenhouse.io/reddit/jobs/7958354) | Remote - United States | greenhouse |
-| 2026-06-28 | reddit | [Senior Machine Learning Systems Engineer, Ads ML Experience Platform](https://job-boards.greenhouse.io/reddit/jobs/8022136) | Remote - United States | greenhouse |
-| 2026-06-28 | reddit | [Senior Analytics Engineer](https://job-boards.greenhouse.io/reddit/jobs/7958403) | Remote - Ontario, Canada | greenhouse |
-| 2026-06-28 | reddit | [Senior Analytics Engineer](https://job-boards.greenhouse.io/reddit/jobs/7445224) | Remote - United States | greenhouse |
 | 2026-06-27 | lgelectronics | [Cryptography Research Scientist, FHE](https://job-boards.greenhouse.io/lgelectronics/jobs/5226811008) | Santa Clara, CA | greenhouse |
 | 2026-06-27 | lgelectronics | [Embodied AI Researcher (R&D Lab)](https://job-boards.greenhouse.io/lgelectronics/jobs/4946382008) | Englewood Cliffs, NJ | greenhouse |
 | 2026-06-27 | iterativehealth | [Staff Data Scientist](https://job-boards.greenhouse.io/iterativehealth/jobs/4666589006) | Cambridge, Massachusetts, United States, New York, New York, United States | greenhouse |
 | 2026-06-27 | iterativehealth | [Staff Data Engineer](https://job-boards.greenhouse.io/iterativehealth/jobs/4666587006) | Cambridge, Massachusetts, United States, New York, New York, United States | greenhouse |
-| 2026-06-27 | babylist | [Senior Data Engineer](https://job-boards.greenhouse.io/babylist/jobs/6100946004) | United States | greenhouse |
-| 2026-06-27 | shopltk | [Data Analyst](https://job-boards.greenhouse.io/shopltk/jobs/7671051003) | United States | greenhouse |
 | 2026-06-27 | healthverity | [Lead Healthcare Data Analyst (Post-sale)](https://healthverity.com/careers/jobs/?gh_jid=5260658008) | Philadelphia, PA | greenhouse |
 | 2026-06-27 | healthverity | [Lead Healthcare Data Analyst (Pre-sale)](https://healthverity.com/careers/jobs/?gh_jid=5262041008) | Philadelphia, PA | greenhouse |
 | 2026-06-27 | ro | [AI Data Scientist](https://jobs.lever.co/ro/68d2dbb0-7e75-412a-8067-ef0e11ea7f19) | New York, NY | lever |
@@ -363,11 +363,4 @@ _Last updated: 2026-06-28 05:56 CDT_
 | 2026-06-25 | freshworks | [GTM AI Engineer](https://api.smartrecruiters.com/v1/companies/freshworks/postings/744000134279249) | San Mateo CA us | smartrecruiters |
 | 2026-06-25 | pointclickcare | [Senior Research Data Engineer (Canada)](https://jobs.lever.co/pointclickcare/aaf25d98-16b0-4f01-9386-5ffaf059af93) | Remote- Canada | lever |
 | 2026-06-25 | lyft | [Senior Machine Learning Engineer, Recommendations](https://app.careerpuck.com/job-board/lyft/job/8430552002?gh_jid=8430552002) | San Francisco, CA | greenhouse |
-| 2026-06-25 | modulate | [Machine Learning Engineer](https://jobs.lever.co/modulate/8329440c-0665-4a29-a388-7e67d755d3fa) | Somerville, MA | lever |
-| 2026-06-25 | pointclickcare | [Senior Research Data Engineer (US)](https://jobs.lever.co/pointclickcare/b924d7a9-41d0-44bd-b7fc-da5841a5ed68) | Remote - US | lever |
-| 2026-06-25 | florencehealthcare | [Senior AI Engineer](https://job-boards.greenhouse.io/florencehealthcare/jobs/4708713005) | Atlanta, GA | greenhouse |
-| 2026-06-25 | wehrtyou | [Research Engineer](https://www.hudsonrivertrading.com/careers/job/?gh_jid=7583922) | London, United Kingdom; New York, NY, United States | greenhouse |
-| 2026-06-25 | wehrtyou | [Software Engineer - AI Tools](https://www.hudsonrivertrading.com/careers/job/?gh_jid=7583957) | Chicago, Illinois, United States; New York, NY, United States | greenhouse |
-| 2026-06-25 | vonage | [Business Data Analyst](https://job-boards.greenhouse.io/vonage/jobs/8589308002) | Spain, remote | greenhouse |
-| 2026-06-25 | RevenueCat | [Senior Data Scientist, RC Capital](https://jobicy.com/jobs/143120-senior-data-scientist-rc-capital) | LATAM,  Canada,  USA | jobicy |
 <!-- JOBS:END -->
