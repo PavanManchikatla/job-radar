@@ -19681,3 +19681,22 @@ manicule
 hopaero
 hop-aero
 hop
+
+# --- YC hiring companies ---
+drdroid
+rescript
+drafttherecord
+draft-the-record
+draft
+mastra
+panels
+stagewise
+payna
+autositu
+aemon
+unifold
+perfectbitinc
+perfectbit-inc
+perfectbit
+prototypingio
+operon

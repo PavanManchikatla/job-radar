@@ -1,5 +1,6 @@
+wise
+servicenow
 freshworks
-canva
 coherusbiosciences
 evolutioniq
 modernloop
@@ -7,8 +8,5 @@ shaped
 kombo
 activehours
 evidation
-sgs
 startuptap
 zipongo
-servicenow
-wise
