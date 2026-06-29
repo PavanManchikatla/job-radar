@@ -7495,7 +7495,6 @@ behavox	no_matching_jobs
 glyphicbiotechnologies	no_matching_jobs
 mcadams	no_matching_jobs
 updater	no_matching_jobs
-vesalius	no_matching_jobs
 vowgroup	http_404
 goguardian	no_matching_jobs
 integrateai	http_404
@@ -7763,7 +7762,6 @@ powerdot	no_matching_jobs
 origisenergytechs	no_matching_jobs
 skylighthq	no_matching_jobs
 fwdus	no_jobs
-fidelityguarantylife	no_matching_jobs
 goop	no_matching_jobs
 workato	no_matching_jobs
 observeai	no_matching_jobs
