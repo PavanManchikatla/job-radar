@@ -9686,7 +9686,6 @@ ginkgo-bioworks	http_404
 notablelabs	http_404
 ginkgo	http_404
 notable	http_404
-qventus	no_matching_jobs
 notable-labs	http_404
 bankjoy	http_404
 equipmentshare	http_404
