@@ -10011,7 +10011,6 @@ studiothree	http_404
 roshalimaging	no_matching_jobs
 startengine	no_matching_jobs
 straighterline	no_matching_jobs
-sugarcrm	no_matching_jobs
 storiogroup	no_matching_jobs
 solidcore	no_matching_jobs
 sumo-digital	no_jobs
@@ -18611,7 +18610,6 @@ seeing	http_404
 revion	http_404
 9-mothers	http_404
 9mothers	http_404
-windownation	no_matching_jobs
 9	http_404
 samoraai	http_404
 samora-ai	http_404
