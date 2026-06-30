@@ -9376,7 +9376,6 @@ tatari	http_404
 inmarket	http_404
 aeratechnology	no_matching_jobs
 anysignal	http_404
-anavationllc	no_matching_jobs
 aofl	no_matching_jobs
 aizon	no_matching_jobs
 andersencorp	no_matching_jobs
@@ -15845,7 +15844,6 @@ chatmeter	http_404
 checkmate	http_404
 checkout	http_404
 chicago2024	http_404
-centuria	no_matching_jobs
 cargo-2	http_404
 chestnutcarbon	no_jobs
 bluerocktx	no_jobs

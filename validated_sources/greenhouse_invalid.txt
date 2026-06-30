@@ -5638,7 +5638,6 @@ teknema	no_jobs
 public	no_matching_jobs
 gather	no_jobs
 adaptivewater	no_matching_jobs
-clearwayjobs	no_matching_jobs
 teads1	no_matching_jobs
 tezatechnologies	http_404
 bescareers	no_matching_jobs
@@ -5709,7 +5708,6 @@ constructionresources	no_matching_jobs
 brillapubliccharterschools	no_matching_jobs
 mcclureoilcorporation	no_matching_jobs
 riseforfamilies	no_matching_jobs
-openteams	no_matching_jobs
 tigergraph	no_matching_jobs
 genuine	no_jobs
 tracylocke	no_jobs
@@ -7531,7 +7529,6 @@ goodr	no_matching_jobs
 butternutbox	no_matching_jobs
 braintrust	http_404
 formbio	no_matching_jobs
-thoughtworksreferral	no_matching_jobs
 liquiddeath	no_jobs
 genea	no_matching_jobs
 rootstocklabsltd	no_matching_jobs
@@ -7983,7 +7980,6 @@ lila	http_404
 mastercontrol	no_matching_jobs
 cocoon	no_matching_jobs
 saltsecurity	no_matching_jobs
-homeward	no_matching_jobs
 tomorrow	no_matching_jobs
 carefeed	no_matching_jobs
 eko	no_jobs
@@ -9178,7 +9174,6 @@ livechatinc	http_404
 loftorbital	http_404
 lnfusedinnovations	http_404
 lodgify	http_404
-livefront	no_matching_jobs
 loopreturns	http_404
 lsaweb	http_404
 lumindigital	http_404
