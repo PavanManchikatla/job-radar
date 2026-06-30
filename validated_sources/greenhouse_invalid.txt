@@ -5062,7 +5062,6 @@ globalaccelerator	no_matching_jobs
 allscripts	http_404
 udacity	no_matching_jobs
 constellationsoftwareinc	no_matching_jobs
-conviva	no_matching_jobs
 vestmark	no_matching_jobs
 agilespaceindustries	http_404
 erasca	no_matching_jobs
@@ -6312,7 +6311,6 @@ phynetdermatology	no_matching_jobs
 btig27	no_matching_jobs
 skilledwoundcare	no_matching_jobs
 renewedvision	no_matching_jobs
-bpcs	no_matching_jobs
 lemmatree	no_jobs
 kettle	no_matching_jobs
 hiro	no_jobs
@@ -6400,7 +6398,6 @@ viderityinc	http_404
 elitetechnology	no_matching_jobs
 kicksaw	http_404
 tastytrade	no_matching_jobs
-notexternal	no_matching_jobs
 sparetech	no_matching_jobs
 fincent	http_404
 skylotechnologies	http_404
