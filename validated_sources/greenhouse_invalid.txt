@@ -8373,7 +8373,6 @@ eyeo	no_jobs
 madisonreedcolorbar	no_matching_jobs
 maev	no_jobs
 aviatornation	no_matching_jobs
-impact	no_matching_jobs
 go1us	no_jobs
 taxibeat	http_404
 everdriven	no_matching_jobs
