@@ -5981,7 +5981,6 @@ tangotherapeutics	no_matching_jobs
 footanstey	no_matching_jobs
 dynamotechnologies	http_404
 dominodatalab	no_matching_jobs
-abclegalservices	no_matching_jobs
 bdtmsd	no_jobs
 southworks	no_matching_jobs
 fender	no_matching_jobs
@@ -6906,7 +6905,6 @@ noomgrowth	no_matching_jobs
 mizzenandmain	no_matching_jobs
 atbayjobs	no_matching_jobs
 coefficient	no_matching_jobs
-nebius	no_matching_jobs
 workboard	no_matching_jobs
 alabamatitleloansinc	no_matching_jobs
 nashvillezoo	no_matching_jobs
