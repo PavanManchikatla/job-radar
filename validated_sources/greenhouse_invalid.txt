@@ -5474,7 +5474,6 @@ civilscience	no_jobs
 versprite	no_matching_jobs
 gravitywell	no_jobs
 armorcode	no_matching_jobs
-mochihealth	no_matching_jobs
 skinlaundry	no_matching_jobs
 xealth	no_matching_jobs
 hummingbirdregtech	no_matching_jobs
@@ -7618,7 +7617,6 @@ goatgroup	no_matching_jobs
 glooko	no_matching_jobs
 veza	http_404
 blockchain	no_matching_jobs
-quince	no_matching_jobs
 prisma6	no_matching_jobs
 rebag	no_matching_jobs
 strandtherapeutics	no_matching_jobs
