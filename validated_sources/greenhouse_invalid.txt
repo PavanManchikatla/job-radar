@@ -8266,7 +8266,6 @@ omnionpower	http_404
 doxocareers	http_404
 caronsale	no_matching_jobs
 pallet	no_matching_jobs
-efficientcomputer	no_matching_jobs
 finitestate	no_matching_jobs
 sondermind	http_404
 elementbiosciences	no_matching_jobs
@@ -8605,7 +8604,6 @@ well	http_404
 tenableinc	no_matching_jobs
 mcculloughrobertson	http_404
 daggerwinggroup	no_matching_jobs
-novoed	no_matching_jobs
 hala	no_matching_jobs
 plume	no_matching_jobs
 kronosresearch	no_matching_jobs
