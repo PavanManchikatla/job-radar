@@ -9902,7 +9902,6 @@ redi	http_404
 regalvoice	http_404
 raya	no_matching_jobs
 realself	no_matching_jobs
-redsox	no_matching_jobs
 regard	http_404
 relayrobotics	http_404
 relay	no_matching_jobs

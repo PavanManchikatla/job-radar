@@ -7121,7 +7121,6 @@ skedda	no_matching_jobs
 pulumicorporation	no_matching_jobs
 polly	http_404
 yepjobs	no_jobs
-trumid	no_matching_jobs
 airspace	no_matching_jobs
 labelbox	no_matching_jobs
 select	http_404
