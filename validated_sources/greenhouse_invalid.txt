@@ -6746,7 +6746,6 @@ resonate	no_matching_jobs
 thinkacademyus	no_matching_jobs
 mill	no_matching_jobs
 predictiveindex	no_matching_jobs
-diligentcorporation	no_matching_jobs
 sourcescrub	no_jobs
 unisonhomeownershipinvestors	no_matching_jobs
 vialogic	no_matching_jobs
@@ -6808,7 +6807,6 @@ homesolutions	no_matching_jobs
 eigerjobs	http_404
 coreweave	no_matching_jobs
 appnovation	no_matching_jobs
-honor	no_matching_jobs
 hippo70	no_matching_jobs
 aura798	no_matching_jobs
 nurdie	no_matching_jobs
@@ -8714,7 +8712,6 @@ clair	http_404
 axsometherapeutics	no_matching_jobs
 denverbroncosteamllc	no_matching_jobs
 lumahealth	no_matching_jobs
-atek	no_matching_jobs
 traveloka	http_404
 wellsaidlabs	no_jobs
 moneylion	http_404
