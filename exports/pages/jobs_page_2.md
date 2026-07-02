@@ -1,12 +1,16 @@
 # Jobs Feed (Page 2/2)
 
-_Last updated: 2026-07-02 06:08 CDT_
+_Last updated: 2026-07-02 09:26 CDT_
 
 Page 2/2 | [Prev](jobs_page_1.md)
 
 
 | Posted | Company | Title | Location | Source |
 |---|---|---|---|---|
+| 2026-06-29 | formationbio | [Senior Data Scientist](https://job-boards.greenhouse.io/formationbio/jobs/6623947) | New York, NY; Boston, MA | greenhouse |
+| 2026-06-29 | formationbio | [Senior Data Scientist, Medical Imaging](https://job-boards.greenhouse.io/formationbio/jobs/7523506) | Boston, MA; New York, NY | greenhouse |
+| 2026-06-29 | formationbio | [Senior Data Scientist - Real World Data](https://job-boards.greenhouse.io/formationbio/jobs/7757932) | New York, NY; Boston, MA; San Francisco, CA; Raleigh-Durham, NC | greenhouse |
+| 2026-06-29 | betterhelpcom | [Machine Learning Engineer](https://job-boards.greenhouse.io/betterhelpcom/jobs/5254449008) | US - Remote | greenhouse |
 | 2026-06-29 | cresta | [Revenue Analytics Manager](https://job-boards.greenhouse.io/cresta/jobs/5232532008) | United States (Remote) | greenhouse |
 | 2026-06-29 | cresta | [Senior Machine Learning Engineer](https://job-boards.greenhouse.io/cresta/jobs/4741283008) | United States (Remote) | greenhouse |
 | 2026-06-29 | cresta | [Senior Machine Learning Engineer](https://job-boards.greenhouse.io/cresta/jobs/4249943008) | Canada (Remote) | greenhouse |
@@ -41,10 +45,6 @@ Page 2/2 | [Prev](jobs_page_1.md)
 | 2026-06-29 | moniepoint | [Senior Data Scientist (Fraud)](https://job-boards.eu.greenhouse.io/moniepoint/jobs/4737173101) | Remote, London, United Kingdom | greenhouse |
 | 2026-06-29 | bseglobal | [Data Scientist (Brooklyn Nets - Basketball Operations)](https://www.bseglobal.net/job/?gh_jid=7788024003&gh_jid=7788024003) | Brooklyn, NY 11232 | greenhouse |
 | 2026-06-29 | sugarcrm | [Senior Data Engineer - Databricks](https://jobs.lever.co/sugarcrm/54146de9-851f-431d-9320-45cc7c8f516a) | US - Remote | lever |
-| 2026-06-29 | samsara | [Lead Machine Learning Engineer - ML Infrastructure](https://www.samsara.com/company/careers/roles/7721193?gh_jid=7721193) | Remote - US | greenhouse |
-| 2026-06-29 | samsara | [Lead Machine Learning Engineer - ML Infrastructure](https://www.samsara.com/company/careers/roles/7746586?gh_jid=7746586) | Remote - Canada | greenhouse |
-| 2026-06-29 | netbrain | [Data Analyst](https://job-boards.greenhouse.io/netbrain/jobs/5173887007) | United States \| Remote | greenhouse |
-| 2026-06-29 | moniepoint | [Data Engineering Lead](https://job-boards.eu.greenhouse.io/moniepoint/jobs/4858265101) | Remote, Spain | greenhouse |
 
 Page 2/2 | [Prev](jobs_page_1.md)
 
