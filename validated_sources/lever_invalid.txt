@@ -3810,7 +3810,6 @@ azure ad	http_404
 active directory	http_404
 ldap	http_404
 openldap	http_404
-watchguard	no_matching_jobs
 389 directory	http_404
 apache directory	http_404
 red hat directory	http_404

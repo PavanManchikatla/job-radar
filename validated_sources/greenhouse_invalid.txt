@@ -5780,7 +5780,6 @@ nutrafol	no_matching_jobs
 hiya	http_404
 etchinc	no_matching_jobs
 everphone	http_404
-xometry	no_matching_jobs
 parkmobileus	http_404
 goremutualinsurance	no_matching_jobs
 akoya	no_matching_jobs
@@ -6803,7 +6802,6 @@ cybrid	no_jobs
 enveritas	no_matching_jobs
 homesolutions	no_matching_jobs
 eigerjobs	http_404
-coreweave	no_matching_jobs
 appnovation	no_matching_jobs
 hippo70	no_matching_jobs
 aura798	no_matching_jobs
@@ -7384,7 +7382,6 @@ arise	http_404
 galvanizeclimatesolutions	no_matching_jobs
 scsfinancial	no_matching_jobs
 spauldingridge	no_matching_jobs
-neuehealth	no_matching_jobs
 gallaghereveliusjonesllp	no_matching_jobs
 crescolabs	no_matching_jobs
 dualityroboticsinc	http_404
