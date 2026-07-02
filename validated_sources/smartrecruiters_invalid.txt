@@ -2262,7 +2262,6 @@ adata	no_postings
 kingston	no_postings
 pny	no_postings
 patriot	no_postings
-sandisk	no_matching_jobs
 mushkin	no_postings
 silicon power	http_400
 ocz	no_postings

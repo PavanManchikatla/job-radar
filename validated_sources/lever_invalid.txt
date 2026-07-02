@@ -10195,7 +10195,6 @@ equipmentshare	http_404
 giveffect	http_404
 razorpay	http_404
 lugg	http_404
-xsolla	no_matching_jobs
 tempo	http_404
 bankjoy	http_404
 ginkgo	http_404

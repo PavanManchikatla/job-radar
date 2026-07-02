@@ -5755,7 +5755,6 @@ levanta	no_matching_jobs
 manscaped	no_matching_jobs
 datasystemsanalystsinc	no_matching_jobs
 flodesk	no_matching_jobs
-edgewoodpartnersinsurancecenter	no_matching_jobs
 omidyarnetwork	no_matching_jobs
 chathamfinancial	no_matching_jobs
 majorleaguebaseball	no_matching_jobs
@@ -7644,7 +7643,6 @@ autura	no_matching_jobs
 regionalcenteroftheeastbay	no_matching_jobs
 strataidentity	http_404
 akuity	no_matching_jobs
-nabis	no_matching_jobs
 phiture	no_matching_jobs
 breezeway	no_matching_jobs
 tines	no_matching_jobs
@@ -8590,7 +8588,6 @@ cfoinsights	no_matching_jobs
 paypay	no_matching_jobs
 tripadvisor	no_matching_jobs
 vibesllc	no_matching_jobs
-patientpoint	no_matching_jobs
 wgachidden	no_jobs
 apono	http_404
 xosinc	no_matching_jobs

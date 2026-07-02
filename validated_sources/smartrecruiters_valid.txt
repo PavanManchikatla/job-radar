@@ -11,3 +11,4 @@ evidation
 startuptap
 zipongo
 canva
+sandisk
