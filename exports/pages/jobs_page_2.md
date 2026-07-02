@@ -1,12 +1,23 @@
 # Jobs Feed (Page 2/2)
 
-_Last updated: 2026-07-01 16:58 CDT_
+_Last updated: 2026-07-01 22:55 CDT_
 
 Page 2/2 | [Prev](jobs_page_1.md)
 
 
 | Posted | Company | Title | Location | Source |
 |---|---|---|---|---|
+| 2026-06-29 | waymo | [Staff Product Data Scientist, Infrastructure](https://careers.withwaymo.com/jobs?gh_jid=8034894) | Mountain View, CA, US; San Francisco, CA, US | greenhouse |
+| 2026-06-29 | qventus | [Senior Data Engineer](https://www.qventus.com/company/working-qventus/job?gh_jid=4287915009) | Remote, United States | greenhouse |
+| 2026-06-29 | reddit | [Machine Learning Engineer](https://job-boards.greenhouse.io/reddit/jobs/8026401) | San Francisco, CA | greenhouse |
+| 2026-06-29 | sumologic | [AI Tech Lead - Staff Machine Learning Engineer](https://job-boards.greenhouse.io/sumologic/jobs/7306781) | United States | greenhouse |
+| 2026-06-29 | sumologic | [Staff Threat Research Engineer](https://job-boards.greenhouse.io/sumologic/jobs/7505134) | Remote, USA | greenhouse |
+| 2026-06-29 | codepath | [Adjunct Instructor, Applied AI Engineering - Howard University - Fall 2026 (In-Person, Master’s Degree Required)](https://job-boards.greenhouse.io/codepath/jobs/5169143007) | Washington DC, United States | greenhouse |
+| 2026-06-29 | lightmatter | [Machine Learning Systems Researcher](https://boards.greenhouse.io/lightmatter/jobs/4948275008?gh_jid=4948275008) | Mountain View, CA | greenhouse |
+| 2026-06-29 | securityscorecard | [Senior Data Engineer](https://job-boards.greenhouse.io/securityscorecard/jobs/8031477) | Remote (Brazil) | greenhouse |
+| 2026-06-29 | securityscorecard | [Senior Data Engineer](https://job-boards.greenhouse.io/securityscorecard/jobs/8031475) | Remote (Argentina) | greenhouse |
+| 2026-06-29 | securityscorecard | [Senior Data Engineer](https://job-boards.greenhouse.io/securityscorecard/jobs/8031273) | Remote (LATAM) | greenhouse |
+| 2026-06-29 | goodsservices | [Senior Data Engineer](https://job-boards.greenhouse.io/goodsservices/jobs/7787854003) | Mexico-Remote, Colombia-Remote | greenhouse |
 | 2026-06-29 | moniepoint | [Senior Data Scientist (Fraud)](https://job-boards.eu.greenhouse.io/moniepoint/jobs/4736488101) | Remote, Spain | greenhouse |
 | 2026-06-29 | moniepoint | [Senior Data Scientist (Fraud)](https://job-boards.eu.greenhouse.io/moniepoint/jobs/4737173101) | Remote, London, United Kingdom | greenhouse |
 | 2026-06-29 | bseglobal | [Data Scientist (Brooklyn Nets - Basketball Operations)](https://www.bseglobal.net/job/?gh_jid=7788024003&gh_jid=7788024003) | Brooklyn, NY 11232 | greenhouse |

@@ -5699,7 +5699,6 @@ audibenehearcom	no_matching_jobs
 quorum	http_404
 huddleup	no_matching_jobs
 foundationriskpartners	no_matching_jobs
-ardentmc	no_matching_jobs
 repeatmd	no_jobs
 sharkninjaoperatingllc	no_matching_jobs
 adeedo	no_matching_jobs
