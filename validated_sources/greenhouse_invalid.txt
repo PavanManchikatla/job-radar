@@ -6696,7 +6696,6 @@ honestmedicalgroup	http_404
 logixboard	http_404
 cbeyondata	http_404
 nocdinc	http_404
-learneo	no_matching_jobs
 mobilityware	no_matching_jobs
 verramobility	no_matching_jobs
 assemblyhealth	no_matching_jobs
