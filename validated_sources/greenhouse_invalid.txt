@@ -6239,7 +6239,6 @@ aidashinc	no_matching_jobs
 thefarmersdog	no_matching_jobs
 cannondale	no_matching_jobs
 soroco	no_jobs
-copperhome	no_matching_jobs
 procaresolutions	no_matching_jobs
 researchpartnership	no_matching_jobs
 dialpad	no_matching_jobs
