@@ -19700,3 +19700,16 @@ perfectbit-inc
 perfectbit
 prototypingio
 operon
+
+# --- YC hiring companies ---
+vimcal
+loopfour
+mavenbio
+maven-bio
+cifrato
+rudus
+lumius
+kugelaudio
+parasma
+petrarch
+simantic
