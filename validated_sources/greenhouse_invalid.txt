@@ -1412,7 +1412,6 @@ ubereats	http_404
 doordash	http_404
 grubhub	http_404
 postmates	http_404
-instacart	no_matching_jobs
 seamless	http_404
 caviar	http_404
 olo	http_404
@@ -5151,7 +5150,6 @@ kiavi	no_matching_jobs
 zeals	no_jobs
 turtlerockstudios	no_matching_jobs
 medsien	no_matching_jobs
-gofasti	no_matching_jobs
 smartrent	no_matching_jobs
 cdpjobs	http_404
 chariotenergy	no_matching_jobs
@@ -5474,7 +5472,6 @@ xealth	no_matching_jobs
 civilscience	no_matching_jobs
 inspiraeducation	no_matching_jobs
 wholesail	no_matching_jobs
-mochihealth	no_matching_jobs
 armorcode	no_matching_jobs
 onarchipelago	no_matching_jobs
 cottinghambutlerinsuranceservicesinc	no_matching_jobs
@@ -7401,7 +7398,6 @@ crescolabs	no_matching_jobs
 galvanizeclimatesolutions	no_matching_jobs
 scsfinancial	no_matching_jobs
 spauldingridge	no_matching_jobs
-squarespace	no_matching_jobs
 arise	http_404
 carerev	http_404
 gallaghereveliusjonesllp	no_matching_jobs
