@@ -5715,7 +5715,6 @@ brillapubliccharterschools	no_matching_jobs
 tigergraph	no_matching_jobs
 riseforfamilies	no_matching_jobs
 folxhealth	no_matching_jobs
-openteams	no_matching_jobs
 himshers	http_404
 tracylocke	no_jobs
 neweratech	no_matching_jobs
@@ -7099,7 +7098,6 @@ xphealth	no_matching_jobs
 debtbook	no_matching_jobs
 31stunion	no_matching_jobs
 universityofchicago	http_404
-billcom	no_matching_jobs
 aevum	http_404
 taketwo	no_matching_jobs
 readyresponders	http_404
@@ -8109,7 +8107,6 @@ nationalbusinesscapital	no_matching_jobs
 chewycom	http_404
 tidewatertech	no_matching_jobs
 bpd	no_matching_jobs
-geniussports	no_matching_jobs
 lightspeedhqfr	http_404
 apogeetherapeutics	no_jobs
 elitedentalpartnersllc	no_matching_jobs
