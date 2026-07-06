@@ -5153,7 +5153,6 @@ turtlerockstudios	no_matching_jobs
 medsien	no_matching_jobs
 gofasti	no_matching_jobs
 smartrent	no_matching_jobs
-thoughtworks	no_matching_jobs
 cdpjobs	http_404
 chariotenergy	no_matching_jobs
 corelight	no_matching_jobs
