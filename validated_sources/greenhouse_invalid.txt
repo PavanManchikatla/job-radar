@@ -5561,7 +5561,6 @@ horizenlabs	no_jobs
 sidecarhealth	no_matching_jobs
 myntra	http_404
 solmentalhealth	no_matching_jobs
-meritamerica	no_matching_jobs
 betsson	no_matching_jobs
 charlesandlynnschustermanfamilyphilanthropies	no_jobs
 buftechnologies	no_jobs
@@ -5998,7 +5997,6 @@ bgeinc	no_matching_jobs
 alfredbeneschco	no_matching_jobs
 armamentsresearchcompany	no_matching_jobs
 newlimit	no_matching_jobs
-1stdibscom	no_matching_jobs
 tula	no_jobs
 tr1x	no_jobs
 foresightmentalhealth	no_matching_jobs
@@ -6284,7 +6282,6 @@ elephantenergy	http_404
 cordance	no_matching_jobs
 cafortune	no_matching_jobs
 leagueapps	no_matching_jobs
-codeforamerica	no_matching_jobs
 communitychange	http_404
 harnessinc	no_matching_jobs
 singleops	http_404
