@@ -4237,7 +4237,6 @@ lrt	http_404
 flexport	no_matching_jobs
 project44	no_matching_jobs
 convoy	http_404
-fourkites	no_matching_jobs
 uber freight	http_404
 loadsmart	http_404
 next trucking	http_404
