@@ -9423,7 +9423,6 @@ beaverprocess	no_matching_jobs
 arsenalbio	no_matching_jobs
 andersencorp	no_matching_jobs
 atomi	no_matching_jobs
-blencorp	no_matching_jobs
 blue	no_matching_jobs
 bestegg	http_404
 bluecoding	no_matching_jobs

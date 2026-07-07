@@ -5306,7 +5306,6 @@ spotonproduct	http_404
 hometapjobs	no_matching_jobs
 otrcapital1	no_matching_jobs
 jnanatherapeutics	http_404
-focuspartnerswealth	no_matching_jobs
 shinola	no_matching_jobs
 a3c41b8b71eff8c4	no_matching_jobs
 centessapharmaceuticalsinc	no_matching_jobs
@@ -6102,7 +6101,6 @@ justanswer	no_matching_jobs
 fabric83	no_matching_jobs
 sandscapitalmanagementllc	no_matching_jobs
 ruggedrobotics	no_matching_jobs
-appomni	no_matching_jobs
 rothesaylife	no_matching_jobs
 sprchrgr	no_matching_jobs
 wurl	http_404
@@ -6178,7 +6176,6 @@ mountainsidetreatmentcenter	http_404
 1800contacts	no_matching_jobs
 manifest	no_matching_jobs
 airsculpt	no_matching_jobs
-syndio	no_matching_jobs
 fastspring	no_matching_jobs
 momatherapeutics	http_404
 georgiadermatology	no_matching_jobs
@@ -6267,7 +6264,6 @@ akidolabs	no_matching_jobs
 debutbiotech25	no_matching_jobs
 propublica	no_matching_jobs
 minno	no_matching_jobs
-deliveryassociates	no_matching_jobs
 foundrytechnologiesinc	http_404
 unitedfirm	no_matching_jobs
 workleap	no_matching_jobs
