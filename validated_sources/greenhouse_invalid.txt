@@ -1456,7 +1456,6 @@ whatsapp	http_404
 telegram	http_404
 viber	http_404
 signal	http_404
-discord	no_matching_jobs
 qq	http_404
 kakaotalk	http_404
 wechat	http_404
@@ -5306,7 +5305,6 @@ maslanskycareers	no_jobs
 storyblok	no_matching_jobs
 spotonproduct	http_404
 hometapjobs	no_matching_jobs
-bloomerang	no_matching_jobs
 otrcapital1	no_matching_jobs
 jnanatherapeutics	http_404
 focuspartnerswealth	no_matching_jobs
@@ -8572,7 +8570,6 @@ vicecanada	http_404
 planetscale	no_matching_jobs
 strongholdim	http_404
 group14	no_matching_jobs
-engine	no_matching_jobs
 platformsh	no_matching_jobs
 lumenbioscience	no_jobs
 blab	no_jobs
