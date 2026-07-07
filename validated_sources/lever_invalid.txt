@@ -9741,7 +9741,6 @@ kyivstar	no_matching_jobs
 ghsmartjobs	no_matching_jobs
 lingarogroup	no_matching_jobs
 magnetforensics	no_matching_jobs
-makpar	no_matching_jobs
 mammothbiosci	no_matching_jobs
 mantanetwork	http_404
 mahmee	no_matching_jobs
@@ -17878,7 +17877,6 @@ stridefunding	http_404
 strongdm	http_404
 stronghold	http_404
 sqaservices	no_matching_jobs
-sprymethods	no_matching_jobs
 stormforge	http_404
 structionsite	http_404
 stubhub	http_404
