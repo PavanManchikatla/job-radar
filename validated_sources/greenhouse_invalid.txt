@@ -3611,7 +3611,6 @@ acronis	http_404
 veeam	http_404
 commvault	no_matching_jobs
 unitrends	http_404
-kaseya	no_matching_jobs
 twine	http_404
 cohesity	http_404
 rubrik	no_matching_jobs
@@ -5951,7 +5950,6 @@ guidepointsecurity	no_matching_jobs
 greenirony	no_matching_jobs
 jdcom	http_404
 tribalscale	no_matching_jobs
-pointc	no_matching_jobs
 criticalmassgroup	no_matching_jobs
 lush	no_matching_jobs
 lottebiologicsusallc	no_matching_jobs

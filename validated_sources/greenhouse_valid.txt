@@ -632,3 +632,5 @@ uniteus
 horacemannservicecorporation
 fastly
 koalafi
+kaseya
+pointc
