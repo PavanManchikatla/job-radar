@@ -630,3 +630,5 @@ meritamerica
 codeforamerica
 uniteus
 horacemannservicecorporation
+fastly
+koalafi

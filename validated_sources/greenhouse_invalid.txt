@@ -81,7 +81,6 @@ cloudflare	no_matching_jobs
 hey	http_404
 edgecast	http_404
 hushmail	http_404
-fastly	no_matching_jobs
 adept	http_404
 aws	http_404
 incapsula	http_404
@@ -7508,7 +7507,6 @@ lig	no_matching_jobs
 sociummedia	http_404
 stratolaunch	no_matching_jobs
 eh2	no_matching_jobs
-koalafi	no_matching_jobs
 bhub	http_404
 prendiodbaprendiobioprocure	no_jobs
 easyship	no_matching_jobs
