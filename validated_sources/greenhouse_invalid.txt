@@ -6427,7 +6427,6 @@ ffeinc	no_matching_jobs
 allcareers	no_matching_jobs
 insomniacgames	http_404
 bluecrestcapitalmanagement	no_matching_jobs
-uniteus	no_matching_jobs
 dxacirca	no_matching_jobs
 cayuse	no_matching_jobs
 universaldx	no_matching_jobs
@@ -7245,7 +7244,6 @@ qualifieddigital	no_matching_jobs
 simplifed	no_matching_jobs
 aclunc	no_matching_jobs
 discmedicine	no_matching_jobs
-horacemannservicecorporation	no_matching_jobs
 optimalcare	no_matching_jobs
 veocorporatecareers	no_matching_jobs
 personalizedbeautydiscoveryincdbaipsy	no_matching_jobs
