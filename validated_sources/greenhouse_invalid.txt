@@ -6876,7 +6876,6 @@ arlosolutionsllc	no_matching_jobs
 moon	no_matching_jobs
 samcarthiring	http_404
 headoutreferrals	no_jobs
-zestyai	no_matching_jobs
 arkestroinc	no_matching_jobs
 kernelize	no_matching_jobs
 huntedlabs	no_matching_jobs
@@ -7768,7 +7767,6 @@ tacobell	http_404
 climatefinancesolutions	http_404
 abiologics	no_matching_jobs
 valerahealth	no_matching_jobs
-rushstreetinteractive	no_matching_jobs
 papapartners	no_jobs
 turbineone	no_matching_jobs
 resultsforamerica	no_matching_jobs

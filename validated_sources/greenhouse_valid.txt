@@ -639,3 +639,5 @@ carbon
 oportun
 yurtsai
 focusfinancialpartners
+zestyai
+rushstreetinteractive
