@@ -3835,7 +3835,6 @@ actalis	http_404
 ssl.com	http_404
 zerossl	http_404
 letsencrypt	http_404
-godaddy	no_matching_jobs
 certum	http_404
 trustwave	http_404
 izenpe	http_404
@@ -8388,7 +8387,6 @@ vicon	no_jobs
 swarmaero	http_404
 newlabcareers	no_matching_jobs
 clockworksystems	no_matching_jobs
-fartherfinance	no_matching_jobs
 hillhousehome	no_matching_jobs
 rootly	http_404
 aetion	http_404
