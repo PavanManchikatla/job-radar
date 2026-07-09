@@ -10093,7 +10093,6 @@ varomoney	no_jobs
 valdera	no_matching_jobs
 veic	no_jobs
 versana	http_404
-ttecdigital	no_matching_jobs
 venteur	no_matching_jobs
 vesta-tech	no_jobs
 viaseparations	no_matching_jobs
@@ -16639,7 +16638,6 @@ incorta	no_matching_jobs
 inflexion	http_404
 infogrid	http_404
 infogridlinks	http_404
-inflowfed	no_matching_jobs
 infrastructureandcapitalprojects	http_404
 initialized	http_404
 infraservices	no_matching_jobs
@@ -18130,7 +18128,6 @@ tunnl-data	http_404
 turing-labs	http_404
 tuskventures	http_404
 truora	http_404
-truezerotech	no_matching_jobs
 twelvelabs	http_404
 twentyfirstcenturybrand	http_404
 twisp	http_404
