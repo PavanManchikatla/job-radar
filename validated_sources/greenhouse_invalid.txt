@@ -5144,7 +5144,6 @@ crescendohealth	no_matching_jobs
 vikingglobalinvestors	no_matching_jobs
 kiavi	no_matching_jobs
 zeals	no_jobs
-turtlerockstudios	no_matching_jobs
 medsien	no_matching_jobs
 smartrent	no_matching_jobs
 cdpjobs	http_404
@@ -7123,7 +7122,6 @@ select	http_404
 altentechnologyusa	no_matching_jobs
 seekout	no_matching_jobs
 truckstop	no_matching_jobs
-carbon	no_matching_jobs
 hellotend	no_matching_jobs
 brainstation	no_matching_jobs
 spideroak	http_404
@@ -8021,7 +8019,6 @@ accurx	http_404
 amount	no_matching_jobs
 janetechnologies	http_404
 method	no_matching_jobs
-yurtsai	no_matching_jobs
 blastpoint	no_matching_jobs
 kmgmedicalgroup	no_jobs
 praxisprecisionmedicines	no_matching_jobs
@@ -8153,7 +8150,6 @@ bubbleskincare	no_matching_jobs
 detroitlions	no_matching_jobs
 gorjana	no_matching_jobs
 buildkite	no_matching_jobs
-oportun	no_matching_jobs
 appdirect	no_matching_jobs
 assemblyhq	http_404
 quartethealth	http_404
@@ -8709,7 +8705,6 @@ impinjexternal	no_matching_jobs
 clair	http_404
 studentloanhero	http_404
 denverbroncosteamllc	no_matching_jobs
-focusfinancialpartners	no_matching_jobs
 wellsaidlabs	no_jobs
 lumahealth	no_matching_jobs
 traveloka	http_404
