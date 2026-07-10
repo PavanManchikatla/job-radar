@@ -9519,7 +9519,6 @@ cfgi	no_matching_jobs
 ciandt	no_matching_jobs
 daedalean	no_jobs
 deepjudge	http_404
-brillio-2	no_matching_jobs
 cypher-games	no_matching_jobs
 cdcfoundation	no_matching_jobs
 dexterity	no_matching_jobs
@@ -9623,7 +9622,6 @@ gluegroups	no_matching_jobs
 gotogroup	http_404
 goalbookapp-2	no_matching_jobs
 grid	http_404
-greenlight	no_matching_jobs
 gushwork	no_matching_jobs
 great-gray-group	no_matching_jobs
 halter	http_404
