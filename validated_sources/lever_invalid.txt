@@ -3869,7 +3869,6 @@ certum	http_404
 ssl.com	http_404
 actalis	http_404
 trustwave	http_404
-jumpcloud	no_matching_jobs
 camerfirma	http_404
 accv	http_404
 ancert	http_404
