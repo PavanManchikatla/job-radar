@@ -6947,7 +6947,6 @@ baselayer	no_matching_jobs
 gigster	http_404
 gsrmarkets	no_matching_jobs
 tekmetric	no_matching_jobs
-aircapture	no_matching_jobs
 flywheeldigital	no_matching_jobs
 cardioone	http_404
 kindbody	http_404
