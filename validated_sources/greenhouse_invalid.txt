@@ -6652,7 +6652,6 @@ integralmolecular	no_matching_jobs
 aisquared	no_matching_jobs
 kernalbio	no_matching_jobs
 reprise	http_404
-pantheon	no_matching_jobs
 prokidney	no_matching_jobs
 andela	http_404
 authorhealth	http_404
@@ -8478,7 +8477,6 @@ navierai	no_matching_jobs
 gensyn	no_matching_jobs
 trovohealth	no_matching_jobs
 livingstonassociates	no_jobs
-vestwell	no_matching_jobs
 testendouble	no_matching_jobs
 worldsuntold	http_404
 bdainc	no_matching_jobs
@@ -8634,7 +8632,6 @@ offensivesecurity	http_404
 jazzx-ai	no_matching_jobs
 ruelala	no_matching_jobs
 kovitz	http_404
-thesciongroupllc	no_matching_jobs
 saraworks	no_jobs
 claros	no_matching_jobs
 thelibragroup	no_matching_jobs
