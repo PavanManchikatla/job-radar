@@ -9737,7 +9737,6 @@ magnopus	no_matching_jobs
 lsaweb	no_matching_jobs
 kyivstar	no_matching_jobs
 ghsmartjobs	no_matching_jobs
-lingarogroup	no_matching_jobs
 magnetforensics	no_matching_jobs
 mammothbiosci	no_matching_jobs
 mantanetwork	http_404

@@ -5068,7 +5068,6 @@ aift	no_matching_jobs
 trace3	no_matching_jobs
 beamup	no_matching_jobs
 insider	no_matching_jobs
-stabilityai	no_matching_jobs
 ruggable	no_matching_jobs
 hackerrank	no_matching_jobs
 accreditedlabs	no_matching_jobs
