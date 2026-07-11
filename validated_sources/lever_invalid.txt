@@ -15638,7 +15638,6 @@ beemenergy	http_404
 beetalents	http_404
 basis	no_matching_jobs
 bellhops	http_404
-bellese	no_matching_jobs
 athletetoathlete	no_matching_jobs
 beghouconsulting	no_matching_jobs
 benlabs	http_404
@@ -15999,7 +15998,6 @@ culturetrip	http_404
 crytek	no_matching_jobs
 cirquedusoleil	no_matching_jobs
 culturekings	no_matching_jobs
-curai	no_matching_jobs
 curefit	http_404
 curieco	http_404
 curiositymedia	http_404

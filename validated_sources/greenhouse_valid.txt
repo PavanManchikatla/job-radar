@@ -653,3 +653,5 @@ guild
 pantheon
 vestwell
 thesciongroupllc
+ionq
+inversionspace

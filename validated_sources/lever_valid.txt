@@ -152,3 +152,5 @@ jumpcloud
 lingarogroup
 brillio-2
 greenlight
+bellese
+curai

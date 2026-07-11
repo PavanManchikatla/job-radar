@@ -7209,7 +7209,6 @@ national	no_matching_jobs
 cashcowlouisiana	no_matching_jobs
 blenheimchalcot	no_jobs
 bracebridgecapital	no_matching_jobs
-ionq	no_matching_jobs
 supraoracles	http_404
 4dmoleculartherapeutics	no_matching_jobs
 roivantsciences	no_matching_jobs
@@ -7301,7 +7300,6 @@ kalshi	no_matching_jobs
 truecaller	no_matching_jobs
 appier	no_matching_jobs
 symbolica	http_404
-inversionspace	no_matching_jobs
 digibeeinc	http_404
 kalvistapharmaceuticals	no_jobs
 unknownworlds	no_matching_jobs
