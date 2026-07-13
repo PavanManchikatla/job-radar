@@ -10078,7 +10078,6 @@ twingate	no_matching_jobs
 unitq	no_matching_jobs
 thepeoplebrand	no_matching_jobs
 unitedwayla	no_matching_jobs
-ttecdigital	no_matching_jobs
 uprightproject	no_matching_jobs
 usmobile	http_404
 theodo	no_matching_jobs

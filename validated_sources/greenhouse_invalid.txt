@@ -5605,7 +5605,6 @@ alpineinvestors	no_matching_jobs
 pomelocare	no_matching_jobs
 changedotorgsourcing	http_404
 aerospike	no_matching_jobs
-greenthumbindustries	no_matching_jobs
 apr	http_404
 terniumrevenuecyclemanagement	no_matching_jobs
 adaugeohealthcare	no_matching_jobs
@@ -7887,7 +7886,6 @@ realpha	no_jobs
 everylife	http_404
 nutrabolt	no_matching_jobs
 canto	no_matching_jobs
-legendcareers	no_matching_jobs
 animallogicglobalhybrid	http_404
 noyocareers	no_matching_jobs
 incommonwith	no_matching_jobs
@@ -8583,7 +8581,6 @@ blab	no_jobs
 samsungresearchamericainternship	no_matching_jobs
 planetscale	no_matching_jobs
 platformsh	no_matching_jobs
-engine	no_matching_jobs
 lumenbioscience	no_jobs
 blumira	no_matching_jobs
 group14	no_matching_jobs
