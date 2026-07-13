@@ -84,7 +84,6 @@ imperva	http_404
 edgecast	http_404
 incapsula	http_404
 akamai	http_404
-fastly	no_matching_jobs
 redis	http_404
 elasticsearch	http_404
 cloudflare	no_matching_jobs
