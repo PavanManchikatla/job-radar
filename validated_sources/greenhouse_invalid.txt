@@ -7136,7 +7136,6 @@ yepjobs	no_jobs
 costar	no_matching_jobs
 polly	http_404
 technologyadvice	no_matching_jobs
-thefloridapanthers	no_matching_jobs
 select	http_404
 razorpaysoftwareprivatelimited	no_matching_jobs
 seekout	no_matching_jobs
@@ -7300,7 +7299,6 @@ dhigroupinc	no_matching_jobs
 oneacrefundrwanda	no_matching_jobs
 jobber	http_404
 174powerglobal	http_404
-artefactlinkedin	no_matching_jobs
 coupang	no_matching_jobs
 worthi	http_404
 ever	no_matching_jobs
@@ -8395,7 +8393,6 @@ madisonreedcolorbar	no_matching_jobs
 go1us	no_jobs
 trustpilot	no_matching_jobs
 taxibeat	http_404
-impact	no_matching_jobs
 hc360	no_matching_jobs
 xgs	http_404
 momentus	no_matching_jobs
