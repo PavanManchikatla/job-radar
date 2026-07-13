@@ -6511,7 +6511,6 @@ accela	no_matching_jobs
 startale	no_matching_jobs
 arteriaai	no_matching_jobs
 ezcaterinc	no_matching_jobs
-cogstateinc	no_matching_jobs
 ebanx	no_matching_jobs
 casa	no_jobs
 embrace	no_matching_jobs
@@ -7181,7 +7180,6 @@ radiant	http_404
 bertramcapitalmanagement	no_matching_jobs
 searchdiscovery	http_404
 nerdy	no_matching_jobs
-earnest	no_matching_jobs
 axicom	no_matching_jobs
 americannational	http_404
 unlimitedtechnology	no_matching_jobs

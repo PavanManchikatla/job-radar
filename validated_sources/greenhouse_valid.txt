@@ -609,3 +609,5 @@ greenthumbindustries
 legendcareers
 engine
 fastly
+cogstateinc
+earnest

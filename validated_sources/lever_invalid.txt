@@ -10034,7 +10034,6 @@ teleport	no_jobs
 terraformation	http_404
 terrahq	no_matching_jobs
 texas-original	no_matching_jobs
-teramind	no_matching_jobs
 theblockcrypto	no_jobs
 theathletic	no_matching_jobs
 thebouqs	http_404
