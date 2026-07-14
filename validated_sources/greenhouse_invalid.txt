@@ -6392,7 +6392,6 @@ nobuhoteltoronto	no_matching_jobs
 sojern	http_404
 fletcherjonesishiringmechanicsandtechnicians	no_matching_jobs
 sparetech	no_matching_jobs
-impiricus	no_matching_jobs
 crisistextline86	http_404
 hypori	no_matching_jobs
 viderityinc	http_404
@@ -7847,7 +7846,6 @@ benchprep	no_matching_jobs
 rapidsos	no_matching_jobs
 carewell	http_404
 rattle	http_404
-gremlin	no_matching_jobs
 mindgrub	no_matching_jobs
 fractylhealthinc	no_matching_jobs
 interstellarlab	no_matching_jobs
