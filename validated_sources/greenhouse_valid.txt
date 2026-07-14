@@ -613,3 +613,6 @@ cogstateinc
 earnest
 stratolaunch
 liftoff
+alxafrica
+wavemm1
+alu

@@ -5007,7 +5007,6 @@ ntx	http_404
 btsecondaryboard	http_404
 alteradigitalhealthcanada	http_404
 xpincmlhr3	http_404
-alxafrica	no_matching_jobs
 alumniventures	no_matching_jobs
 earthshotlabs	http_404
 paytient	no_matching_jobs
@@ -5554,7 +5553,6 @@ keeleycompanies	no_jobs
 envisionconsulting	no_matching_jobs
 flipapp	http_404
 theblacktux	http_404
-wavemm1	no_matching_jobs
 schoolstatus	no_matching_jobs
 woolpert	no_matching_jobs
 tenet3	no_matching_jobs
@@ -5883,7 +5881,6 @@ turquoisehealth	http_404
 mgtinsurance	http_404
 owkin	http_404
 bosapropertiesinc	no_matching_jobs
-alu	no_matching_jobs
 stealthceo	http_404
 matherheadquarters	no_matching_jobs
 hazel	no_matching_jobs
