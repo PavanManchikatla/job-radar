@@ -7367,7 +7367,6 @@ granum	no_matching_jobs
 velocityelectronics	no_matching_jobs
 sonymusic	http_404
 orchard	no_matching_jobs
-liftoff	no_matching_jobs
 formlabs	no_matching_jobs
 thenuclearcompany	no_matching_jobs
 withumsmithbrown	http_404
@@ -7522,7 +7521,6 @@ eh2	no_matching_jobs
 bhub	http_404
 sustainablewestchester	no_matching_jobs
 easyship	no_matching_jobs
-stratolaunch	no_matching_jobs
 texascartitleandpaydayloanservicesinc	no_matching_jobs
 perrystreetsoftware	http_404
 mindsdb	no_jobs
