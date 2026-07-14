@@ -6159,7 +6159,6 @@ terraclear	no_matching_jobs
 integraladscience	http_404
 beaconsoftware	http_404
 kernagency	no_jobs
-charliehealth	no_matching_jobs
 socialpoint	no_jobs
 howeinc	http_404
 creditunionofcolorado	no_matching_jobs
@@ -6770,7 +6769,6 @@ enforce	no_matching_jobs
 legendyounggraduateeu	no_matching_jobs
 tailscale	no_matching_jobs
 corcepttherapeutics	no_matching_jobs
-prolific	no_matching_jobs
 vitta	no_matching_jobs
 webstacks	no_matching_jobs
 coherusbiosciences	no_matching_jobs
