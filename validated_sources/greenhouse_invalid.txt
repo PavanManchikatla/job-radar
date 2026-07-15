@@ -5640,7 +5640,6 @@ ably30	no_matching_jobs
 vsapartners	no_matching_jobs
 tezatechnologies	http_404
 adaptivewater	no_matching_jobs
-sofi	no_matching_jobs
 hoyoverse	no_jobs
 bescareers	no_matching_jobs
 dialoguehealthtechnologiesinc	http_404
