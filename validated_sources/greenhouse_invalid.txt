@@ -629,7 +629,6 @@ citadel securities	http_404
 virtu	no_matching_jobs
 jump trading	http_404
 tower research	http_404
-iconiq	no_matching_jobs
 sig	http_404
 akuna capital	http_404
 drw	http_404
@@ -6889,7 +6888,6 @@ samcarthiring	http_404
 cloudbedsthirdpartyboard	no_matching_jobs
 headoutreferrals	no_jobs
 moon	no_matching_jobs
-tenstorrent	no_matching_jobs
 pinwheelapi	no_matching_jobs
 quadbridge	no_matching_jobs
 arkestroinc	no_matching_jobs
@@ -7003,7 +7001,6 @@ fountain	http_404
 creditasen	http_404
 tigargymnastics	no_matching_jobs
 inchargeenergy	no_matching_jobs
-metropolis	no_matching_jobs
 concerthealth	no_matching_jobs
 ripplematchinterns	http_404
 southernpovertylawcenter	no_matching_jobs

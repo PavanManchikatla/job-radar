@@ -630,3 +630,6 @@ fieldwire
 goatgroup
 americaninstitutesforresearch
 thebrattlegroup
+iconiq
+tenstorrent
+metropolis
