@@ -8394,7 +8394,6 @@ colehourcoheninc	no_matching_jobs
 beat	http_404
 karya	no_matching_jobs
 chowbus	no_matching_jobs
-doitintl	no_matching_jobs
 pubnub	no_matching_jobs
 freenome	no_matching_jobs
 nomos	no_jobs
@@ -8630,7 +8629,6 @@ cadrehospice	no_matching_jobs
 rheaply	http_404
 honeycombinsurance	no_matching_jobs
 cybersheath	no_matching_jobs
-gleanwork	no_matching_jobs
 nametag	no_matching_jobs
 triplewhale	no_matching_jobs
 incode	no_matching_jobs
