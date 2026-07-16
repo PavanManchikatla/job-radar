@@ -5616,7 +5616,6 @@ oasisnetwork	http_404
 onetrust	no_matching_jobs
 cerebrassystems	http_404
 tutorme	no_jobs
-merceradvisors	no_matching_jobs
 quisitivejobs	no_matching_jobs
 authenticbrandsgroup	no_matching_jobs
 cloudbeds	no_matching_jobs
@@ -5641,7 +5640,6 @@ bescareers	no_matching_jobs
 dialoguehealthtechnologiesinc	http_404
 littleotter	http_404
 teads1	no_matching_jobs
-bottomlinetechnologies	no_matching_jobs
 calm	no_matching_jobs
 avidxchangeinc	no_matching_jobs
 sorcero	no_matching_jobs
@@ -6359,7 +6357,6 @@ insightrx	no_matching_jobs
 summer	no_matching_jobs
 olaplexcareers	no_matching_jobs
 sagent	no_matching_jobs
-coherehealth	no_matching_jobs
 luno	no_matching_jobs
 saltxc	no_matching_jobs
 gradientcomfort	no_jobs
