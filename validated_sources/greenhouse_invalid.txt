@@ -5123,7 +5123,6 @@ theplaceforchildrenwithautism	no_matching_jobs
 bluegranite	http_404
 vegaamericas	no_matching_jobs
 urschellaboratoriesinc	no_matching_jobs
-excelsportsmanagement	no_matching_jobs
 gruve	no_matching_jobs
 ernestpackagingsolutions	no_matching_jobs
 entera	no_matching_jobs
@@ -5226,7 +5225,6 @@ paysend	http_404
 alphahawaii	http_404
 factorialenergy	no_matching_jobs
 benevity	http_404
-metron	no_matching_jobs
 testlio	no_matching_jobs
 allbirdsretail	http_404
 buynomics	no_matching_jobs
@@ -6958,7 +6956,6 @@ paloit	http_404
 mantrahealth	no_matching_jobs
 gradientai	no_matching_jobs
 flipdish	no_matching_jobs
-redwoodmaterials	no_matching_jobs
 flywheeldigital	no_matching_jobs
 baselayer	no_matching_jobs
 gsrmarkets	no_matching_jobs
@@ -8608,7 +8605,6 @@ sevenroomsuae	no_jobs
 oliverseapac	no_matching_jobs
 outschool	no_matching_jobs
 onapsis	no_matching_jobs
-recursionpharmaceuticals	no_matching_jobs
 aztec	http_404
 oneproject	no_matching_jobs
 krafton	no_matching_jobs

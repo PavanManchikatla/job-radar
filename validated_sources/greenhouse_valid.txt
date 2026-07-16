@@ -633,3 +633,7 @@ thebrattlegroup
 iconiq
 tenstorrent
 metropolis
+excelsportsmanagement
+metron
+redwoodmaterials
+recursionpharmaceuticals
