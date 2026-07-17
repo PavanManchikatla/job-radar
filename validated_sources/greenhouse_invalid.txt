@@ -5038,7 +5038,6 @@ aquia	no_matching_jobs
 mavensecuritiesholdingltd	no_matching_jobs
 braveheartbio	no_matching_jobs
 si	no_matching_jobs
-thequalitygroupgmbh1	no_matching_jobs
 sandstonecarecastlerock	no_matching_jobs
 climatelead	no_matching_jobs
 rubiconcarbon	no_matching_jobs
@@ -5303,7 +5302,6 @@ parento	http_404
 spotonproduct	http_404
 storyblok	no_matching_jobs
 hometapjobs	no_matching_jobs
-bloomerang	no_matching_jobs
 otrcapital1	no_matching_jobs
 jnanatherapeutics	http_404
 a3c41b8b71eff8c4	no_matching_jobs
@@ -6999,7 +6997,6 @@ concerthealth	no_matching_jobs
 ripplematchinterns	http_404
 southernpovertylawcenter	no_matching_jobs
 pingcap	no_matching_jobs
-thequalitygroupgmbh2	no_matching_jobs
 runpod	http_404
 evpassport	no_jobs
 superset	no_matching_jobs
@@ -7207,7 +7204,6 @@ ogilvygermany	no_matching_jobs
 quadraturecapital	no_matching_jobs
 trinternational	no_jobs
 soundagriculture	no_matching_jobs
-energage	no_matching_jobs
 dimagi	no_matching_jobs
 forbes	no_matching_jobs
 jumia	no_matching_jobs

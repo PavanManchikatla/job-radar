@@ -10461,7 +10461,6 @@ meridianindustries	http_404
 sensortower	no_jobs
 meridian-industries	http_404
 synapticure	no_matching_jobs
-valdera	no_matching_jobs
 methodfinancial	http_404
 yummy-future	http_404
 meridian	http_404
@@ -18298,7 +18297,6 @@ wonderbly	http_404
 withmerlin	no_jobs
 windsormanagement	http_404
 wmg	no_matching_jobs
-wellfit	no_matching_jobs
 work-life	http_404
 wonolo	no_jobs
 weekdayworks	no_matching_jobs

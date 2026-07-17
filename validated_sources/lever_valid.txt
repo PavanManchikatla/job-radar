@@ -149,3 +149,5 @@ ttecdigital
 teramind
 imo-online
 nfq
+valdera
+wellfit
