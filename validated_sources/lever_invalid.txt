@@ -9783,7 +9783,6 @@ netomi	no_matching_jobs
 nexos	http_404
 nevados	no_matching_jobs
 matchgroup	no_matching_jobs
-nfq	no_matching_jobs
 educationatwork	http_404
 nfx	no_matching_jobs
 mantanetwork	http_404
