@@ -9922,7 +9922,6 @@ quizlet-2	no_jobs
 rhombus-systems	no_matching_jobs
 proper	no_matching_jobs
 retro	no_matching_jobs
-radformation	no_matching_jobs
 robinpowered	http_404
 rivr	no_matching_jobs
 restaurant365	no_matching_jobs
@@ -15545,7 +15544,6 @@ asimov	http_404
 aspiration-2	http_404
 asthomecares	http_404
 astra	http_404
-arootah	no_matching_jobs
 atavistik-bio	no_matching_jobs
 atekinc	http_404
 ataccama	no_matching_jobs
