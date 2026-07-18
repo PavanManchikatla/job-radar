@@ -1897,7 +1897,6 @@ firewalk	http_404
 microsoft gaming	http_404
 mojang	http_404
 double fine	http_404
-coalition	no_matching_jobs
 ninja theory	http_404
 rare	http_404
 inxile	http_404
