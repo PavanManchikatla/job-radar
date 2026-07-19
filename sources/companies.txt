@@ -19746,3 +19746,27 @@ screenpipe
 83-sciences
 83
 justinian
+
+# --- YC hiring companies ---
+handle
+clearline
+proofofhuman
+proof-of-human
+singularity
+deepawareairoboticscenterofsiliconvalley
+deepaware-ai-robotics-center-of-silicon-valley
+parachute
+complydo
+lightsprint
+ninefives
+nine-fives
+nine
+kelai
+callabai
+callab-ai
+callab
+complir
+torus
+ooakdata
+ooak-data
+ooak
