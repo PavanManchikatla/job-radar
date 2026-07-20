@@ -9622,7 +9622,6 @@ gluegroups	no_matching_jobs
 goalbookapp-2	no_matching_jobs
 fresha	no_matching_jobs
 finquery	no_matching_jobs
-gohighlevel	no_matching_jobs
 gordian-bio	no_jobs
 goswift	no_matching_jobs
 gotogroup	http_404
