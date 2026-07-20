@@ -314,7 +314,6 @@ helcim	http_404
 stripe	no_matching_jobs
 national processing	http_404
 braintree	http_404
-block	no_matching_jobs
 paymentcloud	http_404
 transnational payments	http_404
 tableau	http_404
@@ -5712,7 +5711,6 @@ mcclureoilcorporation	no_matching_jobs
 brillapubliccharterschools	no_matching_jobs
 tigergraph	no_matching_jobs
 presidentssummit	no_matching_jobs
-lucidsoftware	no_matching_jobs
 tracylocke	no_jobs
 genuine	no_jobs
 datavant2	no_matching_jobs
@@ -5746,7 +5744,6 @@ siegelfamilyendowment	no_matching_jobs
 riseforfamilies	no_matching_jobs
 clubcolors	no_matching_jobs
 ccscorpcareers	no_jobs
-edgewoodpartnersinsurancecenter	no_matching_jobs
 sandstonecoloradospringsoutpatient	no_matching_jobs
 arcticwolfnetworks	http_404
 accessholdingsmanagementfirm	no_matching_jobs
@@ -7016,7 +7013,6 @@ outlierai	http_404
 xtillion	no_matching_jobs
 unity3d	http_404
 acceleronfusion	no_matching_jobs
-metropolis	no_matching_jobs
 tigargymnastics	no_matching_jobs
 fountain	http_404
 concerthealth	no_matching_jobs
@@ -7392,7 +7388,6 @@ pano	http_404
 indicacoesifoodinterno	no_matching_jobs
 hubspotjobs	no_matching_jobs
 thousandeyes	http_404
-zyngacareers	no_matching_jobs
 firmpilotailawfirmmarketing	no_matching_jobs
 cockroachlabs	no_matching_jobs
 govos	http_404
@@ -8604,7 +8599,6 @@ relishworks	no_matching_jobs
 blackswan	http_404
 conga	no_matching_jobs
 applytowhoosh	no_jobs
-upwork	no_matching_jobs
 arcboatcompany	no_matching_jobs
 blinkhealth	no_matching_jobs
 shennonbiotechnologies	no_matching_jobs
@@ -8641,7 +8635,6 @@ mcculloughrobertson	http_404
 paypay	no_matching_jobs
 daggerwinggroup	no_matching_jobs
 oliverseapac	no_matching_jobs
-plume	no_matching_jobs
 hala	no_matching_jobs
 kronosresearch	no_matching_jobs
 sevenroomsuae	no_jobs
@@ -8726,7 +8719,6 @@ lumosfiber	no_matching_jobs
 glia	http_404
 pansophiclearning	no_matching_jobs
 fal	http_404
-crfamilyofcompanies	no_matching_jobs
 seed	no_matching_jobs
 leddartech	http_404
 skillsoft	no_matching_jobs

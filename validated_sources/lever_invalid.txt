@@ -17829,7 +17829,6 @@ sprucestreetcompinternships	http_404
 soloavt	http_404
 sonar	http_404
 spendesk	http_404
-sqaservices	no_matching_jobs
 sqreen-2	http_404
 spyke-games	no_matching_jobs
 sprucestreetcomp	no_matching_jobs
