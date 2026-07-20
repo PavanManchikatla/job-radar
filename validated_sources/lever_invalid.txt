@@ -9515,7 +9515,6 @@ csit	no_matching_jobs
 curri	no_jobs
 cyara	no_matching_jobs
 daedalean	no_jobs
-crypto	no_matching_jobs
 cypher-games	no_matching_jobs
 deepjudge	http_404
 brooksrunning	no_matching_jobs

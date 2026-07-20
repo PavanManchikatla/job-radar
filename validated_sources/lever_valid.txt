@@ -145,3 +145,4 @@ wisdomtree
 wwprosolutions
 zaimler
 gohighlevel
+crypto
