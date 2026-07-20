@@ -1,19 +1,811 @@
 {
-  "generated_at": "2026-07-20T18:29:23.140143+00:00",
+  "generated_at": "2026-07-20T21:39:42.711332+00:00",
   "timezone": "America/Chicago",
-  "count": 206,
+  "count": 219,
   "jobs": [
     {
       "source": "greenhouse",
-      "job_id": "7805102003",
-      "title": "Helpdesk Data Analyst",
-      "company": "crfamilyofcompanies",
-      "location": "Beavercreek, Ohio, United States",
-      "url": "https://job-boards.greenhouse.io/crfamilyofcompanies/jobs/7805102003",
-      "posted_at": "2026-07-20T18:15:38+00:00",
-      "first_seen_at": "2026-07-20T18:20:17.516438+00:00",
-      "last_seen_at": "2026-07-20T18:29:23.127660+00:00",
+      "job_id": "4674621006",
+      "title": "AI/ML Engineer",
+      "company": "accenturefederalservices",
+      "location": "Arlington, VA",
+      "url": "https://boards.greenhouse.io/accenturefederalservices/jobs/4674621006?gh_jid=4674621006",
+      "posted_at": "2026-07-20T21:10:33+00:00",
+      "first_seen_at": "2026-07-20T21:12:53.544562+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
       "score": 1
+    },
+    {
+      "source": "greenhouse",
+      "job_id": "4644242006",
+      "title": "AI / ML Engineer",
+      "company": "accenturefederalservices",
+      "location": "Chantilly, VA",
+      "url": "https://boards.greenhouse.io/accenturefederalservices/jobs/4644242006?gh_jid=4644242006",
+      "posted_at": "2026-07-20T21:10:32+00:00",
+      "first_seen_at": "2026-07-20T21:12:53.544562+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
+      "score": 1
+    },
+    {
+      "source": "greenhouse",
+      "job_id": "4628914006",
+      "title": "AI / ML Engineer",
+      "company": "accenturefederalservices",
+      "location": "Annapolis Junction, MD",
+      "url": "https://boards.greenhouse.io/accenturefederalservices/jobs/4628914006?gh_jid=4628914006",
+      "posted_at": "2026-07-20T21:10:32+00:00",
+      "first_seen_at": "2026-07-20T21:12:53.544562+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
+      "score": 1
+    },
+    {
+      "source": "greenhouse",
+      "job_id": "4611105006",
+      "title": "AI / ML Engineer Manager",
+      "company": "accenturefederalservices",
+      "location": "Arlington, VA",
+      "url": "https://boards.greenhouse.io/accenturefederalservices/jobs/4611105006?gh_jid=4611105006",
+      "posted_at": "2026-07-20T21:10:32+00:00",
+      "first_seen_at": "2026-07-20T21:12:53.544562+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
+      "score": 1
+    },
+    {
+      "source": "greenhouse",
+      "job_id": "4643762006",
+      "title": "Azure Data Engineer in St. Louis, MO",
+      "company": "accenturefederalservices",
+      "location": "St. Louis, MO",
+      "url": "https://boards.greenhouse.io/accenturefederalservices/jobs/4643762006?gh_jid=4643762006",
+      "posted_at": "2026-07-20T21:10:32+00:00",
+      "first_seen_at": "2026-07-20T21:12:53.544562+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
+      "score": 1
+    },
+    {
+      "source": "greenhouse",
+      "job_id": "5101421007",
+      "title": "Bioinformatics Research Scientist II",
+      "company": "veracyte",
+      "location": "Remote ; San Diego, California, United States; South San Francisco, California, United States",
+      "url": "https://veracyte.com/job-detail?gh_jid=5101421007",
+      "posted_at": "2026-07-20T21:09:18+00:00",
+      "first_seen_at": "2026-07-20T21:12:12.212479+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
+      "score": 4
+    },
+    {
+      "source": "greenhouse",
+      "job_id": "5073317007",
+      "title": "Director, Data Engineering ",
+      "company": "veracyte",
+      "location": "San Diego, California, United States",
+      "url": "https://veracyte.com/job-detail?gh_jid=5073317007",
+      "posted_at": "2026-07-20T21:09:18+00:00",
+      "first_seen_at": "2026-07-20T21:12:12.212479+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
+      "score": 1
+    },
+    {
+      "source": "greenhouse",
+      "job_id": "8074942",
+      "title": "Lead Data Analyst, Product Analytics",
+      "company": "updater",
+      "location": "Remote, US",
+      "url": "https://job-boards.greenhouse.io/updater/jobs/8074942",
+      "posted_at": "2026-07-20T21:02:51+00:00",
+      "first_seen_at": "2026-07-20T21:26:32.511956+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
+      "score": 2
+    },
+    {
+      "source": "greenhouse",
+      "job_id": "5165240008",
+      "title": "AI Engineer",
+      "company": "trueclassicteesllc",
+      "location": "Calabasas, CA",
+      "url": "https://job-boards.greenhouse.io/trueclassicteesllc/jobs/5165240008",
+      "posted_at": "2026-07-20T20:57:54+00:00",
+      "first_seen_at": "2026-07-20T21:14:26.049493+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
+      "score": 1
+    },
+    {
+      "source": "greenhouse",
+      "job_id": "5238831008",
+      "title": "Data & Analytics Engineer",
+      "company": "trueclassicteesllc",
+      "location": "Calabasas, CA",
+      "url": "https://job-boards.greenhouse.io/trueclassicteesllc/jobs/5238831008",
+      "posted_at": "2026-07-20T20:57:54+00:00",
+      "first_seen_at": "2026-07-20T21:14:26.049493+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
+      "score": 1
+    },
+    {
+      "source": "greenhouse",
+      "job_id": "7807905003",
+      "title": "Senior Data Scientist, CRM & Personalization ",
+      "company": "rdccareers",
+      "location": "Austin, Texas, United States",
+      "url": "https://boards.greenhouse.io/rdccareers/jobs/7807905003?gh_jid=7807905003",
+      "posted_at": "2026-07-20T20:57:42+00:00",
+      "first_seen_at": "2026-07-20T21:10:43.978874+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
+      "score": 0
+    },
+    {
+      "source": "greenhouse",
+      "job_id": "8611081002",
+      "title": "Senior AI Engineer",
+      "company": "amplitude",
+      "location": "San Francisco, CA",
+      "url": "https://job-boards.greenhouse.io/amplitude/jobs/8611081002",
+      "posted_at": "2026-07-20T20:42:29+00:00",
+      "first_seen_at": "2026-07-20T21:10:00.165561+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
+      "score": 0
+    },
+    {
+      "source": "greenhouse",
+      "job_id": "7912972",
+      "title": "Data Science Manager, AI Products ",
+      "company": "redventures",
+      "location": "New York, NY",
+      "url": "https://www.redventures.com/careers/positions/open?gh_jid=7912972",
+      "posted_at": "2026-07-20T20:40:32+00:00",
+      "first_seen_at": "2026-07-20T21:15:23.785719+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
+      "score": 0
+    },
+    {
+      "source": "greenhouse",
+      "job_id": "7993797",
+      "title": "Data Engineering Manager | Home Client Services",
+      "company": "redventures",
+      "location": "Remote - US",
+      "url": "https://www.redventures.com/careers/positions/open?gh_jid=7993797",
+      "posted_at": "2026-07-20T20:40:27+00:00",
+      "first_seen_at": "2026-07-20T21:15:23.785719+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
+      "score": 3
+    },
+    {
+      "source": "greenhouse",
+      "job_id": "7588883",
+      "title": "Senior Data Engineer | The Points Guy",
+      "company": "redventures",
+      "location": "United States",
+      "url": "https://www.redventures.com/careers/positions/open?gh_jid=7588883",
+      "posted_at": "2026-07-20T20:40:06+00:00",
+      "first_seen_at": "2026-07-20T21:15:23.785719+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
+      "score": 0
+    },
+    {
+      "source": "greenhouse",
+      "job_id": "4730428007",
+      "title": "Staff Software Engineer, Machine Learning",
+      "company": "smarterdx",
+      "location": "Remote (United States)",
+      "url": "https://job-boards.greenhouse.io/smarterdx/jobs/4730428007",
+      "posted_at": "2026-07-20T20:31:52+00:00",
+      "first_seen_at": "2026-07-20T21:15:30.864932+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
+      "score": 2
+    },
+    {
+      "source": "greenhouse",
+      "job_id": "4251570009",
+      "title": "Staff Software Engineer, ML/AI Platform",
+      "company": "attentive",
+      "location": "United States",
+      "url": "https://job-boards.greenhouse.io/attentive/jobs/4251570009",
+      "posted_at": "2026-07-20T20:29:28+00:00",
+      "first_seen_at": "2026-07-20T21:15:32.663947+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
+      "score": 0
+    },
+    {
+      "source": "greenhouse",
+      "job_id": "4681293006",
+      "title": "Cleared AI/ML Engineer",
+      "company": "accenturefederalservices",
+      "location": "Tampa, FL",
+      "url": "https://boards.greenhouse.io/accenturefederalservices/jobs/4681293006?gh_jid=4681293006",
+      "posted_at": "2026-07-20T20:29:22+00:00",
+      "first_seen_at": "2026-07-20T21:12:53.544562+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
+      "score": 1
+    },
+    {
+      "source": "greenhouse",
+      "job_id": "4587713006",
+      "title": "Cybersecurity Research Engineer",
+      "company": "accenturefederalservices",
+      "location": "Fort Meade, MD",
+      "url": "https://boards.greenhouse.io/accenturefederalservices/jobs/4587713006?gh_jid=4587713006",
+      "posted_at": "2026-07-20T20:29:22+00:00",
+      "first_seen_at": "2026-07-20T21:12:53.544562+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
+      "score": 1
+    },
+    {
+      "source": "greenhouse",
+      "job_id": "4692664006",
+      "title": "Data Analyst in California (Secret Cleared) ",
+      "company": "accenturefederalservices",
+      "location": "Point Mugu, CA",
+      "url": "https://boards.greenhouse.io/accenturefederalservices/jobs/4692664006?gh_jid=4692664006",
+      "posted_at": "2026-07-20T20:29:22+00:00",
+      "first_seen_at": "2026-07-20T21:12:53.544562+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
+      "score": 1
+    },
+    {
+      "source": "greenhouse",
+      "job_id": "4680730006",
+      "title": "Data Engineer",
+      "company": "accenturefederalservices",
+      "location": "Suitland, MD",
+      "url": "https://boards.greenhouse.io/accenturefederalservices/jobs/4680730006?gh_jid=4680730006",
+      "posted_at": "2026-07-20T20:29:22+00:00",
+      "first_seen_at": "2026-07-20T21:12:53.544562+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
+      "score": 1
+    },
+    {
+      "source": "greenhouse",
+      "job_id": "4677265006",
+      "title": "Data Engineering Lead ",
+      "company": "accenturefederalservices",
+      "location": "Arlington, VA",
+      "url": "https://boards.greenhouse.io/accenturefederalservices/jobs/4677265006?gh_jid=4677265006",
+      "posted_at": "2026-07-20T20:29:22+00:00",
+      "first_seen_at": "2026-07-20T21:12:53.544562+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
+      "score": 0
+    },
+    {
+      "source": "greenhouse",
+      "job_id": "4644934006",
+      "title": "Data Engineer in St. Louis, MO",
+      "company": "accenturefederalservices",
+      "location": "St. Louis, MO",
+      "url": "https://boards.greenhouse.io/accenturefederalservices/jobs/4644934006?gh_jid=4644934006",
+      "posted_at": "2026-07-20T20:29:22+00:00",
+      "first_seen_at": "2026-07-20T21:12:53.544562+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
+      "score": 1
+    },
+    {
+      "source": "greenhouse",
+      "job_id": "4666148006",
+      "title": "Data Engineer (Onsite Vandenberg, CA)",
+      "company": "accenturefederalservices",
+      "location": "Point Mugu, CA",
+      "url": "https://boards.greenhouse.io/accenturefederalservices/jobs/4666148006?gh_jid=4666148006",
+      "posted_at": "2026-07-20T20:29:22+00:00",
+      "first_seen_at": "2026-07-20T21:12:53.544562+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
+      "score": 1
+    },
+    {
+      "source": "greenhouse",
+      "job_id": "4620934006",
+      "title": "Data Engineer Senior Analyst",
+      "company": "accenturefederalservices",
+      "location": "Arlington, VA",
+      "url": "https://boards.greenhouse.io/accenturefederalservices/jobs/4620934006?gh_jid=4620934006",
+      "posted_at": "2026-07-20T20:29:22+00:00",
+      "first_seen_at": "2026-07-20T21:12:53.544562+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
+      "score": 1
+    },
+    {
+      "source": "greenhouse",
+      "job_id": "4610676006",
+      "title": "Data Engineer Specialist",
+      "company": "accenturefederalservices",
+      "location": "Arlington, VA",
+      "url": "https://boards.greenhouse.io/accenturefederalservices/jobs/4610676006?gh_jid=4610676006",
+      "posted_at": "2026-07-20T20:29:22+00:00",
+      "first_seen_at": "2026-07-20T21:12:53.544562+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
+      "score": 1
+    },
+    {
+      "source": "greenhouse",
+      "job_id": "4611519006",
+      "title": "Data Engineer Team Lead",
+      "company": "accenturefederalservices",
+      "location": "Arlington, VA",
+      "url": "https://boards.greenhouse.io/accenturefederalservices/jobs/4611519006?gh_jid=4611519006",
+      "posted_at": "2026-07-20T20:29:22+00:00",
+      "first_seen_at": "2026-07-20T21:12:53.544562+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
+      "score": 0
+    },
+    {
+      "source": "greenhouse",
+      "job_id": "4689015006",
+      "title": "Data Scientist ",
+      "company": "accenturefederalservices",
+      "location": "Annapolis Junction, MD",
+      "url": "https://boards.greenhouse.io/accenturefederalservices/jobs/4689015006?gh_jid=4689015006",
+      "posted_at": "2026-07-20T20:29:22+00:00",
+      "first_seen_at": "2026-07-20T21:12:53.544562+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
+      "score": 1
+    },
+    {
+      "source": "greenhouse",
+      "job_id": "4681773006",
+      "title": "Enterprise Data Engineer",
+      "company": "accenturefederalservices",
+      "location": "Herndon, VA",
+      "url": "https://boards.greenhouse.io/accenturefederalservices/jobs/4681773006?gh_jid=4681773006",
+      "posted_at": "2026-07-20T20:29:22+00:00",
+      "first_seen_at": "2026-07-20T21:12:53.544562+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
+      "score": 1
+    },
+    {
+      "source": "greenhouse",
+      "job_id": "4691998006",
+      "title": "Forward Data Engineer",
+      "company": "accenturefederalservices",
+      "location": "McLean, VA",
+      "url": "https://boards.greenhouse.io/accenturefederalservices/jobs/4691998006?gh_jid=4691998006",
+      "posted_at": "2026-07-20T20:29:22+00:00",
+      "first_seen_at": "2026-07-20T21:12:53.544562+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
+      "score": 1
+    },
+    {
+      "source": "greenhouse",
+      "job_id": "4689012006",
+      "title": "Jr. Data Scientist",
+      "company": "accenturefederalservices",
+      "location": "Annapolis Junction, MD",
+      "url": "https://boards.greenhouse.io/accenturefederalservices/jobs/4689012006?gh_jid=4689012006",
+      "posted_at": "2026-07-20T20:29:22+00:00",
+      "first_seen_at": "2026-07-20T21:12:53.544562+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
+      "score": 1
+    },
+    {
+      "source": "greenhouse",
+      "job_id": "4587698006",
+      "title": "Operations Research Scientist",
+      "company": "accenturefederalservices",
+      "location": "Fort Meade, MD",
+      "url": "https://boards.greenhouse.io/accenturefederalservices/jobs/4587698006?gh_jid=4587698006",
+      "posted_at": "2026-07-20T20:29:22+00:00",
+      "first_seen_at": "2026-07-20T21:12:53.544562+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
+      "score": 1
+    },
+    {
+      "source": "greenhouse",
+      "job_id": "4663057006",
+      "title": "Palantir Data Engineer",
+      "company": "accenturefederalservices",
+      "location": "Chantilly, VA",
+      "url": "https://boards.greenhouse.io/accenturefederalservices/jobs/4663057006?gh_jid=4663057006",
+      "posted_at": "2026-07-20T20:29:22+00:00",
+      "first_seen_at": "2026-07-20T21:12:53.544562+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
+      "score": 1
+    },
+    {
+      "source": "greenhouse",
+      "job_id": "4661716006",
+      "title": "Palantir Data Scientist (Onsite Vandenberg, CA)",
+      "company": "accenturefederalservices",
+      "location": "Point Mugu, CA",
+      "url": "https://boards.greenhouse.io/accenturefederalservices/jobs/4661716006?gh_jid=4661716006",
+      "posted_at": "2026-07-20T20:29:22+00:00",
+      "first_seen_at": "2026-07-20T21:12:53.544562+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
+      "score": 1
+    },
+    {
+      "source": "greenhouse",
+      "job_id": "4686155006",
+      "title": "Senior AI/ML & Data Engineer",
+      "company": "accenturefederalservices",
+      "location": "Chantilly, VA",
+      "url": "https://boards.greenhouse.io/accenturefederalservices/jobs/4686155006?gh_jid=4686155006",
+      "posted_at": "2026-07-20T20:29:22+00:00",
+      "first_seen_at": "2026-07-20T21:12:53.544562+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
+      "score": 0
+    },
+    {
+      "source": "greenhouse",
+      "job_id": "4644953006",
+      "title": "Senior Data Analyst in St. Louis, MO",
+      "company": "accenturefederalservices",
+      "location": "St. Louis, MO",
+      "url": "https://boards.greenhouse.io/accenturefederalservices/jobs/4644953006?gh_jid=4644953006",
+      "posted_at": "2026-07-20T20:29:22+00:00",
+      "first_seen_at": "2026-07-20T21:12:53.544562+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
+      "score": 0
+    },
+    {
+      "source": "greenhouse",
+      "job_id": "4679120006",
+      "title": "Senior Data Engineer",
+      "company": "accenturefederalservices",
+      "location": "Arlington, VA",
+      "url": "https://boards.greenhouse.io/accenturefederalservices/jobs/4679120006?gh_jid=4679120006",
+      "posted_at": "2026-07-20T20:29:22+00:00",
+      "first_seen_at": "2026-07-20T21:12:53.544562+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
+      "score": 0
+    },
+    {
+      "source": "greenhouse",
+      "job_id": "4677242006",
+      "title": "Senior Data Scientist",
+      "company": "accenturefederalservices",
+      "location": "Arlington, VA",
+      "url": "https://boards.greenhouse.io/accenturefederalservices/jobs/4677242006?gh_jid=4677242006",
+      "posted_at": "2026-07-20T20:29:22+00:00",
+      "first_seen_at": "2026-07-20T21:12:53.544562+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
+      "score": 0
+    },
+    {
+      "source": "greenhouse",
+      "job_id": "4623820006",
+      "title": "Sr. Cloud Data Engineer",
+      "company": "accenturefederalservices",
+      "location": "Tyson's Corner, VA",
+      "url": "https://boards.greenhouse.io/accenturefederalservices/jobs/4623820006?gh_jid=4623820006",
+      "posted_at": "2026-07-20T20:29:22+00:00",
+      "first_seen_at": "2026-07-20T21:12:53.544562+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
+      "score": 1
+    },
+    {
+      "source": "greenhouse",
+      "job_id": "8031046",
+      "title": "Senior Staff Data Scientist",
+      "company": "mozilla",
+      "location": "Remote; Remote Canada; Remote US",
+      "url": "https://job-boards.greenhouse.io/mozilla/jobs/8031046",
+      "posted_at": "2026-07-20T20:19:30+00:00",
+      "first_seen_at": "2026-07-20T21:13:22.436213+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
+      "score": 2
+    },
+    {
+      "source": "greenhouse",
+      "job_id": "7834520",
+      "title": "Staff Data Scientist, Firefox",
+      "company": "mozilla",
+      "location": "Remote; Remote Canada; Remote US",
+      "url": "https://job-boards.greenhouse.io/mozilla/jobs/7834520",
+      "posted_at": "2026-07-20T20:18:33+00:00",
+      "first_seen_at": "2026-07-20T21:13:22.436213+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
+      "score": 2
+    },
+    {
+      "source": "greenhouse",
+      "job_id": "4252255009",
+      "title": "Senior Software Engineer, ML/AI Platform",
+      "company": "attentive",
+      "location": "United States",
+      "url": "https://job-boards.greenhouse.io/attentive/jobs/4252255009",
+      "posted_at": "2026-07-20T20:18:15+00:00",
+      "first_seen_at": "2026-07-20T21:15:32.663947+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
+      "score": 0
+    },
+    {
+      "source": "greenhouse",
+      "job_id": "7839334",
+      "title": "Staff Data Scientist, Firefox",
+      "company": "mozilla",
+      "location": "Remote Canada; Remote US",
+      "url": "https://job-boards.greenhouse.io/mozilla/jobs/7839334",
+      "posted_at": "2026-07-20T20:17:47+00:00",
+      "first_seen_at": "2026-07-20T21:13:22.436213+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
+      "score": 2
+    },
+    {
+      "source": "greenhouse",
+      "job_id": "8031211",
+      "title": "Senior Staff Data Scientist",
+      "company": "mozilla",
+      "location": "Remote Canada; Remote US",
+      "url": "https://job-boards.greenhouse.io/mozilla/jobs/8031211",
+      "posted_at": "2026-07-20T20:17:08+00:00",
+      "first_seen_at": "2026-07-20T21:13:22.436213+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
+      "score": 2
+    },
+    {
+      "source": "greenhouse",
+      "job_id": "7810086003",
+      "title": "Senior ECAD Library & Engineering Data Engineer",
+      "company": "flyzipline",
+      "location": "South San Francisco, California, USA",
+      "url": "https://www.zipline.com/open-roles?gh_jid=7810086003",
+      "posted_at": "2026-07-20T20:14:59+00:00",
+      "first_seen_at": "2026-07-20T21:12:16.408204+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
+      "score": 0
+    },
+    {
+      "source": "greenhouse",
+      "job_id": "8456064002",
+      "title": "Principal Applied AI / ML Engineer",
+      "company": "faire",
+      "location": "San Francisco, CA",
+      "url": "https://boards.greenhouse.io/faire/jobs/8456064002?gh_jid=8456064002",
+      "posted_at": "2026-07-20T20:04:03+00:00",
+      "first_seen_at": "2026-07-20T21:14:53.669258+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
+      "score": 0
+    },
+    {
+      "source": "greenhouse",
+      "job_id": "8336548002",
+      "title": "Senior Analytics Engineer - Marketplace",
+      "company": "faire",
+      "location": "San Francisco, CA",
+      "url": "https://boards.greenhouse.io/faire/jobs/8336548002?gh_jid=8336548002",
+      "posted_at": "2026-07-20T20:04:03+00:00",
+      "first_seen_at": "2026-07-20T21:14:53.669258+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
+      "score": 0
+    },
+    {
+      "source": "greenhouse",
+      "job_id": "8612420002",
+      "title": "Senior Staff Data Engineer - Platform Data and Analytics",
+      "company": "faire",
+      "location": "San Francisco, CA",
+      "url": "https://boards.greenhouse.io/faire/jobs/8612420002?gh_jid=8612420002",
+      "posted_at": "2026-07-20T20:04:03+00:00",
+      "first_seen_at": "2026-07-20T21:14:53.669258+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
+      "score": 0
+    },
+    {
+      "source": "greenhouse",
+      "job_id": "8618460002",
+      "title": "Senior Staff Machine Learning Platform Engineer",
+      "company": "faire",
+      "location": "San Francisco, CA",
+      "url": "https://boards.greenhouse.io/faire/jobs/8618460002?gh_jid=8618460002",
+      "posted_at": "2026-07-20T20:04:03+00:00",
+      "first_seen_at": "2026-07-20T21:14:53.669258+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
+      "score": 0
+    },
+    {
+      "source": "greenhouse",
+      "job_id": "8426107002",
+      "title": "Staff Machine Learning Platform Engineer",
+      "company": "faire",
+      "location": "San Francisco, CA",
+      "url": "https://boards.greenhouse.io/faire/jobs/8426107002?gh_jid=8426107002",
+      "posted_at": "2026-07-20T20:04:03+00:00",
+      "first_seen_at": "2026-07-20T21:14:53.669258+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
+      "score": 0
+    },
+    {
+      "source": "greenhouse",
+      "job_id": "7905285",
+      "title": "Sr. Business Intelligence Engineer",
+      "company": "doordashusa",
+      "location": "New York, NY; San Francisco, CA; San Jose, CA; Seattle, WA; Los Angeles, CA; Boston, MA; Washington, DC; Austin, TX; Baltimore, MD; Chicago, IL; Denver, CO; Boulder, CO; Hartford, CT; New Haven, CT; Philadelphia, PA; Providence, RI; Miami, FL",
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7905285",
+      "posted_at": "2026-07-20T20:00:17+00:00",
+      "first_seen_at": "2026-07-20T21:13:50.080938+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
+      "score": 1
+    },
+    {
+      "source": "greenhouse",
+      "job_id": "7990832",
+      "title": "Data Analyst, In-Store",
+      "company": "doordashusa",
+      "location": "New York, NY; San Francisco, CA; San Jose, CA; Seattle, WA; Los Angeles, CA; Boston, MA; Washington, DC; Austin, TX; Baltimore, MD; Chicago, IL; Denver, CO; Boulder, CO; Hartford, CT; New Haven, CT; Philadelphia, PA; Providence, RI; Miami, FL",
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7990832",
+      "posted_at": "2026-07-20T19:59:57+00:00",
+      "first_seen_at": "2026-07-20T21:13:50.080938+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
+      "score": 1
+    },
+    {
+      "source": "greenhouse",
+      "job_id": "8525554002",
+      "title": "ML Engineer, II - App Engine",
+      "company": "torcrobotics",
+      "location": "Ann Arbor, MI, Fort Worth, TX",
+      "url": "https://job-boards.greenhouse.io/torcrobotics/jobs/8525554002",
+      "posted_at": "2026-07-20T19:45:19+00:00",
+      "first_seen_at": "2026-07-20T21:14:36.276790+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
+      "score": 2
+    },
+    {
+      "source": "greenhouse",
+      "job_id": "4226675009",
+      "title": "Senior Analytics Engineer",
+      "company": "attentive",
+      "location": "United States",
+      "url": "https://job-boards.greenhouse.io/attentive/jobs/4226675009",
+      "posted_at": "2026-07-20T19:38:47+00:00",
+      "first_seen_at": "2026-07-20T21:15:32.663947+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
+      "score": 0
+    },
+    {
+      "source": "greenhouse",
+      "job_id": "4129704009",
+      "title": "Senior Machine Learning Engineer",
+      "company": "attentive",
+      "location": "San Francisco, CA",
+      "url": "https://job-boards.greenhouse.io/attentive/jobs/4129704009",
+      "posted_at": "2026-07-20T19:35:35+00:00",
+      "first_seen_at": "2026-07-20T21:15:32.663947+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
+      "score": 0
+    },
+    {
+      "source": "greenhouse",
+      "job_id": "4120595009",
+      "title": "Senior Machine Learning Engineer",
+      "company": "attentive",
+      "location": "New York, NY",
+      "url": "https://job-boards.greenhouse.io/attentive/jobs/4120595009",
+      "posted_at": "2026-07-20T19:35:25+00:00",
+      "first_seen_at": "2026-07-20T21:15:32.663947+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
+      "score": 0
+    },
+    {
+      "source": "greenhouse",
+      "job_id": "4120604009",
+      "title": "Staff Data Engineer, Cloud Optimization",
+      "company": "attentive",
+      "location": "United States",
+      "url": "https://job-boards.greenhouse.io/attentive/jobs/4120604009",
+      "posted_at": "2026-07-20T19:26:48+00:00",
+      "first_seen_at": "2026-07-20T21:15:32.663947+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
+      "score": 0
+    },
+    {
+      "source": "greenhouse",
+      "job_id": "6116721004",
+      "title": "Senior Analytics Engineer",
+      "company": "redwoodmaterials",
+      "location": "San Francisco, California, United States",
+      "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6116721004?gh_jid=6116721004",
+      "posted_at": "2026-07-20T19:17:18+00:00",
+      "first_seen_at": "2026-07-20T21:12:48.812373+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
+      "score": 0
+    },
+    {
+      "source": "greenhouse",
+      "job_id": "7808339003",
+      "title": "Security Data Analyst - Parsing",
+      "company": "spycloud",
+      "location": "Austin, Texas | Remote",
+      "url": "https://job-boards.greenhouse.io/spycloud/jobs/7808339003",
+      "posted_at": "2026-07-20T19:17:12+00:00",
+      "first_seen_at": "2026-07-20T21:22:54.275641+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
+      "score": 3
+    },
+    {
+      "source": "greenhouse",
+      "job_id": "5609732004",
+      "title": "Forward Deployed AI Engineer",
+      "company": "turing",
+      "location": "New York, New York, United States",
+      "url": "https://job-boards.greenhouse.io/turing/jobs/5609732004",
+      "posted_at": "2026-07-20T19:15:45+00:00",
+      "first_seen_at": "2026-07-20T21:11:15.788406+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
+      "score": 1
+    },
+    {
+      "source": "greenhouse",
+      "job_id": "6119886004",
+      "title": "Principal AI Engineer",
+      "company": "turing",
+      "location": "New York, New York, United States",
+      "url": "https://job-boards.greenhouse.io/turing/jobs/6119886004",
+      "posted_at": "2026-07-20T19:12:38+00:00",
+      "first_seen_at": "2026-07-20T21:11:15.788406+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
+      "score": 0
+    },
+    {
+      "source": "greenhouse",
+      "job_id": "6115732004",
+      "title": "Senior Data Scientist",
+      "company": "sonyinteractiveentertainmentglobal",
+      "location": "United States, Los Angeles, CA",
+      "url": "https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6115732004",
+      "posted_at": "2026-07-20T19:02:29+00:00",
+      "first_seen_at": "2026-07-20T21:11:56.013054+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
+      "score": 0
+    },
+    {
+      "source": "greenhouse",
+      "job_id": "7650739003",
+      "title": "Research Engineer",
+      "company": "verisign",
+      "location": "Reston,Virginia,United States",
+      "url": "https://job-boards.greenhouse.io/verisign/jobs/7650739003",
+      "posted_at": "2026-07-20T19:00:43+00:00",
+      "first_seen_at": "2026-07-20T21:10:24.129442+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
+      "score": 1
+    },
+    {
+      "source": "greenhouse",
+      "job_id": "7636398003",
+      "title": "Sr Research Engineer ",
+      "company": "verisign",
+      "location": "Reston,Virginia,United States",
+      "url": "https://job-boards.greenhouse.io/verisign/jobs/7636398003",
+      "posted_at": "2026-07-20T19:00:42+00:00",
+      "first_seen_at": "2026-07-20T21:10:24.129442+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
+      "score": 1
+    },
+    {
+      "source": "greenhouse",
+      "job_id": "4697975006",
+      "title": "Principal AI Engineer",
+      "company": "strivehealth",
+      "location": "Denver, CO",
+      "url": "https://job-boards.greenhouse.io/strivehealth/jobs/4697975006",
+      "posted_at": "2026-07-20T18:56:01+00:00",
+      "first_seen_at": "2026-07-20T21:30:12.213008+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
+      "score": 0
+    },
+    {
+      "source": "greenhouse",
+      "job_id": "8041580",
+      "title": "Analytics Engineer, Data",
+      "company": "narvar",
+      "location": "Remote - Canada",
+      "url": "https://job-boards.greenhouse.io/narvar/jobs/8041580",
+      "posted_at": "2026-07-20T18:54:14+00:00",
+      "first_seen_at": "2026-07-20T21:12:10.404667+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
+      "score": 3
+    },
+    {
+      "source": "greenhouse",
+      "job_id": "5361883008",
+      "title": "Financial Data and Analytics Manager",
+      "company": "jensenhughes",
+      "location": "Columbia, Maryland, United States",
+      "url": "https://job-boards.greenhouse.io/jensenhughes/jobs/5361883008",
+      "posted_at": "2026-07-20T18:51:20+00:00",
+      "first_seen_at": "2026-07-20T21:23:12.625526+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
+      "score": 0
     },
     {
       "source": "greenhouse",
@@ -22,10 +814,382 @@
       "company": "plume",
       "location": "United States",
       "url": "https://www.plume.com/career-opportunities/?gh_jid=8638223002",
-      "posted_at": "2026-07-20T18:04:07+00:00",
-      "first_seen_at": "2026-07-20T18:20:19.908829+00:00",
-      "last_seen_at": "2026-07-20T18:29:23.127660+00:00",
+      "posted_at": "2026-07-20T18:49:16+00:00",
+      "first_seen_at": "2026-07-20T21:15:39.268819+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
       "score": 0
+    },
+    {
+      "source": "greenhouse",
+      "job_id": "4682204006",
+      "title": "Lead Data Analyst",
+      "company": "paretocaptiveservicesllc",
+      "location": "Philadelphia, Pennsylvania, United States; Remote",
+      "url": "https://job-boards.greenhouse.io/paretocaptiveservicesllc/jobs/4682204006",
+      "posted_at": "2026-07-20T18:48:42+00:00",
+      "first_seen_at": "2026-07-20T21:12:47.015191+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
+      "score": 2
+    },
+    {
+      "source": "greenhouse",
+      "job_id": "8558504002",
+      "title": "Senior Analytics Engineer",
+      "company": "suvoda",
+      "location": "Remote - Romania",
+      "url": "https://www.suvoda.com/careers/job-openings?gh_jid=8558504002",
+      "posted_at": "2026-07-20T18:45:40+00:00",
+      "first_seen_at": "2026-07-20T21:14:23.647189+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
+      "score": 2
+    },
+    {
+      "source": "greenhouse",
+      "job_id": "7931911",
+      "title": "Distinguished Machine Learning Engineer - Safety",
+      "company": "roblox",
+      "location": "San Mateo, CA, United States",
+      "url": "https://careers.roblox.com/jobs/7931911?gh_jid=7931911",
+      "posted_at": "2026-07-20T18:44:49+00:00",
+      "first_seen_at": "2026-07-20T21:12:06.809933+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
+      "score": 1
+    },
+    {
+      "source": "greenhouse",
+      "job_id": "7332473",
+      "title": "Distinguished Engineer, Machine Learning Systems \u2013 Economy",
+      "company": "roblox",
+      "location": "San Mateo, CA, United States",
+      "url": "https://careers.roblox.com/jobs/7332473?gh_jid=7332473",
+      "posted_at": "2026-07-20T18:44:19+00:00",
+      "first_seen_at": "2026-07-20T21:12:06.809933+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
+      "score": 1
+    },
+    {
+      "source": "greenhouse",
+      "job_id": "7411636",
+      "title": "Principal Data Scientist - Safety",
+      "company": "roblox",
+      "location": "San Mateo, CA, United States",
+      "url": "https://careers.roblox.com/jobs/7411636?gh_jid=7411636",
+      "posted_at": "2026-07-20T18:43:56+00:00",
+      "first_seen_at": "2026-07-20T21:12:06.809933+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
+      "score": 0
+    },
+    {
+      "source": "greenhouse",
+      "job_id": "7249513",
+      "title": "Senior Machine Learning - Avatar, Core AI",
+      "company": "roblox",
+      "location": "San Mateo, CA, United States",
+      "url": "https://careers.roblox.com/jobs/7249513?gh_jid=7249513",
+      "posted_at": "2026-07-20T18:43:43+00:00",
+      "first_seen_at": "2026-07-20T21:12:06.809933+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
+      "score": -1
+    },
+    {
+      "source": "greenhouse",
+      "job_id": "8001369",
+      "title": "Senior Machine Learning Engineer, User Behavior",
+      "company": "roblox",
+      "location": "San Mateo, CA, United States",
+      "url": "https://careers.roblox.com/jobs/8001369?gh_jid=8001369",
+      "posted_at": "2026-07-20T18:43:41+00:00",
+      "first_seen_at": "2026-07-20T21:12:06.809933+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
+      "score": 0
+    },
+    {
+      "source": "greenhouse",
+      "job_id": "7463634",
+      "title": "[2026] Data Scientist, Social ",
+      "company": "roblox",
+      "location": "San Mateo, CA, United States",
+      "url": "https://careers.roblox.com/jobs/7463634?gh_jid=7463634",
+      "posted_at": "2026-07-20T18:43:39+00:00",
+      "first_seen_at": "2026-07-20T21:12:06.809933+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
+      "score": 1
+    },
+    {
+      "source": "greenhouse",
+      "job_id": "7351220",
+      "title": "Senior Machine Learning Engineer, Ads",
+      "company": "roblox",
+      "location": "San Mateo, CA, United States",
+      "url": "https://careers.roblox.com/jobs/7351220?gh_jid=7351220",
+      "posted_at": "2026-07-20T18:43:37+00:00",
+      "first_seen_at": "2026-07-20T21:12:06.809933+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
+      "score": 0
+    },
+    {
+      "source": "greenhouse",
+      "job_id": "7629843",
+      "title": "Principal Machine Learning Engineer, Embodied AI and Smart NPCs",
+      "company": "roblox",
+      "location": "San Mateo, CA, United States",
+      "url": "https://careers.roblox.com/jobs/7629843?gh_jid=7629843",
+      "posted_at": "2026-07-20T18:41:07+00:00",
+      "first_seen_at": "2026-07-20T21:12:06.809933+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
+      "score": 0
+    },
+    {
+      "source": "greenhouse",
+      "job_id": "7655346",
+      "title": "Principal/Senior Machine Learning Scientist - Search and Discovery ",
+      "company": "roblox",
+      "location": "San Mateo, CA, United States",
+      "url": "https://careers.roblox.com/jobs/7655346?gh_jid=7655346",
+      "posted_at": "2026-07-20T18:40:51+00:00",
+      "first_seen_at": "2026-07-20T21:12:06.809933+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
+      "score": 0
+    },
+    {
+      "source": "greenhouse",
+      "job_id": "7822736",
+      "title": "Senior Data Scientist - Machine Intelligence (Creator Services)",
+      "company": "roblox",
+      "location": "San Mateo, CA, United States",
+      "url": "https://careers.roblox.com/jobs/7822736?gh_jid=7822736",
+      "posted_at": "2026-07-20T18:39:34+00:00",
+      "first_seen_at": "2026-07-20T21:12:06.809933+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
+      "score": 0
+    },
+    {
+      "source": "greenhouse",
+      "job_id": "8047877",
+      "title": "Senior Machine Learning Engineering Manager, Safety AI Systems",
+      "company": "roblox",
+      "location": "San Mateo, CA, United States",
+      "url": "https://careers.roblox.com/jobs/8047877?gh_jid=8047877",
+      "posted_at": "2026-07-20T18:39:18+00:00",
+      "first_seen_at": "2026-07-20T21:12:06.809933+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
+      "score": 0
+    },
+    {
+      "source": "greenhouse",
+      "job_id": "7848812",
+      "title": "Senior Data Scientist, Engine Systems",
+      "company": "roblox",
+      "location": "San Mateo, CA, United States",
+      "url": "https://careers.roblox.com/jobs/7848812?gh_jid=7848812",
+      "posted_at": "2026-07-20T18:38:19+00:00",
+      "first_seen_at": "2026-07-20T21:12:06.809933+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
+      "score": 0
+    },
+    {
+      "source": "greenhouse",
+      "job_id": "7950872",
+      "title": "Senior Machine Learning Scientist",
+      "company": "roblox",
+      "location": "San Mateo, CA, United States",
+      "url": "https://careers.roblox.com/jobs/7950872?gh_jid=7950872",
+      "posted_at": "2026-07-20T18:38:06+00:00",
+      "first_seen_at": "2026-07-20T21:12:06.809933+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
+      "score": 0
+    },
+    {
+      "source": "greenhouse",
+      "job_id": "7943933",
+      "title": "Senior Machine Learning Engineer, GenAI Data",
+      "company": "roblox",
+      "location": "San Mateo, CA, United States",
+      "url": "https://careers.roblox.com/jobs/7943933?gh_jid=7943933",
+      "posted_at": "2026-07-20T18:36:40+00:00",
+      "first_seen_at": "2026-07-20T21:12:06.809933+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
+      "score": 0
+    },
+    {
+      "source": "greenhouse",
+      "job_id": "7977798",
+      "title": "Senior Data Scientist - Family Experience",
+      "company": "roblox",
+      "location": "San Mateo, CA, United States",
+      "url": "https://careers.roblox.com/jobs/7977798?gh_jid=7977798",
+      "posted_at": "2026-07-20T18:35:52+00:00",
+      "first_seen_at": "2026-07-20T21:12:06.809933+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
+      "score": 0
+    },
+    {
+      "source": "greenhouse",
+      "job_id": "7977682",
+      "title": "Senior Data Scientist - Consumer Frontend",
+      "company": "roblox",
+      "location": "San Mateo, CA, United States",
+      "url": "https://careers.roblox.com/jobs/7977682?gh_jid=7977682",
+      "posted_at": "2026-07-20T18:35:43+00:00",
+      "first_seen_at": "2026-07-20T21:12:06.809933+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
+      "score": 0
+    },
+    {
+      "source": "greenhouse",
+      "job_id": "8010058",
+      "title": "Senior Machine Learning Engineer, Reliability ",
+      "company": "roblox",
+      "location": "San Mateo, CA, United States",
+      "url": "https://careers.roblox.com/jobs/8010058?gh_jid=8010058",
+      "posted_at": "2026-07-20T18:34:45+00:00",
+      "first_seen_at": "2026-07-20T21:12:06.809933+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
+      "score": 0
+    },
+    {
+      "source": "greenhouse",
+      "job_id": "8025021",
+      "title": "Software Engineer, Data Engineering",
+      "company": "roblox",
+      "location": "San Mateo, CA, United States",
+      "url": "https://careers.roblox.com/jobs/8025021?gh_jid=8025021",
+      "posted_at": "2026-07-20T18:34:27+00:00",
+      "first_seen_at": "2026-07-20T21:12:06.809933+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
+      "score": 1
+    },
+    {
+      "source": "greenhouse",
+      "job_id": "8037082",
+      "title": "Senior / Principal Data Scientist - Discovery",
+      "company": "roblox",
+      "location": "San Mateo, CA, United States",
+      "url": "https://careers.roblox.com/jobs/8037082?gh_jid=8037082",
+      "posted_at": "2026-07-20T18:34:20+00:00",
+      "first_seen_at": "2026-07-20T21:12:06.809933+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
+      "score": 0
+    },
+    {
+      "source": "greenhouse",
+      "job_id": "7477577",
+      "title": "Senior Data Scientist - Growth Measurement",
+      "company": "roblox",
+      "location": "San Mateo, CA, United States",
+      "url": "https://careers.roblox.com/jobs/7477577?gh_jid=7477577",
+      "posted_at": "2026-07-20T18:32:50+00:00",
+      "first_seen_at": "2026-07-20T21:12:06.809933+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
+      "score": 0
+    },
+    {
+      "source": "greenhouse",
+      "job_id": "7739622",
+      "title": "Machine Learning Engineering Manager, Critical Harms",
+      "company": "roblox",
+      "location": "San Mateo, CA, United States",
+      "url": "https://careers.roblox.com/jobs/7739622?gh_jid=7739622",
+      "posted_at": "2026-07-20T18:32:31+00:00",
+      "first_seen_at": "2026-07-20T21:12:06.809933+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
+      "score": 1
+    },
+    {
+      "source": "greenhouse",
+      "job_id": "8073283",
+      "title": "Principal Machine Learning Engineer, Content Safety",
+      "company": "roblox",
+      "location": "San Mateo, CA, United States",
+      "url": "https://careers.roblox.com/jobs/8073283?gh_jid=8073283",
+      "posted_at": "2026-07-20T18:30:24+00:00",
+      "first_seen_at": "2026-07-20T21:12:06.809933+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
+      "score": 0
+    },
+    {
+      "source": "greenhouse",
+      "job_id": "7719651003",
+      "title": "Machine Learning Engineer II (Servicing ML)",
+      "company": "affirm",
+      "location": "Remote US",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7719651003",
+      "posted_at": "2026-07-20T18:25:09+00:00",
+      "first_seen_at": "2026-07-20T21:11:55.399597+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
+      "score": 4
+    },
+    {
+      "source": "greenhouse",
+      "job_id": "7719653003",
+      "title": "Machine Learning Engineer II (Servicing ML)",
+      "company": "affirm",
+      "location": "Remote Canada",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7719653003",
+      "posted_at": "2026-07-20T18:25:09+00:00",
+      "first_seen_at": "2026-07-20T21:11:55.399597+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
+      "score": 4
+    },
+    {
+      "source": "greenhouse",
+      "job_id": "7947434",
+      "title": "Senior Software Engineer - Scalable Machine Learning",
+      "company": "latitude",
+      "location": "Pittsburgh, PA, Palo Alto, CA, Detroit, MI",
+      "url": "https://job-boards.greenhouse.io/latitude/jobs/7947434",
+      "posted_at": "2026-07-20T18:23:16+00:00",
+      "first_seen_at": "2026-07-20T21:15:10.464225+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
+      "score": 0
+    },
+    {
+      "source": "greenhouse",
+      "job_id": "7979346",
+      "title": "Senior Software Engineer - Machine Learning - Multi-Object Tracking",
+      "company": "latitude",
+      "location": "Dearborn, Michigan, United States, Palo Alto, California, United States, Pittsburgh, PA, United States, Remote",
+      "url": "https://job-boards.greenhouse.io/latitude/jobs/7979346",
+      "posted_at": "2026-07-20T18:23:15+00:00",
+      "first_seen_at": "2026-07-20T21:15:10.464225+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
+      "score": 2
+    },
+    {
+      "source": "greenhouse",
+      "job_id": "7375459",
+      "title": "Senior / Staff Software Engineer- Unified Modeling (Machine Learning)",
+      "company": "latitude",
+      "location": "Palo Alto, CA, Pittsburgh, PA, Detroit, MI, Remote",
+      "url": "https://job-boards.greenhouse.io/latitude/jobs/7375459",
+      "posted_at": "2026-07-20T18:23:13+00:00",
+      "first_seen_at": "2026-07-20T21:15:10.464225+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
+      "score": 2
+    },
+    {
+      "source": "greenhouse",
+      "job_id": "7805102003",
+      "title": "Helpdesk Data Analyst",
+      "company": "crfamilyofcompanies",
+      "location": "Beavercreek, Ohio, United States",
+      "url": "https://job-boards.greenhouse.io/crfamilyofcompanies/jobs/7805102003",
+      "posted_at": "2026-07-20T18:15:38+00:00",
+      "first_seen_at": "2026-07-20T21:15:39.866223+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
+      "score": 1
+    },
+    {
+      "source": "greenhouse",
+      "job_id": "5286244008",
+      "title": "Data Scientist, Storefront",
+      "company": "quince",
+      "location": "Palo Alto, CA",
+      "url": "https://job-boards.greenhouse.io/quince/jobs/5286244008",
+      "posted_at": "2026-07-20T18:08:53+00:00",
+      "first_seen_at": "2026-07-20T21:13:51.841306+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
+      "score": 1
     },
     {
       "source": "greenhouse",
@@ -35,8 +1199,8 @@
       "location": "United States",
       "url": "https://www.plume.com/career-opportunities/?gh_jid=8638244002",
       "posted_at": "2026-07-20T18:03:53+00:00",
-      "first_seen_at": "2026-07-20T18:20:19.908829+00:00",
-      "last_seen_at": "2026-07-20T18:29:23.127660+00:00",
+      "first_seen_at": "2026-07-20T21:15:39.268819+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
       "score": 0
     },
     {
@@ -47,8 +1211,8 @@
       "location": "Raleigh, NC",
       "url": "https://job-boards.greenhouse.io/lucidsoftware/jobs/6017712004",
       "posted_at": "2026-07-20T17:54:53+00:00",
-      "first_seen_at": "2026-07-20T18:10:32.753663+00:00",
-      "last_seen_at": "2026-07-20T18:29:23.127660+00:00",
+      "first_seen_at": "2026-07-20T21:15:45.884856+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
       "score": 1
     },
     {
@@ -59,8 +1223,8 @@
       "location": "Salt Lake City, UT",
       "url": "https://job-boards.greenhouse.io/lucidsoftware/jobs/6017710004",
       "posted_at": "2026-07-20T17:54:52+00:00",
-      "first_seen_at": "2026-07-20T18:10:32.753663+00:00",
-      "last_seen_at": "2026-07-20T18:29:23.127660+00:00",
+      "first_seen_at": "2026-07-20T21:15:45.884856+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
       "score": 1
     },
     {
@@ -71,33 +1235,9 @@
       "location": "Remote - United States",
       "url": "https://boards.greenhouse.io/zuora/jobs/7711259?gh_jid=7711259",
       "posted_at": "2026-07-20T17:51:30+00:00",
-      "first_seen_at": "2026-07-20T18:01:45.886810+00:00",
-      "last_seen_at": "2026-07-20T18:29:23.127660+00:00",
+      "first_seen_at": "2026-07-20T21:11:24.789419+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
       "score": 3
-    },
-    {
-      "source": "greenhouse",
-      "job_id": "5364373008",
-      "title": "Data Scientist 2, Growth",
-      "company": "quince",
-      "location": "Palo Alto, CA",
-      "url": "https://job-boards.greenhouse.io/quince/jobs/5364373008",
-      "posted_at": "2026-07-20T17:26:38+00:00",
-      "first_seen_at": "2026-07-20T18:03:53.114208+00:00",
-      "last_seen_at": "2026-07-20T18:29:23.127660+00:00",
-      "score": 2
-    },
-    {
-      "source": "greenhouse",
-      "job_id": "8073283",
-      "title": "Principal Machine Learning Engineer, Content Safety",
-      "company": "roblox",
-      "location": "San Mateo, CA, United States",
-      "url": "https://careers.roblox.com/jobs/8073283?gh_jid=8073283",
-      "posted_at": "2026-07-20T17:24:05+00:00",
-      "first_seen_at": "2026-07-20T18:02:01.496503+00:00",
-      "last_seen_at": "2026-07-20T18:29:23.127660+00:00",
-      "score": 0
     },
     {
       "source": "lever",
@@ -107,8 +1247,8 @@
       "location": "Palos Verdes Estates, CA",
       "url": "https://jobs.lever.co/sqaservices/9d1fcea1-a664-4d50-9ebf-f18423b24d6d",
       "posted_at": "2026-07-20T17:17:29.849000+00:00",
-      "first_seen_at": "2026-07-20T18:28:05.536149+00:00",
-      "last_seen_at": "2026-07-20T18:29:23.127660+00:00",
+      "first_seen_at": "2026-07-20T21:17:04.783570+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
       "score": 1
     },
     {
@@ -119,8 +1259,8 @@
       "location": "Remote, US",
       "url": "https://job-boards.greenhouse.io/bloomerang/jobs/4716623005",
       "posted_at": "2026-07-20T17:10:01+00:00",
-      "first_seen_at": "2026-07-20T18:00:29.045607+00:00",
-      "last_seen_at": "2026-07-20T18:29:23.127660+00:00",
+      "first_seen_at": "2026-07-20T21:10:42.778265+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
       "score": 3
     },
     {
@@ -131,8 +1271,8 @@
       "location": "Remote - United States",
       "url": "https://job-boards.greenhouse.io/reddit/jobs/7729096",
       "posted_at": "2026-07-20T17:09:37+00:00",
-      "first_seen_at": "2026-07-20T17:59:50.645951+00:00",
-      "last_seen_at": "2026-07-20T18:29:23.127660+00:00",
+      "first_seen_at": "2026-07-20T21:10:57.275203+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
       "score": 2
     },
     {
@@ -143,8 +1283,8 @@
       "location": "US - Remote",
       "url": "https://job-boards.greenhouse.io/shifttechnology/jobs/5843676003",
       "posted_at": "2026-07-20T17:06:04+00:00",
-      "first_seen_at": "2026-07-20T18:02:26.095338+00:00",
-      "last_seen_at": "2026-07-20T18:29:23.127660+00:00",
+      "first_seen_at": "2026-07-20T21:12:30.836068+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
       "score": 4
     },
     {
@@ -155,8 +1295,8 @@
       "location": "Chicago, IL; Menlo Park, CA; New York, NY",
       "url": "https://boards.greenhouse.io/robinhood/jobs/8072766?t=gh_src=&gh_jid=8072766",
       "posted_at": "2026-07-20T17:00:42+00:00",
-      "first_seen_at": "2026-07-20T17:59:58.445671+00:00",
-      "last_seen_at": "2026-07-20T18:29:23.127660+00:00",
+      "first_seen_at": "2026-07-20T21:10:14.055690+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
       "score": 0
     },
     {
@@ -167,21 +1307,9 @@
       "location": "New York, NY",
       "url": "https://boards.greenhouse.io/point72/jobs/8472280002?gh_jid=8472280002",
       "posted_at": "2026-07-20T16:54:14+00:00",
-      "first_seen_at": "2026-07-20T17:59:45.279333+00:00",
-      "last_seen_at": "2026-07-20T18:29:23.127660+00:00",
+      "first_seen_at": "2026-07-20T21:10:02.601255+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
       "score": 1
-    },
-    {
-      "source": "greenhouse",
-      "job_id": "6116721004",
-      "title": "Senior Analytics Engineer",
-      "company": "redwoodmaterials",
-      "location": "San Francisco, California, United States",
-      "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6116721004?gh_jid=6116721004",
-      "posted_at": "2026-07-20T16:47:33+00:00",
-      "first_seen_at": "2026-07-20T18:02:27.009544+00:00",
-      "last_seen_at": "2026-07-20T18:29:23.127660+00:00",
-      "score": 0
     },
     {
       "source": "greenhouse",
@@ -191,8 +1319,8 @@
       "location": "Boston, MA",
       "url": "https://job-boards.greenhouse.io/simplisafe/jobs/8069415",
       "posted_at": "2026-07-20T16:44:39+00:00",
-      "first_seen_at": "2026-07-20T18:02:41.092915+00:00",
-      "last_seen_at": "2026-07-20T18:29:23.127660+00:00",
+      "first_seen_at": "2026-07-20T21:13:03.825856+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
       "score": 0
     },
     {
@@ -203,57 +1331,9 @@
       "location": "US - Remote",
       "url": "https://job-boards.greenhouse.io/shifttechnology/jobs/7806205003",
       "posted_at": "2026-07-20T16:33:37+00:00",
-      "first_seen_at": "2026-07-20T18:02:26.095338+00:00",
-      "last_seen_at": "2026-07-20T18:29:23.127660+00:00",
+      "first_seen_at": "2026-07-20T21:12:30.836068+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
       "score": 2
-    },
-    {
-      "source": "greenhouse",
-      "job_id": "5165240008",
-      "title": "AI Engineer",
-      "company": "trueclassicteesllc",
-      "location": "Calabasas, CA",
-      "url": "https://job-boards.greenhouse.io/trueclassicteesllc/jobs/5165240008",
-      "posted_at": "2026-07-20T16:20:45+00:00",
-      "first_seen_at": "2026-07-20T18:04:08.715580+00:00",
-      "last_seen_at": "2026-07-20T18:29:23.127660+00:00",
-      "score": 1
-    },
-    {
-      "source": "greenhouse",
-      "job_id": "5238831008",
-      "title": "Data & Analytics Engineer",
-      "company": "trueclassicteesllc",
-      "location": "Calabasas, CA",
-      "url": "https://job-boards.greenhouse.io/trueclassicteesllc/jobs/5238831008",
-      "posted_at": "2026-07-20T16:20:45+00:00",
-      "first_seen_at": "2026-07-20T18:04:08.715580+00:00",
-      "last_seen_at": "2026-07-20T18:29:23.127660+00:00",
-      "score": 1
-    },
-    {
-      "source": "greenhouse",
-      "job_id": "7650739003",
-      "title": "Research Engineer",
-      "company": "verisign",
-      "location": "Reston,Virginia,United States",
-      "url": "https://job-boards.greenhouse.io/verisign/jobs/7650739003",
-      "posted_at": "2026-07-20T16:00:57+00:00",
-      "first_seen_at": "2026-07-20T18:00:14.050343+00:00",
-      "last_seen_at": "2026-07-20T18:29:23.127660+00:00",
-      "score": 1
-    },
-    {
-      "source": "greenhouse",
-      "job_id": "7636398003",
-      "title": "Sr Research Engineer ",
-      "company": "verisign",
-      "location": "Reston,Virginia,United States",
-      "url": "https://job-boards.greenhouse.io/verisign/jobs/7636398003",
-      "posted_at": "2026-07-20T16:00:56+00:00",
-      "first_seen_at": "2026-07-20T18:00:14.050343+00:00",
-      "last_seen_at": "2026-07-20T18:29:23.127660+00:00",
-      "score": 1
     },
     {
       "source": "greenhouse",
@@ -263,8 +1343,8 @@
       "location": "Austin, Texas, United States",
       "url": "https://boards.greenhouse.io/rdccareers/jobs/7807919003?gh_jid=7807919003",
       "posted_at": "2026-07-20T15:59:02+00:00",
-      "first_seen_at": "2026-07-20T18:00:21.255793+00:00",
-      "last_seen_at": "2026-07-20T18:29:23.127660+00:00",
+      "first_seen_at": "2026-07-20T21:10:43.978874+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
       "score": 1
     },
     {
@@ -275,8 +1355,8 @@
       "location": "Austin, Texas, United States; Chicago; Palo Alto, California, United States",
       "url": "https://job-boards.greenhouse.io/upwork/jobs/7715338003",
       "posted_at": "2026-07-20T15:47:33+00:00",
-      "first_seen_at": "2026-07-20T18:20:03.104858+00:00",
-      "last_seen_at": "2026-07-20T18:29:23.127660+00:00",
+      "first_seen_at": "2026-07-20T21:15:38.666496+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
       "score": 0
     },
     {
@@ -287,8 +1367,8 @@
       "location": "Newark, CA",
       "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/4620390007",
       "posted_at": "2026-07-20T15:42:47+00:00",
-      "first_seen_at": "2026-07-20T18:02:42.298686+00:00",
-      "last_seen_at": "2026-07-20T18:29:23.127660+00:00",
+      "first_seen_at": "2026-07-20T21:13:43.446627+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
       "score": 0
     },
     {
@@ -299,21 +1379,9 @@
       "location": "United States",
       "url": "https://www.guild.com/open-positions-at-guild?gh_jid=7746266",
       "posted_at": "2026-07-20T15:41:27+00:00",
-      "first_seen_at": "2026-07-20T18:04:25.521098+00:00",
-      "last_seen_at": "2026-07-20T18:29:23.127660+00:00",
+      "first_seen_at": "2026-07-20T21:14:43.454817+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
       "score": 0
-    },
-    {
-      "source": "greenhouse",
-      "job_id": "5635843004",
-      "title": "Data Analyst",
-      "company": "zyngacareers",
-      "location": "Austin, TX; Chicago, IL",
-      "url": "https://job-boards.greenhouse.io/zyngacareers/jobs/5635843004",
-      "posted_at": "2026-07-20T15:27:53+00:00",
-      "first_seen_at": "2026-07-20T18:16:27.904604+00:00",
-      "last_seen_at": "2026-07-20T18:29:23.127660+00:00",
-      "score": 1
     },
     {
       "source": "greenhouse",
@@ -323,8 +1391,8 @@
       "location": "Chicago, Illinois, United States",
       "url": "https://job-boards.greenhouse.io/greenthumbindustries/jobs/7918277",
       "posted_at": "2026-07-20T15:07:33+00:00",
-      "first_seen_at": "2026-07-20T18:01:01.472581+00:00",
-      "last_seen_at": "2026-07-20T18:29:23.127660+00:00",
+      "first_seen_at": "2026-07-20T21:11:12.791017+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
       "score": 1
     },
     {
@@ -335,8 +1403,8 @@
       "location": "Bay Area, CA, United States of America",
       "url": "http://block.xyz/careers/jobs/5318944008?gh_jid=5318944008",
       "posted_at": "2026-07-20T14:57:03+00:00",
-      "first_seen_at": "2026-07-20T18:07:02.162290+00:00",
-      "last_seen_at": "2026-07-20T18:29:23.127660+00:00",
+      "first_seen_at": "2026-07-20T21:15:46.552126+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
       "score": 1
     },
     {
@@ -347,8 +1415,8 @@
       "location": "Austria (remote)",
       "url": "https://job-boards.greenhouse.io/jumio/jobs/4713536005",
       "posted_at": "2026-07-20T14:50:45+00:00",
-      "first_seen_at": "2026-07-20T18:05:20.738326+00:00",
-      "last_seen_at": "2026-07-20T18:29:23.127660+00:00",
+      "first_seen_at": "2026-07-20T21:15:33.872197+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
       "score": 3
     },
     {
@@ -359,8 +1427,8 @@
       "location": "Remote - India",
       "url": "https://job-boards.greenhouse.io/twilio/jobs/7699243",
       "posted_at": "2026-07-20T14:34:21+00:00",
-      "first_seen_at": "2026-07-20T17:59:45.836515+00:00",
-      "last_seen_at": "2026-07-20T18:29:23.127660+00:00",
+      "first_seen_at": "2026-07-20T21:10:01.996225+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
       "score": 2
     },
     {
@@ -371,8 +1439,8 @@
       "location": "Columbus, Ohio or Remote",
       "url": "https://boards.greenhouse.io/pathrobotics/jobs/8632104002?gh_jid=8632104002",
       "posted_at": "2026-07-20T14:31:27+00:00",
-      "first_seen_at": "2026-07-20T18:00:35.060423+00:00",
-      "last_seen_at": "2026-07-20T18:29:23.127660+00:00",
+      "first_seen_at": "2026-07-20T21:10:52.979829+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
       "score": 2
     },
     {
@@ -383,8 +1451,8 @@
       "location": "Remote - India",
       "url": "https://job-boards.greenhouse.io/twilio/jobs/7972646",
       "posted_at": "2026-07-20T14:30:55+00:00",
-      "first_seen_at": "2026-07-20T17:59:45.836515+00:00",
-      "last_seen_at": "2026-07-20T18:29:23.127660+00:00",
+      "first_seen_at": "2026-07-20T21:10:01.996225+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
       "score": 2
     },
     {
@@ -395,8 +1463,8 @@
       "location": "Remote - Ireland",
       "url": "https://job-boards.greenhouse.io/twilio/jobs/7996774",
       "posted_at": "2026-07-20T14:28:43+00:00",
-      "first_seen_at": "2026-07-20T17:59:45.836515+00:00",
-      "last_seen_at": "2026-07-20T18:29:23.127660+00:00",
+      "first_seen_at": "2026-07-20T21:10:01.996225+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
       "score": 3
     },
     {
@@ -407,8 +1475,8 @@
       "location": "Remote - Spain",
       "url": "https://job-boards.greenhouse.io/twilio/jobs/8007455",
       "posted_at": "2026-07-20T14:28:03+00:00",
-      "first_seen_at": "2026-07-20T17:59:45.836515+00:00",
-      "last_seen_at": "2026-07-20T18:29:23.127660+00:00",
+      "first_seen_at": "2026-07-20T21:10:01.996225+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
       "score": 3
     },
     {
@@ -419,8 +1487,8 @@
       "location": "India (remote)",
       "url": "https://job-boards.greenhouse.io/jumio/jobs/4713139005",
       "posted_at": "2026-07-20T14:11:35+00:00",
-      "first_seen_at": "2026-07-20T18:05:20.738326+00:00",
-      "last_seen_at": "2026-07-20T18:29:23.127660+00:00",
+      "first_seen_at": "2026-07-20T21:15:33.872197+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
       "score": 3
     },
     {
@@ -431,8 +1499,8 @@
       "location": "Fully Remote - Based in USA",
       "url": "https://job-boards.greenhouse.io/bluewaterthinking/jobs/4684767006",
       "posted_at": "2026-07-20T14:03:11+00:00",
-      "first_seen_at": "2026-07-20T18:05:18.334015+00:00",
-      "last_seen_at": "2026-07-20T18:29:23.127660+00:00",
+      "first_seen_at": "2026-07-20T21:15:41.070086+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
       "score": 2
     },
     {
@@ -443,8 +1511,8 @@
       "location": "Remote, Canada",
       "url": "http://www.zesty.ai/open-jobs?gh_jid=7798001003",
       "posted_at": "2026-07-20T14:00:18+00:00",
-      "first_seen_at": "2026-07-20T18:02:33.284344+00:00",
-      "last_seen_at": "2026-07-20T18:29:23.127660+00:00",
+      "first_seen_at": "2026-07-20T21:13:12.822843+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
       "score": 2
     },
     {
@@ -455,8 +1523,8 @@
       "location": "Remote (Canada)",
       "url": "http://www.zesty.ai/open-jobs?gh_jid=7809591003",
       "posted_at": "2026-07-20T13:58:26+00:00",
-      "first_seen_at": "2026-07-20T18:02:33.284344+00:00",
-      "last_seen_at": "2026-07-20T18:29:23.127660+00:00",
+      "first_seen_at": "2026-07-20T21:13:12.822843+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
       "score": 3
     },
     {
@@ -467,8 +1535,8 @@
       "location": "Remote, USA",
       "url": "https://careers.toasttab.com/jobs?gh_jid=7579646",
       "posted_at": "2026-07-20T13:50:12+00:00",
-      "first_seen_at": "2026-07-20T17:59:32.644953+00:00",
-      "last_seen_at": "2026-07-20T18:29:23.127660+00:00",
+      "first_seen_at": "2026-07-20T21:09:57.768431+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
       "score": 2
     },
     {
@@ -479,8 +1547,8 @@
       "location": "United States",
       "url": "https://www.bill.com/job?6103927004&gh_jid=6103927004",
       "posted_at": "2026-07-20T13:39:11+00:00",
-      "first_seen_at": "2026-07-20T18:02:47.692007+00:00",
-      "last_seen_at": "2026-07-20T18:29:23.127660+00:00",
+      "first_seen_at": "2026-07-20T21:13:13.481871+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
       "score": 0
     },
     {
@@ -491,8 +1559,8 @@
       "location": "Remote, USA",
       "url": "https://careers.toasttab.com/jobs?gh_jid=7984730",
       "posted_at": "2026-07-20T13:35:38+00:00",
-      "first_seen_at": "2026-07-20T17:59:32.644953+00:00",
-      "last_seen_at": "2026-07-20T18:29:23.127660+00:00",
+      "first_seen_at": "2026-07-20T21:09:57.768431+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
       "score": 4
     },
     {
@@ -503,8 +1571,8 @@
       "location": "Boston, MA",
       "url": "https://careers.toasttab.com/jobs?gh_jid=7951246",
       "posted_at": "2026-07-20T13:35:38+00:00",
-      "first_seen_at": "2026-07-20T17:59:32.644953+00:00",
-      "last_seen_at": "2026-07-20T18:29:23.127660+00:00",
+      "first_seen_at": "2026-07-20T21:09:57.768431+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
       "score": 1
     },
     {
@@ -515,8 +1583,8 @@
       "location": "New York, NY",
       "url": "https://careers.toasttab.com/jobs?gh_jid=8008019",
       "posted_at": "2026-07-20T13:35:38+00:00",
-      "first_seen_at": "2026-07-20T17:59:32.644953+00:00",
-      "last_seen_at": "2026-07-20T18:29:23.127660+00:00",
+      "first_seen_at": "2026-07-20T21:09:57.768431+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
       "score": 1
     },
     {
@@ -527,8 +1595,8 @@
       "location": "Remote, USA",
       "url": "https://careers.toasttab.com/jobs?gh_jid=8048663",
       "posted_at": "2026-07-20T13:35:38+00:00",
-      "first_seen_at": "2026-07-20T17:59:32.644953+00:00",
-      "last_seen_at": "2026-07-20T18:29:23.127660+00:00",
+      "first_seen_at": "2026-07-20T21:09:57.768431+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
       "score": 2
     },
     {
@@ -539,8 +1607,8 @@
       "location": "Remote, USA",
       "url": "https://careers.toasttab.com/jobs?gh_jid=8029049",
       "posted_at": "2026-07-20T13:35:38+00:00",
-      "first_seen_at": "2026-07-20T17:59:32.644953+00:00",
-      "last_seen_at": "2026-07-20T18:29:23.127660+00:00",
+      "first_seen_at": "2026-07-20T21:09:57.768431+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
       "score": 2
     },
     {
@@ -551,8 +1619,8 @@
       "location": "Remote, US",
       "url": "https://careers.toasttab.com/jobs?gh_jid=8031086",
       "posted_at": "2026-07-20T13:35:38+00:00",
-      "first_seen_at": "2026-07-20T17:59:32.644953+00:00",
-      "last_seen_at": "2026-07-20T18:29:23.127660+00:00",
+      "first_seen_at": "2026-07-20T21:09:57.768431+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
       "score": 2
     },
     {
@@ -563,20 +1631,8 @@
       "location": "McCarran, NV",
       "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6008522004?gh_jid=6008522004",
       "posted_at": "2026-07-20T13:02:25+00:00",
-      "first_seen_at": "2026-07-20T18:02:27.009544+00:00",
-      "last_seen_at": "2026-07-20T18:29:23.127660+00:00",
-      "score": 1
-    },
-    {
-      "source": "greenhouse",
-      "job_id": "4674621006",
-      "title": "AI/ML Engineer",
-      "company": "accenturefederalservices",
-      "location": "Arlington, VA",
-      "url": "https://boards.greenhouse.io/accenturefederalservices/jobs/4674621006?gh_jid=4674621006",
-      "posted_at": "2026-07-20T12:47:02+00:00",
-      "first_seen_at": "2026-07-20T18:02:05.101215+00:00",
-      "last_seen_at": "2026-07-20T18:29:23.127660+00:00",
+      "first_seen_at": "2026-07-20T21:12:48.812373+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
       "score": 1
     },
     {
@@ -587,8 +1643,8 @@
       "location": "Remote - United States",
       "url": "https://job-boards.greenhouse.io/reddit/jobs/8072046",
       "posted_at": "2026-07-20T12:26:58+00:00",
-      "first_seen_at": "2026-07-20T17:59:50.645951+00:00",
-      "last_seen_at": "2026-07-20T18:29:23.127660+00:00",
+      "first_seen_at": "2026-07-20T21:10:57.275203+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
       "score": 2
     },
     {
@@ -599,8 +1655,8 @@
       "location": "Remote - United States",
       "url": "https://job-boards.greenhouse.io/reddit/jobs/8072076",
       "posted_at": "2026-07-20T12:26:58+00:00",
-      "first_seen_at": "2026-07-20T17:59:50.645951+00:00",
-      "last_seen_at": "2026-07-20T18:29:23.127660+00:00",
+      "first_seen_at": "2026-07-20T21:10:57.275203+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
       "score": 2
     },
     {
@@ -611,8 +1667,8 @@
       "location": "Remote - United States",
       "url": "https://job-boards.greenhouse.io/reddit/jobs/8008648",
       "posted_at": "2026-07-20T12:26:57+00:00",
-      "first_seen_at": "2026-07-20T17:59:50.645951+00:00",
-      "last_seen_at": "2026-07-20T18:29:23.127660+00:00",
+      "first_seen_at": "2026-07-20T21:10:57.275203+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
       "score": 2
     },
     {
@@ -623,8 +1679,8 @@
       "location": "Remote - United States",
       "url": "https://job-boards.greenhouse.io/reddit/jobs/7974605",
       "posted_at": "2026-07-20T12:26:57+00:00",
-      "first_seen_at": "2026-07-20T17:59:50.645951+00:00",
-      "last_seen_at": "2026-07-20T18:29:23.127660+00:00",
+      "first_seen_at": "2026-07-20T21:10:57.275203+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
       "score": 2
     },
     {
@@ -635,8 +1691,8 @@
       "location": "Remote - Ontario, Canada",
       "url": "https://job-boards.greenhouse.io/reddit/jobs/7974647",
       "posted_at": "2026-07-20T12:26:57+00:00",
-      "first_seen_at": "2026-07-20T17:59:50.645951+00:00",
-      "last_seen_at": "2026-07-20T18:29:23.127660+00:00",
+      "first_seen_at": "2026-07-20T21:10:57.275203+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
       "score": 2
     },
     {
@@ -647,20 +1703,8 @@
       "location": "Remote - United States",
       "url": "https://job-boards.greenhouse.io/reddit/jobs/8029120",
       "posted_at": "2026-07-20T12:26:56+00:00",
-      "first_seen_at": "2026-07-20T17:59:50.645951+00:00",
-      "last_seen_at": "2026-07-20T18:29:23.127660+00:00",
-      "score": 3
-    },
-    {
-      "source": "greenhouse",
-      "job_id": "8022937",
-      "title": "Machine Learning Systems Engineer, Ads ML Platform",
-      "company": "reddit",
-      "location": "Remote - United Kingdom",
-      "url": "https://job-boards.greenhouse.io/reddit/jobs/8022937",
-      "posted_at": "2026-07-20T12:26:54+00:00",
-      "first_seen_at": "2026-07-20T17:59:50.645951+00:00",
-      "last_seen_at": "2026-07-20T18:29:23.127660+00:00",
+      "first_seen_at": "2026-07-20T21:10:57.275203+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
       "score": 3
     },
     {
@@ -671,8 +1715,20 @@
       "location": "Remote - The Netherlands",
       "url": "https://job-boards.greenhouse.io/reddit/jobs/8022942",
       "posted_at": "2026-07-20T12:26:54+00:00",
-      "first_seen_at": "2026-07-20T17:59:50.645951+00:00",
-      "last_seen_at": "2026-07-20T18:29:23.127660+00:00",
+      "first_seen_at": "2026-07-20T21:10:57.275203+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
+      "score": 3
+    },
+    {
+      "source": "greenhouse",
+      "job_id": "8022937",
+      "title": "Machine Learning Systems Engineer, Ads ML Platform",
+      "company": "reddit",
+      "location": "Remote - United Kingdom",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/8022937",
+      "posted_at": "2026-07-20T12:26:54+00:00",
+      "first_seen_at": "2026-07-20T21:10:57.275203+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
       "score": 3
     },
     {
@@ -683,8 +1739,8 @@
       "location": "Remote - United States",
       "url": "https://job-boards.greenhouse.io/reddit/jobs/8022136",
       "posted_at": "2026-07-20T12:26:52+00:00",
-      "first_seen_at": "2026-07-20T17:59:50.645951+00:00",
-      "last_seen_at": "2026-07-20T18:29:23.127660+00:00",
+      "first_seen_at": "2026-07-20T21:10:57.275203+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
       "score": 2
     },
     {
@@ -695,8 +1751,8 @@
       "location": "Remote",
       "url": "https://www.refurbed.de/jobs/?gh_jid=4906140101",
       "posted_at": "2026-07-20T12:18:00+00:00",
-      "first_seen_at": "2026-07-20T18:02:32.690738+00:00",
-      "last_seen_at": "2026-07-20T18:29:23.127660+00:00",
+      "first_seen_at": "2026-07-20T21:12:48.207659+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
       "score": 2
     },
     {
@@ -707,8 +1763,8 @@
       "location": "New York, New York, United States",
       "url": "https://job-boards.greenhouse.io/schonfeld/jobs/7544203",
       "posted_at": "2026-07-20T12:17:37+00:00",
-      "first_seen_at": "2026-07-20T18:03:29.110171+00:00",
-      "last_seen_at": "2026-07-20T18:29:23.127660+00:00",
+      "first_seen_at": "2026-07-20T21:14:44.054378+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
       "score": 1
     },
     {
@@ -719,8 +1775,8 @@
       "location": "United States ",
       "url": "https://job-boards.greenhouse.io/babylist/jobs/6100946004",
       "posted_at": "2026-07-20T12:01:44+00:00",
-      "first_seen_at": "2026-07-20T18:03:47.717213+00:00",
-      "last_seen_at": "2026-07-20T18:29:23.127660+00:00",
+      "first_seen_at": "2026-07-20T21:14:08.650473+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
       "score": 0
     },
     {
@@ -731,8 +1787,8 @@
       "location": "United States",
       "url": "https://job-boards.greenhouse.io/shopltk/jobs/7671051003",
       "posted_at": "2026-07-20T11:01:47+00:00",
-      "first_seen_at": "2026-07-20T18:03:21.300027+00:00",
-      "last_seen_at": "2026-07-20T18:29:23.127660+00:00",
+      "first_seen_at": "2026-07-20T21:13:50.646864+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
       "score": 1
     },
     {
@@ -743,8 +1799,8 @@
       "location": "Costa Mesa, California, United States",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/4991618007?gh_jid=4991618007",
       "posted_at": "2026-07-20T09:21:56+00:00",
-      "first_seen_at": "2026-07-20T18:03:29.777168+00:00",
-      "last_seen_at": "2026-07-20T18:29:23.127660+00:00",
+      "first_seen_at": "2026-07-20T21:13:48.310417+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
       "score": 1
     },
     {
@@ -755,261 +1811,9 @@
       "location": "Remote, Lagos, Nigeria",
       "url": "https://job-boards.eu.greenhouse.io/moniepoint/jobs/4736464101",
       "posted_at": "2026-07-20T07:39:12+00:00",
-      "first_seen_at": "2026-07-20T18:00:05.056246+00:00",
-      "last_seen_at": "2026-07-20T18:29:23.127660+00:00",
+      "first_seen_at": "2026-07-20T21:10:39.779095+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
       "score": 2
-    },
-    {
-      "source": "greenhouse",
-      "job_id": "7931911",
-      "title": "Distinguished Machine Learning Engineer - Safety",
-      "company": "roblox",
-      "location": "San Mateo, CA, United States",
-      "url": "https://careers.roblox.com/jobs/7931911?gh_jid=7931911",
-      "posted_at": "2026-07-20T06:44:19+00:00",
-      "first_seen_at": "2026-07-20T18:02:01.496503+00:00",
-      "last_seen_at": "2026-07-20T18:29:23.127660+00:00",
-      "score": 1
-    },
-    {
-      "source": "greenhouse",
-      "job_id": "7332473",
-      "title": "Distinguished Engineer, Machine Learning Systems \u2013 Economy",
-      "company": "roblox",
-      "location": "San Mateo, CA, United States",
-      "url": "https://careers.roblox.com/jobs/7332473?gh_jid=7332473",
-      "posted_at": "2026-07-20T06:43:49+00:00",
-      "first_seen_at": "2026-07-20T18:02:01.496503+00:00",
-      "last_seen_at": "2026-07-20T18:29:23.127660+00:00",
-      "score": 1
-    },
-    {
-      "source": "greenhouse",
-      "job_id": "7411636",
-      "title": "Principal Data Scientist - Safety",
-      "company": "roblox",
-      "location": "San Mateo, CA, United States",
-      "url": "https://careers.roblox.com/jobs/7411636?gh_jid=7411636",
-      "posted_at": "2026-07-20T06:43:29+00:00",
-      "first_seen_at": "2026-07-20T18:02:01.496503+00:00",
-      "last_seen_at": "2026-07-20T18:29:23.127660+00:00",
-      "score": 0
-    },
-    {
-      "source": "greenhouse",
-      "job_id": "7249513",
-      "title": "Senior Machine Learning - Avatar, Core AI",
-      "company": "roblox",
-      "location": "San Mateo, CA, United States",
-      "url": "https://careers.roblox.com/jobs/7249513?gh_jid=7249513",
-      "posted_at": "2026-07-20T06:43:16+00:00",
-      "first_seen_at": "2026-07-20T18:02:01.496503+00:00",
-      "last_seen_at": "2026-07-20T18:29:23.127660+00:00",
-      "score": -1
-    },
-    {
-      "source": "greenhouse",
-      "job_id": "8001369",
-      "title": "Senior Machine Learning Engineer, User Behavior",
-      "company": "roblox",
-      "location": "San Mateo, CA, United States",
-      "url": "https://careers.roblox.com/jobs/8001369?gh_jid=8001369",
-      "posted_at": "2026-07-20T06:43:14+00:00",
-      "first_seen_at": "2026-07-20T18:02:01.496503+00:00",
-      "last_seen_at": "2026-07-20T18:29:23.127660+00:00",
-      "score": 0
-    },
-    {
-      "source": "greenhouse",
-      "job_id": "7463634",
-      "title": "[2026] Data Scientist, Social ",
-      "company": "roblox",
-      "location": "San Mateo, CA, United States",
-      "url": "https://careers.roblox.com/jobs/7463634?gh_jid=7463634",
-      "posted_at": "2026-07-20T06:43:12+00:00",
-      "first_seen_at": "2026-07-20T18:02:01.496503+00:00",
-      "last_seen_at": "2026-07-20T18:29:23.127660+00:00",
-      "score": 1
-    },
-    {
-      "source": "greenhouse",
-      "job_id": "7351220",
-      "title": "Senior Machine Learning Engineer, Ads",
-      "company": "roblox",
-      "location": "San Mateo, CA, United States",
-      "url": "https://careers.roblox.com/jobs/7351220?gh_jid=7351220",
-      "posted_at": "2026-07-20T06:43:08+00:00",
-      "first_seen_at": "2026-07-20T18:02:01.496503+00:00",
-      "last_seen_at": "2026-07-20T18:29:23.127660+00:00",
-      "score": 0
-    },
-    {
-      "source": "greenhouse",
-      "job_id": "7629843",
-      "title": "Principal Machine Learning Engineer, Embodied AI and Smart NPCs",
-      "company": "roblox",
-      "location": "San Mateo, CA, United States",
-      "url": "https://careers.roblox.com/jobs/7629843?gh_jid=7629843",
-      "posted_at": "2026-07-20T06:40:45+00:00",
-      "first_seen_at": "2026-07-20T18:02:01.496503+00:00",
-      "last_seen_at": "2026-07-20T18:29:23.127660+00:00",
-      "score": 0
-    },
-    {
-      "source": "greenhouse",
-      "job_id": "7655346",
-      "title": "Principal/Senior Machine Learning Scientist - Search and Discovery ",
-      "company": "roblox",
-      "location": "San Mateo, CA, United States",
-      "url": "https://careers.roblox.com/jobs/7655346?gh_jid=7655346",
-      "posted_at": "2026-07-20T06:40:28+00:00",
-      "first_seen_at": "2026-07-20T18:02:01.496503+00:00",
-      "last_seen_at": "2026-07-20T18:29:23.127660+00:00",
-      "score": 0
-    },
-    {
-      "source": "greenhouse",
-      "job_id": "7822736",
-      "title": "Senior Data Scientist - Machine Intelligence (Creator Services)",
-      "company": "roblox",
-      "location": "San Mateo, CA, United States",
-      "url": "https://careers.roblox.com/jobs/7822736?gh_jid=7822736",
-      "posted_at": "2026-07-20T06:39:14+00:00",
-      "first_seen_at": "2026-07-20T18:02:01.496503+00:00",
-      "last_seen_at": "2026-07-20T18:29:23.127660+00:00",
-      "score": 0
-    },
-    {
-      "source": "greenhouse",
-      "job_id": "8047877",
-      "title": "Senior Machine Learning Engineering Manager, Safety AI Systems",
-      "company": "roblox",
-      "location": "San Mateo, CA, United States",
-      "url": "https://careers.roblox.com/jobs/8047877?gh_jid=8047877",
-      "posted_at": "2026-07-20T06:38:58+00:00",
-      "first_seen_at": "2026-07-20T18:02:01.496503+00:00",
-      "last_seen_at": "2026-07-20T18:29:23.127660+00:00",
-      "score": 0
-    },
-    {
-      "source": "greenhouse",
-      "job_id": "7848812",
-      "title": "Senior Data Scientist, Engine Systems",
-      "company": "roblox",
-      "location": "San Mateo, CA, United States",
-      "url": "https://careers.roblox.com/jobs/7848812?gh_jid=7848812",
-      "posted_at": "2026-07-20T06:37:56+00:00",
-      "first_seen_at": "2026-07-20T18:02:01.496503+00:00",
-      "last_seen_at": "2026-07-20T18:29:23.127660+00:00",
-      "score": 0
-    },
-    {
-      "source": "greenhouse",
-      "job_id": "7950872",
-      "title": "Senior Machine Learning Scientist",
-      "company": "roblox",
-      "location": "San Mateo, CA, United States",
-      "url": "https://careers.roblox.com/jobs/7950872?gh_jid=7950872",
-      "posted_at": "2026-07-20T06:37:44+00:00",
-      "first_seen_at": "2026-07-20T18:02:01.496503+00:00",
-      "last_seen_at": "2026-07-20T18:29:23.127660+00:00",
-      "score": 0
-    },
-    {
-      "source": "greenhouse",
-      "job_id": "7943933",
-      "title": "Senior Machine Learning Engineer, GenAI Data",
-      "company": "roblox",
-      "location": "San Mateo, CA, United States",
-      "url": "https://careers.roblox.com/jobs/7943933?gh_jid=7943933",
-      "posted_at": "2026-07-20T06:36:12+00:00",
-      "first_seen_at": "2026-07-20T18:02:01.496503+00:00",
-      "last_seen_at": "2026-07-20T18:29:23.127660+00:00",
-      "score": 0
-    },
-    {
-      "source": "greenhouse",
-      "job_id": "7977798",
-      "title": "Senior Data Scientist - Family Experience",
-      "company": "roblox",
-      "location": "San Mateo, CA, United States",
-      "url": "https://careers.roblox.com/jobs/7977798?gh_jid=7977798",
-      "posted_at": "2026-07-20T06:35:21+00:00",
-      "first_seen_at": "2026-07-20T18:02:01.496503+00:00",
-      "last_seen_at": "2026-07-20T18:29:23.127660+00:00",
-      "score": 0
-    },
-    {
-      "source": "greenhouse",
-      "job_id": "7977682",
-      "title": "Senior Data Scientist - Consumer Frontend",
-      "company": "roblox",
-      "location": "San Mateo, CA, United States",
-      "url": "https://careers.roblox.com/jobs/7977682?gh_jid=7977682",
-      "posted_at": "2026-07-20T06:35:13+00:00",
-      "first_seen_at": "2026-07-20T18:02:01.496503+00:00",
-      "last_seen_at": "2026-07-20T18:29:23.127660+00:00",
-      "score": 0
-    },
-    {
-      "source": "greenhouse",
-      "job_id": "8010058",
-      "title": "Senior Machine Learning Engineer, Reliability ",
-      "company": "roblox",
-      "location": "San Mateo, CA, United States",
-      "url": "https://careers.roblox.com/jobs/8010058?gh_jid=8010058",
-      "posted_at": "2026-07-20T06:34:19+00:00",
-      "first_seen_at": "2026-07-20T18:02:01.496503+00:00",
-      "last_seen_at": "2026-07-20T18:29:23.127660+00:00",
-      "score": 0
-    },
-    {
-      "source": "greenhouse",
-      "job_id": "8025021",
-      "title": "Software Engineer, Data Engineering",
-      "company": "roblox",
-      "location": "San Mateo, CA, United States",
-      "url": "https://careers.roblox.com/jobs/8025021?gh_jid=8025021",
-      "posted_at": "2026-07-20T06:34:00+00:00",
-      "first_seen_at": "2026-07-20T18:02:01.496503+00:00",
-      "last_seen_at": "2026-07-20T18:29:23.127660+00:00",
-      "score": 1
-    },
-    {
-      "source": "greenhouse",
-      "job_id": "8037082",
-      "title": "Senior / Principal Data Scientist - Discovery",
-      "company": "roblox",
-      "location": "San Mateo, CA, United States",
-      "url": "https://careers.roblox.com/jobs/8037082?gh_jid=8037082",
-      "posted_at": "2026-07-20T06:33:52+00:00",
-      "first_seen_at": "2026-07-20T18:02:01.496503+00:00",
-      "last_seen_at": "2026-07-20T18:29:23.127660+00:00",
-      "score": 0
-    },
-    {
-      "source": "greenhouse",
-      "job_id": "7477577",
-      "title": "Senior Data Scientist - Growth Measurement",
-      "company": "roblox",
-      "location": "San Mateo, CA, United States",
-      "url": "https://careers.roblox.com/jobs/7477577?gh_jid=7477577",
-      "posted_at": "2026-07-20T06:32:27+00:00",
-      "first_seen_at": "2026-07-20T18:02:01.496503+00:00",
-      "last_seen_at": "2026-07-20T18:29:23.127660+00:00",
-      "score": 0
-    },
-    {
-      "source": "greenhouse",
-      "job_id": "7739622",
-      "title": "Machine Learning Engineering Manager, Critical Harms",
-      "company": "roblox",
-      "location": "San Mateo, CA, United States",
-      "url": "https://careers.roblox.com/jobs/7739622?gh_jid=7739622",
-      "posted_at": "2026-07-20T06:32:11+00:00",
-      "first_seen_at": "2026-07-20T18:02:01.496503+00:00",
-      "last_seen_at": "2026-07-20T18:29:23.127660+00:00",
-      "score": 1
     },
     {
       "source": "lever",
@@ -1019,8 +1823,8 @@
       "location": "United States",
       "url": "https://jobs.lever.co/gohighlevel/0129e5bc-74e4-4f7c-9983-891da20542e8",
       "posted_at": "2026-07-20T05:51:43.338000+00:00",
-      "first_seen_at": "2026-07-20T18:06:32.427570+00:00",
-      "last_seen_at": "2026-07-20T18:29:23.127660+00:00",
+      "first_seen_at": "2026-07-20T21:17:05.332910+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
       "score": 0
     },
     {
@@ -1031,8 +1835,8 @@
       "location": "Hawthorne, CA",
       "url": "https://job-boards.greenhouse.io/sti/jobs/5363877008",
       "posted_at": "2026-07-20T05:04:27+00:00",
-      "first_seen_at": "2026-07-20T18:02:33.888147+00:00",
-      "last_seen_at": "2026-07-20T18:29:23.127660+00:00",
+      "first_seen_at": "2026-07-20T21:12:52.418285+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
       "score": 1
     },
     {
@@ -1043,8 +1847,8 @@
       "location": "United States",
       "url": "https://jobs.lever.co/gohighlevel/9f3b293c-74bc-4d29-a9be-9d0516954f2b",
       "posted_at": "2026-07-20T04:34:49.802000+00:00",
-      "first_seen_at": "2026-07-20T18:06:32.427570+00:00",
-      "last_seen_at": "2026-07-20T18:29:23.127660+00:00",
+      "first_seen_at": "2026-07-20T21:17:05.332910+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
       "score": 0
     },
     {
@@ -1055,8 +1859,8 @@
       "location": "New York, New York, United States",
       "url": "http://www.hioscar.com/careers/7909079?gh_jid=7909079",
       "posted_at": "2026-07-20T00:43:45+00:00",
-      "first_seen_at": "2026-07-20T18:00:22.460509+00:00",
-      "last_seen_at": "2026-07-20T18:29:23.127660+00:00",
+      "first_seen_at": "2026-07-20T21:11:03.795337+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
       "score": 1
     },
     {
@@ -1067,8 +1871,8 @@
       "location": "New York, NY; Boston, MA",
       "url": "https://job-boards.greenhouse.io/formationbio/jobs/6623947",
       "posted_at": "2026-07-18T15:19:29+00:00",
-      "first_seen_at": "2026-07-20T18:01:36.276384+00:00",
-      "last_seen_at": "2026-07-20T18:29:23.127660+00:00",
+      "first_seen_at": "2026-07-20T21:11:57.805317+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
       "score": 0
     },
     {
@@ -1079,8 +1883,8 @@
       "location": "Remote, India",
       "url": "https://job-boards.greenhouse.io/precisionmedicinegroup/jobs/5995113004",
       "posted_at": "2026-07-18T14:56:05+00:00",
-      "first_seen_at": "2026-07-20T18:03:11.713670+00:00",
-      "last_seen_at": "2026-07-20T18:29:23.127660+00:00",
+      "first_seen_at": "2026-07-20T21:12:55.425418+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
       "score": 2
     },
     {
@@ -1091,8 +1895,8 @@
       "location": "Remote, India",
       "url": "https://job-boards.greenhouse.io/precisionaq/jobs/5995115004",
       "posted_at": "2026-07-18T14:44:37+00:00",
-      "first_seen_at": "2026-07-20T18:03:30.378222+00:00",
-      "last_seen_at": "2026-07-20T18:29:23.127660+00:00",
+      "first_seen_at": "2026-07-20T21:13:47.040714+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
       "score": 2
     },
     {
@@ -1103,20 +1907,8 @@
       "location": "Boston, Massachusetts, United States",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5166088007?gh_jid=5166088007",
       "posted_at": "2026-07-18T13:59:34+00:00",
-      "first_seen_at": "2026-07-20T18:03:29.777168+00:00",
-      "last_seen_at": "2026-07-20T18:29:23.127660+00:00",
-      "score": 1
-    },
-    {
-      "source": "greenhouse",
-      "job_id": "5171883007",
-      "title": "Data Analyst, Talent Acquisition",
-      "company": "andurilindustries",
-      "location": "Costa Mesa, California, United States",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5171883007?gh_jid=5171883007",
-      "posted_at": "2026-07-18T13:46:49+00:00",
-      "first_seen_at": "2026-07-20T18:03:29.777168+00:00",
-      "last_seen_at": "2026-07-20T18:29:23.127660+00:00",
+      "first_seen_at": "2026-07-20T21:13:48.310417+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
       "score": 1
     },
     {
@@ -1127,8 +1919,8 @@
       "location": "Boston, Massachusetts, United States",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5172166007?gh_jid=5172166007",
       "posted_at": "2026-07-18T13:46:49+00:00",
-      "first_seen_at": "2026-07-20T18:03:29.777168+00:00",
-      "last_seen_at": "2026-07-20T18:29:23.127660+00:00",
+      "first_seen_at": "2026-07-20T21:13:48.310417+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
       "score": 1
     },
     {
@@ -1139,8 +1931,20 @@
       "location": "Seattle, Washington, United States",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5172163007?gh_jid=5172163007",
       "posted_at": "2026-07-18T13:46:49+00:00",
-      "first_seen_at": "2026-07-20T18:03:29.777168+00:00",
-      "last_seen_at": "2026-07-20T18:29:23.127660+00:00",
+      "first_seen_at": "2026-07-20T21:13:48.310417+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
+      "score": 1
+    },
+    {
+      "source": "greenhouse",
+      "job_id": "5171883007",
+      "title": "Data Analyst, Talent Acquisition",
+      "company": "andurilindustries",
+      "location": "Costa Mesa, California, United States",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5171883007?gh_jid=5171883007",
+      "posted_at": "2026-07-18T13:46:49+00:00",
+      "first_seen_at": "2026-07-20T21:13:48.310417+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
       "score": 1
     },
     {
@@ -1151,8 +1955,8 @@
       "location": "Costa Mesa, California, United States; Seattle, Washington, United States; Washington, District of Columbia, United States",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5170039007?gh_jid=5170039007",
       "posted_at": "2026-07-18T13:44:03+00:00",
-      "first_seen_at": "2026-07-20T18:03:29.777168+00:00",
-      "last_seen_at": "2026-07-20T18:29:23.127660+00:00",
+      "first_seen_at": "2026-07-20T21:13:48.310417+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
       "score": 1
     },
     {
@@ -1163,8 +1967,8 @@
       "location": "Costa Mesa, California, United States; Seattle, Washington, United States; Washington, District of Columbia, United States",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5158247007?gh_jid=5158247007",
       "posted_at": "2026-07-18T13:44:03+00:00",
-      "first_seen_at": "2026-07-20T18:03:29.777168+00:00",
-      "last_seen_at": "2026-07-20T18:29:23.127660+00:00",
+      "first_seen_at": "2026-07-20T21:13:48.310417+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
       "score": 1
     },
     {
@@ -1175,8 +1979,8 @@
       "location": "Irvine, California, United States",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5150089007?gh_jid=5150089007",
       "posted_at": "2026-07-18T13:42:42+00:00",
-      "first_seen_at": "2026-07-20T18:03:29.777168+00:00",
-      "last_seen_at": "2026-07-20T18:29:23.127660+00:00",
+      "first_seen_at": "2026-07-20T21:13:48.310417+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
       "score": 1
     },
     {
@@ -1187,8 +1991,8 @@
       "location": "Costa Mesa, California, United States",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5123282007?gh_jid=5123282007",
       "posted_at": "2026-07-18T13:19:48+00:00",
-      "first_seen_at": "2026-07-20T18:03:29.777168+00:00",
-      "last_seen_at": "2026-07-20T18:29:23.127660+00:00",
+      "first_seen_at": "2026-07-20T21:13:48.310417+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
       "score": 1
     },
     {
@@ -1199,8 +2003,8 @@
       "location": "Seattle, Washington, United States",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5151287007?gh_jid=5151287007",
       "posted_at": "2026-07-18T13:15:33+00:00",
-      "first_seen_at": "2026-07-20T18:03:29.777168+00:00",
-      "last_seen_at": "2026-07-20T18:29:23.127660+00:00",
+      "first_seen_at": "2026-07-20T21:13:48.310417+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
       "score": 1
     },
     {
@@ -1211,8 +2015,8 @@
       "location": "Costa Mesa, California, United States",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5114652007?gh_jid=5114652007",
       "posted_at": "2026-07-18T13:06:07+00:00",
-      "first_seen_at": "2026-07-20T18:03:29.777168+00:00",
-      "last_seen_at": "2026-07-20T18:29:23.127660+00:00",
+      "first_seen_at": "2026-07-20T21:13:48.310417+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
       "score": 1
     },
     {
@@ -1223,8 +2027,8 @@
       "location": "Costa Mesa, California, United States",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5114654007?gh_jid=5114654007",
       "posted_at": "2026-07-18T13:06:02+00:00",
-      "first_seen_at": "2026-07-20T18:03:29.777168+00:00",
-      "last_seen_at": "2026-07-20T18:29:23.127660+00:00",
+      "first_seen_at": "2026-07-20T21:13:48.310417+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
       "score": 1
     },
     {
@@ -1235,8 +2039,8 @@
       "location": "Ashville, Ohio, United States; Atlanta, Georgia, United States; Boston, Massachusetts, United States; Costa Mesa, California, United States; Remote; Seattle, Washington, United States; Washington, District of Columbia, United States",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5159366007?gh_jid=5159366007",
       "posted_at": "2026-07-18T12:27:44+00:00",
-      "first_seen_at": "2026-07-20T18:03:29.777168+00:00",
-      "last_seen_at": "2026-07-20T18:29:23.127660+00:00",
+      "first_seen_at": "2026-07-20T21:13:48.310417+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
       "score": 3
     },
     {
@@ -1247,21 +2051,9 @@
       "location": "Remote - Mexico",
       "url": "https://jobs.dropbox.com/listing/7739568?gh_jid=7739568",
       "posted_at": "2026-07-18T09:31:35+00:00",
-      "first_seen_at": "2026-07-20T18:00:13.493090+00:00",
-      "last_seen_at": "2026-07-20T18:29:23.127660+00:00",
+      "first_seen_at": "2026-07-20T21:10:18.800158+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
       "score": 2
-    },
-    {
-      "source": "greenhouse",
-      "job_id": "8053628",
-      "title": "Data Engineer",
-      "company": "dropbox",
-      "location": "Remote - Poland",
-      "url": "https://jobs.dropbox.com/listing/8053628?gh_jid=8053628",
-      "posted_at": "2026-07-18T09:31:23+00:00",
-      "first_seen_at": "2026-07-20T18:00:13.493090+00:00",
-      "last_seen_at": "2026-07-20T18:29:23.127660+00:00",
-      "score": 3
     },
     {
       "source": "greenhouse",
@@ -1271,21 +2063,21 @@
       "location": "Remote - Mexico",
       "url": "https://jobs.dropbox.com/listing/7739553?gh_jid=7739553",
       "posted_at": "2026-07-18T09:31:23+00:00",
-      "first_seen_at": "2026-07-20T18:00:13.493090+00:00",
-      "last_seen_at": "2026-07-20T18:29:23.127660+00:00",
+      "first_seen_at": "2026-07-20T21:10:18.800158+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
       "score": 3
     },
     {
       "source": "greenhouse",
-      "job_id": "7595186",
-      "title": "Staff Data Engineer, Analytics Data Engineering",
+      "job_id": "8053628",
+      "title": "Data Engineer",
       "company": "dropbox",
-      "location": "Remote - Canada: Select locations",
-      "url": "https://jobs.dropbox.com/listing/7595186?gh_jid=7595186",
-      "posted_at": "2026-07-18T09:31:21+00:00",
-      "first_seen_at": "2026-07-20T18:00:13.493090+00:00",
-      "last_seen_at": "2026-07-20T18:29:23.127660+00:00",
-      "score": 2
+      "location": "Remote - Poland",
+      "url": "https://jobs.dropbox.com/listing/8053628?gh_jid=8053628",
+      "posted_at": "2026-07-18T09:31:23+00:00",
+      "first_seen_at": "2026-07-20T21:10:18.800158+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
+      "score": 3
     },
     {
       "source": "greenhouse",
@@ -1295,8 +2087,20 @@
       "location": "Remote - US: Select locations",
       "url": "https://jobs.dropbox.com/listing/7595183?gh_jid=7595183",
       "posted_at": "2026-07-18T09:31:21+00:00",
-      "first_seen_at": "2026-07-20T18:00:13.493090+00:00",
-      "last_seen_at": "2026-07-20T18:29:23.127660+00:00",
+      "first_seen_at": "2026-07-20T21:10:18.800158+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
+      "score": 2
+    },
+    {
+      "source": "greenhouse",
+      "job_id": "7595186",
+      "title": "Staff Data Engineer, Analytics Data Engineering",
+      "company": "dropbox",
+      "location": "Remote - Canada: Select locations",
+      "url": "https://jobs.dropbox.com/listing/7595186?gh_jid=7595186",
+      "posted_at": "2026-07-18T09:31:21+00:00",
+      "first_seen_at": "2026-07-20T21:10:18.800158+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
       "score": 2
     },
     {
@@ -1307,8 +2111,8 @@
       "location": "Remote Position",
       "url": "https://boards.greenhouse.io/honor/jobs/8531886002?gh_jid=8531886002",
       "posted_at": "2026-07-18T05:00:59+00:00",
-      "first_seen_at": "2026-07-20T18:02:15.883027+00:00",
-      "last_seen_at": "2026-07-20T18:29:23.127660+00:00",
+      "first_seen_at": "2026-07-20T21:12:37.409690+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
       "score": 2
     },
     {
@@ -1319,8 +2123,8 @@
       "location": "Remote USA",
       "url": "https://job-boards.greenhouse.io/yurtsai/jobs/5182958007",
       "posted_at": "2026-07-18T05:00:20+00:00",
-      "first_seen_at": "2026-07-20T18:04:06.915577+00:00",
-      "last_seen_at": "2026-07-20T18:29:23.127660+00:00",
+      "first_seen_at": "2026-07-20T21:14:38.105198+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
       "score": 3
     },
     {
@@ -1331,8 +2135,8 @@
       "location": "Remote - United Kingdom",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8593713002",
       "posted_at": "2026-07-18T05:00:05+00:00",
-      "first_seen_at": "2026-07-20T18:00:33.964641+00:00",
-      "last_seen_at": "2026-07-20T18:29:23.127660+00:00",
+      "first_seen_at": "2026-07-20T21:09:52.997999+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
       "score": 3
     },
     {
@@ -1343,8 +2147,8 @@
       "location": "United States",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8570023002",
       "posted_at": "2026-07-18T04:54:59+00:00",
-      "first_seen_at": "2026-07-20T18:00:33.964641+00:00",
-      "last_seen_at": "2026-07-20T18:29:23.127660+00:00",
+      "first_seen_at": "2026-07-20T21:09:52.997999+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
       "score": 1
     },
     {
@@ -1355,8 +2159,8 @@
       "location": "United States",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8568122002",
       "posted_at": "2026-07-18T04:48:21+00:00",
-      "first_seen_at": "2026-07-20T18:00:33.964641+00:00",
-      "last_seen_at": "2026-07-20T18:29:23.127660+00:00",
+      "first_seen_at": "2026-07-20T21:09:52.997999+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
       "score": 1
     },
     {
@@ -1367,8 +2171,8 @@
       "location": "United States",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8546367002",
       "posted_at": "2026-07-18T04:42:51+00:00",
-      "first_seen_at": "2026-07-20T18:00:33.964641+00:00",
-      "last_seen_at": "2026-07-20T18:29:23.127660+00:00",
+      "first_seen_at": "2026-07-20T21:09:52.997999+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
       "score": 1
     },
     {
@@ -1379,8 +2183,8 @@
       "location": "Finland; Remote - Denmark; Stockholm, Sweden",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8506063002",
       "posted_at": "2026-07-18T04:38:10+00:00",
-      "first_seen_at": "2026-07-20T18:00:33.964641+00:00",
-      "last_seen_at": "2026-07-20T18:29:23.127660+00:00",
+      "first_seen_at": "2026-07-20T21:09:52.997999+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
       "score": 2
     },
     {
@@ -1391,8 +2195,8 @@
       "location": "Remote - India",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8099751002",
       "posted_at": "2026-07-18T03:40:52+00:00",
-      "first_seen_at": "2026-07-20T18:00:33.964641+00:00",
-      "last_seen_at": "2026-07-20T18:29:23.127660+00:00",
+      "first_seen_at": "2026-07-20T21:09:52.997999+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
       "score": 3
     },
     {
@@ -1403,8 +2207,8 @@
       "location": "Costa Mesa, California, United States",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/4768437007?gh_jid=4768437007",
       "posted_at": "2026-07-18T03:37:11+00:00",
-      "first_seen_at": "2026-07-20T18:03:29.777168+00:00",
-      "last_seen_at": "2026-07-20T18:29:23.127660+00:00",
+      "first_seen_at": "2026-07-20T21:13:48.310417+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
       "score": 1
     },
     {
@@ -1415,8 +2219,8 @@
       "location": "Washington, District of Columbia, United States",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/4998882007?gh_jid=4998882007",
       "posted_at": "2026-07-18T03:37:11+00:00",
-      "first_seen_at": "2026-07-20T18:03:29.777168+00:00",
-      "last_seen_at": "2026-07-20T18:29:23.127660+00:00",
+      "first_seen_at": "2026-07-20T21:13:48.310417+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
       "score": 1
     },
     {
@@ -1427,8 +2231,8 @@
       "location": "Irvine, California, United States",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5130552007?gh_jid=5130552007",
       "posted_at": "2026-07-18T03:37:11+00:00",
-      "first_seen_at": "2026-07-20T18:03:29.777168+00:00",
-      "last_seen_at": "2026-07-20T18:29:23.127660+00:00",
+      "first_seen_at": "2026-07-20T21:13:48.310417+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
       "score": 1
     },
     {
@@ -1439,8 +2243,8 @@
       "location": "Huntsville, Alabama, United States",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5178392007?gh_jid=5178392007",
       "posted_at": "2026-07-18T03:37:11+00:00",
-      "first_seen_at": "2026-07-20T18:03:29.777168+00:00",
-      "last_seen_at": "2026-07-20T18:29:23.127660+00:00",
+      "first_seen_at": "2026-07-20T21:13:48.310417+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
       "score": 1
     },
     {
@@ -1451,8 +2255,8 @@
       "location": "Fort Collins, Colorado, United States",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5179749007?gh_jid=5179749007",
       "posted_at": "2026-07-18T03:37:11+00:00",
-      "first_seen_at": "2026-07-20T18:03:29.777168+00:00",
-      "last_seen_at": "2026-07-20T18:29:23.127660+00:00",
+      "first_seen_at": "2026-07-20T21:13:48.310417+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
       "score": 1
     },
     {
@@ -1463,8 +2267,8 @@
       "location": "Broomfield, Colorado, United States",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5178310007?gh_jid=5178310007",
       "posted_at": "2026-07-18T03:37:11+00:00",
-      "first_seen_at": "2026-07-20T18:03:29.777168+00:00",
-      "last_seen_at": "2026-07-20T18:29:23.127660+00:00",
+      "first_seen_at": "2026-07-20T21:13:48.310417+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
       "score": 1
     },
     {
@@ -1475,8 +2279,8 @@
       "location": "Waltham, Massachusetts, United States",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5178314007?gh_jid=5178314007",
       "posted_at": "2026-07-18T03:37:11+00:00",
-      "first_seen_at": "2026-07-20T18:03:29.777168+00:00",
-      "last_seen_at": "2026-07-20T18:29:23.127660+00:00",
+      "first_seen_at": "2026-07-20T21:13:48.310417+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
       "score": 1
     },
     {
@@ -1487,8 +2291,8 @@
       "location": "Costa Mesa, California, United States",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5187241007?gh_jid=5187241007",
       "posted_at": "2026-07-18T03:37:11+00:00",
-      "first_seen_at": "2026-07-20T18:03:29.777168+00:00",
-      "last_seen_at": "2026-07-20T18:29:23.127660+00:00",
+      "first_seen_at": "2026-07-20T21:13:48.310417+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
       "score": 1
     },
     {
@@ -1499,8 +2303,8 @@
       "location": "Costa Mesa, California, United States",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/4743827007?gh_jid=4743827007",
       "posted_at": "2026-07-18T03:37:11+00:00",
-      "first_seen_at": "2026-07-20T18:03:29.777168+00:00",
-      "last_seen_at": "2026-07-20T18:29:23.127660+00:00",
+      "first_seen_at": "2026-07-20T21:13:48.310417+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
       "score": 0
     },
     {
@@ -1511,8 +2315,8 @@
       "location": "Boston, Massachusetts, United States; Costa Mesa, California, United States",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5147099007?gh_jid=5147099007",
       "posted_at": "2026-07-18T03:37:11+00:00",
-      "first_seen_at": "2026-07-20T18:03:29.777168+00:00",
-      "last_seen_at": "2026-07-20T18:29:23.127660+00:00",
+      "first_seen_at": "2026-07-20T21:13:48.310417+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
       "score": 0
     },
     {
@@ -1523,8 +2327,8 @@
       "location": "Costa Mesa, California, United States",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5180410007?gh_jid=5180410007",
       "posted_at": "2026-07-18T03:37:11+00:00",
-      "first_seen_at": "2026-07-20T18:03:29.777168+00:00",
-      "last_seen_at": "2026-07-20T18:29:23.127660+00:00",
+      "first_seen_at": "2026-07-20T21:13:48.310417+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
       "score": 0
     },
     {
@@ -1535,8 +2339,8 @@
       "location": "Atlanta, Georgia, United States",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5167749007?gh_jid=5167749007",
       "posted_at": "2026-07-18T03:37:11+00:00",
-      "first_seen_at": "2026-07-20T18:03:29.777168+00:00",
-      "last_seen_at": "2026-07-20T18:29:23.127660+00:00",
+      "first_seen_at": "2026-07-20T21:13:48.310417+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
       "score": 0
     },
     {
@@ -1547,8 +2351,8 @@
       "location": "Irvine, California, United States; Remote",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/4927589007?gh_jid=4927589007",
       "posted_at": "2026-07-18T03:37:11+00:00",
-      "first_seen_at": "2026-07-20T18:03:29.777168+00:00",
-      "last_seen_at": "2026-07-20T18:29:23.127660+00:00",
+      "first_seen_at": "2026-07-20T21:13:48.310417+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
       "score": 2
     },
     {
@@ -1559,8 +2363,8 @@
       "location": "Fort Collins, Colorado, United States",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5178398007?gh_jid=5178398007",
       "posted_at": "2026-07-18T03:37:11+00:00",
-      "first_seen_at": "2026-07-20T18:03:29.777168+00:00",
-      "last_seen_at": "2026-07-20T18:29:23.127660+00:00",
+      "first_seen_at": "2026-07-20T21:13:48.310417+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
       "score": 0
     },
     {
@@ -1571,8 +2375,8 @@
       "location": "Broomfield, Colorado, United States",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5178401007?gh_jid=5178401007",
       "posted_at": "2026-07-18T03:37:11+00:00",
-      "first_seen_at": "2026-07-20T18:03:29.777168+00:00",
-      "last_seen_at": "2026-07-20T18:29:23.127660+00:00",
+      "first_seen_at": "2026-07-20T21:13:48.310417+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
       "score": 0
     },
     {
@@ -1583,8 +2387,8 @@
       "location": "Broomfield, Colorado, United States",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5178340007?gh_jid=5178340007",
       "posted_at": "2026-07-18T03:37:11+00:00",
-      "first_seen_at": "2026-07-20T18:03:29.777168+00:00",
-      "last_seen_at": "2026-07-20T18:29:23.127660+00:00",
+      "first_seen_at": "2026-07-20T21:13:48.310417+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
       "score": 0
     },
     {
@@ -1595,8 +2399,8 @@
       "location": "Waltham, Massachusetts, United States",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5178342007?gh_jid=5178342007",
       "posted_at": "2026-07-18T03:37:11+00:00",
-      "first_seen_at": "2026-07-20T18:03:29.777168+00:00",
-      "last_seen_at": "2026-07-20T18:29:23.127660+00:00",
+      "first_seen_at": "2026-07-20T21:13:48.310417+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
       "score": 0
     },
     {
@@ -1607,8 +2411,8 @@
       "location": "Reston, Virginia, United States",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5169881007?gh_jid=5169881007",
       "posted_at": "2026-07-18T03:37:11+00:00",
-      "first_seen_at": "2026-07-20T18:03:29.777168+00:00",
-      "last_seen_at": "2026-07-20T18:29:23.127660+00:00",
+      "first_seen_at": "2026-07-20T21:13:48.310417+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
       "score": 1
     },
     {
@@ -1619,8 +2423,8 @@
       "location": "Costa Mesa, California, United States",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/4457719007?gh_jid=4457719007",
       "posted_at": "2026-07-18T03:37:11+00:00",
-      "first_seen_at": "2026-07-20T18:03:29.777168+00:00",
-      "last_seen_at": "2026-07-20T18:29:23.127660+00:00",
+      "first_seen_at": "2026-07-20T21:13:48.310417+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
       "score": 0
     },
     {
@@ -1631,8 +2435,8 @@
       "location": "Costa Mesa, California, United States",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/4985350007?gh_jid=4985350007",
       "posted_at": "2026-07-18T03:37:11+00:00",
-      "first_seen_at": "2026-07-20T18:03:29.777168+00:00",
-      "last_seen_at": "2026-07-20T18:29:23.127660+00:00",
+      "first_seen_at": "2026-07-20T21:13:48.310417+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
       "score": 1
     },
     {
@@ -1643,8 +2447,8 @@
       "location": "Seattle, WA",
       "url": "https://job-boards.greenhouse.io/thealleninstitute/jobs/7899565",
       "posted_at": "2026-07-18T01:02:35+00:00",
-      "first_seen_at": "2026-07-20T18:03:03.292335+00:00",
-      "last_seen_at": "2026-07-20T18:29:23.127660+00:00",
+      "first_seen_at": "2026-07-20T21:13:21.825028+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
       "score": 1
     },
     {
@@ -1655,8 +2459,8 @@
       "location": "Seattle, WA",
       "url": "https://job-boards.greenhouse.io/thealleninstitute/jobs/7819106",
       "posted_at": "2026-07-18T01:02:35+00:00",
-      "first_seen_at": "2026-07-20T18:03:03.292335+00:00",
-      "last_seen_at": "2026-07-20T18:29:23.127660+00:00",
+      "first_seen_at": "2026-07-20T21:13:21.825028+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
       "score": 1
     },
     {
@@ -1667,8 +2471,8 @@
       "location": "Seattle, WA",
       "url": "https://job-boards.greenhouse.io/thealleninstitute/jobs/7723570",
       "posted_at": "2026-07-18T01:02:35+00:00",
-      "first_seen_at": "2026-07-20T18:03:03.292335+00:00",
-      "last_seen_at": "2026-07-20T18:29:23.127660+00:00",
+      "first_seen_at": "2026-07-20T21:13:21.825028+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
       "score": 1
     },
     {
@@ -1679,8 +2483,8 @@
       "location": "Seattle, WA",
       "url": "https://job-boards.greenhouse.io/thealleninstitute/jobs/7848623",
       "posted_at": "2026-07-18T01:02:35+00:00",
-      "first_seen_at": "2026-07-20T18:03:03.292335+00:00",
-      "last_seen_at": "2026-07-20T18:29:23.127660+00:00",
+      "first_seen_at": "2026-07-20T21:13:21.825028+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
       "score": 1
     },
     {
@@ -1691,8 +2495,8 @@
       "location": "Seattle, WA",
       "url": "https://job-boards.greenhouse.io/thealleninstitute/jobs/7980660",
       "posted_at": "2026-07-18T01:02:35+00:00",
-      "first_seen_at": "2026-07-20T18:03:03.292335+00:00",
-      "last_seen_at": "2026-07-20T18:29:23.127660+00:00",
+      "first_seen_at": "2026-07-20T21:13:21.825028+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
       "score": 0
     },
     {
@@ -1703,8 +2507,8 @@
       "location": "United States",
       "url": "https://careers.airbnb.com/positions/7988010?gh_jid=7988010",
       "posted_at": "2026-07-17T23:47:14+00:00",
-      "first_seen_at": "2026-07-20T18:01:04.474102+00:00",
-      "last_seen_at": "2026-07-20T18:29:23.127660+00:00",
+      "first_seen_at": "2026-07-20T21:10:54.185662+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
       "score": 0
     },
     {
@@ -1715,8 +2519,8 @@
       "location": "San Francisco, CA or Remote (U.S.)",
       "url": "https://job-boards.greenhouse.io/doximity/jobs/7787892",
       "posted_at": "2026-07-17T23:45:19+00:00",
-      "first_seen_at": "2026-07-20T18:02:18.883498+00:00",
-      "last_seen_at": "2026-07-20T18:29:23.127660+00:00",
+      "first_seen_at": "2026-07-20T21:11:57.198841+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
       "score": 3
     },
     {
@@ -1727,8 +2531,8 @@
       "location": "Sunnyvale, CA",
       "url": "https://job-boards.greenhouse.io/scoutai/jobs/4643328008",
       "posted_at": "2026-07-17T22:50:39+00:00",
-      "first_seen_at": "2026-07-20T18:05:05.134277+00:00",
-      "last_seen_at": "2026-07-20T18:29:23.127660+00:00",
+      "first_seen_at": "2026-07-20T21:15:29.685288+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
       "score": 0
     },
     {
@@ -1739,9 +2543,21 @@
       "location": "United States",
       "url": "https://careers.airbnb.com/positions/8070678?gh_jid=8070678",
       "posted_at": "2026-07-17T22:28:54+00:00",
-      "first_seen_at": "2026-07-20T18:01:04.474102+00:00",
-      "last_seen_at": "2026-07-20T18:29:23.127660+00:00",
+      "first_seen_at": "2026-07-20T21:10:54.185662+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
       "score": 0
+    },
+    {
+      "source": "lever",
+      "job_id": "b5f6f5f4-1a0a-42a2-a72b-f4ed5c3be562",
+      "title": "Software Development Engineer in Test, Machine Learning",
+      "company": "zoox",
+      "location": "Foster City, CA",
+      "url": "https://jobs.lever.co/zoox/b5f6f5f4-1a0a-42a2-a72b-f4ed5c3be562",
+      "posted_at": "2026-07-17T22:17:08.763000+00:00",
+      "first_seen_at": "2026-07-20T21:15:42.480393+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
+      "score": 1
     },
     {
       "source": "greenhouse",
@@ -1751,21 +2567,9 @@
       "location": "Any location, United States",
       "url": "https://www.coalitioninc.com/job-posting?gh_jid=4716434005",
       "posted_at": "2026-07-17T22:17:06+00:00",
-      "first_seen_at": "2026-07-20T17:59:38.632466+00:00",
-      "last_seen_at": "2026-07-20T18:29:23.127660+00:00",
+      "first_seen_at": "2026-07-20T21:10:25.973937+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
       "score": -1
-    },
-    {
-      "source": "greenhouse",
-      "job_id": "8611081002",
-      "title": "Senior AI Engineer",
-      "company": "amplitude",
-      "location": "San Francisco, CA",
-      "url": "https://job-boards.greenhouse.io/amplitude/jobs/8611081002",
-      "posted_at": "2026-07-17T22:15:09+00:00",
-      "first_seen_at": "2026-07-20T17:59:55.436290+00:00",
-      "last_seen_at": "2026-07-20T18:29:23.127660+00:00",
-      "score": 0
     },
     {
       "source": "greenhouse",
@@ -1775,8 +2579,8 @@
       "location": "Remote - US",
       "url": "https://job-boards.greenhouse.io/axuall/jobs/4703177005",
       "posted_at": "2026-07-17T21:39:34+00:00",
-      "first_seen_at": "2026-07-20T18:01:32.670888+00:00",
-      "last_seen_at": "2026-07-20T18:29:23.127660+00:00",
+      "first_seen_at": "2026-07-20T21:11:48.195931+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
       "score": 2
     },
     {
@@ -1787,8 +2591,8 @@
       "location": "Remote, US",
       "url": "https://job-boards.greenhouse.io/ionq/jobs/5997260004",
       "posted_at": "2026-07-17T21:16:37+00:00",
-      "first_seen_at": "2026-07-20T18:03:25.503811+00:00",
-      "last_seen_at": "2026-07-20T18:29:23.127660+00:00",
+      "first_seen_at": "2026-07-20T21:13:36.831894+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
       "score": 2
     },
     {
@@ -1799,8 +2603,8 @@
       "location": "Bothell, Washington, United States",
       "url": "https://job-boards.greenhouse.io/ionq/jobs/5998696004",
       "posted_at": "2026-07-17T21:16:37+00:00",
-      "first_seen_at": "2026-07-20T18:03:25.503811+00:00",
-      "last_seen_at": "2026-07-20T18:29:23.127660+00:00",
+      "first_seen_at": "2026-07-20T21:13:36.831894+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
       "score": 0
     },
     {
@@ -1811,8 +2615,8 @@
       "location": "Bothell, Washington, United States; College Park, Maryland, United States",
       "url": "https://job-boards.greenhouse.io/ionq/jobs/6019179004",
       "posted_at": "2026-07-17T21:16:37+00:00",
-      "first_seen_at": "2026-07-20T18:03:25.503811+00:00",
-      "last_seen_at": "2026-07-20T18:29:23.127660+00:00",
+      "first_seen_at": "2026-07-20T21:13:36.831894+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
       "score": 0
     },
     {
@@ -1823,657 +2627,9 @@
       "location": "Remote, US",
       "url": "https://job-boards.greenhouse.io/extend/jobs/6115187004",
       "posted_at": "2026-07-17T21:13:25+00:00",
-      "first_seen_at": "2026-07-20T18:04:21.917379+00:00",
-      "last_seen_at": "2026-07-20T18:29:23.127660+00:00",
+      "first_seen_at": "2026-07-20T21:14:21.244590+00:00",
+      "last_seen_at": "2026-07-20T21:39:42.695520+00:00",
       "score": 2
-    },
-    {
-      "source": "greenhouse",
-      "job_id": "5175582007",
-      "title": "Data Scientist II",
-      "company": "axle",
-      "location": "Rockville, MD",
-      "url": "https://job-boards.greenhouse.io/axle/jobs/5175582007",
-      "posted_at": "2026-07-17T20:42:34+00:00",
-      "first_seen_at": "2026-07-20T17:59:48.233345+00:00",
-      "last_seen_at": "2026-07-20T18:29:23.127660+00:00",
-      "score": 2
-    },
-    {
-      "source": "greenhouse",
-      "job_id": "5172769007",
-      "title": "Data Engineer",
-      "company": "axle",
-      "location": "Rockville, MD",
-      "url": "https://job-boards.greenhouse.io/axle/jobs/5172769007",
-      "posted_at": "2026-07-17T20:42:01+00:00",
-      "first_seen_at": "2026-07-20T17:59:48.233345+00:00",
-      "last_seen_at": "2026-07-20T18:29:23.127660+00:00",
-      "score": 1
-    },
-    {
-      "source": "greenhouse",
-      "job_id": "4840670007",
-      "title": "Bioinformatics/Data Scientist",
-      "company": "axle",
-      "location": "Frederick, MD",
-      "url": "https://job-boards.greenhouse.io/axle/jobs/4840670007",
-      "posted_at": "2026-07-17T20:41:26+00:00",
-      "first_seen_at": "2026-07-20T17:59:48.233345+00:00",
-      "last_seen_at": "2026-07-20T18:29:23.127660+00:00",
-      "score": 1
-    },
-    {
-      "source": "greenhouse",
-      "job_id": "6119090004",
-      "title": "Senior Data Engineer",
-      "company": "iconcareers",
-      "location": "Austin, Texas, United States",
-      "url": "https://job-boards.greenhouse.io/iconcareers/jobs/6119090004",
-      "posted_at": "2026-07-17T20:01:53+00:00",
-      "first_seen_at": "2026-07-20T18:02:18.287883+00:00",
-      "last_seen_at": "2026-07-20T18:29:23.127660+00:00",
-      "score": 0
-    },
-    {
-      "source": "greenhouse",
-      "job_id": "4912949",
-      "title": "Data Scientist",
-      "company": "pinterest",
-      "location": "San Francisco, CA, US; Remote, CA, US",
-      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=4912949",
-      "posted_at": "2026-07-17T19:57:11+00:00",
-      "first_seen_at": "2026-07-20T17:59:40.436360+00:00",
-      "last_seen_at": "2026-07-20T18:29:23.127660+00:00",
-      "score": 3
-    },
-    {
-      "source": "greenhouse",
-      "job_id": "7896291",
-      "title": "Data Scientist II, Experimentation",
-      "company": "pinterest",
-      "location": "San Francisco, CA, US; Remote, US",
-      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7896291",
-      "posted_at": "2026-07-17T19:57:11+00:00",
-      "first_seen_at": "2026-07-20T17:59:40.436360+00:00",
-      "last_seen_at": "2026-07-20T18:29:23.127660+00:00",
-      "score": 4
-    },
-    {
-      "source": "greenhouse",
-      "job_id": "7816424",
-      "title": "Data Scientist II, Infrastructure",
-      "company": "pinterest",
-      "location": "San Francisco, CA, US; Remote, US",
-      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7816424",
-      "posted_at": "2026-07-17T19:57:11+00:00",
-      "first_seen_at": "2026-07-20T17:59:40.436360+00:00",
-      "last_seen_at": "2026-07-20T18:29:23.127660+00:00",
-      "score": 4
-    },
-    {
-      "source": "greenhouse",
-      "job_id": "7908460",
-      "title": "Director, Machine Learning Engineering \u2013 Content & User Understanding",
-      "company": "pinterest",
-      "location": "San Francisco, CA, US; Remote, US",
-      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7908460",
-      "posted_at": "2026-07-17T19:57:11+00:00",
-      "first_seen_at": "2026-07-20T17:59:40.436360+00:00",
-      "last_seen_at": "2026-07-20T18:29:23.127660+00:00",
-      "score": 3
-    },
-    {
-      "source": "greenhouse",
-      "job_id": "6121450",
-      "title": "Machine Learning Engineer, Core Engineering",
-      "company": "pinterest",
-      "location": "San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US; Remote, US",
-      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=6121450",
-      "posted_at": "2026-07-17T19:57:11+00:00",
-      "first_seen_at": "2026-07-20T17:59:40.436360+00:00",
-      "last_seen_at": "2026-07-20T18:29:23.127660+00:00",
-      "score": 3
-    },
-    {
-      "source": "greenhouse",
-      "job_id": "7697137",
-      "title": "Machine Learning Engineer II, Computer Vision Applied Science ",
-      "company": "pinterest",
-      "location": "San Francisco, CA, US; Remote, US",
-      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7697137",
-      "posted_at": "2026-07-17T19:57:11+00:00",
-      "first_seen_at": "2026-07-20T17:59:40.436360+00:00",
-      "last_seen_at": "2026-07-20T18:29:23.127660+00:00",
-      "score": 4
-    },
-    {
-      "source": "greenhouse",
-      "job_id": "7473497",
-      "title": "Machine Learning Engineer II, Core Engineering ",
-      "company": "pinterest",
-      "location": "Toronto, ON, CA",
-      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7473497",
-      "posted_at": "2026-07-17T19:57:11+00:00",
-      "first_seen_at": "2026-07-20T17:59:40.436360+00:00",
-      "last_seen_at": "2026-07-20T18:29:23.127660+00:00",
-      "score": 2
-    },
-    {
-      "source": "greenhouse",
-      "job_id": "6121543",
-      "title": "Machine Learning Engineer, Monetization Engineering",
-      "company": "pinterest",
-      "location": "San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US",
-      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=6121543",
-      "posted_at": "2026-07-17T19:57:11+00:00",
-      "first_seen_at": "2026-07-20T17:59:40.436360+00:00",
-      "last_seen_at": "2026-07-20T18:29:23.127660+00:00",
-      "score": 1
-    },
-    {
-      "source": "greenhouse",
-      "job_id": "8010903",
-      "title": "Manager II, Machine Learning \u2013 Conversion Visibility",
-      "company": "pinterest",
-      "location": "Seattle, WA, US; Remote, US",
-      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8010903",
-      "posted_at": "2026-07-17T19:57:11+00:00",
-      "first_seen_at": "2026-07-20T17:59:40.436360+00:00",
-      "last_seen_at": "2026-07-20T18:29:23.127660+00:00",
-      "score": 3
-    },
-    {
-      "source": "greenhouse",
-      "job_id": "7075176",
-      "title": "Manager II, Machine Learning Engineering, Core Engineering ",
-      "company": "pinterest",
-      "location": "San Francisco, CA, US;  Remote, US",
-      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7075176",
-      "posted_at": "2026-07-17T19:57:11+00:00",
-      "first_seen_at": "2026-07-20T17:59:40.436360+00:00",
-      "last_seen_at": "2026-07-20T18:29:23.127660+00:00",
-      "score": 4
-    },
-    {
-      "source": "greenhouse",
-      "job_id": "6963868",
-      "title": "Principal Machine Learning Engineer, Ads Delivery",
-      "company": "pinterest",
-      "location": "San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US",
-      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=6963868",
-      "posted_at": "2026-07-17T19:57:11+00:00",
-      "first_seen_at": "2026-07-20T17:59:40.436360+00:00",
-      "last_seen_at": "2026-07-20T18:29:23.127660+00:00",
-      "score": 0
-    },
-    {
-      "source": "greenhouse",
-      "job_id": "8024966",
-      "title": "Sr. Data Scientist, Infrastructure",
-      "company": "pinterest",
-      "location": "San Francisco, CA, US; Remote, US",
-      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8024966",
-      "posted_at": "2026-07-17T19:57:11+00:00",
-      "first_seen_at": "2026-07-20T17:59:40.436360+00:00",
-      "last_seen_at": "2026-07-20T18:29:23.127660+00:00",
-      "score": 3
-    },
-    {
-      "source": "greenhouse",
-      "job_id": "8011376",
-      "title": "Sr. Data Scientist, Marketing",
-      "company": "pinterest",
-      "location": "San Francisco, CA, US; Remote, US",
-      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8011376",
-      "posted_at": "2026-07-17T19:57:11+00:00",
-      "first_seen_at": "2026-07-20T17:59:40.436360+00:00",
-      "last_seen_at": "2026-07-20T18:29:23.127660+00:00",
-      "score": 3
-    },
-    {
-      "source": "greenhouse",
-      "job_id": "5740948",
-      "title": "Sr. Data Scientist, Monetization",
-      "company": "pinterest",
-      "location": "San Francisco, CA, US; Seattle, WA, US",
-      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=5740948",
-      "posted_at": "2026-07-17T19:57:11+00:00",
-      "first_seen_at": "2026-07-20T17:59:40.436360+00:00",
-      "last_seen_at": "2026-07-20T18:29:23.127660+00:00",
-      "score": 1
-    },
-    {
-      "source": "greenhouse",
-      "job_id": "8014770",
-      "title": "Sr. Data Scientist, Performance Marketing",
-      "company": "pinterest",
-      "location": "San Francisco, CA, US; Remote, US",
-      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8014770",
-      "posted_at": "2026-07-17T19:57:11+00:00",
-      "first_seen_at": "2026-07-20T17:59:40.436360+00:00",
-      "last_seen_at": "2026-07-20T18:29:23.127660+00:00",
-      "score": 3
-    },
-    {
-      "source": "greenhouse",
-      "job_id": "7793344",
-      "title": "Sr. Data Scientist, Trust and Safety",
-      "company": "pinterest",
-      "location": "San Francisco, CA, US; Remote, CA, US",
-      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7793344",
-      "posted_at": "2026-07-17T19:57:11+00:00",
-      "first_seen_at": "2026-07-20T17:59:40.436360+00:00",
-      "last_seen_at": "2026-07-20T18:29:23.127660+00:00",
-      "score": 3
-    },
-    {
-      "source": "greenhouse",
-      "job_id": "7642251",
-      "title": "Sr. Data Scientist, tvScientific",
-      "company": "pinterest",
-      "location": "San Francisco, CA, US; Remote, US",
-      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7642251",
-      "posted_at": "2026-07-17T19:57:11+00:00",
-      "first_seen_at": "2026-07-20T17:59:40.436360+00:00",
-      "last_seen_at": "2026-07-20T18:29:23.127660+00:00",
-      "score": 3
-    },
-    {
-      "source": "greenhouse",
-      "job_id": "6894747",
-      "title": "Sr. Machine Learning Engineer, Applied Science",
-      "company": "pinterest",
-      "location": "San Francisco, CA, US; Remote, US",
-      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=6894747",
-      "posted_at": "2026-07-17T19:57:11+00:00",
-      "first_seen_at": "2026-07-20T17:59:40.436360+00:00",
-      "last_seen_at": "2026-07-20T18:29:23.127660+00:00",
-      "score": 3
-    },
-    {
-      "source": "greenhouse",
-      "job_id": "5691478",
-      "title": "Sr. Machine Learning Engineer, Content Shopping",
-      "company": "pinterest",
-      "location": "Toronto, ON, CA",
-      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=5691478",
-      "posted_at": "2026-07-17T19:57:11+00:00",
-      "first_seen_at": "2026-07-20T17:59:40.436360+00:00",
-      "last_seen_at": "2026-07-20T18:29:23.127660+00:00",
-      "score": 1
-    },
-    {
-      "source": "greenhouse",
-      "job_id": "6121464",
-      "title": "Sr. Machine Learning Engineer, Core Engineering ",
-      "company": "pinterest",
-      "location": "San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US",
-      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=6121464",
-      "posted_at": "2026-07-17T19:57:11+00:00",
-      "first_seen_at": "2026-07-20T17:59:40.436360+00:00",
-      "last_seen_at": "2026-07-20T18:29:23.127660+00:00",
-      "score": 1
-    },
-    {
-      "source": "greenhouse",
-      "job_id": "6121551",
-      "title": "Sr. Machine Learning Engineer, Monetization Engineering",
-      "company": "pinterest",
-      "location": "San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US",
-      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=6121551",
-      "posted_at": "2026-07-17T19:57:11+00:00",
-      "first_seen_at": "2026-07-20T17:59:40.436360+00:00",
-      "last_seen_at": "2026-07-20T18:29:23.127660+00:00",
-      "score": 1
-    },
-    {
-      "source": "greenhouse",
-      "job_id": "7494938",
-      "title": "Sr. Machine Learning Engineer, Responsible AI\u2013 Applied Research Science",
-      "company": "pinterest",
-      "location": "San Francisco, CA, US; Remote, CA, US",
-      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7494938",
-      "posted_at": "2026-07-17T19:57:11+00:00",
-      "first_seen_at": "2026-07-20T17:59:40.436360+00:00",
-      "last_seen_at": "2026-07-20T18:29:23.127660+00:00",
-      "score": 3
-    },
-    {
-      "source": "greenhouse",
-      "job_id": "7999050",
-      "title": "Sr. Software Engineer, Machine Learning, tvScientific",
-      "company": "pinterest",
-      "location": "San Francisco, CA, US; Remote, US",
-      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7999050",
-      "posted_at": "2026-07-17T19:57:11+00:00",
-      "first_seen_at": "2026-07-20T17:59:40.436360+00:00",
-      "last_seen_at": "2026-07-20T18:29:23.127660+00:00",
-      "score": 3
-    },
-    {
-      "source": "greenhouse",
-      "job_id": "7919043",
-      "title": "Sr. Staff Machine Learning Engineer, Content Ecosystem",
-      "company": "pinterest",
-      "location": "San Francisco, CA, US; Remote, US",
-      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7919043",
-      "posted_at": "2026-07-17T19:57:11+00:00",
-      "first_seen_at": "2026-07-20T17:59:40.436360+00:00",
-      "last_seen_at": "2026-07-20T18:29:23.127660+00:00",
-      "score": 2
-    },
-    {
-      "source": "greenhouse",
-      "job_id": "7724254",
-      "title": "Sr. Staff Machine Learning Engineer, Content Quality",
-      "company": "pinterest",
-      "location": "San Francisco, CA, US",
-      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7724254",
-      "posted_at": "2026-07-17T19:57:11+00:00",
-      "first_seen_at": "2026-07-20T17:59:40.436360+00:00",
-      "last_seen_at": "2026-07-20T18:29:23.127660+00:00",
-      "score": 0
-    },
-    {
-      "source": "greenhouse",
-      "job_id": "8036258",
-      "title": "Sr. Staff Machine Learning Engineer, Monetization Engineering",
-      "company": "pinterest",
-      "location": "San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US",
-      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8036258",
-      "posted_at": "2026-07-17T19:57:11+00:00",
-      "first_seen_at": "2026-07-20T17:59:40.436360+00:00",
-      "last_seen_at": "2026-07-20T18:29:23.127660+00:00",
-      "score": 0
-    },
-    {
-      "source": "greenhouse",
-      "job_id": "7985294",
-      "title": "Staff Data Scientist, Ads Delivery",
-      "company": "pinterest",
-      "location": "Seattle, WA, US; Remote, US",
-      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7985294",
-      "posted_at": "2026-07-17T19:57:11+00:00",
-      "first_seen_at": "2026-07-20T17:59:40.436360+00:00",
-      "last_seen_at": "2026-07-20T18:29:23.127660+00:00",
-      "score": 2
-    },
-    {
-      "source": "greenhouse",
-      "job_id": "7963755",
-      "title": "Staff Data Scientist, Ads Product",
-      "company": "pinterest",
-      "location": "San Francisco, CA, US; Seattle, WA, US",
-      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7963755",
-      "posted_at": "2026-07-17T19:57:11+00:00",
-      "first_seen_at": "2026-07-20T17:59:40.436360+00:00",
-      "last_seen_at": "2026-07-20T18:29:23.127660+00:00",
-      "score": 0
-    },
-    {
-      "source": "greenhouse",
-      "job_id": "8036273",
-      "title": "Staff Data Scientist, Finance & Business Ops",
-      "company": "pinterest",
-      "location": "San Francisco, CA, US; Remote, US",
-      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8036273",
-      "posted_at": "2026-07-17T19:57:11+00:00",
-      "first_seen_at": "2026-07-20T17:59:40.436360+00:00",
-      "last_seen_at": "2026-07-20T18:29:23.127660+00:00",
-      "score": 2
-    },
-    {
-      "source": "greenhouse",
-      "job_id": "8001932",
-      "title": "Staff Data Scientist, Forecasting",
-      "company": "pinterest",
-      "location": "San Francisco, CA, US; Remote, US",
-      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8001932",
-      "posted_at": "2026-07-17T19:57:11+00:00",
-      "first_seen_at": "2026-07-20T17:59:40.436360+00:00",
-      "last_seen_at": "2026-07-20T18:29:23.127660+00:00",
-      "score": 2
-    },
-    {
-      "source": "greenhouse",
-      "job_id": "7679180",
-      "title": "Staff Machine Learning Engineer",
-      "company": "pinterest",
-      "location": "San Francisco, CA, US; Remote, US",
-      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7679180",
-      "posted_at": "2026-07-17T19:57:11+00:00",
-      "first_seen_at": "2026-07-20T17:59:40.436360+00:00",
-      "last_seen_at": "2026-07-20T18:29:23.127660+00:00",
-      "score": 2
-    },
-    {
-      "source": "greenhouse",
-      "job_id": "8011452",
-      "title": "Staff Machine Learning Engineer, Ads Conversion Core Modeling",
-      "company": "pinterest",
-      "location": "San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US",
-      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8011452",
-      "posted_at": "2026-07-17T19:57:11+00:00",
-      "first_seen_at": "2026-07-20T17:59:40.436360+00:00",
-      "last_seen_at": "2026-07-20T18:29:23.127660+00:00",
-      "score": 0
-    },
-    {
-      "source": "greenhouse",
-      "job_id": "8015537",
-      "title": "Staff Machine Learning Engineer, Computer Vision",
-      "company": "pinterest",
-      "location": "San Francisco, CA, US; Remote, US",
-      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8015537",
-      "posted_at": "2026-07-17T19:57:11+00:00",
-      "first_seen_at": "2026-07-20T17:59:40.436360+00:00",
-      "last_seen_at": "2026-07-20T18:29:23.127660+00:00",
-      "score": 2
-    },
-    {
-      "source": "greenhouse",
-      "job_id": "8049465",
-      "title": "Staff Machine Learning Engineer, Merchants ",
-      "company": "pinterest",
-      "location": "Toronto, ON, CA, Remote, Canada ",
-      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8049465",
-      "posted_at": "2026-07-17T19:57:11+00:00",
-      "first_seen_at": "2026-07-20T17:59:40.436360+00:00",
-      "last_seen_at": "2026-07-20T18:29:23.127660+00:00",
-      "score": 2
-    },
-    {
-      "source": "greenhouse",
-      "job_id": "7494765",
-      "title": "Staff Machine Learning Engineer, Programmatic Ads",
-      "company": "pinterest",
-      "location": "San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US",
-      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7494765",
-      "posted_at": "2026-07-17T19:57:11+00:00",
-      "first_seen_at": "2026-07-20T17:59:40.436360+00:00",
-      "last_seen_at": "2026-07-20T18:29:23.127660+00:00",
-      "score": 0
-    },
-    {
-      "source": "greenhouse",
-      "job_id": "7967740",
-      "title": "AI Engineer \u2014 Workforce Reinvention",
-      "company": "opensesame",
-      "location": "Remote",
-      "url": "https://boards.greenhouse.io/opensesame/jobs/7967740?gh_jid=7967740",
-      "posted_at": "2026-07-17T19:45:40+00:00",
-      "first_seen_at": "2026-07-20T18:03:59.710328+00:00",
-      "last_seen_at": "2026-07-20T18:29:23.127660+00:00",
-      "score": 3
-    },
-    {
-      "source": "greenhouse",
-      "job_id": "5182557007",
-      "title": "Adjunct Instructor, Applied AI Engineering - Fisk University - Fall 2026 (In-Person, Master\u2019s Degree Preferred)",
-      "company": "codepath",
-      "location": "Nashville, TN, United States",
-      "url": "https://job-boards.greenhouse.io/codepath/jobs/5182557007",
-      "posted_at": "2026-07-17T19:31:41+00:00",
-      "first_seen_at": "2026-07-20T18:01:22.472924+00:00",
-      "last_seen_at": "2026-07-20T18:29:23.127660+00:00",
-      "score": 2
-    },
-    {
-      "source": "greenhouse",
-      "job_id": "8069231",
-      "title": "Analytics Engineer",
-      "company": "constantcontact",
-      "location": "Waltham, MA",
-      "url": "https://job-boards.greenhouse.io/constantcontact/jobs/8069231",
-      "posted_at": "2026-07-17T19:23:48+00:00",
-      "first_seen_at": "2026-07-20T18:04:31.994363+00:00",
-      "last_seen_at": "2026-07-20T18:29:23.127660+00:00",
-      "score": 1
-    },
-    {
-      "source": "greenhouse",
-      "job_id": "7801396003",
-      "title": "Sr Data Scientist, Spotlight Listings",
-      "company": "rdccareers",
-      "location": "Austin, Texas, United States",
-      "url": "https://boards.greenhouse.io/rdccareers/jobs/7801396003?gh_jid=7801396003",
-      "posted_at": "2026-07-17T19:07:13+00:00",
-      "first_seen_at": "2026-07-20T18:00:21.255793+00:00",
-      "last_seen_at": "2026-07-20T18:29:23.127660+00:00",
-      "score": 1
-    },
-    {
-      "source": "greenhouse",
-      "job_id": "8456064002",
-      "title": "Principal Applied AI / ML Engineer",
-      "company": "faire",
-      "location": "San Francisco, CA",
-      "url": "https://boards.greenhouse.io/faire/jobs/8456064002?gh_jid=8456064002",
-      "posted_at": "2026-07-17T18:46:03+00:00",
-      "first_seen_at": "2026-07-20T18:04:26.124157+00:00",
-      "last_seen_at": "2026-07-20T18:29:23.127660+00:00",
-      "score": 0
-    },
-    {
-      "source": "greenhouse",
-      "job_id": "4676295005",
-      "title": "AI/ML Engineer  (Active TS/SCI )",
-      "company": "rackner",
-      "location": "Dayton, OH",
-      "url": "https://job-boards.greenhouse.io/rackner/jobs/4676295005",
-      "posted_at": "2026-07-17T18:33:57+00:00",
-      "first_seen_at": "2026-07-20T18:04:04.511354+00:00",
-      "last_seen_at": "2026-07-20T18:29:23.127660+00:00",
-      "score": 1
-    },
-    {
-      "source": "greenhouse",
-      "job_id": "5290821008",
-      "title": "Lead AI Research Engineer, Embodied Systems",
-      "company": "roboforce",
-      "location": "Milpitas, CA",
-      "url": "https://job-boards.greenhouse.io/roboforce/jobs/5290821008",
-      "posted_at": "2026-07-17T18:32:32+00:00",
-      "first_seen_at": "2026-07-20T18:04:53.727018+00:00",
-      "last_seen_at": "2026-07-20T18:29:23.127660+00:00",
-      "score": 0
-    },
-    {
-      "source": "greenhouse",
-      "job_id": "5030138008",
-      "title": "Senior / Staff AI Research Engineer, Data Infrastructure",
-      "company": "roboforce",
-      "location": "Milpitas, CA",
-      "url": "https://job-boards.greenhouse.io/roboforce/jobs/5030138008",
-      "posted_at": "2026-07-17T18:32:30+00:00",
-      "first_seen_at": "2026-07-20T18:04:53.727018+00:00",
-      "last_seen_at": "2026-07-20T18:29:23.127660+00:00",
-      "score": 0
-    },
-    {
-      "source": "greenhouse",
-      "job_id": "4981345008",
-      "title": "Senior / Staff AI Research Scientist, Foundation Models",
-      "company": "roboforce",
-      "location": "Milpitas, CA",
-      "url": "https://job-boards.greenhouse.io/roboforce/jobs/4981345008",
-      "posted_at": "2026-07-17T18:32:30+00:00",
-      "first_seen_at": "2026-07-20T18:04:53.727018+00:00",
-      "last_seen_at": "2026-07-20T18:29:23.127660+00:00",
-      "score": 0
-    },
-    {
-      "source": "greenhouse",
-      "job_id": "8067359",
-      "title": "Senior Data Analyst ",
-      "company": "constantcontact",
-      "location": "Waltham, MA",
-      "url": "https://job-boards.greenhouse.io/constantcontact/jobs/8067359",
-      "posted_at": "2026-07-17T18:25:41+00:00",
-      "first_seen_at": "2026-07-20T18:04:31.994363+00:00",
-      "last_seen_at": "2026-07-20T18:29:23.127660+00:00",
-      "score": 0
-    },
-    {
-      "source": "greenhouse",
-      "job_id": "8638989002",
-      "title": "Lead AI/ML Engineer (P4645)",
-      "company": "8451",
-      "location": "Cincinnati, OH; Chicago, IL",
-      "url": "https://job-boards.greenhouse.io/8451/jobs/8638989002",
-      "posted_at": "2026-07-17T18:19:04+00:00",
-      "first_seen_at": "2026-07-20T18:03:20.102113+00:00",
-      "last_seen_at": "2026-07-20T18:29:23.127660+00:00",
-      "score": 0
-    },
-    {
-      "source": "greenhouse",
-      "job_id": "8056205",
-      "title": "Senior Analytics Engineer",
-      "company": "pantheon",
-      "location": "United States (Remote)",
-      "url": "https://pantheon.io/about/careers/detail?gh_jid=8056205",
-      "posted_at": "2026-07-17T18:18:51+00:00",
-      "first_seen_at": "2026-07-20T18:02:03.883331+00:00",
-      "last_seen_at": "2026-07-20T18:29:23.127660+00:00",
-      "score": 2
-    },
-    {
-      "source": "greenhouse",
-      "job_id": "8049649",
-      "title": "PLM Data Analyst",
-      "company": "samsara",
-      "location": "Remote - US",
-      "url": "https://www.samsara.com/company/careers/roles/8049649?gh_jid=8049649",
-      "posted_at": "2026-07-17T18:17:37+00:00",
-      "first_seen_at": "2026-07-20T18:03:00.896314+00:00",
-      "last_seen_at": "2026-07-20T18:29:23.127660+00:00",
-      "score": 3
-    },
-    {
-      "source": "greenhouse",
-      "job_id": "4706340005",
-      "title": "Machine Learning Infrastructure Engineer",
-      "company": "asteralabs",
-      "location": "San Jose, California, United States",
-      "url": "https://job-boards.greenhouse.io/asteralabs/jobs/4706340005",
-      "posted_at": "2026-07-17T18:16:33+00:00",
-      "first_seen_at": "2026-07-20T18:01:14.675128+00:00",
-      "last_seen_at": "2026-07-20T18:29:23.127660+00:00",
-      "score": 1
-    },
-    {
-      "source": "greenhouse",
-      "job_id": "7807905003",
-      "title": "Senior Data Scientist, CRM & Personalization ",
-      "company": "rdccareers",
-      "location": "Austin, Texas, United States",
-      "url": "https://boards.greenhouse.io/rdccareers/jobs/7807905003?gh_jid=7807905003",
-      "posted_at": "2026-07-17T18:15:30+00:00",
-      "first_seen_at": "2026-07-20T18:00:21.255793+00:00",
-      "last_seen_at": "2026-07-20T18:29:23.127660+00:00",
-      "score": 0
     }
   ]
 }

@@ -148,3 +148,4 @@ gohighlevel
 crypto
 coupa
 sqaservices
+nextech

@@ -6391,7 +6391,6 @@ saltxc	no_matching_jobs
 aircompany	no_matching_jobs
 vynyl	no_matching_jobs
 krollbondratingagency	no_matching_jobs
-jensenhughes	no_matching_jobs
 carmichaellynch	no_jobs
 paige	http_404
 leagueapps	no_matching_jobs
@@ -6479,7 +6478,6 @@ firstconnectinsurance	no_matching_jobs
 humansignal	no_matching_jobs
 globalfishingwatchrfp	no_matching_jobs
 reflex	no_matching_jobs
-spycloud	no_matching_jobs
 argo	http_404
 help	no_matching_jobs
 orkes	no_matching_jobs
@@ -7499,7 +7497,6 @@ koalafi	no_matching_jobs
 medrio	no_matching_jobs
 arcoeducacao	no_matching_jobs
 goguardian	no_matching_jobs
-updater	no_matching_jobs
 decisions	no_matching_jobs
 vesalius	no_matching_jobs
 glyphicbiotechnologies	no_matching_jobs
@@ -8507,7 +8504,6 @@ greenpointtechnologies	no_matching_jobs
 groma	no_matching_jobs
 assuredguaranty	no_matching_jobs
 sparkland	no_matching_jobs
-strivehealth	no_matching_jobs
 g2vp	no_jobs
 axicorpfinancialservicesptyltd	no_matching_jobs
 cti	no_jobs
