@@ -4374,7 +4374,6 @@ thinkorswim	http_404
 speedtrader	http_404
 suretrader	http_404
 trade ideas	http_404
-coupa	no_matching_jobs
 tc2000	http_404
 trade-ideas	http_404
 trackn trade	http_404

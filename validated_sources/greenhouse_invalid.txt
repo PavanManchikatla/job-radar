@@ -5432,7 +5432,6 @@ equatic	no_jobs
 aviatrix	no_matching_jobs
 gemechanicalasp	no_matching_jobs
 wallapop	no_matching_jobs
-jumio	no_matching_jobs
 studiokraftonboard	no_matching_jobs
 temporal	http_404
 aippublishing	no_matching_jobs
@@ -6134,7 +6133,6 @@ visiersolutionsinc	no_matching_jobs
 givecampus	no_matching_jobs
 feverup	no_matching_jobs
 imagentechnologies	http_404
-bluewaterthinking	no_matching_jobs
 privateequityinsights	no_matching_jobs
 halcyon	no_matching_jobs
 novacredit	no_matching_jobs

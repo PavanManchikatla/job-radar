@@ -587,3 +587,5 @@ nichecom
 attentive
 eve
 livefront
+jumio
+bluewaterthinking
