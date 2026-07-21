@@ -5792,7 +5792,6 @@ supersod	no_matching_jobs
 gulfwindtechnology	no_matching_jobs
 crosschq	http_404
 shapercapital	no_matching_jobs
-mediaalpha	no_matching_jobs
 sonymusicinternshipsus	no_matching_jobs
 healthie	http_404
 sarverorthodontics	no_matching_jobs
@@ -5890,7 +5889,6 @@ hazel	no_matching_jobs
 vscfiresecurityinc	no_matching_jobs
 dremio	no_matching_jobs
 dumol	no_jobs
-setpoint	no_matching_jobs
 tellius	no_matching_jobs
 gcmgrosvenor	no_matching_jobs
 themarshallproject	no_matching_jobs

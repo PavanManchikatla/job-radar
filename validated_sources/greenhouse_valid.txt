@@ -601,3 +601,5 @@ spycloud
 jensenhughes
 updater
 strivehealth
+setpoint
+mediaalpha
