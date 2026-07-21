@@ -149,3 +149,5 @@ crypto
 coupa
 sqaservices
 nextech
+bluelightconsulting
+kariusdx

@@ -9520,7 +9520,6 @@ brooksrunning	no_matching_jobs
 demiurgestudios	no_matching_jobs
 dga	no_matching_jobs
 dialogdesign	no_matching_jobs
-bluelightconsulting	no_matching_jobs
 dioxycle	http_404
 disqo	no_matching_jobs
 clinicalhealthnetworkfortransformation	http_404
@@ -9688,7 +9687,6 @@ jointopo	no_jobs
 joyrideautos	no_matching_jobs
 idt	no_matching_jobs
 kabam	no_matching_jobs
-kariusdx	no_matching_jobs
 jvs-boston	no_matching_jobs
 kasheesh	no_jobs
 januaryinc	no_matching_jobs
