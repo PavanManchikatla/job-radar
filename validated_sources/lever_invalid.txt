@@ -9814,7 +9814,6 @@ owner	http_404
 our-place	no_matching_jobs
 ou-education-services	no_matching_jobs
 leverdemo50000	no_matching_jobs
-omnidian	no_matching_jobs
 parkplace	http_404
 partyslate	http_404
 nxscale	http_404

@@ -663,7 +663,6 @@ salt lending	http_404
 ledn	http_404
 coinloan	http_404
 unchained capital	http_404
-gemini	no_matching_jobs
 babel finance	http_404
 vauld	http_404
 ftx	http_404
@@ -6520,7 +6519,6 @@ maple	http_404
 avalabsecosystem	http_404
 hsgllp	no_matching_jobs
 fuseglobalpartners	no_matching_jobs
-splitero	no_matching_jobs
 ebanx	no_matching_jobs
 aspire	http_404
 casa	no_jobs
@@ -6559,7 +6557,6 @@ billtrust	no_matching_jobs
 zennioptical	no_matching_jobs
 novo	http_404
 accela	no_matching_jobs
-helloheart	no_matching_jobs
 hpiq	no_matching_jobs
 aperiasolutions	no_matching_jobs
 truework	http_404

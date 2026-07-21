@@ -151,3 +151,4 @@ sqaservices
 nextech
 bluelightconsulting
 kariusdx
+omnidian
