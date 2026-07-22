@@ -5049,7 +5049,6 @@ prove	no_matching_jobs
 apptronik	no_matching_jobs
 charterts	no_matching_jobs
 supernal	no_matching_jobs
-rxsense	no_matching_jobs
 omicron	no_matching_jobs
 vestmark	no_matching_jobs
 constellationsoftwareinc	no_matching_jobs

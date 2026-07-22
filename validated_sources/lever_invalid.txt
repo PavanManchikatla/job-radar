@@ -9608,7 +9608,6 @@ geocomply-2	no_matching_jobs
 gettyimages	no_matching_jobs
 getpoint	no_matching_jobs
 get-vocal-pbc	no_matching_jobs
-getlabs	no_matching_jobs
 getsquire	no_matching_jobs
 flowlife	no_matching_jobs
 glow	http_404
@@ -10064,7 +10063,6 @@ titanelectric-ga	no_matching_jobs
 tradeify	no_matching_jobs
 triallibrary	no_matching_jobs
 trilogyfederal	http_404
-trueml	no_matching_jobs
 trivenibio	no_matching_jobs
 trueplatform	no_matching_jobs
 truv	no_matching_jobs
@@ -17058,7 +17056,6 @@ milocredit	no_matching_jobs
 missioncloud	http_404
 missioncontinues	http_404
 mittilabs	http_404
-megaport	no_matching_jobs
 mobisystems	http_404
 mobile-action	no_matching_jobs
 mixlab	no_matching_jobs
