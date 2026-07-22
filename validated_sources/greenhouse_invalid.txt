@@ -7391,7 +7391,6 @@ realchemistry	no_matching_jobs
 daiyafoodsinc	no_matching_jobs
 jackpot	no_matching_jobs
 dualityroboticsinc	http_404
-federato	no_matching_jobs
 carerev	http_404
 gallaghereveliusjonesllp	no_matching_jobs
 vtex	no_matching_jobs
@@ -7569,7 +7568,6 @@ further	no_matching_jobs
 genezenlabs	no_matching_jobs
 sonothera	no_matching_jobs
 boxinc	no_matching_jobs
-protonai	no_matching_jobs
 forerunner	http_404
 hologram	no_matching_jobs
 capco	no_matching_jobs
@@ -8599,7 +8597,6 @@ alphapublicschools	no_matching_jobs
 weploy	no_matching_jobs
 persefoniaiinc	no_matching_jobs
 cfoinsights	no_matching_jobs
-tripadvisor	no_matching_jobs
 nauto	no_matching_jobs
 classdojo	http_404
 ohalogenetics	no_matching_jobs
