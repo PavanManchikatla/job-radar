@@ -5505,7 +5505,6 @@ civilscience	no_matching_jobs
 kalepa	no_matching_jobs
 pagerhealth	no_matching_jobs
 northstarfund	no_jobs
-instabase	no_matching_jobs
 stackline	no_matching_jobs
 charterup	no_matching_jobs
 manychat-featured	no_jobs
@@ -7710,7 +7709,6 @@ quora	http_404
 doctorswithoutborders	http_404
 exoduspoint	no_matching_jobs
 volastratherapeutics	no_matching_jobs
-beaconbiosignals	no_matching_jobs
 samlino	no_matching_jobs
 rimestechnologies	no_matching_jobs
 relaynetwork	no_matching_jobs

@@ -9608,7 +9608,6 @@ geocomply-2	no_matching_jobs
 gettyimages	no_matching_jobs
 getpoint	no_matching_jobs
 get-vocal-pbc	no_matching_jobs
-getsquire	no_matching_jobs
 flowlife	no_matching_jobs
 glow	http_404
 glide	no_matching_jobs
