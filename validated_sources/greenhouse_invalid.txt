@@ -6544,7 +6544,6 @@ aztecgroup	no_jobs
 bloombergorg	no_matching_jobs
 seesaw	no_matching_jobs
 bjss	http_404
-purestorage	no_matching_jobs
 soundhoundinc	http_404
 guardsquare	no_matching_jobs
 wavexr	http_404
