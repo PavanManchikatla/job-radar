@@ -10068,7 +10068,6 @@ truv	no_matching_jobs
 trustly	no_matching_jobs
 thinkahead	no_matching_jobs
 twingate	no_matching_jobs
-ttecdigital	no_matching_jobs
 twodots	no_matching_jobs
 tryjeeves	no_matching_jobs
 uei	no_matching_jobs
@@ -17974,7 +17973,6 @@ the-street	http_404
 the-sia-foundation	no_jobs
 thebabyboxco	http_404
 thebrowser-company	no_jobs
-thalolabs	no_matching_jobs
 terawattinfrastructure	no_matching_jobs
 thedispatch	no_matching_jobs
 theex	no_jobs

@@ -91,7 +91,6 @@ cloudflare	no_matching_jobs
 meilisearch	http_404
 rabbitmq	http_404
 solr	http_404
-elastic	no_matching_jobs
 kafka	http_404
 pulsar	http_404
 nats	http_404
@@ -5025,7 +5024,6 @@ ukmed	no_matching_jobs
 cutover	no_matching_jobs
 retool	http_404
 onemedical	no_matching_jobs
-fanduel	no_matching_jobs
 tropic	http_404
 janestreetevents	no_matching_jobs
 leaseweb	http_404
@@ -5553,7 +5551,6 @@ hiddenlayer	no_matching_jobs
 insightassurance	no_matching_jobs
 woolpert	no_matching_jobs
 applytogreenspark	no_matching_jobs
-lynxanalytics	no_matching_jobs
 paradigm	no_matching_jobs
 vaticlabs	no_matching_jobs
 123	http_404
@@ -7184,7 +7181,6 @@ flip	no_matching_jobs
 himarley	no_matching_jobs
 makeship	http_404
 turingportal	http_404
-aralezbio	no_matching_jobs
 minthouse	http_404
 tbwawh	no_jobs
 firaxis	no_matching_jobs
@@ -7306,7 +7302,6 @@ beewise	http_404
 glassdoor	no_jobs
 coverahealth	no_matching_jobs
 thedutchie	no_matching_jobs
-kellerpostman	no_matching_jobs
 doordashmexico	no_matching_jobs
 workstream	no_matching_jobs
 sbinternal	no_jobs
@@ -7564,7 +7559,6 @@ meetelise	http_404
 further	no_matching_jobs
 genezenlabs	no_matching_jobs
 sonothera	no_matching_jobs
-boxinc	no_matching_jobs
 forerunner	http_404
 hologram	no_matching_jobs
 capco	no_matching_jobs

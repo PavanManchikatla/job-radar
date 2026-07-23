@@ -157,3 +157,5 @@ getlabs
 trueml
 megaport
 getsquire
+ttecdigital
+thalolabs
