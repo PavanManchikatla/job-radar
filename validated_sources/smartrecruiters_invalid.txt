@@ -2262,7 +2262,6 @@ gskill	no_postings
 kingston	no_postings
 patriot	no_postings
 pny	no_postings
-sandisk	no_matching_jobs
 mushkin	no_postings
 ocz	no_postings
 corsair	no_postings
