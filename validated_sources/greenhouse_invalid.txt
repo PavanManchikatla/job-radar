@@ -3002,7 +3002,6 @@ constant contact	http_404
 cntk	http_404
 lasagne	http_404
 campaign monitor	http_404
-klaviyo	no_matching_jobs
 paddle	http_404
 getresponse	http_404
 drip	http_404
@@ -6192,7 +6191,6 @@ moz	http_404
 mrbeastyoutube	no_matching_jobs
 teamlfg	no_matching_jobs
 airup	no_matching_jobs
-ecoatmgazelle	no_matching_jobs
 entersekt	no_matching_jobs
 wysemetersolutionsinc	http_404
 maravailifesciences	no_matching_jobs
@@ -6304,7 +6302,6 @@ ftgoldenwolf	http_404
 tecovas	no_matching_jobs
 harnessinc	no_matching_jobs
 classkick	http_404
-bpcs	no_matching_jobs
 kettle	no_matching_jobs
 juno	no_matching_jobs
 renewedvision	no_matching_jobs
@@ -6527,7 +6524,6 @@ hyannisportresearch	no_matching_jobs
 cognism	no_matching_jobs
 openfx	no_matching_jobs
 nve	no_matching_jobs
-ennoblecare	no_matching_jobs
 linushealth	http_404
 sciencelogic	http_404
 zenrows	no_matching_jobs
@@ -6865,7 +6861,6 @@ beyond	no_matching_jobs
 stressfree	no_matching_jobs
 5minlab	no_matching_jobs
 pulley	no_jobs
-coursera	no_matching_jobs
 alayacare	no_matching_jobs
 goclio	http_404
 agwestfarmcredit	no_matching_jobs
