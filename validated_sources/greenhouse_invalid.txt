@@ -7655,7 +7655,6 @@ harpergroup	no_matching_jobs
 digitalfemsa	http_404
 ridedott-ground-roles	http_404
 logiwacareers	http_404
-cellanome	no_matching_jobs
 plos	no_matching_jobs
 successacademycharterschool	no_matching_jobs
 buildingdecarbonizationcoalition	no_jobs
