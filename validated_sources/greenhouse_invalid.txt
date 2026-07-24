@@ -8296,7 +8296,6 @@ aperaaiinc	no_matching_jobs
 picarroinc	no_matching_jobs
 newsweek	no_matching_jobs
 luckybeverageco	no_matching_jobs
-postscript	no_matching_jobs
 aevexaerospace	no_matching_jobs
 meshy	http_404
 hopin	http_404
