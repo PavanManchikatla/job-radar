@@ -140,7 +140,6 @@ clickup	http_404
 notion	http_404
 asana	no_matching_jobs
 glitch	http_404
-wrike	no_matching_jobs
 workfront	http_404
 mavenlink	http_404
 teamwork	http_404
