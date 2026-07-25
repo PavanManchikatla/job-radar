@@ -6294,7 +6294,6 @@ urbansportsclub	no_matching_jobs
 cirkul	no_matching_jobs
 veranahealth	no_matching_jobs
 unitedfirm	no_matching_jobs
-chanzuckerberginitiative	no_matching_jobs
 phynetdermatology	no_matching_jobs
 wheelhousedmg	no_matching_jobs
 ftgoldenwolf	http_404
