@@ -1,12 +1,14 @@
 ## Jobs Feed (auto-updated)
 
 <!-- JOBS:START -->
-_Last updated: 2026-07-25 08:50 CDT_
+_Last updated: 2026-07-25 12:24 CDT_
 
 | Posted | Company | Title | Location | Source |
 |---|---|---|---|---|
 | 2026-07-25 | verisign | [Research Engineer](https://job-boards.greenhouse.io/verisign/jobs/7650739003) | Reston,Virginia,United States | greenhouse |
 | 2026-07-25 | verisign | [Sr Research Engineer](https://job-boards.greenhouse.io/verisign/jobs/7636398003) | Reston,Virginia,United States | greenhouse |
+| 2026-07-25 | redwoodmaterials | [Data Engineering Manager](https://boards.greenhouse.io/redwoodmaterials/jobs/6008522004?gh_jid=6008522004) | McCarran, NV | greenhouse |
+| 2026-07-25 | yurtsai | [Agentic AI Engineer / Software Engineer - AI Applications (Remote US)](https://job-boards.greenhouse.io/yurtsai/jobs/5182958007) | Remote USA | greenhouse |
 | 2026-07-25 | redwoodmaterials | [Senior Analytics Engineer](https://boards.greenhouse.io/redwoodmaterials/jobs/6116721004?gh_jid=6116721004) | San Francisco, California, United States | greenhouse |
 | 2026-07-25 | reddit | [Senior Machine Learning Engineer, ML Efficiency](https://job-boards.greenhouse.io/reddit/jobs/8084032) | Remote - United States | greenhouse |
 | 2026-07-25 | reddit | [Sr. Staff Data Scientist - Ads Measurement, Signals, Privacy](https://job-boards.greenhouse.io/reddit/jobs/8072046) | Remote - United States | greenhouse |
@@ -20,7 +22,6 @@ _Last updated: 2026-07-25 08:50 CDT_
 | 2026-07-25 | reddit | [Senior Machine Learning Systems Engineer, Ads ML Experience Platform](https://job-boards.greenhouse.io/reddit/jobs/8022136) | Remote - United States | greenhouse |
 | 2026-07-25 | babylist | [Senior Data Engineer](https://job-boards.greenhouse.io/babylist/jobs/6100946004) | United States | greenhouse |
 | 2026-07-25 | kellerpostman | [Marketing Data Analyst](https://job-boards.greenhouse.io/kellerpostman/jobs/5194516007) | Remote | greenhouse |
-| 2026-07-25 | redwoodmaterials | [Data Engineering Manager](https://boards.greenhouse.io/redwoodmaterials/jobs/6008522004?gh_jid=6008522004) | McCarran, NV | greenhouse |
 | 2026-07-25 | andurilindustries | [Data Engineer, Manufacturing Quality](https://boards.greenhouse.io/andurilindustries/jobs/5167749007?gh_jid=5167749007) | Atlanta, Georgia, United States | greenhouse |
 | 2026-07-25 | databricks | [AI Engineer - FDE (Forward Deployed Engineer)](https://databricks.com/company/careers/open-positions/job?gh_jid=8099751002) | Remote - India | greenhouse |
 | 2026-07-25 | twilio | [Staff, Analytics Engineer, GTM Data Science & Analytics](https://job-boards.greenhouse.io/twilio/jobs/8008538) | Remote - US | greenhouse |
@@ -461,23 +462,4 @@ _Last updated: 2026-07-25 08:50 CDT_
 | 2026-07-22 | extend | [Analytics Engineer](https://job-boards.greenhouse.io/extend/jobs/6122551004) | Remote, US | greenhouse |
 | 2026-07-22 | beyondtrust | [Sr Data Engineer](https://job-boards.greenhouse.io/beyondtrust/jobs/7716089) | Johns Creek, GA | greenhouse |
 | 2026-07-22 | beyondtrust | [Staff AI Data Scientist](https://job-boards.greenhouse.io/beyondtrust/jobs/7885501) | Remote Canada \| Remote United States | greenhouse |
-| 2026-07-22 | efficientcomputer | [Performance Research Engineer (multiple levels)](https://job-boards.greenhouse.io/efficientcomputer/jobs/4303178009) | San Jose, CA OR Pittsburgh, PA | greenhouse |
-| 2026-07-22 | metropolis | [Director, Business Intelligence](https://job-boards.greenhouse.io/metropolis/jobs/7810127003) | Los Angeles, California, United States | greenhouse |
-| 2026-07-22 | eclinicalsolutions | [Principal AI Engineer – Automation & AI](https://job-boards.greenhouse.io/eclinicalsolutions/jobs/5067845007) | Remote | greenhouse |
-| 2026-07-22 | metropolis | [Director, Business Intelligence](https://job-boards.greenhouse.io/metropolis/jobs/7810126003) | Seattle, Washington, United States | greenhouse |
-| 2026-07-22 | tripadvisor | [Senior Data Engineer](https://job-boards.greenhouse.io/tripadvisor/jobs/8079199) | London, United Kingdom - Remote / Hybrid | greenhouse |
-| 2026-07-22 | globalizationpartners | [Senior Data Scientist & Engineer](https://job-boards.greenhouse.io/globalizationpartners/jobs/7704107003) | India (Remote-First) | greenhouse |
-| 2026-07-22 | afresh | [Senior Staff Data Engineer](https://job-boards.greenhouse.io/afresh/jobs/6089839004) | United States | greenhouse |
-| 2026-07-22 | afresh | [Staff Applied Scientist (Distribution Center)](https://job-boards.greenhouse.io/afresh/jobs/6105870004) | Remote - Ontario, Canada | greenhouse |
-| 2026-07-22 | afresh | [Staff Applied Scientist (Distribution Center)](https://job-boards.greenhouse.io/afresh/jobs/6105868004) | Remote - United States | greenhouse |
-| 2026-07-22 | thebrattlegroup | [Data and AI Engineer](https://job-boards.greenhouse.io/thebrattlegroup/jobs/4713471005) | Boston, Massachusetts, United States | greenhouse |
-| 2026-07-22 | protonai | [Senior Data Engineer (AI-Native) — Data Layer](https://job-boards.greenhouse.io/protonai/jobs/6122434004) | LATAM / Europe (remote) | greenhouse |
-| 2026-07-22 | dragos | [Senior AI/ML Engineer](https://job-boards.greenhouse.io/dragos/jobs/5364876008) | United States | greenhouse |
-| 2026-07-22 | grafanalabs | [Senior Machine Learning Engineer, Developer Advocacy \| US \| Remote](https://job-boards.greenhouse.io/grafanalabs/jobs/6121755004) | United States (Remote) | greenhouse |
-| 2026-07-22 | grafanalabs | [Senior Machine Learning Engineer, Developer Advocacy \| UK \| Remote](https://job-boards.greenhouse.io/grafanalabs/jobs/6121956004) | United Kingdom (Remote) | greenhouse |
-| 2026-07-22 | grafanalabs | [Senior Machine Learning Engineer, Developer Advocacy \| Sweden \| Remote](https://job-boards.greenhouse.io/grafanalabs/jobs/6121954004) | Sweden (Remote) | greenhouse |
-| 2026-07-22 | grafanalabs | [Senior Machine Learning Engineer, Developer Advocacy \| Spain \| Remote](https://job-boards.greenhouse.io/grafanalabs/jobs/6121949004) | Spain (Remote) | greenhouse |
-| 2026-07-22 | grafanalabs | [Senior Machine Learning Engineer, Developer Advocacy \| Ireland \| Remote](https://job-boards.greenhouse.io/grafanalabs/jobs/6121948004) | Republic of Ireland (Remote) | greenhouse |
-| 2026-07-22 | grafanalabs | [Senior Machine Learning Engineer, Developer Advocacy \| Germany \| Remote](https://job-boards.greenhouse.io/grafanalabs/jobs/6121947004) | Germany (Remote) | greenhouse |
-| 2026-07-22 | grafanalabs | [Senior Machine Learning Engineer, Developer Advocacy \| Canada \| Remote](https://job-boards.greenhouse.io/grafanalabs/jobs/6121756004) | Canada (Remote) | greenhouse |
 <!-- JOBS:END -->
