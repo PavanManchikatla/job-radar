@@ -1,13 +1,14 @@
 # Jobs Feed (Page 1/1)
 
-_Last updated: 2026-07-25 01:45 CDT_
+_Last updated: 2026-07-25 05:14 CDT_
 
 | Posted | Company | Title | Location | Source |
 |---|---|---|---|---|
+| 2026-07-25 | redwoodmaterials | [Data Engineering Manager](https://boards.greenhouse.io/redwoodmaterials/jobs/6008522004?gh_jid=6008522004) | McCarran, NV | greenhouse |
 | 2026-07-25 | redwoodmaterials | [Senior Analytics Engineer](https://boards.greenhouse.io/redwoodmaterials/jobs/6116721004?gh_jid=6116721004) | San Francisco, California, United States | greenhouse |
-| 2026-07-25 | andurilindustries | [Data Engineer, Manufacturing Quality](https://boards.greenhouse.io/andurilindustries/jobs/5167749007?gh_jid=5167749007) | Atlanta, Georgia, United States | greenhouse |
 | 2026-07-25 | verisign | [Research Engineer](https://job-boards.greenhouse.io/verisign/jobs/7650739003) | Reston,Virginia,United States | greenhouse |
 | 2026-07-25 | verisign | [Sr Research Engineer](https://job-boards.greenhouse.io/verisign/jobs/7636398003) | Reston,Virginia,United States | greenhouse |
+| 2026-07-25 | andurilindustries | [Data Engineer, Manufacturing Quality](https://boards.greenhouse.io/andurilindustries/jobs/5167749007?gh_jid=5167749007) | Atlanta, Georgia, United States | greenhouse |
 | 2026-07-25 | databricks | [AI Engineer - FDE (Forward Deployed Engineer)](https://databricks.com/company/careers/open-positions/job?gh_jid=8099751002) | Remote - India | greenhouse |
 | 2026-07-25 | twilio | [Staff, Analytics Engineer, GTM Data Science & Analytics](https://job-boards.greenhouse.io/twilio/jobs/8008538) | Remote - US | greenhouse |
 | 2026-07-25 | scoutai | [Senior AI Researcher](https://job-boards.greenhouse.io/scoutai/jobs/5310257008) | Remote US, Sunnyvale, California | greenhouse |
@@ -118,7 +119,6 @@ _Last updated: 2026-07-25 01:45 CDT_
 | 2026-07-24 | axogen | [Sr. Analytics Engineer](https://www.axogeninc.com/about-axogen/careers/?gh_jid=8636193002) | Tampa, Florida, United States | greenhouse |
 | 2026-07-24 | todaytixgroup | [Lead Data Engineer](https://jobs.lever.co/todaytixgroup/2c6d8ae5-d3cf-43f6-b775-d546b5b7c21f) | New York, NY | lever |
 | 2026-07-24 | pdtpartners | [Quantitative Researcher](https://job-boards.greenhouse.io/pdtpartners/jobs/82459) | New York, NY | greenhouse |
-| 2026-07-24 | redwoodmaterials | [Data Engineering Manager](https://boards.greenhouse.io/redwoodmaterials/jobs/6008522004?gh_jid=6008522004) | McCarran, NV | greenhouse |
 | 2026-07-24 | roblox | [Distinguished Machine Learning Engineer - Safety](https://careers.roblox.com/jobs/7931911?gh_jid=7931911) | San Mateo, CA, United States | greenhouse |
 | 2026-07-24 | roblox | [Distinguished Engineer, Machine Learning Systems – Economy](https://careers.roblox.com/jobs/7332473?gh_jid=7332473) | San Mateo, CA, United States | greenhouse |
 | 2026-07-24 | roblox | [Principal Data Scientist - Safety](https://careers.roblox.com/jobs/7411636?gh_jid=7411636) | San Mateo, CA, United States | greenhouse |
@@ -484,14 +484,5 @@ _Last updated: 2026-07-25 01:45 CDT_
 | 2026-07-22 | pitchbookdata | [Lead Data Engineer](https://job-boards.greenhouse.io/pitchbookdata/jobs/4680089006) | Seattle, Washington, United States | greenhouse |
 | 2026-07-22 | pitchbookdata | [Machine Learning Engineer](https://job-boards.greenhouse.io/pitchbookdata/jobs/4687505006) | Seattle, Washington, United States | greenhouse |
 | 2026-07-22 | pitchbookdata | [Sr. Machine Learning Engineer](https://job-boards.greenhouse.io/pitchbookdata/jobs/4687513006) | Seattle, Washington, United States | greenhouse |
-| 2026-07-22 | figma | [AI Applied Scientist](https://boards.greenhouse.io/figma/jobs/5707966004?gh_jid=5707966004) | San Francisco, CA • New York, NY • United States | greenhouse |
-| 2026-07-22 | figma | [Data Engineer](https://boards.greenhouse.io/figma/jobs/5220003004?gh_jid=5220003004) | San Francisco, CA • New York, NY • United States | greenhouse |
-| 2026-07-22 | figma | [Data Scientist](https://boards.greenhouse.io/figma/jobs/5552580004?gh_jid=5552580004) | San Francisco, CA • New York, NY • United States | greenhouse |
-| 2026-07-22 | figma | [Data Scientist, Core Data -  PhD (2026)](https://boards.greenhouse.io/figma/jobs/5976930004?gh_jid=5976930004) | San Francisco, CA • New York, NY | greenhouse |
-| 2026-07-22 | figma | [Data Scientist, Finance](https://boards.greenhouse.io/figma/jobs/6013304004?gh_jid=6013304004) | San Francisco, CA • New York, NY • United States | greenhouse |
-| 2026-07-22 | figma | [Data Scientist, Marketing](https://boards.greenhouse.io/figma/jobs/6013303004?gh_jid=6013303004) | San Francisco, CA • New York, NY • United States | greenhouse |
-| 2026-07-22 | figma | [Software Engineer, Machine Learning](https://boards.greenhouse.io/figma/jobs/5551532004?gh_jid=5551532004) | San Francisco, CA • New York, NY • United States | greenhouse |
-| 2026-07-22 | bluefishai | [Senior/Staff Data Scientist, Analytics](https://job-boards.greenhouse.io/bluefishai/jobs/5286942008) | Berlin, Remote in Germany | greenhouse |
-| 2026-07-22 | sandtechholdingslimited | [Senior Data Scientist](https://job-boards.eu.greenhouse.io/sandtechholdingslimited/jobs/4927185101) | Remote; South Africa | greenhouse |
 
 [Back to README](../../README.md)
