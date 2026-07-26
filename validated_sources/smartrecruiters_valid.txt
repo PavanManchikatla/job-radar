@@ -1,6 +1,6 @@
+sandisk
 servicenow
 freshworks
-canva
 coherusbiosciences
 evolutioniq
 modernloop
@@ -10,4 +10,3 @@ activehours
 evidation
 startuptap
 zipongo
-sandisk

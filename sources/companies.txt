@@ -19770,3 +19770,20 @@ torus
 ooakdata
 ooak-data
 ooak
+
+# --- YC hiring companies ---
+loops
+kivohealth
+kivo-health
+kivo
+d_model
+innate
+alkali
+os3
+aside
+imperfect
+kuli
+characterquilt
+traceforce
+bloomy
+locke
