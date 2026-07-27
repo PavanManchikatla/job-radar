@@ -5233,7 +5233,6 @@ canonicaljobs	http_404
 testlio	no_matching_jobs
 benevity	http_404
 allbirdsretail	http_404
-nationalpublicradioinc	no_matching_jobs
 seenhealth	no_matching_jobs
 mejuri	no_matching_jobs
 bridgebio	no_matching_jobs
@@ -6788,7 +6787,6 @@ webstacks	no_matching_jobs
 dmgevents	no_matching_jobs
 sidewalklabs	http_404
 vitta	no_matching_jobs
-agilesix	no_matching_jobs
 hwp	http_404
 medistrava	no_matching_jobs
 corcepttherapeutics	no_matching_jobs
@@ -6860,7 +6858,6 @@ ie	no_matching_jobs
 solera	no_jobs
 kindo	http_404
 gardacp	no_matching_jobs
-clear	no_matching_jobs
 harperdbinc	http_404
 lilyai	http_404
 spin	no_matching_jobs

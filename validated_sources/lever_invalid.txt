@@ -3831,7 +3831,6 @@ casdoor	http_404
 stytch	http_404
 descope	http_404
 beyond identity	http_404
-jumpcloud	no_matching_jobs
 transmit security	http_404
 indykite	http_404
 asgardeo	http_404
