@@ -6143,7 +6143,6 @@ givecampus	no_matching_jobs
 mrbeastyoutube	no_matching_jobs
 slingshotbiosciences	no_matching_jobs
 medarrive	http_404
-bluewaterthinking	no_matching_jobs
 orangetwist	no_matching_jobs
 imagentechnologies	http_404
 feverup	no_matching_jobs
@@ -8252,7 +8251,6 @@ typeform	no_matching_jobs
 constrafor	no_matching_jobs
 instiglio	no_matching_jobs
 brinqa	no_matching_jobs
-regscale	no_matching_jobs
 subarupacific	no_matching_jobs
 rampnetwork	no_matching_jobs
 plianttherapeuticsinc	no_matching_jobs

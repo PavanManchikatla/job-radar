@@ -581,3 +581,5 @@ lob
 qventus
 lattice
 mobius
+bluewaterthinking
+regscale

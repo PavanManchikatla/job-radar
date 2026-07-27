@@ -3107,7 +3107,6 @@ cortana	http_404
 alexa	http_404
 baidu vision	http_404
 google assistant	http_404
-activecampaign	no_matching_jobs
 freshdesk	http_404
 siri	http_404
 help scout	http_404
@@ -17043,7 +17042,6 @@ metergysolutions	no_matching_jobs
 mindbloom	no_jobs
 merkle	http_404
 milocredit	no_matching_jobs
-meds	no_matching_jobs
 mindtickle	no_matching_jobs
 mendix	no_matching_jobs
 merlinlabs	no_matching_jobs
