@@ -9505,7 +9505,6 @@ conversica	no_matching_jobs
 cordtechnologies	http_404
 copyai	http_404
 color	http_404
-corebts	no_matching_jobs
 crypto	no_jobs
 crypto-innovation	http_404
 crossfit	no_matching_jobs
@@ -12018,7 +12017,6 @@ ableto	http_404
 abodu	http_404
 aboutfresh	http_404
 abrightbeginnings	http_404
-abovelending	no_matching_jobs
 abpartners	http_404
 absci	http_404
 abstract	http_404
