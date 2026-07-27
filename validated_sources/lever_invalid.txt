@@ -9795,7 +9795,6 @@ novatalent	http_404
 nordsec	no_jobs
 noodle	no_matching_jobs
 nolapublicschools	no_matching_jobs
-netomi	no_matching_jobs
 novaspace	no_matching_jobs
 o-p-e-n	no_matching_jobs
 oneimpression	no_matching_jobs
