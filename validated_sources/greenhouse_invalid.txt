@@ -7165,7 +7165,6 @@ ecoworks	no_matching_jobs
 getground	http_404
 strategichr	no_matching_jobs
 found	no_matching_jobs
-parallel	no_matching_jobs
 gtslivingfoods	no_matching_jobs
 vitablehealth	http_404
 oncoverycare	no_matching_jobs
@@ -8508,7 +8507,6 @@ leap	no_jobs
 digitalcurrencygroup	no_jobs
 giantspoon	http_404
 sandstonecoloradomedicaldetox	no_jobs
-xai	no_matching_jobs
 clipboardhealth	http_404
 philliesbaseballoperations	no_matching_jobs
 livescore9	no_matching_jobs
