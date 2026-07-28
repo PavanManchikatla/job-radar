@@ -6080,7 +6080,6 @@ junglescout	http_404
 cardinalpoint	no_matching_jobs
 anchanto	no_matching_jobs
 bitly	no_jobs
-zestai	no_matching_jobs
 funga	no_jobs
 taxvalet	no_matching_jobs
 phoenixcontact	no_matching_jobs
@@ -6157,7 +6156,6 @@ ovoenergy	no_matching_jobs
 halcyon	no_matching_jobs
 augmentcomputing	no_matching_jobs
 samsungaustinsemiconductor	http_404
-peloton	no_matching_jobs
 metoxinternationalinc	no_matching_jobs
 cleo	no_matching_jobs
 omnipresent	http_404
@@ -6403,7 +6401,6 @@ semafor	no_matching_jobs
 westbrook	no_matching_jobs
 carmichaellynch	no_jobs
 aircompany	no_matching_jobs
-jellyvision	no_matching_jobs
 vynyl	no_matching_jobs
 nobuhoteltoronto	no_jobs
 krollbondratingagency	no_matching_jobs
@@ -6453,7 +6450,6 @@ allcareers	no_matching_jobs
 roadie	no_matching_jobs
 bluecrestcapitalmanagement	no_matching_jobs
 ffeinc	no_matching_jobs
-recordedfuture	no_matching_jobs
 insomniacgames	http_404
 dxacirca	no_matching_jobs
 cayuse	no_matching_jobs
@@ -6843,7 +6839,6 @@ healthnote	http_404
 skyryse	no_matching_jobs
 springfertility	no_matching_jobs
 nerostechnologies	no_matching_jobs
-wight	no_matching_jobs
 clara	no_matching_jobs
 cteph	no_matching_jobs
 salientmotion	no_matching_jobs
