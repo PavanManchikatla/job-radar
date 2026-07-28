@@ -8569,7 +8569,6 @@ avetta	no_matching_jobs
 marqeta	no_matching_jobs
 microblink	no_matching_jobs
 publicsq	http_404
-affirmedrxpbc	no_matching_jobs
 greenbrookmedical	no_matching_jobs
 relaypro	no_matching_jobs
 shearersinternalmobility	http_404
