@@ -9688,7 +9688,6 @@ jvs-boston	no_matching_jobs
 kimiatherapeutics	no_jobs
 jetsetpilates	no_matching_jobs
 knownwell	no_jobs
-kippsocal	no_matching_jobs
 knix	no_matching_jobs
 koalahealth	no_matching_jobs
 intersect	no_matching_jobs
