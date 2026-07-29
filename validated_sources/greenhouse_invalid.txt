@@ -3610,7 +3610,6 @@ mobile iron	http_404
 airwatch	http_404
 workspace one	http_404
 manageengine	http_404
-connectwise	no_matching_jobs
 veeam	http_404
 acronis	http_404
 zscaler	no_matching_jobs
