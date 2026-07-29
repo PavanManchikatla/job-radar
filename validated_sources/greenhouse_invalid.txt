@@ -7109,7 +7109,6 @@ smartasset	no_matching_jobs
 aviationinstituteofmaintenance	no_matching_jobs
 readyresponders	http_404
 ingenious	no_matching_jobs
-taketwo	no_matching_jobs
 familyoffice	no_matching_jobs
 gramgamescareers	no_matching_jobs
 swingeducation	no_jobs

@@ -3314,7 +3314,6 @@ add text	http_400
 text plus	http_400
 quote maker	http_400
 quote creator	http_400
-canva	no_matching_jobs
 pic collage	http_400
 instasize	no_postings
 pic stitch	http_400
