@@ -9841,7 +9841,6 @@ planner5d	no_matching_jobs
 planettechnologies	no_matching_jobs
 pioneer-services	no_matching_jobs
 plexus	no_matching_jobs
-orcabiosystems	no_matching_jobs
 osedea	no_matching_jobs
 plaid	no_jobs
 popsa	http_404
@@ -16106,7 +16105,6 @@ drchrono	http_404
 deliverect	no_matching_jobs
 drizly	http_404
 dronesense	http_404
-dodmg	no_matching_jobs
 dscout	http_404
 dten	http_404
 drivy	http_404
@@ -16843,7 +16841,6 @@ laminarprojects	no_matching_jobs
 lendio	http_404
 leotechnologies	http_404
 leucine	http_404
-lessen	no_matching_jobs
 levvel	http_404
 liberatii	http_404
 lightci	no_jobs
