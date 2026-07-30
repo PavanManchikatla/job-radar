@@ -5646,7 +5646,6 @@ vsapartners	no_matching_jobs
 public	no_matching_jobs
 teknema	no_jobs
 tutorme	no_jobs
-sofi	no_matching_jobs
 teads1	no_matching_jobs
 adaptivewater	no_matching_jobs
 tezatechnologies	http_404
@@ -6785,7 +6784,6 @@ filecoinfoundation	no_matching_jobs
 fairsteadescllc	no_matching_jobs
 imre	no_matching_jobs
 underdogfantasy	no_matching_jobs
-coreweave	no_matching_jobs
 schimenticonstructioncompany	no_matching_jobs
 revivecareers	http_404
 shakepay	no_matching_jobs
