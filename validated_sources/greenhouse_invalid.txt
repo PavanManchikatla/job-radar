@@ -6578,7 +6578,6 @@ lifeskillsautismacademy	no_matching_jobs
 blabuscanada	no_jobs
 whatnot	http_404
 tillatechnologies	http_404
-sparksoftcorporation	no_matching_jobs
 animalcarecenterpearisburg	no_matching_jobs
 msfcareers	no_matching_jobs
 tennesseetitleloansinc	no_matching_jobs
@@ -7014,7 +7013,6 @@ ripplematchinterns	http_404
 accesso	no_matching_jobs
 southernpovertylawcenter	no_matching_jobs
 outlierai	http_404
-bridgeway	no_matching_jobs
 runpod	http_404
 superset	no_matching_jobs
 regionalspotonsales	http_404
@@ -8257,7 +8255,6 @@ clickstop	no_matching_jobs
 farmsanctuary	no_matching_jobs
 noble	no_matching_jobs
 polycamcareers	no_matching_jobs
-effectual	no_matching_jobs
 honeycomb	no_matching_jobs
 manychat	no_matching_jobs
 picoquantitativetrading	no_matching_jobs

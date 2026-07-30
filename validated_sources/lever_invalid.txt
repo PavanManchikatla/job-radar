@@ -10057,7 +10057,6 @@ trustly	no_matching_jobs
 titanelectric-ga	no_matching_jobs
 tryriot	no_matching_jobs
 treering	no_matching_jobs
-ttecdigital	no_matching_jobs
 tryjeeves	no_matching_jobs
 twodots	no_matching_jobs
 theodo	no_matching_jobs
@@ -15776,7 +15775,6 @@ canimmunize	no_jobs
 candlinspection	no_matching_jobs
 canvasmedical	no_matching_jobs
 canvasww	no_matching_jobs
-campusworksinc	no_matching_jobs
 carbon6technologies	http_404
 carboncapture	no_jobs
 carbonhealth	no_jobs
