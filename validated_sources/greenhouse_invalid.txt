@@ -919,7 +919,6 @@ velocify	http_404
 filen	http_404
 skyslope	http_404
 docusign	http_404
-dropbox	no_matching_jobs
 mega	http_404
 mediafire	http_404
 onedrive	http_404
@@ -8268,7 +8267,6 @@ greenlightbiosciences	http_404
 simplextrading	no_matching_jobs
 floodbase	http_404
 talkspacepsychiatry	no_matching_jobs
-breezeairways	no_matching_jobs
 healthgorilla	http_404
 tangoio	http_404
 zencoder	no_matching_jobs
