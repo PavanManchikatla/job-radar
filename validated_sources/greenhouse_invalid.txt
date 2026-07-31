@@ -8579,7 +8579,6 @@ vicecanada	http_404
 strongholdim	http_404
 planetscale	no_matching_jobs
 group14	no_matching_jobs
-platformsh	no_matching_jobs
 lumenbioscience	no_jobs
 blab	no_jobs
 definitivehc	no_matching_jobs
@@ -8636,7 +8635,6 @@ oneproject	no_matching_jobs
 cadrehospice	no_matching_jobs
 aztec	http_404
 feinternational	no_matching_jobs
-remotewoman	no_matching_jobs
 indigenouspactpbcinc	no_matching_jobs
 rheaply	http_404
 asgjobs	no_matching_jobs

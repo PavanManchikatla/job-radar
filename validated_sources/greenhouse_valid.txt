@@ -609,3 +609,5 @@ effectual
 sofi
 coreweave
 goldenstate
+platformsh
+remotewoman
