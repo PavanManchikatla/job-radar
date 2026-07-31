@@ -8043,7 +8043,6 @@ method	no_matching_jobs
 bitwarden	no_matching_jobs
 janetechnologies	http_404
 blastpoint	no_jobs
-goldenstate	no_matching_jobs
 praxisprecisionmedicines	no_matching_jobs
 kmgmedicalgroup	no_jobs
 jrmconstructionmanagementllc	no_matching_jobs

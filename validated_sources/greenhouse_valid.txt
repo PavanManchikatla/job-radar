@@ -608,3 +608,4 @@ bridgeway
 effectual
 sofi
 coreweave
+goldenstate
