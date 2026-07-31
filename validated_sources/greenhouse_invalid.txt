@@ -6297,7 +6297,6 @@ tecovas	no_matching_jobs
 elephantenergy	http_404
 givedirectly	no_matching_jobs
 coactivesystems	http_404
-sterlingtonpllc	no_matching_jobs
 ixllearning	no_matching_jobs
 cordance	no_matching_jobs
 stokespacetechnologies	no_matching_jobs
