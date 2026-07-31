@@ -5419,7 +5419,6 @@ kivaorg	no_matching_jobs
 momentic	no_matching_jobs
 katalyst	no_matching_jobs
 eucalyptus	no_matching_jobs
-bamboohr17	no_matching_jobs
 cadwell	no_matching_jobs
 hipagesgroup	no_matching_jobs
 fleetio	no_matching_jobs
@@ -6015,7 +6014,6 @@ alfredbeneschco	no_matching_jobs
 parity	http_404
 armamentsresearchcompany	no_matching_jobs
 tula	no_jobs
-zetaglobal	no_matching_jobs
 myshell	http_404
 carbonrobotics	no_matching_jobs
 foresightmentalhealth	no_matching_jobs
@@ -8379,7 +8377,6 @@ poshmark	no_jobs
 appfiretechnologiesllc	http_404
 intrinsicrobotics	no_matching_jobs
 topsteptrader	no_matching_jobs
-oura	no_matching_jobs
 epicbio	no_matching_jobs
 madisonreedcolorbar	no_matching_jobs
 burnt	no_matching_jobs
@@ -8591,7 +8588,6 @@ relishworks	no_matching_jobs
 shennonbiotechnologies	no_matching_jobs
 ohalogenetics	no_matching_jobs
 conga	no_matching_jobs
-blinkhealth	no_matching_jobs
 applytowhoosh	no_jobs
 vim	no_matching_jobs
 goldenstatewarriors	http_404
