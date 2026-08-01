@@ -1,6 +1,6 @@
 # Jobs Feed (Page 2/2)
 
-_Last updated: 2026-07-31 22:05 CDT_
+_Last updated: 2026-08-01 01:56 CDT_
 
 Page 2/2 | [Prev](jobs_page_1.md)
 
@@ -29,8 +29,6 @@ Page 2/2 | [Prev](jobs_page_1.md)
 | 2026-07-29 | launch2 | [Business Intelligence Lead, Performance Marketing](https://job-boards.greenhouse.io/launch2/jobs/6129472004) | Denver, CO (remote); Las Vegas, NV (remote); Phoenix, AZ (remote); Salt Lake City, UT (remote); Tucson, AZ (remote) | greenhouse |
 | 2026-07-29 | launch2 | [Business Intelligence Lead, Performance Marketing](https://job-boards.greenhouse.io/launch2/jobs/6129471004) | Los Angeles, CA (remote); Portland, OR (remote); San Diego, CA (remote); Seattle, WA (remote) | greenhouse |
 | 2026-07-29 | canva | [Data Science Manager - GTM Sales](https://api.smartrecruiters.com/v1/companies/canva/postings/6000000001269626) | Austin us | smartrecruiters |
-| 2026-07-29 | abnormalsecurity | [Machine Learning Engineer I - Message Security Products](https://abnormal.ai/careers/jobs/7816935003?gh_jid=7816935003) | Remote - Singapore | greenhouse |
-| 2026-07-29 | weave | [Senior AI Engineer](https://job-boards.greenhouse.io/weave/jobs/4318175009) | San Francisco Bay Area, CA | greenhouse |
 
 Page 2/2 | [Prev](jobs_page_1.md)
 

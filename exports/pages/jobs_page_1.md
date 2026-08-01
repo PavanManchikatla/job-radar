@@ -1,6 +1,6 @@
 # Jobs Feed (Page 1/2)
 
-_Last updated: 2026-07-31 22:05 CDT_
+_Last updated: 2026-08-01 01:56 CDT_
 
 Page 1/2 | [Next](jobs_page_2.md)
 
@@ -8,9 +8,9 @@ Page 1/2 | [Next](jobs_page_2.md)
 | Posted | Company | Title | Location | Source |
 |---|---|---|---|---|
 | 2026-08-01 | redwoodmaterials | [Data Engineering Manager](https://boards.greenhouse.io/redwoodmaterials/jobs/6008522004?gh_jid=6008522004) | McCarran, NV | greenhouse |
-| 2026-08-01 | field-ai | [Software Engineer, Data Engineering](https://jobs.lever.co/field-ai/e3b7bac7-5410-44bb-964c-02815fbd0c97) | Irvine, CA | lever |
 | 2026-08-01 | verisign | [Sr Research Engineer](https://job-boards.greenhouse.io/verisign/jobs/7810286003) | Reston,Virginia,United States | greenhouse |
 | 2026-08-01 | verisign | [Research Engineer](https://job-boards.greenhouse.io/verisign/jobs/7650739003) | Reston,Virginia,United States | greenhouse |
+| 2026-08-01 | field-ai | [Software Engineer, Data Engineering](https://jobs.lever.co/field-ai/e3b7bac7-5410-44bb-964c-02815fbd0c97) | Irvine, CA | lever |
 | 2026-08-01 | snorkelai | [Applied AI Engineer, Federal - Top Secret Clearance](https://job-boards.greenhouse.io/snorkelai/jobs/5721276004) | New York City, NY (Hybrid); San Francisco, CA (Hybrid); United States (Remote) | greenhouse |
 | 2026-08-01 | reddit | [Senior Machine Learning Engineer, Ads Content Understanding](https://job-boards.greenhouse.io/reddit/jobs/8008648) | Remote - United States | greenhouse |
 | 2026-08-01 | reddit | [Senior Staff Data Scientist - Consumer Relevance](https://job-boards.greenhouse.io/reddit/jobs/7974605) | Remote - United States | greenhouse |
