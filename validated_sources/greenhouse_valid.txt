@@ -616,3 +616,5 @@ bamboohr17
 zetaglobal
 oura
 blinkhealth
+day1academies
+thorn

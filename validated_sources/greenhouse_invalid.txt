@@ -7071,7 +7071,6 @@ launchdarkly	no_matching_jobs
 privategdcareers	no_matching_jobs
 psibufet	no_matching_jobs
 nationbuilder	http_404
-day1academies	no_matching_jobs
 sendabiosciences	no_matching_jobs
 accelerationpartners	no_matching_jobs
 messagelab	no_jobs
@@ -8295,7 +8294,6 @@ luckybeverageco	no_matching_jobs
 huntress	no_matching_jobs
 soundengineeringsolutions	http_404
 tandemlaunch	no_matching_jobs
-thorn	no_matching_jobs
 abdielcapital	no_jobs
 recruitingprograms	no_matching_jobs
 meshy	http_404
