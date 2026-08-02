@@ -19787,3 +19787,25 @@ characterquilt
 traceforce
 bloomy
 locke
+
+# --- YC hiring companies ---
+tiltfkadelphia
+tilt-fka-delphia
+tilt
+codecanary
+gloglo
+laminar
+fuse-ai
+koyal
+clickshealth
+clicks-health
+parameterfkahexsecurity
+parameter-fka-hex-security
+parameter
+totalis
+ara
+collar
+gutgutgoose
+coach
+lambdarobotics
+lambda-robotics
