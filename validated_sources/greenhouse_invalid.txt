@@ -5002,7 +5002,6 @@ thena	no_jobs
 btsecondaryboard	http_404
 xpincmlhr3	http_404
 transactlyconnect	no_matching_jobs
-alxafrica	no_matching_jobs
 alumniventures	no_matching_jobs
 paytient	no_matching_jobs
 earthshotlabs	http_404
@@ -5052,7 +5051,6 @@ supernal	no_matching_jobs
 constellationsoftwareinc	no_matching_jobs
 prove	no_matching_jobs
 omicron	no_matching_jobs
-attaintalent	no_matching_jobs
 udacity	no_matching_jobs
 globalaccelerator	no_matching_jobs
 allscripts	http_404
@@ -5515,7 +5513,6 @@ hootsuite	no_matching_jobs
 enterpret	no_matching_jobs
 understood	no_matching_jobs
 cascadeloans	no_matching_jobs
-charterup	no_matching_jobs
 tempus	http_404
 instabase	no_matching_jobs
 pagerhealth	no_matching_jobs
@@ -5721,7 +5718,6 @@ altruist	no_matching_jobs
 trueanomalyinc	no_matching_jobs
 tigergraph	no_matching_jobs
 riseforfamilies	no_matching_jobs
-openteams	no_matching_jobs
 constructionresources	no_matching_jobs
 tracylocke	no_jobs
 folxhealth	no_matching_jobs
@@ -5950,7 +5946,6 @@ oruka	no_matching_jobs
 internaljobsatlush	no_matching_jobs
 arizonaliverhealth	no_matching_jobs
 tandemmoneylimited	no_matching_jobs
-humaninterest	no_matching_jobs
 freenow	no_matching_jobs
 leanixjobs	http_404
 thepharmacyhub	no_matching_jobs
@@ -6593,7 +6588,6 @@ whatnot	http_404
 blabuscanada	no_jobs
 msfcareers	no_matching_jobs
 hpiq	no_matching_jobs
-ennoblecare	no_matching_jobs
 tillatechnologies	http_404
 kyowakirinusa90	no_matching_jobs
 nearform	no_matching_jobs
@@ -7566,7 +7560,6 @@ brightcove	http_404
 genea	no_matching_jobs
 ascend21	no_matching_jobs
 rootstocklabsltd	no_matching_jobs
-thoughtworksreferral	no_matching_jobs
 butternutbox	no_matching_jobs
 formbio	no_matching_jobs
 liquiddeath	no_matching_jobs
@@ -8761,7 +8754,6 @@ studentloanhero	http_404
 hyperfine53	no_matching_jobs
 skillsoft	no_matching_jobs
 oneenergyrenewables	no_jobs
-baton	no_matching_jobs
 mpowerfinancing	no_jobs
 citizen	http_404
 vmlenterprisesolutions	no_matching_jobs

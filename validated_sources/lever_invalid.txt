@@ -9819,7 +9819,6 @@ paramedicservices	no_matching_jobs
 parkplace	http_404
 partyslate	http_404
 parcelvision	no_matching_jobs
-pattern	no_matching_jobs
 pattern-biosciences	http_404
 peerspace	no_matching_jobs
 cgsfederal	no_matching_jobs

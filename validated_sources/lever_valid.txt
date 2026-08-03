@@ -154,3 +154,4 @@ zaimler
 pt78
 protolabs
 tala
+pattern
