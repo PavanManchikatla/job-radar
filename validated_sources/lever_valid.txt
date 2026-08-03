@@ -153,3 +153,4 @@ wwprosolutions
 zaimler
 pt78
 protolabs
+tala
