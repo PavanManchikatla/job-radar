@@ -8677,7 +8677,6 @@ incode	no_matching_jobs
 triplewhale	no_matching_jobs
 nametag	no_matching_jobs
 mitsubishimotorsna	no_matching_jobs
-gleanwork	no_matching_jobs
 devrev	no_matching_jobs
 sonyinteractiveentertainmentplaystation	http_404
 alphataraxia	no_jobs
@@ -13379,7 +13378,6 @@ mothflame	http_404
 moveonorg	no_jobs
 motivpowersystems	http_404
 motorefi	http_404
-motifneurotech	no_matching_jobs
 moxehealth	no_matching_jobs
 movotobrokerage	http_404
 msfinternal	http_404
