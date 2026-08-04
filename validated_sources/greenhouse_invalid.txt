@@ -3853,7 +3853,6 @@ general dynamics	http_404
 raytheon	http_404
 bae systems	http_404
 actalis	http_404
-godaddy	no_matching_jobs
 passwordless	http_404
 l3harris	http_404
 caci	http_404
@@ -6622,7 +6621,6 @@ stripes	http_404
 complyadvantage	no_matching_jobs
 noahmedical	no_matching_jobs
 bam	http_404
-esri	no_matching_jobs
 purestorage	no_matching_jobs
 samainc	no_matching_jobs
 givewell	no_matching_jobs
@@ -6804,7 +6802,6 @@ edobestsandbox	no_jobs
 corcepttherapeutics	no_matching_jobs
 vitta	no_matching_jobs
 schimenticonstructioncompany	no_matching_jobs
-tailscale	no_matching_jobs
 pleo	http_404
 matherplace	no_matching_jobs
 digitalai	http_404
@@ -8349,7 +8346,6 @@ terremotobiosciencesinc	no_matching_jobs
 picarroinc	no_matching_jobs
 residential	no_matching_jobs
 hopin	http_404
-abacusinsights	no_matching_jobs
 aevexaerospace	no_matching_jobs
 metronome	no_jobs
 rivaltechnologies	no_matching_jobs
@@ -13799,7 +13795,6 @@ proconex	http_403
 protenus	http_403
 privateer	no_matching_jobs
 propublica02	http_403
-primerai	no_matching_jobs
 promptworks	http_403
 propellerindustries	http_403
 protocollabs	http_403
