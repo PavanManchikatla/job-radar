@@ -6625,7 +6625,6 @@ bam	http_404
 esri	no_matching_jobs
 purestorage	no_matching_jobs
 samainc	no_matching_jobs
-vectranetworks	no_matching_jobs
 givewell	no_matching_jobs
 wingspan	no_matching_jobs
 rothesaygraduates	no_jobs
@@ -7889,7 +7888,6 @@ fractylhealthinc	no_matching_jobs
 katemcleod	no_matching_jobs
 actblue	no_matching_jobs
 adicettherapeuticsinc	no_matching_jobs
-synack	no_matching_jobs
 dealerinspire	http_404
 upboundext	no_matching_jobs
 sonyhondamobilityofamerica	no_matching_jobs
@@ -8519,7 +8517,6 @@ leap	no_jobs
 sandstonecoloradomedicaldetox	no_matching_jobs
 giantspoon	http_404
 digitalcurrencygroup	no_jobs
-circleci	no_matching_jobs
 livescore9	no_matching_jobs
 co58owxtuvc3ql11n5p1b79mj5flai45kbbwmpk5zvyfvj7tphwrf7kj9r0vr8krxku3n93jffzugl2w8420bfji9ar3q8hle6ty	http_404
 greenpointtechnologies	no_matching_jobs
