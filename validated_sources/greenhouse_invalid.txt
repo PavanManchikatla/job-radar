@@ -5676,7 +5676,6 @@ southwesttitleloans	no_matching_jobs
 modulrfinance	no_matching_jobs
 taskhumancorporate	http_404
 pharomanagement	no_matching_jobs
-sofi	no_matching_jobs
 softermii	http_404
 memphismeats	http_404
 nava	http_404
@@ -6968,7 +6967,6 @@ comstock	no_matching_jobs
 cardioone	http_404
 rocketlab	no_matching_jobs
 paloit	http_404
-gradientai	no_matching_jobs
 airtrunk	no_matching_jobs
 enboarder	no_matching_jobs
 baselayer	no_matching_jobs
@@ -7195,7 +7193,6 @@ flip	no_matching_jobs
 attune	http_404
 turingportal	http_404
 minthouse	http_404
-cookunity	no_matching_jobs
 geotab	no_matching_jobs
 unlimitedtechnology	no_matching_jobs
 makeship	http_404
@@ -7708,7 +7705,6 @@ k2spacecorporation	no_matching_jobs
 windfallbio	http_404
 2kmadrid	no_matching_jobs
 kins	http_404
-industrialelectricmanufacturing	no_matching_jobs
 pricefox	no_matching_jobs
 lisc	no_matching_jobs
 picnichealth	http_404

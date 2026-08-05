@@ -664,3 +664,7 @@ esri
 tailscale
 abacusinsights
 primerai
+sofi
+gradientai
+cookunity
+industrialelectricmanufacturing

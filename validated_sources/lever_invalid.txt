@@ -3847,7 +3847,6 @@ cidaas	http_404
 loginradius	http_404
 frontegg	http_404
 magic link	http_404
-jumpcloud	no_matching_jobs
 passwordless	http_404
 webauthn	http_404
 fido2	http_404
