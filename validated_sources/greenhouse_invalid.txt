@@ -5753,7 +5753,6 @@ accessholdingsmanagementfirm	no_matching_jobs
 ccscorpcareers	no_jobs
 crystaldynamics	no_matching_jobs
 astranis	no_matching_jobs
-sharkninjaoperatingllc	no_matching_jobs
 donorschoose	no_matching_jobs
 propellercommunications	no_jobs
 specterops	no_matching_jobs
