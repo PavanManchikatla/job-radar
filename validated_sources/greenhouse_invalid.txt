@@ -8031,7 +8031,6 @@ healthverity	no_matching_jobs
 tia	no_matching_jobs
 bcomsolutions	no_matching_jobs
 a1msolutions	no_matching_jobs
-unlockhealth	no_matching_jobs
 fronterahealth	no_matching_jobs
 gravitate	no_jobs
 fictiv	no_matching_jobs
@@ -8384,7 +8383,6 @@ gluwa	http_404
 neocybernetica	no_matching_jobs
 zinnia	no_matching_jobs
 everagtester	no_matching_jobs
-devtechnology	no_matching_jobs
 tealmedia	no_matching_jobs
 emigrantbank	no_matching_jobs
 guru	http_404
