@@ -10108,7 +10108,6 @@ vivo-care	no_matching_jobs
 walkme	no_matching_jobs
 voxy-engen	no_matching_jobs
 vida	no_matching_jobs
-vivenu	no_matching_jobs
 wealthsimple	no_jobs
 insomniacookies	no_matching_jobs
 welocalize	http_404
