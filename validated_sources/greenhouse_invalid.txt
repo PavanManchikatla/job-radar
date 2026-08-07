@@ -7136,7 +7136,6 @@ hellotend	no_matching_jobs
 grammarly	http_404
 wunderkind	no_matching_jobs
 credible	no_matching_jobs
-daymarkhealth	no_matching_jobs
 carrumhealth	http_404
 getground	http_404
 vitablehealth	http_404
@@ -7327,7 +7326,6 @@ rzero	no_matching_jobs
 unknownworlds	no_matching_jobs
 lendingtree	no_matching_jobs
 ultragenyxpharmaceutical	no_matching_jobs
-duettoresearch	no_matching_jobs
 cloudsek	no_matching_jobs
 theflatironschool	http_404
 hcg	no_jobs
@@ -7458,7 +7456,6 @@ treehousefab	no_jobs
 chess-at-three-sg	http_404
 piclo	http_404
 placerlabs	no_matching_jobs
-cortex	no_matching_jobs
 templafy	http_404
 axiscompany	no_matching_jobs
 clipboard	http_404
@@ -8708,7 +8705,6 @@ fal	http_404
 droit	no_jobs
 pansophiclearning	no_matching_jobs
 lumosfiber	no_matching_jobs
-inmarket	no_matching_jobs
 seed	no_matching_jobs
 leddartech	http_404
 pixability	no_matching_jobs
