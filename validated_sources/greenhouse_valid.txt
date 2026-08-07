@@ -688,3 +688,4 @@ goguardian
 defcon
 shinvestmentsllc
 freenome
+nebius
