@@ -160,3 +160,5 @@ jumpcloud
 oowlish
 prosper
 truezerotech
+sonatype
+sunwatercapital

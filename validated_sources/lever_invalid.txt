@@ -308,7 +308,6 @@ square	http_404
 block	http_404
 checkout.com	http_404
 adyen	http_404
-sonatype	no_matching_jobs
 braintree	http_404
 dasheroo	http_404
 worldpay	http_404
@@ -10016,7 +10015,6 @@ super	no_matching_jobs
 stable-money1	no_matching_jobs
 super-com	http_404
 supernovacompanies	http_404
-sunwatercapital	no_matching_jobs
 superstate	no_matching_jobs
 swordhealth	no_matching_jobs
 supportkind	no_jobs
