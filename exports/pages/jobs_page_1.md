@@ -1,9 +1,10 @@
 # Jobs Feed (Page 1/1)
 
-_Last updated: 2026-08-07 20:56 CDT_
+_Last updated: 2026-08-08 00:28 CDT_
 
 | Posted | Company | Title | Location | Source |
 |---|---|---|---|---|
+| 2026-08-08 | abnormalsecurity | [Machine Learning Engineer I - Message Security Products](https://abnormal.ai/careers/jobs/7816935003?gh_jid=7816935003) | Remote - Singapore | greenhouse |
 | 2026-08-08 | gitlab | [Staff Backend Engineer (Ruby), AI Engineering: DAP Repository Flows](https://job-boards.greenhouse.io/gitlab/jobs/8646573002) | Remote, Canada; Remote, United States | greenhouse |
 | 2026-08-08 | gitlab | [Senior Backend Engineer (Ruby), AI Engineering: DAP Repository Flows](https://job-boards.greenhouse.io/gitlab/jobs/8646595002) | Remote, United Kingdom | greenhouse |
 | 2026-08-08 | toast | [Senior Principal Software Engineer, Machine Learning](https://careers.toasttab.com/jobs?gh_jid=8054326) | Remote, US | greenhouse |
@@ -33,7 +34,6 @@ _Last updated: 2026-08-07 20:56 CDT_
 | 2026-08-07 | airbnb | [Senior Data Scientist, Trust (Inference)](https://careers.airbnb.com/positions/8059216?gh_jid=8059216) | Remote - USA | greenhouse |
 | 2026-08-07 | elastic | [Agentic AI Engineer](https://jobs.elastic.co/jobs?gh_jid=8079636&gh_jid=8079636) | United States | greenhouse |
 | 2026-08-07 | biohub | [Staff/Senior Staff Data Engineer](https://job-boards.greenhouse.io/biohub/jobs/7767734) | New York, NY (Hybrid); Redwood City, CA (Hybrid) | greenhouse |
-| 2026-08-07 | Location: San Francisco, CA Willing to relocate: Yes Technologies: Python, TypeScript, LLM Evaluation Pipelines, Multi-Agent Systems, ReAct Frameworks, Fine-Tuning (DPO), OpenSearch, MongoDB, Postgres, Next.js Résumé / Contact: linkedin.com/in/amarcs | [amardnagargoje@gmail.com About Me: Senior AI/ML Engineer with deep expertise in production multi-agent orchestration, deterministic flow engines, and evaluation infrastructure. Recently served as Chief Data Officer at a non-profit startup and built automated LLM benchmarking tools, real-time voice streaming agents, and agentic evaluation pipelines. Looking for Senior AI/ML, Agent Infrastructure, or Evaluation Engineering roles.](https://news.ycombinator.com/item?id=49216911) | — | hn_hiring |
 | 2026-08-07 | roboforce | [Senior / Staff AI Research Scientist, Foundation Models](https://job-boards.greenhouse.io/roboforce/jobs/4981345008) | Milpitas, CA | greenhouse |
 | 2026-08-07 | roboforce | [Senior / Staff AI Research Engineer, Data Infrastructure](https://job-boards.greenhouse.io/roboforce/jobs/5030138008) | Milpitas, CA | greenhouse |
 | 2026-08-07 | roboforce | [Lead AI Research Engineer, Embodied Systems](https://job-boards.greenhouse.io/roboforce/jobs/5290821008) | Milpitas, CA | greenhouse |
@@ -108,8 +108,6 @@ _Last updated: 2026-08-07 20:56 CDT_
 | 2026-08-07 | vestwell | [Senior Data Analyst - Product](https://job-boards.greenhouse.io/vestwell/jobs/7821510003) | New York, NY \| Austin, TX | greenhouse |
 | 2026-08-07 | toast | [Data Scientist II](https://careers.toasttab.com/jobs?gh_jid=7984730) | Remote, USA | greenhouse |
 | 2026-08-07 | pindropsecurity | [Research Scientist II (Fraud)](https://www.pindrop.com/careers/job-title/?gh_jid=8008113) | US - Remote; US-Remote | greenhouse |
-| 2026-08-07 | beaconbiosignals | [Principal Data Engineer](https://job-boards.greenhouse.io/beaconbiosignals/jobs/4341499009) | Boston, MA / Remote | greenhouse |
-| 2026-08-07 | beaconbiosignals | [Senior Data Engineer](https://job-boards.greenhouse.io/beaconbiosignals/jobs/4329151009) | Remote | greenhouse |
 | 2026-08-07 | downtownmusic | [Data Engineer](https://job-boards.greenhouse.io/downtownmusic/jobs/8642700002) | Nashville, Tennessee, United States | greenhouse |
 | 2026-08-07 | dotmatics | [Cloud Data Analytics Engineer](https://www.dotmatics.com/jobs/apply?gh_jid=4713384005) | Remote - United Kingdom | greenhouse |
 | 2026-08-07 | dotmatics | [Cloud Data Analytics Engineer](https://www.dotmatics.com/jobs/apply?gh_jid=4702208005) | Remote - Canada | greenhouse |
@@ -124,17 +122,17 @@ _Last updated: 2026-08-07 20:56 CDT_
 | 2026-08-07 | parachutehealth | [Lead Data Analyst](https://job-boards.greenhouse.io/parachutehealth/jobs/4932660007) | U.S. Remote | greenhouse |
 | 2026-08-07 | lyft | [Senior Data Scientist, Algorithms, Lyft Biz](https://app.careerpuck.com/job-board/lyft/job/8621789002?gh_jid=8621789002) | New York, NY | greenhouse |
 | 2026-08-07 | esri | [Data Scientist I](https://www.esri.com/careers/5173232007?gh_jid=5173232007) | St. Louis, MO - Westport | greenhouse |
-| 2026-08-07 | esri | [System Engineer- Enterprise Data Engineer](https://www.esri.com/careers/5157005007?gh_jid=5157005007) | St. Louis, MO - Globe | greenhouse |
-| 2026-08-07 | esri | [System Engineer- Enterprise Data Engineer](https://www.esri.com/careers/5157010007?gh_jid=5157010007) | Redlands, CA | greenhouse |
 | 2026-08-07 | esri | [System Engineer- Enterprise Data Engineer](https://www.esri.com/careers/5157006007?gh_jid=5157006007) | Vienna, Virginia, United States | greenhouse |
-| 2026-08-07 | esri | [System Engineer – Enterprise Data Engineer (Mission-Focused)](https://www.esri.com/careers/5171928007?gh_jid=5171928007) | St. Louis, MO - Globe | greenhouse |
+| 2026-08-07 | esri | [System Engineer- Enterprise Data Engineer](https://www.esri.com/careers/5157010007?gh_jid=5157010007) | Redlands, CA | greenhouse |
+| 2026-08-07 | esri | [System Engineer- Enterprise Data Engineer](https://www.esri.com/careers/5157005007?gh_jid=5157005007) | St. Louis, MO - Globe | greenhouse |
 | 2026-08-07 | esri | [System Engineer – Enterprise Data Engineer (Mission-Focused)](https://www.esri.com/careers/5171930007?gh_jid=5171930007) | Vienna, Virginia, United States | greenhouse |
+| 2026-08-07 | esri | [System Engineer – Enterprise Data Engineer (Mission-Focused)](https://www.esri.com/careers/5171928007?gh_jid=5171928007) | St. Louis, MO - Globe | greenhouse |
 | 2026-08-07 | esri | [System Engineer – Enterprise Data Engineer (Mission-Focused)](https://www.esri.com/careers/5171937007?gh_jid=5171937007) | Redlands, CA | greenhouse |
+| 2026-08-07 | esri | [Technical Consultant- Enterprise Data Engineer](https://www.esri.com/careers/5157495007?gh_jid=5157495007) | Redlands, CA | greenhouse |
 | 2026-08-07 | esri | [Technical Consultant- Enterprise Data Engineer](https://www.esri.com/careers/5157486007?gh_jid=5157486007) | St. Louis, MO - Globe | greenhouse |
 | 2026-08-07 | esri | [Technical Consultant- Enterprise Data Engineer](https://www.esri.com/careers/5157491007?gh_jid=5157491007) | Vienna, Virginia, United States | greenhouse |
-| 2026-08-07 | esri | [Technical Consultant- Enterprise Data Engineer](https://www.esri.com/careers/5157495007?gh_jid=5157495007) | Redlands, CA | greenhouse |
-| 2026-08-07 | esri | [Technical Consultant – Enterprise Data Engineer (Geospatial Data & Platforms)](https://www.esri.com/careers/5171873007?gh_jid=5171873007) | St. Louis, MO - Globe | greenhouse |
 | 2026-08-07 | esri | [Technical Consultant – Enterprise Data Engineer (Geospatial Data & Platforms)](https://www.esri.com/careers/5171882007?gh_jid=5171882007) | Redlands, CA | greenhouse |
+| 2026-08-07 | esri | [Technical Consultant – Enterprise Data Engineer (Geospatial Data & Platforms)](https://www.esri.com/careers/5171873007?gh_jid=5171873007) | St. Louis, MO - Globe | greenhouse |
 | 2026-08-07 | esri | [Technical Consultant – Enterprise Data Engineer (Geospatial Data & Platforms)](https://www.esri.com/careers/5171874007?gh_jid=5171874007) | Vienna, Virginia, United States | greenhouse |
 | 2026-08-07 | origisenergy | [Energy Market Analytics Manager](https://job-boards.greenhouse.io/origisenergy/jobs/5641152004) | Austin, Texas, United States; Miami, Florida, United States; New York, New York, United States; Remote | greenhouse |
 | 2026-08-07 | charterup | [Staff Data Scientist](https://job-boards.greenhouse.io/charterup/jobs/5263464008) | Remote | greenhouse |
@@ -185,7 +183,6 @@ _Last updated: 2026-08-07 20:56 CDT_
 | 2026-08-06 | freenome | [Senior Machine Learning Engineer](https://job-boards.greenhouse.io/freenome/jobs/8535248002) | Remote | greenhouse |
 | 2026-08-06 | freenome | [Staff Machine Learning Scientist](https://job-boards.greenhouse.io/freenome/jobs/8627491002) | Remote | greenhouse |
 | 2026-08-06 | omadahealth | [Senior Clinical Research Scientist](https://job-boards.greenhouse.io/omadahealth/jobs/8106431) | Remote, USA | greenhouse |
-| 2026-08-06 | hugeinc | [Freelance Senior Data Engineer](https://job-boards.greenhouse.io/hugeinc/jobs/8107381) | United States | greenhouse |
 | 2026-08-06 | verisign | [Research Engineer](https://job-boards.greenhouse.io/verisign/jobs/7820611003) | Reston,Virginia,United States | greenhouse |
 | 2026-08-06 | verisign | [Data Analyst II](https://job-boards.greenhouse.io/verisign/jobs/7817954003) | Reston,Virginia,United States | greenhouse |
 | 2026-08-06 | verisign | [Sr Research Engineer](https://job-boards.greenhouse.io/verisign/jobs/7810286003) | Reston,Virginia,United States | greenhouse |
@@ -447,7 +444,5 @@ _Last updated: 2026-08-07 20:56 CDT_
 | 2026-08-05 | scopely | [Data Scientist, Marketing](https://job-boards.greenhouse.io/scopely/jobs/5208115008?gh_jid=5208115008) | US - San Francisco, United States; US - Sunnyvale, United States | greenhouse |
 | 2026-08-05 | scopely | [Senior Data Scientist, Marketing](https://job-boards.greenhouse.io/scopely/jobs/5234167008?gh_jid=5234167008) | US - San Francisco, United States | greenhouse |
 | 2026-08-05 | cloverhealth | [Senior Data Scientist](https://job-boards.greenhouse.io/cloverhealth/jobs/7848974) | Remote - USA | greenhouse |
-| 2026-08-05 | field-ai | [Robotics AI Engineer - Sensor Calibration](https://jobs.lever.co/field-ai/1ff2ae13-b4a7-4800-a52e-d1c858924861) | Irvine, CA | lever |
-| 2026-08-05 | generalmatter | [Applied AI Engineer](https://job-boards.greenhouse.io/generalmatter/jobs/5190258008) | Los Angeles, CA | greenhouse |
 
 [Back to README](../../README.md)
