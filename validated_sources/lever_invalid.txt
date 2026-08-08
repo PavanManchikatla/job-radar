@@ -16910,7 +16910,6 @@ longwall	no_matching_jobs
 lucasmuseum	no_matching_jobs
 lrymediagroup	http_404
 lumosity	http_404
-lindblad-expeditions	no_matching_jobs
 luminarycloud	http_404
 lumafield	no_matching_jobs
 liveoakfiber	no_matching_jobs
