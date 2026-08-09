@@ -19809,3 +19809,25 @@ gutgutgoose
 coach
 lambdarobotics
 lambda-robotics
+
+# --- YC hiring companies ---
+testrigor
+truemetrics
+foundationindustries
+foundation-industries
+layers
+zarna
+servo7
+discoveredmaterials
+discovered-materials
+discovered
+lab0
+soria
+unowallet
+uno-wallet
+uno
+revnu
+klaimee
+dawnindustries
+dawn-industries
+dawn
