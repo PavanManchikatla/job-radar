@@ -9526,7 +9526,6 @@ dga	no_matching_jobs
 disqo	no_matching_jobs
 cyara	no_matching_jobs
 distru	no_matching_jobs
-crypto	no_matching_jobs
 djeholdings	http_404
 ciandt	no_matching_jobs
 coderio	no_matching_jobs
