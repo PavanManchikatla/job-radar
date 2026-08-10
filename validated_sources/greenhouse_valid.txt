@@ -570,3 +570,7 @@ analyticservicesinc
 beegenius
 known
 berkadia
+bridgebio
+sezzle
+esri
+homechef

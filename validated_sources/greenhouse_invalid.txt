@@ -5245,7 +5245,6 @@ canonicaljobs	http_404
 eventbriteinc	no_jobs
 seenhealth	no_matching_jobs
 mejuri	no_matching_jobs
-bridgebio	no_matching_jobs
 thetradedesk	no_matching_jobs
 fiveringsllc	no_matching_jobs
 liventus	no_matching_jobs
@@ -5869,7 +5868,6 @@ shapetherapeutics	http_404
 haizelabs	no_matching_jobs
 gafg	http_404
 rebuildmanufacturing	no_matching_jobs
-sezzle	no_matching_jobs
 joinforage	no_jobs
 pliancy	no_matching_jobs
 accrue	no_matching_jobs
@@ -6536,7 +6534,6 @@ gostudent	no_matching_jobs
 carbonfuture	no_jobs
 betsierivervet	no_jobs
 myheritage	no_matching_jobs
-esri	no_matching_jobs
 industrious	http_404
 ecoinc	no_jobs
 relaygraduateschoolofeducation	no_matching_jobs
@@ -8173,7 +8170,6 @@ oxosmedical	no_matching_jobs
 phizenix	no_matching_jobs
 143studiosinc	no_matching_jobs
 saasgroup	no_matching_jobs
-homechef	no_matching_jobs
 starfaceworld	no_matching_jobs
 primemedicine	no_matching_jobs
 sparkadvisors	no_matching_jobs
