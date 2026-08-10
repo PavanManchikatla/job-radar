@@ -7455,7 +7455,6 @@ maddoxindustrialtransformer	no_matching_jobs
 tdg	no_matching_jobs
 kraftonindia	no_matching_jobs
 piermontbank	no_matching_jobs
-known	no_matching_jobs
 quberesearchandtechnologies	no_matching_jobs
 momentmarkets	http_404
 penrodsoftware	http_404
@@ -8012,7 +8011,6 @@ studioscience	no_matching_jobs
 teamrubicon	no_matching_jobs
 toggleai	no_matching_jobs
 liberate	no_matching_jobs
-berkadia	no_matching_jobs
 howardair	no_matching_jobs
 perfectserve	no_matching_jobs
 civisanalytics	no_matching_jobs
