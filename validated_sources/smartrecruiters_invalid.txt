@@ -374,7 +374,6 @@ transfergo	no_postings
 ria	no_postings
 moneygram	no_postings
 westernunion	no_postings
-wise	no_matching_jobs
 transfast	no_postings
 orlandi valuta	http_400
 uniteller	no_postings
