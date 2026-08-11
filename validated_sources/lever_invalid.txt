@@ -10111,7 +10111,6 @@ vevo	no_matching_jobs
 unlimit	no_matching_jobs
 warblerlabs	http_404
 wayground	http_404
-wealthfront	no_matching_jobs
 welocalize	http_404
 wealthsimple	no_jobs
 whoop	no_jobs
