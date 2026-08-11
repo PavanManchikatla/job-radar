@@ -3845,7 +3845,6 @@ digicert	no_matching_jobs
 buypass	http_404
 certum	http_404
 izenpe	http_404
-godaddy	no_matching_jobs
 actalis	http_404
 startcom	http_404
 camerfirma	http_404
@@ -6574,7 +6573,6 @@ aztecgroup	no_jobs
 radixuniversity	no_matching_jobs
 shoparoundthecorner	no_matching_jobs
 seesaw	no_matching_jobs
-zipcolimited	no_matching_jobs
 bloombergorg	no_matching_jobs
 soundhoundinc	http_404
 wavexr	http_404
