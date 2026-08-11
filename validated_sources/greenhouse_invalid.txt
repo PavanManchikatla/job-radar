@@ -8536,7 +8536,6 @@ cityoffortworth	no_matching_jobs
 grassrootsanalytics	no_matching_jobs
 digitalcurrencygroup	no_jobs
 leap	no_jobs
-philliesbaseballoperations	no_matching_jobs
 sandstonecoloradomedicaldetox	no_matching_jobs
 livescore9	no_matching_jobs
 co58owxtuvc3ql11n5p1b79mj5flai45kbbwmpk5zvyfvj7tphwrf7kj9r0vr8krxku3n93jffzugl2w8420bfji9ar3q8hle6ty	http_404
@@ -8572,7 +8571,6 @@ worldsuntold	http_404
 americaneedsyou	http_404
 alumis	no_matching_jobs
 bulletfarm	http_404
-tubescience52	no_matching_jobs
 wisetack	no_matching_jobs
 stitchfix	no_matching_jobs
 amenitiz	http_404
