@@ -161,7 +161,6 @@ airtable	no_matching_jobs
 everhour	http_404
 time doctor	http_404
 rescuetime	http_404
-wrike	no_matching_jobs
 projectmanager	http_404
 hubstaff	http_404
 forest	http_404
