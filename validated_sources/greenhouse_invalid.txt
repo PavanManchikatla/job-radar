@@ -5633,7 +5633,6 @@ mural	http_404
 gather	no_matching_jobs
 moveworks	http_404
 tutorme	http_404
-avride	no_matching_jobs
 oasisnetwork	http_404
 cerebrassystems	http_404
 quisitivejobs	no_matching_jobs
@@ -5932,7 +5931,6 @@ m0dbathenextthingltd	no_matching_jobs
 bettyjobboard	no_matching_jobs
 payhawkio	no_matching_jobs
 smavagmbh	no_matching_jobs
-oddball	no_matching_jobs
 thirtymadison	http_404
 rhythmagency	http_404
 stage	no_matching_jobs
@@ -6577,7 +6575,6 @@ graft	http_404
 bjss	http_404
 cleanlaundry	no_matching_jobs
 zennioptical	no_matching_jobs
-purestorage	no_matching_jobs
 ventustherapeutics	no_jobs
 novo	http_404
 truework	http_404
