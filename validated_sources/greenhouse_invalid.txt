@@ -5726,7 +5726,6 @@ nice	no_matching_jobs
 riseforfamilies	no_matching_jobs
 folxhealth	no_matching_jobs
 tigergraph	no_matching_jobs
-openteams	no_matching_jobs
 genuine	no_jobs
 tracylocke	no_jobs
 himshers	http_404
@@ -7321,7 +7320,6 @@ worthi	http_404
 aceable	no_matching_jobs
 revenuecat	http_404
 iconiqcapital	http_404
-noctrixhealth	no_matching_jobs
 dhigroupinc	no_matching_jobs
 invoca	no_matching_jobs
 glassdoor	http_404
@@ -7815,7 +7813,6 @@ tacobell	http_404
 cribl	no_matching_jobs
 abiologics	no_matching_jobs
 zonecompanysoftwareconsultingllc	no_matching_jobs
-crexi	no_matching_jobs
 climatefinancesolutions	http_404
 turbineone	no_matching_jobs
 rushstreetinteractive	no_matching_jobs
@@ -8019,7 +8016,6 @@ bbyo	no_matching_jobs
 saltsecurity	no_matching_jobs
 tomorrow	no_matching_jobs
 cocoon	no_matching_jobs
-homeward	no_matching_jobs
 wongdoody	no_matching_jobs
 flourish	no_matching_jobs
 eko	no_jobs
