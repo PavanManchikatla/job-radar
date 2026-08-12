@@ -1,33 +1,52 @@
 ## Jobs Feed (auto-updated)
 
 <!-- JOBS:START -->
-_Last updated: 2026-08-12 00:59 CDT_
+_Last updated: 2026-08-12 04:39 CDT_
 
 | Posted | Company | Title | Location | Source |
 |---|---|---|---|---|
+| 2026-08-12 | redwoodmaterials | [Data Engineering Manager](https://boards.greenhouse.io/redwoodmaterials/jobs/6008522004?gh_jid=6008522004) | McCarran, NV | greenhouse |
+| 2026-08-12 | andurilindustries | [Security Data Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5159366007?gh_jid=5159366007) | Ashville, Ohio, United States; Atlanta, Georgia, United States; Boston, Massachusetts, United States; Costa Mesa, California, United States; Remote; Seattle, Washington, United States; Washington, District of Columbia, United States | greenhouse |
 | 2026-08-12 | redwoodmaterials | [Senior Analytics Engineer](https://boards.greenhouse.io/redwoodmaterials/jobs/6116721004?gh_jid=6116721004) | San Francisco, California, United States | greenhouse |
+| 2026-08-12 | roblox | [Distinguished Machine Learning Engineer - Safety](https://careers.roblox.com/jobs/7931911?gh_jid=7931911) | San Mateo, CA, United States | greenhouse |
+| 2026-08-12 | roblox | [Distinguished Engineer, Machine Learning Systems – Economy](https://careers.roblox.com/jobs/7332473?gh_jid=7332473) | San Mateo, CA, United States | greenhouse |
+| 2026-08-12 | roblox | [Principal Machine Learning Infrastructure Engineer, Ads & Discovery](https://careers.roblox.com/jobs/7351202?gh_jid=7351202) | San Mateo, CA, United States | greenhouse |
+| 2026-08-12 | roblox | [Principal Data Scientist - Safety](https://careers.roblox.com/jobs/7411636?gh_jid=7411636) | San Mateo, CA, United States | greenhouse |
+| 2026-08-12 | roblox | [Senior Machine Learning Engineer, Ads](https://careers.roblox.com/jobs/7351220?gh_jid=7351220) | San Mateo, CA, United States | greenhouse |
+| 2026-08-12 | roblox | [Principal Machine Learning Engineer, Embodied AI and Smart NPCs](https://careers.roblox.com/jobs/7629843?gh_jid=7629843) | San Mateo, CA, United States | greenhouse |
+| 2026-08-12 | roblox | [Senior Data Scientist - Machine Intelligence (Creator Services)](https://careers.roblox.com/jobs/7822736?gh_jid=7822736) | San Mateo, CA, United States | greenhouse |
+| 2026-08-12 | roblox | [Senior Machine Learning Engineering Manager, Safety AI Systems](https://careers.roblox.com/jobs/8047877?gh_jid=8047877) | San Mateo, CA, United States | greenhouse |
+| 2026-08-12 | roblox | [Senior Data Scientist - Consumer Frontend](https://careers.roblox.com/jobs/7977682?gh_jid=7977682) | San Mateo, CA, United States | greenhouse |
+| 2026-08-12 | roblox | [Senior Machine Learning Engineer, Reliability](https://careers.roblox.com/jobs/8010058?gh_jid=8010058) | San Mateo, CA, United States | greenhouse |
+| 2026-08-12 | roblox | [Software Engineer, Data Engineering](https://careers.roblox.com/jobs/8025021?gh_jid=8025021) | San Mateo, CA, United States | greenhouse |
+| 2026-08-12 | roblox | [Senior / Principal Data Scientist - Discovery](https://careers.roblox.com/jobs/8037082?gh_jid=8037082) | San Mateo, CA, United States | greenhouse |
+| 2026-08-12 | roblox | [Senior Data Scientist, Creator Platform](https://careers.roblox.com/jobs/8049802?gh_jid=8049802) | San Mateo, CA, United States | greenhouse |
+| 2026-08-12 | roblox | [Senior Software Engineer, Data Engineering](https://careers.roblox.com/jobs/8055450?gh_jid=8055450) | San Mateo, CA, United States | greenhouse |
+| 2026-08-12 | roblox | [Principal Machine Learning Engineer, Content Safety](https://careers.roblox.com/jobs/8073283?gh_jid=8073283) | San Mateo, CA, United States | greenhouse |
+| 2026-08-12 | roblox | [Senior Software Engineer, Machine Learning (Communication Safety)](https://careers.roblox.com/jobs/8073279?gh_jid=8073279) | San Mateo, CA, United States | greenhouse |
+| 2026-08-12 | roblox | [Engineering Manager, Machine Learning Infrastructure, Ads](https://careers.roblox.com/jobs/8090079?gh_jid=8090079) | San Mateo, CA, United States | greenhouse |
+| 2026-08-12 | roblox | [Senior Data Scientist - Authentication](https://careers.roblox.com/jobs/8097469?gh_jid=8097469) | San Mateo, CA, United States | greenhouse |
 | 2026-08-12 | sigmacomputing | [Data Engineer](https://job-boards.greenhouse.io/sigmacomputing/jobs/7809974003) | New York City, NY | greenhouse |
 | 2026-08-12 | sigmacomputing | [Data Engineer](https://job-boards.greenhouse.io/sigmacomputing/jobs/7809973003) | San Francisco, CA | greenhouse |
 | 2026-08-12 | sigmacomputing | [Senior AI/ML Engineer](https://job-boards.greenhouse.io/sigmacomputing/jobs/7767728003) | New York City, NY | greenhouse |
 | 2026-08-12 | sigmacomputing | [Staff AI/ML Engineer](https://job-boards.greenhouse.io/sigmacomputing/jobs/7767730003) | San Francisco, CA | greenhouse |
 | 2026-08-12 | sigmacomputing | [Staff AI/ML Engineer](https://job-boards.greenhouse.io/sigmacomputing/jobs/7767733003) | New York City, NY | greenhouse |
 | 2026-08-12 | sigmacomputing | [Senior AI/ML Engineer](https://job-boards.greenhouse.io/sigmacomputing/jobs/7767727003) | San Francisco, CA | greenhouse |
-| 2026-08-12 | redwoodmaterials | [Data Engineering Manager](https://boards.greenhouse.io/redwoodmaterials/jobs/6008522004?gh_jid=6008522004) | McCarran, NV | greenhouse |
 | 2026-08-12 | lyft | [Data Analyst, Go-To-Market Sales Insights](https://app.careerpuck.com/job-board/lyft/job/8697679002?gh_jid=8697679002) | New York, NY | greenhouse |
 | 2026-08-12 | lyft | [Data Analyst, Go-To-Market Sales Insights](https://app.careerpuck.com/job-board/lyft/job/8697536002?gh_jid=8697536002) | San Francisco, CA | greenhouse |
 | 2026-08-12 | reddit | [Sr. Staff Data Scientist - Ads Measurement, Signals, Privacy](https://job-boards.greenhouse.io/reddit/jobs/8072046) | Remote - United States | greenhouse |
 | 2026-08-12 | reddit | [Staff Data Scientist - Ads Measurement, Signals, Privacy](https://job-boards.greenhouse.io/reddit/jobs/8072076) | Remote - United States | greenhouse |
 | 2026-08-12 | reddit | [Machine Learning Engineer, Ads Optimization](https://job-boards.greenhouse.io/reddit/jobs/8029120) | Remote - United States | greenhouse |
-| 2026-08-12 | reddit | [Machine Learning Systems Engineer, Ads ML Platform](https://job-boards.greenhouse.io/reddit/jobs/8022937) | Remote - United Kingdom | greenhouse |
 | 2026-08-12 | reddit | [Machine Learning Systems Engineer, Ads ML Platform](https://job-boards.greenhouse.io/reddit/jobs/8022942) | Remote - The Netherlands | greenhouse |
-| 2026-08-12 | reddit | [Senior Staff Data Scientist - Consumer Experimentation](https://job-boards.greenhouse.io/reddit/jobs/7974504) | Remote - United States | greenhouse |
+| 2026-08-12 | reddit | [Machine Learning Systems Engineer, Ads ML Platform](https://job-boards.greenhouse.io/reddit/jobs/8022937) | Remote - United Kingdom | greenhouse |
 | 2026-08-12 | reddit | [Senior Staff Data Scientist - Consumer Experimentation](https://job-boards.greenhouse.io/reddit/jobs/7974507) | Remote - Ontario, Canada | greenhouse |
+| 2026-08-12 | reddit | [Senior Staff Data Scientist - Consumer Experimentation](https://job-boards.greenhouse.io/reddit/jobs/7974504) | Remote - United States | greenhouse |
 | 2026-08-12 | reddit | [Staff Data Scientist, Ads](https://job-boards.greenhouse.io/reddit/jobs/7721787) | Remote - United States | greenhouse |
 | 2026-08-12 | reddit | [Staff Data Scientist, Ads](https://job-boards.greenhouse.io/reddit/jobs/7721851) | Remote - Ontario, Canada | greenhouse |
-| 2026-08-12 | reddit | [Staff Data Scientist, Consumer](https://job-boards.greenhouse.io/reddit/jobs/7931007) | Remote - Ontario, Canada | greenhouse |
 | 2026-08-12 | reddit | [Staff Data Scientist, Consumer](https://job-boards.greenhouse.io/reddit/jobs/6745284) | Remote - United States | greenhouse |
-| 2026-08-12 | reddit | [Staff Data Scientist, Marketing](https://job-boards.greenhouse.io/reddit/jobs/7445240) | Remote - United States | greenhouse |
+| 2026-08-12 | reddit | [Staff Data Scientist, Consumer](https://job-boards.greenhouse.io/reddit/jobs/7931007) | Remote - Ontario, Canada | greenhouse |
 | 2026-08-12 | reddit | [Staff Data Scientist, Marketing](https://job-boards.greenhouse.io/reddit/jobs/7931000) | Remote - Ontario, Canada | greenhouse |
+| 2026-08-12 | reddit | [Staff Data Scientist, Marketing](https://job-boards.greenhouse.io/reddit/jobs/7445240) | Remote - United States | greenhouse |
 | 2026-08-12 | reddit | [Senior Machine Learning Systems Engineer, Ads ML Experience Platform](https://job-boards.greenhouse.io/reddit/jobs/8112967) | Remote - United States | greenhouse |
 | 2026-08-12 | reddit | [Staff Machine Learning Engineer, Shopping Ads](https://job-boards.greenhouse.io/reddit/jobs/8115838) | Remote - United States | greenhouse |
 | 2026-08-12 | figma | [Software Engineer - Machine Learning](https://boards.greenhouse.io/figma/jobs/5551532004?gh_jid=5551532004) | San Francisco, CA • New York, NY • United States | greenhouse |
@@ -103,17 +122,16 @@ _Last updated: 2026-08-12 00:59 CDT_
 | 2026-08-11 | andurilindustries | [Mission Analytics Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5130552007?gh_jid=5130552007) | Irvine, California, United States | greenhouse |
 | 2026-08-11 | andurilindustries | [People Data Analyst](https://boards.greenhouse.io/andurilindustries/jobs/5166088007?gh_jid=5166088007) | Boston, Massachusetts, United States | greenhouse |
 | 2026-08-11 | andurilindustries | [Product Data Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5123282007?gh_jid=5123282007) | Costa Mesa, California, United States | greenhouse |
-| 2026-08-11 | andurilindustries | [Product Data Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5150089007?gh_jid=5150089007) | Irvine, California, United States | greenhouse |
-| 2026-08-11 | andurilindustries | [Product Data Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5114654007?gh_jid=5114654007) | Costa Mesa, California, United States | greenhouse |
 | 2026-08-11 | andurilindustries | [Product Data Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5114652007?gh_jid=5114652007) | Costa Mesa, California, United States | greenhouse |
-| 2026-08-11 | andurilindustries | [Research Scientist](https://boards.greenhouse.io/andurilindustries/jobs/5203023007?gh_jid=5203023007) | Huntsville, Alabama, United States | greenhouse |
+| 2026-08-11 | andurilindustries | [Product Data Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5114654007?gh_jid=5114654007) | Costa Mesa, California, United States | greenhouse |
+| 2026-08-11 | andurilindustries | [Product Data Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5150089007?gh_jid=5150089007) | Irvine, California, United States | greenhouse |
 | 2026-08-11 | andurilindustries | [Research Scientist](https://boards.greenhouse.io/andurilindustries/jobs/5201025007?gh_jid=5201025007) | Fort Collins, Colorado, United States | greenhouse |
+| 2026-08-11 | andurilindustries | [Research Scientist](https://boards.greenhouse.io/andurilindustries/jobs/5203023007?gh_jid=5203023007) | Huntsville, Alabama, United States | greenhouse |
 | 2026-08-11 | andurilindustries | [Research Scientist](https://boards.greenhouse.io/andurilindustries/jobs/5150299007?gh_jid=5150299007) | Broomfield, Colorado, United States; Fort Collins, Colorado, United States | greenhouse |
 | 2026-08-11 | andurilindustries | [Research Scientist, Battlespace Awareness](https://boards.greenhouse.io/andurilindustries/jobs/5207729007?gh_jid=5207729007) | Broomfield, Colorado, United States; Fort Collins, Colorado, United States | greenhouse |
 | 2026-08-11 | andurilindustries | [Research Scientist, Battlespace Awareness](https://boards.greenhouse.io/andurilindustries/jobs/5178314007?gh_jid=5178314007) | Waltham, Massachusetts, United States | greenhouse |
 | 2026-08-11 | andurilindustries | [Research Scientist, Battlespace Awareness](https://boards.greenhouse.io/andurilindustries/jobs/5178310007?gh_jid=5178310007) | Broomfield, Colorado, United States | greenhouse |
 | 2026-08-11 | andurilindustries | [RFML Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5031495007?gh_jid=5031495007) | Costa Mesa, California, United States | greenhouse |
-| 2026-08-11 | andurilindustries | [Security Data Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5159366007?gh_jid=5159366007) | Ashville, Ohio, United States; Atlanta, Georgia, United States; Boston, Massachusetts, United States; Costa Mesa, California, United States; Remote; Seattle, Washington, United States; Washington, District of Columbia, United States | greenhouse |
 | 2026-08-11 | andurilindustries | [Senior Advanced Research Scientist](https://boards.greenhouse.io/andurilindustries/jobs/5179750007?gh_jid=5179750007) | Broomfield, Colorado, United States; Fort Collins, Colorado, United States | greenhouse |
 | 2026-08-11 | andurilindustries | [Senior Analytics Engineer](https://boards.greenhouse.io/andurilindustries/jobs/4743827007?gh_jid=4743827007) | Costa Mesa, California, United States | greenhouse |
 | 2026-08-11 | andurilindustries | [Senior Analytics Engineer, People Data](https://boards.greenhouse.io/andurilindustries/jobs/5147099007?gh_jid=5147099007) | Boston, Massachusetts, United States; Costa Mesa, California, United States | greenhouse |
@@ -138,27 +156,9 @@ _Last updated: 2026-08-12 00:59 CDT_
 | 2026-08-11 | databricks | [AI Engineer - FDE (Forward Deployed Engineer)](https://databricks.com/company/careers/open-positions/job?gh_jid=8546367002) | United States | greenhouse |
 | 2026-08-11 | roblox | [Principal/Senior Machine Learning Scientist - Search and Discovery](https://careers.roblox.com/jobs/7655346?gh_jid=7655346) | San Mateo, CA, United States | greenhouse |
 | 2026-08-11 | campminder | [Senior AI Engineer](https://job-boards.greenhouse.io/campminder/jobs/7875276) | Boulder, CO or remote | greenhouse |
-| 2026-08-11 | roblox | [Distinguished Machine Learning Engineer - Safety](https://careers.roblox.com/jobs/7931911?gh_jid=7931911) | San Mateo, CA, United States | greenhouse |
-| 2026-08-11 | roblox | [Distinguished Engineer, Machine Learning Systems – Economy](https://careers.roblox.com/jobs/7332473?gh_jid=7332473) | San Mateo, CA, United States | greenhouse |
-| 2026-08-11 | roblox | [Principal Machine Learning Infrastructure Engineer, Ads & Discovery](https://careers.roblox.com/jobs/7351202?gh_jid=7351202) | San Mateo, CA, United States | greenhouse |
-| 2026-08-11 | roblox | [Principal Data Scientist - Safety](https://careers.roblox.com/jobs/7411636?gh_jid=7411636) | San Mateo, CA, United States | greenhouse |
-| 2026-08-11 | roblox | [Senior Machine Learning Engineer, Ads](https://careers.roblox.com/jobs/7351220?gh_jid=7351220) | San Mateo, CA, United States | greenhouse |
 | 2026-08-11 | veracyte | [Principal Data Scientist](https://veracyte.com/job-detail?gh_jid=5201557007) | Canada ; San Diego, California, United States; South San Francisco, California, United States | greenhouse |
-| 2026-08-11 | roblox | [Principal Machine Learning Engineer, Embodied AI and Smart NPCs](https://careers.roblox.com/jobs/7629843?gh_jid=7629843) | San Mateo, CA, United States | greenhouse |
-| 2026-08-11 | roblox | [Senior Data Scientist - Machine Intelligence (Creator Services)](https://careers.roblox.com/jobs/7822736?gh_jid=7822736) | San Mateo, CA, United States | greenhouse |
-| 2026-08-11 | roblox | [Senior Machine Learning Engineering Manager, Safety AI Systems](https://careers.roblox.com/jobs/8047877?gh_jid=8047877) | San Mateo, CA, United States | greenhouse |
-| 2026-08-11 | roblox | [Senior Data Scientist - Consumer Frontend](https://careers.roblox.com/jobs/7977682?gh_jid=7977682) | San Mateo, CA, United States | greenhouse |
-| 2026-08-11 | roblox | [Senior Machine Learning Engineer, Reliability](https://careers.roblox.com/jobs/8010058?gh_jid=8010058) | San Mateo, CA, United States | greenhouse |
-| 2026-08-11 | roblox | [Software Engineer, Data Engineering](https://careers.roblox.com/jobs/8025021?gh_jid=8025021) | San Mateo, CA, United States | greenhouse |
-| 2026-08-11 | roblox | [Senior / Principal Data Scientist - Discovery](https://careers.roblox.com/jobs/8037082?gh_jid=8037082) | San Mateo, CA, United States | greenhouse |
-| 2026-08-11 | roblox | [Senior Data Scientist, Creator Platform](https://careers.roblox.com/jobs/8049802?gh_jid=8049802) | San Mateo, CA, United States | greenhouse |
-| 2026-08-11 | roblox | [Senior Software Engineer, Data Engineering](https://careers.roblox.com/jobs/8055450?gh_jid=8055450) | San Mateo, CA, United States | greenhouse |
 | 2026-08-11 | torcrobotics | [Machine Learning Engineer, II - 3D Perception](https://job-boards.greenhouse.io/torcrobotics/jobs/8695202002) | Remote, U.S, Ann Arbor, MI, Fort Worth, TX, Blacksburg, VA | greenhouse |
 | 2026-08-11 | oscar | [Data Scientist I](http://www.hioscar.com/careers/7592274?gh_jid=7592274) | New York, New York, United States | greenhouse |
-| 2026-08-11 | roblox | [Principal Machine Learning Engineer, Content Safety](https://careers.roblox.com/jobs/8073283?gh_jid=8073283) | San Mateo, CA, United States | greenhouse |
-| 2026-08-11 | roblox | [Senior Software Engineer, Machine Learning (Communication Safety)](https://careers.roblox.com/jobs/8073279?gh_jid=8073279) | San Mateo, CA, United States | greenhouse |
-| 2026-08-11 | roblox | [Engineering Manager, Machine Learning Infrastructure, Ads](https://careers.roblox.com/jobs/8090079?gh_jid=8090079) | San Mateo, CA, United States | greenhouse |
-| 2026-08-11 | roblox | [Senior Data Scientist - Authentication](https://careers.roblox.com/jobs/8097469?gh_jid=8097469) | San Mateo, CA, United States | greenhouse |
 | 2026-08-11 | newsbreak | [Growth Data Scientist — Measurement Lead](https://job-boards.greenhouse.io/newsbreak/jobs/4702106006) | Mountain View, California, United States | greenhouse |
 | 2026-08-11 | moloco | [Senior Software Engineer - Data Engineering - Moloco Commerce Media](https://job-boards.greenhouse.io/moloco/jobs/7607957003) | Menlo Park, California, United States | greenhouse |
 | 2026-08-11 | moloco | [Staff Machine Learning Engineer - Moloco Commerce Media](https://job-boards.greenhouse.io/moloco/jobs/7822775003) | Menlo Park, California, United States | greenhouse |
