@@ -5081,7 +5081,6 @@ endorlabs	no_matching_jobs
 hackerrank	no_matching_jobs
 seam	http_404
 scandit	no_matching_jobs
-forgeglobal	no_matching_jobs
 forthea	no_matching_jobs
 scrollio	http_404
 carbondirect	no_matching_jobs
@@ -7919,7 +7918,6 @@ oliverusa	no_matching_jobs
 opentable	no_matching_jobs
 soloioinc	no_matching_jobs
 audicus	http_404
-range	no_matching_jobs
 porternovelli	no_jobs
 careportalinc	no_matching_jobs
 novig	http_404
@@ -8357,7 +8355,6 @@ southeastdermatology	no_matching_jobs
 interworks	no_matching_jobs
 backlight	http_404
 april	http_404
-8thlightrebuild	no_matching_jobs
 oneacrefundtanzania	no_matching_jobs
 guild	no_matching_jobs
 immoverkauf24	no_matching_jobs

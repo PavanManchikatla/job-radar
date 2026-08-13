@@ -9619,7 +9619,6 @@ gordian-bio	no_jobs
 gotogroup	http_404
 goswift	no_matching_jobs
 gravie	no_jobs
-great-gray-group	no_matching_jobs
 getwingapp	no_matching_jobs
 glow	http_404
 h1	no_matching_jobs
@@ -9859,7 +9858,6 @@ pmaconsultants	no_matching_jobs
 pollyex	http_404
 ppncny	no_jobs
 pp-la	no_matching_jobs
-ppgny	no_matching_jobs
 ppro	no_matching_jobs
 procept-biorobotics	no_jobs
 project-healthy-minds	no_matching_jobs
@@ -16262,7 +16260,6 @@ finwavesemiconductor	http_404
 f8-federal	no_jobs
 finfit	no_jobs
 fireflyon	no_matching_jobs
-erg	no_matching_jobs
 firewoodmarketing	http_404
 firemon	no_matching_jobs
 firmex	http_404
