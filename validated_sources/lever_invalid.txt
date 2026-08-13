@@ -4335,7 +4335,6 @@ symphony retailai	http_404
 antuit	http_404
 celect	http_404
 relex	http_404
-loadsmart	no_matching_jobs
 fyers	http_404
 upstox	http_404
 zerodha	http_404

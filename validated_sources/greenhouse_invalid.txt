@@ -5692,7 +5692,6 @@ centriaautism	no_matching_jobs
 team1	http_404
 hispanicaccessfoundation	http_404
 hugeinc	no_matching_jobs
-vianttechnology	no_matching_jobs
 eei	no_matching_jobs
 boldbusiness	http_404
 supersod	no_matching_jobs
