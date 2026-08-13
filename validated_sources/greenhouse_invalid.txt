@@ -6384,7 +6384,6 @@ indigo	no_matching_jobs
 zubiad	no_matching_jobs
 canopytax	no_matching_jobs
 aiedu	no_matching_jobs
-twochairs	no_matching_jobs
 insightrx	no_matching_jobs
 symblai47	no_jobs
 summer	no_matching_jobs
@@ -6885,7 +6884,6 @@ colabsoftware	no_matching_jobs
 5minlab	no_matching_jobs
 subsplash	no_matching_jobs
 epirus	no_matching_jobs
-coursera	no_matching_jobs
 meter	http_404
 thegoodfoodinstitute80	no_matching_jobs
 pulley	no_jobs
@@ -8435,7 +8433,6 @@ ltkuk	no_matching_jobs
 mediasmart	no_matching_jobs
 karya	no_matching_jobs
 beat	http_404
-tulip	no_matching_jobs
 doitintl	no_matching_jobs
 chowbus	no_matching_jobs
 pubnub	no_matching_jobs
