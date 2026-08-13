@@ -6780,7 +6780,6 @@ predictiveindex	no_matching_jobs
 mill	no_matching_jobs
 horizons	http_404
 sourcescrub	no_jobs
-shakepay	no_matching_jobs
 vialogic	no_matching_jobs
 hotelengine	http_404
 dunnhumby	no_matching_jobs
