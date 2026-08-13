@@ -6990,7 +6990,6 @@ kindbody	http_404
 gsrmarkets	no_matching_jobs
 baselayer	no_matching_jobs
 bluehole	no_matching_jobs
-nansen	no_matching_jobs
 maxmanufacturingcareers	no_matching_jobs
 qualia	no_matching_jobs
 lawzero	no_matching_jobs
