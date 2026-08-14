@@ -5320,7 +5320,6 @@ sonymusiccanada	no_jobs
 kilpatricktownsendstocktonllp	http_404
 centessapharmaceuticalsinc	no_matching_jobs
 shinola	no_matching_jobs
-applovin	no_matching_jobs
 mavenscareers	no_jobs
 cellarity	no_jobs
 grasshopperasia	no_matching_jobs
@@ -5634,7 +5633,6 @@ moveworks	http_404
 tutorme	http_404
 oasisnetwork	http_404
 cerebrassystems	http_404
-quisitivejobs	no_matching_jobs
 quilt	no_matching_jobs
 authenticbrandsgroup	no_matching_jobs
 lucanetgroup	no_matching_jobs
