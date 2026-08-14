@@ -6268,7 +6268,6 @@ ripplematch	no_jobs
 procaresolutions	no_matching_jobs
 rithum	no_matching_jobs
 appsflyer	no_matching_jobs
-bioptimus8	no_matching_jobs
 thefarmersdog	no_matching_jobs
 aidashinc	no_matching_jobs
 soroco	no_jobs
@@ -6945,7 +6944,6 @@ jennikayne	no_matching_jobs
 kreativekids	no_matching_jobs
 sonymusiccareersaustralia	no_matching_jobs
 smartypantsvitamins	no_matching_jobs
-osano	no_matching_jobs
 fosphamarketing	no_matching_jobs
 obrienveterinarygroup	no_matching_jobs
 pay2dc	no_matching_jobs
@@ -7503,7 +7501,6 @@ galaxydigitalservices	no_matching_jobs
 medrio	no_matching_jobs
 vowgroup	http_404
 fcbworldwide	no_matching_jobs
-koalafi	no_matching_jobs
 teachforall	no_matching_jobs
 glyphicbiotechnologies	no_matching_jobs
 sprinklr	http_404
