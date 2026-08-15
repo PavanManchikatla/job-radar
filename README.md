@@ -1,14 +1,10 @@
 ## Jobs Feed (auto-updated)
 
 <!-- JOBS:START -->
-_Last updated: 2026-08-15 03:54 CDT_
+_Last updated: 2026-08-15 08:02 CDT_
 
 | Posted | Company | Title | Location | Source |
 |---|---|---|---|---|
-| 2026-08-15 | vianttechnology | [Sr. Software Engineer - AI & Data Platforms (Hybrid)](https://job-boards.greenhouse.io/vianttechnology/jobs/4354529009) | Irvine, California, United States; Los Angeles, California, United States | greenhouse |
-| 2026-08-15 | redwoodmaterials | [Data Engineering Manager](https://boards.greenhouse.io/redwoodmaterials/jobs/6008522004?gh_jid=6008522004) | McCarran, NV | greenhouse |
-| 2026-08-15 | pinterest | [Staff Data Scientist, Finance & Business Ops](https://www.pinterestcareers.com/jobs/?gh_jid=8036273) | San Francisco, CA, US; Remote, US | greenhouse |
-| 2026-08-15 | robinhood | [Staff Machine Learning Engineer, AI R&D](https://boards.greenhouse.io/robinhood/jobs/8082579?t=gh_src=&gh_jid=8082579) | Bellevue, WA; Menlo Park, CA | greenhouse |
 | 2026-08-15 | reddit | [Senior Machine Learning Engineer, Ads ML Platform](https://job-boards.greenhouse.io/reddit/jobs/8084032) | Remote - United States | greenhouse |
 | 2026-08-15 | reddit | [Sr. Staff Data Scientist - Ads Measurement, Signals, Privacy](https://job-boards.greenhouse.io/reddit/jobs/8072046) | Remote - United States | greenhouse |
 | 2026-08-15 | reddit | [Staff Data Scientist - Ads Measurement, Signals, Privacy](https://job-boards.greenhouse.io/reddit/jobs/8072076) | Remote - United States | greenhouse |
@@ -17,16 +13,21 @@ _Last updated: 2026-08-15 03:54 CDT_
 | 2026-08-15 | reddit | [Machine Learning Systems Engineer, Ads ML Platform](https://job-boards.greenhouse.io/reddit/jobs/8022937) | Remote - United Kingdom | greenhouse |
 | 2026-08-15 | reddit | [Senior Staff Data Scientist - Consumer Experimentation](https://job-boards.greenhouse.io/reddit/jobs/7974504) | Remote - United States | greenhouse |
 | 2026-08-15 | reddit | [Senior Staff Data Scientist - Consumer Experimentation](https://job-boards.greenhouse.io/reddit/jobs/7974507) | Remote - Ontario, Canada | greenhouse |
-| 2026-08-15 | reddit | [Senior Data Scientist - Consumer](https://job-boards.greenhouse.io/reddit/jobs/8126946) | Remote - United States | greenhouse |
-| 2026-08-15 | reddit | [Staff Data Scientist, Ads](https://job-boards.greenhouse.io/reddit/jobs/7721851) | Remote - Ontario, Canada | greenhouse |
 | 2026-08-15 | reddit | [Staff Data Scientist, Marketing](https://job-boards.greenhouse.io/reddit/jobs/7445240) | Remote - United States | greenhouse |
+| 2026-08-15 | reddit | [Senior Data Scientist - Consumer](https://job-boards.greenhouse.io/reddit/jobs/8126946) | Remote - United States | greenhouse |
+| 2026-08-15 | reddit | [Staff Data Scientist, Ads](https://job-boards.greenhouse.io/reddit/jobs/7721787) | Remote - United States | greenhouse |
+| 2026-08-15 | reddit | [Staff Data Scientist, Ads](https://job-boards.greenhouse.io/reddit/jobs/7721851) | Remote - Ontario, Canada | greenhouse |
+| 2026-08-15 | reddit | [Staff Data Scientist, Consumer](https://job-boards.greenhouse.io/reddit/jobs/7931007) | Remote - Ontario, Canada | greenhouse |
 | 2026-08-15 | reddit | [Staff Data Scientist, Marketing](https://job-boards.greenhouse.io/reddit/jobs/7931000) | Remote - Ontario, Canada | greenhouse |
 | 2026-08-15 | reddit | [Senior Data Scientist, Ads](https://job-boards.greenhouse.io/reddit/jobs/8104403) | Remote - United States | greenhouse |
 | 2026-08-15 | reddit | [Senior Machine Learning Systems Engineer, Ads ML Experience Platform](https://job-boards.greenhouse.io/reddit/jobs/8112967) | Remote - United States | greenhouse |
-| 2026-08-15 | reddit | [Staff Data Scientist, Ads](https://job-boards.greenhouse.io/reddit/jobs/7721787) | Remote - United States | greenhouse |
 | 2026-08-15 | reddit | [Staff Data Scientist, Consumer](https://job-boards.greenhouse.io/reddit/jobs/6745284) | Remote - United States | greenhouse |
-| 2026-08-15 | reddit | [Staff Data Scientist, Consumer](https://job-boards.greenhouse.io/reddit/jobs/7931007) | Remote - Ontario, Canada | greenhouse |
 | 2026-08-15 | reddit | [Staff Machine Learning Engineer, Shopping Ads](https://job-boards.greenhouse.io/reddit/jobs/8115838) | Remote - United States | greenhouse |
+| 2026-08-15 | babylist | [Senior Data Engineer](https://job-boards.greenhouse.io/babylist/jobs/6100946004) | United States | greenhouse |
+| 2026-08-15 | vianttechnology | [Sr. Software Engineer - AI & Data Platforms (Hybrid)](https://job-boards.greenhouse.io/vianttechnology/jobs/4354529009) | Irvine, California, United States; Los Angeles, California, United States | greenhouse |
+| 2026-08-15 | redwoodmaterials | [Data Engineering Manager](https://boards.greenhouse.io/redwoodmaterials/jobs/6008522004?gh_jid=6008522004) | McCarran, NV | greenhouse |
+| 2026-08-15 | pinterest | [Staff Data Scientist, Finance & Business Ops](https://www.pinterestcareers.com/jobs/?gh_jid=8036273) | San Francisco, CA, US; Remote, US | greenhouse |
+| 2026-08-15 | robinhood | [Staff Machine Learning Engineer, AI R&D](https://boards.greenhouse.io/robinhood/jobs/8082579?t=gh_src=&gh_jid=8082579) | Bellevue, WA; Menlo Park, CA | greenhouse |
 | 2026-08-14 | anthropic | [Research Scientist, Life Sciences (Chemistry)](https://job-boards.greenhouse.io/anthropic/jobs/5387564008) | San Francisco, CA | greenhouse |
 | 2026-08-14 | andurilindustries | [Lead Data Analyst,  Manufacturing](https://boards.greenhouse.io/andurilindustries/jobs/5212993007?gh_jid=5212993007) | Costa Mesa, California, United States | greenhouse |
 | 2026-08-14 | andurilindustries | [Senior Data Analyst, Manufacturing](https://boards.greenhouse.io/andurilindustries/jobs/5212991007?gh_jid=5212991007) | Costa Mesa, California, United States | greenhouse |
@@ -108,7 +109,6 @@ _Last updated: 2026-08-15 03:54 CDT_
 | 2026-08-14 | biohub | [Senior Staff Data Engineer](https://job-boards.greenhouse.io/biohub/jobs/7767734) | New York, NY (Hybrid); Redwood City, CA (Hybrid) | greenhouse |
 | 2026-08-14 | devtechnology | [Audio AI Engineer](https://job-boards.greenhouse.io/devtechnology/jobs/8672781002) | Reston, VA | greenhouse |
 | 2026-08-14 | devtechnology | [Senior Data Scientist - Databricks Genie & AI Analytics](https://job-boards.greenhouse.io/devtechnology/jobs/8675939002) | Ashburn, VA (Hybrid) | greenhouse |
-| 2026-08-14 | babylist | [Senior Data Engineer](https://job-boards.greenhouse.io/babylist/jobs/6100946004) | United States | greenhouse |
 | 2026-08-14 | crunchyroll | [Staff AI Engineer](https://boards.greenhouse.io/crunchyroll/jobs/8049714?gh_jid=8049714) | Dallas, Texas, United States | greenhouse |
 | 2026-08-14 | airbnb | [Senior Data Scientist - Payments (Inference)](https://careers.airbnb.com/positions/8123037?gh_jid=8123037) | Remote - USA | greenhouse |
 | 2026-08-14 | vestwell | [Senior Data Analyst - Product](https://job-boards.greenhouse.io/vestwell/jobs/7821510003) | New York, NY \| Austin, TX | greenhouse |
