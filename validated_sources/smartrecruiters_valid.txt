@@ -1,4 +1,3 @@
-sandisk
 servicenow
 freshworks
 canva
@@ -11,4 +10,3 @@ activehours
 evidation
 startuptap
 zipongo
-wise

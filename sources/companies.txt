@@ -19831,3 +19831,14 @@ klaimee
 dawnindustries
 dawn-industries
 dawn
+
+# --- YC hiring companies ---
+kinter
+superwall
+openbenchmarks
+x1
+wedge
+sira
+lemma
+robodock
+hemlock
