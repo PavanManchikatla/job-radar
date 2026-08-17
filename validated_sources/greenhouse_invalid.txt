@@ -5164,7 +5164,6 @@ stemhealthcare	no_matching_jobs
 darktracelimited	http_404
 cerebral	http_404
 vacationinc	no_matching_jobs
-ridgeline	no_matching_jobs
 kwaralearn	no_jobs
 eclipsyssolutions	no_jobs
 renaissancelearning-nam	no_matching_jobs
@@ -6556,7 +6555,6 @@ graphcore	no_matching_jobs
 storycannabis	no_matching_jobs
 velir-private	no_jobs
 jwplumbingheatingair	no_jobs
-voyagertechnologiesinc	no_matching_jobs
 agebold	no_matching_jobs
 sandstonecarebroomfield	no_jobs
 cognism	no_matching_jobs
@@ -7460,7 +7458,6 @@ rexfordindustrial	no_matching_jobs
 britive	no_matching_jobs
 cbemllc	no_matching_jobs
 mast	http_404
-shipbobinc	no_matching_jobs
 ataiwebsite	http_404
 qphox	no_matching_jobs
 das42	no_jobs
@@ -8072,7 +8069,6 @@ amount	no_matching_jobs
 aspectbiosystems	no_matching_jobs
 constructortech	no_matching_jobs
 accurx	http_404
-lyratechgroup	no_matching_jobs
 method	no_matching_jobs
 bitwarden	no_matching_jobs
 ipfabric	no_matching_jobs
