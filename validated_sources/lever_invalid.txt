@@ -9549,7 +9549,6 @@ electricmind	no_matching_jobs
 ekohealth	no_matching_jobs
 coloradocoalition	no_matching_jobs
 encore-renewable-energy	no_matching_jobs
-avalerehealth	no_matching_jobs
 dynamic-connections	no_matching_jobs
 drivemode	no_matching_jobs
 enable	no_matching_jobs
