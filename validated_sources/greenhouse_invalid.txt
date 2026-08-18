@@ -5285,7 +5285,6 @@ telgorithm	http_404
 zilliz	http_404
 interviewengineering	no_matching_jobs
 hook	no_matching_jobs
-boomilp	no_matching_jobs
 studycontractors	no_matching_jobs
 svetness	no_matching_jobs
 thejpbfoundation	http_404
@@ -7682,7 +7681,6 @@ roofr	no_matching_jobs
 nabis	no_matching_jobs
 dexteritycapital	http_404
 regionalcenteroftheeastbay	no_matching_jobs
-acquia	no_matching_jobs
 wellist	no_matching_jobs
 magic	no_jobs
 gravwell	no_matching_jobs
