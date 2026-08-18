@@ -8086,7 +8086,6 @@ xendit	no_matching_jobs
 sfox	no_jobs
 telnyx54	no_matching_jobs
 2u	no_matching_jobs
-eikontherapeutics	no_matching_jobs
 aurosglobal	no_matching_jobs
 aottechnologies	no_matching_jobs
 guidelighthealth	no_matching_jobs

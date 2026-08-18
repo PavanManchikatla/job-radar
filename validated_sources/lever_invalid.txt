@@ -9649,7 +9649,6 @@ impossiblecloud	no_matching_jobs
 happyco	no_matching_jobs
 givinghhc	no_matching_jobs
 hypebeast	no_matching_jobs
-inductivehealth	no_matching_jobs
 includedhealth	no_matching_jobs
 infstones	no_matching_jobs
 influ2	no_matching_jobs
@@ -10129,7 +10128,6 @@ wishpond	no_matching_jobs
 workingfamilies	no_matching_jobs
 world-view-enterprises-inc	http_404
 worldover	no_jobs
-wpromote	no_matching_jobs
 xpansiv	http_404
 xby2	no_matching_jobs
 xage-security	no_matching_jobs

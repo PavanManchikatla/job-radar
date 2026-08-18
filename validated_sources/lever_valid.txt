@@ -149,3 +149,5 @@ avalerehealth
 bioagilytix
 bluesight
 harrisonst
+inductivehealth
+wpromote
