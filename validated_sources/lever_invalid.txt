@@ -15658,7 +15658,6 @@ biggie	no_matching_jobs
 biobot	http_404
 azavea	http_404
 biodigital	no_matching_jobs
-bioagilytix	no_matching_jobs
 biconomy	http_404
 biointellisense	no_matching_jobs
 bill	http_404
