@@ -9428,7 +9428,6 @@ bluespace	http_404
 beautybarrage	no_matching_jobs
 bloomon	no_matching_jobs
 bosonai	no_matching_jobs
-bluesight	no_matching_jobs
 bluecatnetworks	no_matching_jobs
 brightedge	no_matching_jobs
 beaverprocess	no_matching_jobs
