@@ -5682,7 +5682,6 @@ charmindustrial	http_404
 softermii	http_404
 bearing	no_jobs
 alkujobs	no_matching_jobs
-pharomanagement	no_matching_jobs
 southwesttitleloans	no_matching_jobs
 neteasegames	no_matching_jobs
 vicarioussurgical	no_jobs
