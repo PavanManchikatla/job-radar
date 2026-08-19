@@ -6168,7 +6168,6 @@ augmentcomputing	no_matching_jobs
 omnipresent	http_404
 samsungaustinsemiconductor	http_404
 mm	no_matching_jobs
-gruns	no_matching_jobs
 cleo	no_matching_jobs
 remotecom	no_matching_jobs
 valon	http_404
@@ -8091,7 +8090,6 @@ apparatus	no_matching_jobs
 covant	no_jobs
 armada	no_matching_jobs
 merge	no_jobs
-knak	no_matching_jobs
 lyellimmunopharma	no_matching_jobs
 sprig	http_404
 traversal	http_404
