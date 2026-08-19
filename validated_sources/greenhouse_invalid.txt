@@ -3633,7 +3633,6 @@ acronis backup	http_404
 druva	no_matching_jobs
 iperius	http_404
 crashplan	no_matching_jobs
-backblaze	no_matching_jobs
 paragon	http_404
 aomei	http_404
 easeus	http_404
