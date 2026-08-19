@@ -10012,7 +10012,6 @@ surfshark	no_jobs
 superiorexecutiveandlegalrecruiting	no_matching_jobs
 contentsquare	no_matching_jobs
 synmax	no_jobs
-swordhealth	no_matching_jobs
 standtogether	no_matching_jobs
 supportkind	no_jobs
 singerlewak	no_matching_jobs
@@ -10052,7 +10051,6 @@ tovala	no_matching_jobs
 tradeify	no_matching_jobs
 titanelectric-ga	no_matching_jobs
 treering	no_matching_jobs
-triallibrary	no_matching_jobs
 trendyol	no_matching_jobs
 trilogyfederal	http_404
 tribe-payments	no_matching_jobs
@@ -17457,7 +17455,6 @@ proximafusion	no_jobs
 ppmd	no_matching_jobs
 pspdfkit	http_404
 psintegrated	no_jobs
-protolabs	no_matching_jobs
 pryon	no_matching_jobs
 publiccloudgroup-2	http_404
 productventures	no_matching_jobs
