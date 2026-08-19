@@ -15725,7 +15725,6 @@ boulderingproject	http_404
 boweryfarming	http_404
 boltjobs	no_matching_jobs
 bogaardgroup	no_matching_jobs
-bounteous	no_matching_jobs
 brafton	no_matching_jobs
 brainnest	http_404
 braveventurelabs	http_404
