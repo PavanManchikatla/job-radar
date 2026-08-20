@@ -593,7 +593,6 @@ battery ventures	http_404
 foundry group	http_404
 mayfield	http_404
 spark capital	http_404
-iconiq	no_matching_jobs
 union square ventures	http_404
 first round	http_404
 khosla ventures	http_404
@@ -5456,7 +5455,6 @@ lilium	http_404
 propertyfinder	http_404
 silvus-international-opportunites	no_jobs
 jetairegroup	http_404
-technergetics	no_matching_jobs
 ethoslife	no_matching_jobs
 cellsignalingtechnology79	no_matching_jobs
 tyreeanddangelo	no_matching_jobs
@@ -6681,7 +6679,6 @@ icarus	no_matching_jobs
 ltkbrazil	no_jobs
 datakindinc	no_matching_jobs
 tds	no_matching_jobs
-ampsortation	no_matching_jobs
 solarisbank	no_matching_jobs
 alchemy	http_404
 pelago	no_matching_jobs
