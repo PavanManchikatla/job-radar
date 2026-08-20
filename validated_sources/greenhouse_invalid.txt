@@ -7913,7 +7913,6 @@ matik	no_matching_jobs
 incommonwith	no_matching_jobs
 thinkingmachines	http_404
 noyocareers	no_matching_jobs
-gomotive	no_matching_jobs
 kasaliving	http_404
 oliverusa	no_matching_jobs
 cerulacare	no_matching_jobs
@@ -8111,7 +8110,6 @@ elwoodtechnologies	no_matching_jobs
 workshop	no_matching_jobs
 deepwatchindia	no_matching_jobs
 americaspromisealliance	no_matching_jobs
-expel	no_matching_jobs
 circleso	no_matching_jobs
 cb4	no_jobs
 katrisk	http_404
