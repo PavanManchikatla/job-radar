@@ -5787,7 +5787,6 @@ userinterviews	http_404
 growe	no_matching_jobs
 kadenallc	http_404
 rangeviewinc	no_matching_jobs
-virbiotechnologyinc	no_matching_jobs
 admarketplaceinc	http_404
 safariai	no_matching_jobs
 zetachain	no_matching_jobs
@@ -5928,7 +5927,6 @@ privatehealthmanagement	no_matching_jobs
 stage	no_matching_jobs
 la2028	http_404
 toastmastersinternational	no_matching_jobs
-carrotfertility	no_matching_jobs
 firstlook	http_404
 bettyjobboard	no_matching_jobs
 m0dbathenextthingltd	no_matching_jobs
@@ -6265,7 +6263,6 @@ littlewordsproject	no_matching_jobs
 blackedgecapital	no_matching_jobs
 jobsforthefuture	no_matching_jobs
 carbonbuiltemployment	http_404
-divergehealth	no_matching_jobs
 procaresolutions	no_matching_jobs
 zengrc	no_jobs
 ripplematch	no_jobs
@@ -6776,7 +6773,6 @@ mightynetworks	no_matching_jobs
 appliedvr	no_matching_jobs
 thinkacademyus	no_matching_jobs
 seattlesoundersfc	no_matching_jobs
-resonate	no_matching_jobs
 designedconveyorsystems	no_matching_jobs
 diligentcorporation	no_matching_jobs
 sourcescrub	no_jobs
@@ -8634,7 +8630,6 @@ persefoniaiinc	no_matching_jobs
 paypay	no_matching_jobs
 wgachidden	no_jobs
 cfoinsights	no_matching_jobs
-patientpoint	no_matching_jobs
 tenableinc	no_matching_jobs
 apono	http_404
 vibesllc	no_matching_jobs
