@@ -688,7 +688,6 @@ keystone	no_matching_jobs
 chainlink	http_404
 polygon	http_404
 arculus	http_404
-consensys	no_matching_jobs
 avalanche	http_404
 near	http_404
 polkadot	http_404
@@ -5508,7 +5507,6 @@ bynderjobs	http_404
 clearmatics	http_404
 antora	no_matching_jobs
 iftother	no_matching_jobs
-understood	no_matching_jobs
 theoriamedical	no_matching_jobs
 hootsuite	no_matching_jobs
 genedx	no_matching_jobs
