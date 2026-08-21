@@ -4334,7 +4334,6 @@ thinkorswim	http_404
 centerpoint	http_404
 speedtrader	http_404
 cobra trading	http_404
-robinhood	no_matching_jobs
 suretrader	http_404
 trackn trade	http_404
 finviz	http_404
@@ -6237,7 +6236,6 @@ sunset	no_matching_jobs
 caliberhealth	no_matching_jobs
 prose	http_404
 onlyone	no_jobs
-homechefinternalemployees	no_matching_jobs
 cowbellcyber	no_matching_jobs
 verifone	no_matching_jobs
 cabinethealth	http_404
@@ -8002,7 +8000,6 @@ thedailybeast31	http_404
 saltsecurity	no_matching_jobs
 cocoon	no_matching_jobs
 homeward	no_matching_jobs
-tomorrow	no_matching_jobs
 eko	no_jobs
 proton	no_matching_jobs
 carefeed	no_matching_jobs

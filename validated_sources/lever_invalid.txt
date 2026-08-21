@@ -9822,7 +9822,6 @@ padsplit	no_matching_jobs
 pattern-biosciences	http_404
 paramedicservices	no_matching_jobs
 parcelvision	no_matching_jobs
-payjoy	no_matching_jobs
 pennylane	http_404
 pentagrp	no_matching_jobs
 peerspace	no_matching_jobs
