@@ -4252,7 +4252,6 @@ shipwell	no_jobs
 doft	http_404
 cargomatic	no_matching_jobs
 freight farms	http_404
-boulevard	no_matching_jobs
 kodiak robotics	http_404
 embark trucks	http_404
 mothership	http_404
@@ -7097,7 +7096,6 @@ sourcegraph91	no_matching_jobs
 midihealth	no_matching_jobs
 cleansimpleeats	no_matching_jobs
 kymberconsultinggroup	no_matching_jobs
-mettel	no_matching_jobs
 mhi	no_matching_jobs
 accelschools	no_matching_jobs
 xphealth	no_matching_jobs
