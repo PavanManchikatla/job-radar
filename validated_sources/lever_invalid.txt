@@ -17305,7 +17305,6 @@ p3vetpartners	no_matching_jobs
 peoplefun	http_404
 pento	http_404
 percona	http_404
-pditechnologies	no_matching_jobs
 panderasystems	http_404
 peakmetrics	http_404
 peddie	http_404

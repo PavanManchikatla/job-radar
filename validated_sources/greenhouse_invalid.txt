@@ -8375,7 +8375,6 @@ hotwireprus	http_404
 nanonets	no_matching_jobs
 achievementfirstnetworksupportcareers	no_matching_jobs
 gluwa	http_404
-globalhealthcareexchangeinc	no_matching_jobs
 zinnia	no_matching_jobs
 neocybernetica	no_matching_jobs
 everagtester	no_matching_jobs
