@@ -19842,3 +19842,25 @@ sira
 lemma
 robodock
 hemlock
+
+# --- YC hiring companies ---
+buntinglabs
+bunting-labs
+bunting
+rivet
+sync
+liquidcompute
+liquid-compute
+forgeautomation
+forge-automation
+conviction
+madethis
+haladir
+regbase
+elyra
+aktoriarobotics
+aktoria-robotics
+aktoria
+vestris
+waybill
+covera
