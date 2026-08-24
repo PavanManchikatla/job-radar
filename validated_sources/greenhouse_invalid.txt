@@ -5722,7 +5722,6 @@ repeatmd	http_404
 foundationriskpartners	no_matching_jobs
 huddleup	no_matching_jobs
 nice	no_matching_jobs
-sharkninjaoperatingllc	no_matching_jobs
 adeedo	no_matching_jobs
 brillapubliccharterschools	no_matching_jobs
 tigergraph	no_matching_jobs
@@ -6840,7 +6839,6 @@ crowdstreet	no_jobs
 palmettocleantech	no_matching_jobs
 veterinaryemergencygroupst	no_matching_jobs
 cybrid	no_jobs
-pingidentity	no_matching_jobs
 nightdivestudios	no_jobs
 knab	http_404
 azuritypharmaceuticals	no_matching_jobs
@@ -7602,7 +7600,6 @@ sirum	no_matching_jobs
 yugalabs	http_404
 iovino	no_matching_jobs
 wizinc	no_matching_jobs
-atariinc	no_matching_jobs
 suitsupply	no_matching_jobs
 cloudchamberen	no_matching_jobs
 dayonebiopharmaceuticals	no_jobs

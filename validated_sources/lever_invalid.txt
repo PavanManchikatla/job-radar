@@ -17645,7 +17645,6 @@ rumin8	no_jobs
 runkeeper	http_404
 runningtide	http_404
 rushdownstudio	http_404
-pingwind	no_matching_jobs
 rxsavingssolutions-2	http_404
 saagie	http_404
 rupa	no_matching_jobs
