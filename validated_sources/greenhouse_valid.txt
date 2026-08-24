@@ -625,3 +625,7 @@ mercari
 sharkninjaoperatingllc
 pingidentity
 atariinc
+stablekernel
+genscript
+sofi
+companycam

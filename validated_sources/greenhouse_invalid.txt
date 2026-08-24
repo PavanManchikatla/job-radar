@@ -5379,7 +5379,6 @@ blackthorn	no_matching_jobs
 checkalt	no_jobs
 studycareers	no_matching_jobs
 learnlux	no_matching_jobs
-stablekernel	no_matching_jobs
 chainguard	no_matching_jobs
 scoutspace	no_matching_jobs
 scileads	no_matching_jobs
@@ -5419,7 +5418,6 @@ comparaja	no_matching_jobs
 walleyecapital-external-students	no_matching_jobs
 voxel51	no_jobs
 mirumpharmaceuticals	no_matching_jobs
-genscript	no_matching_jobs
 goodunited	http_404
 unitedmasterstranslation	no_matching_jobs
 leasingmarkt	no_matching_jobs
@@ -5664,7 +5662,6 @@ teads1	no_matching_jobs
 littleotter	http_404
 hoyoverse	no_jobs
 clearwayjobs	no_matching_jobs
-sofi	no_matching_jobs
 bottomlinetechnologies	no_matching_jobs
 sorcero	no_matching_jobs
 avidxchangeinc	no_matching_jobs
@@ -5935,7 +5932,6 @@ toastmastersinternational	no_matching_jobs
 48f-relo	http_404
 m0dbathenextthingltd	no_matching_jobs
 firstlook	http_404
-companycam	no_matching_jobs
 rhythmagency	http_404
 c3el	no_matching_jobs
 thirtymadison	http_404
