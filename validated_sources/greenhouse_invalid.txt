@@ -5079,7 +5079,6 @@ forthea	no_matching_jobs
 dynamitegames	no_matching_jobs
 planradar	no_matching_jobs
 accreditedlabs	no_matching_jobs
-fundraiseup	no_matching_jobs
 seam	http_404
 scrollio	http_404
 scandit	no_matching_jobs
@@ -5621,7 +5620,6 @@ greenthumbindustries	no_matching_jobs
 liveperson	no_matching_jobs
 apr	http_404
 zscalerredcanary	http_404
-cobaltio	no_matching_jobs
 personalisinc	no_matching_jobs
 adaugeohealthcare	no_jobs
 yalochatinc	no_matching_jobs
@@ -6022,7 +6020,6 @@ trufflesecurity	no_matching_jobs
 newlimit	no_matching_jobs
 parity	http_404
 armamentsresearchcompany	no_matching_jobs
-1stdibscom	no_matching_jobs
 tula	no_matching_jobs
 myshell	http_404
 foresightmentalhealth	no_matching_jobs
@@ -6848,7 +6845,6 @@ stratainformationgroup	no_matching_jobs
 neda	no_matching_jobs
 trinityairmedical	http_404
 biltrewards	http_404
-hippo70	no_matching_jobs
 nurdie	no_matching_jobs
 groww	no_matching_jobs
 fletcherjonesmotorcars	no_matching_jobs
@@ -7538,7 +7534,6 @@ philadelphiaeagles	no_matching_jobs
 adelphiresearch	no_jobs
 boku	no_matching_jobs
 zora	no_jobs
-karat	no_matching_jobs
 sociummedia	http_404
 eh2	no_matching_jobs
 jointqg	no_matching_jobs
@@ -8072,7 +8067,6 @@ amount	no_matching_jobs
 accurx	http_404
 janetechnologies	http_404
 constructortech	no_matching_jobs
-method	no_matching_jobs
 blastpoint	no_jobs
 bitwarden	no_matching_jobs
 jrmconstructionmanagementllc	no_matching_jobs
