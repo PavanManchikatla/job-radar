@@ -9639,7 +9639,6 @@ happyco	no_matching_jobs
 genefab	no_matching_jobs
 hdworks	http_404
 headroyce	no_matching_jobs
-healthcare	no_matching_jobs
 heartbeathealth	no_matching_jobs
 hellonanny	no_matching_jobs
 hexa	no_jobs

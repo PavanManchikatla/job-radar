@@ -1,16 +1,26 @@
 ## Jobs Feed (auto-updated)
 
 <!-- JOBS:START -->
-_Last updated: 2026-08-24 20:39 CDT_
+_Last updated: 2026-08-25 00:08 CDT_
 
 | Posted | Company | Title | Location | Source |
 |---|---|---|---|---|
-| 2026-08-25 | brightai | [AI Engineer, Time-Series Signal Processing](https://job-boards.greenhouse.io/brightai/jobs/5616556004) | Palo Alto, CA | greenhouse |
+| 2026-08-25 | highmetric | [ServiceNow Senior Software Engineer - AI](https://www.newrocket.com/careers/job?gh_jid=6138692004&gh_jid=6138692004) | Remote | greenhouse |
 | 2026-08-25 | redwoodmaterials | [Senior Analytics Engineer](https://boards.greenhouse.io/redwoodmaterials/jobs/6116721004?gh_jid=6116721004) | San Francisco, California, United States | greenhouse |
+| 2026-08-25 | thealleninstitute | [Research Engineer, Asta](https://job-boards.greenhouse.io/thealleninstitute/jobs/7899565) | Seattle, WA | greenhouse |
+| 2026-08-25 | thealleninstitute | [Research Engineer, FlexOlmo](https://job-boards.greenhouse.io/thealleninstitute/jobs/7819106) | Seattle, WA | greenhouse |
+| 2026-08-25 | thealleninstitute | [Research Scientist, Asta](https://job-boards.greenhouse.io/thealleninstitute/jobs/7723570) | Seattle, WA | greenhouse |
+| 2026-08-25 | thealleninstitute | [Research Scientist, Robotics](https://job-boards.greenhouse.io/thealleninstitute/jobs/7848623) | Seattle, WA | greenhouse |
+| 2026-08-25 | thealleninstitute | [Senior Research Engineer](https://job-boards.greenhouse.io/thealleninstitute/jobs/8140098) | Seattle, WA | greenhouse |
+| 2026-08-25 | thealleninstitute | [Senior Research Engineer, Olmo + Molmo](https://job-boards.greenhouse.io/thealleninstitute/jobs/7980660) | Seattle, WA | greenhouse |
+| 2026-08-25 | healthcare | [AI Engineer](https://jobs.lever.co/healthcare/5b1f873b-c8a9-4a93-b738-330ebe3163bf) | Remote, US | lever |
 | 2026-08-25 | redwoodmaterials | [Data Engineering Manager](https://boards.greenhouse.io/redwoodmaterials/jobs/6008522004?gh_jid=6008522004) | McCarran, NV | greenhouse |
+| 2026-08-25 | smithrx | [Staff Data Analyst](https://job-boards.greenhouse.io/smithrx/jobs/8737760002) | Remote | greenhouse |
+| 2026-08-25 | descript | [Applied Research Scientist, AI Research](https://boards.greenhouse.io/descript/jobs/7967440003?gh_jid=7967440003) | San Francisco; Hybrid or Remote | greenhouse |
+| 2026-08-25 | baton | [Senior Product Manager, Machine Learning](https://job-boards.greenhouse.io/baton/jobs/5215515007) | San Francisco, California, United States | greenhouse |
+| 2026-08-25 | brightai | [AI Engineer, Time-Series Signal Processing](https://job-boards.greenhouse.io/brightai/jobs/5616556004) | Palo Alto, CA | greenhouse |
 | 2026-08-25 | brightai | [Senior AI Engineer (Edge Dialog Systems)](https://job-boards.greenhouse.io/brightai/jobs/6160946004) | Palo Alto, CA | greenhouse |
 | 2026-08-25 | brightai | [Senior AI Engineer – LLM, RAG](https://job-boards.greenhouse.io/brightai/jobs/5616545004) | Palo Alto, CA | greenhouse |
-| 2026-08-25 | descript | [Applied Research Scientist, AI Research](https://boards.greenhouse.io/descript/jobs/7967440003?gh_jid=7967440003) | San Francisco; Hybrid or Remote | greenhouse |
 | 2026-08-25 | waymo | [Senior Business Intelligence Analyst](https://careers.withwaymo.com/jobs?gh_jid=7959074) | Mountain View, CA USA ; San Francisco, CA, USA | greenhouse |
 | 2026-08-25 | reddit | [Sr. Staff Data Scientist - Ads Measurement, Signals, Privacy](https://job-boards.greenhouse.io/reddit/jobs/8072046) | Remote - United States | greenhouse |
 | 2026-08-25 | reddit | [Staff Data Scientist - Ads Measurement, Signals, Privacy](https://job-boards.greenhouse.io/reddit/jobs/8072076) | Remote - United States | greenhouse |
@@ -197,7 +207,6 @@ _Last updated: 2026-08-24 20:39 CDT_
 | 2026-08-24 | shinvestmentsllc | [Senior Financial Analyst (Tableau & Power BI Developer)](https://senecaholdings.com/jobs/?gh_jid=4726670005) | San Antonio, TX | greenhouse |
 | 2026-08-24 | pingwind | [DBA / Data Modeler / Data Engineer](https://jobs.lever.co/pingwind/efed6847-f486-4155-85a9-5042a9e4581b) | Remote | lever |
 | 2026-08-24 | grvty | [Data Scientist](https://job-boards.greenhouse.io/grvty/jobs/4380024009) | Reston, Virginia, United States | greenhouse |
-| 2026-08-24 | highmetric | [ServiceNow Senior Software Engineer - AI](https://www.newrocket.com/careers/job?gh_jid=6138692004&gh_jid=6138692004) | Remote | greenhouse |
 | 2026-08-24 | dotmatics | [Cloud Data Analytics Engineer](https://www.dotmatics.com/jobs/apply?gh_jid=4713384005) | Remote - United Kingdom | greenhouse |
 | 2026-08-24 | dotmatics | [Cloud Data Analytics Engineer](https://www.dotmatics.com/jobs/apply?gh_jid=4702208005) | Remote - Canada | greenhouse |
 | 2026-08-24 | dotmatics | [Senior Data Analytics Engineer](https://www.dotmatics.com/jobs/apply?gh_jid=4691559005) | Remote - United Kingdom | greenhouse |
@@ -213,5 +222,4 @@ _Last updated: 2026-08-24 20:39 CDT_
 | 2026-08-24 | blab | [Junior Data Engineer (New York, NY)](https://job-boards.greenhouse.io/blab/jobs/8688848002) | New York City, NY metro area | greenhouse |
 | 2026-08-23 | cookunity | [Senior Data Analyst, B2B](https://careers.cookunity.com/open-roles?gh_jid=7950649003) | Argentina (Remote) | greenhouse |
 | 2026-08-22 | kellerpostman | [Marketing Data Analyst](https://job-boards.greenhouse.io/kellerpostman/jobs/5194516007) | Remote | greenhouse |
-| 2026-08-22 | lilasciences | [Research Scientist, Photonic Materials Discovery](https://job-boards.greenhouse.io/lilasciences/jobs/4377093009) | Cambridge, MA USA | greenhouse |
 <!-- JOBS:END -->
