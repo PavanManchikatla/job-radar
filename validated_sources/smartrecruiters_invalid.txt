@@ -363,7 +363,6 @@ freecharge	no_matching_jobs
 transferwise	no_postings
 remitly	no_postings
 worldremit	no_postings
-wise	no_matching_jobs
 xoom	no_postings
 azimo	no_postings
 instarem	no_postings
