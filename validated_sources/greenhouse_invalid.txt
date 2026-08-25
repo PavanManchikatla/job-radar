@@ -3608,7 +3608,6 @@ barracuda	http_404
 wandera	http_404
 menlo	http_404
 airwatch	http_404
-jamf	no_matching_jobs
 manageengine	http_404
 workspace one	http_404
 lookout	http_404
@@ -8059,7 +8058,6 @@ fanduelgrouptvg	no_jobs
 studsinc	no_matching_jobs
 fictiv	no_matching_jobs
 twosixtechnologies	no_matching_jobs
-nonprofitfinancefund	no_matching_jobs
 bennie	no_matching_jobs
 tegnainc	no_matching_jobs
 codesignal	http_404
@@ -9731,7 +9729,6 @@ notablelabs	http_404
 notable-labs	http_404
 notable	http_404
 bankjoy	http_404
-qventus	no_matching_jobs
 razorpay	http_404
 giveffect	http_404
 ironclad	http_404
