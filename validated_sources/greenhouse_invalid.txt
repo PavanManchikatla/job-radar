@@ -6194,7 +6194,6 @@ sensiblecare	no_matching_jobs
 outerbiosciences	http_404
 psiquantum	no_matching_jobs
 instride	no_matching_jobs
-finyard	no_matching_jobs
 prosperhealth	no_matching_jobs
 privateequityinsights	no_matching_jobs
 mlbfellowship	no_matching_jobs
@@ -13225,7 +13224,6 @@ lolablankets	no_matching_jobs
 looneyrickskiss	no_matching_jobs
 lovetoknowmedia	http_404
 loverboy	http_404
-loenbro	no_matching_jobs
 louisianadermatology	no_matching_jobs
 luckylincolngaming	http_404
 lucenia	no_matching_jobs
