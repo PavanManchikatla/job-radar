@@ -629,3 +629,4 @@ stablekernel
 genscript
 sofi
 companycam
+brightai
