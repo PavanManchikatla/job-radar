@@ -8611,7 +8611,6 @@ definitivehc	no_matching_jobs
 synthetaic	no_matching_jobs
 avelaeducation	http_404
 beauhurst	http_404
-samsungsemiconductor	no_matching_jobs
 blackswan	http_404
 relishworks	no_matching_jobs
 shennonbiotechnologies	no_matching_jobs

@@ -643,3 +643,4 @@ karat
 method
 evolvevacationrental
 digicert
+samsungsemiconductor

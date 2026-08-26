@@ -3319,7 +3319,6 @@ instasize	no_postings
 pic stitch	http_400
 layout	no_postings
 moldiv	no_postings
-canva	no_matching_jobs
 unfold	no_postings
 mojo	no_postings
 splice	no_matching_jobs
