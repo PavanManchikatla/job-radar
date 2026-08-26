@@ -8267,7 +8267,6 @@ joinpaxos	http_404
 bigleafnetworks	no_jobs
 gluo	http_404
 daylight	no_matching_jobs
-evolvevacationrental	no_matching_jobs
 simspace	http_404
 signifyhealthireland	http_404
 vsco39	no_matching_jobs
