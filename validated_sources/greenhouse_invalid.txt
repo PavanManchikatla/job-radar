@@ -3831,7 +3831,6 @@ rsa securid	http_404
 gemalto	http_404
 thales	http_404
 globalsign	http_404
-digicert	no_matching_jobs
 identrust	http_404
 sectigo	http_404
 buypass	http_404
