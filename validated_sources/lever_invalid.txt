@@ -9676,7 +9676,6 @@ jabu-hr	no_matching_jobs
 jellysmack	http_404
 januaryinc	no_matching_jobs
 intropic	no_matching_jobs
-jamcity	no_matching_jobs
 jetbridge	http_404
 givinghhc	no_matching_jobs
 idt	no_matching_jobs

@@ -6727,7 +6727,6 @@ starcloud	no_matching_jobs
 housinganywhere	no_matching_jobs
 figure	no_matching_jobs
 learneo	no_matching_jobs
-mobilityware	no_matching_jobs
 hydritechemicalco	no_matching_jobs
 logixboard	http_404
 whisperaero	no_matching_jobs
@@ -8346,7 +8345,6 @@ cofertility	no_matching_jobs
 residential	no_matching_jobs
 aevexaerospace	no_matching_jobs
 newsweek	no_matching_jobs
-abacusinsights	no_matching_jobs
 terremotobiosciencesinc	no_matching_jobs
 hopin	http_404
 picarroinc	no_matching_jobs
