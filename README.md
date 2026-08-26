@@ -1,10 +1,12 @@
 ## Jobs Feed (auto-updated)
 
 <!-- JOBS:START -->
-_Last updated: 2026-08-25 20:41 CDT_
+_Last updated: 2026-08-26 00:09 CDT_
 
 | Posted | Company | Title | Location | Source |
 |---|---|---|---|---|
+| 2026-08-26 | launchpotato | [Lead Data Analyst, Marketing](https://launchpotato.com/careers-list?gh_jid=6049044004) | United States (remote) | greenhouse |
+| 2026-08-26 | airbnb | [Senior Machine Learning Engineer, Payments](https://careers.airbnb.com/positions/7755758?gh_jid=7755758) | Remote-USA | greenhouse |
 | 2026-08-26 | waymo | [Brand Media Strategy & Analytics Manager](https://careers.withwaymo.com/jobs?gh_jid=7839116) | Mountain View, CA, USA; San Francisco, CA, USA | greenhouse |
 | 2026-08-26 | waymo | [Data Scientist](https://careers.withwaymo.com/jobs?gh_jid=7455592) | Mountain View, California, USA; San Francisco, California, USA | greenhouse |
 | 2026-08-26 | waymo | [Machine Learning Engineer / Applied Scientist, Prediction & Planning](https://careers.withwaymo.com/jobs?gh_jid=7309064) | Mountain View, CA USA; San Francisco, CA USA | greenhouse |
@@ -316,11 +318,11 @@ _Last updated: 2026-08-25 20:41 CDT_
 | 2026-08-24 | andurilindustries | [Machine Learning Research Engineer](https://boards.greenhouse.io/andurilindustries/jobs/4998882007?gh_jid=4998882007) | Costa Mesa, California, United States; Washington, District of Columbia, United States | greenhouse |
 | 2026-08-24 | andurilindustries | [Manufacturing Engineer, Data Analyst](https://boards.greenhouse.io/andurilindustries/jobs/5126633007?gh_jid=5126633007) | Costa Mesa, California, United States | greenhouse |
 | 2026-08-24 | andurilindustries | [Mission Analytics Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5130552007?gh_jid=5130552007) | Irvine, California, United States | greenhouse |
-| 2026-08-24 | andurilindustries | [Research Scientist](https://boards.greenhouse.io/andurilindustries/jobs/5150299007?gh_jid=5150299007) | Broomfield, Colorado, United States; Fort Collins, Colorado, United States | greenhouse |
 | 2026-08-24 | andurilindustries | [Research Scientist](https://boards.greenhouse.io/andurilindustries/jobs/5203023007?gh_jid=5203023007) | Huntsville, Alabama, United States | greenhouse |
+| 2026-08-24 | andurilindustries | [Research Scientist](https://boards.greenhouse.io/andurilindustries/jobs/5150299007?gh_jid=5150299007) | Broomfield, Colorado, United States; Fort Collins, Colorado, United States | greenhouse |
 | 2026-08-24 | andurilindustries | [Research Scientist](https://boards.greenhouse.io/andurilindustries/jobs/5201025007?gh_jid=5201025007) | Fort Collins, Colorado, United States | greenhouse |
-| 2026-08-24 | andurilindustries | [Research Scientist, Battlespace Awareness](https://boards.greenhouse.io/andurilindustries/jobs/5178314007?gh_jid=5178314007) | Waltham, Massachusetts, United States | greenhouse |
 | 2026-08-24 | andurilindustries | [Research Scientist, Battlespace Awareness](https://boards.greenhouse.io/andurilindustries/jobs/5207729007?gh_jid=5207729007) | Broomfield, Colorado, United States; Fort Collins, Colorado, United States | greenhouse |
+| 2026-08-24 | andurilindustries | [Research Scientist, Battlespace Awareness](https://boards.greenhouse.io/andurilindustries/jobs/5178314007?gh_jid=5178314007) | Waltham, Massachusetts, United States | greenhouse |
 | 2026-08-24 | andurilindustries | [Research Scientist, Battlespace Awareness](https://boards.greenhouse.io/andurilindustries/jobs/5178310007?gh_jid=5178310007) | Broomfield, Colorado, United States | greenhouse |
 | 2026-08-24 | andurilindustries | [RFML Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5031495007?gh_jid=5031495007) | Costa Mesa, California, United States | greenhouse |
 | 2026-08-24 | andurilindustries | [Senior Analytics Engineer](https://boards.greenhouse.io/andurilindustries/jobs/4743827007?gh_jid=4743827007) | Costa Mesa, California, United States | greenhouse |
@@ -390,10 +392,10 @@ _Last updated: 2026-08-25 20:41 CDT_
 | 2026-08-24 | opensesame | [Data Engineering Manager](https://boards.greenhouse.io/opensesame/jobs/8152723?gh_jid=8152723) | Remote | greenhouse |
 | 2026-08-24 | databricks | [AI Engineer - FDE (Forward Deployed Engineer)](https://databricks.com/company/careers/open-positions/job?gh_jid=8099751002) | Remote - India | greenhouse |
 | 2026-08-24 | zyngacareers | [Senior Data Analyst - Poker](https://job-boards.greenhouse.io/zyngacareers/jobs/5680677004) | Austin, TX; Toronto, Canada | greenhouse |
-| 2026-08-24 | alu | [Business Intelligence Lead](https://job-boards.greenhouse.io/alu/jobs/8063967) | Remote | greenhouse |
 | 2026-08-24 | alxafrica | [AI Engineer](https://job-boards.greenhouse.io/alxafrica/jobs/8083188) | Remote | greenhouse |
 | 2026-08-24 | alxafrica | [Data Scientist](https://job-boards.greenhouse.io/alxafrica/jobs/8046119) | Remote | greenhouse |
 | 2026-08-24 | alxafrica | [Senior AI/ML Engineer](https://job-boards.greenhouse.io/alxafrica/jobs/8083210) | Remote | greenhouse |
+| 2026-08-24 | alu | [Business Intelligence Lead](https://job-boards.greenhouse.io/alu/jobs/8063967) | Remote | greenhouse |
 | 2026-08-24 | lyratechgroup | [Forward Deployment AI Engineer](https://job-boards.greenhouse.io/lyratechgroup/jobs/5228674008) | Cleveland, OH | greenhouse |
 | 2026-08-23 | cookunity | [Senior Data Analyst, B2B](https://careers.cookunity.com/open-roles?gh_jid=7950649003) | Argentina (Remote) | greenhouse |
 <!-- JOBS:END -->
