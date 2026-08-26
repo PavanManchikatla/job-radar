@@ -151,3 +151,5 @@ wwprosolutions
 zaimler
 pingwind
 healthcare
+appfollow
+truetandem

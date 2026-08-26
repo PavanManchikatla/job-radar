@@ -15512,7 +15512,6 @@ aposto	http_404
 appacademy	http_404
 appboxo	http_404
 apphub	http_404
-appfollow	no_matching_jobs
 appliedminds	http_404
 applyboard	http_404
 1776	http_404
@@ -18109,7 +18108,6 @@ tkda	no_matching_jobs
 trustlab	http_404
 trycourier	http_404
 truveris	http_404
-truetandem	no_matching_jobs
 trusttoken	http_404
 tripalink	no_matching_jobs
 tuftandneedle	http_404
