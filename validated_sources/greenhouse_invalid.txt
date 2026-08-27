@@ -5914,7 +5914,6 @@ samsungnext	no_matching_jobs
 themarshallproject	no_jobs
 abbyy	no_matching_jobs
 grayscaleinvestments	no_matching_jobs
-buyersedgeplatformrecruiting	no_matching_jobs
 obsidiantherapeutics	no_matching_jobs
 internaljobsatlush	no_matching_jobs
 la2028	http_404
@@ -6106,7 +6105,6 @@ theknotworldwide	no_matching_jobs
 reserv	http_404
 jukeboxhealth	no_matching_jobs
 outerspace	no_matching_jobs
-tripactions	no_matching_jobs
 vorbiopharma	no_matching_jobs
 gomaestro	no_matching_jobs
 bridgewater89	no_matching_jobs
@@ -7908,7 +7906,6 @@ everylife	http_404
 covetool	http_404
 generalatlantic	no_matching_jobs
 realpha	no_jobs
-legendcareers	no_matching_jobs
 animallogicglobalhybrid	http_404
 canto	no_matching_jobs
 builtinintegrationsandbox	no_jobs
@@ -12968,7 +12965,6 @@ ireland	no_matching_jobs
 ironhealth	http_404
 irisautomation	http_404
 iowacannabiscompany	no_matching_jobs
-ironmountainsolutions	no_matching_jobs
 hyperheat	http_404
 isidor	no_matching_jobs
 islandsxyzinc	http_404

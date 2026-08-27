@@ -10065,7 +10065,6 @@ piplabs	no_matching_jobs
 tryriot	no_matching_jobs
 teleport	no_jobs
 twingate	no_matching_jobs
-ttecdigital	no_matching_jobs
 ubiminds	http_404
 twodots	no_matching_jobs
 uei	no_matching_jobs
