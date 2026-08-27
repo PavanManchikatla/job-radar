@@ -5705,7 +5705,6 @@ alvys	no_matching_jobs
 getscale	no_matching_jobs
 fortrobotics	no_matching_jobs
 altruist	no_matching_jobs
-trueanomalyinc	no_matching_jobs
 marscousg	no_matching_jobs
 audibenehearcom	no_matching_jobs
 quorum	http_404
@@ -5912,7 +5911,6 @@ alma	http_404
 shieldshealthsolutions	no_matching_jobs
 bardelentertainment	http_404
 samsungnext	no_matching_jobs
-mgproperties	no_matching_jobs
 themarshallproject	no_jobs
 abbyy	no_matching_jobs
 grayscaleinvestments	no_matching_jobs
@@ -8347,7 +8345,6 @@ aevexaerospace	no_matching_jobs
 newsweek	no_matching_jobs
 terremotobiosciencesinc	no_matching_jobs
 hopin	http_404
-picarroinc	no_matching_jobs
 metronome	no_jobs
 cytokinetics	http_404
 rivaltechnologies	no_matching_jobs
