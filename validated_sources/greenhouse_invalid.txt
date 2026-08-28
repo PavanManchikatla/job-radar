@@ -313,7 +313,6 @@ payment depot	http_404
 adyen	no_matching_jobs
 dharma merchant services	http_404
 fiserv	http_404
-block	no_matching_jobs
 national processing	http_404
 helcim	http_404
 clearent	http_404
@@ -8136,7 +8135,6 @@ trailerpark	http_404
 pokemoncareers	no_matching_jobs
 physiciansandproviders	no_matching_jobs
 patterndata	no_matching_jobs
-hut8	no_matching_jobs
 hillel	no_matching_jobs
 oxosmedical	http_404
 saasgroup	no_matching_jobs

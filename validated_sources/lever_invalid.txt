@@ -9925,7 +9925,6 @@ robinpowered	http_404
 ridezum	no_matching_jobs
 rivr	no_matching_jobs
 rocketcommunications	no_matching_jobs
-ro	no_matching_jobs
 rw1	http_404
 safetyculture-2	no_jobs
 rover	no_matching_jobs
