@@ -655,3 +655,5 @@ legendcareers
 ironmountainsolutions
 block
 hut8
+mks2technologies
+plume

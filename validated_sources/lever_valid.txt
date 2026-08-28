@@ -156,3 +156,5 @@ truetandem
 jamcity
 ttecdigital
 ro
+delfidiagnostics
+padsplit

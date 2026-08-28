@@ -9516,7 +9516,6 @@ deepjudge	http_404
 cprime	no_matching_jobs
 bpmcpa	no_matching_jobs
 demiurgestudios	no_matching_jobs
-delfidiagnostics	no_matching_jobs
 dga	no_matching_jobs
 daos-hub	no_matching_jobs
 dioxycle	http_404
@@ -9820,7 +9819,6 @@ ou-education-services	no_matching_jobs
 orcabiosystems	no_matching_jobs
 owner	http_404
 nium	no_matching_jobs
-padsplit	no_matching_jobs
 murgadoautomotive	no_matching_jobs
 parkplace	http_404
 partyslate	http_404

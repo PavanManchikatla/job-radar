@@ -8287,7 +8287,6 @@ kardfinancialinc	no_matching_jobs
 heliosservicepartners	http_404
 bouldercare	no_matching_jobs
 newsrevenuehub	no_matching_jobs
-mks2technologies	no_matching_jobs
 mineralystherapeutics	no_matching_jobs
 domeconstruction	no_matching_jobs
 clicktherapeutics	no_matching_jobs
@@ -8638,7 +8637,6 @@ cfoinsights	no_matching_jobs
 naturesbakery	no_matching_jobs
 mcculloughrobertson	http_404
 daggerwinggroup	no_matching_jobs
-plume	no_matching_jobs
 contentful	no_matching_jobs
 oliverseapac	no_matching_jobs
 kronosresearch	no_matching_jobs
