@@ -1426,7 +1426,6 @@ caviar	http_404
 seamless	http_404
 doordash	http_404
 clover	http_404
-chownow	no_matching_jobs
 sephora	http_404
 lavu	http_404
 shopkeep	http_404
@@ -9473,7 +9472,6 @@ citcon	no_matching_jobs
 attentive	http_404
 bedrockenergy	no_matching_jobs
 clearedge	no_matching_jobs
-clarifyhealth	no_matching_jobs
 clearcapital	no_matching_jobs
 clinicalhealthnetworkfortransformation	http_404
 cin7	no_matching_jobs

@@ -657,3 +657,9 @@ block
 hut8
 mks2technologies
 plume
+10alabs
+axon
+affinipay1
+fieldwire
+samsara
+kodiaksolutions

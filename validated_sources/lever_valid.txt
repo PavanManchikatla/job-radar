@@ -158,3 +158,5 @@ ttecdigital
 ro
 delfidiagnostics
 padsplit
+chownow
+clarifyhealth
