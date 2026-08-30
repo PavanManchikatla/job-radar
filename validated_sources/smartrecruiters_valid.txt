@@ -1,5 +1,5 @@
-sandisk
 servicenow
+canva
 coherusbiosciences
 evolutioniq
 modernloop
@@ -9,5 +9,3 @@ activehours
 evidation
 startuptap
 zipongo
-wise
-canva

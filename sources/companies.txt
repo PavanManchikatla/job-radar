@@ -19864,3 +19864,17 @@ aktoria
 vestris
 waybill
 covera
+
+# --- YC hiring companies ---
+cmux
+attimet
+autostep
+syntheticsociety
+synthetic-society
+synthetic
+adentris
+aquashield
+synapsesemiconductor
+synapse-semiconductor
+synapse
+rational
