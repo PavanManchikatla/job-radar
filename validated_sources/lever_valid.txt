@@ -143,3 +143,4 @@ trustyou
 unify
 wwprosolutions
 zaimler
+velo3d
