@@ -5854,7 +5854,6 @@ haizelabs	no_matching_jobs
 gafg	http_404
 rvohcontentfreelance	no_jobs
 rebuildmanufacturing	no_matching_jobs
-sezzle	no_matching_jobs
 shapetherapeutics	http_404
 harrowhealth	no_matching_jobs
 joinforage	http_404

@@ -229,3 +229,4 @@ zocdoc
 komodohealth
 recordedfuture
 gruve
+sezzle

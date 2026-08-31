@@ -15728,7 +15728,6 @@ bound	http_404
 braveventurelabs	http_404
 brand-knew	http_404
 brazoderecho	http_404
-braviantholdings	no_matching_jobs
 brewbike	http_404
 brewbird	http_404
 bridge	http_404
@@ -17728,7 +17727,6 @@ sheertex	http_404
 shippo	http_404
 rockymountainprep	http_404
 shelfengine	http_404
-servicerocket	no_matching_jobs
 resultadosdigitais	http_404
 shop-canal	http_404
 rqteam	http_404
