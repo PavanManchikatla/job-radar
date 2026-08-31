@@ -5122,7 +5122,6 @@ openzeppelin	no_matching_jobs
 inthepocket	no_matching_jobs
 excelsportsmanagement	no_matching_jobs
 ernestpackagingsolutions	no_matching_jobs
-gruve	no_matching_jobs
 bluegranite	http_404
 axogen	no_matching_jobs
 levelaccess	no_matching_jobs
