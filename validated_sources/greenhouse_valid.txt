@@ -230,3 +230,4 @@ komodohealth
 recordedfuture
 gruve
 sezzle
+welbehealth

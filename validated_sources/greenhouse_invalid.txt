@@ -6065,7 +6065,6 @@ bobbie	no_matching_jobs
 greenplaces	no_matching_jobs
 curative	no_jobs
 lynxtech	no_matching_jobs
-welbehealth	no_matching_jobs
 vpawashington	no_matching_jobs
 artefact	no_matching_jobs
 anchanto	no_matching_jobs
