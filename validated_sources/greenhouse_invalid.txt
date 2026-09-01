@@ -6398,7 +6398,6 @@ dagger	no_jobs
 westbrook	no_matching_jobs
 aircompany	no_matching_jobs
 carmichaellynch	no_jobs
-jellyvision	no_matching_jobs
 vynyl	no_matching_jobs
 krollbondratingagency	no_matching_jobs
 nobuhoteltoronto	no_matching_jobs
