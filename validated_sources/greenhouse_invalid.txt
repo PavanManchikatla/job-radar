@@ -6128,7 +6128,6 @@ pipetechnologies	no_matching_jobs
 paystand	no_matching_jobs
 visiersolutionsinc	no_matching_jobs
 dittoliveincorporated	http_404
-hextechnologies	no_matching_jobs
 etchinc	no_matching_jobs
 regrow	http_404
 privateequityinsights	no_matching_jobs

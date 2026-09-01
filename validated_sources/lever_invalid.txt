@@ -9547,7 +9547,6 @@ drivemode	no_matching_jobs
 eastern-communications	no_matching_jobs
 edpuzzle	no_matching_jobs
 dlocal	no_matching_jobs
-eleks	no_matching_jobs
 emersoncollective	no_jobs
 cfsenergy	no_matching_jobs
 eleostech	no_matching_jobs
