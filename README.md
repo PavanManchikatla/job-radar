@@ -1,10 +1,37 @@
 ## Jobs Feed (auto-updated)
 
 <!-- JOBS:START -->
-_Last updated: 2026-08-31 18:54 CDT_
+_Last updated: 2026-08-31 22:52 CDT_
 
 | Posted | Company | Title | Location | Source |
 |---|---|---|---|---|
+| 2026-09-01 | wpromote | [Senior Data Scientist](https://jobs.lever.co/wpromote/b8f59d89-c9f5-433e-8077-5e43ddc0218f) | Remote, United States | lever |
+| 2026-09-01 | highmetric | [AI Engineer-Anthropic-University/Graduate Level - Netherlands/Western Europe](https://www.newrocket.com/careers/job?gh_jid=6164687004&gh_jid=6164687004) | Europe-Remote | greenhouse |
+| 2026-09-01 | highmetric | [Copy of Senior/Lead Forward Deployed AI Engineer-Anthropic-Netherlands/Western Europe](https://www.newrocket.com/careers/job?gh_jid=6166119004&gh_jid=6166119004) | NL- Remote | greenhouse |
+| 2026-09-01 | highmetric | [Forward Deployed AI Engineer-Anthropic-Netherlands/Western Europe](https://www.newrocket.com/careers/job?gh_jid=6164673004&gh_jid=6164673004) | UK - Remote | greenhouse |
+| 2026-09-01 | highmetric | [Senior/Lead Forward Deployed AI Engineer-Anthropic-UK](https://www.newrocket.com/careers/job?gh_jid=6166109004&gh_jid=6166109004) | UK- Remote | greenhouse |
+| 2026-09-01 | highmetric | [Senior/Lead Forward Deployed AI Engineer-Anthropic-US West](https://www.newrocket.com/careers/job?gh_jid=6166097004&gh_jid=6166097004) | USA - Remote | greenhouse |
+| 2026-09-01 | highmetric | [AI Engineer/Anthropic-Campus Hire - US West](https://www.newrocket.com/careers/job?gh_jid=6163518004&gh_jid=6163518004) | USA - Remote | greenhouse |
+| 2026-09-01 | highmetric | [AI Engineer-Anthropic-University/Graduate Level - UK](https://www.newrocket.com/careers/job?gh_jid=6163544004&gh_jid=6163544004) | UK - Remote | greenhouse |
+| 2026-09-01 | highmetric | [ServiceNow Senior Software Engineer - AI](https://www.newrocket.com/careers/job?gh_jid=6138692004&gh_jid=6138692004) | Remote | greenhouse |
+| 2026-09-01 | highmetric | [Forward Deployed AI Engineer](https://www.newrocket.com/careers/job?gh_jid=6006074004&gh_jid=6006074004) | USA - Remote | greenhouse |
+| 2026-09-01 | reddit | [Senior Machine Learning Engineer, Ads Optimization](https://job-boards.greenhouse.io/reddit/jobs/8029120) | Remote - United States | greenhouse |
+| 2026-09-01 | reddit | [Sr. Staff Data Scientist - Ads Measurement, Signals, Privacy](https://job-boards.greenhouse.io/reddit/jobs/8072046) | Remote - United States | greenhouse |
+| 2026-09-01 | reddit | [Staff Data Scientist - Ads Measurement, Signals, Privacy](https://job-boards.greenhouse.io/reddit/jobs/8072076) | Remote - United States | greenhouse |
+| 2026-09-01 | reddit | [Senior Staff Data Scientist - Consumer Experimentation](https://job-boards.greenhouse.io/reddit/jobs/7974504) | Remote - United States | greenhouse |
+| 2026-09-01 | reddit | [Senior Staff Data Scientist - Consumer Experimentation](https://job-boards.greenhouse.io/reddit/jobs/7974507) | Remote - Ontario, Canada | greenhouse |
+| 2026-09-01 | reddit | [Staff Data Scientist, Marketing](https://job-boards.greenhouse.io/reddit/jobs/7931000) | Remote - Ontario, Canada | greenhouse |
+| 2026-09-01 | reddit | [Staff Data Scientist, Marketing](https://job-boards.greenhouse.io/reddit/jobs/7445240) | Remote - United States | greenhouse |
+| 2026-09-01 | reddit | [Senior Staff Machine Learning Systems Engineer, Ads ML Platform](https://job-boards.greenhouse.io/reddit/jobs/8157275) | Remote - United States | greenhouse |
+| 2026-09-01 | reddit | [Senior Data Scientist - Consumer](https://job-boards.greenhouse.io/reddit/jobs/8126946) | Remote - United States | greenhouse |
+| 2026-09-01 | reddit | [Senior Machine Learning Systems Engineer, Ads ML Experience Platform](https://job-boards.greenhouse.io/reddit/jobs/8112967) | Remote - United States | greenhouse |
+| 2026-09-01 | reddit | [Staff Data Scientist, Ads](https://job-boards.greenhouse.io/reddit/jobs/7721787) | Remote - United States | greenhouse |
+| 2026-09-01 | reddit | [Staff Data Scientist, Ads](https://job-boards.greenhouse.io/reddit/jobs/7721851) | Remote - Ontario, Canada | greenhouse |
+| 2026-09-01 | reddit | [Staff Data Scientist, Consumer](https://job-boards.greenhouse.io/reddit/jobs/7931007) | Remote - Ontario, Canada | greenhouse |
+| 2026-09-01 | reddit | [Staff Data Scientist, Consumer](https://job-boards.greenhouse.io/reddit/jobs/6745284) | Remote - United States | greenhouse |
+| 2026-09-01 | reddit | [Staff Machine Learning Engineer, Shopping Ads](https://job-boards.greenhouse.io/reddit/jobs/8115838) | Remote - United States | greenhouse |
+| 2026-09-01 | reddit | [Senior Data Scientist, Ads](https://job-boards.greenhouse.io/reddit/jobs/8104403) | Remote - United States | greenhouse |
+| 2026-08-31 | airbnb | [Machine Learning Engineer, Relevance and Personalization](https://careers.airbnb.com/positions/7708224?gh_jid=7708224) | United States | greenhouse |
 | 2026-08-31 | servicenow | [Senior Staff Research Engineer/Scientist](https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000146569969) | Santa Clara California us | smartrecruiters |
 | 2026-08-31 | instacart | [Senior Data Analyst](https://instacart.careers/job/?gh_jid=8168338) | Canada - Remote (ON, AB, BC, or NS Only) | greenhouse |
 | 2026-08-31 | instacart | [Senior Data Analyst](https://instacart.careers/job/?gh_jid=8168301) | United States - Remote (except California, Connecticut, New Jersey, New York, and Washington) | greenhouse |
@@ -110,22 +137,6 @@ _Last updated: 2026-08-31 18:54 CDT_
 | 2026-08-31 | flagshippioneeringinc | [Machine Learning Scientist](https://boards.greenhouse.io/flagshippioneeringinc/jobs/8750595002?gh_jid=8750595002) | Somerville, MA USA | greenhouse |
 | 2026-08-31 | cellarity | [Machine Learning Scientist](https://job-boards.greenhouse.io/cellarity/jobs/8750594002) | Somerville, MA | greenhouse |
 | 2026-08-31 | abinbev | [Intermediate Data Engineer](https://job-boards.greenhouse.io/abinbev/jobs/7598518002) | Brazil, Remote | greenhouse |
-| 2026-08-31 | reddit | [Sr. Staff Data Scientist - Ads Measurement, Signals, Privacy](https://job-boards.greenhouse.io/reddit/jobs/8072046) | Remote - United States | greenhouse |
-| 2026-08-31 | reddit | [Staff Data Scientist - Ads Measurement, Signals, Privacy](https://job-boards.greenhouse.io/reddit/jobs/8072076) | Remote - United States | greenhouse |
-| 2026-08-31 | reddit | [Senior Machine Learning Engineer, Ads Optimization](https://job-boards.greenhouse.io/reddit/jobs/8029120) | Remote - United States | greenhouse |
-| 2026-08-31 | reddit | [Senior Staff Data Scientist - Consumer Experimentation](https://job-boards.greenhouse.io/reddit/jobs/7974504) | Remote - United States | greenhouse |
-| 2026-08-31 | reddit | [Senior Staff Data Scientist - Consumer Experimentation](https://job-boards.greenhouse.io/reddit/jobs/7974507) | Remote - Ontario, Canada | greenhouse |
-| 2026-08-31 | reddit | [Staff Data Scientist, Marketing](https://job-boards.greenhouse.io/reddit/jobs/7445240) | Remote - United States | greenhouse |
-| 2026-08-31 | reddit | [Staff Data Scientist, Marketing](https://job-boards.greenhouse.io/reddit/jobs/7931000) | Remote - Ontario, Canada | greenhouse |
-| 2026-08-31 | reddit | [Senior Staff Machine Learning Systems Engineer, Ads ML Platform](https://job-boards.greenhouse.io/reddit/jobs/8157275) | Remote - United States | greenhouse |
-| 2026-08-31 | reddit | [Senior Data Scientist - Consumer](https://job-boards.greenhouse.io/reddit/jobs/8126946) | Remote - United States | greenhouse |
-| 2026-08-31 | reddit | [Staff Data Scientist, Ads](https://job-boards.greenhouse.io/reddit/jobs/7721851) | Remote - Ontario, Canada | greenhouse |
-| 2026-08-31 | reddit | [Staff Data Scientist, Ads](https://job-boards.greenhouse.io/reddit/jobs/7721787) | Remote - United States | greenhouse |
-| 2026-08-31 | reddit | [Staff Data Scientist, Consumer](https://job-boards.greenhouse.io/reddit/jobs/7931007) | Remote - Ontario, Canada | greenhouse |
-| 2026-08-31 | reddit | [Staff Data Scientist, Consumer](https://job-boards.greenhouse.io/reddit/jobs/6745284) | Remote - United States | greenhouse |
-| 2026-08-31 | reddit | [Senior Data Scientist, Ads](https://job-boards.greenhouse.io/reddit/jobs/8104403) | Remote - United States | greenhouse |
-| 2026-08-31 | reddit | [Senior Machine Learning Systems Engineer, Ads ML Experience Platform](https://job-boards.greenhouse.io/reddit/jobs/8112967) | Remote - United States | greenhouse |
-| 2026-08-31 | reddit | [Staff Machine Learning Engineer, Shopping Ads](https://job-boards.greenhouse.io/reddit/jobs/8115838) | Remote - United States | greenhouse |
 | 2026-08-31 | digicert | [Senior Data Engineer - Full Stack](https://www.digicert.com/careers/?gh_jid=8735073002) | India Remote | greenhouse |
 | 2026-08-31 | canva | [Senior Analytics Engineer - Finance](https://api.smartrecruiters.com/v1/companies/canva/postings/6000000001363314) | San Francisco CA us | smartrecruiters |
 | 2026-08-31 | gruve | [Forward Deployed AI Engineer](https://gruve.ai/careers/?gh_jid=5409112008) | India (Remote) | greenhouse |
@@ -138,7 +149,4 @@ _Last updated: 2026-08-31 18:54 CDT_
 | 2026-08-29 | sonyinteractiveentertainmentglobal | [Staff Data Scientist -  Experimentation & Measurement](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5778928004) | United States, Remote | greenhouse |
 | 2026-08-29 | sonyinteractiveentertainmentglobal | [Senior Data Scientist -  Experimentation & Measurement](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5755168004) | United States, San Diego, CA | greenhouse |
 | 2026-08-29 | Quora | [Data Scientist - Quora](https://jobicy.com/jobs/151982-data-scientist-quora) | Canada,  Ireland,  USA | jobicy |
-| 2026-08-29 | waymo | [Staff ML Engineer, Foundation Models](https://careers.withwaymo.com/jobs?gh_jid=8152556) | Mountain View, CA, USA | greenhouse |
-| 2026-08-29 | chownow | [GTM Strategy & Analytics Manager](https://jobs.lever.co/chownow/c20b3c8c-6659-43ed-8b38-4a11cfae0db6) | Remote | lever |
-| 2026-08-28 | 10alabs | [Machine Learning Engineer](https://job-boards.greenhouse.io/10alabs/jobs/4273194009) | Remote | greenhouse |
 <!-- JOBS:END -->
