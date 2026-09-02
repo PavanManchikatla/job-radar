@@ -6240,7 +6240,6 @@ valorainc	http_404
 eleoshealth	no_matching_jobs
 globalwebindex	no_matching_jobs
 invisibletech	no_matching_jobs
-falconx	no_matching_jobs
 catapultsports	no_matching_jobs
 imbibeinc	no_matching_jobs
 cultureamp	no_matching_jobs
@@ -6304,7 +6303,6 @@ cafortune	no_matching_jobs
 leagueapps	no_matching_jobs
 monocl	no_matching_jobs
 codeforamerica	no_matching_jobs
-harnessinc	no_matching_jobs
 singleops	http_404
 communitychange	http_404
 convene	no_matching_jobs

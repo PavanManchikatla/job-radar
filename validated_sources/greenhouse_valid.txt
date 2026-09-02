@@ -236,3 +236,5 @@ tripactions
 hextechnologies
 jellyvision
 penninteractive
+falconx
+harnessinc
