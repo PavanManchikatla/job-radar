@@ -5635,7 +5635,6 @@ moveworks	http_404
 authenticbrandsgroup	no_matching_jobs
 cerebrassystems	http_404
 lucanetgroup	no_matching_jobs
-penninteractive	no_matching_jobs
 inizio	no_matching_jobs
 coursemojo	no_jobs
 fortisgames	no_matching_jobs
