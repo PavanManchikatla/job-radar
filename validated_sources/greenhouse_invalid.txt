@@ -5067,7 +5067,6 @@ mavenclinicproviders	no_matching_jobs
 trace3	no_matching_jobs
 beamup	no_matching_jobs
 insider	no_matching_jobs
-octave	no_matching_jobs
 planradar	no_matching_jobs
 hackerrank	no_matching_jobs
 dynamitegames	no_matching_jobs
@@ -6123,7 +6122,6 @@ brightflag	http_404
 axuall	no_matching_jobs
 nkartatherapeutics	no_matching_jobs
 feverup	no_matching_jobs
-pipetechnologies	no_matching_jobs
 paystand	no_matching_jobs
 visiersolutionsinc	no_matching_jobs
 dittoliveincorporated	http_404
