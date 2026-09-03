@@ -243,3 +243,4 @@ pipetechnologies
 gofasti
 apptronik
 pfm
+ruggable

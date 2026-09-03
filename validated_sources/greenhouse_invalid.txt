@@ -5072,7 +5072,6 @@ dynamitegames	no_matching_jobs
 forthea	no_matching_jobs
 carbondirect	no_matching_jobs
 accreditedlabs	no_matching_jobs
-ruggable	no_matching_jobs
 scandit	no_matching_jobs
 endorlabs	no_matching_jobs
 gympass	no_matching_jobs
