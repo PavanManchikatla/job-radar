@@ -5139,7 +5139,6 @@ vikingglobalinvestors	no_matching_jobs
 urschellaboratoriesinc	no_matching_jobs
 oshihealth	no_matching_jobs
 turtlerockstudios	no_matching_jobs
-gofasti	no_matching_jobs
 thoughtworks	no_matching_jobs
 zeals	no_matching_jobs
 medsien	no_matching_jobs
