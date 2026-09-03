@@ -5038,7 +5038,6 @@ si	no_matching_jobs
 transactlyconnect	no_matching_jobs
 rubiconcarbon	no_jobs
 sandstonecarecastlerock	no_jobs
-apptronik	no_matching_jobs
 tropic	http_404
 charterts	no_matching_jobs
 americanmarketingassociation	no_matching_jobs
@@ -5244,7 +5243,6 @@ fiveringsllc	no_matching_jobs
 grasshopperasia	no_matching_jobs
 readai	http_404
 liventus	no_matching_jobs
-pfm	no_matching_jobs
 five9	no_matching_jobs
 eero	http_404
 kano	no_matching_jobs

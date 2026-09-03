@@ -241,3 +241,5 @@ harnessinc
 octave
 pipetechnologies
 gofasti
+apptronik
+pfm
