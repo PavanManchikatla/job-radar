@@ -244,3 +244,4 @@ gofasti
 apptronik
 pfm
 ruggable
+scoutmotors

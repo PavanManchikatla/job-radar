@@ -6036,7 +6036,6 @@ valuatehealthconsultancy	no_jobs
 sandiegocommunitypower	no_matching_jobs
 resortpass	no_matching_jobs
 theswiftgroup	http_404
-scoutmotors	no_matching_jobs
 energysolutions	no_matching_jobs
 taxbit	no_matching_jobs
 juullabs	no_matching_jobs
