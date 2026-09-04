@@ -2265,7 +2265,6 @@ teamgroup	no_postings
 pny	no_postings
 ocz	no_postings
 mushkin	no_postings
-sandisk	no_matching_jobs
 plextor	no_postings
 silicon power	http_400
 transcend	no_postings
