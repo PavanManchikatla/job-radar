@@ -1,10 +1,11 @@
 ## Jobs Feed (auto-updated)
 
 <!-- JOBS:START -->
-_Last updated: 2026-09-05 09:52 CDT_
+_Last updated: 2026-09-05 13:12 CDT_
 
 | Posted | Company | Title | Location | Source |
 |---|---|---|---|---|
+| 2026-09-05 | flagshippioneeringinc | [Lead Data Engineer](https://boards.greenhouse.io/flagshippioneeringinc/jobs/8784325002?gh_jid=8784325002) | Cambridge, MA USA | greenhouse |
 | 2026-09-05 | reddit | [Senior Machine Learning Engineer, Ads Optimization](https://job-boards.greenhouse.io/reddit/jobs/8029120) | Remote - United States | greenhouse |
 | 2026-09-05 | reddit | [Sr. Staff Data Scientist - Ads Measurement, Signals, Privacy](https://job-boards.greenhouse.io/reddit/jobs/8072046) | Remote - United States | greenhouse |
 | 2026-09-05 | reddit | [Staff Data Scientist - Ads Measurement, Signals, Privacy](https://job-boards.greenhouse.io/reddit/jobs/8072076) | Remote - United States | greenhouse |
@@ -14,8 +15,8 @@ _Last updated: 2026-09-05 09:52 CDT_
 | 2026-09-05 | reddit | [Staff Data Scientist, Marketing](https://job-boards.greenhouse.io/reddit/jobs/7931000) | Remote - Ontario, Canada | greenhouse |
 | 2026-09-05 | reddit | [Senior Data Scientist - Consumer](https://job-boards.greenhouse.io/reddit/jobs/8126946) | Remote - United States | greenhouse |
 | 2026-09-05 | reddit | [Senior Staff Machine Learning Systems Engineer, Ads ML Platform](https://job-boards.greenhouse.io/reddit/jobs/8157275) | Remote - United States | greenhouse |
-| 2026-09-05 | reddit | [Staff Data Scientist, Ads](https://job-boards.greenhouse.io/reddit/jobs/7721851) | Remote - Ontario, Canada | greenhouse |
 | 2026-09-05 | reddit | [Staff Data Scientist, Ads](https://job-boards.greenhouse.io/reddit/jobs/7721787) | Remote - United States | greenhouse |
+| 2026-09-05 | reddit | [Staff Data Scientist, Ads](https://job-boards.greenhouse.io/reddit/jobs/7721851) | Remote - Ontario, Canada | greenhouse |
 | 2026-09-05 | reddit | [Staff Data Scientist, Consumer](https://job-boards.greenhouse.io/reddit/jobs/7931007) | Remote - Ontario, Canada | greenhouse |
 | 2026-09-05 | reddit | [Staff Data Scientist, Consumer](https://job-boards.greenhouse.io/reddit/jobs/6745284) | Remote - United States | greenhouse |
 | 2026-09-05 | reddit | [Senior Data Scientist, Ads](https://job-boards.greenhouse.io/reddit/jobs/8104403) | Remote - United States | greenhouse |
@@ -91,9 +92,9 @@ _Last updated: 2026-09-05 09:52 CDT_
 | 2026-09-04 | pinterest | [Sr. Machine Learning Engineer, Monetization Engineering](https://www.pinterestcareers.com/jobs/?gh_jid=6121551) | San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US | greenhouse |
 | 2026-09-04 | formationbio | [Associate Director, Data Engineering](https://job-boards.greenhouse.io/formationbio/jobs/8167989) | New York, NY; Boston, MA; San Francisco, CA | greenhouse |
 | 2026-09-04 | moniepoint | [Data Scientist (Fraud)](https://job-boards.eu.greenhouse.io/moniepoint/jobs/4736488101) | Remote, Spain | greenhouse |
+| 2026-09-04 | moniepoint | [Data Scientist (Fraud)](https://job-boards.eu.greenhouse.io/moniepoint/jobs/4941103101) | Remote, Poland | greenhouse |
 | 2026-09-04 | moniepoint | [Data Scientist (Fraud)](https://job-boards.eu.greenhouse.io/moniepoint/jobs/4941105101) | Remote, South Africa | greenhouse |
 | 2026-09-04 | moniepoint | [Data Scientist (Fraud)](https://job-boards.eu.greenhouse.io/moniepoint/jobs/4941104101) | Remote, Kenya | greenhouse |
-| 2026-09-04 | moniepoint | [Data Scientist (Fraud)](https://job-boards.eu.greenhouse.io/moniepoint/jobs/4941103101) | Remote, Poland | greenhouse |
 | 2026-09-04 | moniepoint | [Data Scientist (Fraud)](https://job-boards.eu.greenhouse.io/moniepoint/jobs/4737173101) | Remote, London, United Kingdom | greenhouse |
 | 2026-09-04 | bluewaterthinking | [Senior Data Analyst (Power Platform & Data Solutions)](https://job-boards.greenhouse.io/bluewaterthinking/jobs/4711244006) | Fully Remote - Based in USA | greenhouse |
 | 2026-09-04 | roblox | [Senior Software Engineer, Data Engineering (Short Term)](https://careers.roblox.com/jobs/8174475?gh_jid=8174475) | San Mateo, CA, United States | greenhouse |
@@ -252,31 +253,4 @@ _Last updated: 2026-09-05 09:52 CDT_
 | 2026-09-02 | steerbridge | [Data Engineer](https://jobs.lever.co/steerbridge/ed6aa767-04b3-4a01-b277-0c7a96ef6413) | Vienna, VA | lever |
 | 2026-09-02 | harnessinc | [Principal Analytics Engineer](https://www.harness.io/company/jobs/apply?gh_jid=5228892007&gh_jid=5228892007) | Mountain View, California, United States; San Francisco, California, United States | greenhouse |
 | 2026-09-02 | falconx | [Senior Data Analyst](https://job-boards.greenhouse.io/falconx/jobs/4727651005) | New York City, NY | greenhouse |
-| 2026-09-02 | Oscilar.com | [Sr/Staff Software Engineers, Security Engineer, Data Scientist](https://news.ycombinator.com/item?id=49539823) | REMOTE (US/Canada/Brazil/Poland/UK/India) Full-time AI Risk Decisioning™ platform that helps organizations manage onboarding, fraud, credit, and compliance risks Open roles: - Sr./Staff Security Engineer (Brazil) - Sr./Staff Analytics & Data Architecture Engineer (US/Canada) - Sr./Staff Java Backend Engineer (Brazil/Poland) - Staff Web SDK Engineer (US/Brazil/India/Canada/Poland/UK) - Data Scientist (US/Canada) apply at: https://jobs.ashbyhq.com/oscilar?utm_source=HackerNews | hn_hiring |
-| 2026-09-02 | sonyinteractiveentertainmentglobal | [AI Engineer](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6007946004) | United States, San Diego, CA | greenhouse |
-| 2026-09-02 | sonyinteractiveentertainmentglobal | [Data Engineer II](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6147069004) | United States, Aliso Viejo, CA | greenhouse |
-| 2026-09-02 | sonyinteractiveentertainmentglobal | [Data Scientist, D2C Data Science](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6006539004) | United States, San Diego, CA | greenhouse |
-| 2026-09-02 | sonyinteractiveentertainmentglobal | [Senior Data Scientist](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6115732004) | United States, Los Angeles, CA | greenhouse |
-| 2026-09-02 | sonyinteractiveentertainmentglobal | [Senior Data Scientist -  Experimentation & Measurement](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5743956004) | United States, San Mateo, CA | greenhouse |
-| 2026-09-02 | sonyinteractiveentertainmentglobal | [Senior Data Scientist -  Experimentation & Measurement](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5755168004) | United States, San Diego, CA | greenhouse |
-| 2026-09-02 | sonyinteractiveentertainmentglobal | [Staff Data Scientist -  Experimentation & Measurement](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5778928004) | United States, Remote | greenhouse |
-| 2026-09-02 | sonyinteractiveentertainmentglobal | [Staff Data Scientist -  Experimentation & Measurement](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5743955004) | United States, San Mateo, CA | greenhouse |
-| 2026-09-02 | oddball | [Data Engineer](https://job-boards.greenhouse.io/oddball/jobs/7984509003) | Remote | greenhouse |
-| 2026-09-02 | jumio | [Machine Learning Engineer - IV (Fraud)](https://job-boards.greenhouse.io/jumio/jobs/4708116005) | India (remote) | greenhouse |
-| 2026-09-02 | ninjatrader | [Marketing Analytics Engineer](https://job-boards.greenhouse.io/ninjatrader/jobs/4710482006) | Chicago, IL | greenhouse |
-| 2026-09-02 | servicenow | [Staff Research Engineer/Scientist](https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000147044517) | Santa Clara California us | smartrecruiters |
-| 2026-09-02 | rdccareers | [Principal Data Engineer](https://boards.greenhouse.io/rdccareers/jobs/7709529003?gh_jid=7709529003) | Austin, Texas, United States | greenhouse |
-| 2026-09-02 | rdccareers | [Senior Data Analyst, Avail](https://boards.greenhouse.io/rdccareers/jobs/7801285003?gh_jid=7801285003) | Austin, Texas, United States | greenhouse |
-| 2026-09-02 | rdccareers | [Senior Data Analyst, Lead Intelligence](https://boards.greenhouse.io/rdccareers/jobs/7768405003?gh_jid=7768405003) | Austin, Texas, United States | greenhouse |
-| 2026-09-02 | rdccareers | [Senior Data Analyst, Product Analytics](https://boards.greenhouse.io/rdccareers/jobs/7801396003?gh_jid=7801396003) | Austin, Texas, United States | greenhouse |
-| 2026-09-02 | rdccareers | [Senior Data Scientist](https://boards.greenhouse.io/rdccareers/jobs/7807919003?gh_jid=7807919003) | Austin, Texas, United States | greenhouse |
-| 2026-09-02 | rdccareers | [Senior Data Scientist, CRM & Personalization](https://boards.greenhouse.io/rdccareers/jobs/7807905003?gh_jid=7807905003) | Austin, Texas, United States | greenhouse |
-| 2026-09-02 | rdccareers | [Senior Data Scientist, Owners & Sellers](https://boards.greenhouse.io/rdccareers/jobs/7894898003?gh_jid=7894898003) | Austin, Texas, United States | greenhouse |
-| 2026-09-02 | rdccareers | [Senior Data Scientist, RDC Next](https://boards.greenhouse.io/rdccareers/jobs/7866012003?gh_jid=7866012003) | Austin, Texas, United States | greenhouse |
-| 2026-09-02 | twilio | [Machine Learning Engineer](https://job-boards.greenhouse.io/twilio/jobs/7702644) | Remote - US | greenhouse |
-| 2026-09-02 | twilio | [Senior Manager, Machine Learning](https://job-boards.greenhouse.io/twilio/jobs/7919148) | Remote - India | greenhouse |
-| 2026-09-02 | twilio | [Staff, Analytics Engineer, GTM Data Science & Analytics](https://job-boards.greenhouse.io/twilio/jobs/8008538) | Remote - US | greenhouse |
-| 2026-09-02 | jensenhughes | [Financial Data and Analytics Manager](https://job-boards.greenhouse.io/jensenhughes/jobs/5361883008) | Columbia, Maryland, United States | greenhouse |
-| 2026-09-02 | squad | [Applied Scientist (LLM)](https://squad.tech/careers/?gh_jid=7554288) | Kyiv; Lviv; Remote | greenhouse |
-| 2026-09-02 | databricks | [AI Engineer - FDE (Forward Deployed Engineer)](https://databricks.com/company/careers/open-positions/job?gh_jid=8546367002) | United States | greenhouse |
 <!-- JOBS:END -->
