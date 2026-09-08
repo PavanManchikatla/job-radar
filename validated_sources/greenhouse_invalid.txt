@@ -6424,7 +6424,6 @@ hiro	no_jobs
 nobuhoteltoronto	no_matching_jobs
 krollbondratingagency	no_matching_jobs
 fletcherjonesishiringmechanicsandtechnicians	no_matching_jobs
-impiricus	no_matching_jobs
 eastridgeacademy	no_matching_jobs
 animalmedicalcenter	no_matching_jobs
 crisistextline86	http_404
@@ -7742,7 +7741,6 @@ atalantatherapeutics	no_jobs
 grahamcapitalmanagement	no_matching_jobs
 strategicprojectpartners	no_matching_jobs
 supportingstrategies	no_matching_jobs
-freeformfuturecorp	no_matching_jobs
 turo	http_404
 jusbrasil	no_matching_jobs
 agilize	no_matching_jobs
@@ -11634,7 +11632,6 @@ alby	http_404
 alaika	no_matching_jobs
 akriveiatherapeutics	http_404
 allakos	http_404
-aegworldwide	no_matching_jobs
 akayshaenergy	no_jobs
 alexispointe	http_404
 alcority	http_404
