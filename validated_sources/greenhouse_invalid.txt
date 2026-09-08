@@ -6150,7 +6150,6 @@ visiersolutionsinc	no_matching_jobs
 texasairsystems	no_matching_jobs
 pipetechnologies	no_matching_jobs
 phoenixcontact	no_matching_jobs
-tripactions	no_matching_jobs
 imagentechnologies	http_404
 medarrive	http_404
 hextechnologies	no_matching_jobs

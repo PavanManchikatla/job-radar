@@ -9434,7 +9434,6 @@ bluecatnetworks	no_matching_jobs
 bluematrix	http_404
 betstamp	http_404
 bluecoding	no_matching_jobs
-avalerehealth	no_matching_jobs
 bolster	no_matching_jobs
 bosonai	no_matching_jobs
 bhhc	no_matching_jobs
