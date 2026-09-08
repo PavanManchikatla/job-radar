@@ -8268,7 +8268,6 @@ permariskmanagement	no_matching_jobs
 spacexglobal	no_matching_jobs
 quip	no_matching_jobs
 brinqa	no_matching_jobs
-typeform	no_matching_jobs
 cakeai	no_matching_jobs
 regscale	http_404
 instiglio	no_matching_jobs
