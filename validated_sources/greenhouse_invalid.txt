@@ -6585,7 +6585,6 @@ zennioptical	no_matching_jobs
 helloheart	no_matching_jobs
 meriton	no_matching_jobs
 novo	http_404
-voyagertechnologiesinc	no_matching_jobs
 hpiq	no_matching_jobs
 forwardnetworks	no_matching_jobs
 ventustherapeutics	no_jobs
