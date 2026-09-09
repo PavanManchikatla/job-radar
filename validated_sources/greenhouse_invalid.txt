@@ -6715,7 +6715,6 @@ alchemy	http_404
 vidyard	http_404
 dynetherapeutics	no_matching_jobs
 singlestore	no_matching_jobs
-matic	no_matching_jobs
 manufactured	http_404
 check	http_404
 clearscoretechnologylimited	no_matching_jobs
