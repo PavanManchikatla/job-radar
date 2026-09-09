@@ -8568,7 +8568,6 @@ warp	no_matching_jobs
 aurorainnovation	http_404
 ddbremedy	http_404
 levio	no_matching_jobs
-wisetack	no_matching_jobs
 vitalfarmsinternalcrew	no_matching_jobs
 nuna	http_404
 bancopan	no_matching_jobs

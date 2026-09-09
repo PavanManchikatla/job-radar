@@ -18321,7 +18321,6 @@ wyze	http_404
 woven-planet	no_jobs
 wristcheck	no_jobs
 windsormanagement	http_404
-xcimer	no_matching_jobs
 voro	no_jobs
 wonolo	no_jobs
 xepelin	no_matching_jobs

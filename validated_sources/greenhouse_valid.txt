@@ -602,3 +602,4 @@ sentinellabs
 builtinintegrationsandbox
 sumologic
 matic
+wisetack
