@@ -594,3 +594,10 @@ aegworldwide
 babylist
 indigenouspactpbcinc
 voyagertechnologiesinc
+dataiku
+stripe
+thefarmersdog
+bertramcapitalmanagement
+sentinellabs
+builtinintegrationsandbox
+sumologic

@@ -265,7 +265,6 @@ anaconda	http_404
 jupyter	http_404
 smartbear	no_matching_jobs
 informatica	http_404
-dataiku	no_matching_jobs
 postman	no_matching_jobs
 mode	http_404
 advanced rest client	http_404
@@ -323,7 +322,6 @@ transnational payments	http_404
 goepay	http_404
 paymentcloud	http_404
 paymentus	http_404
-stripe	no_matching_jobs
 zelle	http_404
 applypay	http_404
 block	no_matching_jobs
@@ -6367,7 +6365,6 @@ wheelhousedmg	no_matching_jobs
 olaplexcareers	no_matching_jobs
 assetwatch	no_matching_jobs
 aypapower	no_matching_jobs
-thefarmersdog	no_matching_jobs
 highdive	no_matching_jobs
 keyfactorinc	no_matching_jobs
 gigaenergy	no_matching_jobs
@@ -7213,7 +7210,6 @@ axicom	no_matching_jobs
 altium	no_jobs
 varsitytutors	http_404
 makeship	http_404
-bertramcapitalmanagement	no_matching_jobs
 willowinnovations	no_matching_jobs
 flip	no_matching_jobs
 minthouse	http_404
@@ -7304,7 +7300,6 @@ yousician	no_matching_jobs
 emnify	no_matching_jobs
 makeawishamerica	no_matching_jobs
 pilothq	no_matching_jobs
-sentinellabs	no_matching_jobs
 ngcash	http_404
 wormholefoundation	http_404
 sandboxx	no_matching_jobs
@@ -7932,7 +7927,6 @@ swishanalytics	http_404
 filescom	no_matching_jobs
 gomotive	no_matching_jobs
 kasaliving	http_404
-builtinintegrationsandbox	no_matching_jobs
 oliverusa	no_matching_jobs
 soloioinc	no_matching_jobs
 lakeforestanimalhospital	no_matching_jobs
@@ -8498,7 +8492,6 @@ synacksrt	no_matching_jobs
 sixthstreet	http_404
 energyfoundation	http_404
 cityblockhealth	http_404
-sumologic	no_matching_jobs
 maplighttherapeutics	no_matching_jobs
 yext	no_matching_jobs
 raptortechnologies	no_matching_jobs
