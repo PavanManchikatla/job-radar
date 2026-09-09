@@ -7863,7 +7863,6 @@ kiwicoinc	no_matching_jobs
 acog	no_matching_jobs
 formic	no_matching_jobs
 getitstraightorthodontics	no_jobs
-babylist	no_matching_jobs
 stord13	http_404
 sertis	no_matching_jobs
 decimainternational	no_matching_jobs
@@ -8675,7 +8674,6 @@ sevenroomsuae	no_jobs
 onapsis	no_matching_jobs
 cadrehospice	no_jobs
 aztec	http_404
-indigenouspactpbcinc	no_matching_jobs
 mendaerainc	no_matching_jobs
 feinternational	no_matching_jobs
 rheaply	http_404
