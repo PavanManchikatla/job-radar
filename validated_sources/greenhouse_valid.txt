@@ -603,3 +603,4 @@ builtinintegrationsandbox
 sumologic
 matic
 wisetack
+saasgroup
