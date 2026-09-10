@@ -604,3 +604,7 @@ sumologic
 matic
 wisetack
 saasgroup
+cargomatic
+extrahopnetworks
+myfitnesspal
+alohacollection

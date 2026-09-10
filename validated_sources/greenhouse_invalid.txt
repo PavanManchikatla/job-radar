@@ -4239,7 +4239,6 @@ flock freight	http_404
 loadsmart	http_404
 next trucking	http_404
 shipwell	no_jobs
-cargomatic	no_matching_jobs
 lothian buses	http_404
 uber freight	http_404
 parade	http_404
@@ -6446,7 +6445,6 @@ oceanx	no_matching_jobs
 kasian	http_404
 inkind	no_matching_jobs
 pairteam	no_matching_jobs
-extrahopnetworks	no_matching_jobs
 selinicapital	no_matching_jobs
 aspire	http_404
 saltbox	no_matching_jobs
@@ -8040,7 +8038,6 @@ snowcompanies	no_jobs
 latam	http_404
 fictiv	no_matching_jobs
 tia	no_matching_jobs
-myfitnesspal	no_matching_jobs
 proton	no_matching_jobs
 bcomsolutions	no_matching_jobs
 a1msolutions	no_matching_jobs
@@ -11633,7 +11630,6 @@ aligned	no_matching_jobs
 alliancedefendingfreedom	no_matching_jobs
 allinternal	http_404
 alleycorp	http_404
-alohacollection	no_matching_jobs
 ajtutoring	no_matching_jobs
 alma31	no_matching_jobs
 allturtles	no_jobs

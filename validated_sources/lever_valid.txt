@@ -142,3 +142,5 @@ avalerehealth
 rai
 xcimer
 muttdata
+peerspace
+vida

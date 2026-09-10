@@ -9872,7 +9872,6 @@ ou-education-services	no_matching_jobs
 playbook	no_matching_jobs
 pp-la	no_matching_jobs
 pphp	no_matching_jobs
-peerspace	no_matching_jobs
 ppil	no_matching_jobs
 pmaconsultants	no_matching_jobs
 prilenia	no_matching_jobs
@@ -10103,7 +10102,6 @@ veic	no_jobs
 verygoodsecurity	no_matching_jobs
 venteur	no_matching_jobs
 vevo	no_matching_jobs
-vida	no_matching_jobs
 tryjeeves	no_matching_jobs
 vesta-tech	http_404
 vivenu	no_matching_jobs
