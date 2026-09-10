@@ -5064,7 +5064,6 @@ uniswapfoundation	no_jobs
 insider	no_matching_jobs
 onevest	no_matching_jobs
 hackerrank	no_matching_jobs
-fundraiseup	no_matching_jobs
 accreditedlabs	no_matching_jobs
 dynamitegames	no_matching_jobs
 forthea	no_matching_jobs
@@ -12120,7 +12119,6 @@ civitaslearning	no_matching_jobs
 clearballot	http_404
 clarishealth	no_matching_jobs
 clearfork	http_404
-clearlinktechnologiesllc	no_matching_jobs
 clenera	no_matching_jobs
 clerkie	no_matching_jobs
 cleartrace	http_404

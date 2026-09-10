@@ -608,3 +608,5 @@ cargomatic
 extrahopnetworks
 myfitnesspal
 alohacollection
+fundraiseup
+clearlinktechnologiesllc
