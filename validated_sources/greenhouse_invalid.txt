@@ -5239,7 +5239,6 @@ thetradedesk	no_matching_jobs
 mejuri	no_matching_jobs
 fiveringsllc	no_matching_jobs
 grasshopperasia	no_matching_jobs
-prenuvo	no_matching_jobs
 foursquare26	http_404
 liventus	no_matching_jobs
 readai	http_404
