@@ -1452,7 +1452,6 @@ talech pos	http_404
 tillpoint pos	http_404
 linkedin	no_matching_jobs
 snapchat	http_404
-discord	no_matching_jobs
 tiktok	http_404
 telegram	http_404
 whatsapp	http_404
@@ -5373,7 +5372,6 @@ nazare	no_jobs
 stablekernel	no_matching_jobs
 autoproff	no_matching_jobs
 scoutspace	no_matching_jobs
-chainguard	no_matching_jobs
 scileads	no_matching_jobs
 purposemed	no_matching_jobs
 humanrightswatch	no_matching_jobs
@@ -5427,7 +5425,6 @@ nooks	no_matching_jobs
 hipagesgroup	no_matching_jobs
 g2crowd	http_404
 metropolitancommercialbank	no_matching_jobs
-fleetio	no_matching_jobs
 articulate	http_404
 equatic	no_jobs
 walleyecapital-external-students	no_matching_jobs

@@ -616,3 +616,6 @@ blacksky
 narvar
 cribl
 fetch
+discord
+fleetio
+chainguard
