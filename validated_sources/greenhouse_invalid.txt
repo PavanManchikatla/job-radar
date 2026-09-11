@@ -8441,7 +8441,6 @@ taxibeat	http_404
 navigationfund	http_404
 scorpionenterprisesllc	no_matching_jobs
 nomos	no_jobs
-doitintl	no_matching_jobs
 chowbus	no_matching_jobs
 swarmaero	http_404
 beautypie	http_404
