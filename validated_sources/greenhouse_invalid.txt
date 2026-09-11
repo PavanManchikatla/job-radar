@@ -4418,7 +4418,6 @@ maxar	http_404
 planet	http_404
 digitalglobe	http_404
 geoeye	http_404
-blacksky	no_matching_jobs
 skysat	http_404
 rapideye	http_404
 worldview	http_404
@@ -6438,7 +6437,6 @@ atomicmachines	no_matching_jobs
 oliverplus	http_404
 safetyworxs	no_matching_jobs
 greenhouse	no_matching_jobs
-narvar	no_matching_jobs
 oceanx	no_matching_jobs
 kasian	http_404
 inkind	no_matching_jobs
@@ -7812,7 +7810,6 @@ sbusa	no_matching_jobs
 jabrahearing	http_404
 ginkgobioworks	no_matching_jobs
 picnichealth	http_404
-cribl	no_matching_jobs
 ashfieldmedcomms	no_matching_jobs
 abiologics	no_matching_jobs
 climatefinancesolutions	http_404
@@ -12570,7 +12567,6 @@ firehydrant	http_404
 firstlookmedia	http_404
 finsterai	no_jobs
 fellow	no_matching_jobs
-fetch	no_matching_jobs
 flashfood	no_matching_jobs
 firstresonance	http_404
 fivesky	no_matching_jobs

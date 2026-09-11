@@ -612,3 +612,7 @@ fundraiseup
 clearlinktechnologiesllc
 doitintl
 prenuvo
+blacksky
+narvar
+cribl
+fetch
