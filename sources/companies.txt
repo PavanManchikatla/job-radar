@@ -19910,3 +19910,24 @@ orca-aerospace
 orca
 thesubvocalcompany
 the-subvocal-company
+
+# --- YC hiring companies ---
+syncly
+consus
+oxus
+beyondreachlabs
+beyond-reach-labs
+laurence
+amboras
+lemonlime
+glen
+lucaiq
+luca-iq
+luca
+sentientos
+sentient-os
+sentient
+workersio
+workers-io
+workers
+vyra
