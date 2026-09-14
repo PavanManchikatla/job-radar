@@ -9870,7 +9870,6 @@ project-healthy-minds	no_matching_jobs
 promenade	no_matching_jobs
 proof	no_matching_jobs
 proper	no_matching_jobs
-protective	no_matching_jobs
 provectus	no_matching_jobs
 psivant	no_matching_jobs
 purvis	no_matching_jobs
