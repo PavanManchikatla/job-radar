@@ -4295,7 +4295,6 @@ antuit	http_404
 toolsgroup	http_404
 symphony retailai	http_404
 celect	http_404
-relex	no_matching_jobs
 daisy intelligence	http_404
 upstox	http_404
 fyers	http_404
