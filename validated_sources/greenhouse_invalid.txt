@@ -5972,7 +5972,6 @@ togetherai	no_matching_jobs
 id5	no_matching_jobs
 bringg	no_matching_jobs
 guerrilla-games	no_matching_jobs
-guidepointsecurity	no_matching_jobs
 jdcom	http_404
 tribalscale	no_matching_jobs
 greenirony	no_matching_jobs
