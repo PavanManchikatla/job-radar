@@ -5249,7 +5249,6 @@ horacemannagents	no_matching_jobs
 grasshopperasia	no_matching_jobs
 readai	http_404
 foursquare26	http_404
-pfm	no_matching_jobs
 eero	http_404
 five9	no_matching_jobs
 acplastics	no_matching_jobs
@@ -6917,7 +6916,6 @@ irradianttechnologies	no_matching_jobs
 bombas	no_matching_jobs
 openfarminc	no_matching_jobs
 cloudbedsthirdpartyboard	no_matching_jobs
-tenstorrent	no_matching_jobs
 samcarthiring	http_404
 headoutreferrals	no_jobs
 arlosolutionsllc	no_matching_jobs
@@ -7068,7 +7066,6 @@ seaporttherapeutics	no_matching_jobs
 bonfirestudiosinc	no_matching_jobs
 futurehouse	http_404
 radarrelay	http_404
-ripple	no_matching_jobs
 acryldata	no_matching_jobs
 workhelix	no_matching_jobs
 soldejaneiro	no_matching_jobs
@@ -8165,7 +8162,6 @@ bitbio	no_jobs
 primemedicine	no_matching_jobs
 starfaceworld	no_matching_jobs
 143studiosinc	no_matching_jobs
-saasgroup	no_matching_jobs
 filson	no_matching_jobs
 goodnotes	no_matching_jobs
 advertisingspecialtyinstitute	no_matching_jobs
