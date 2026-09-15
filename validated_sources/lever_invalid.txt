@@ -10034,7 +10034,6 @@ talentwerx	http_404
 talkiatry	http_404
 teamsnap	no_matching_jobs
 teleport	no_jobs
-tendo	no_matching_jobs
 super-com	http_404
 terraformation	http_404
 teramind	no_matching_jobs
