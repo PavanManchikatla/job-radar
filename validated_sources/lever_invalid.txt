@@ -9893,7 +9893,6 @@ radicalai	http_404
 raine	no_matching_jobs
 rainforest	http_404
 raptormaps	http_404
-nextgenfed	no_matching_jobs
 myplacehealth	http_404
 realself	no_matching_jobs
 redi	http_404
@@ -15867,7 +15866,6 @@ citrineinformatics	http_404
 celo	http_404
 civitta	http_404
 civitech	no_matching_jobs
-cirquedusoleil	no_matching_jobs
 clabs	http_404
 clasp	http_404
 class101	http_404
@@ -18128,7 +18126,6 @@ trusttoken	http_404
 truveris	http_404
 trycourier	http_404
 tracksuit-limited	no_matching_jobs
-truetandem	no_matching_jobs
 tuftandneedle	http_404
 tul	http_404
 tunnl-data	http_404

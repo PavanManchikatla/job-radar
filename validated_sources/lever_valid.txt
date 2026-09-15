@@ -140,3 +140,6 @@ zaimler
 protective
 imo-online
 tendo
+nextgenfed
+cirquedusoleil
+truetandem

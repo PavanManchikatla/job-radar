@@ -554,3 +554,6 @@ tenstorrent
 ripple
 saasgroup
 guidepointsecurity
+airbnb
+sparksoftcorporation
+feedzai

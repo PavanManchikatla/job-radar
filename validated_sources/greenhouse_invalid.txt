@@ -5434,7 +5434,6 @@ articulate	http_404
 g2crowd	http_404
 unrealsnacks	no_matching_jobs
 equatic	no_jobs
-airbnb	no_matching_jobs
 gemechanicalasp	no_matching_jobs
 mycase	no_jobs
 studiokraftonboard	no_matching_jobs
@@ -6594,7 +6593,6 @@ blabuscanada	no_jobs
 tillatechnologies	http_404
 lifeskillsautismacademy	no_matching_jobs
 capitalfarmcredit	no_matching_jobs
-sparksoftcorporation	no_matching_jobs
 whatnot	http_404
 animalcarecenterpearisburg	no_matching_jobs
 nearform	no_matching_jobs
@@ -7968,7 +7966,6 @@ gotutorcorps	no_matching_jobs
 socket	no_matching_jobs
 numagroupgmbh	no_matching_jobs
 synctera	http_404
-feedzai	no_matching_jobs
 cialfo	no_matching_jobs
 thatsnomoonentertainment	no_matching_jobs
 projectaservicesgmbhcokg	no_matching_jobs
