@@ -8141,7 +8141,6 @@ elitedentalpartnersllc	no_matching_jobs
 tidewatertech	no_matching_jobs
 lightspeedhqfr	http_404
 meaningfulgigscreativecommunity	http_404
-pokemoncareers	no_matching_jobs
 orthodonticpartners	no_matching_jobs
 physiciansandproviders	no_matching_jobs
 trailerpark	http_404

@@ -15933,7 +15933,6 @@ concordnow	http_404
 collate	no_matching_jobs
 commoncause	no_matching_jobs
 componentrepairtechnologies	no_matching_jobs
-computercare	no_matching_jobs
 conduktor	http_404
 concurrency	no_matching_jobs
 conjecture	http_404
