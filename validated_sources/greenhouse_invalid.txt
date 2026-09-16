@@ -5131,7 +5131,6 @@ oshihealth	no_matching_jobs
 entera	no_matching_jobs
 ozow	no_matching_jobs
 shopmonkey	no_matching_jobs
-gympass	no_matching_jobs
 kiavi	no_jobs
 tomonetworks	http_404
 canadian solar wafers	http_404
@@ -6568,7 +6567,6 @@ seesaw	no_matching_jobs
 soundhoundinc	http_404
 bloombergorg	no_matching_jobs
 bjss	http_404
-purestorage	no_matching_jobs
 wavexr	http_404
 guardsquare	no_matching_jobs
 cleanlaundry	no_matching_jobs
@@ -8338,7 +8336,6 @@ meshy	http_404
 packlink	no_jobs
 quanata	no_matching_jobs
 aperiatechnologies	no_matching_jobs
-innovecs	no_matching_jobs
 seoulrobotics	no_matching_jobs
 creditas	http_404
 cofertility	no_matching_jobs

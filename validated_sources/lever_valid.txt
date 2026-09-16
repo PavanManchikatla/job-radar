@@ -144,3 +144,5 @@ nextgenfed
 cirquedusoleil
 truetandem
 computercare
+smarsh
+swissborg

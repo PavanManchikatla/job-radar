@@ -9981,7 +9981,6 @@ smartbugoperatingllc	http_404
 sfgiants	no_matching_jobs
 sierraclub	no_matching_jobs
 serv-u-success	no_matching_jobs
-smarsh	no_matching_jobs
 smile	http_404
 sambatv	no_matching_jobs
 skyways	no_matching_jobs
@@ -17907,7 +17906,6 @@ swimply	http_404
 swingvision	http_404
 swiss-mile	http_404
 swissblock	no_matching_jobs
-swissborg	no_matching_jobs
 switchboardsoftware	http_404
 swoopapp	http_404
 swyftx	http_404
