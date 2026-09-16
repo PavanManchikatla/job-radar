@@ -9924,7 +9924,6 @@ rivr	no_matching_jobs
 redwoodcu	no_matching_jobs
 revi	no_matching_jobs
 rigetti	no_matching_jobs
-ro	no_matching_jobs
 rightsideup	no_matching_jobs
 rocketship	no_matching_jobs
 roshalimaging	no_matching_jobs

@@ -580,7 +580,6 @@ sequoia	http_404
 kleiner perkins	http_404
 lightspeed	http_404
 greylock	http_404
-a16z	no_matching_jobs
 insight partners	http_404
 coatue	http_404
 index ventures	http_404
@@ -5251,7 +5250,6 @@ foursquare26	http_404
 eero	http_404
 five9	no_matching_jobs
 acplastics	no_matching_jobs
-kano	no_matching_jobs
 codazen	no_matching_jobs
 arcesiumllc	no_matching_jobs
 mdclarity	no_jobs
@@ -5974,7 +5972,6 @@ jdcom	http_404
 tribalscale	no_matching_jobs
 greenirony	no_matching_jobs
 pointc	no_matching_jobs
-axon	no_matching_jobs
 magichatconsulting	no_matching_jobs
 criticalmassgroup	no_matching_jobs
 lottebiologicsusallc	no_matching_jobs
@@ -7652,7 +7649,6 @@ pearcommerce	http_404
 preciselyusjobs	no_matching_jobs
 medium	no_jobs
 tracelinkinc	no_matching_jobs
-icapitalnetwork	no_matching_jobs
 veza	http_404
 glooko	no_jobs
 goatgroup	no_matching_jobs
@@ -7803,7 +7799,6 @@ wurljobs	no_matching_jobs
 neuroblade	http_404
 civicnation	no_jobs
 nextroll	no_jobs
-fidelityguarantylife	no_matching_jobs
 voxmedia	no_matching_jobs
 remodelhealth	no_matching_jobs
 imubit	no_matching_jobs
