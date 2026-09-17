@@ -5254,7 +5254,6 @@ codazen	no_matching_jobs
 arcesiumllc	no_matching_jobs
 mdclarity	no_jobs
 minware	http_404
-aclu	no_matching_jobs
 scytherobotics	http_404
 wolt	no_matching_jobs
 capitalrx	http_404
@@ -5513,7 +5512,6 @@ pagerhealth	no_matching_jobs
 kairospower	no_matching_jobs
 opploans	no_matching_jobs
 automatticcareers	no_matching_jobs
-cascadeloans	no_matching_jobs
 atwellgroup	no_matching_jobs
 moderawealthmanagement	no_matching_jobs
 instabase	no_matching_jobs
@@ -5868,7 +5866,6 @@ gunner	http_404
 catdaddy	no_matching_jobs
 codeword	no_matching_jobs
 partnerstack	http_404
-starburst	no_matching_jobs
 paper	http_404
 oriongroup	no_matching_jobs
 smavagmbh	no_matching_jobs
@@ -6280,7 +6277,6 @@ wfclainc	no_matching_jobs
 karbon	no_matching_jobs
 firstsanfranciscopartners	no_jobs
 catonetworks	no_matching_jobs
-drweng	no_matching_jobs
 akidolabs	no_matching_jobs
 jetzero	no_matching_jobs
 mark43	no_matching_jobs
@@ -6427,7 +6423,6 @@ fincent	http_404
 tastytrade	no_matching_jobs
 atomicmachines	no_matching_jobs
 greenhouse	no_matching_jobs
-morganmorganjobsapplynow	no_matching_jobs
 chenmoore	no_matching_jobs
 inkind	no_matching_jobs
 abclabs	http_404
@@ -7315,7 +7310,6 @@ invoca	no_matching_jobs
 olly	no_matching_jobs
 madano	no_matching_jobs
 doordashmexico	no_matching_jobs
-aceable	no_matching_jobs
 thedutchie	no_matching_jobs
 revenuecat	http_404
 worthi	http_404
@@ -7688,7 +7682,6 @@ wellist	no_matching_jobs
 breezeway	no_matching_jobs
 medeloop	no_matching_jobs
 magic	no_jobs
-roofr	no_matching_jobs
 capstack	http_404
 weave	no_matching_jobs
 akuity	no_matching_jobs
@@ -8326,7 +8319,6 @@ abdielcapital	no_jobs
 meshy	http_404
 packlink	no_jobs
 quanata	no_matching_jobs
-aperiatechnologies	no_matching_jobs
 seoulrobotics	no_matching_jobs
 creditas	http_404
 cofertility	no_matching_jobs
