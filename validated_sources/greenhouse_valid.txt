@@ -566,3 +566,5 @@ kano
 axon
 icapitalnetwork
 fidelityguarantylife
+syndio
+greenbrookmedical

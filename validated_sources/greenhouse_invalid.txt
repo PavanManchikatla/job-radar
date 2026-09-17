@@ -6204,7 +6204,6 @@ mountainsidetreatmentcenter	http_404
 1800contacts	no_matching_jobs
 manifest	no_matching_jobs
 fastspring	no_matching_jobs
-syndio	no_matching_jobs
 seamlessai	http_404
 momatherapeutics	http_404
 georgiadermatology	no_matching_jobs
@@ -8581,7 +8580,6 @@ arcboatcompany	no_matching_jobs
 publicsq	http_404
 microblink	no_matching_jobs
 relaypro	no_matching_jobs
-greenbrookmedical	no_matching_jobs
 aclunj	no_matching_jobs
 emporiarevolutionizinghomeenergy	no_matching_jobs
 twelve	http_404
