@@ -5376,7 +5376,6 @@ stablekernel	no_matching_jobs
 blackthorn	no_matching_jobs
 thematherevanston	no_matching_jobs
 autoproff	no_matching_jobs
-map	no_matching_jobs
 scoutspace	no_matching_jobs
 scileads	no_matching_jobs
 ribolifamilywines	no_matching_jobs
@@ -7155,7 +7154,6 @@ clearpathforveterans	no_matching_jobs
 truckstop	no_matching_jobs
 casperretail	http_404
 wunderkind	no_matching_jobs
-credible	no_matching_jobs
 spideroak	http_404
 grammarly	http_404
 carrumhealth	http_404
@@ -8208,7 +8206,6 @@ dvtrading	no_matching_jobs
 crisprecruit	no_matching_jobs
 kadmos3	no_matching_jobs
 neuroflow	http_404
-seranking	no_matching_jobs
 gorjana	no_matching_jobs
 crookedmedia	no_matching_jobs
 luminaryhospice	no_matching_jobs
