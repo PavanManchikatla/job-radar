@@ -9390,7 +9390,6 @@ arbitrum-opco	no_matching_jobs
 arcteryx	http_404
 arsenalbio	no_matching_jobs
 allata	http_404
-artera	no_matching_jobs
 asapp-2	no_matching_jobs
 ashoka	no_matching_jobs
 atomi	no_matching_jobs

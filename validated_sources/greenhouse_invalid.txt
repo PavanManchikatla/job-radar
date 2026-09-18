@@ -6196,7 +6196,6 @@ firstnationalbankofamerica	no_matching_jobs
 talkdesk2	no_matching_jobs
 unchainedlabs	no_matching_jobs
 mountainsidetreatmentcenter	http_404
-1800contacts	no_matching_jobs
 manifest	no_matching_jobs
 fastspring	no_matching_jobs
 seamlessai	http_404
@@ -8597,7 +8596,6 @@ group14	no_matching_jobs
 sendwaveapp	http_404
 blab	no_matching_jobs
 lumenbioscience	no_matching_jobs
-definitivehc	no_matching_jobs
 avelaeducation	http_404
 blumira	no_jobs
 synthetaic	no_jobs
