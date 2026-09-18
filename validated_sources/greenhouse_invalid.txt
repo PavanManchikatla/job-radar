@@ -5565,7 +5565,6 @@ insightassurance	no_matching_jobs
 123	http_404
 tenet3	no_matching_jobs
 woolpert	no_matching_jobs
-usenourish	no_matching_jobs
 yld	no_matching_jobs
 horizenlabs	no_jobs
 gsgcareers	no_matching_jobs
@@ -8774,7 +8773,6 @@ netsage	no_matching_jobs
 kion	http_404
 bluevineindia	no_matching_jobs
 100ms	http_404
-nichecom	no_matching_jobs
 32co	http_404
 xdinizioengage	no_matching_jobs
 3pillarglobal	http_404
