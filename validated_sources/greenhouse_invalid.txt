@@ -6613,7 +6613,6 @@ safetyworxs	no_matching_jobs
 stripes	http_404
 proshares	no_matching_jobs
 biomedrealty	no_matching_jobs
-wikimedia	no_matching_jobs
 pairteam	no_matching_jobs
 noahmedical	no_matching_jobs
 productschool	http_404
