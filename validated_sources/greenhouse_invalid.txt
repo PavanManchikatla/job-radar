@@ -6972,7 +6972,6 @@ baselayer	no_matching_jobs
 clever	no_matching_jobs
 gigster	http_404
 paloit	http_404
-similarweb	no_matching_jobs
 gsrmarkets	no_matching_jobs
 tekmetric	no_matching_jobs
 flywheeldigital	no_matching_jobs
