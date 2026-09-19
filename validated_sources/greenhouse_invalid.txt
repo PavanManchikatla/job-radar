@@ -6305,7 +6305,6 @@ ixllearning	no_matching_jobs
 stokespacetechnologies	no_matching_jobs
 cafortune	no_matching_jobs
 leagueapps	no_matching_jobs
-codeforamerica	no_matching_jobs
 convene	no_matching_jobs
 communitychange	http_404
 applytoprecedent	no_matching_jobs
