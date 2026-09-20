@@ -875,7 +875,6 @@ savills	http_404
 berkshire hathaway	http_404
 realogy	http_404
 anywhere	http_404
-homelight	no_matching_jobs
 edina realty	http_404
 sothebys	no_matching_jobs
 howard hanna	http_404
