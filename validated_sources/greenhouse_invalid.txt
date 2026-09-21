@@ -3629,7 +3629,6 @@ acronis backup	http_404
 paragon	http_404
 druva	no_matching_jobs
 aomei	http_404
-rubrik	no_matching_jobs
 easeus	http_404
 redo rescue	http_404
 clonezilla	http_404
