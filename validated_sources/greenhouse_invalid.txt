@@ -6150,7 +6150,6 @@ dittoliveincorporated	http_404
 visiersolutionsinc	no_matching_jobs
 regrow	http_404
 hextechnologies	no_matching_jobs
-mrbeastyoutube	no_matching_jobs
 slingshotbiosciences	no_matching_jobs
 medarrive	http_404
 hatchcareers	no_matching_jobs
@@ -6366,7 +6365,6 @@ assetwatch	no_matching_jobs
 aypapower	no_matching_jobs
 climateai	http_404
 olaplexcareers	no_matching_jobs
-brunswickgroup	no_matching_jobs
 nearsure	http_404
 minitab	no_matching_jobs
 lightfeatheriollc	no_matching_jobs
@@ -6751,7 +6749,6 @@ simscale	no_matching_jobs
 specialty1	no_matching_jobs
 skyscanner	http_404
 evgspecialtynetwork	no_matching_jobs
-twistbioscience	no_matching_jobs
 amity	no_matching_jobs
 wargamingen	no_matching_jobs
 rapha	http_404
@@ -8661,7 +8658,6 @@ persefoniaiinc	no_matching_jobs
 nauto	http_404
 eliotcommunityhumanservices	no_matching_jobs
 paypay	no_matching_jobs
-tenableinc	no_matching_jobs
 lumenbioscience	no_matching_jobs
 2k	no_matching_jobs
 wgachidden	no_matching_jobs
