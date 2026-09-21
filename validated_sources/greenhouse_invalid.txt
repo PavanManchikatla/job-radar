@@ -5136,7 +5136,6 @@ entera	no_matching_jobs
 ernestpackagingsolutions	no_matching_jobs
 apothecom	no_matching_jobs
 oshihealth	no_matching_jobs
-moniepoint	no_matching_jobs
 kiavi	no_jobs
 lithic	no_matching_jobs
 breakthroughenergy	no_matching_jobs
@@ -5474,7 +5473,6 @@ yeti	http_404
 telemedicine	http_404
 internationalrecruitment	http_404
 manychat-featured	no_jobs
-carta	no_matching_jobs
 wholesail	no_jobs
 svetness	no_matching_jobs
 sanityio	http_404
@@ -7514,7 +7512,6 @@ shopltk	no_matching_jobs
 flamingo	no_matching_jobs
 cleo-emea	no_jobs
 dialership	no_matching_jobs
-auctane	no_matching_jobs
 mcadams	no_matching_jobs
 jobsatphamily	no_matching_jobs
 drb	http_404

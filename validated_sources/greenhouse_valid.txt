@@ -550,3 +550,6 @@ swordhealth
 qventus
 bpcs
 rubrik
+moniepoint
+carta
+auctane
