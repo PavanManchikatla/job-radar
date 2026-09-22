@@ -1,9 +1,76 @@
 # Jobs Feed (Page 1/1)
 
-_Last updated: 2026-09-22 04:28 CDT_
+_Last updated: 2026-09-22 11:45 CDT_
 
 | Posted | Company | Title | Location | Source |
 |---|---|---|---|---|
+| 2026-09-22 | bungie | [Senior Machine Learning Data Scientist](https://job-boards.greenhouse.io/bungie/jobs/6196059004) | United States, Remote | greenhouse |
+| 2026-09-22 | striveworks | [Junior Machine Learning Engineer](https://job-boards.greenhouse.io/striveworks/jobs/8002515003) | Austin, Texas, United States | greenhouse |
+| 2026-09-22 | assemblyai | [Senior GTM AI Engineer](https://job-boards.greenhouse.io/assemblyai/jobs/4728788005) | Remote - North America | greenhouse |
+| 2026-09-22 | assemblyai | [Senior Research Engineer](https://job-boards.greenhouse.io/assemblyai/jobs/4729671005) | Remote | greenhouse |
+| 2026-09-22 | theweathercompany | [Senior Data Engineer](https://job-boards.greenhouse.io/theweathercompany/jobs/5033365007) | Atlanta, GA | greenhouse |
+| 2026-09-22 | donorbox | [Senior Data Engineer](https://job-boards.greenhouse.io/donorbox/jobs/4733833005) | Latin America - Remote | greenhouse |
+| 2026-09-22 | steerbridge | [NLP Data Scientist](https://jobs.lever.co/steerbridge/e5f45bf2-02bf-4b69-ab8d-faf11d1f38ba) | Vienna, VA | lever |
+| 2026-09-22 | pinterest | [Staff Machine Learning Engineer, Shopping Ads](https://www.pinterestcareers.com/jobs/?gh_jid=8049465) | San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US | greenhouse |
+| 2026-09-22 | bluewaterthinking | [Senior Data Analyst](https://job-boards.greenhouse.io/bluewaterthinking/jobs/4715454006) | Fully Remote - Based in USA | greenhouse |
+| 2026-09-22 | bluewaterthinking | [Junior Data Analyst](https://job-boards.greenhouse.io/bluewaterthinking/jobs/4715460006) | Fully Remote - Based in USA | greenhouse |
+| 2026-09-22 | truetandem | [Data Engineer](https://jobs.lever.co/truetandem/3dc0ef33-80e3-4bc7-abb7-5d45b4cf8599) | Remote | lever |
+| 2026-09-22 | welbehealth | [AI Engineer I](https://job-boards.greenhouse.io/welbehealth/jobs/8599687002) | Remote, CA, USA | greenhouse |
+| 2026-09-22 | gusto | [Data Scientist, Risk](https://job-boards.greenhouse.io/gusto/jobs/7656216) | San Francisco, CA - Hybrid | greenhouse |
+| 2026-09-22 | gusto | [Enterprise Application AI Engineer](https://job-boards.greenhouse.io/gusto/jobs/7369003) | San Francisco, CA - Hybrid | greenhouse |
+| 2026-09-22 | gusto | [Senior Data Engineer](https://job-boards.greenhouse.io/gusto/jobs/8099751) | Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid | greenhouse |
+| 2026-09-22 | gusto | [Software Engineer, ML Platform](https://job-boards.greenhouse.io/gusto/jobs/8073232) | Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid | greenhouse |
+| 2026-09-22 | tenableinc | [Data Analyst - SQL / Databricks](https://job-boards.greenhouse.io/tenableinc/jobs/5430319008) | US - Remote - Massachusetts , US - Headquarters - Maryland - Columbia | greenhouse |
+| 2026-09-22 | aceable | [Sr Analytics Engineer](https://job-boards.greenhouse.io/aceable/jobs/8817732002) | Austin, TX; Remote | greenhouse |
+| 2026-09-22 | otter | [Engineering Manager - Data Engineering & Insights](https://job-boards.greenhouse.io/otter/jobs/8527107002) | Seattle, WA | greenhouse |
+| 2026-09-22 | otter | [Operations Analytics Engineer](https://job-boards.greenhouse.io/otter/jobs/8654629002) | Los Angeles, CA | greenhouse |
+| 2026-09-22 | faire | [Senior Finance Analytics Engineer](https://boards.greenhouse.io/faire/jobs/8828560002?gh_jid=8828560002) | New York City, NY; San Francisco, CA | greenhouse |
+| 2026-09-22 | rightwayhealthcare | [Analytics Engineer, Unity](https://www.rightwayhealthcare.com/jobs?gh_jid=7797598003) | Remote | greenhouse |
+| 2026-09-22 | twilio | [Marketing Strategy and Analytics Manager](https://job-boards.greenhouse.io/twilio/jobs/8104438) | Remote - India | greenhouse |
+| 2026-09-22 | redwoodmaterials | [Data Engineering Manager](https://boards.greenhouse.io/redwoodmaterials/jobs/6008522004?gh_jid=6008522004) | McCarran, NV | greenhouse |
+| 2026-09-22 | flagshippioneeringinc | [Lead Data Engineer](https://boards.greenhouse.io/flagshippioneeringinc/jobs/8784325002?gh_jid=8784325002) | Cambridge, MA USA | greenhouse |
+| 2026-09-22 | flagshippioneeringinc | [Principal Data Scientist](https://boards.greenhouse.io/flagshippioneeringinc/jobs/8729568002?gh_jid=8729568002) | Cambridge, MA USA | greenhouse |
+| 2026-09-22 | flagshippioneeringinc | [Principal Scientist, Machine Learning](https://boards.greenhouse.io/flagshippioneeringinc/jobs/8684372002?gh_jid=8684372002) | Cambridge, MA USA | greenhouse |
+| 2026-09-22 | flagshippioneeringinc | [Principal Scientist, Machine Learning - Biomolecules](https://boards.greenhouse.io/flagshippioneeringinc/jobs/8584537002?gh_jid=8584537002) | Cambridge, MA USA | greenhouse |
+| 2026-09-22 | flagshippioneeringinc | [Principal Scientist, Machine Learning - Multimodal Biological Reasoning](https://boards.greenhouse.io/flagshippioneeringinc/jobs/8597814002?gh_jid=8597814002) | Cambridge, MA USA | greenhouse |
+| 2026-09-22 | flagshippioneeringinc | [Senior Machine Learning Scientist, Climate & Hydrology](https://boards.greenhouse.io/flagshippioneeringinc/jobs/8540378002?gh_jid=8540378002) | Boulder, CO USA; Cambridge, MA USA | greenhouse |
+| 2026-09-22 | flagshippioneeringinc | [(Senior) Scientist, Machine Learning](https://boards.greenhouse.io/flagshippioneeringinc/jobs/8575314002?gh_jid=8575314002) | Cambridge, MA USA | greenhouse |
+| 2026-09-22 | flagshippioneeringinc | [Senior Scientist, Machine Learning](https://boards.greenhouse.io/flagshippioneeringinc/jobs/8644739002?gh_jid=8644739002) | Cambridge, MA USA | greenhouse |
+| 2026-09-22 | dragos | [Data Engineering Manager](https://job-boards.greenhouse.io/dragos/jobs/5365080008) | United States | greenhouse |
+| 2026-09-22 | schonfeld | [AI Data Engineer](https://job-boards.greenhouse.io/schonfeld/jobs/7589451) | New York, New York, United States | greenhouse |
+| 2026-09-22 | schonfeld | [AI Engineer (Junior/Senior)](https://job-boards.greenhouse.io/schonfeld/jobs/7843962) | New York, New York, United States | greenhouse |
+| 2026-09-22 | schonfeld | [Market Data Analyst](https://job-boards.greenhouse.io/schonfeld/jobs/7843959) | New York, New York, United States | greenhouse |
+| 2026-09-22 | schonfeld | [Senior Quantitative Data Engineer](https://job-boards.greenhouse.io/schonfeld/jobs/7544203) | New York, New York, United States | greenhouse |
+| 2026-09-22 | pointclickcare | [Senior Machine Learning Systems Engineer (US)](https://jobs.lever.co/pointclickcare/37a529c4-afb9-4b50-a75c-df1508d8bde3) | Remote - US | lever |
+| 2026-09-22 | doitintl | [Data Engineer - Cloud & SaaS Integrations](https://job-boards.greenhouse.io/doitintl/jobs/7990927003) | Remote Estonia | greenhouse |
+| 2026-09-22 | doitintl | [Data Engineer - Cloud & SaaS Integrations](https://job-boards.greenhouse.io/doitintl/jobs/7990924003) | Remote Israel | greenhouse |
+| 2026-09-22 | doitintl | [Data Engineer - Cloud & SaaS Integrations](https://job-boards.greenhouse.io/doitintl/jobs/7990923003) | Remote Sweden | greenhouse |
+| 2026-09-22 | doitintl | [Data Engineer - Cloud & SaaS Integrations](https://job-boards.greenhouse.io/doitintl/jobs/7990922003) | Remote Netherlands | greenhouse |
+| 2026-09-22 | doitintl | [Data Engineer - Cloud & SaaS Integrations](https://job-boards.greenhouse.io/doitintl/jobs/7990921003) | Remote Ireland | greenhouse |
+| 2026-09-22 | doitintl | [Data Engineer - Cloud & SaaS Integrations](https://job-boards.greenhouse.io/doitintl/jobs/7990902003) | Remote UK | greenhouse |
+| 2026-09-22 | doitintl | [Data Engineer - Cloud & SaaS Integrations](https://job-boards.greenhouse.io/doitintl/jobs/7990925003) | Remote EMEA | greenhouse |
+| 2026-09-22 | reddit | [Senior Machine Learning Engineer, Ads Optimization](https://job-boards.greenhouse.io/reddit/jobs/8029120) | Remote - United States | greenhouse |
+| 2026-09-22 | reddit | [Sr. Staff Data Scientist - Ads Measurement, Signals, Privacy](https://job-boards.greenhouse.io/reddit/jobs/8072046) | Remote - United States | greenhouse |
+| 2026-09-22 | reddit | [Staff Data Scientist - Ads Measurement, Signals, Privacy](https://job-boards.greenhouse.io/reddit/jobs/8072076) | Remote - United States | greenhouse |
+| 2026-09-22 | reddit | [Senior Staff Data Scientist - Consumer Experimentation](https://job-boards.greenhouse.io/reddit/jobs/7974507) | Remote - Ontario, Canada | greenhouse |
+| 2026-09-22 | reddit | [Senior Staff Data Scientist - Consumer Experimentation](https://job-boards.greenhouse.io/reddit/jobs/7974504) | Remote - United States | greenhouse |
+| 2026-09-22 | reddit | [Staff Data Scientist, Marketing](https://job-boards.greenhouse.io/reddit/jobs/7931000) | Remote - Ontario, Canada | greenhouse |
+| 2026-09-22 | reddit | [Staff Data Scientist, Marketing](https://job-boards.greenhouse.io/reddit/jobs/7445240) | Remote - United States | greenhouse |
+| 2026-09-22 | reddit | [Senior Staff Machine Learning Engineer, Ads Ranking](https://job-boards.greenhouse.io/reddit/jobs/8201359) | Remote - United States | greenhouse |
+| 2026-09-22 | reddit | [Senior Staff Machine Learning Systems Engineer, Ads ML Platform](https://job-boards.greenhouse.io/reddit/jobs/8157275) | Remote - United States | greenhouse |
+| 2026-09-22 | reddit | [Staff Machine Learning Engineer, Retrieval](https://job-boards.greenhouse.io/reddit/jobs/8178085) | Remote - United States | greenhouse |
+| 2026-09-22 | reddit | [Senior Data Scientist - Consumer](https://job-boards.greenhouse.io/reddit/jobs/8126946) | Remote - United States | greenhouse |
+| 2026-09-22 | reddit | [Staff Data Scientist, Ads](https://job-boards.greenhouse.io/reddit/jobs/7721851) | Remote - Ontario, Canada | greenhouse |
+| 2026-09-22 | reddit | [Staff Data Scientist, Ads](https://job-boards.greenhouse.io/reddit/jobs/7721787) | Remote - United States | greenhouse |
+| 2026-09-22 | reddit | [Senior Data Scientist, Ads](https://job-boards.greenhouse.io/reddit/jobs/8104403) | Remote - United States | greenhouse |
+| 2026-09-22 | reddit | [Senior Machine Learning Systems Engineer, Ads ML Experience Platform](https://job-boards.greenhouse.io/reddit/jobs/8112967) | Remote - United States | greenhouse |
+| 2026-09-22 | pindropsecurity | [Research Scientist (Video)](https://www.pindrop.com/careers/job-title/?gh_jid=7974729) | US - Remote; US-Remote | greenhouse |
+| 2026-09-22 | mariadbplc | [Senior Data Analytics Engineer](https://job-boards.eu.greenhouse.io/mariadbplc/jobs/4960497101) | Remote - Bulgaria | greenhouse |
+| 2026-09-22 | mariadbplc | [Senior Data Analytics Engineer](https://job-boards.eu.greenhouse.io/mariadbplc/jobs/4960498101) | Remote -- Romania | greenhouse |
+| 2026-09-22 | wrike | [Senior Data Scientist](https://job-boards.greenhouse.io/wrike/jobs/4713775005) | Czech Republic - Remote | greenhouse |
+| 2026-09-22 | wrike | [Senior Data Scientist](https://job-boards.greenhouse.io/wrike/jobs/4713777005) | Cyprus - Remote | greenhouse |
+| 2026-09-22 | saasgroup | [Data Analyst (SQL & dbt)](https://job-boards.eu.greenhouse.io/saasgroup/jobs/4979265101) | Remote, EMEA | greenhouse |
+| 2026-09-22 | moniepoint | [Senior Data Engineer](https://job-boards.eu.greenhouse.io/moniepoint/jobs/4809255101) | Remote, Spain | greenhouse |
 | 2026-09-22 | grafanalabs | [Senior Backend Engineer - Databases - Analytics \| Sweden \| Remote](https://job-boards.greenhouse.io/grafanalabs/jobs/6202748004) | Sweden (Remote) | greenhouse |
 | 2026-09-22 | grafanalabs | [Senior Backend Engineer - Databases - Analytics \| Ireland \| Remote](https://job-boards.greenhouse.io/grafanalabs/jobs/6202749004) | Republic of Ireland (Remote) | greenhouse |
 | 2026-09-22 | grafanalabs | [Senior Backend Engineer - Databases - Analytics \| Germany \| Remote](https://job-boards.greenhouse.io/grafanalabs/jobs/6202750004) | Germany (Remote) | greenhouse |
@@ -30,39 +97,20 @@ _Last updated: 2026-09-22 04:28 CDT_
 | 2026-09-22 | andurilindustries | [Senior Research Scientist, Target Tracking](https://boards.greenhouse.io/andurilindustries/jobs/5244784007?gh_jid=5244784007) | Broomfield, Colorado, United States; Fort Collins, Colorado, United States | greenhouse |
 | 2026-09-22 | life360 | [Senior Data Engineer II, AI Native](https://job-boards.greenhouse.io/life360/jobs/8659252002) | Remote, USA ; Remote, Canada | greenhouse |
 | 2026-09-22 | discord | [Staff Software Engineer, Machine Learning (Consumer Revenue)](https://job-boards.greenhouse.io/discord/jobs/8802354002) | San Francisco Bay Area or Remote (U.S.) | greenhouse |
-| 2026-09-22 | redwoodmaterials | [Data Engineering Manager](https://boards.greenhouse.io/redwoodmaterials/jobs/6008522004?gh_jid=6008522004) | McCarran, NV | greenhouse |
 | 2026-09-22 | stripe | [Data Scientist](https://stripe.com/jobs/search?gh_jid=8222149) | Seattle, WA | greenhouse |
-| 2026-09-22 | reddit | [Senior Machine Learning Engineer, Ads Optimization](https://job-boards.greenhouse.io/reddit/jobs/8029120) | Remote - United States | greenhouse |
-| 2026-09-22 | reddit | [Senior Staff Data Scientist - Consumer Experimentation](https://job-boards.greenhouse.io/reddit/jobs/7974504) | Remote - United States | greenhouse |
-| 2026-09-22 | reddit | [Senior Staff Data Scientist - Consumer Experimentation](https://job-boards.greenhouse.io/reddit/jobs/7974507) | Remote - Ontario, Canada | greenhouse |
-| 2026-09-22 | reddit | [Sr. Staff Data Scientist - Ads Measurement, Signals, Privacy](https://job-boards.greenhouse.io/reddit/jobs/8072046) | Remote - United States | greenhouse |
-| 2026-09-22 | reddit | [Staff Data Scientist - Ads Measurement, Signals, Privacy](https://job-boards.greenhouse.io/reddit/jobs/8072076) | Remote - United States | greenhouse |
-| 2026-09-22 | reddit | [Staff Data Scientist, Marketing](https://job-boards.greenhouse.io/reddit/jobs/7931000) | Remote - Ontario, Canada | greenhouse |
-| 2026-09-22 | reddit | [Staff Data Scientist, Marketing](https://job-boards.greenhouse.io/reddit/jobs/7445240) | Remote - United States | greenhouse |
-| 2026-09-22 | reddit | [Senior Staff Machine Learning Engineer, Ads Ranking](https://job-boards.greenhouse.io/reddit/jobs/8201359) | Remote - United States | greenhouse |
-| 2026-09-22 | reddit | [Senior Staff Machine Learning Systems Engineer, Ads ML Platform](https://job-boards.greenhouse.io/reddit/jobs/8157275) | Remote - United States | greenhouse |
-| 2026-09-22 | reddit | [Staff Machine Learning Engineer, Retrieval](https://job-boards.greenhouse.io/reddit/jobs/8178085) | Remote - United States | greenhouse |
-| 2026-09-22 | reddit | [Senior Data Scientist, Ads](https://job-boards.greenhouse.io/reddit/jobs/8104403) | Remote - United States | greenhouse |
-| 2026-09-22 | reddit | [Senior Data Scientist - Consumer](https://job-boards.greenhouse.io/reddit/jobs/8126946) | Remote - United States | greenhouse |
-| 2026-09-22 | reddit | [Senior Machine Learning Systems Engineer, Ads ML Experience Platform](https://job-boards.greenhouse.io/reddit/jobs/8112967) | Remote - United States | greenhouse |
-| 2026-09-22 | reddit | [Staff Data Scientist, Ads](https://job-boards.greenhouse.io/reddit/jobs/7721851) | Remote - Ontario, Canada | greenhouse |
-| 2026-09-22 | reddit | [Staff Data Scientist, Ads](https://job-boards.greenhouse.io/reddit/jobs/7721787) | Remote - United States | greenhouse |
 | 2026-09-22 | oportun | [Senior Data Engineer - Capital Markets (R13923)](https://job-boards.greenhouse.io/oportun/jobs/4678047005) | Remote - MX | greenhouse |
 | 2026-09-21 | a16z | [Partner 16, Data Engineer - Global Partnerships](https://a16z.com/about/jobs/?gh_jid=7982023003) | Menlo Park, California, United States; San Francisco, California, United States | greenhouse |
 | 2026-09-21 | servicenow | [Principal Software Engineer - AI Control Tower (AICT)](https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000150800929) | Santa Clara California us | smartrecruiters |
 | 2026-09-21 | equipmentsharecom | [Analytics Engineer](https://www.equipmentshare.com/careers/openings/?gh_jid=8024018) | Columbia, MO (Headquarters) | greenhouse |
 | 2026-09-21 | equipmentsharecom | [Business Intelligence Analyst](https://www.equipmentshare.com/careers/openings/?gh_jid=6907590) | Columbia, MO (Headquarters) | greenhouse |
-| 2026-09-21 | equipmentsharecom | [Financial Data Analyst](https://www.equipmentshare.com/careers/openings/?gh_jid=6900544) | Chicago, IL (Southwest) | greenhouse |
 | 2026-09-21 | equipmentsharecom | [Financial Data Analyst](https://www.equipmentshare.com/careers/openings/?gh_jid=8128862) | Columbia, MO (Headquarters) | greenhouse |
-| 2026-09-21 | otter | [Engineering Manager - Data Engineering & Insights](https://job-boards.greenhouse.io/otter/jobs/8527107002) | Seattle, WA | greenhouse |
-| 2026-09-21 | otter | [Operations Analytics Engineer](https://job-boards.greenhouse.io/otter/jobs/8654629002) | Los Angeles, CA | greenhouse |
+| 2026-09-21 | equipmentsharecom | [Financial Data Analyst](https://www.equipmentshare.com/careers/openings/?gh_jid=6900544) | Chicago, IL (Southwest) | greenhouse |
 | 2026-09-21 | mgproperties | [Senior Data & Analytics Engineer](https://job-boards.greenhouse.io/mgproperties/jobs/5223280007) | San Diego, CA | greenhouse |
 | 2026-09-21 | gatikaiinc | [Machine Learning Engineer](https://boards.greenhouse.io/gatikaiinc/jobs/4712524006?gh_jid=4712524006) | Santa Clara, CA | greenhouse |
 | 2026-09-21 | neuralink | [Machine Learning Engineer](https://boards.greenhouse.io/neuralink/jobs/5663271003?gh_jid=5663271003) | Austin, Texas, United States; South San Francisco, California, United States | greenhouse |
 | 2026-09-21 | fourkites | [Senior Data Scientist](https://job-boards.greenhouse.io/fourkites/jobs/8146530) | Chennai or Remote, India | greenhouse |
 | 2026-09-21 | fourkites | [Senior AI Engineer](https://job-boards.greenhouse.io/fourkites/jobs/7981512) | Chennai or Remote, India | greenhouse |
 | 2026-09-21 | hightouch | [Head of Machine Learning](https://job-boards.greenhouse.io/hightouch/jobs/5775517004) | Remote (North America) | greenhouse |
-| 2026-09-21 | faire | [Senior Business Intelligence Analyst](https://boards.greenhouse.io/faire/jobs/8828560002?gh_jid=8828560002) | New York City, NY; San Francisco, CA | greenhouse |
 | 2026-09-21 | waymo | [Machine Learning Engineer, Perception](https://careers.withwaymo.com/jobs?gh_jid=8212478) | Mountain View, CA, USA; San Francisco, CA, USA | greenhouse |
 | 2026-09-21 | waymo | [Staff Tech Lead Manager, Machine Learning, Simulator Evaluation](https://careers.withwaymo.com/jobs?gh_jid=8209790) | Mountain View, California, United States; San Francisco, California, United States. | greenhouse |
 | 2026-09-21 | waymo | [Perception Machine Learning Engineer - Continuous Learning](https://careers.withwaymo.com/jobs?gh_jid=8127006) | Mountain View, CA, USA; San Francisco, CA, USA | greenhouse |
@@ -127,7 +175,6 @@ _Last updated: 2026-09-22 04:28 CDT_
 | 2026-09-21 | waymo | [Senior/Staff ML Engineer, 3D/4D World Modeling, Simulation](https://careers.withwaymo.com/jobs?gh_jid=6669555) | Mountain View, CA, USA | greenhouse |
 | 2026-09-21 | onxmaps | [Staff Data Engineer](https://job-boards.greenhouse.io/onxmaps/jobs/4649478006) | Bozeman, Montana, United States | greenhouse |
 | 2026-09-21 | yurtsai | [Agentic AI Engineer / Software Engineer - AI Applications (Remote US)](https://job-boards.greenhouse.io/yurtsai/jobs/5243856007) | Remote USA | greenhouse |
-| 2026-09-21 | tenableinc | [Data Analyst - SQL / Databricks](https://job-boards.greenhouse.io/tenableinc/jobs/5430319008) | US - Remote - Massachusetts , US - Headquarters - Maryland - Columbia | greenhouse |
 | 2026-09-21 | motional | [Machine Learning Systems Engineer](https://motional.com/open-positions/?gh_jid=7730596003#/7730596003) | Boston, Massachusetts, United States; Las Vegas, Nevada, United States; Pittsburgh, Pennsylvania, United States; Remote U.S. | greenhouse |
 | 2026-09-21 | motional | [Principal Machine Learning Engineer, Data Mining](https://motional.com/open-positions/?gh_jid=7779985003#/7779985003) | Boston, Massachusetts, United States; Pittsburgh, Pennsylvania, United States; Remote U.S. | greenhouse |
 | 2026-09-21 | pitchbookdata | [Sr. Machine Learning Engineer](https://job-boards.greenhouse.io/pitchbookdata/jobs/4687513006) | Seattle, Washington, United States | greenhouse |
@@ -137,10 +184,6 @@ _Last updated: 2026-09-22 04:28 CDT_
 | 2026-09-21 | twinhealth | [Senior AI Engineer](https://job-boards.greenhouse.io/twinhealth/jobs/5655780004) | Remote, USA | greenhouse |
 | 2026-09-21 | twinhealth | [Staff AI Engineer](https://job-boards.greenhouse.io/twinhealth/jobs/6109867004) | Remote, USA | greenhouse |
 | 2026-09-21 | viralnation | [Sr. Analyst, Business Intelligence](https://job-boards.greenhouse.io/viralnation/jobs/5172630007) | United States | greenhouse |
-| 2026-09-21 | gusto | [Data Scientist, Risk](https://job-boards.greenhouse.io/gusto/jobs/7656216) | San Francisco, CA - Hybrid | greenhouse |
-| 2026-09-21 | gusto | [Enterprise Application AI Engineer](https://job-boards.greenhouse.io/gusto/jobs/7369003) | San Francisco, CA - Hybrid | greenhouse |
-| 2026-09-21 | gusto | [Senior Data Engineer](https://job-boards.greenhouse.io/gusto/jobs/8099751) | Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid | greenhouse |
-| 2026-09-21 | gusto | [Software Engineer, ML Platform](https://job-boards.greenhouse.io/gusto/jobs/8073232) | Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid | greenhouse |
 | 2026-09-21 | doordashusa | [Analytics Engineer, Data Science](https://job-boards.greenhouse.io/doordashusa/jobs/7967918) | Austin, TX; Chicago, IL; New York, NY; San Francisco, CA; San Jose, CA; Seattle, WA; Los Angeles, CA; Washington D.C. | greenhouse |
 | 2026-09-21 | doordashusa | [Data Analyst, In-Store](https://job-boards.greenhouse.io/doordashusa/jobs/7990832) | New York, NY; San Francisco, CA; San Jose, CA; Seattle, WA; Los Angeles, CA; Washington D.C.; Austin, TX; Chicago, IL | greenhouse |
 | 2026-09-21 | doordashusa | [Data Scientist / Senior Data Scientist](https://job-boards.greenhouse.io/doordashusa/jobs/6103225) | San Francisco, CA; Seattle, WA; New York, NY; Los Angeles, CA; Chicago, IL; Austin, TX; Washington D.C. | greenhouse |
@@ -172,19 +215,19 @@ _Last updated: 2026-09-22 04:28 CDT_
 | 2026-09-21 | torcrobotics | [Senior, Machine Learning Engineer - Camera Model](https://job-boards.greenhouse.io/torcrobotics/jobs/8765533002) | Remote - U.S | greenhouse |
 | 2026-09-21 | andurilindustries | [Agentic AI Engineer, Automation](https://boards.greenhouse.io/andurilindustries/jobs/5219383007?gh_jid=5219383007) | Costa Mesa, California, United States | greenhouse |
 | 2026-09-21 | andurilindustries | [Analytics Engineer, Hardware Test](https://boards.greenhouse.io/andurilindustries/jobs/4768437007?gh_jid=4768437007) | Costa Mesa, California, United States | greenhouse |
-| 2026-09-21 | andurilindustries | [Product Data Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5150089007?gh_jid=5150089007) | Irvine, California, United States | greenhouse |
 | 2026-09-21 | andurilindustries | [Product Data Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5114654007?gh_jid=5114654007) | Costa Mesa, California, United States | greenhouse |
+| 2026-09-21 | andurilindustries | [Product Data Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5150089007?gh_jid=5150089007) | Irvine, California, United States | greenhouse |
 | 2026-09-21 | andurilindustries | [Research Scientist](https://boards.greenhouse.io/andurilindustries/jobs/5239287007?gh_jid=5239287007) | Fort Collins, Colorado, United States | greenhouse |
-| 2026-09-21 | andurilindustries | [Research Scientist](https://boards.greenhouse.io/andurilindustries/jobs/5240170007?gh_jid=5240170007) | Huntsville, Alabama, United States | greenhouse |
 | 2026-09-21 | andurilindustries | [Research Scientist](https://boards.greenhouse.io/andurilindustries/jobs/5228071007?gh_jid=5228071007) | Fort Collins, Colorado, United States | greenhouse |
+| 2026-09-21 | andurilindustries | [Research Scientist](https://boards.greenhouse.io/andurilindustries/jobs/5240170007?gh_jid=5240170007) | Huntsville, Alabama, United States | greenhouse |
 | 2026-09-21 | andurilindustries | [Research Scientist, Battlespace Awareness](https://boards.greenhouse.io/andurilindustries/jobs/5236456007?gh_jid=5236456007) | Waltham, Massachusetts, United States | greenhouse |
 | 2026-09-21 | andurilindustries | [Research Scientist, Battlespace Awareness](https://boards.greenhouse.io/andurilindustries/jobs/5236457007?gh_jid=5236457007) | Broomfield, Colorado, United States | greenhouse |
 | 2026-09-21 | andurilindustries | [RFML Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5031495007?gh_jid=5031495007) | Costa Mesa, California, United States | greenhouse |
 | 2026-09-21 | andurilindustries | [Senior Advanced Research Scientist](https://boards.greenhouse.io/andurilindustries/jobs/5206561007?gh_jid=5206561007) | Broomfield, Colorado, United States; Fort Collins, Colorado, United States | greenhouse |
 | 2026-09-21 | andurilindustries | [Senior Analytics Engineer](https://boards.greenhouse.io/andurilindustries/jobs/4743827007?gh_jid=4743827007) | Costa Mesa, California, United States | greenhouse |
 | 2026-09-21 | andurilindustries | [Senior Analytics Engineer, People Data](https://boards.greenhouse.io/andurilindustries/jobs/5147099007?gh_jid=5147099007) | Boston, Massachusetts, United States; Costa Mesa, California, United States | greenhouse |
-| 2026-09-21 | andurilindustries | [Senior Data Analyst, Quality](https://boards.greenhouse.io/andurilindustries/jobs/5198870007?gh_jid=5198870007) | Ashville, Ohio, United States | greenhouse |
 | 2026-09-21 | andurilindustries | [Senior Data Analyst, Quality](https://boards.greenhouse.io/andurilindustries/jobs/5167749007?gh_jid=5167749007) | Atlanta, Georgia, United States | greenhouse |
+| 2026-09-21 | andurilindustries | [Senior Data Analyst, Quality](https://boards.greenhouse.io/andurilindustries/jobs/5198870007?gh_jid=5198870007) | Ashville, Ohio, United States | greenhouse |
 | 2026-09-21 | andurilindustries | [Senior Data Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5180410007?gh_jid=5180410007) | Costa Mesa, California, United States | greenhouse |
 | 2026-09-21 | andurilindustries | [Senior Machine Learning Engineer, Applied Intelligence](https://boards.greenhouse.io/andurilindustries/jobs/5207613007?gh_jid=5207613007) | Santa Ana, California, United States | greenhouse |
 | 2026-09-21 | andurilindustries | [Senior Manufacturing Engineer, Data Analyst](https://boards.greenhouse.io/andurilindustries/jobs/5212991007?gh_jid=5212991007) | Costa Mesa, California, United States | greenhouse |
@@ -194,14 +237,13 @@ _Last updated: 2026-09-22 04:28 CDT_
 | 2026-09-21 | andurilindustries | [Senior Research Scientist, Battlespace Awareness](https://boards.greenhouse.io/andurilindustries/jobs/5236461007?gh_jid=5236461007) | Waltham, Massachusetts, United States | greenhouse |
 | 2026-09-21 | andurilindustries | [Staff Analytics Engineer](https://boards.greenhouse.io/andurilindustries/jobs/4457719007?gh_jid=4457719007) | Costa Mesa, California, United States | greenhouse |
 | 2026-09-21 | andurilindustries | [Staff Threat & Attack Research Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5239222007?gh_jid=5239222007) | Remote | greenhouse |
-| 2026-09-21 | andurilindustries | [Staff Threat & Attack Research Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5239219007?gh_jid=5239219007) | Seattle, Washington, United States | greenhouse |
-| 2026-09-21 | andurilindustries | [Staff Threat & Attack Research Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5239220007?gh_jid=5239220007) | Washington, District of Columbia, United States | greenhouse |
-| 2026-09-21 | andurilindustries | [Staff Threat & Attack Research Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5239221007?gh_jid=5239221007) | Boston, Massachusetts, United States | greenhouse |
 | 2026-09-21 | andurilindustries | [Staff Threat & Attack Research Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5237840007?gh_jid=5237840007) | Costa Mesa, California, United States | greenhouse |
+| 2026-09-21 | andurilindustries | [Staff Threat & Attack Research Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5239219007?gh_jid=5239219007) | Seattle, Washington, United States | greenhouse |
+| 2026-09-21 | andurilindustries | [Staff Threat & Attack Research Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5239221007?gh_jid=5239221007) | Boston, Massachusetts, United States | greenhouse |
+| 2026-09-21 | andurilindustries | [Staff Threat & Attack Research Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5239220007?gh_jid=5239220007) | Washington, District of Columbia, United States | greenhouse |
 | 2026-09-21 | andurilindustries | [Staff TLM, Machine Learning, Sentry Tower](https://boards.greenhouse.io/andurilindustries/jobs/4927589007?gh_jid=4927589007) | Irvine, California, United States | greenhouse |
 | 2026-09-21 | andurilindustries | [Staff Gen AI Research Scientist](https://boards.greenhouse.io/andurilindustries/jobs/5216230007?gh_jid=5216230007) | Costa Mesa, California, United States; Seattle, Washington, United States; Washington, District of Columbia, United States | greenhouse |
 | 2026-09-21 | andurilindustries | [Supply Chain Master Data Analyst](https://boards.greenhouse.io/andurilindustries/jobs/4985350007?gh_jid=4985350007) | Costa Mesa, California, United States | greenhouse |
-| 2026-09-21 | roblox | [Senior Software Engineer, Data Engineering (Short Term)](https://careers.roblox.com/jobs/8174475?gh_jid=8174475) | San Mateo, CA, United States | greenhouse |
 | 2026-09-21 | syndio | [Senior Research Scientist, Executive Engagement & Insights](https://synd.io/careers/?gh_jid=6203653004) | Remote Home Office - United States | greenhouse |
 | 2026-09-21 | epicgames | [Senior Machine Learning Engineer, Discovery Recommendations](https://epicgames.com/careers/jobs/5972880004?gh_jid=5972880004) | Cary,North Carolina,United States | greenhouse |
 | 2026-09-21 | afresh | [Staff Data Engineer, Analytics](https://job-boards.greenhouse.io/afresh/jobs/6190684004) | Remote, San Francisco, California, United States | greenhouse |
@@ -227,6 +269,7 @@ _Last updated: 2026-09-22 04:28 CDT_
 | 2026-09-21 | googlefiber | [Senior Business Data Analyst](https://fiber.google.com/careers/job/?gh_jid=6163546004) | Remote | greenhouse |
 | 2026-09-21 | obsidiansecurity | [Software Engineer - AI Security Product](https://job-boards.greenhouse.io/obsidiansecurity/jobs/5290880008) | Palo Alto, California, USA | greenhouse |
 | 2026-09-21 | obsidiansecurity | [Tech Lead - Data Scientist](https://job-boards.greenhouse.io/obsidiansecurity/jobs/5213687008) | Newport Beach, California, USA | greenhouse |
+| 2026-09-21 | spotify | [Senior Applied Research Scientist - Personalization](https://jobs.lever.co/spotify/6eb9ce0e-5372-4a4f-b2fa-d005f9426750) | New York, NY | lever |
 | 2026-09-21 | spotify | [Research Scientist - Personalization](https://jobs.lever.co/spotify/9e3bdb48-67eb-49d9-ae0b-a337ba69a05f) | New York, NY | lever |
 | 2026-09-21 | afresh | [Staff Data Engineer / Tech Lead (Distribution Center)](https://job-boards.greenhouse.io/afresh/jobs/6101672004) | Remote - United States | greenhouse |
 | 2026-09-21 | precisionaq | [Associate Research Scientist, Real World Evidence](https://job-boards.greenhouse.io/precisionaq/jobs/6128944004) | Remote, United States | greenhouse |
@@ -296,8 +339,8 @@ _Last updated: 2026-09-22 04:28 CDT_
 | 2026-09-21 | purestorage | [Alliance Marketing Manager, Artificial Intelligence](https://job-boards.greenhouse.io/purestorage/jobs/8214921) | Remote, United States | greenhouse |
 | 2026-09-21 | twilio | [Machine Learning Engineer](https://job-boards.greenhouse.io/twilio/jobs/7996774) | Remote - Ireland | greenhouse |
 | 2026-09-21 | twilio | [Machine Learning Engineer](https://job-boards.greenhouse.io/twilio/jobs/8007455) | Remote - Spain | greenhouse |
-| 2026-09-21 | twilio | [Marketing Strategy and Analytics Manager](https://job-boards.greenhouse.io/twilio/jobs/8104438) | Remote - India | greenhouse |
 | 2026-09-21 | twilio | [Business Intelligence Analyst 2](https://job-boards.greenhouse.io/twilio/jobs/8172319) | Remote - Colombia | greenhouse |
+| 2026-09-21 | hubspotjobs | [Lead Data Analyst](https://www.hubspot.com/careers/jobs/8165696?gh_jid=8165696) | Remote - USA | greenhouse |
 | 2026-09-21 | impiricus | [Business Intelligence & Insights Lead](https://job-boards.greenhouse.io/impiricus/jobs/5416437008) | Atlanta, GA, New York, NY, or Remote, USA | greenhouse |
 | 2026-09-21 | netomi | [Data Engineer II](https://jobs.lever.co/netomi/929d62de-1e00-4b54-ba38-3378cc440fb2) | Remote - India | lever |
 | 2026-09-21 | netomi | [Data Engineer I](https://jobs.lever.co/netomi/02b45afd-5a49-41b2-a244-b0ca76306692) | Remote - India | lever |

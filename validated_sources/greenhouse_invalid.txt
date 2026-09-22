@@ -1885,7 +1885,6 @@ bluepoint	http_404
 housemarque	no_matching_jobs
 destiny	http_404
 marathon	http_404
-bungie	no_matching_jobs
 firesprite	no_matching_jobs
 343 industries	http_404
 microsoft gaming	http_404
@@ -6086,7 +6085,6 @@ zenoti	no_matching_jobs
 soligent	no_matching_jobs
 greenplaces	no_jobs
 zestai	no_matching_jobs
-welbehealth	no_matching_jobs
 funga	no_jobs
 taxvalet	no_matching_jobs
 julieproducts	no_matching_jobs
@@ -7445,7 +7443,6 @@ assetliving	no_matching_jobs
 maddoxindustrialtransformer	no_matching_jobs
 piermontbank	no_matching_jobs
 sensei	no_matching_jobs
-hubspotjobs	no_matching_jobs
 momentmarkets	http_404
 tdg	no_matching_jobs
 penrodsoftware	http_404
@@ -8436,7 +8433,6 @@ xgs	http_404
 durable	no_matching_jobs
 zenjob	http_404
 impact	no_matching_jobs
-donorbox	no_matching_jobs
 hc360	no_matching_jobs
 neoris	no_matching_jobs
 valtechgreenhouse	no_jobs
