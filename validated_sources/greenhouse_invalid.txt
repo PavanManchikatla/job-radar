@@ -7836,7 +7836,6 @@ nextroll	no_matching_jobs
 valerahealth	no_matching_jobs
 formic	no_matching_jobs
 resultsforamerica	no_matching_jobs
-triplelift	no_matching_jobs
 launchpadtechnologiesinc	no_matching_jobs
 up	http_404
 nuvalent	no_matching_jobs
