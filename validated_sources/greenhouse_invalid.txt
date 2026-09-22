@@ -1463,7 +1463,6 @@ telegram	http_404
 signal	http_404
 whatsapp	http_404
 viber	http_404
-discord	no_matching_jobs
 line	http_404
 kakaotalk	http_404
 wechat	http_404
