@@ -6455,7 +6455,6 @@ roadie	no_matching_jobs
 ffeinc	no_matching_jobs
 insomniacgames	http_404
 allcareers	no_matching_jobs
-uniteus	no_matching_jobs
 bluecrestcapitalmanagement	no_matching_jobs
 dxacirca	no_matching_jobs
 universaldx	no_matching_jobs
@@ -6985,7 +6984,6 @@ gigster	http_404
 enboarder	no_matching_jobs
 flywheeldigital	no_matching_jobs
 kindbody	http_404
-tekmetric	no_matching_jobs
 clever	no_matching_jobs
 bluehole	no_matching_jobs
 qualia	no_matching_jobs
@@ -7826,7 +7824,6 @@ zonecompanysoftwareconsultingllc	no_matching_jobs
 jabrahearing	http_404
 ginkgobioworks	no_matching_jobs
 3redpartners	no_matching_jobs
-cribl	no_matching_jobs
 mozillaai	no_jobs
 rushstreetinteractive	no_matching_jobs
 nextroll	no_matching_jobs
@@ -8773,7 +8770,6 @@ lumahealth	no_matching_jobs
 denverbroncosteamllc	no_matching_jobs
 traveloka	http_404
 wellsaidlabs	no_matching_jobs
-ujet	no_matching_jobs
 vts	no_matching_jobs
 axsometherapeutics	no_matching_jobs
 zennify	no_matching_jobs
