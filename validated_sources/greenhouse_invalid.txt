@@ -4267,7 +4267,6 @@ embark trucks	http_404
 starsky	http_404
 peloton technology	http_404
 kodiak robotics	http_404
-boulevard	no_matching_jobs
 c3 ai logistics	http_404
 jaggaer	http_404
 coupa	http_404
@@ -5779,7 +5778,6 @@ crosschq	http_404
 omidyarnetwork	no_matching_jobs
 putnamassociatesllc	no_matching_jobs
 majorleaguebaseball	no_matching_jobs
-flodesk	no_matching_jobs
 bswift	no_matching_jobs
 marinomanagementllc	no_matching_jobs
 culthealth	http_404
@@ -8031,7 +8029,6 @@ saltsecurity	no_matching_jobs
 cocoon	no_matching_jobs
 flourish	no_matching_jobs
 eko	no_jobs
-homeward	no_matching_jobs
 fazz	http_404
 proton	no_matching_jobs
 laboratoirertingscom	no_matching_jobs
