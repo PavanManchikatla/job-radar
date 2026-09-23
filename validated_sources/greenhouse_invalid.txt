@@ -5655,7 +5655,6 @@ clearwayjobs	no_matching_jobs
 dialoguehealthtechnologiesinc	http_404
 hoyoverse	no_jobs
 onetrust	no_matching_jobs
-avidxchangeinc	no_matching_jobs
 calm	no_matching_jobs
 scaletowinllc	http_404
 omnicomhealth	no_matching_jobs
@@ -8143,7 +8142,6 @@ chewycom	http_404
 nationalbusinesscapital	no_matching_jobs
 nanit	no_matching_jobs
 tidewatertech	no_matching_jobs
-launch2	no_matching_jobs
 geniussports	no_matching_jobs
 elitedentalpartnersllc	no_matching_jobs
 trailerpark	http_404
