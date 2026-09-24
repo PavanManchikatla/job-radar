@@ -296,7 +296,6 @@ worldpay	http_404
 fis	http_404
 fiserv	http_404
 tsys	http_404
-block	no_matching_jobs
 authorize.net	http_404
 first data	http_404
 elavon	http_404
@@ -5147,7 +5146,6 @@ takecommandhealth	no_matching_jobs
 medsien	no_matching_jobs
 zeals	no_matching_jobs
 turtlerockstudios	no_matching_jobs
-gofasti	no_matching_jobs
 cdpjobs	http_404
 chariotenergy	no_matching_jobs
 shopmonkey	no_matching_jobs
@@ -6020,7 +6018,6 @@ parity	http_404
 woo	no_matching_jobs
 trufflesecurity	no_matching_jobs
 armamentsresearchcompany	no_matching_jobs
-axon	no_matching_jobs
 myshell	http_404
 evolutionaryscale	http_404
 science	http_404
@@ -8001,7 +7998,6 @@ wil	no_matching_jobs
 suvoda	no_matching_jobs
 arevonenergyimpltest	no_matching_jobs
 rubyreceptionists	http_404
-perfectserve	no_matching_jobs
 howardair	no_matching_jobs
 talentscreditas	http_404
 studioscience	no_jobs
@@ -8276,7 +8272,6 @@ formaaiinc	no_matching_jobs
 noble	http_404
 clickstop	no_matching_jobs
 honeycomb	no_matching_jobs
-nextiva	no_matching_jobs
 farmsanctuary	no_matching_jobs
 collectively	no_matching_jobs
 manychat	no_jobs
