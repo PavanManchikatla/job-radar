@@ -3316,7 +3316,6 @@ quote creator	http_400
 quote maker	http_400
 text plus	http_400
 pic collage	http_400
-canva	no_matching_jobs
 instasize	no_postings
 pic stitch	http_400
 moldiv	no_postings
