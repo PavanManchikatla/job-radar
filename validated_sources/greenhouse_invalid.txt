@@ -7388,7 +7388,6 @@ sonymusic	http_404
 antenna	no_matching_jobs
 stylitics	http_404
 corporatecareers	no_matching_jobs
-blackcanyonconsulting	no_matching_jobs
 besfellowship	no_matching_jobs
 torq	no_matching_jobs
 faropoint	no_matching_jobs
@@ -8362,7 +8361,6 @@ digitalhands	no_matching_jobs
 wundercapital	no_matching_jobs
 cloudbees	http_404
 sprouttherapy	http_404
-momentumfinancialservicesgroup	no_matching_jobs
 getwellnetwork	no_matching_jobs
 checkbook	no_matching_jobs
 oneacrefundglobal	no_matching_jobs
@@ -8445,7 +8443,6 @@ hillhousehome	no_matching_jobs
 aetion	http_404
 doordashindia	no_matching_jobs
 newlabcareers	no_matching_jobs
-fartherfinance	no_matching_jobs
 rootly	http_404
 abatatherapeutics	http_404
 messari	no_jobs
