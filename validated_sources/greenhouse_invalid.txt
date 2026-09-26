@@ -6986,7 +6986,6 @@ bluehole	no_matching_jobs
 qualia	no_matching_jobs
 gsrmarkets	no_matching_jobs
 petag	no_matching_jobs
-heartflowinc	no_matching_jobs
 dedrone	http_404
 mintel	no_matching_jobs
 paradextrade	http_404
