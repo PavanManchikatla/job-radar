@@ -5312,7 +5312,6 @@ hometapjobs	no_matching_jobs
 bloomerang	no_matching_jobs
 synerg	no_matching_jobs
 jnanatherapeutics	http_404
-otrcapital1	no_matching_jobs
 focuspartnerswealth	no_matching_jobs
 shinola	no_matching_jobs
 wolt	no_matching_jobs
@@ -5739,7 +5738,6 @@ constructionresources	no_matching_jobs
 riseforfamilies	no_jobs
 hotmartcareersbr	no_matching_jobs
 smartcitykitchens	no_jobs
-neweratech	no_matching_jobs
 kineticcommunities	http_404
 arcadiacareers	http_404
 encoura	no_matching_jobs
@@ -8583,7 +8581,6 @@ americaneedsyou	http_404
 amenitiz	http_404
 wisetack	no_matching_jobs
 nuna	http_404
-warp	no_matching_jobs
 uvimco	no_matching_jobs
 acorns	http_404
 levio	no_matching_jobs

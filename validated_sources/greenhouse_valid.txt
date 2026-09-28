@@ -618,3 +618,6 @@ pubmatic
 racapitalmanagementllc
 recast
 rubrik
+otrcapital1
+neweratech
+warp
