@@ -3635,7 +3635,6 @@ rescuezilla	http_404
 kaseya	no_matching_jobs
 wpeinternals	http_404
 ventoy	http_404
-rubrik	no_matching_jobs
 raylib	http_404
 xboot	http_404
 sardu	http_404
