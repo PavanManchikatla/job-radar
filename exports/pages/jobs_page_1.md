@@ -1,11 +1,27 @@
 # Jobs Feed (Page 1/1)
 
-_Last updated: 2026-09-27 18:21 CDT_
+_Last updated: 2026-09-27 23:12 CDT_
 
 | Posted | Company | Title | Location | Source |
 |---|---|---|---|---|
-| 2026-09-27 | redwoodmaterials | [Data Engineering Manager](https://boards.greenhouse.io/redwoodmaterials/jobs/6008522004?gh_jid=6008522004) | McCarran, NV | greenhouse |
-| 2026-09-27 | redwoodmaterials | [Senior Analytics Engineer](https://boards.greenhouse.io/redwoodmaterials/jobs/6116721004?gh_jid=6116721004) | San Francisco, California, United States | greenhouse |
+| 2026-09-28 | anthropic | [Research Engineer, Post-Training Model Evaluations](https://job-boards.greenhouse.io/anthropic/jobs/5198255008) | San Francisco, CA \| Seattle, WA | greenhouse |
+| 2026-09-28 | redwoodmaterials | [Data Engineering Manager](https://boards.greenhouse.io/redwoodmaterials/jobs/6008522004?gh_jid=6008522004) | McCarran, NV | greenhouse |
+| 2026-09-28 | redwoodmaterials | [Senior Analytics Engineer](https://boards.greenhouse.io/redwoodmaterials/jobs/6116721004?gh_jid=6116721004) | San Francisco, California, United States | greenhouse |
+| 2026-09-28 | reddit | [Senior Machine Learning Engineer, Ads Optimization](https://job-boards.greenhouse.io/reddit/jobs/8029120) | Remote - United States | greenhouse |
+| 2026-09-28 | reddit | [Staff Data Scientist - Ads Measurement, Signals, Privacy](https://job-boards.greenhouse.io/reddit/jobs/8072076) | Remote - United States | greenhouse |
+| 2026-09-28 | reddit | [Senior Staff Data Scientist - Consumer Experimentation](https://job-boards.greenhouse.io/reddit/jobs/7974504) | Remote - United States | greenhouse |
+| 2026-09-28 | reddit | [Senior Staff Data Scientist - Consumer Experimentation](https://job-boards.greenhouse.io/reddit/jobs/7974507) | Remote - Ontario, Canada | greenhouse |
+| 2026-09-28 | reddit | [Staff Data Scientist, Marketing](https://job-boards.greenhouse.io/reddit/jobs/7931000) | Remote - Ontario, Canada | greenhouse |
+| 2026-09-28 | reddit | [Senior Staff Machine Learning Engineer, Ads Ranking](https://job-boards.greenhouse.io/reddit/jobs/8201359) | Remote - United States | greenhouse |
+| 2026-09-28 | reddit | [Staff Data Scientist, Marketing](https://job-boards.greenhouse.io/reddit/jobs/7445240) | Remote - United States | greenhouse |
+| 2026-09-28 | reddit | [Staff Machine Learning Engineer, App Ads Modeling](https://job-boards.greenhouse.io/reddit/jobs/8187652) | Remote - United States | greenhouse |
+| 2026-09-28 | reddit | [Staff Machine Learning Engineer, Retrieval](https://job-boards.greenhouse.io/reddit/jobs/8178085) | Remote - United States | greenhouse |
+| 2026-09-28 | reddit | [Senior Staff Machine Learning Systems Engineer, Ads ML Platform](https://job-boards.greenhouse.io/reddit/jobs/8157275) | Remote - United States | greenhouse |
+| 2026-09-28 | reddit | [Senior Data Scientist - Consumer](https://job-boards.greenhouse.io/reddit/jobs/8126946) | Remote - United States | greenhouse |
+| 2026-09-28 | reddit | [Staff Data Scientist, Ads](https://job-boards.greenhouse.io/reddit/jobs/7721787) | Remote - United States | greenhouse |
+| 2026-09-28 | reddit | [Staff Data Scientist, Ads](https://job-boards.greenhouse.io/reddit/jobs/7721851) | Remote - Ontario, Canada | greenhouse |
+| 2026-09-28 | reddit | [Senior Data Scientist, Ads](https://job-boards.greenhouse.io/reddit/jobs/8104403) | Remote - United States | greenhouse |
+| 2026-09-28 | reddit | [Senior Machine Learning Systems Engineer, Ads ML Experience Platform](https://job-boards.greenhouse.io/reddit/jobs/8112967) | Remote - United States | greenhouse |
 | 2026-09-27 | thrivemarket | [Principal Machine Learning Engineer](https://thrivemarketjobs.com/job_posting.html?id=4421164009&gh_jid=4421164009) | Playa Vista, CA or Remote | greenhouse |
 | 2026-09-27 | roblox | [Distinguished Engineer, Machine Learning Systems – Economy](https://careers.roblox.com/jobs/7332473?gh_jid=7332473) | San Mateo, CA, United States | greenhouse |
 | 2026-09-27 | roblox | [Principal Machine Learning Infrastructure Engineer, Ads & Discovery](https://careers.roblox.com/jobs/7351202?gh_jid=7351202) | San Mateo, CA, United States | greenhouse |
@@ -21,21 +37,6 @@ _Last updated: 2026-09-27 18:21 CDT_
 | 2026-09-27 | roblox | [Senior Data Engineer, Economy](https://careers.roblox.com/jobs/8172297?gh_jid=8172297) | San Mateo, CA, United States | greenhouse |
 | 2026-09-27 | roblox | [Principal Machine Learning Engineer, Alt Defense](https://careers.roblox.com/jobs/8187377?gh_jid=8187377) | San Mateo, CA, United States | greenhouse |
 | 2026-09-27 | roblox | [Senior Data Scientist, Engine Infra](https://careers.roblox.com/jobs/8193712?gh_jid=8193712) | San Mateo, CA, United States | greenhouse |
-| 2026-09-27 | reddit | [Senior Machine Learning Engineer, Ads Optimization](https://job-boards.greenhouse.io/reddit/jobs/8029120) | Remote - United States | greenhouse |
-| 2026-09-27 | reddit | [Staff Data Scientist - Ads Measurement, Signals, Privacy](https://job-boards.greenhouse.io/reddit/jobs/8072076) | Remote - United States | greenhouse |
-| 2026-09-27 | reddit | [Senior Staff Data Scientist - Consumer Experimentation](https://job-boards.greenhouse.io/reddit/jobs/7974504) | Remote - United States | greenhouse |
-| 2026-09-27 | reddit | [Senior Staff Data Scientist - Consumer Experimentation](https://job-boards.greenhouse.io/reddit/jobs/7974507) | Remote - Ontario, Canada | greenhouse |
-| 2026-09-27 | reddit | [Senior Staff Machine Learning Engineer, Ads Ranking](https://job-boards.greenhouse.io/reddit/jobs/8201359) | Remote - United States | greenhouse |
-| 2026-09-27 | reddit | [Staff Data Scientist, Marketing](https://job-boards.greenhouse.io/reddit/jobs/7445240) | Remote - United States | greenhouse |
-| 2026-09-27 | reddit | [Staff Data Scientist, Marketing](https://job-boards.greenhouse.io/reddit/jobs/7931000) | Remote - Ontario, Canada | greenhouse |
-| 2026-09-27 | reddit | [Staff Machine Learning Engineer, App Ads Modeling](https://job-boards.greenhouse.io/reddit/jobs/8187652) | Remote - United States | greenhouse |
-| 2026-09-27 | reddit | [Senior Data Scientist - Consumer](https://job-boards.greenhouse.io/reddit/jobs/8126946) | Remote - United States | greenhouse |
-| 2026-09-27 | reddit | [Senior Staff Machine Learning Systems Engineer, Ads ML Platform](https://job-boards.greenhouse.io/reddit/jobs/8157275) | Remote - United States | greenhouse |
-| 2026-09-27 | reddit | [Staff Data Scientist, Ads](https://job-boards.greenhouse.io/reddit/jobs/7721787) | Remote - United States | greenhouse |
-| 2026-09-27 | reddit | [Staff Machine Learning Engineer, Retrieval](https://job-boards.greenhouse.io/reddit/jobs/8178085) | Remote - United States | greenhouse |
-| 2026-09-27 | reddit | [Senior Data Scientist, Ads](https://job-boards.greenhouse.io/reddit/jobs/8104403) | Remote - United States | greenhouse |
-| 2026-09-27 | reddit | [Senior Machine Learning Systems Engineer, Ads ML Experience Platform](https://job-boards.greenhouse.io/reddit/jobs/8112967) | Remote - United States | greenhouse |
-| 2026-09-27 | reddit | [Staff Data Scientist, Ads](https://job-boards.greenhouse.io/reddit/jobs/7721851) | Remote - Ontario, Canada | greenhouse |
 | 2026-09-26 | janestreet | [Quantitative Researcher](https://www.janestreet.com/join-jane-street/apply/6302325002?gh_jid=6302325002) | New York, New York, United States | greenhouse |
 | 2026-09-26 | heartflowinc | [Data Analyst](https://job-boards.greenhouse.io/heartflowinc/jobs/6209029004) | Rohnert Park, CA; San Francisco Bay Area, CA | greenhouse |
 | 2026-09-26 | agero | [Big Data Engineer](https://www.agero.com/available-jobs?gh_jid=8747416002) | Remote | greenhouse |
@@ -228,16 +229,9 @@ _Last updated: 2026-09-27 18:21 CDT_
 | 2026-09-25 | monzo | [Staff Analytics Engineer](https://job-boards.greenhouse.io/monzo/jobs/8013699) | Cardiff, London or Remote (UK) | greenhouse |
 | 2026-09-25 | oportun | [Senior Data Engineer - Capital Markets (R13923)](https://job-boards.greenhouse.io/oportun/jobs/4678047005) | Remote - MX | greenhouse |
 | 2026-09-25 | nex | [Senior Data Scientist](https://job-boards.greenhouse.io/nex/jobs/5385458008) | Remote US | greenhouse |
-| 2026-09-25 | nex | [Software Engineer, ML Engineering](https://job-boards.greenhouse.io/nex/jobs/5281628008) | Hong Kong or Remote | greenhouse |
 | 2026-09-25 | nex | [Software Engineer, ML Engineering](https://job-boards.greenhouse.io/nex/jobs/5281656008) | Singapore or Remote | greenhouse |
+| 2026-09-25 | nex | [Software Engineer, ML Engineering](https://job-boards.greenhouse.io/nex/jobs/5281628008) | Hong Kong or Remote | greenhouse |
 | 2026-09-25 | paretocaptiveservicesllc | [Lead Data Scientist](https://job-boards.greenhouse.io/paretocaptiveservicesllc/jobs/4708963006) | Remote | greenhouse |
 | 2026-09-25 | paretocaptiveservicesllc | [Senior Data Engineer](https://job-boards.greenhouse.io/paretocaptiveservicesllc/jobs/4705491006) | Remote | greenhouse |
-| 2026-09-25 | spacex | [Software Engineer (AI Data Engineering)](https://boards.greenhouse.io/spacex/jobs/8843640002?gh_jid=8843640002) | Hawthorne, CA | greenhouse |
-| 2026-09-25 | aperiatechnologies | [Hardware Data Analyst](https://job-boards.greenhouse.io/aperiatechnologies/jobs/6198945004) | San Mateo, CA | greenhouse |
-| 2026-09-25 | aperiatechnologies | [Hardware Data Analyst](https://job-boards.greenhouse.io/aperiatechnologies/jobs/6198899004) | Detroit Metropolitan, MI | greenhouse |
-| 2026-09-25 | neuralink | [Machine Learning Engineer](https://boards.greenhouse.io/neuralink/jobs/5663271003?gh_jid=5663271003) | Austin, Texas, United States; South San Francisco, California, United States | greenhouse |
-| 2026-09-25 | andurilindustries | [Software Engineer- Machine Learning](https://boards.greenhouse.io/andurilindustries/jobs/5248869007?gh_jid=5248869007) | Waltham, Massachusetts, United States | greenhouse |
-| 2026-09-25 | andurilindustries | [Software Engineer- Machine Learning](https://boards.greenhouse.io/andurilindustries/jobs/5124403007?gh_jid=5124403007) | Broomfield, Colorado, United States | greenhouse |
-| 2026-09-25 | liftoff | [Machine Learning Engineer](https://liftoff.io/job/7909043?gh_jid=7909043) | United States (Remote) | greenhouse |
 
 [Back to README](../../README.md)
