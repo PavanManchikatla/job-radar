@@ -5458,7 +5458,6 @@ wallapop	no_matching_jobs
 essential	no_matching_jobs
 tyreeanddangelo	no_matching_jobs
 loop	http_404
-airbnb	no_matching_jobs
 cellsignalingtechnology79	no_matching_jobs
 aifleet	http_404
 baubap	no_matching_jobs
@@ -7303,7 +7302,6 @@ remoracarbon	no_matching_jobs
 ionq	no_matching_jobs
 gameseven	no_matching_jobs
 wormholefoundation	http_404
-pilothq	no_matching_jobs
 workoverseas	no_matching_jobs
 ngcash	http_404
 demandscience	no_matching_jobs

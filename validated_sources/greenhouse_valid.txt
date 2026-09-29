@@ -622,3 +622,5 @@ otrcapital1
 neweratech
 warp
 carta
+airbnb
+pilothq
