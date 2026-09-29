@@ -134,3 +134,6 @@ velo3d
 xcimer
 zaimler
 significanceinc
+firstup
+altarum
+eleks

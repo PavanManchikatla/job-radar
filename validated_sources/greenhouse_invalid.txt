@@ -5265,7 +5265,6 @@ mdclarity	no_jobs
 arcesiumllc	no_matching_jobs
 capitalrx	http_404
 aiserajobs	http_404
-netdocuments	no_matching_jobs
 five9	no_matching_jobs
 l5	http_404
 evolutionparkingguestservices	http_404
@@ -6825,7 +6824,6 @@ fonoa	http_404
 beam	no_matching_jobs
 crowdstreet	no_jobs
 tomorrowhealth	http_404
-palmettocleantech	no_matching_jobs
 referralsuseonly	no_matching_jobs
 timescale	http_404
 wakam	http_404

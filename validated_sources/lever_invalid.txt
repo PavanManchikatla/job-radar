@@ -3187,7 +3187,6 @@ lumapps	http_404
 reach	http_404
 igloo	http_404
 claromentis	http_404
-firstup	no_matching_jobs
 braze	http_404
 wit.ai	http_404
 chatra	http_404
@@ -9427,7 +9426,6 @@ bitwiseinvestments	http_404
 bhg-inc	no_matching_jobs
 ampeco-global	no_matching_jobs
 bigblue	no_matching_jobs
-altarum	no_matching_jobs
 bloomon	no_matching_jobs
 applydigital	no_matching_jobs
 bluecatnetworks	no_matching_jobs
@@ -9559,7 +9557,6 @@ edpuzzle	no_matching_jobs
 educationatwork	http_404
 ekohealth	no_matching_jobs
 deepjudge	http_404
-eleks	no_matching_jobs
 demiurgestudios	no_matching_jobs
 eleostech	no_matching_jobs
 emersoncollective	no_jobs
