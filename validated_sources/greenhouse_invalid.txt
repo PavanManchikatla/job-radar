@@ -5487,7 +5487,6 @@ artefactjobs	no_matching_jobs
 xealth	no_matching_jobs
 versprite	no_matching_jobs
 innophaseiot	no_matching_jobs
-carta	no_matching_jobs
 mochihealth	no_matching_jobs
 fetchrewards	http_404
 sanityio	http_404

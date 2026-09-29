@@ -17776,7 +17776,6 @@ sesame	no_jobs
 silviaterra	http_404
 sitka	http_404
 sixfoldbioscience	http_404
-significanceinc	no_matching_jobs
 sila	no_matching_jobs
 skims	http_404
 skillshare	http_404
