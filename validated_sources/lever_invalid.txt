@@ -10135,7 +10135,6 @@ whoop	no_jobs
 wingtra-2	no_matching_jobs
 vesta-tech	http_404
 wintermute-trading	no_matching_jobs
-wisecode	no_matching_jobs
 vivo-care	no_matching_jobs
 wolve	http_404
 workingfamilies	no_matching_jobs

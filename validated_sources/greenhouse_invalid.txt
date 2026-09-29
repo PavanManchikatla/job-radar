@@ -1873,7 +1873,6 @@ sucker punch	http_404
 polyphony digital	http_404
 santa monica	http_404
 media molecule	http_404
-nintendo	no_matching_jobs
 guerrilla games	http_404
 team asobi	http_404
 bluepoint	http_404
@@ -12268,7 +12267,6 @@ criticalideas	http_404
 cppreparatoryschool	no_matching_jobs
 crocscorporate	http_404
 coveoen	no_matching_jobs
-cpisecurity	no_matching_jobs
 crigroup	http_404
 crossmint	http_404
 crossbordersolutions	http_404
@@ -13083,7 +13081,6 @@ kambi	no_matching_jobs
 kateschwartzphysicaltherapyjobs	no_matching_jobs
 keensoftwarehouseas	no_matching_jobs
 keeptruckin	http_404
-keenfootwear	no_matching_jobs
 kao	no_matching_jobs
 khealth	http_404
 jdsports	no_matching_jobs
