@@ -6097,7 +6097,6 @@ glydways	no_matching_jobs
 vulncheck	no_matching_jobs
 henrymeds	no_matching_jobs
 millenniumspacesystems	http_404
-welbehealth	no_matching_jobs
 anewclimate	http_404
 amnh	no_matching_jobs
 nova401	no_matching_jobs
@@ -6976,7 +6975,6 @@ enchantedforest	no_matching_jobs
 flipdish	no_matching_jobs
 comstock	no_matching_jobs
 dots	no_matching_jobs
-refurbed	no_matching_jobs
 airtrunk	no_matching_jobs
 nebius	no_matching_jobs
 paloit	http_404
@@ -12953,7 +12951,6 @@ imply	no_matching_jobs
 infinitereality	http_404
 indomo	no_matching_jobs
 ifrsfoundation	no_matching_jobs
-inflect	no_matching_jobs
 inflammatix	no_jobs
 infusemedia	http_404
 ingenuitystudios	http_404
