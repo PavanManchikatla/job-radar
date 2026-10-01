@@ -8046,7 +8046,6 @@ laboratoirertingscom	no_matching_jobs
 championsgroupholdings	no_matching_jobs
 proton	no_matching_jobs
 tia	no_matching_jobs
-edmentum	no_matching_jobs
 vectara	no_matching_jobs
 snowcompanies	no_jobs
 latam	http_404
