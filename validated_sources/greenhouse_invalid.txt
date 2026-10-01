@@ -6429,7 +6429,6 @@ skylotechnologies	http_404
 hypori	no_matching_jobs
 kicksaw	http_404
 nobuhoteltoronto	no_matching_jobs
-tastytrade	no_matching_jobs
 greenhouse	no_matching_jobs
 boingo	no_matching_jobs
 oasissecurity	no_matching_jobs
