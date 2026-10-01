@@ -5048,7 +5048,6 @@ blocpower	http_404
 thena	no_jobs
 hyphenconnect	http_404
 invitae	http_404
-prove	no_matching_jobs
 commonwealth	http_404
 vestmark	no_matching_jobs
 supernal	no_matching_jobs
@@ -5327,7 +5326,6 @@ beamtherapeutics	no_matching_jobs
 emotainizioengage	no_matching_jobs
 acgcareers	no_jobs
 accuweather	no_matching_jobs
-edb	no_matching_jobs
 compliancygroupllc	no_matching_jobs
 phiture2	no_matching_jobs
 goalhonduras	no_matching_jobs
@@ -8252,7 +8250,6 @@ riverfinancial	http_404
 acutechgroupinc	no_matching_jobs
 acclarity	http_404
 rescue	http_404
-shakepayfr	no_matching_jobs
 permariskmanagement	no_matching_jobs
 spacexglobal	no_matching_jobs
 weavegrid	http_404
