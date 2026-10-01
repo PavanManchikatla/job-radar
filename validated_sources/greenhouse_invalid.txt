@@ -6358,7 +6358,6 @@ cvx	no_matching_jobs
 knowbe4	no_matching_jobs
 olaplexcareers	no_matching_jobs
 peptilogics	no_matching_jobs
-assetwatch	no_matching_jobs
 climateai	http_404
 encompasstechnologiesllp	no_jobs
 jadebiosciences	no_matching_jobs

@@ -638,3 +638,4 @@ tastytrade
 prove
 edb
 shakepayfr
+assetwatch
