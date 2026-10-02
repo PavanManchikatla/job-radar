@@ -6822,7 +6822,6 @@ wakam	http_404
 montaihealth	no_matching_jobs
 follettsoftware	no_matching_jobs
 blockstream	http_404
-pingidentity	no_matching_jobs
 nightdivestudios	no_jobs
 kensingtontours	no_matching_jobs
 knab	http_404
@@ -7869,7 +7868,6 @@ valiantharborinternationalllc	http_404
 eastharlemtutorialprogram	no_matching_jobs
 pipe17	no_matching_jobs
 flockhomes	no_matching_jobs
-babylist	no_matching_jobs
 vailclinicincdbavailhealthhospital	no_matching_jobs
 devries	no_jobs
 crunchbase	http_404

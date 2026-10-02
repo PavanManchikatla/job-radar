@@ -142,3 +142,4 @@ dailywire
 cimgroup
 cfsenergy
 quandri
+picklerobot
