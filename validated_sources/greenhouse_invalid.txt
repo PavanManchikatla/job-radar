@@ -5521,7 +5521,6 @@ proskill	no_matching_jobs
 automatticcareers	no_matching_jobs
 enterpret	no_matching_jobs
 arcellx	http_404
-ophelia	no_matching_jobs
 axonag	no_matching_jobs
 ultimagenomics	no_matching_jobs
 stackline	no_matching_jobs
@@ -5755,7 +5754,6 @@ levanta	no_matching_jobs
 activate	no_matching_jobs
 specterops	no_matching_jobs
 clubcolors	no_matching_jobs
-fingerprint	no_matching_jobs
 ccscorpcareers	no_jobs
 accessholdingsmanagementfirm	no_matching_jobs
 revivn	no_matching_jobs
@@ -5877,7 +5875,6 @@ bluecoreinc	http_404
 codepath	no_matching_jobs
 rebuildmanufacturing	no_matching_jobs
 smavagmbh	no_matching_jobs
-advancedspace	no_matching_jobs
 stealthceo	http_404
 lacarguy	no_matching_jobs
 zepzgroup	http_404
@@ -7476,7 +7473,6 @@ qphox	no_matching_jobs
 homewardhealth	http_404
 benchling	http_404
 placerlabs	no_matching_jobs
-fusionworldwide	no_matching_jobs
 piclo	http_404
 showpad	no_matching_jobs
 northmarq	no_matching_jobs
@@ -8750,7 +8746,6 @@ neuraflash	no_matching_jobs
 droit	no_jobs
 fal	http_404
 lumosfiber	no_matching_jobs
-supplyhouse	no_matching_jobs
 seed	no_matching_jobs
 leddartech	http_404
 pixability	no_matching_jobs
@@ -13061,7 +13056,6 @@ kargo	no_matching_jobs
 karunatherapeutics	http_404
 jrc	no_matching_jobs
 kava	http_404
-kapitus	no_matching_jobs
 kambi	no_matching_jobs
 kateschwartzphysicaltherapyjobs	no_matching_jobs
 keensoftwarehouseas	no_matching_jobs

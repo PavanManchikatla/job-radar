@@ -644,3 +644,9 @@ workhelix
 sirenopt
 pingidentity
 babylist
+ophelia
+fingerprint
+advancedspace
+fusionworldwide
+supplyhouse
+kapitus
