@@ -9493,7 +9493,6 @@ clinicalhealthnetworkfortransformation	http_404
 clearpoint	no_matching_jobs
 cloudinary	no_matching_jobs
 collectlyinc	http_404
-cfsenergy	no_matching_jobs
 coingecko	no_matching_jobs
 colibrigroup	no_matching_jobs
 color	http_404
@@ -17503,7 +17502,6 @@ purplelandmgmt	no_matching_jobs
 quantgene	http_404
 purple-technology	no_matching_jobs
 qrypt	no_matching_jobs
-quandri	no_matching_jobs
 quantlabs	http_404
 qualysoft	no_matching_jobs
 quantumworkplace	http_404

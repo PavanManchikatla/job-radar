@@ -5700,7 +5700,6 @@ eei	no_matching_jobs
 vianttechnology	no_matching_jobs
 siftscience	http_404
 siegelfamilyendowment	no_matching_jobs
-stackadapt	no_matching_jobs
 lastpass	no_matching_jobs
 getscale	no_matching_jobs
 lucidsoftware	no_matching_jobs
@@ -7069,7 +7068,6 @@ acryldata	no_matching_jobs
 dodgshunmedlin	no_matching_jobs
 buildingindustrypartners	http_404
 alayacare	no_matching_jobs
-workhelix	no_matching_jobs
 ttcglobal	no_matching_jobs
 calyxo	no_matching_jobs
 arlosolutionsllc	no_matching_jobs
@@ -7847,7 +7845,6 @@ mindbody	no_matching_jobs
 newglobesandbox	no_matching_jobs
 medeloop	no_matching_jobs
 redpandadata	http_404
-sirenopt	no_matching_jobs
 virtru	no_matching_jobs
 aluinternalopenings	no_jobs
 tesseratherapeutics	no_matching_jobs

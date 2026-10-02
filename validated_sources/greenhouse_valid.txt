@@ -639,3 +639,6 @@ prove
 edb
 shakepayfr
 assetwatch
+stackadapt
+workhelix
+sirenopt

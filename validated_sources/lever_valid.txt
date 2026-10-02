@@ -140,3 +140,5 @@ eleks
 wisecode
 dailywire
 cimgroup
+cfsenergy
+quandri
