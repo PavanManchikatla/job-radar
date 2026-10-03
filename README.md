@@ -1,15 +1,17 @@
 ## Jobs Feed (auto-updated)
 
 <!-- JOBS:START -->
-_Last updated: 2026-10-02 23:21 CDT_
+_Last updated: 2026-10-03 05:13 CDT_
 
 | Posted | Company | Title | Location | Source |
 |---|---|---|---|---|
+| 2026-10-03 | redwoodmaterials | [Senior Analytics Engineer](https://boards.greenhouse.io/redwoodmaterials/jobs/6116721004?gh_jid=6116721004) | San Francisco, California, United States | greenhouse |
+| 2026-10-03 | twilio | [Sr. Marketing Strategy and Analytics Manager](https://job-boards.greenhouse.io/twilio/jobs/8189769) | Remote - US | greenhouse |
+| 2026-10-03 | thebaltimorebanner | [Senior Data Engineer](https://job-boards.greenhouse.io/thebaltimorebanner/jobs/6015818004) | Baltimore, MD | greenhouse |
 | 2026-10-03 | codeforamerica | [Staff Data Engineer](https://job-boards.greenhouse.io/codeforamerica/jobs/8188375) | Remote (in the U.S.) | greenhouse |
 | 2026-10-03 | redwoodmaterials | [Data Engineering Manager](https://boards.greenhouse.io/redwoodmaterials/jobs/6008522004?gh_jid=6008522004) | McCarran, NV | greenhouse |
 | 2026-10-03 | spacex | [Sr. AI Engineer, Compute Infrastructure, Special Programs - Top Secret Clearance](https://boards.greenhouse.io/spacex/jobs/8865268002?gh_jid=8865268002) | Hawthorne, CA | greenhouse |
 | 2026-10-03 | spacex | [Sr. AI Engineer, Compute Infrastructure, Special Programs - Top Secret Clearance](https://boards.greenhouse.io/spacex/jobs/8865267002?gh_jid=8865267002) | Redmond, WA | greenhouse |
-| 2026-10-03 | redwoodmaterials | [Senior Analytics Engineer](https://boards.greenhouse.io/redwoodmaterials/jobs/6116721004?gh_jid=6116721004) | San Francisco, California, United States | greenhouse |
 | 2026-10-03 | spacex | [AI Engineer, Compute Infrastructure, Special Programs - Top Secret Clearance](https://boards.greenhouse.io/spacex/jobs/8865231002?gh_jid=8865231002) | Hawthorne, CA | greenhouse |
 | 2026-10-03 | spacex | [AI Engineer, Compute Infrastructure, Special Programs - Top Secret Clearance](https://boards.greenhouse.io/spacex/jobs/8865230002?gh_jid=8865230002) | Redmond, WA | greenhouse |
 | 2026-10-03 | reddit | [Senior Machine Learning Engineer, Ads Optimization](https://job-boards.greenhouse.io/reddit/jobs/8029120) | Remote - United States | greenhouse |
@@ -455,12 +457,4 @@ _Last updated: 2026-10-02 23:21 CDT_
 | 2026-09-30 | imc | [Quantitative Researcher – Futures](https://job-boards.eu.greenhouse.io/imc/jobs/4740859101) | Chicago, United States; New York, United States | greenhouse |
 | 2026-09-30 | imc | [Quantitative Researcher - Options](https://job-boards.eu.greenhouse.io/imc/jobs/4286816101) | Chicago, United States | greenhouse |
 | 2026-09-30 | monzo | [Staff Data Scientist](https://job-boards.greenhouse.io/monzo/jobs/8232732) | Barcelona; Cardiff, London or Remote (UK); London | greenhouse |
-| 2026-09-30 | signifyd95 | [Senior Engineering Manager, Machine Learning](https://job-boards.greenhouse.io/signifyd95/jobs/8126825) | United States (Remote); | greenhouse |
-| 2026-09-30 | signifyd95 | [Data Scientist II](https://job-boards.greenhouse.io/signifyd95/jobs/8103274) | London, UK; United Kingdom (Remote); | greenhouse |
-| 2026-09-30 | signifyd95 | [Senior Machine Learning Engineer  I // II](https://job-boards.greenhouse.io/signifyd95/jobs/7586185) | Denver, CO; Seattle, WA; Chicago, IL (Remote); United States (Remote); | greenhouse |
-| 2026-09-30 | mercury | [Senior Machine Learning Operations Engineer](https://job-boards.greenhouse.io/mercury/jobs/6186862004) | San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States | greenhouse |
-| 2026-09-30 | mercury | [Senior Data Scientist - Risk ML](https://job-boards.greenhouse.io/mercury/jobs/6179231004) | San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States | greenhouse |
-| 2026-09-30 | mercury | [Staff Data Scientist - Risk ML](https://job-boards.greenhouse.io/mercury/jobs/6178814004) | San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States | greenhouse |
-| 2026-09-30 | seranking | [Lead Applied Scientist - AI Search & Brand Intelligence](https://seranking.com/careers.html/?gh_jid=5426843008) | Europe - Remote | greenhouse |
-| 2026-09-30 | seranking | [Senior Data Analyst](https://seranking.com/careers.html/?gh_jid=5435151008) | Europe - Remote | greenhouse |
 <!-- JOBS:END -->
