@@ -5413,7 +5413,6 @@ caylent	no_matching_jobs
 aquaticcapitalmanagement	no_matching_jobs
 a3c41b8b71eff8c4	no_matching_jobs
 comparaja	no_matching_jobs
-phxproduction	no_matching_jobs
 movementstrategy	no_matching_jobs
 m3	no_matching_jobs
 goodunited	http_404
@@ -5696,7 +5695,6 @@ boldbusiness	http_404
 brainpop	no_matching_jobs
 thetustingroupasp	http_404
 eei	no_matching_jobs
-vianttechnology	no_matching_jobs
 siftscience	http_404
 siegelfamilyendowment	no_matching_jobs
 lastpass	no_matching_jobs
@@ -6172,7 +6170,6 @@ integraladscience	http_404
 edreports	no_matching_jobs
 peloton	no_matching_jobs
 beaconsoftware	http_404
-gruns	no_matching_jobs
 kernagency	no_jobs
 terraclear	no_matching_jobs
 socialpoint	no_jobs
