@@ -1,9 +1,10 @@
 # Jobs Feed (Page 1/1)
 
-_Last updated: 2026-10-03 14:33 CDT_
+_Last updated: 2026-10-03 18:13 CDT_
 
 | Posted | Company | Title | Location | Source |
 |---|---|---|---|---|
+| 2026-10-03 | redwoodmaterials | [Senior Analytics Engineer](https://boards.greenhouse.io/redwoodmaterials/jobs/6116721004?gh_jid=6116721004) | San Francisco, California, United States | greenhouse |
 | 2026-10-03 | roblox | [Distinguished Engineer, Machine Learning Systems – Economy](https://careers.roblox.com/jobs/7332473?gh_jid=7332473) | San Mateo, CA, United States | greenhouse |
 | 2026-10-03 | roblox | [Principal Machine Learning Infrastructure Engineer, Ads & Discovery](https://careers.roblox.com/jobs/7351202?gh_jid=7351202) | San Mateo, CA, United States | greenhouse |
 | 2026-10-03 | roblox | [Senior Machine Learning Engineer, Ads](https://careers.roblox.com/jobs/7351220?gh_jid=7351220) | San Mateo, CA, United States | greenhouse |
@@ -21,7 +22,6 @@ _Last updated: 2026-10-03 14:33 CDT_
 | 2026-10-03 | roblox | [Principal Machine Learning Engineer, Alt Defense](https://careers.roblox.com/jobs/8187377?gh_jid=8187377) | San Mateo, CA, United States | greenhouse |
 | 2026-10-03 | roblox | [Senior Data Scientist, Engine Infra](https://careers.roblox.com/jobs/8193712?gh_jid=8193712) | San Mateo, CA, United States | greenhouse |
 | 2026-10-03 | roblox | [Senior Software Engineer, ML Infra - Asset Safety](https://careers.roblox.com/jobs/8224452?gh_jid=8224452) | San Mateo, CA, United States | greenhouse |
-| 2026-10-03 | redwoodmaterials | [Senior Analytics Engineer](https://boards.greenhouse.io/redwoodmaterials/jobs/6116721004?gh_jid=6116721004) | San Francisco, California, United States | greenhouse |
 | 2026-10-03 | duolingo | [Staff AI Research Engineer](https://careers.duolingo.com/jobs/8610345002?gh_jid=8610345002) | New York, NY; Pittsburgh, PA | greenhouse |
 | 2026-10-03 | Kraken Tech | [Senior Software Engineer - AI Foundations](https://news.ycombinator.com/item?id=49945738) | London, Paris, Berlin, Tokyo, New York, Remote, Full Time, https://kraken.tech Help us use technology to make a big green dent in the universe! Kraken powers some of the most innovative global developments in energy. We’re a technology company focused on creating a smart, sustainable energy system. From optimising renewable generation, creating a more intelligent grid and enabling utilities to provide excellent customer experiences, our operating system for energy is transforming the industry around the world in a way that benefits everyone. You’ll work in the AI Foundations team which exists to enable AI across the entire company. We build the shared platforms, tooling and patterns that enable engineering & product teams to safely, reliably and efficiently use machine learning and generative AI across the business. This is not a research lab. This is a delivery-focused team that sits at the intersection of platform engineering, applied ML and developer enablement. Apply through the link below, or send me an email to omer.korner at our domain name. https://jobs.ashbyhq.com/krakentech/28653f8c-bc4d-4159-a331-... | hn_hiring |
 | 2026-10-03 | welbehealth | [AI Engineer](https://job-boards.greenhouse.io/welbehealth/jobs/8599687002) | Remote, CA, USA | greenhouse |
@@ -383,20 +383,5 @@ _Last updated: 2026-10-03 14:33 CDT_
 | 2026-09-30 | billcom | [Risk Data Analyst](https://www.bill.com/job?6208561004&gh_jid=6208561004) | United States | greenhouse |
 | 2026-09-30 | pilothq | [Sr. Marketing Data Analyst](https://job-boards.greenhouse.io/pilothq/jobs/8841589002) | San Francisco, CA | greenhouse |
 | 2026-09-30 | andurilindustries | [Analytics Engineer, Sentry](https://boards.greenhouse.io/andurilindustries/jobs/5226536007?gh_jid=5226536007) | Irvine, California, United States | greenhouse |
-| 2026-09-30 | idmeuniversityrecruiting | [Summer 2027 - Data Scientist (New Grad)](https://job-boards.greenhouse.io/idmeuniversityrecruiting/jobs/7986505003) | Mountain View, CA | greenhouse |
-| 2026-09-30 | edmentum | [Research Scientist, Applied AI Research](https://job-boards.greenhouse.io/edmentum/jobs/6211309004) | United States | greenhouse |
-| 2026-09-30 | thenewyorktimes | [Business Correspondent, Artificial Intelligence and Emerging Technologies](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4724444005) | Remote - USA; San Francisco, CA | greenhouse |
-| 2026-09-30 | thenewyorktimes | [Business Correspondent, Artificial Intelligence and Emerging Technologies](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4724410005) | San Francisco, CA | greenhouse |
-| 2026-09-30 | defenseunicorns | [Data Engineer (FedD024)](https://job-boards.greenhouse.io/defenseunicorns/jobs/5076453007) | United States - Remote | greenhouse |
-| 2026-09-30 | defenseunicorns | [FDE Data Engineer- Space (FedD141/FedD147)](https://job-boards.greenhouse.io/defenseunicorns/jobs/5169676007) | United States - Remote | greenhouse |
-| 2026-09-30 | defenseunicorns | [Senior FDE Data Engineer (FedD140/FedD148)](https://job-boards.greenhouse.io/defenseunicorns/jobs/5169665007) | United States - Remote | greenhouse |
-| 2026-09-30 | thenewyorktimes | [Business Correspondent, Artificial Intelligence and Emerging Technologies](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4701630005) | San Francisco, CA | greenhouse |
-| 2026-09-30 | hippo70 | [Actuarial Data Scientist](https://boards.greenhouse.io/hippo70/jobs/8859178002?gh_jid=8859178002) | Austin, Texas, United States; Dallas, Texas, United States; Morristown, New Jersey, United States; San Jose, California, United States | greenhouse |
-| 2026-09-30 | xai | [Analytics Engineer - X](https://job-boards.greenhouse.io/xai/jobs/5210564007) | Palo Alto, CA | greenhouse |
-| 2026-09-30 | xai | [Machine Learning Engineer - Ads](https://job-boards.greenhouse.io/xai/jobs/4996796007) | Palo Alto, CA | greenhouse |
-| 2026-09-30 | xai | [Machine Learning Engineer - Recommendation Systems](https://job-boards.greenhouse.io/xai/jobs/4703144007) | Palo Alto, CA | greenhouse |
-| 2026-09-30 | xai | [Software Engineer - X Data Engineering](https://job-boards.greenhouse.io/xai/jobs/5182183007) | Palo Alto, CA | greenhouse |
-| 2026-09-30 | xai | [Sr. IT Data Engineer](https://job-boards.greenhouse.io/xai/jobs/5167318007) | Palo Alto, CA | greenhouse |
-| 2026-09-30 | gatherai | [Software Development Engineer II – Data Engineer](https://job-boards.greenhouse.io/gatherai/jobs/5252951007) | Remote (India) | greenhouse |
 
 [Back to README](../../README.md)
