@@ -871,7 +871,6 @@ anywhere	http_404
 knock	no_matching_jobs
 knight frank	http_404
 berkshire hathaway	http_404
-sothebys	no_matching_jobs
 christies	http_404
 coldwell banker	http_404
 century 21	http_404
@@ -7700,7 +7699,6 @@ springsworkstherapeutics	no_matching_jobs
 gocardless	no_matching_jobs
 joskoasp	no_matching_jobs
 rollstack	http_404
-convoso	no_matching_jobs
 guerrilla	http_404
 pyka	http_404
 ofallonguidepost	http_404
@@ -8597,7 +8595,6 @@ worldsuntold	http_404
 vestwell	no_matching_jobs
 livingstonassociates	http_404
 shardeumfoundation	http_404
-tubescience52	no_matching_jobs
 alumis	no_matching_jobs
 americaneedsyou	http_404
 bulletfarm	http_404
