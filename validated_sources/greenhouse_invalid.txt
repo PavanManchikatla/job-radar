@@ -5249,7 +5249,6 @@ seenhealth	no_matching_jobs
 bridgebio	no_matching_jobs
 mejuri	no_matching_jobs
 lockwood	no_matching_jobs
-pfm	no_matching_jobs
 grasshopperasia	no_matching_jobs
 fiveringsllc	no_matching_jobs
 horacemannagents	no_matching_jobs
@@ -5451,7 +5450,6 @@ menyala	http_404
 aippublishing	no_matching_jobs
 bees	no_matching_jobs
 baubap	no_matching_jobs
-toshibaglobalcommercesolutions	no_matching_jobs
 lilium	http_404
 essential	no_matching_jobs
 pinegaterenewables	http_404
@@ -6930,7 +6928,6 @@ cloudbedsthirdpartyboard	no_matching_jobs
 samcarthiring	http_404
 openfarminc	no_matching_jobs
 moon	no_matching_jobs
-tenstorrent	no_matching_jobs
 quadbridge	no_matching_jobs
 headoutreferrals	no_jobs
 arkestroinc	no_matching_jobs
@@ -7418,7 +7415,6 @@ velocityelectronics	no_matching_jobs
 sonymusic	http_404
 granum	no_matching_jobs
 antenna	no_matching_jobs
-cision	no_matching_jobs
 stylitics	http_404
 withumsmithbrown	http_404
 torq	no_matching_jobs
@@ -7757,7 +7753,6 @@ kins	http_404
 pricefox	no_matching_jobs
 laporteusa	no_matching_jobs
 lisc	no_matching_jobs
-sixfold	no_matching_jobs
 ifoodcarreiras	no_matching_jobs
 ddbhealth	no_jobs
 swayboxstudios	no_matching_jobs

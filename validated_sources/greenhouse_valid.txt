@@ -536,3 +536,8 @@ zestai
 coherehealth
 nextiva
 resilience
+pfm
+toshibaglobalcommercesolutions
+tenstorrent
+cision
+sixfold
