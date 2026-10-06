@@ -10052,7 +10052,6 @@ tagup	no_matching_jobs
 superiorexecutiveandlegalrecruiting	no_matching_jobs
 terrascend	no_matching_jobs
 terrahq	no_matching_jobs
-theathletic	no_matching_jobs
 theblockcrypto	no_jobs
 redi	http_404
 thebouqs	http_404
