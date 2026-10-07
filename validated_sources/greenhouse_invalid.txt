@@ -5149,7 +5149,6 @@ kiavi	no_jobs
 linqia	no_matching_jobs
 crescendohealth	no_matching_jobs
 vikingglobalinvestors	no_matching_jobs
-thoughtworks	no_matching_jobs
 turtlerockstudios	no_jobs
 medsien	no_matching_jobs
 cdpjobs	http_404
