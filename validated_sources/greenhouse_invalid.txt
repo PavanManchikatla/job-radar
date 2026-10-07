@@ -5026,7 +5026,6 @@ andesite	no_matching_jobs
 qcentrix	http_404
 ohsufoundation	no_matching_jobs
 adahealth	no_jobs
-octanelending	no_matching_jobs
 polyai	no_matching_jobs
 retool	http_404
 ukmed	no_matching_jobs
@@ -5130,7 +5129,6 @@ excelsportsmanagement	no_matching_jobs
 springboardmentors	no_matching_jobs
 ernestpackagingsolutions	no_matching_jobs
 urschellaboratoriesinc	no_matching_jobs
-gruve	no_matching_jobs
 bluegranite	http_404
 theplaceforchildrenwithautism	no_matching_jobs
 axogen	no_matching_jobs
@@ -6862,7 +6860,6 @@ fletcherjonesmotorcars	no_matching_jobs
 codeorg	no_matching_jobs
 cannondesign	no_matching_jobs
 swiftsolar	no_matching_jobs
-skyryse	no_matching_jobs
 healthnote	http_404
 springfertility	no_matching_jobs
 nerostechnologies	no_matching_jobs
@@ -7405,7 +7402,6 @@ cardflight	http_404
 pano	http_404
 visualconcepts	no_matching_jobs
 meruhealth	no_matching_jobs
-formlabs	no_matching_jobs
 recharge	http_404
 thenuclearcompany	no_matching_jobs
 orchard	no_matching_jobs
@@ -7577,7 +7573,6 @@ pineparkhealth	http_404
 ameelio	no_matching_jobs
 brightcove	http_404
 prendiodbaprendiobioprocure	no_matching_jobs
-thoughtworksreferral	no_matching_jobs
 goodr	no_matching_jobs
 braintrust	http_404
 hover	no_matching_jobs
@@ -8043,7 +8038,6 @@ thedailybeast31	http_404
 mastercontrol	no_matching_jobs
 saltsecurity	no_matching_jobs
 cocoon	no_matching_jobs
-homeward	no_matching_jobs
 tomorrow	no_matching_jobs
 proton	no_matching_jobs
 eko	no_jobs
@@ -8438,7 +8432,6 @@ eyeo	no_jobs
 havenly	http_404
 maev	http_404
 madisonreedcolorbar	no_matching_jobs
-impact	no_matching_jobs
 go1us	no_matching_jobs
 neoris	http_404
 everdriven	no_matching_jobs
@@ -8793,7 +8786,6 @@ mesamember	http_404
 clair	http_404
 dept	no_matching_jobs
 denverbroncosteamllc	no_matching_jobs
-ujet	no_matching_jobs
 focusfinancialpartners	no_matching_jobs
 impinjexternal	no_matching_jobs
 wellsaidlabs	no_matching_jobs
