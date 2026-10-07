@@ -9799,7 +9799,6 @@ nevados	no_jobs
 morningbrew	no_matching_jobs
 mytos	no_matching_jobs
 nextmillennium	http_404
-nextgenfed	no_matching_jobs
 nation_security	http_404
 moonsong-labs	no_matching_jobs
 nfx	no_jobs

@@ -5573,7 +5573,6 @@ threeflow	no_jobs
 keeleycompanies	no_matching_jobs
 wavemm1	no_matching_jobs
 schoolstatus	no_matching_jobs
-woolpert	no_matching_jobs
 tenet3	no_matching_jobs
 123	http_404
 hiddenlayer	no_matching_jobs
@@ -7445,7 +7444,6 @@ gallaghereveliusjonesllp	no_matching_jobs
 dualityroboticsinc	http_404
 spauldingridge	no_matching_jobs
 quberesearchandtechnologies	no_matching_jobs
-neuehealth	no_matching_jobs
 generalcatalyst	no_jobs
 quantumsi25	no_matching_jobs
 vtex	no_matching_jobs
@@ -7950,7 +7948,6 @@ swishanalytics	http_404
 filescom	no_matching_jobs
 cerulacare	no_matching_jobs
 oliverusa	no_matching_jobs
-gomotive	no_matching_jobs
 campusopportunities	http_404
 range	no_matching_jobs
 soloioinc	no_matching_jobs
@@ -8177,7 +8174,6 @@ hillel	no_matching_jobs
 toojaysdeli	no_matching_jobs
 advancedtechnologyservices	no_matching_jobs
 phizenix	no_matching_jobs
-patterndata	no_matching_jobs
 oxosmedical	http_404
 sparkadvisors	no_matching_jobs
 143studiosinc	no_matching_jobs

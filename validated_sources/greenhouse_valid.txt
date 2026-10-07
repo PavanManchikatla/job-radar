@@ -541,3 +541,7 @@ toshibaglobalcommercesolutions
 tenstorrent
 cision
 sixfold
+woolpert
+neuehealth
+gomotive
+patterndata
