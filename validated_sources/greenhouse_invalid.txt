@@ -7931,7 +7931,6 @@ animallogicglobalhybrid	http_404
 classpass	no_matching_jobs
 generalatlantic	no_matching_jobs
 incommonwith	no_jobs
-legendcareers	no_matching_jobs
 noyocareers	no_matching_jobs
 matik	no_matching_jobs
 builtinintegrationsandbox	http_404
@@ -8127,7 +8126,6 @@ avantium	no_matching_jobs
 xometryeurope	no_matching_jobs
 css	no_matching_jobs
 elwoodtechnologies	no_matching_jobs
-expel	no_matching_jobs
 workshop	no_matching_jobs
 cb4	no_jobs
 deepwatchindia	no_matching_jobs
@@ -8202,7 +8200,6 @@ eulerity	no_matching_jobs
 equityzen	no_matching_jobs
 neptunebio	http_404
 ohdela	no_matching_jobs
-apexcompanies	no_matching_jobs
 bluevineus	no_matching_jobs
 playworks96	no_matching_jobs
 tripwireinteractive	no_matching_jobs
