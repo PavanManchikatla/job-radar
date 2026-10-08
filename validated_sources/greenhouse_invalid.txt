@@ -4430,7 +4430,6 @@ maxar	http_404
 planet	http_404
 digitalglobe	http_404
 geoeye	http_404
-blacksky	no_matching_jobs
 ikonos	http_404
 quickbird	http_404
 worldview	http_404
@@ -8600,7 +8599,6 @@ arcboatcompany	no_matching_jobs
 shearersinternalmobility	http_404
 microblink	no_matching_jobs
 twelve	http_404
-greenbrookmedical	no_matching_jobs
 relaypro	no_matching_jobs
 emporiarevolutionizinghomeenergy	no_matching_jobs
 aclunj	no_matching_jobs

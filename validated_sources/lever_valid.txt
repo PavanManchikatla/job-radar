@@ -141,3 +141,4 @@ theathletic
 enablecomp
 nextgenfed
 deepgenomics
+palantir

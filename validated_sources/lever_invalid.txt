@@ -372,7 +372,6 @@ ace cash express	http_404
 check into cash	http_404
 orlandi valuta	http_404
 check n go	http_404
-palantir	no_matching_jobs
 cashnetusa	http_404
 loanmax	http_404
 titlemax	http_404
