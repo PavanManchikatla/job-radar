@@ -5364,7 +5364,6 @@ prometheusrealestategroup	no_matching_jobs
 loizero	no_matching_jobs
 theoncologyinstitute	no_matching_jobs
 ventureglobal	no_jobs
-axonius	no_matching_jobs
 shyftsolutionsllc	http_404
 mentalhealthcenterofdenver	no_matching_jobs
 chalkinc	http_404
@@ -5483,7 +5482,6 @@ inspiraeducation	no_matching_jobs
 armorcode	no_matching_jobs
 mochihealth	no_matching_jobs
 gravitywell	no_jobs
-shopmy	no_matching_jobs
 onarchipelago	no_matching_jobs
 cottinghambutlerinsuranceservicesinc	no_matching_jobs
 hummingbirdregtech	no_matching_jobs
@@ -6020,7 +6018,6 @@ totusmedicines	http_404
 symmetry	no_matching_jobs
 woo	no_matching_jobs
 plootocareers	no_matching_jobs
-cresta	no_matching_jobs
 watchduty	no_matching_jobs
 newlimit	no_matching_jobs
 parity	http_404
@@ -6731,14 +6728,12 @@ mach49	no_jobs
 honestmedicalgroup	http_404
 terapore	http_404
 alphagrepsecurities	no_matching_jobs
-figure	no_matching_jobs
 housinganywhere	no_matching_jobs
 tvscientific	http_404
 starcloud	http_404
 whisperaero	no_matching_jobs
 freedamedia	http_404
 verramobility	no_matching_jobs
-mobilityware	no_matching_jobs
 learneo	no_matching_jobs
 socure	http_404
 logixboard	http_404
@@ -6773,7 +6768,6 @@ interpublicgroup	http_404
 forteracorporation	no_matching_jobs
 tenstreet	no_matching_jobs
 willowtree	http_404
-66degrees	no_matching_jobs
 clickhouse	http_404
 mightynetworks	no_matching_jobs
 aditumbio	no_matching_jobs
@@ -7583,7 +7577,6 @@ rootstocklabsltd	no_matching_jobs
 affinity	http_404
 liquiddeath	no_jobs
 butternutbox	no_matching_jobs
-alertmedia	no_matching_jobs
 levelworks	no_matching_jobs
 intersystems	no_matching_jobs
 anodize	no_matching_jobs
@@ -7803,7 +7796,6 @@ dunamu	http_404
 mammothbrands	no_matching_jobs
 numattechnologies	no_matching_jobs
 skylighthq	no_matching_jobs
-chicory	no_matching_jobs
 origisenergytechs	no_matching_jobs
 powerdot	no_matching_jobs
 wovencare	no_matching_jobs
@@ -8599,7 +8591,6 @@ twelve	http_404
 relaypro	no_matching_jobs
 emporiarevolutionizinghomeenergy	no_matching_jobs
 aclunj	no_matching_jobs
-stockx	no_matching_jobs
 perionnetworkltd	no_matching_jobs
 worlds	http_404
 citystoragesystems	http_404
