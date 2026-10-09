@@ -142,3 +142,5 @@ enablecomp
 nextgenfed
 deepgenomics
 palantir
+loftorbital
+pointclickcare

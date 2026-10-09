@@ -6377,7 +6377,6 @@ minitab	no_matching_jobs
 nearsure	http_404
 kayak	no_matching_jobs
 simulamet	no_matching_jobs
-blip-global	no_matching_jobs
 cycles	no_matching_jobs
 volleythat	http_404
 mycoworks	http_404

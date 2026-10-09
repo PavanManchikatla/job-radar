@@ -9777,7 +9777,6 @@ mobileintegration-group	http_404
 modeln	no_matching_jobs
 level99	no_matching_jobs
 ml4t	no_matching_jobs
-loftorbital	no_matching_jobs
 moonpay	no_matching_jobs
 minders	no_matching_jobs
 melitagroup	no_matching_jobs
@@ -9897,7 +9896,6 @@ qbio	no_jobs
 quadlock	no_matching_jobs
 quantco-	no_matching_jobs
 qonto	no_matching_jobs
-pointclickcare	no_matching_jobs
 quartzy	no_jobs
 quincus	no_matching_jobs
 portagepointpartners	no_matching_jobs
