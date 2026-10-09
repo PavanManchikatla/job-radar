@@ -674,7 +674,6 @@ anchorage	http_404
 coinbase	no_matching_jobs
 ledger	http_404
 fireblocks	no_matching_jobs
-bitgo	no_matching_jobs
 ngrave	http_404
 bittrex	http_404
 coldcard	http_404
@@ -5808,7 +5807,6 @@ capellaspace	no_jobs
 utahtitleloansinc	no_matching_jobs
 xometry	no_matching_jobs
 cariboubiosciencesinc	no_matching_jobs
-mediaalpha	no_matching_jobs
 landdesign	no_matching_jobs
 clutch	no_matching_jobs
 sonymusicinternshipsus	no_jobs
@@ -6741,7 +6739,6 @@ guildgaragegroup	no_matching_jobs
 assemblyhealth	no_matching_jobs
 nocdinc	http_404
 ghost	no_matching_jobs
-delartech	no_matching_jobs
 simscale	no_matching_jobs
 bertkeasp	no_matching_jobs
 bbot	no_jobs
@@ -8035,7 +8032,6 @@ outsetmedical	no_matching_jobs
 goodbysilversteinpartners	no_matching_jobs
 laboratoirertingscom	no_matching_jobs
 arrayeducation	no_jobs
-newrelic	no_matching_jobs
 digitalocean98	no_matching_jobs
 fazz	http_404
 vanleeuwenicecream	no_matching_jobs

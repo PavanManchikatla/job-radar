@@ -570,3 +570,7 @@ chicory
 stockx
 americaninstitutesforresearch
 blip-global
+bitgo
+mediaalpha
+delartech
+newrelic
