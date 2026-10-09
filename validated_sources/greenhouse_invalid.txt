@@ -8634,7 +8634,6 @@ eliotcommunityhumanservices	no_matching_jobs
 orennia	no_matching_jobs
 kajabi	http_404
 verainstituteofjustice	no_matching_jobs
-americaninstitutesforresearch	no_matching_jobs
 actpowerservices	http_404
 2k	no_matching_jobs
 kallesgroup	no_matching_jobs

@@ -568,3 +568,4 @@ mobilityware
 alertmedia
 chicory
 stockx
+americaninstitutesforresearch
