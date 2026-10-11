@@ -1,3 +1,4 @@
+palantir
 outreach
 sonatype
 chownow
@@ -18,7 +19,6 @@ artera
 blencorp
 brillio-2
 canarytechnologies
-cfsenergy
 convergentresearch
 crypto
 delfidiagnostics
@@ -28,8 +28,6 @@ eleks
 espace
 extremenetworks
 field-ai
-foodsmart
-foundation-llm-technologies
 gauntlet
 genbio
 getsquire
@@ -42,6 +40,7 @@ improbable-2
 jetsupport
 lendbuzz
 linkllc
+loftorbital
 luxurypresence
 mactores
 magnals
@@ -50,11 +49,12 @@ mashgin
 metabase
 muttdata
 netomi
-npowermedicine
+nextgenfed
 openx
 payjoy
 peerspace
 plus-2
+pointclickcare
 prosper
 protective
 reply
@@ -62,7 +62,7 @@ ro
 smarsh
 steerbridge
 tendo
-thinkahead
+theathletic
 thunkable
 tri
 triallibrary
@@ -75,6 +75,7 @@ waabi
 wealthfront
 wisecode
 zencore
+postera
 aeva
 agile-defense
 appfollow
@@ -89,8 +90,10 @@ computercare
 cti-md
 dailywire
 datalabusa
+deepgenomics
 dodmg
 duetti
+enablecomp
 entefy
 erg
 foxitsoftware
@@ -103,14 +106,10 @@ humata
 ifm-us
 ippon
 isee
-kochava
 layup
 life
 mainspringenergy
-mcaconnect
-megaport
 momenti-inc
-mulliganfunding
 oddin
 pditechnologies
 picklerobot
@@ -128,19 +127,9 @@ servicerocket
 significanceinc
 sprymethods
 synergyecp
-totalsystech
 truetandem
 truezerotech
-trustyou
 unify
 velo3d
 xcimer
 zaimler
-postera
-theathletic
-enablecomp
-nextgenfed
-deepgenomics
-palantir
-loftorbital
-pointclickcare

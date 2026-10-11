@@ -20020,3 +20020,16 @@ floracene
 neuromorphic
 edviro
 moda
+
+# --- YC hiring companies ---
+getdot
+evidence
+reactwise
+klarify
+atrisa
+impactdrones
+impact-drones
+molagri
+hubble
+princeps
+voyager
