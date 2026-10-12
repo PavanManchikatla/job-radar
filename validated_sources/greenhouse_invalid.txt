@@ -7129,7 +7129,6 @@ sourcegraph91	no_matching_jobs
 midihealth	no_matching_jobs
 kymberconsultinggroup	no_matching_jobs
 cooksys	no_matching_jobs
-mettel	no_matching_jobs
 debtbook	no_matching_jobs
 cleansimpleeats	no_matching_jobs
 xphealth	no_matching_jobs
@@ -7535,7 +7534,6 @@ flamingo	no_matching_jobs
 cleo-emea	no_jobs
 dialership	no_matching_jobs
 jobsatphamily	no_matching_jobs
-auctane	no_matching_jobs
 youngmindsdc	no_matching_jobs
 drb	http_404
 monumentalsports	no_matching_jobs
@@ -8649,7 +8647,6 @@ mobiik	no_matching_jobs
 platformsh	no_matching_jobs
 planetscale	no_matching_jobs
 strongholdim	http_404
-engine	no_matching_jobs
 lumenbioscience	no_matching_jobs
 group14	no_matching_jobs
 synthetaic	no_jobs
@@ -8686,7 +8683,6 @@ alphapublicschools	no_matching_jobs
 classdojo	http_404
 wgachidden	no_jobs
 foodcorps	http_404
-tenableinc	no_matching_jobs
 cfoinsights	no_matching_jobs
 tripadvisor	no_matching_jobs
 well	http_404
