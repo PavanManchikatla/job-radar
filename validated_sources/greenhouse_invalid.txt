@@ -2269,7 +2269,6 @@ ebara	http_404
 tokyo electron	http_404
 semes	http_404
 asm international	http_404
-disco	no_matching_jobs
 entegris	http_404
 shin-etsu	http_404
 veeco	http_404
