@@ -9416,7 +9416,6 @@ betstamp	http_404
 better	no_jobs
 bestegg	http_404
 avodah	http_404
-bhg-inc	no_matching_jobs
 bigblue	no_matching_jobs
 bfsaul	no_matching_jobs
 bitwiseinvestments	http_404
@@ -9477,7 +9476,6 @@ cfgi	no_matching_jobs
 cherre	no_matching_jobs
 cin7	no_matching_jobs
 citcon	no_matching_jobs
-cfsenergy	no_matching_jobs
 clearpoint	no_matching_jobs
 cloaked-app	no_jobs
 cloudinary	no_matching_jobs

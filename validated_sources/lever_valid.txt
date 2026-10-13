@@ -134,3 +134,5 @@ velo3d
 xcimer
 zaimler
 dexterity
+bhg-inc
+cfsenergy
