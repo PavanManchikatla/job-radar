@@ -536,3 +536,5 @@ auctane
 engine
 tenableinc
 disco
+sidecarhealth
+wavemm1

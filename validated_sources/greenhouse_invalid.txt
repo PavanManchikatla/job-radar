@@ -5575,7 +5575,6 @@ theblacktux	http_404
 firstprinciples	no_matching_jobs
 envisionconsulting	no_matching_jobs
 threeflow	no_jobs
-wavemm1	no_matching_jobs
 schoolstatus	no_matching_jobs
 hiddenlayer	no_matching_jobs
 tenet3	no_matching_jobs
@@ -5585,7 +5584,6 @@ wildlifestudios	no_matching_jobs
 yld	no_matching_jobs
 gsgcareers	no_matching_jobs
 horizenlabs	no_matching_jobs
-sidecarhealth	no_matching_jobs
 terranorbitalcorporation	no_matching_jobs
 meritamerica	no_matching_jobs
 gwkinvestmentmanagementllc	no_matching_jobs
