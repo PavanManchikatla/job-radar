@@ -6009,7 +6009,6 @@ footanstey	no_matching_jobs
 logicgate	no_matching_jobs
 dominodatalab	no_matching_jobs
 southworks	http_404
-abclegalservices	no_matching_jobs
 bdtmsd	no_jobs
 axon	no_matching_jobs
 harborglobal	no_matching_jobs
@@ -6103,7 +6102,6 @@ goodinside	no_matching_jobs
 funga	no_jobs
 keplergroup	no_matching_jobs
 glydways	no_matching_jobs
-grafanalabs	no_matching_jobs
 julieproducts	no_matching_jobs
 millenniumspacesystems	http_404
 amnh	no_matching_jobs
@@ -7289,7 +7287,6 @@ datavirtuality	http_404
 rondoenergy	no_matching_jobs
 sesai	no_matching_jobs
 pebblepost	no_jobs
-horacemannservicecorporation	no_matching_jobs
 simplifed	no_matching_jobs
 discmedicine	no_matching_jobs
 aclunc	no_matching_jobs
