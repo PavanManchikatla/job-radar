@@ -5212,7 +5212,6 @@ rise8	no_matching_jobs
 rapp	no_matching_jobs
 pirateship	no_matching_jobs
 generationbio	http_404
-wizeline	no_matching_jobs
 arvinas	no_matching_jobs
 studentplacements	no_matching_jobs
 auviknetworks	no_matching_jobs
@@ -7374,11 +7373,9 @@ lanesplanes	no_matching_jobs
 asknicely	http_404
 khealthcareers	no_matching_jobs
 ultragenyxpharmaceutical	no_matching_jobs
-lendingtree	no_matching_jobs
 truecaller	no_matching_jobs
 appier	no_matching_jobs
 neighborhoodscom	no_jobs
-rzero	no_matching_jobs
 inversionspace	no_matching_jobs
 housecall	no_matching_jobs
 duettoresearch	no_matching_jobs
@@ -8723,7 +8720,6 @@ openeye	no_matching_jobs
 watershed	no_matching_jobs
 nflcareers	no_matching_jobs
 helium	no_jobs
-nift	no_matching_jobs
 recorainc	http_404
 applytopassagehealth	no_matching_jobs
 appian	no_matching_jobs
