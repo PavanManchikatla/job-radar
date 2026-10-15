@@ -9433,7 +9433,6 @@ bosonai	no_matching_jobs
 brainstorminc	no_matching_jobs
 bostonimaging	no_matching_jobs
 boston-materials	no_matching_jobs
-bluesight	no_matching_jobs
 breakwatertech	http_404
 appen	no_matching_jobs
 bolster	no_matching_jobs

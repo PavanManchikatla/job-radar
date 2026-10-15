@@ -6299,7 +6299,6 @@ akidolabs	no_matching_jobs
 mark43	no_matching_jobs
 catonetworks	no_matching_jobs
 chaincodelabs	no_matching_jobs
-splashfinancial	no_matching_jobs
 sterlingtonpllc	no_matching_jobs
 debutbiotech25	no_matching_jobs
 deliveryassociates	no_matching_jobs
