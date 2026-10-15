@@ -7171,7 +7171,6 @@ carbon	no_matching_jobs
 spideroak	http_404
 vannevarlabs	no_matching_jobs
 waldensecurity	no_matching_jobs
-altentechnologyusa	no_matching_jobs
 casperretail	http_404
 grammarly	http_404
 getground	http_404
