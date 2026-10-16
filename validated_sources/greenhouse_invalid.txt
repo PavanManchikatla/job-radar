@@ -7592,7 +7592,6 @@ eigenlabs	http_404
 blankstreet	no_matching_jobs
 sirum	no_matching_jobs
 dealpath	no_matching_jobs
-hometap	no_matching_jobs
 wizinc	no_matching_jobs
 iovino	no_matching_jobs
 universalhydrogen	http_404
@@ -7700,7 +7699,6 @@ autura	no_matching_jobs
 aptitude8	no_matching_jobs
 medeloop	no_matching_jobs
 questbridge	no_jobs
-stackexchange	no_matching_jobs
 youthinc	http_404
 weave	no_matching_jobs
 capstack	http_404

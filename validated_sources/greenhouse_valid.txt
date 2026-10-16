@@ -562,3 +562,5 @@ altentechnologyusa
 clariticloudinc
 splashfinancial
 bridgebio
+hometap
+stackexchange
