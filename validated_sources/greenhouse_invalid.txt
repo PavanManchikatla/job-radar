@@ -5147,7 +5147,6 @@ linqia	no_matching_jobs
 shopmonkey	no_matching_jobs
 vikingglobalinvestors	no_matching_jobs
 crescendohealth	no_matching_jobs
-gofasti	no_matching_jobs
 turtlerockstudios	no_jobs
 thoughtworks	no_matching_jobs
 zeals	no_matching_jobs
@@ -5482,7 +5481,6 @@ skinlaundry	no_matching_jobs
 gravitywell	no_jobs
 xealth	no_matching_jobs
 civilscience	http_404
-carta	no_matching_jobs
 onarchipelago	no_matching_jobs
 inspiraeducation	no_matching_jobs
 mochihealth	no_matching_jobs
@@ -6344,7 +6342,6 @@ lemmatree	no_jobs
 veranahealth	no_matching_jobs
 skilledwoundcare	no_matching_jobs
 phynetdermatology	no_matching_jobs
-bpcs	no_matching_jobs
 premierdermatology	no_matching_jobs
 kettle	no_matching_jobs
 hiro	no_jobs
@@ -6490,7 +6487,6 @@ mercyforanimals	no_matching_jobs
 allinc	no_matching_jobs
 yougov	http_404
 cartwheelcare	http_404
-ispottv	no_matching_jobs
 pretiumpartnersllc	no_matching_jobs
 bitmex	no_jobs
 amaehealth	no_matching_jobs
@@ -6980,7 +6976,6 @@ enchantedforest	no_matching_jobs
 maintainx	http_404
 comstock	no_matching_jobs
 wppmedia	no_matching_jobs
-gradientai	no_matching_jobs
 dots	no_matching_jobs
 runwayml	http_404
 cardioone	http_404
@@ -8024,7 +8019,6 @@ lila	http_404
 saltsecurity	no_matching_jobs
 thedailybeast31	http_404
 cocoon	http_404
-tomorrow	no_matching_jobs
 eko	no_jobs
 toggleai	no_matching_jobs
 proton	no_matching_jobs
@@ -8083,7 +8077,6 @@ cosmoslabs	no_matching_jobs
 packlink	no_jobs
 portable	no_matching_jobs
 praxisprecisionmedicines	no_matching_jobs
-echodynecorp	no_matching_jobs
 2u	no_matching_jobs
 stratacareers	no_matching_jobs
 sfox	no_jobs
@@ -8630,7 +8623,6 @@ beauhurst	no_matching_jobs
 shennonbiotechnologies	no_matching_jobs
 ohalogenetics	no_matching_jobs
 smarterdx	no_matching_jobs
-conga	no_matching_jobs
 vim	no_matching_jobs
 upwork	no_matching_jobs
 applytowhoosh	no_jobs
@@ -8757,7 +8749,6 @@ pansophiclearning	no_matching_jobs
 supplyhouse	no_matching_jobs
 glia	http_404
 fal	http_404
-inmarket	no_matching_jobs
 droit	no_jobs
 pixability	no_matching_jobs
 seed	no_matching_jobs

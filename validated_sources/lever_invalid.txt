@@ -9703,7 +9703,6 @@ kiddom	no_jobs
 joyrideautos	no_matching_jobs
 kimiatherapeutics	no_jobs
 keyloop	no_matching_jobs
-kippsocal	no_matching_jobs
 knix	no_matching_jobs
 knownwell	http_404
 kogan	no_matching_jobs
@@ -17078,7 +17077,6 @@ mittilabs	http_404
 missiongraduates	no_matching_jobs
 metalpay	http_404
 mit	no_jobs
-mistplay	no_matching_jobs
 minesense	no_matching_jobs
 mobisystems	http_404
 mobile-action	no_matching_jobs
