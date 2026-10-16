@@ -5245,7 +5245,6 @@ nationalpublicradioinc	no_matching_jobs
 eventbriteinc	no_matching_jobs
 atomai	no_jobs
 lockwood	no_matching_jobs
-bridgebio	no_matching_jobs
 seenhealth	no_matching_jobs
 fiveringsllc	no_matching_jobs
 mejuri	no_matching_jobs
