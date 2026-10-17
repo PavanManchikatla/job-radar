@@ -1,11 +1,12 @@
 # Jobs Feed (Page 1/1)
 
-_Last updated: 2026-10-17 10:25 CDT_
+_Last updated: 2026-10-17 13:37 CDT_
 
 | Posted | Company | Title | Location | Source |
 |---|---|---|---|---|
-| 2026-10-17 | redwoodmaterials | [Senior Analytics Engineer](https://boards.greenhouse.io/redwoodmaterials/jobs/6116721004?gh_jid=6116721004) | San Francisco, California, United States | greenhouse |
+| 2026-10-17 | redwoodmaterials | [Senior Data Engineering Manager](https://boards.greenhouse.io/redwoodmaterials/jobs/6008522004?gh_jid=6008522004) | McCarran, NV | greenhouse |
 | 2026-10-17 | redwoodmaterials | [Senior Battery Data Engineer](https://boards.greenhouse.io/redwoodmaterials/jobs/6219757004?gh_jid=6219757004) | San Francisco, California, United States | greenhouse |
+| 2026-10-17 | redwoodmaterials | [Senior Analytics Engineer](https://boards.greenhouse.io/redwoodmaterials/jobs/6116721004?gh_jid=6116721004) | San Francisco, California, United States | greenhouse |
 | 2026-10-17 | janestreet | [Campus Recruiter, Machine Learning and Quantitative Research](https://www.janestreet.com/join-jane-street/apply/8229056002?gh_jid=8229056002) | New York, New York, United States | greenhouse |
 | 2026-10-17 | janestreet | [Data Engineer](https://www.janestreet.com/join-jane-street/apply/8631973002?gh_jid=8631973002) | New York, New York, United States | greenhouse |
 | 2026-10-17 | janestreet | [Data Engineer](https://www.janestreet.com/join-jane-street/apply/6558007002?gh_jid=6558007002) | New York, New York, United States | greenhouse |
@@ -19,7 +20,6 @@ _Last updated: 2026-10-17 10:25 CDT_
 | 2026-10-17 | janestreet | [Quantitative Researcher](https://www.janestreet.com/join-jane-street/apply/8498547002?gh_jid=8498547002) | New York, New York, United States | greenhouse |
 | 2026-10-17 | janestreet | [Quantitative Researcher](https://www.janestreet.com/join-jane-street/apply/8573726002?gh_jid=8573726002) | New York, New York, United States | greenhouse |
 | 2026-10-17 | janestreet | [Quantitative Researcher](https://www.janestreet.com/join-jane-street/apply/6302325002?gh_jid=6302325002) | New York, New York, United States | greenhouse |
-| 2026-10-17 | redwoodmaterials | [Senior Data Engineering Manager](https://boards.greenhouse.io/redwoodmaterials/jobs/6008522004?gh_jid=6008522004) | McCarran, NV | greenhouse |
 | 2026-10-17 | reddit | [Analytics Engineer](https://job-boards.greenhouse.io/reddit/jobs/8282760) | Remote - United States | greenhouse |
 | 2026-10-17 | reddit | [Ads Conversion Modeling, Machine Learning Engineering Manager](https://job-boards.greenhouse.io/reddit/jobs/7792848) | Remote - United States | greenhouse |
 | 2026-10-17 | reddit | [Principal Data Scientist, Ads](https://job-boards.greenhouse.io/reddit/jobs/7330347) | Remote - United States | greenhouse |
@@ -280,20 +280,5 @@ _Last updated: 2026-10-17 10:25 CDT_
 | 2026-10-14 | anthropic | [Applied AI Engineer, Beneficial Deployments (Life Sciences)](https://job-boards.greenhouse.io/anthropic/jobs/5437172008) | San Francisco, CA \| New York City, NY | greenhouse |
 | 2026-10-14 | zoro | [Sr. Data Scientist I](https://www.zoro.com/careers/jobs?gh_jid=4719797006) | Chicago, Illinois, United States | greenhouse |
 | 2026-10-14 | hippo70 | [Actuarial Data Scientist](https://boards.greenhouse.io/hippo70/jobs/8859178002?gh_jid=8859178002) | Austin, Texas, United States; Dallas, Texas, United States; Morristown, New Jersey, United States; San Jose, California, United States | greenhouse |
-| 2026-10-14 | goodwaygroup | [Global Data Engineer](https://job-boards.greenhouse.io/goodwaygroup/jobs/5991794004) | Remote | greenhouse |
-| 2026-10-14 | pinterest | [Staff Machine Learning Engineer](https://www.pinterestcareers.com/jobs/?gh_jid=8015543) | San Francisco, CA, US; Remote, US | greenhouse |
-| 2026-10-14 | babylist | [Staff Machine Learning Engineer](https://job-boards.greenhouse.io/babylist/jobs/6211274004) | United States | greenhouse |
-| 2026-10-14 | crunchyroll | [Data Engineer III](https://boards.greenhouse.io/crunchyroll/jobs/7568347?gh_jid=7568347) | Los Angeles, California, United States; San Francisco, CA, United States | greenhouse |
-| 2026-10-14 | crunchyroll | [Lead Finance Data Analyst](https://boards.greenhouse.io/crunchyroll/jobs/8186885?gh_jid=8186885) | Los Angeles, California, United States | greenhouse |
-| 2026-10-14 | crunchyroll | [Senior CX Analytics Manager](https://boards.greenhouse.io/crunchyroll/jobs/8171662?gh_jid=8171662) | Dallas, Texas, United States | greenhouse |
-| 2026-10-14 | crunchyroll | [Senior Machine Learning Engineer, Fraud Detection](https://boards.greenhouse.io/crunchyroll/jobs/7309294?gh_jid=7309294) | Los Angeles, California, United States; San Francisco, CA, United States | greenhouse |
-| 2026-10-14 | twilio | [Principal, Machine Learning Engineer (L5)](https://job-boards.greenhouse.io/twilio/jobs/8258597) | Remote - India | greenhouse |
-| 2026-10-14 | brightai | [AI Engineer, Time-Series Signal Processing](https://job-boards.greenhouse.io/brightai/jobs/5616556004) | Palo Alto, CA | greenhouse |
-| 2026-10-14 | defenseunicorns | [Senior Data Engineer (FedD238)](https://job-boards.greenhouse.io/defenseunicorns/jobs/5251876007) | Springfield, VA | greenhouse |
-| 2026-10-14 | accenturefederalservices | [AI Engineer - SME](https://boards.greenhouse.io/accenturefederalservices/jobs/4721957006?gh_jid=4721957006) | Chantilly, VA | greenhouse |
-| 2026-10-14 | accenturefederalservices | [AI Engineer - Senior](https://boards.greenhouse.io/accenturefederalservices/jobs/4721967006?gh_jid=4721967006) | Chantilly, VA | greenhouse |
-| 2026-10-14 | patientpoint | [Sr. Data Scientist, Pricing](https://job-boards.greenhouse.io/patientpoint/jobs/4731937005) | Remote, US | greenhouse |
-| 2026-10-14 | wavemm1 | [Data Scientist](https://www.wave.com/en/careers/job/6222404004?gh_jid=6222404004) | Remote | greenhouse |
-| 2026-10-14 | spotify | [Senior Machine Learning Engineer, Personalization](https://jobs.lever.co/spotify/05b8d6ee-0773-4255-b8b9-ae73d74a5ee5) | New York, NY | lever |
 
 [Back to README](../../README.md)
