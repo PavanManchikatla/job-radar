@@ -12401,7 +12401,6 @@ dialexa	http_404
 dice	http_404
 digitalasset	http_404
 diginn	no_matching_jobs
-didi	no_matching_jobs
 digitaleclipse	no_jobs
 digitaltrendsfreelance	http_404
 digitalonus	http_404
