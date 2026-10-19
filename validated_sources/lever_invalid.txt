@@ -10063,7 +10063,6 @@ thrivecausemetics	no_matching_jobs
 theodo	no_matching_jobs
 tokenmetrics	http_404
 titanelectric-ga	no_matching_jobs
-thinkahead	no_matching_jobs
 tombras	http_404
 tom-steyer	no_jobs
 piccollage	no_matching_jobs
@@ -17096,7 +17095,6 @@ momentfactory	http_404
 mojo-video	no_jobs
 molekule	http_404
 monumental	http_404
-momsmeals	no_matching_jobs
 moonhub	http_404
 moogsoft	http_404
 moneyboxapp	no_matching_jobs
