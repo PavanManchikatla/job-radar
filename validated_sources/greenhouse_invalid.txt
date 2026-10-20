@@ -5283,7 +5283,6 @@ envoymortgage	no_matching_jobs
 greenlightconsulting	no_matching_jobs
 operationscareers	no_matching_jobs
 startree	no_matching_jobs
-weee	no_matching_jobs
 mantl	no_jobs
 codetta	http_404
 interviewengineering	no_matching_jobs
@@ -7145,7 +7144,6 @@ smartasset	no_matching_jobs
 ingenious	no_matching_jobs
 familyoffice	no_matching_jobs
 accelschools	no_matching_jobs
-taketwo	no_matching_jobs
 peachtreebioresearchsolutions	http_404
 myunidaysltd	http_404
 swingeducation	no_matching_jobs
@@ -7637,7 +7635,6 @@ genezenlabs	no_matching_jobs
 electrasteel	no_matching_jobs
 imagendarystudios	http_404
 sonymusicentertainment	no_matching_jobs
-protonai	no_matching_jobs
 hexium	no_matching_jobs
 instead	no_matching_jobs
 virtahealth	http_404
@@ -11557,7 +11554,6 @@ scout-out	http_404
 3dayblindssales	no_matching_jobs
 3q	http_404
 3mgroofing	no_matching_jobs
-541	no_matching_jobs
 4lu44n1n37w012k	no_matching_jobs
 2uevents	http_404
 59studio	no_jobs
