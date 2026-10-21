@@ -9343,7 +9343,6 @@ aizon	no_matching_jobs
 aircall	no_matching_jobs
 albedo	http_404
 aledade	no_matching_jobs
-360learning	no_matching_jobs
 ajax	no_matching_jobs
 all	http_404
 alertus	no_matching_jobs
@@ -9724,7 +9723,6 @@ intropic	no_matching_jobs
 levelai	no_matching_jobs
 clarifyhealth	no_matching_jobs
 levelup	no_matching_jobs
-allegiantair	no_matching_jobs
 lexeotx	no_matching_jobs
 liatrio	no_matching_jobs
 lightedge	no_matching_jobs

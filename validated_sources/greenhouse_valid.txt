@@ -578,3 +578,5 @@ protonai
 abclegalservices
 pindropsecurity
 dlhcorporation
+jamf
+khealthcareers

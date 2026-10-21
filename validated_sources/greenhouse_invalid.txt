@@ -3612,7 +3612,6 @@ netskope	no_matching_jobs
 workspace one	http_404
 lookout	no_matching_jobs
 manageengine	http_404
-jamf	no_matching_jobs
 airwatch	http_404
 n-able	http_404
 intune	http_404
@@ -7368,7 +7367,6 @@ girleffect	no_matching_jobs
 zerostudios	no_matching_jobs
 workstream	no_matching_jobs
 doordashmexico	no_matching_jobs
-khealthcareers	no_matching_jobs
 truecaller	no_matching_jobs
 kalvistapharmaceuticals	no_jobs
 groundtruth	http_404
