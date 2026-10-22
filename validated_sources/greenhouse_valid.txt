@@ -585,3 +585,9 @@ kiavi
 stratolaunch
 falconx
 ophelia
+kodiak
+blacksky
+codepath
+talkdesk2
+boxinc
+powerdigitalmarketing

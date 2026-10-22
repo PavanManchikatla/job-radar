@@ -4179,7 +4179,6 @@ torc	http_404
 tusimple	http_404
 embark	http_404
 autox	http_404
-kodiak	no_matching_jobs
 manna	http_404
 starship	http_404
 kiwibot	http_404
@@ -4431,7 +4430,6 @@ qps research	http_404
 maxar	http_404
 planet	http_404
 umbra	http_404
-blacksky	no_matching_jobs
 digitalglobe	http_404
 geoeye	http_404
 quickbird	http_404
@@ -5872,7 +5870,6 @@ rebuildmanufacturing	no_matching_jobs
 joinforage	http_404
 presencelearning	no_matching_jobs
 gunner	http_404
-codepath	no_matching_jobs
 pliancy	no_matching_jobs
 catdaddy	no_matching_jobs
 partnerstack	http_404
@@ -6218,7 +6215,6 @@ airsculpt	no_matching_jobs
 psiquantum	no_matching_jobs
 georgiadermatology	no_matching_jobs
 fastspring	no_matching_jobs
-talkdesk2	no_matching_jobs
 seamlessai	http_404
 1800contacts	no_matching_jobs
 manifest	no_matching_jobs
@@ -7629,7 +7625,6 @@ hexium	no_matching_jobs
 instead	no_matching_jobs
 virtahealth	http_404
 hologram	no_matching_jobs
-boxinc	no_matching_jobs
 merit	http_404
 umaeducationinc	no_matching_jobs
 localcoin	no_matching_jobs
@@ -8454,7 +8449,6 @@ karya	no_matching_jobs
 beat	http_404
 chowbus	no_matching_jobs
 eudia	no_matching_jobs
-powerdigitalmarketing	no_matching_jobs
 navigationfund	http_404
 osmosis	no_matching_jobs
 pubnub	no_matching_jobs
