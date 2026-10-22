@@ -2629,7 +2629,6 @@ telnyx	http_404
 level 3	http_404
 peerless network	http_404
 centurylink	http_404
-bandwidth	no_matching_jobs
 lumen	http_404
 windstream	http_404
 inteliquent	http_404
@@ -5138,7 +5137,6 @@ levelaccess	no_matching_jobs
 entera	no_matching_jobs
 shopmonkey	no_matching_jobs
 lithic	no_matching_jobs
-kiavi	no_matching_jobs
 breakthroughenergy	no_matching_jobs
 takecommandhealth	no_matching_jobs
 tomonetworks	http_404
@@ -7571,7 +7569,6 @@ texascartitleandpaydayloanservicesinc	no_matching_jobs
 easyship	no_matching_jobs
 whogivesacrap	no_matching_jobs
 kickstarter	no_matching_jobs
-stratolaunch	no_matching_jobs
 perrystreetsoftware	http_404
 mindsdb	http_404
 rebtel	no_matching_jobs
