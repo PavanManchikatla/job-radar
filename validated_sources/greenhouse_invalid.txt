@@ -6280,7 +6280,6 @@ cultureamp	no_matching_jobs
 littlewordsproject	no_matching_jobs
 candidaturasdirecionadasxpinc	no_matching_jobs
 appsflyer	no_matching_jobs
-falconx	no_matching_jobs
 divergehealth	no_matching_jobs
 blackedgecapital	no_matching_jobs
 zengrc	no_jobs
