@@ -5665,7 +5665,6 @@ teads1	no_matching_jobs
 hoyoverse	no_jobs
 globalenergyallianceforpeopleandplanetgeappllc	no_matching_jobs
 omnicomhealth	no_matching_jobs
-sofi	no_matching_jobs
 processstreet	no_matching_jobs
 bottomlinetechnologies	no_matching_jobs
 calm	no_matching_jobs
@@ -6093,7 +6092,6 @@ taxvalet	no_matching_jobs
 junglescout	http_404
 alpenlabs	http_404
 keplergroup	no_matching_jobs
-goodinside	no_matching_jobs
 vardaspace	no_matching_jobs
 henrymeds	no_jobs
 millenniumspacesystems	http_404
@@ -6336,7 +6334,6 @@ applytoprecedent	no_matching_jobs
 cafortune	no_matching_jobs
 equalexperts	no_matching_jobs
 harnessinc	no_matching_jobs
-convene	no_matching_jobs
 chanzuckerberginitiative	no_matching_jobs
 veranahealth	no_matching_jobs
 classkick	http_404
@@ -8460,7 +8457,6 @@ beautypie	http_404
 newlabcareers	no_matching_jobs
 abatatherapeutics	http_404
 hillhousehome	no_matching_jobs
-fartherfinance	no_matching_jobs
 messari	no_jobs
 rootly	http_404
 blacklane	no_matching_jobs

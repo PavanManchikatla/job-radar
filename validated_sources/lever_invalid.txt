@@ -9398,7 +9398,6 @@ avalanchestudios	no_matching_jobs
 automatiq	no_matching_jobs
 aviahealth	no_matching_jobs
 balbix	no_matching_jobs
-auw	no_matching_jobs
 baselane	no_matching_jobs
 bdg	http_404
 avalerehealth	no_matching_jobs
@@ -9740,7 +9739,6 @@ jamcity	no_matching_jobs
 lumindigital	http_404
 lumivero	http_404
 certik	no_matching_jobs
-luxurypresence	no_matching_jobs
 machinalabs	http_404
 lightship	no_matching_jobs
 launchsquad	no_matching_jobs
