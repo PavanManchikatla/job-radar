@@ -1,10 +1,15 @@
 ## Jobs Feed (auto-updated)
 
 <!-- JOBS:START -->
-_Last updated: 2026-10-25 14:10 CDT_
+_Last updated: 2026-10-25 17:44 CDT_
 
 | Posted | Company | Title | Location | Source |
 |---|---|---|---|---|
+| 2026-10-25 | roblox | [Distinguished Engineer, Machine Learning - Economy](https://careers.roblox.com/jobs/7332473?gh_jid=7332473) | San Mateo, CA, United States | greenhouse |
+| 2026-10-25 | roblox | [Principal Machine Learning Infrastructure Engineer, Ads & Discovery](https://careers.roblox.com/jobs/7351202?gh_jid=7351202) | San Mateo, CA, United States | greenhouse |
+| 2026-10-25 | roblox | [Senior Machine Learning Engineer, Ads](https://careers.roblox.com/jobs/7351220?gh_jid=7351220) | San Mateo, CA, United States | greenhouse |
+| 2026-10-25 | roblox | [Senior Data Scientist - Consumer Frontend](https://careers.roblox.com/jobs/7977682?gh_jid=7977682) | San Mateo, CA, United States | greenhouse |
+| 2026-10-25 | roblox | [Senior Data Scientist - Discovery](https://careers.roblox.com/jobs/8037082?gh_jid=8037082) | San Mateo, CA, United States | greenhouse |
 | 2026-10-25 | roblox | [Senior Machine Learning Engineer, 3D Data](https://careers.roblox.com/jobs/8084095?gh_jid=8084095) | San Mateo, CA, United States | greenhouse |
 | 2026-10-25 | roblox | [Engineering Manager, Machine Learning Infrastructure, Ads](https://careers.roblox.com/jobs/8090079?gh_jid=8090079) | San Mateo, CA, United States | greenhouse |
 | 2026-10-25 | roblox | [Distinguished Engineer, Machine Learning - Discovery](https://careers.roblox.com/jobs/8104808?gh_jid=8104808) | San Mateo, CA, United States | greenhouse |
@@ -35,19 +40,14 @@ _Last updated: 2026-10-25 14:10 CDT_
 | 2026-10-25 | reddit | [Senior Staff Data Scientist, Consumer Relevance](https://job-boards.greenhouse.io/reddit/jobs/7974605) | Remote - United States | greenhouse |
 | 2026-10-25 | reddit | [Staff Data Scientist - Ads Measurement, Signals, Privacy](https://job-boards.greenhouse.io/reddit/jobs/8072076) | Remote - United States | greenhouse |
 | 2026-10-25 | reddit | [Staff Machine Learning Engineer, Ads Creative Effectiveness](https://job-boards.greenhouse.io/reddit/jobs/8250389) | Remote - United States | greenhouse |
-| 2026-10-25 | reddit | [Staff Data Scientist, Marketing](https://job-boards.greenhouse.io/reddit/jobs/7931000) | Remote - Ontario, Canada | greenhouse |
 | 2026-10-25 | reddit | [Staff Data Scientist, Marketing](https://job-boards.greenhouse.io/reddit/jobs/7445240) | Remote - United States | greenhouse |
+| 2026-10-25 | reddit | [Staff Data Scientist, Marketing](https://job-boards.greenhouse.io/reddit/jobs/7931000) | Remote - Ontario, Canada | greenhouse |
 | 2026-10-25 | reddit | [Staff Machine Learning Engineer, App Ads Modeling](https://job-boards.greenhouse.io/reddit/jobs/8187652) | Remote - United States | greenhouse |
 | 2026-10-25 | reddit | [Staff Machine Learning Engineer, Retrieval](https://job-boards.greenhouse.io/reddit/jobs/8178085) | Remote - United States | greenhouse |
 | 2026-10-25 | reddit | [Senior Staff Machine Learning Systems Engineer, Ads ML Platform](https://job-boards.greenhouse.io/reddit/jobs/8157275) | Remote - United States | greenhouse |
-| 2026-10-25 | reddit | [Staff Data Scientist, Ads](https://job-boards.greenhouse.io/reddit/jobs/7721851) | Remote - Ontario, Canada | greenhouse |
 | 2026-10-25 | reddit | [Staff Data Scientist, Ads](https://job-boards.greenhouse.io/reddit/jobs/7721787) | Remote - United States | greenhouse |
+| 2026-10-25 | reddit | [Staff Data Scientist, Ads](https://job-boards.greenhouse.io/reddit/jobs/7721851) | Remote - Ontario, Canada | greenhouse |
 | 2026-10-25 | reddit | [Senior Data Scientist, Ads](https://job-boards.greenhouse.io/reddit/jobs/8104403) | Remote - United States | greenhouse |
-| 2026-10-25 | roblox | [Distinguished Engineer, Machine Learning - Economy](https://careers.roblox.com/jobs/7332473?gh_jid=7332473) | San Mateo, CA, United States | greenhouse |
-| 2026-10-25 | roblox | [Principal Machine Learning Infrastructure Engineer, Ads & Discovery](https://careers.roblox.com/jobs/7351202?gh_jid=7351202) | San Mateo, CA, United States | greenhouse |
-| 2026-10-25 | roblox | [Senior Machine Learning Engineer, Ads](https://careers.roblox.com/jobs/7351220?gh_jid=7351220) | San Mateo, CA, United States | greenhouse |
-| 2026-10-25 | roblox | [Senior Data Scientist - Consumer Frontend](https://careers.roblox.com/jobs/7977682?gh_jid=7977682) | San Mateo, CA, United States | greenhouse |
-| 2026-10-25 | roblox | [Senior Data Scientist - Discovery](https://careers.roblox.com/jobs/8037082?gh_jid=8037082) | San Mateo, CA, United States | greenhouse |
 | 2026-10-24 | pathai | [Machine Learning Engineer III (Applied Research & Model Development)](https://www.pathai.com/careers/8786343002?gh_jid=8786343002) | Boston (Onsite), New York (Onsite) Preferred, or Remote | greenhouse |
 | 2026-10-24 | klaviyo | [Senior Machine Learning Platform Engineer](https://www.klaviyo.com/careers/jobs/8035953003?gh_jid=8035953003) | Boston, MA | greenhouse |
 | 2026-10-24 | axle | [Data Scientist Fellow — AI/ML](https://job-boards.greenhouse.io/axle/jobs/5274576007) | Bethesda,MD | greenhouse |
@@ -116,8 +116,8 @@ _Last updated: 2026-10-25 14:10 CDT_
 | 2026-10-23 | twilio | [Staff Machine Learning Engineer (L4)](https://job-boards.greenhouse.io/twilio/jobs/8258593) | Remote - India | greenhouse |
 | 2026-10-23 | twilio | [Machine Learning Engineer (L3)](https://job-boards.greenhouse.io/twilio/jobs/8258587) | Remote - India | greenhouse |
 | 2026-10-23 | unlockhealth | [Data Engineer](https://job-boards.greenhouse.io/unlockhealth/jobs/5273649007) | Chicago, Illinois, United States; Nashville, Tennessee, United States; New York, NY, USA; Remote | greenhouse |
-| 2026-10-23 | reddit | [Machine Learning Engineer](https://job-boards.greenhouse.io/reddit/jobs/7131934) | Remote - Ontario, Canada | greenhouse |
 | 2026-10-23 | reddit | [Machine Learning Engineer](https://job-boards.greenhouse.io/reddit/jobs/7131932) | Remote - United States | greenhouse |
+| 2026-10-23 | reddit | [Machine Learning Engineer](https://job-boards.greenhouse.io/reddit/jobs/7131934) | Remote - Ontario, Canada | greenhouse |
 | 2026-10-23 | reddit | [Machine Learning Engineer, Answers Relevance](https://job-boards.greenhouse.io/reddit/jobs/8299781) | Remote - United States | greenhouse |
 | 2026-10-23 | reddit | [Machine Learning Manager, Feed Ecosystems](https://job-boards.greenhouse.io/reddit/jobs/8095009) | Remote - United States | greenhouse |
 | 2026-10-23 | reddit | [Machine Learning Manager, Feed Relevance (Retrieval)](https://job-boards.greenhouse.io/reddit/jobs/8094985) | Remote - United States | greenhouse |
@@ -155,17 +155,4 @@ _Last updated: 2026-10-25 14:10 CDT_
 | 2026-10-22 | riotgames | [Director, Data Engineering – Player Lifecycle & Personalization](https://www.riotgames.com/en/work-with-us/job/7927867?gh_jid=7927867) | Los Angeles, USA | greenhouse |
 | 2026-10-22 | redhorsecorp | [Lead Data Engineer](https://jobs.lever.co/redhorsecorp/dbae6e73-e65e-440c-849c-cd874ac46d19) | Remote | lever |
 | 2026-10-22 | chime | [Staff Data Scientist, Marketing Analytics](https://boards.greenhouse.io/chime/jobs/8882465002?gh_jid=8882465002) | San Francisco, CA, USA | greenhouse |
-| 2026-10-22 | codepath | [Adjunct Instructor, Applied AI Engineering - New Mexico State University - Spring 2027 (In-Person, Master’s Degree Preferred)](https://job-boards.greenhouse.io/codepath/jobs/5273086007) | Las Cruces, NM, United States | greenhouse |
-| 2026-10-22 | evolvevacationrental | [Senior Data Engineer](https://job-boards.greenhouse.io/evolvevacationrental/jobs/7977457003) | Remote - US | greenhouse |
-| 2026-10-22 | riotgames | [Staff Machine Learning Engineer (Applied Modeling) - League of Legends](https://www.riotgames.com/en/work-with-us/job/7981132?gh_jid=7981132) | Los Angeles, USA | greenhouse |
-| 2026-10-22 | starburst | [Applied AI Research Engineer](https://job-boards.greenhouse.io/starburst/jobs/5416956008) | United States | greenhouse |
-| 2026-10-22 | 10alabs | [Machine Learning Engineer](https://job-boards.greenhouse.io/10alabs/jobs/4273194009) | Remote | greenhouse |
-| 2026-10-22 | gofundme | [Staff Data Scientist (Pricing)](https://job-boards.greenhouse.io/gofundme/jobs/7494744) | San Diego, CA; San Francisco, CA | greenhouse |
-| 2026-10-22 | redcellpartners | [Member of Technical Staff, AI Researcher (New Stealth Startup)](https://job-boards.greenhouse.io/redcellpartners/jobs/5268059007) | Remote (USA) | greenhouse |
-| 2026-10-22 | agile-defense | [Data Engineer - Tampa](https://jobs.lever.co/agile-defense/588a345e-10c6-428a-8853-ce4cfeb1f657) | MacDill AFB, FL | lever |
-| 2026-10-22 | agile-defense | [Data Engineer - Omaha](https://jobs.lever.co/agile-defense/f62d2e45-63d8-47f6-a508-b8a996525633) | Offut AFB, NE | lever |
-| 2026-10-22 | agile-defense | [Data Engineer - St. Louis](https://jobs.lever.co/agile-defense/d3a2a7f6-80b2-4773-b31d-352d11790af2) | Scott AFB, IL | lever |
-| 2026-10-22 | agile-defense | [Data Engineer - Fort Meade](https://jobs.lever.co/agile-defense/43a9f021-393b-463c-808a-882d00997cee) | Fort Meade, MD | lever |
-| 2026-10-22 | agile-defense | [Data Engineer - Falls Church](https://jobs.lever.co/agile-defense/4377cbc7-83da-42de-85c6-291c24d5d180) | Falls Church, VA | lever |
-| 2026-10-22 | agile-defense | [Data Engineer - Doral](https://jobs.lever.co/agile-defense/94b561b1-0363-4146-b063-b1d49e2b8978) | Doral, FL | lever |
 <!-- JOBS:END -->
