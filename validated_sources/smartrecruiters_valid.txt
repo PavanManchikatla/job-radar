@@ -1,5 +1,4 @@
 servicenow
-canva
 coherusbiosciences
 evolutioniq
 modernloop
