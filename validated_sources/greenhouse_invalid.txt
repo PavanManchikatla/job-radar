@@ -6275,7 +6275,6 @@ eleoshealth	no_matching_jobs
 hellommc	no_jobs
 globalwebindex	no_matching_jobs
 candidaturasdirecionadasxpinc	no_matching_jobs
-falconx	no_matching_jobs
 catapultsports	no_matching_jobs
 imbibeinc	no_matching_jobs
 cultureamp	no_matching_jobs
