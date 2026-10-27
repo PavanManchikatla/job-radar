@@ -9756,7 +9756,6 @@ liquid	http_404
 magnetforensics	no_matching_jobs
 make-rain	no_matching_jobs
 mahmee	no_matching_jobs
-makpar	no_matching_jobs
 mammothbiosci	no_matching_jobs
 lexeotx	no_matching_jobs
 mangolanguage	no_matching_jobs
