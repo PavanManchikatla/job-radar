@@ -9430,7 +9430,6 @@ bighealth	no_matching_jobs
 bluecoding	no_matching_jobs
 bluespace	http_404
 bolster	no_matching_jobs
-bluebottlecoffee	no_matching_jobs
 breakwatertech	http_404
 boston-materials	no_matching_jobs
 bluecatnetworks	no_matching_jobs
@@ -16800,7 +16799,6 @@ kochava	no_jobs
 koldpartners	http_404
 kolsquare	http_404
 koombea	http_404
-jushico	no_matching_jobs
 kong	http_404
 kiwico	http_404
 kivaai	http_404

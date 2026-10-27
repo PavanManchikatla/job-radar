@@ -127,3 +127,5 @@ velo3d
 xcimer
 zaimler
 makpar
+bluebottlecoffee
+jushico
