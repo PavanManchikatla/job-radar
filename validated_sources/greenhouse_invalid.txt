@@ -5111,7 +5111,6 @@ parachutehealth	no_matching_jobs
 scrollio	http_404
 azragames	no_matching_jobs
 semgrep	http_404
-addepar1	no_matching_jobs
 conductor	http_404
 tamara	no_matching_jobs
 outfit7	no_matching_jobs
@@ -5668,7 +5667,6 @@ littleotter	http_404
 onetrust	no_matching_jobs
 hoyoverse	no_jobs
 sorcero	http_404
-bottomlinetechnologies	no_matching_jobs
 omnicomhealth	no_matching_jobs
 globalenergyallianceforpeopleandplanetgeappllc	no_matching_jobs
 calm	no_matching_jobs
@@ -6830,7 +6828,6 @@ nomadhealth	no_jobs
 veterinaryemergencygroupst	no_matching_jobs
 tomorrowhealth	http_404
 pleo	http_404
-palmettocleantech	no_matching_jobs
 crowdstreet	no_jobs
 wakam	http_404
 acornhealth	no_matching_jobs
@@ -7064,7 +7061,6 @@ sustainment	no_matching_jobs
 ideo	no_matching_jobs
 lightricks	no_jobs
 soeffects	http_404
-thrivemarket	no_matching_jobs
 mhi	no_matching_jobs
 janeasystems	http_404
 corasps	no_matching_jobs
