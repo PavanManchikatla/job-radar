@@ -6314,7 +6314,6 @@ renaissancelearning-emea	no_jobs
 tecovas	no_matching_jobs
 foundrytechnologiesinc	http_404
 lightfeatheriollc	no_matching_jobs
-givedirectly	no_matching_jobs
 coactivesystems	http_404
 gelfandrennertfeldman	http_404
 cordance	no_matching_jobs
@@ -7245,7 +7244,6 @@ southshoreskin	no_matching_jobs
 topcompare	http_404
 crescent	no_matching_jobs
 tiree	no_matching_jobs
-locusrobotics	no_matching_jobs
 engineersgate	no_matching_jobs
 quadraturecapital	no_matching_jobs
 reltio	no_matching_jobs

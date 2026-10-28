@@ -552,3 +552,5 @@ stablekernel
 merchantsfleetmanagement
 vesalius
 archer56
+givedirectly
+locusrobotics
