@@ -6781,7 +6781,6 @@ diligentcorporation	no_matching_jobs
 unisonhomeownershipinvestors	no_matching_jobs
 thinkacademyus	no_matching_jobs
 sourcescrub	no_jobs
-vialogic	no_matching_jobs
 mill	no_matching_jobs
 mightynetworks	no_matching_jobs
 horizons	http_404
