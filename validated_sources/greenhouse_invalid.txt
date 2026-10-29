@@ -5028,7 +5028,6 @@ hashgraph	no_jobs
 sonobello	no_matching_jobs
 qcentrix	http_404
 ohsufoundation	no_matching_jobs
-octanelending	no_matching_jobs
 ukmed	no_matching_jobs
 adahealth	no_jobs
 bruntworkwear	no_matching_jobs
@@ -6602,7 +6601,6 @@ whatnot	http_404
 ls3p	no_matching_jobs
 lifeskillsautismacademy	no_matching_jobs
 sparksoftcorporation	no_matching_jobs
-msfcareers	no_matching_jobs
 animalcarecenterpearisburg	no_matching_jobs
 nearform	no_matching_jobs
 tennesseetitleloansinc	no_matching_jobs
@@ -6728,7 +6726,6 @@ hydritechemicalco	no_matching_jobs
 mach49	http_404
 tvscientific	http_404
 terapore	http_404
-figure	no_matching_jobs
 alphagrepsecurities	no_matching_jobs
 starcloud	http_404
 freedamedia	http_404
@@ -7061,7 +7058,6 @@ mixtiles	no_matching_jobs
 tomofunfurbo	no_matching_jobs
 alx	no_jobs
 valspec	no_matching_jobs
-precisionmedicinegroup	no_matching_jobs
 monks	no_matching_jobs
 capstoneinvestmentadvisors	no_matching_jobs
 orium	no_jobs
@@ -8276,7 +8272,6 @@ daylight	no_matching_jobs
 weavegrid	http_404
 bigleafnetworks	no_jobs
 formaaiinc	no_matching_jobs
-nextiva	no_matching_jobs
 vsco39	no_matching_jobs
 simspace	http_404
 clickstop	no_matching_jobs
@@ -8657,7 +8652,6 @@ alphapublicschools	no_matching_jobs
 ahrefsjobs	no_matching_jobs
 nauto	http_404
 classdojo	http_404
-tripadvisor	no_matching_jobs
 overstory	no_jobs
 wgachidden	no_jobs
 xosinc	no_matching_jobs

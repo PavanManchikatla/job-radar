@@ -10142,7 +10142,6 @@ vohra	no_matching_jobs
 world-view-enterprises-inc	http_404
 viget	no_matching_jobs
 welocalize	http_404
-workwave	no_matching_jobs
 wingtra-2	no_matching_jobs
 wgsn	no_matching_jobs
 worldover	no_jobs
@@ -16645,7 +16644,6 @@ infogrid	http_404
 infogridlinks	http_404
 inflexion	http_404
 hqxyz	http_404
-inflowfed	no_matching_jobs
 infrastructureandcapitalprojects	http_404
 infrastructureontario	http_404
 initialized	http_404
