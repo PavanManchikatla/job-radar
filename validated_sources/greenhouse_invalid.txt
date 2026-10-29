@@ -630,7 +630,6 @@ keith meister	http_404
 flow traders	http_404
 jump trading	http_404
 tower research	http_404
-virtu	no_matching_jobs
 hudson river trading	http_404
 sig	http_404
 citadel securities	http_404
@@ -8188,7 +8187,6 @@ englishcanada	no_matching_jobs
 artsy	http_404
 jcdecaux	no_matching_jobs
 ohdela	no_matching_jobs
-apexcompanies	no_matching_jobs
 openap	no_jobs
 equityzen	no_matching_jobs
 schweigerdermatologygroup	http_404

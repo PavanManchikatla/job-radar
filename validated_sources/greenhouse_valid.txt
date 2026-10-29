@@ -554,3 +554,5 @@ vesalius
 archer56
 givedirectly
 locusrobotics
+virtu
+apexcompanies

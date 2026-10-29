@@ -17327,7 +17327,6 @@ patientcolife	http_404
 pathpoint	no_matching_jobs
 pavementcoffee	no_jobs
 parcellab	http_404
-patchmypc	no_matching_jobs
 payabli	no_jobs
 patsnap	no_jobs
 payfit	http_404

@@ -129,3 +129,4 @@ zaimler
 makpar
 bluebottlecoffee
 jushico
+patchmypc
