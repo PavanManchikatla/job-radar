@@ -7507,7 +7507,6 @@ flamingo	no_matching_jobs
 jobsatphamily	no_matching_jobs
 dialership	no_matching_jobs
 monumentalsports	no_matching_jobs
-valtech	no_matching_jobs
 galaxydigitalservices	no_matching_jobs
 smus	http_404
 piclo	http_404
@@ -8566,7 +8565,6 @@ stitchfix	no_matching_jobs
 pdmgroupasp	http_404
 bulletfarm	http_404
 alumis	no_matching_jobs
-wisetack	no_matching_jobs
 levio	no_matching_jobs
 aurorainnovation	http_404
 americaneedsyou	http_404

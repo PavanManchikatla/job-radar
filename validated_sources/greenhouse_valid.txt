@@ -563,3 +563,5 @@ figure
 precisionmedicinegroup
 nextiva
 tripadvisor
+valtech
+wisetack
