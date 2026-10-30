@@ -5572,7 +5572,6 @@ schoolstatus	no_matching_jobs
 hiddenlayer	no_matching_jobs
 insightassurance	no_matching_jobs
 123	http_404
-woolpert	no_matching_jobs
 wildlifestudios	no_matching_jobs
 horizenlabs	no_matching_jobs
 yld	no_matching_jobs
@@ -5879,7 +5878,6 @@ lacarguy	no_matching_jobs
 nasstudios	no_jobs
 stealthceo	http_404
 audipacific	no_matching_jobs
-myriad360	no_matching_jobs
 allarahealth	http_404
 trase	no_matching_jobs
 gcmgrosvenor	no_matching_jobs
@@ -8114,7 +8112,6 @@ elwoodtechnologies	no_matching_jobs
 workshop	no_matching_jobs
 xometryeurope	no_matching_jobs
 circleso	http_404
-expel	no_matching_jobs
 deepwatchindia	no_matching_jobs
 cb4	no_jobs
 katrisk	http_404
