@@ -9674,7 +9674,6 @@ inpay-2	no_matching_jobs
 insomniacdesign	no_matching_jobs
 insify	no_matching_jobs
 hermeus	no_matching_jobs
-inductivehealth	no_matching_jobs
 finquery	no_matching_jobs
 goalbookapp-2	no_matching_jobs
 instrumentl	http_404

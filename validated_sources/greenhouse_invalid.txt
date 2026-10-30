@@ -5006,7 +5006,6 @@ forethought	http_404
 hbstudios	no_jobs
 possiblefinancialinc	http_404
 spotoncorporate	http_404
-hudl	no_matching_jobs
 antheia	no_matching_jobs
 babbel	http_404
 bioptimizers	http_404
