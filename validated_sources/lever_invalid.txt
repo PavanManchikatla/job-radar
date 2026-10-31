@@ -9909,7 +9909,6 @@ portpro	no_matching_jobs
 redi	http_404
 quincyinst	no_matching_jobs
 quadlock	no_matching_jobs
-raya	no_matching_jobs
 rainforest	http_404
 redsox	no_matching_jobs
 regalvoice	http_404

@@ -6026,7 +6026,6 @@ tr1x	no_matching_jobs
 alphasights	no_matching_jobs
 cameo	no_matching_jobs
 catchafire	http_404
-momentous	no_matching_jobs
 realtimeboardglobal	no_matching_jobs
 internrecruiting	no_matching_jobs
 watchmakergenomics	no_matching_jobs
@@ -6034,7 +6033,6 @@ airnorth	no_matching_jobs
 wallstreetprep	no_matching_jobs
 vpawv	no_jobs
 survata	no_matching_jobs
-pontera	no_matching_jobs
 shift4	http_404
 togetherwork	no_matching_jobs
 desktopmetal	http_404
