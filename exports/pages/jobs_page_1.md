@@ -1,6 +1,6 @@
 # Jobs Feed (Page 1/1)
 
-_Last updated: 2026-10-31 15:10 CDT_
+_Last updated: 2026-10-31 18:32 CDT_
 
 | Posted | Company | Title | Location | Source |
 |---|---|---|---|---|
@@ -23,6 +23,7 @@ _Last updated: 2026-10-31 15:10 CDT_
 | 2026-10-31 | squad | [Lead Applied Scientist](https://squad.tech/careers/?gh_jid=8112122) | Kyiv; Lviv; Remote | greenhouse |
 | 2026-10-31 | flagshippioneeringinc | [Senior ML Engineer](https://boards.greenhouse.io/flagshippioneeringinc/jobs/8924779002?gh_jid=8924779002) | Cambridge, MA USA | greenhouse |
 | 2026-10-31 | tutorintelligence | [Robotics Research Scientist (San Francisco, CA)](https://jobs.lever.co/tutorintelligence/cabe6bf9-9175-4810-af41-a7178025705b) | San Francisco, CA | lever |
+| 2026-10-31 | GiveDirectly | [Senior Data Scientist, MNO Data](https://jobicy.com/jobs/158241-senior-data-scientist-mno-data) | Canada,  Germany,  Netherlands,  Poland,  Portugal,  Spain,  Türkiye,  UK,  USA | jobicy |
 | 2026-10-31 | abacusinsights | [Forward Deployed Data Engineer](https://boards.greenhouse.io/abacusinsights/jobs/8881403002?gh_jid=8881403002) | United States | greenhouse |
 | 2026-10-31 | abacusinsights | [Growth Analytics Manager, Payment Integrity](https://boards.greenhouse.io/abacusinsights/jobs/8770716002?gh_jid=8770716002) | United States | greenhouse |
 | 2026-10-31 | abacusinsights | [Senior AI Engineer](https://boards.greenhouse.io/abacusinsights/jobs/8638922002?gh_jid=8638922002) | United States | greenhouse |
@@ -405,18 +406,5 @@ _Last updated: 2026-10-31 15:10 CDT_
 | 2026-10-28 | convene | [Analytics Engineer](https://job-boards.greenhouse.io/convene/jobs/8318638) | Remote (US East Coast / Eastern Time Zone Preferred) | greenhouse |
 | 2026-10-28 | greenbrookmedical | [Director of Data Engineering and Analytics](https://job-boards.greenhouse.io/greenbrookmedical/jobs/5447316008) | New York City, NY | greenhouse |
 | 2026-10-28 | servicenow | [Senior Staff ML Engineer, AI Safeguards - Moveworks](https://api.smartrecruiters.com/v1/companies/servicenow/postings/744000158402650) | Mountain View CALIFORNIA us | smartrecruiters |
-| 2026-10-28 | doximity | [Data Scientist](https://job-boards.greenhouse.io/doximity/jobs/7909273) | San Francisco, CA or Remote (U.S.) | greenhouse |
-| 2026-10-28 | skylighthq | [Senior/Staff/Principal Data Scientist (HHS)](https://job-boards.greenhouse.io/skylighthq/jobs/4748697005) | United States | greenhouse |
-| 2026-10-28 | anavationllc | [AI Engineer SME](https://jobs.lever.co/anavationllc/64e7af63-02b2-414c-932a-91f42733c10a) | Chantilly, VA | lever |
-| 2026-10-28 | seatgeek | [Senior Machine Learning Engineer](https://seatgeek.com/jobs/7246460?gh_jid=7246460) | Remote - United States | greenhouse |
-| 2026-10-28 | splice | [Data Engineer II (Remote US)](https://job-boards.greenhouse.io/splice/jobs/8707299002) | Remote - U.S. | greenhouse |
-| 2026-10-28 | seatgeek | [Senior Data Analyst, Supply](https://seatgeek.com/jobs/8287458?gh_jid=8287458) | Remote - United States | greenhouse |
-| 2026-10-28 | virtu | [Quantitative Researcher (PhD)](https://job-boards.greenhouse.io/virtu/jobs/4205353002) | Austin, TX; New York | greenhouse |
-| 2026-10-28 | icapitalnetwork | [AI Engineer - Assistant Vice President](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8750476002) | New York, New York, United States | greenhouse |
-| 2026-10-28 | icapitalnetwork | [AI Engineer - Vice President](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8750444002) | New York, New York, United States | greenhouse |
-| 2026-10-28 | icapitalnetwork | [Data Engineering Lead - Senior Vice President](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8802309002) | New York, New York, United States | greenhouse |
-| 2026-10-28 | profluent | [Software Engineer, Machine Learning Platform](https://job-boards.greenhouse.io/profluent/jobs/5290271008) | Emeryville, California, United States; Hybrid (2-3 days on-site) | greenhouse |
-| 2026-10-28 | liftoff | [Lead Data Analyst](https://liftoff.io/job/8330805?gh_jid=8330805) | United States (Remote) | greenhouse |
-| 2026-10-28 | disco | [Principal Machine Learning Scientist](https://www.csdisco.com/careers-listing?gh_jid=8883607002) | Remote, USA | greenhouse |
 
 [Back to README](../../README.md)
