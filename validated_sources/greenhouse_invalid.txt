@@ -594,7 +594,6 @@ mayfield	http_404
 spark capital	http_404
 foundry group	http_404
 first round	http_404
-point72	no_matching_jobs
 redpoint	http_404
 union square ventures	http_404
 lux capital	http_404
