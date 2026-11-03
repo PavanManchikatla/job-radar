@@ -6699,7 +6699,6 @@ tds	no_matching_jobs
 deepscribe	http_404
 datakindinc	no_matching_jobs
 solarisbank	no_matching_jobs
-pelago	no_matching_jobs
 alchemy	http_404
 waltzhealth	no_jobs
 thejewishfederationsofnorthamerica	no_matching_jobs
@@ -8595,7 +8594,6 @@ livingstonassociates	http_404
 shardeumfoundation	http_404
 worldsuntold	http_404
 acorns	http_404
-vestwell	no_matching_jobs
 stitchfix	no_matching_jobs
 alumis	no_matching_jobs
 bulletfarm	http_404
@@ -8748,7 +8746,6 @@ invgate	no_matching_jobs
 panoramaed	http_404
 offensivesecurity	http_404
 jazzx-ai	no_matching_jobs
-ruelala	no_matching_jobs
 btgpactualchile	no_matching_jobs
 kovitz	http_404
 alphataraxia	no_matching_jobs
