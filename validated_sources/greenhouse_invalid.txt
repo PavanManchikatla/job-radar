@@ -6647,7 +6647,6 @@ redapt	no_matching_jobs
 noahmedical	no_matching_jobs
 productschool	http_404
 etec	no_matching_jobs
-generalmatter	no_matching_jobs
 bam	http_404
 vectranetworks	no_matching_jobs
 givewell	no_matching_jobs
