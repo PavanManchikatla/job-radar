@@ -3017,7 +3017,6 @@ omnisend	http_404
 getresponse	http_404
 sendlane	http_404
 infusionsoft	http_404
-klaviyo	no_matching_jobs
 keap	http_404
 customer.io	http_404
 brevo	http_404
@@ -5788,7 +5787,6 @@ bswift	no_matching_jobs
 admarketplaceinc	http_404
 growe	no_matching_jobs
 culthealth	http_404
-marinomanagementllc	no_matching_jobs
 userinterviews	http_404
 markforged	no_matching_jobs
 rangeviewinc	no_matching_jobs
@@ -7217,7 +7215,6 @@ earnest	no_matching_jobs
 unlimitedtechnology	no_matching_jobs
 banyansoftware	no_matching_jobs
 altium	http_404
-himarley	no_matching_jobs
 willowinnovations	no_matching_jobs
 varsitytutors	http_404
 firaxis	no_matching_jobs
@@ -8354,7 +8351,6 @@ aperaaiinc	no_matching_jobs
 azuritypharmaceuticalsindia	no_matching_jobs
 shearerssnacks	http_404
 efficientcomputer	no_matching_jobs
-dforeferrals	no_matching_jobs
 tandemlaunch	no_matching_jobs
 luckybeverageco	no_jobs
 urbansky	no_matching_jobs
@@ -8693,7 +8689,6 @@ mcculloughrobertson	http_404
 well	http_404
 plume	no_matching_jobs
 daggerwinggroup	no_matching_jobs
-novoed	no_matching_jobs
 oliverseapac	no_matching_jobs
 hala	http_404
 irely	no_matching_jobs
