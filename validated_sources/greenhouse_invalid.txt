@@ -5718,7 +5718,6 @@ altruist	no_matching_jobs
 nice	no_matching_jobs
 lucidsoftware	no_matching_jobs
 sharkninjaoperatingllc	no_matching_jobs
-ardentmc	no_matching_jobs
 marscousg	no_matching_jobs
 audibenehearcom	no_matching_jobs
 modernhealth	no_matching_jobs
@@ -7890,7 +7889,6 @@ securitycompass	no_jobs
 entradatherapeutics	no_matching_jobs
 vytalizehealth	http_404
 decimainternational	no_matching_jobs
-babylist	no_matching_jobs
 qumulo	http_404
 fantasticpixelcastle	http_404
 alarmcom	no_matching_jobs
@@ -8220,7 +8218,6 @@ kit	http_404
 rdstation	no_matching_jobs
 bitbio	no_jobs
 tripwireinteractive	no_matching_jobs
-eulerity	no_matching_jobs
 tpcengineeringholdingsllc	no_matching_jobs
 bluevineus	no_matching_jobs
 gorjana	no_matching_jobs
@@ -8570,7 +8567,6 @@ rocketlawyer	no_matching_jobs
 assuredguaranty	no_matching_jobs
 sparkland	no_matching_jobs
 clipboardhealth	http_404
-strivehealth	no_matching_jobs
 1910genetics	http_404
 g2vp	no_matching_jobs
 cti	http_404
@@ -8594,7 +8590,6 @@ livingstonassociates	http_404
 shardeumfoundation	http_404
 worldsuntold	http_404
 acorns	http_404
-stitchfix	no_matching_jobs
 alumis	no_matching_jobs
 bulletfarm	http_404
 americaneedsyou	http_404
