@@ -144,7 +144,6 @@ airtable	no_matching_jobs
 trello	http_404
 basecamp	http_404
 atlassian	http_404
-smartsheet	no_matching_jobs
 teamwork	http_404
 workfront	http_404
 clarizen	http_404
@@ -4178,7 +4177,6 @@ momenta	http_404
 plus ai	http_404
 tusimple	http_404
 torc	http_404
-kodiak	no_matching_jobs
 gatik	http_404
 embark	http_404
 udelv	http_404
@@ -4988,7 +4986,6 @@ journey	no_matching_jobs
 released	no_matching_jobs
 privateidentity	no_matching_jobs
 ntx	http_404
-mcghealth	no_matching_jobs
 coconutsoftware	no_matching_jobs
 peopledatalabs	http_404
 alteradigitalhealthindia	http_404
@@ -6408,7 +6405,6 @@ topsort	no_matching_jobs
 luno	no_matching_jobs
 orchestra	no_matching_jobs
 breakthroughenergy38	http_404
-excella	no_matching_jobs
 veratherapeuticsinc	no_matching_jobs
 flipp	no_matching_jobs
 mx51	no_matching_jobs
@@ -7939,7 +7935,6 @@ canto	no_matching_jobs
 legendcareers	no_matching_jobs
 generalatlantic	no_matching_jobs
 incommonwith	no_matching_jobs
-classpass	no_matching_jobs
 103644278	no_matching_jobs
 animallogicglobalhybrid	http_404
 noyocareers	no_matching_jobs
