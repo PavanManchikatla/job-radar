@@ -5987,7 +5987,6 @@ spotai	http_404
 cobblestoneenergy4	no_matching_jobs
 alphasenseindia	no_matching_jobs
 emotiveio	http_404
-axon	no_matching_jobs
 headspaceproviders	no_matching_jobs
 successkpiinc	no_jobs
 unispacelifesciences	no_matching_jobs
@@ -7613,7 +7612,6 @@ vhsys	no_jobs
 seatown	no_matching_jobs
 further	no_matching_jobs
 meetelise	http_404
-eleviassociates	no_matching_jobs
 sonothera	no_jobs
 telusdigitalbr	http_404
 genezenlabs	no_matching_jobs
