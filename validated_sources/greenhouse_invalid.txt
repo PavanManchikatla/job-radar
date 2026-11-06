@@ -5239,7 +5239,6 @@ testlio	no_matching_jobs
 brevium	no_matching_jobs
 buynomics	no_matching_jobs
 benevity	http_404
-nationalpublicradioinc	no_matching_jobs
 canonicaljobs	http_404
 allbirdsretail	http_404
 horacemannagents	no_matching_jobs
@@ -5931,7 +5930,6 @@ firstlook	http_404
 bettyjobboard	no_matching_jobs
 companycam	http_404
 m0dbathenextthingltd	no_matching_jobs
-oddball	no_matching_jobs
 payhawkio	no_matching_jobs
 rhythmagency	no_matching_jobs
 thirtymadison	http_404

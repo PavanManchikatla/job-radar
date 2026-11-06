@@ -9873,7 +9873,6 @@ koalahealth	no_matching_jobs
 pivotenergy	no_matching_jobs
 portpro	no_matching_jobs
 placemakr	no_matching_jobs
-ppfa	no_matching_jobs
 pphp	no_matching_jobs
 portagepointpartners	no_matching_jobs
 pp-la	no_matching_jobs
@@ -16360,7 +16359,6 @@ fulcrumservices	http_404
 forbrightbank	no_matching_jobs
 fullspectrumsoftware	no_matching_jobs
 frontapp	http_404
-crosscountry-consulting	no_matching_jobs
 fuellabs	no_matching_jobs
 fundrise	no_matching_jobs
 ftxus	http_404
@@ -16626,7 +16624,6 @@ humanapi	http_404
 imagexmedia	no_matching_jobs
 imperfectfoods	http_404
 hopelab	no_jobs
-immuta	no_matching_jobs
 inato	http_404
 improbable	http_404
 incorta	no_matching_jobs
