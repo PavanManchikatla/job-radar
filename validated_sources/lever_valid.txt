@@ -129,3 +129,5 @@ avalerehealth
 ppfa
 crosscountry-consulting
 immuta
+delfidiagnostics
+nextech

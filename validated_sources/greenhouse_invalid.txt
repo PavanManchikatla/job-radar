@@ -5729,7 +5729,6 @@ mcclureoilcorporation	no_matching_jobs
 datavant2	no_matching_jobs
 genuine	no_jobs
 tracylocke	no_jobs
-openteams	no_matching_jobs
 neweratech	no_matching_jobs
 folxhealth	no_matching_jobs
 hotmartcareersbr	no_matching_jobs
@@ -6386,7 +6385,6 @@ fortra	http_404
 practicebetter	no_matching_jobs
 go1blinkist	http_404
 twochairs	no_matching_jobs
-canopytax	no_matching_jobs
 duckworksmillworksolutions	no_matching_jobs
 zubiad	no_jobs
 indigo	no_matching_jobs

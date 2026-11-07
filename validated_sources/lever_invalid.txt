@@ -9517,7 +9517,6 @@ cypher-games	no_matching_jobs
 deepjudge	http_404
 bluelightconsulting	no_matching_jobs
 deleteme	no_matching_jobs
-delfidiagnostics	no_matching_jobs
 decilegroup	no_matching_jobs
 demiurgestudios	no_jobs
 dexterity	no_matching_jobs
@@ -17159,7 +17158,6 @@ next-decade	no_jobs
 nextcaller	http_404
 nextdata	http_404
 nextgames	http_404
-nextech	no_matching_jobs
 neowiz	no_matching_jobs
 nfamilyclub-2	http_404
 nftnow	http_404
