@@ -20103,3 +20103,27 @@ helios-intelligence
 lucebox
 superpowersmobilityspm
 super-powers-mobility-spm
+
+# --- YC hiring companies ---
+trexorobotics
+trexo-robotics
+trexo
+inferedge
+unravelcarbon
+unravel-carbon
+unravel
+fours
+hyperdesk
+gruspace
+gru-space
+gru
+aircapsai
+aircaps-ai
+selfin
+infera
+armature
+e2e
+bayworks
+adalatai
+adalat-ai
+adalat
