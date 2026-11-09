@@ -5513,7 +5513,6 @@ shiphawk	no_matching_jobs
 higherlogic	no_matching_jobs
 nlcventures	no_matching_jobs
 clydegroup	http_404
-pathai	no_matching_jobs
 bynderjobs	http_404
 loominc	http_404
 iftother	no_matching_jobs
@@ -6879,7 +6878,6 @@ nerostechnologies	no_matching_jobs
 solera	no_jobs
 ie	no_matching_jobs
 celestialai	http_404
-bestpass	no_matching_jobs
 harperdbinc	http_404
 veterinaryemergencygroupst	no_matching_jobs
 cuyana	no_matching_jobs
@@ -11753,7 +11751,6 @@ apellis	http_404
 apeel	http_404
 apartmentlist	http_404
 apexlogic	http_404
-apiphani	no_matching_jobs
 apiascholars	http_404
 apisero	http_404
 aplayers	no_matching_jobs
@@ -12261,7 +12258,6 @@ conroyorthodontics	no_matching_jobs
 constructsecure	http_404
 constructorknowledg	no_matching_jobs
 consensysremote	http_404
-consumeredge	no_matching_jobs
 consumertrack	http_404
 contentive	no_jobs
 contactmonkey	no_matching_jobs

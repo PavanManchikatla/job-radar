@@ -16942,7 +16942,6 @@ logicmanager	http_404
 lumary	http_404
 lumapictures	http_404
 lumin	http_404
-lumafield	no_matching_jobs
 luminary-labs	no_matching_jobs
 luminarycloud	http_404
 loopinternet	http_404
