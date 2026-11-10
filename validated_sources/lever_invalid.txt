@@ -10085,7 +10085,6 @@ thetrevorproject	no_matching_jobs
 redwoodcu	no_matching_jobs
 sysdig	no_matching_jobs
 thepeoplebrand	no_matching_jobs
-triallibrary	no_matching_jobs
 treering	no_matching_jobs
 tradeify	http_404
 tribe-payments	no_matching_jobs
@@ -10096,7 +10095,6 @@ spreetail	no_matching_jobs
 trustly	no_jobs
 tokenmetrics	http_404
 trunkio	no_jobs
-thinkahead	no_matching_jobs
 truv	no_matching_jobs
 tryriot	no_matching_jobs
 twingate	no_matching_jobs
