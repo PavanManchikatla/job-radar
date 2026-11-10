@@ -366,7 +366,6 @@ xoom	no_postings
 worldremit	no_postings
 azimo	no_postings
 instarem	no_postings
-wise	no_matching_jobs
 currencyfair	no_postings
 ofx	no_postings
 small world	http_400

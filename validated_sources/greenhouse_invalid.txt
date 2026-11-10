@@ -5386,9 +5386,7 @@ learnlux	no_matching_jobs
 nazare	no_jobs
 blackthorn	no_matching_jobs
 studycareers	no_matching_jobs
-oscar	no_matching_jobs
 ribolifamilywines	no_matching_jobs
-stablekernel	no_matching_jobs
 autoproff	no_matching_jobs
 candid	no_matching_jobs
 scileads	no_matching_jobs
@@ -5649,7 +5647,6 @@ avride	no_matching_jobs
 quisitivejobs	no_matching_jobs
 cloudbeds	no_matching_jobs
 coursemojo	no_jobs
-merceradvisors	no_matching_jobs
 inizio	no_matching_jobs
 lucanetgroup	no_matching_jobs
 fortisgames	no_jobs
@@ -6456,7 +6453,6 @@ safetyworxs	no_matching_jobs
 inkind	no_matching_jobs
 morganmorganjobsapplynow	no_matching_jobs
 selinicapital	no_matching_jobs
-narvar	no_matching_jobs
 aspire	http_404
 oceanx	no_matching_jobs
 kasian	http_404
@@ -7759,7 +7755,6 @@ squintopera	no_jobs
 helsing	no_matching_jobs
 lisc	no_matching_jobs
 pricefox	no_matching_jobs
-sixfold	no_matching_jobs
 pagerduty	no_matching_jobs
 ifoodcarreiras	no_matching_jobs
 picnichealth	http_404
@@ -7968,7 +7963,6 @@ gomotive	no_matching_jobs
 audicus	http_404
 kasaliving	http_404
 porternovelli	no_jobs
-cardata	no_matching_jobs
 novig	http_404
 careportalinc	no_matching_jobs
 capitalize	http_404
@@ -8135,7 +8129,6 @@ meridianpartners	no_matching_jobs
 lyellimmunopharma	no_matching_jobs
 traversal	http_404
 whop	http_404
-everway	no_matching_jobs
 aottechnologies	no_matching_jobs
 armada	no_matching_jobs
 plotly	http_404
@@ -8302,7 +8295,6 @@ decibelfoundation	no_matching_jobs
 spacexglobal	no_matching_jobs
 litify	no_matching_jobs
 riversidenaturalfoodsltd	no_matching_jobs
-shinvestmentsllc	no_matching_jobs
 shift5	no_matching_jobs
 daylight	no_matching_jobs
 joinpaxos	http_404
@@ -8508,7 +8500,6 @@ ostrohealth	http_404
 explorasolutions	no_matching_jobs
 flyr	http_404
 otterbein	no_matching_jobs
-constantcontact	no_matching_jobs
 interviewkickstart	http_404
 emarketer	no_matching_jobs
 carolinatitleloansinc	no_matching_jobs
@@ -14467,7 +14458,6 @@ threatlocker	http_404
 threeships	http_404
 thriveglobal	http_404
 throughline	http_404
-thrivedigital	no_matching_jobs
 teampicnic	no_matching_jobs
 tiermobilitygermany	http_404
 thunes	no_matching_jobs
@@ -14510,7 +14500,6 @@ treasury4	http_404
 travix	no_matching_jobs
 traveledge	http_404
 trellisrx	http_404
-trellahealth	no_matching_jobs
 trialspark	http_404
 trilliumsurveyor	no_matching_jobs
 tribe	http_404
