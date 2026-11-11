@@ -7216,7 +7216,6 @@ billiontoone	no_matching_jobs
 unlimitedtechnology	no_matching_jobs
 radiant	http_404
 axicom	no_matching_jobs
-earnest	no_matching_jobs
 altium	http_404
 americannational	http_404
 willowinnovations	no_matching_jobs
@@ -8121,7 +8120,6 @@ apparatus	no_matching_jobs
 aurosglobal	no_matching_jobs
 sprig	http_404
 guidelighthealth	no_matching_jobs
-northpointtechnology	no_matching_jobs
 merge	no_jobs
 meridianpartners	no_matching_jobs
 lyellimmunopharma	no_matching_jobs

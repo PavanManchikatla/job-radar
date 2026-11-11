@@ -635,3 +635,5 @@ flowcode
 theknotworldwide
 swordhealth
 patientpoint
+earnest
+northpointtechnology
