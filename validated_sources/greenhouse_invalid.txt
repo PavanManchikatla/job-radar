@@ -5350,7 +5350,6 @@ snapdocs	http_404
 rockbot	http_404
 pinnacolassurance	no_matching_jobs
 pantherlabs	http_404
-flowcode	no_matching_jobs
 unframe	no_matching_jobs
 airtamejobs	no_matching_jobs
 myforestfoods	http_404
@@ -6107,7 +6106,6 @@ keplergroup	no_matching_jobs
 amnh	no_matching_jobs
 oliver	no_matching_jobs
 offerzen	no_matching_jobs
-theknotworldwide	no_matching_jobs
 glydways	no_matching_jobs
 liaisoninternational	no_matching_jobs
 zocalohealth	no_matching_jobs
@@ -9581,7 +9579,6 @@ supportkind	http_404
 superstate	http_404
 synapticure	http_404
 surfshark	http_404
-swordhealth	no_matching_jobs
 synmax	http_404
 syw	http_404
 sysdig	http_404
