@@ -8684,7 +8684,6 @@ cfoinsights	no_matching_jobs
 well	http_404
 tenableinc	no_matching_jobs
 vibesllc	no_matching_jobs
-patientpoint	no_matching_jobs
 contentful	no_matching_jobs
 naturesbakery	no_jobs
 hala	http_404
