@@ -9473,7 +9473,6 @@ cherre	no_matching_jobs
 cfgi	no_matching_jobs
 chargezoom	no_matching_jobs
 cfsenergy	no_matching_jobs
-clearcapital	no_matching_jobs
 clarifyhealth	no_matching_jobs
 clearpoint	no_matching_jobs
 cloaked-app	no_jobs
