@@ -7040,7 +7040,6 @@ concerthealth	no_matching_jobs
 fountain	http_404
 pingcap	no_matching_jobs
 creditasen	http_404
-dlhcorporation	no_matching_jobs
 earnin	no_matching_jobs
 southernpovertylawcenter	no_matching_jobs
 ripplematchinterns	http_404
@@ -8049,7 +8048,6 @@ saltsecurity	no_matching_jobs
 lila	http_404
 bbyo	no_matching_jobs
 thedailybeast31	http_404
-homeward	no_matching_jobs
 proton	no_matching_jobs
 carefeed	no_matching_jobs
 outsetmedical	no_matching_jobs
