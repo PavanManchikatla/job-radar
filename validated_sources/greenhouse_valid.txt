@@ -640,3 +640,6 @@ northpointtechnology
 backblaze
 dlhcorporation
 homeward
+anaplan
+avidxchangeinc
+figure

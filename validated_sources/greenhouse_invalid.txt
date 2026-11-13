@@ -2959,7 +2959,6 @@ vena	http_404
 planful	http_404
 datarails	no_matching_jobs
 host analytics	http_404
-anaplan	no_matching_jobs
 tidemark	http_404
 axiom	no_matching_jobs
 lucanet	http_404
@@ -5670,7 +5669,6 @@ sorcero	http_404
 globalenergyallianceforpeopleandplanetgeappllc	no_matching_jobs
 morty	http_404
 calm	no_matching_jobs
-avidxchangeinc	no_matching_jobs
 processstreet	no_matching_jobs
 tutorme	http_404
 scaletowinllc	http_404
@@ -6732,7 +6730,6 @@ genies	http_404
 terapore	http_404
 hydritechemicalco	no_matching_jobs
 tvscientific	http_404
-figure	no_matching_jobs
 alphagrepsecurities	no_matching_jobs
 freedamedia	http_404
 waymark	no_matching_jobs
