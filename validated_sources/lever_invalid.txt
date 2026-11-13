@@ -9570,7 +9570,6 @@ eve	http_404
 certifyos	no_jobs
 evertas	http_404
 ethereumfoundation	http_404
-esrtreit	no_matching_jobs
 fatetherapeutics	no_matching_jobs
 fampay	no_matching_jobs
 applydigital	no_matching_jobs

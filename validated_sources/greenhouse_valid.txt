@@ -643,3 +643,5 @@ homeward
 anaplan
 avidxchangeinc
 figure
+darkhorseemergency
+ensco

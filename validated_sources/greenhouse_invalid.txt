@@ -12333,7 +12333,6 @@ daisybill	http_404
 dashq	http_404
 databook	http_404
 darkburncreative	http_404
-darkhorseemergency	no_matching_jobs
 datacor	no_matching_jobs
 datapeople	http_404
 datamilkwebsite	http_404
@@ -12502,7 +12501,6 @@ energizecapital	no_jobs
 enhesa	no_matching_jobs
 energywebfoundation	http_404
 enscohotjobs	no_jobs
-ensco	no_matching_jobs
 ensemble	no_jobs
 enlacehealth	no_matching_jobs
 ensitefulinternalpositions	http_404

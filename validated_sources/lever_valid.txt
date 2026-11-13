@@ -127,3 +127,4 @@ tpgsi
 fi
 clearcapital
 viseven
+esrtreit
