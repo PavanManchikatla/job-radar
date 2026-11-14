@@ -128,3 +128,5 @@ fi
 clearcapital
 viseven
 esrtreit
+tovala
+agiloft

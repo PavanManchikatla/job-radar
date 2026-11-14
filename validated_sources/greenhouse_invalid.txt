@@ -6057,7 +6057,6 @@ instawork	no_matching_jobs
 resortpass	no_matching_jobs
 theswiftgroup	http_404
 taxbit	no_matching_jobs
-energysolutions	no_matching_jobs
 careersatkokua	no_matching_jobs
 playq	no_matching_jobs
 juullabs	no_matching_jobs
@@ -6966,7 +6965,6 @@ obrienveterinarygroup	no_matching_jobs
 pay2dc	no_matching_jobs
 visia	http_404
 alethea	no_jobs
-osano	no_matching_jobs
 franklincovey	http_404
 engageseniortherapy	no_matching_jobs
 rocketlab	no_matching_jobs
@@ -7951,7 +7949,6 @@ oliverusa	no_matching_jobs
 filescom	no_matching_jobs
 range	no_matching_jobs
 soloioinc	no_matching_jobs
-gomotive	no_matching_jobs
 audicus	http_404
 kasaliving	http_404
 porternovelli	no_jobs
