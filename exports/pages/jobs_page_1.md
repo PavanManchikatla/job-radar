@@ -1,10 +1,13 @@
 # Jobs Feed (Page 1/1)
 
-_Last updated: 2026-11-14 05:46 CST_
+_Last updated: 2026-11-14 12:13 CST_
 
 | Posted | Company | Title | Location | Source |
 |---|---|---|---|---|
-| 2026-11-14 | Fleetio | [Senior Applied Data Scientist, Fleet Intelligence](https://jobicy.com/jobs/155336-senior-applied-data-scientist-fleet-intelligence) | Canada,  Mexico,  USA | jobicy |
+| 2026-11-14 | figure | [Senior Applied Scientist, Property Analytics](https://job-boards.greenhouse.io/figure/jobs/8934099002) | Remote | greenhouse |
+| 2026-11-14 | figure | [Senior Data Analyst](https://job-boards.greenhouse.io/figure/jobs/8860479002) | Remote | greenhouse |
+| 2026-11-14 | figure | [Senior Data Scientist](https://job-boards.greenhouse.io/figure/jobs/8934097002) | Remote | greenhouse |
+| 2026-11-14 | zoominfo | [Senior Business Intelligence Analyst – Product Analytics](https://www.zoominfo.com/careers?gh_jid=8561605002) | Remote | greenhouse |
 | 2026-11-14 | snorkelai | [Research Scientist, Open Benchmarks Red Team](https://job-boards.greenhouse.io/snorkelai/jobs/6260926004) | New York City, NY (Hybrid); San Francisco, CA (Hybrid); United States (Remote) | greenhouse |
 | 2026-11-14 | roblox | [Senior Software Engineer, Data Engineering](https://careers.roblox.com/jobs/8366921?gh_jid=8366921) | San Mateo, CA, United States | greenhouse |
 | 2026-11-13 | affirm | [Quantitative Analyst II (Capital Structuring & Analytics)](https://job-boards.greenhouse.io/affirm/jobs/7815952003) | Remote US | greenhouse |
@@ -144,8 +147,6 @@ _Last updated: 2026-11-14 05:46 CST_
 | 2026-11-13 | convergentresearch | [E11 Bio - Machine Learning Scientist I/II](https://jobs.lever.co/convergentresearch/2d04acd9-f54b-4cae-8751-940155884221) | Alameda, CA, Open to Remote | lever |
 | 2026-11-12 | turing | [Forward Deployed AI Engineer](https://job-boards.greenhouse.io/turing/jobs/6255357004) | Los Angeles, California, United States | greenhouse |
 | 2026-11-12 | omadahealth | [Clinical Research Scientist](https://job-boards.greenhouse.io/omadahealth/jobs/8346685) | Remote, USA | greenhouse |
-| 2026-11-12 | figure | [Senior Data Analyst](https://job-boards.greenhouse.io/figure/jobs/8860479002) | Remote | greenhouse |
-| 2026-11-12 | figure | [Senior Data Scientist](https://job-boards.greenhouse.io/figure/jobs/8934097002) | Remote | greenhouse |
 | 2026-11-12 | convene | [Analytics Engineer](https://job-boards.greenhouse.io/convene/jobs/8318638) | Remote (US East Coast / Eastern Time Zone Preferred) | greenhouse |
 | 2026-11-12 | 10alabs | [Machine Learning Engineer](https://job-boards.greenhouse.io/10alabs/jobs/4273194009) | Remote | greenhouse |
 | 2026-11-12 | strivehealth | [Director, Data Engineering](https://job-boards.greenhouse.io/strivehealth/jobs/4729319006) | Denver, CO | greenhouse |
@@ -198,7 +199,6 @@ _Last updated: 2026-11-14 05:46 CST_
 | 2026-11-12 | abinbev | [Senior Data Analyst](https://job-boards.greenhouse.io/abinbev/jobs/8638804002) | Remote, Brazil | greenhouse |
 | 2026-11-12 | abinbev | [Senior Data Engineer](https://job-boards.greenhouse.io/abinbev/jobs/8422274002) | Remote, Brazil | greenhouse |
 | 2026-11-12 | abinbev | [Senior Data Scientist - Portfolio](https://job-boards.greenhouse.io/abinbev/jobs/8920270002) | Remote | greenhouse |
-| 2026-11-12 | figure | [Senior Applied Scientist, Property Analytics](https://job-boards.greenhouse.io/figure/jobs/8934099002) | Remote | greenhouse |
 | 2026-11-12 | robotsandpencils | [Principal Applied Scientist](https://job-boards.greenhouse.io/robotsandpencils/jobs/5479769008) | US Remote | greenhouse |
 | 2026-11-12 | gotorq | [Principal Consultant – Modern Data & Analytics Engineering](https://job-boards.greenhouse.io/gotorq/jobs/5480422008) | Plano, TX | greenhouse |
 | 2026-11-12 | stackav | [Staff Full-Stack Software Engineer, Machine Learning Platform](https://job-boards.greenhouse.io/stackav/jobs/5234073007) | Pittsburgh, PA or Remote | greenhouse |
@@ -253,12 +253,5 @@ _Last updated: 2026-11-14 05:46 CST_
 | 2026-11-11 | sidecarhealth | [Staff Data Analytics Engineer](https://job-boards.greenhouse.io/sidecarhealth/jobs/6221930004) | Remote | greenhouse |
 | 2026-11-11 | fi | [Lead Analytics Engineer](https://jobs.lever.co/fi/bf17e7e9-1a35-44db-a0b8-92633f790d0a) | New York, NY | lever |
 | 2026-11-11 | zocdoc | [Staff Analytics Engineer](https://job-boards.greenhouse.io/zocdoc/jobs/8356769) | New York, NY; Silicon Valley, CA | greenhouse |
-| 2026-11-11 | imc | [Machine Learning Engineer](https://job-boards.eu.greenhouse.io/imc/jobs/4430785101) | New York, United States | greenhouse |
-| 2026-11-11 | crunchyroll | [Senior CX Analytics Manager](https://boards.greenhouse.io/crunchyroll/jobs/8171662?gh_jid=8171662) | Dallas, Texas, United States | greenhouse |
-| 2026-11-11 | simplepractice55 | [Senior Data Analyst](https://www.simplepractice.com/careers/roles/6250945004?gh_jid=6250945004) | United States | greenhouse |
-| 2026-11-11 | formativgroup | [Senior Power BI Developer - US](https://job-boards.greenhouse.io/formativgroup/jobs/4488814009) | Remote/US - Full - Time | greenhouse |
-| 2026-11-11 | monzo | [Analytics Engineering Manager, FinCrime](https://job-boards.greenhouse.io/monzo/jobs/8281171) | Cardiff, London or Remote (UK); London; Remote (UK) | greenhouse |
-| 2026-11-11 | trellahealth | [Data Engineering Manager](https://job-boards.greenhouse.io/trellahealth/jobs/6250394004) | Remote - Atlanta, Philadelphia, United States | greenhouse |
-| 2026-11-11 | squad | [Applied Scientist (Computer Vision)](https://squad.tech/careers/?gh_jid=6647403) | Kyiv; Lviv; Remote | greenhouse |
 
 [Back to README](../../README.md)
