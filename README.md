@@ -1,10 +1,11 @@
 ## Jobs Feed (auto-updated)
 
 <!-- JOBS:START -->
-_Last updated: 2026-11-14 18:11 CST_
+_Last updated: 2026-11-14 23:22 CST_
 
 | Posted | Company | Title | Location | Source |
 |---|---|---|---|---|
+| 2026-11-15 | metrostarsystems | [Sr. AI Engineer I (6811)](https://metrostar.com/job-post/?gh_jid=7963207003) | Indianapolis, IN | greenhouse |
 | 2026-11-14 | Early-stage Startup | [Software Engineer & Data Analyst](https://news.ycombinator.com/item?id=50500910) | Full-Time, REMOTE (US & US Citizen) | hn_hiring |
 | 2026-11-14 | roblox | [Senior Software Engineer, Data Engineering](https://careers.roblox.com/jobs/8366921?gh_jid=8366921) | San Mateo, CA, United States | greenhouse |
 | 2026-11-14 | roblox | [Distinguished Engineer, Machine Learning - Economy](https://careers.roblox.com/jobs/7332473?gh_jid=7332473) | San Mateo, CA, United States | greenhouse |
@@ -33,8 +34,8 @@ _Last updated: 2026-11-14 18:11 CST_
 | 2026-11-14 | figure | [Senior Data Scientist](https://job-boards.greenhouse.io/figure/jobs/8934097002) | Remote | greenhouse |
 | 2026-11-14 | zoominfo | [Senior Business Intelligence Analyst – Product Analytics](https://www.zoominfo.com/careers?gh_jid=8561605002) | Remote | greenhouse |
 | 2026-11-14 | snorkelai | [Research Scientist, Open Benchmarks Red Team](https://job-boards.greenhouse.io/snorkelai/jobs/6260926004) | New York City, NY (Hybrid); San Francisco, CA (Hybrid); United States (Remote) | greenhouse |
-| 2026-11-13 | affirm | [Quantitative Analyst II (Capital Structuring & Analytics)](https://job-boards.greenhouse.io/affirm/jobs/7815952003) | Remote US | greenhouse |
 | 2026-11-13 | affirm | [Quantitative Analyst II (Capital Structuring & Analytics)](https://job-boards.greenhouse.io/affirm/jobs/7815954003) | Remote Canada | greenhouse |
+| 2026-11-13 | affirm | [Quantitative Analyst II (Capital Structuring & Analytics)](https://job-boards.greenhouse.io/affirm/jobs/7815952003) | Remote US | greenhouse |
 | 2026-11-13 | energysolutions | [Senior Data Analyst (Remote - US)](https://job-boards.greenhouse.io/energysolutions/jobs/5265186007) | Remote - US | greenhouse |
 | 2026-11-13 | distantjob | [Applied AI Engineer](https://job-boards.greenhouse.io/distantjob/jobs/8941192002) | Remote | greenhouse |
 | 2026-11-13 | mavenrobotics | [Robotics AI Research Engineer - CoRL](https://boards.greenhouse.io/mavenrobotics/jobs/5482238008?gh_jid=5482238008) | Santa Clara, CA | greenhouse |
@@ -173,8 +174,8 @@ _Last updated: 2026-11-14 18:11 CST_
 | 2026-11-12 | earnest | [Staff Data Scientist](https://app.careerpuck.com/job-board/earnest/job/8381660?gh_jid=8381660) | San Francisco, CA (Remote) | greenhouse |
 | 2026-11-12 | upstart | [Staff Data Scientist](https://careers.upstart.com/jobs?gh_jid=8120123) | United States \| Remote | greenhouse |
 | 2026-11-12 | coreone | [Data Engineer](https://job-boards.greenhouse.io/coreone/jobs/8853267002) | Tampa, FL | greenhouse |
-| 2026-11-12 | coreone | [Data Scientist](https://job-boards.greenhouse.io/coreone/jobs/8706859002) | Tampa, FL | greenhouse |
 | 2026-11-12 | coreone | [Data Scientist](https://job-boards.greenhouse.io/coreone/jobs/8815010002) | Charlottesville, VA | greenhouse |
+| 2026-11-12 | coreone | [Data Scientist](https://job-boards.greenhouse.io/coreone/jobs/8706859002) | Tampa, FL | greenhouse |
 | 2026-11-12 | coreone | [Data Scientist / Technical Targeter](https://job-boards.greenhouse.io/coreone/jobs/8569140002) | Tysons Corner, VA | greenhouse |
 | 2026-11-12 | coreone | [Geospatial Data Engineer (Senior)](https://job-boards.greenhouse.io/coreone/jobs/8844829002) | Fort Gordon, GA | greenhouse |
 | 2026-11-12 | genscript | [Sr. Research Scientist, RNA Biology](https://job-boards.greenhouse.io/genscript/jobs/5271939007) | Seattle, Washington, United States | greenhouse |
@@ -193,11 +194,11 @@ _Last updated: 2026-11-14 18:11 CST_
 | 2026-11-12 | conviva | [Data Scientist](https://job-boards.greenhouse.io/conviva/jobs/8201159003) | Foster City, California, United States | greenhouse |
 | 2026-11-12 | abinbev | [AI Engineer](https://job-boards.greenhouse.io/abinbev/jobs/8868234002) | Remote | greenhouse |
 | 2026-11-12 | abinbev | [Data Product Manager \| Machine Learning Platform](https://job-boards.greenhouse.io/abinbev/jobs/8586652002) | Remote | greenhouse |
-| 2026-11-12 | abinbev | [Intermediate Data Engineer](https://job-boards.greenhouse.io/abinbev/jobs/7598518002) | Brazil, Remote | greenhouse |
 | 2026-11-12 | abinbev | [Intermediate Data Engineer](https://job-boards.greenhouse.io/abinbev/jobs/8617833002) | Remote, Brazil | greenhouse |
+| 2026-11-12 | abinbev | [Intermediate Data Engineer](https://job-boards.greenhouse.io/abinbev/jobs/7598518002) | Brazil, Remote | greenhouse |
 | 2026-11-12 | abinbev | [Mid Level Data Analyst](https://job-boards.greenhouse.io/abinbev/jobs/8675651002) | Remote, Brazil | greenhouse |
-| 2026-11-12 | abinbev | [Senior Data Analyst](https://job-boards.greenhouse.io/abinbev/jobs/8675757002) | Remote, Brazil | greenhouse |
 | 2026-11-12 | abinbev | [Senior Data Analyst](https://job-boards.greenhouse.io/abinbev/jobs/8147553002) | Remote, Brazil | greenhouse |
+| 2026-11-12 | abinbev | [Senior Data Analyst](https://job-boards.greenhouse.io/abinbev/jobs/8675757002) | Remote, Brazil | greenhouse |
 | 2026-11-12 | abinbev | [Senior Data Analyst](https://job-boards.greenhouse.io/abinbev/jobs/8638804002) | Remote, Brazil | greenhouse |
 | 2026-11-12 | abinbev | [Senior Data Engineer](https://job-boards.greenhouse.io/abinbev/jobs/8422274002) | Remote, Brazil | greenhouse |
 | 2026-11-12 | abinbev | [Senior Data Scientist - Portfolio](https://job-boards.greenhouse.io/abinbev/jobs/8920270002) | Remote | greenhouse |
@@ -228,10 +229,4 @@ _Last updated: 2026-11-14 18:11 CST_
 | 2026-11-12 | moniepoint | [Analytics Manager](https://job-boards.eu.greenhouse.io/moniepoint/jobs/4941696101) | Remote, Spain | greenhouse |
 | 2026-11-12 | moniepoint | [Analytics Manager](https://job-boards.eu.greenhouse.io/moniepoint/jobs/4941669101) | Remote, Poland | greenhouse |
 | 2026-11-12 | purestorage | [Alliance Marketing Manager, Artificial Intelligence](https://job-boards.greenhouse.io/purestorage/jobs/8214921) | Remote, United States | greenhouse |
-| 2026-11-12 | generalmatter | [Applied AI Engineer](https://job-boards.greenhouse.io/generalmatter/jobs/5190258008) | Los Angeles, CA | greenhouse |
-| 2026-11-12 | cardata | [Jr. Data Analyst](https://job-boards.greenhouse.io/cardata/jobs/4486297009) | Canada - Remote | greenhouse |
-| 2026-11-12 | clearcapital | [Data Engineer](https://jobs.lever.co/clearcapital/5f8b97e6-d0b0-46a0-a876-d1eeb9b6f4e8) | Reno, NV | lever |
-| 2026-11-12 | Landlord | [AI Engineer](https://news.ycombinator.com/item?id=50461075) | Beaverton, OR, ONSITE, Full-time | hn_hiring |
-| 2026-11-12 | stage | [Reference Data Engineer](https://www.kkr.com/careers/career-opportunities/post?gh_jid=6188875004) | New York, New York, United States | greenhouse |
-| 2026-11-12 | xai | [Sr. Machine Learning Engineer, Search Ranking](https://job-boards.greenhouse.io/xai/jobs/5125621007) | Palo Alto, CA | greenhouse |
 <!-- JOBS:END -->
