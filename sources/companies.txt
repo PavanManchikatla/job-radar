@@ -20127,3 +20127,15 @@ bayworks
 adalatai
 adalat-ai
 adalat
+
+# --- YC hiring companies ---
+darwinrobotics
+darwin-robotics
+turnstone
+litmus
+hublabs
+hub-labs
+preload
+dualizer
+epsilab
+gatherhq
