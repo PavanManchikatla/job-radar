@@ -5430,7 +5430,6 @@ lumbermens	no_matching_jobs
 joinparadigm	no_matching_jobs
 presidents	no_matching_jobs
 aquaticcapitalmanagement	no_matching_jobs
-genscript	no_matching_jobs
 mirumpharmaceuticals	no_matching_jobs
 fashionnova	no_matching_jobs
 voxel51	no_matching_jobs
