@@ -571,7 +571,6 @@ balyasny	http_404
 winton	no_matching_jobs
 renaissance	http_404
 sequoia	http_404
-point72	no_matching_jobs
 accel	http_404
 greylock	http_404
 kleiner perkins	http_404
