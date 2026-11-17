@@ -15588,7 +15588,6 @@ aspiration-2	http_404
 attackiq	http_404
 aurorasolar	http_404
 attovia-therapeutics	no_matching_jobs
-arrivelogistics	no_matching_jobs
 augmedix	http_404
 autonomys	http_404
 ava	http_404
@@ -17531,7 +17530,6 @@ rainfocus	no_matching_jobs
 radpowerbikes-2	http_404
 rangeenergy	no_jobs
 ramenvr	no_jobs
-rai	no_matching_jobs
 rapidai	no_matching_jobs
 ranger	no_matching_jobs
 ranitherapeutics	http_404

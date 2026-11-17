@@ -121,3 +121,5 @@ truezerotech
 unify
 viseven
 zaimler
+arrivelogistics
+rai
