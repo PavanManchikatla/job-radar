@@ -5451,7 +5451,6 @@ nooks	no_matching_jobs
 eucalyptus	no_matching_jobs
 unrealsnacks	no_matching_jobs
 g2crowd	http_404
-airbnb	no_matching_jobs
 equatic	http_404
 articulate	http_404
 mycase	no_jobs
@@ -5679,7 +5678,6 @@ centriaautism	no_matching_jobs
 littleotter	http_404
 dialoguehealthtechnologiesinc	http_404
 hoyoverse	no_jobs
-calm	no_matching_jobs
 avidxchangeinc	no_matching_jobs
 omnicomhealth	no_matching_jobs
 sorcero	http_404
@@ -5882,7 +5880,6 @@ shapetherapeutics	http_404
 joinforage	http_404
 sezzle	no_matching_jobs
 workleap	no_matching_jobs
-afresh	no_matching_jobs
 accrue	no_matching_jobs
 pliancy	no_matching_jobs
 codeword	no_matching_jobs
@@ -6421,7 +6418,6 @@ luno	no_matching_jobs
 breakthroughenergy38	http_404
 summer	no_matching_jobs
 gradientcomfort	http_404
-coherehealth	no_matching_jobs
 veratherapeuticsinc	no_matching_jobs
 flipp	no_matching_jobs
 mx51	no_matching_jobs
@@ -6658,7 +6654,6 @@ noahmedical	no_matching_jobs
 etec	no_matching_jobs
 rocketmiles	no_matching_jobs
 bam	http_404
-vectranetworks	no_matching_jobs
 givewell	no_matching_jobs
 samainc	no_matching_jobs
 rothesaygraduates	no_matching_jobs
@@ -8135,7 +8130,6 @@ cosmoslabs	no_matching_jobs
 stratacareers	no_matching_jobs
 portable	no_matching_jobs
 packlink	no_jobs
-echodynecorp	no_matching_jobs
 xendit	no_matching_jobs
 2u	no_matching_jobs
 telnyx54	no_matching_jobs
@@ -8485,7 +8479,6 @@ everdriven	no_matching_jobs
 hc360	no_matching_jobs
 xgs	http_404
 durable	no_matching_jobs
-powerdigitalmarketing	no_matching_jobs
 donorbox	no_matching_jobs
 zenjob	http_404
 valtechgreenhouse	no_jobs
