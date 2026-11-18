@@ -9822,7 +9822,6 @@ jointopo	no_jobs
 noodle	no_matching_jobs
 nitra	no_matching_jobs
 openpayd	http_404
-npowermedicine	no_matching_jobs
 ntdsoftware	http_404
 o-p-e-n	no_matching_jobs
 nxscale	http_404
@@ -17669,7 +17668,6 @@ roy-cooper	no_jobs
 rsandf-2	http_404
 rxsavingssolutions-2	http_404
 rupa	no_matching_jobs
-miteksystems-2	no_matching_jobs
 mixlab	no_matching_jobs
 propellerhead	no_matching_jobs
 rapiddeploy	no_jobs

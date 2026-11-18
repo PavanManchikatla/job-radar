@@ -2849,7 +2849,6 @@ resource guru	http_400
 forecast	no_postings
 float	no_postings
 project.co	http_400
-freshworks	no_matching_jobs
 productive	no_postings
 function point	http_400
 runn	no_postings

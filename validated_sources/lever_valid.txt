@@ -123,3 +123,5 @@ viseven
 zaimler
 arrivelogistics
 rai
+npowermedicine
+miteksystems-2
