@@ -5077,7 +5077,6 @@ mavenclinicproviders	no_matching_jobs
 trace3	no_matching_jobs
 beamup	no_matching_jobs
 insider	no_matching_jobs
-ruggable	no_matching_jobs
 fundraiseup	http_404
 octave	no_matching_jobs
 planradar	no_matching_jobs
@@ -5153,7 +5152,6 @@ linqia	no_matching_jobs
 faradayfuture	no_matching_jobs
 vikingglobalinvestors	no_matching_jobs
 crescendohealth	http_404
-gofasti	no_matching_jobs
 turtlerockstudios	no_matching_jobs
 medsien	no_matching_jobs
 zeals	no_matching_jobs
@@ -5704,7 +5702,6 @@ team1	http_404
 eei	no_matching_jobs
 hugeinc	no_matching_jobs
 boldbusiness	http_404
-employerdirecthealthcare	no_matching_jobs
 thetustingroupasp	http_404
 darkhorseviz	no_matching_jobs
 thebaltimorebanner	no_matching_jobs
@@ -6994,7 +6991,6 @@ hoodhp	no_matching_jobs
 comstock	no_matching_jobs
 cardioone	http_404
 clever	no_matching_jobs
-redwoodmaterials	no_matching_jobs
 mantrahealth	no_matching_jobs
 enboarder	no_matching_jobs
 paloit	http_404
@@ -7344,7 +7340,6 @@ unbounce	no_jobs
 dhigroupinc	no_matching_jobs
 jobber	http_404
 madano	no_matching_jobs
-pendo	no_matching_jobs
 ever	no_matching_jobs
 embroker	http_404
 174powerglobal	http_404
@@ -7437,7 +7432,6 @@ thousandeyes	http_404
 nightfall	http_404
 cockroachlabs	no_matching_jobs
 govos	http_404
-realchemistry	no_matching_jobs
 firmpilotailawfirmmarketing	no_matching_jobs
 neuehealth	no_matching_jobs
 galvanizeclimatesolutions	no_matching_jobs
@@ -8308,7 +8302,6 @@ daylight	no_matching_jobs
 bigleafnetworks	no_jobs
 gluo	http_404
 vsco39	no_matching_jobs
-nextiva	no_matching_jobs
 formaaiinc	no_matching_jobs
 simspace	http_404
 clickstop	no_matching_jobs
@@ -8362,7 +8355,6 @@ azuritypharmaceuticalsindia	no_matching_jobs
 aperaaiinc	no_matching_jobs
 shearerssnacks	http_404
 finitestate	no_matching_jobs
-exiger	no_matching_jobs
 parsecautomationcorp	no_matching_jobs
 tandemlaunch	no_matching_jobs
 urbansky	no_matching_jobs
