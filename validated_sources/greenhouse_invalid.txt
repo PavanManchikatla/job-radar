@@ -5364,7 +5364,6 @@ rtingscom	no_matching_jobs
 olympusproperty	no_matching_jobs
 paytronix	http_404
 m3	no_matching_jobs
-oscar	no_matching_jobs
 surveymonkey	no_jobs
 loizero	no_matching_jobs
 autods	no_matching_jobs
@@ -6885,7 +6884,6 @@ relyance	http_404
 ingenuityprep	no_matching_jobs
 iconcareers	no_matching_jobs
 sequoiabiotech	http_404
-acuitymd	no_matching_jobs
 gardacp	no_matching_jobs
 convenientmd	no_matching_jobs
 stressfree	http_404
@@ -6911,7 +6909,6 @@ kinship	http_404
 cannabisandglass	no_matching_jobs
 wayve	http_404
 influential	http_404
-sproutsocial	no_matching_jobs
 elegen	http_404
 irradianttechnologies	http_404
 veriforce	http_404
@@ -7038,7 +7035,6 @@ tigargymnastics	no_matching_jobs
 hawthornemachineryco	no_matching_jobs
 fountain	http_404
 pingcap	no_matching_jobs
-metropolis	no_matching_jobs
 concerthealth	no_matching_jobs
 creditasen	http_404
 earnin	no_matching_jobs
@@ -8612,7 +8608,6 @@ avetta	no_matching_jobs
 arcboatcompany	no_matching_jobs
 publicsq	http_404
 microblink	no_matching_jobs
-affirmedrxpbc	no_matching_jobs
 eaf	http_404
 shearersinternalmobility	http_404
 aclunj	no_matching_jobs

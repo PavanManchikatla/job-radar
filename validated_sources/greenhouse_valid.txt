@@ -533,3 +533,8 @@ pendo
 realchemistry
 nextiva
 exiger
+oscar
+acuitymd
+sproutsocial
+metropolis
+affirmedrxpbc

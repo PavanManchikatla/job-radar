@@ -9825,7 +9825,6 @@ openpayd	http_404
 ntdsoftware	http_404
 o-p-e-n	no_matching_jobs
 nxscale	http_404
-openx	no_matching_jobs
 orcabiosystems	no_matching_jobs
 otilumionics	no_matching_jobs
 osedea	no_matching_jobs
