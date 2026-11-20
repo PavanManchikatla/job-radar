@@ -9664,7 +9664,6 @@ hellonanny	no_matching_jobs
 hint	no_matching_jobs
 hermeus	no_matching_jobs
 hungerfreeamerica	http_404
-cfsenergy	no_matching_jobs
 imo-online	no_matching_jobs
 imentor	no_matching_jobs
 idt	no_matching_jobs
