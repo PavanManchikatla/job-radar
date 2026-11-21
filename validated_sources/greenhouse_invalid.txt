@@ -5258,7 +5258,6 @@ bridgebio	no_matching_jobs
 horacemannagents	no_matching_jobs
 grasshopperasia	no_matching_jobs
 fiveringsllc	no_matching_jobs
-five9	no_matching_jobs
 chartbeatinc	no_matching_jobs
 foursquare26	http_404
 readai	http_404
@@ -5978,7 +5977,6 @@ guerrilla-games	no_jobs
 bringg	no_matching_jobs
 jdcom	http_404
 greenirony	http_404
-tribalscale	no_matching_jobs
 pointc	no_matching_jobs
 magichatconsulting	no_matching_jobs
 lush	no_matching_jobs
@@ -6603,7 +6601,6 @@ blabuscanada	no_jobs
 hexagonbio	no_matching_jobs
 capitalfarmcredit	no_matching_jobs
 tillatechnologies	http_404
-sparksoftcorporation	no_matching_jobs
 ls3p	no_matching_jobs
 lifeskillsautismacademy	no_matching_jobs
 tennesseetitleloansinc	no_matching_jobs
@@ -7284,7 +7281,6 @@ avochato	no_matching_jobs
 sesai	no_matching_jobs
 pebblepost	http_404
 datavirtuality	http_404
-samsara	no_matching_jobs
 discmedicine	no_matching_jobs
 simplifed	no_matching_jobs
 aclunc	no_matching_jobs
@@ -8036,7 +8032,6 @@ engineeringatgigs	no_matching_jobs
 venncity	no_matching_jobs
 bellroy	no_matching_jobs
 fsg	no_jobs
-versaterm	no_matching_jobs
 lifeedittherapeutics	no_jobs
 bbyo	no_matching_jobs
 fluxon	no_matching_jobs
@@ -8450,7 +8445,6 @@ athinkingape	no_jobs
 burnt	no_matching_jobs
 momentus	no_matching_jobs
 everdriven	no_matching_jobs
-hc360	no_matching_jobs
 xgs	http_404
 durable	no_matching_jobs
 donorbox	no_matching_jobs
@@ -8659,7 +8653,6 @@ verainstituteofjustice	no_matching_jobs
 kallesgroup	no_matching_jobs
 actpowerservices	http_404
 2k	no_matching_jobs
-pointdigitalfinance	no_matching_jobs
 ahrefsjobs	no_matching_jobs
 animalcarecenterprinceton	no_matching_jobs
 foodcorps	http_404

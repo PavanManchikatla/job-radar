@@ -2868,7 +2868,6 @@ epicor	no_postings
 infor	no_postings
 sage intacct	http_400
 netsuite	no_postings
-acumatica	no_matching_jobs
 quickbooks enterprise	http_400
 xero	no_postings
 zoho books	http_400
