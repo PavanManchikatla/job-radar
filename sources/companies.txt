@@ -20139,3 +20139,17 @@ preload
 dualizer
 epsilab
 gatherhq
+
+# --- YC hiring companies ---
+trainy
+traceroot
+specificlabs
+specific-labs
+specific
+netter
+cova
+wideframe
+fluxcap
+tenetindustries
+tenet-industries
+horizontal
