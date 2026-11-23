@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-22T21:40:59.632379+00:00",
+  "generated_at": "2026-11-23T05:55:51.800591+00:00",
   "timezone": "America/Chicago",
-  "count": 35,
+  "count": 32,
   "jobs": [
     {
       "source": "greenhouse",
@@ -10,10 +10,22 @@
       "company": "reddit",
       "location": "Remote - United States",
       "url": "https://job-boards.greenhouse.io/reddit/jobs/8282760",
-      "posted_at": "2026-11-22T00:18:42+00:00",
-      "first_seen_at": "2026-11-22T21:31:18.577380+00:00",
-      "last_seen_at": "2026-11-22T21:40:59.622953+00:00",
+      "posted_at": "2026-11-23T00:09:13+00:00",
+      "first_seen_at": "2026-11-23T05:46:17.880944+00:00",
+      "last_seen_at": "2026-11-23T05:55:51.788174+00:00",
       "score": 3
+    },
+    {
+      "source": "greenhouse",
+      "job_id": "8282748",
+      "title": "Senior Staff Applied Scientist, Science Platform",
+      "company": "reddit",
+      "location": "Remote - United States",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/8282748",
+      "posted_at": "2026-11-23T00:09:13+00:00",
+      "first_seen_at": "2026-11-23T05:46:17.880944+00:00",
+      "last_seen_at": "2026-11-23T05:55:51.788174+00:00",
+      "score": 2
     },
     {
       "source": "greenhouse",
@@ -22,9 +34,9 @@
       "company": "reddit",
       "location": "Remote - United States",
       "url": "https://job-boards.greenhouse.io/reddit/jobs/7330347",
-      "posted_at": "2026-11-22T00:18:42+00:00",
-      "first_seen_at": "2026-11-22T21:31:18.577380+00:00",
-      "last_seen_at": "2026-11-22T21:40:59.622953+00:00",
+      "posted_at": "2026-11-23T00:09:12+00:00",
+      "first_seen_at": "2026-11-23T05:46:17.880944+00:00",
+      "last_seen_at": "2026-11-23T05:55:51.788174+00:00",
       "score": 2
     },
     {
@@ -34,33 +46,9 @@
       "company": "reddit",
       "location": "Remote - United States",
       "url": "https://job-boards.greenhouse.io/reddit/jobs/8289345",
-      "posted_at": "2026-11-22T00:18:42+00:00",
-      "first_seen_at": "2026-11-22T21:31:18.577380+00:00",
-      "last_seen_at": "2026-11-22T21:40:59.622953+00:00",
-      "score": 2
-    },
-    {
-      "source": "greenhouse",
-      "job_id": "8282748",
-      "title": "Senior Staff Applied Scientist, Science Platform",
-      "company": "reddit",
-      "location": "Remote - United States",
-      "url": "https://job-boards.greenhouse.io/reddit/jobs/8282748",
-      "posted_at": "2026-11-22T00:18:42+00:00",
-      "first_seen_at": "2026-11-22T21:31:18.577380+00:00",
-      "last_seen_at": "2026-11-22T21:40:59.622953+00:00",
-      "score": 2
-    },
-    {
-      "source": "greenhouse",
-      "job_id": "8316086",
-      "title": "Staff Machine Learning Engineer, Retrieval & Targeting",
-      "company": "reddit",
-      "location": "Remote - United States",
-      "url": "https://job-boards.greenhouse.io/reddit/jobs/8316086",
-      "posted_at": "2026-11-22T00:18:42+00:00",
-      "first_seen_at": "2026-11-22T21:31:18.577380+00:00",
-      "last_seen_at": "2026-11-22T21:40:59.622953+00:00",
+      "posted_at": "2026-11-23T00:09:12+00:00",
+      "first_seen_at": "2026-11-23T05:46:17.880944+00:00",
+      "last_seen_at": "2026-11-23T05:55:51.788174+00:00",
       "score": 2
     },
     {
@@ -70,33 +58,9 @@
       "company": "reddit",
       "location": "Remote - United States",
       "url": "https://job-boards.greenhouse.io/reddit/jobs/8368600",
-      "posted_at": "2026-11-22T00:18:41+00:00",
-      "first_seen_at": "2026-11-22T21:31:18.577380+00:00",
-      "last_seen_at": "2026-11-22T21:40:59.622953+00:00",
-      "score": 2
-    },
-    {
-      "source": "greenhouse",
-      "job_id": "8072076",
-      "title": "Staff Data Scientist - Ads Measurement, Signals, Privacy",
-      "company": "reddit",
-      "location": "Remote - United States",
-      "url": "https://job-boards.greenhouse.io/reddit/jobs/8072076",
-      "posted_at": "2026-11-22T00:18:41+00:00",
-      "first_seen_at": "2026-11-22T21:31:18.577380+00:00",
-      "last_seen_at": "2026-11-22T21:40:59.622953+00:00",
-      "score": 2
-    },
-    {
-      "source": "greenhouse",
-      "job_id": "8103609",
-      "title": "Staff Data Scientist - Ads Measurement, Signals, Privacy",
-      "company": "reddit",
-      "location": "Remote - British Columbia, Canada",
-      "url": "https://job-boards.greenhouse.io/reddit/jobs/8103609",
-      "posted_at": "2026-11-22T00:18:41+00:00",
-      "first_seen_at": "2026-11-22T21:31:18.577380+00:00",
-      "last_seen_at": "2026-11-22T21:40:59.622953+00:00",
+      "posted_at": "2026-11-23T00:09:12+00:00",
+      "first_seen_at": "2026-11-23T05:46:17.880944+00:00",
+      "last_seen_at": "2026-11-23T05:55:51.788174+00:00",
       "score": 2
     },
     {
@@ -106,9 +70,21 @@
       "company": "reddit",
       "location": "Remote - United States",
       "url": "https://job-boards.greenhouse.io/reddit/jobs/8334138",
-      "posted_at": "2026-11-22T00:18:41+00:00",
-      "first_seen_at": "2026-11-22T21:31:18.577380+00:00",
-      "last_seen_at": "2026-11-22T21:40:59.622953+00:00",
+      "posted_at": "2026-11-23T00:09:12+00:00",
+      "first_seen_at": "2026-11-23T05:46:17.880944+00:00",
+      "last_seen_at": "2026-11-23T05:55:51.788174+00:00",
+      "score": 2
+    },
+    {
+      "source": "greenhouse",
+      "job_id": "8316086",
+      "title": "Staff Machine Learning Engineer, Retrieval & Targeting",
+      "company": "reddit",
+      "location": "Remote - United States",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/8316086",
+      "posted_at": "2026-11-23T00:09:12+00:00",
+      "first_seen_at": "2026-11-23T05:46:17.880944+00:00",
+      "last_seen_at": "2026-11-23T05:55:51.788174+00:00",
       "score": 2
     },
     {
@@ -118,9 +94,9 @@
       "company": "reddit",
       "location": "Remote - United States",
       "url": "https://job-boards.greenhouse.io/reddit/jobs/8029120",
-      "posted_at": "2026-11-22T00:18:40+00:00",
-      "first_seen_at": "2026-11-22T21:31:18.577380+00:00",
-      "last_seen_at": "2026-11-22T21:40:59.622953+00:00",
+      "posted_at": "2026-11-23T00:09:11+00:00",
+      "first_seen_at": "2026-11-23T05:46:17.880944+00:00",
+      "last_seen_at": "2026-11-23T05:55:51.788174+00:00",
       "score": 2
     },
     {
@@ -130,9 +106,33 @@
       "company": "reddit",
       "location": "Remote - United States",
       "url": "https://job-boards.greenhouse.io/reddit/jobs/7974605",
-      "posted_at": "2026-11-22T00:18:40+00:00",
-      "first_seen_at": "2026-11-22T21:31:18.577380+00:00",
-      "last_seen_at": "2026-11-22T21:40:59.622953+00:00",
+      "posted_at": "2026-11-23T00:09:11+00:00",
+      "first_seen_at": "2026-11-23T05:46:17.880944+00:00",
+      "last_seen_at": "2026-11-23T05:55:51.788174+00:00",
+      "score": 2
+    },
+    {
+      "source": "greenhouse",
+      "job_id": "8072076",
+      "title": "Staff Data Scientist - Ads Measurement, Signals, Privacy",
+      "company": "reddit",
+      "location": "Remote - United States",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/8072076",
+      "posted_at": "2026-11-23T00:09:11+00:00",
+      "first_seen_at": "2026-11-23T05:46:17.880944+00:00",
+      "last_seen_at": "2026-11-23T05:55:51.788174+00:00",
+      "score": 2
+    },
+    {
+      "source": "greenhouse",
+      "job_id": "8103609",
+      "title": "Staff Data Scientist - Ads Measurement, Signals, Privacy",
+      "company": "reddit",
+      "location": "Remote - British Columbia, Canada",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/8103609",
+      "posted_at": "2026-11-23T00:09:11+00:00",
+      "first_seen_at": "2026-11-23T05:46:17.880944+00:00",
+      "last_seen_at": "2026-11-23T05:55:51.788174+00:00",
       "score": 2
     },
     {
@@ -142,9 +142,9 @@
       "company": "reddit",
       "location": "Remote - United States",
       "url": "https://job-boards.greenhouse.io/reddit/jobs/7445240",
-      "posted_at": "2026-11-22T00:18:40+00:00",
-      "first_seen_at": "2026-11-22T21:31:18.577380+00:00",
-      "last_seen_at": "2026-11-22T21:40:59.622953+00:00",
+      "posted_at": "2026-11-23T00:09:11+00:00",
+      "first_seen_at": "2026-11-23T05:46:17.880944+00:00",
+      "last_seen_at": "2026-11-23T05:55:51.788174+00:00",
       "score": 2
     },
     {
@@ -154,9 +154,9 @@
       "company": "reddit",
       "location": "Remote - Ontario, Canada",
       "url": "https://job-boards.greenhouse.io/reddit/jobs/7931000",
-      "posted_at": "2026-11-22T00:18:40+00:00",
-      "first_seen_at": "2026-11-22T21:31:18.577380+00:00",
-      "last_seen_at": "2026-11-22T21:40:59.622953+00:00",
+      "posted_at": "2026-11-23T00:09:11+00:00",
+      "first_seen_at": "2026-11-23T05:46:17.880944+00:00",
+      "last_seen_at": "2026-11-23T05:55:51.788174+00:00",
       "score": 2
     },
     {
@@ -166,21 +166,9 @@
       "company": "reddit",
       "location": "Remote - United States",
       "url": "https://job-boards.greenhouse.io/reddit/jobs/8250389",
-      "posted_at": "2026-11-22T00:18:40+00:00",
-      "first_seen_at": "2026-11-22T21:31:18.577380+00:00",
-      "last_seen_at": "2026-11-22T21:40:59.622953+00:00",
-      "score": 2
-    },
-    {
-      "source": "greenhouse",
-      "job_id": "8104403",
-      "title": "Senior Data Scientist, Ads",
-      "company": "reddit",
-      "location": "Remote - United States",
-      "url": "https://job-boards.greenhouse.io/reddit/jobs/8104403",
-      "posted_at": "2026-11-22T00:18:39+00:00",
-      "first_seen_at": "2026-11-22T21:31:18.577380+00:00",
-      "last_seen_at": "2026-11-22T21:40:59.622953+00:00",
+      "posted_at": "2026-11-23T00:09:11+00:00",
+      "first_seen_at": "2026-11-23T05:46:17.880944+00:00",
+      "last_seen_at": "2026-11-23T05:55:51.788174+00:00",
       "score": 2
     },
     {
@@ -190,9 +178,9 @@
       "company": "reddit",
       "location": "Remote - United States",
       "url": "https://job-boards.greenhouse.io/reddit/jobs/8126946",
-      "posted_at": "2026-11-22T00:18:39+00:00",
-      "first_seen_at": "2026-11-22T21:31:18.577380+00:00",
-      "last_seen_at": "2026-11-22T21:40:59.622953+00:00",
+      "posted_at": "2026-11-23T00:09:10+00:00",
+      "first_seen_at": "2026-11-23T05:46:17.880944+00:00",
+      "last_seen_at": "2026-11-23T05:55:51.788174+00:00",
       "score": 2
     },
     {
@@ -202,9 +190,9 @@
       "company": "reddit",
       "location": "Remote - United States",
       "url": "https://job-boards.greenhouse.io/reddit/jobs/8157275",
-      "posted_at": "2026-11-22T00:18:39+00:00",
-      "first_seen_at": "2026-11-22T21:31:18.577380+00:00",
-      "last_seen_at": "2026-11-22T21:40:59.622953+00:00",
+      "posted_at": "2026-11-23T00:09:10+00:00",
+      "first_seen_at": "2026-11-23T05:46:17.880944+00:00",
+      "last_seen_at": "2026-11-23T05:55:51.788174+00:00",
       "score": 2
     },
     {
@@ -214,21 +202,9 @@
       "company": "reddit",
       "location": "Remote - United States",
       "url": "https://job-boards.greenhouse.io/reddit/jobs/7721787",
-      "posted_at": "2026-11-22T00:18:39+00:00",
-      "first_seen_at": "2026-11-22T21:31:18.577380+00:00",
-      "last_seen_at": "2026-11-22T21:40:59.622953+00:00",
-      "score": 2
-    },
-    {
-      "source": "greenhouse",
-      "job_id": "7721851",
-      "title": "Staff Data Scientist, Ads",
-      "company": "reddit",
-      "location": "Remote - Ontario, Canada",
-      "url": "https://job-boards.greenhouse.io/reddit/jobs/7721851",
-      "posted_at": "2026-11-22T00:18:39+00:00",
-      "first_seen_at": "2026-11-22T21:31:18.577380+00:00",
-      "last_seen_at": "2026-11-22T21:40:59.622953+00:00",
+      "posted_at": "2026-11-23T00:09:10+00:00",
+      "first_seen_at": "2026-11-23T05:46:17.880944+00:00",
+      "last_seen_at": "2026-11-23T05:55:51.788174+00:00",
       "score": 2
     },
     {
@@ -238,9 +214,33 @@
       "company": "reddit",
       "location": "Remote - United States",
       "url": "https://job-boards.greenhouse.io/reddit/jobs/8178085",
-      "posted_at": "2026-11-22T00:18:39+00:00",
-      "first_seen_at": "2026-11-22T21:31:18.577380+00:00",
-      "last_seen_at": "2026-11-22T21:40:59.622953+00:00",
+      "posted_at": "2026-11-23T00:09:10+00:00",
+      "first_seen_at": "2026-11-23T05:46:17.880944+00:00",
+      "last_seen_at": "2026-11-23T05:55:51.788174+00:00",
+      "score": 2
+    },
+    {
+      "source": "greenhouse",
+      "job_id": "8104403",
+      "title": "Senior Data Scientist, Ads",
+      "company": "reddit",
+      "location": "Remote - United States",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/8104403",
+      "posted_at": "2026-11-23T00:09:09+00:00",
+      "first_seen_at": "2026-11-23T05:46:17.880944+00:00",
+      "last_seen_at": "2026-11-23T05:55:51.788174+00:00",
+      "score": 2
+    },
+    {
+      "source": "greenhouse",
+      "job_id": "7721851",
+      "title": "Staff Data Scientist, Ads",
+      "company": "reddit",
+      "location": "Remote - Ontario, Canada",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/7721851",
+      "posted_at": "2026-11-23T00:09:09+00:00",
+      "first_seen_at": "2026-11-23T05:46:17.880944+00:00",
+      "last_seen_at": "2026-11-23T05:55:51.788174+00:00",
       "score": 2
     },
     {
@@ -251,8 +251,8 @@
       "location": "Canada - Remote (ON, AB, BC, or NS Only)",
       "url": "https://instacart.careers/job/?gh_jid=8407369",
       "posted_at": "2026-11-20T22:24:24+00:00",
-      "first_seen_at": "2026-11-22T21:31:07.779135+00:00",
-      "last_seen_at": "2026-11-22T21:40:59.622953+00:00",
+      "first_seen_at": "2026-11-23T05:46:13.666652+00:00",
+      "last_seen_at": "2026-11-23T05:55:51.788174+00:00",
       "score": 3
     },
     {
@@ -263,8 +263,8 @@
       "location": "United States - Remote",
       "url": "https://instacart.careers/job/?gh_jid=8407367",
       "posted_at": "2026-11-20T22:24:20+00:00",
-      "first_seen_at": "2026-11-22T21:31:07.779135+00:00",
-      "last_seen_at": "2026-11-22T21:40:59.622953+00:00",
+      "first_seen_at": "2026-11-23T05:46:13.666652+00:00",
+      "last_seen_at": "2026-11-23T05:55:51.788174+00:00",
       "score": 3
     },
     {
@@ -275,8 +275,8 @@
       "location": "Remote",
       "url": "https://jobs.lever.co/bhg-inc/df877ca7-c010-4f13-84dc-f0d93312bb89",
       "posted_at": "2026-11-20T22:20:59.355000+00:00",
-      "first_seen_at": "2026-11-22T21:31:23.510210+00:00",
-      "last_seen_at": "2026-11-22T21:40:59.622953+00:00",
+      "first_seen_at": "2026-11-23T05:46:32.779477+00:00",
+      "last_seen_at": "2026-11-23T05:55:51.788174+00:00",
       "score": 6
     },
     {
@@ -287,8 +287,8 @@
       "location": "San Francisco, CA, USA",
       "url": "https://boards.greenhouse.io/chime/jobs/8612045002?gh_jid=8612045002",
       "posted_at": "2026-11-20T21:03:18+00:00",
-      "first_seen_at": "2026-11-22T21:31:07.228326+00:00",
-      "last_seen_at": "2026-11-22T21:40:59.622953+00:00",
+      "first_seen_at": "2026-11-23T05:46:01.092856+00:00",
+      "last_seen_at": "2026-11-23T05:55:51.788174+00:00",
       "score": 0
     },
     {
@@ -299,8 +299,8 @@
       "location": "Salt Lake City, UT",
       "url": "https://jobs.lever.co/circadiahealth/00ecec3e-1057-4fd4-8ca7-ab49c83e2141",
       "posted_at": "2026-11-20T20:15:23.115000+00:00",
-      "first_seen_at": "2026-11-22T21:32:05.167105+00:00",
-      "last_seen_at": "2026-11-22T21:40:59.622953+00:00",
+      "first_seen_at": "2026-11-23T05:46:45.695276+00:00",
+      "last_seen_at": "2026-11-23T05:55:51.788174+00:00",
       "score": 5
     },
     {
@@ -311,8 +311,8 @@
       "location": "Bellevue WA us",
       "url": "https://api.smartrecruiters.com/v1/companies/acumatica/postings/744000162799989",
       "posted_at": "2026-11-20T18:28:18.079000+00:00",
-      "first_seen_at": "2026-11-22T21:32:19.983796+00:00",
-      "last_seen_at": "2026-11-22T21:40:59.622953+00:00",
+      "first_seen_at": "2026-11-23T05:47:12.092654+00:00",
+      "last_seen_at": "2026-11-23T05:55:51.788174+00:00",
       "score": 1
     },
     {
@@ -323,8 +323,8 @@
       "location": "Germantown, MD",
       "url": "https://jobs.lever.co/datalabusa/383b9e61-fcc0-4b95-b094-e7572ebae1e7",
       "posted_at": "2026-11-20T15:46:09.262000+00:00",
-      "first_seen_at": "2026-11-22T21:32:00.851336+00:00",
-      "last_seen_at": "2026-11-22T21:40:59.622953+00:00",
+      "first_seen_at": "2026-11-23T05:46:52.360636+00:00",
+      "last_seen_at": "2026-11-23T05:55:51.788174+00:00",
       "score": 1
     },
     {
@@ -335,8 +335,8 @@
       "location": "Remote - India",
       "url": "https://job-boards.greenhouse.io/twilio/jobs/8258593",
       "posted_at": "2026-11-20T15:26:33+00:00",
-      "first_seen_at": "2026-11-22T21:31:10.172717+00:00",
-      "last_seen_at": "2026-11-22T21:40:59.622953+00:00",
+      "first_seen_at": "2026-11-23T05:46:15.469008+00:00",
+      "last_seen_at": "2026-11-23T05:55:51.788174+00:00",
       "score": 2
     },
     {
@@ -347,8 +347,8 @@
       "location": "Remote - Ontario, Canada (DNU)",
       "url": "https://job-boards.greenhouse.io/twilio/jobs/8258589",
       "posted_at": "2026-11-20T15:26:24+00:00",
-      "first_seen_at": "2026-11-22T21:31:10.172717+00:00",
-      "last_seen_at": "2026-11-22T21:40:59.622953+00:00",
+      "first_seen_at": "2026-11-23T05:46:15.469008+00:00",
+      "last_seen_at": "2026-11-23T05:55:51.788174+00:00",
       "score": 2
     },
     {
@@ -359,8 +359,8 @@
       "location": "Remote - India",
       "url": "https://job-boards.greenhouse.io/twilio/jobs/8258587",
       "posted_at": "2026-11-20T15:26:12+00:00",
-      "first_seen_at": "2026-11-22T21:31:10.172717+00:00",
-      "last_seen_at": "2026-11-22T21:40:59.622953+00:00",
+      "first_seen_at": "2026-11-23T05:46:15.469008+00:00",
+      "last_seen_at": "2026-11-23T05:55:51.788174+00:00",
       "score": 3
     },
     {
@@ -371,8 +371,8 @@
       "location": "Remote - Ontario, Canada (DNU)",
       "url": "https://job-boards.greenhouse.io/twilio/jobs/8258581",
       "posted_at": "2026-11-20T15:25:31+00:00",
-      "first_seen_at": "2026-11-22T21:31:10.172717+00:00",
-      "last_seen_at": "2026-11-22T21:40:59.622953+00:00",
+      "first_seen_at": "2026-11-23T05:46:15.469008+00:00",
+      "last_seen_at": "2026-11-23T05:55:51.788174+00:00",
       "score": 2
     },
     {
@@ -383,45 +383,9 @@
       "location": "San Francisco, CA - Hybrid",
       "url": "https://job-boards.greenhouse.io/gusto/jobs/7656216",
       "posted_at": "2026-11-20T14:27:02+00:00",
-      "first_seen_at": "2026-11-22T21:31:11.372181+00:00",
-      "last_seen_at": "2026-11-22T21:40:59.622953+00:00",
+      "first_seen_at": "2026-11-23T05:46:11.869978+00:00",
+      "last_seen_at": "2026-11-23T05:55:51.788174+00:00",
       "score": 0
-    },
-    {
-      "source": "greenhouse",
-      "job_id": "8354411",
-      "title": "Staff Machine Learning Engineer, Ads Lightweight Ranking ",
-      "company": "pinterest",
-      "location": "San Francisco, CA, US; Remote, US",
-      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8354411",
-      "posted_at": "2026-11-19T22:30:13+00:00",
-      "first_seen_at": "2026-11-22T21:31:08.377668+00:00",
-      "last_seen_at": "2026-11-22T21:40:59.622953+00:00",
-      "score": 2
-    },
-    {
-      "source": "greenhouse",
-      "job_id": "8546367002",
-      "title": "AI Engineer \u2013 Forward Deployed Engineering (AI FDE)",
-      "company": "databricks",
-      "location": "United States",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8546367002",
-      "posted_at": "2026-11-19T21:47:39+00:00",
-      "first_seen_at": "2026-11-22T21:31:04.849875+00:00",
-      "last_seen_at": "2026-11-22T21:40:59.622953+00:00",
-      "score": 1
-    },
-    {
-      "source": "greenhouse",
-      "job_id": "8692962002",
-      "title": "Specialist Solutions Architect - Data Engineering & Warehousing (Financial Services) ",
-      "company": "databricks",
-      "location": "United States",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8692962002",
-      "posted_at": "2026-11-19T21:47:39+00:00",
-      "first_seen_at": "2026-11-22T21:31:04.849875+00:00",
-      "last_seen_at": "2026-11-22T21:40:59.622953+00:00",
-      "score": 1
     }
   ]
 }
