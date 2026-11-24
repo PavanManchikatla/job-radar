@@ -9374,7 +9374,6 @@ allegiantair	no_matching_jobs
 anysignal	http_404
 amityfdn	no_matching_jobs
 aofl	http_404
-alltrails	no_matching_jobs
 apolloresearch	no_matching_jobs
 applike	no_jobs
 appen	no_jobs
@@ -10043,7 +10042,6 @@ superiorexecutiveandlegalrecruiting	no_matching_jobs
 synapticure	no_matching_jobs
 sysdig	no_matching_jobs
 tahoebio-ai	no_matching_jobs
-tala	no_matching_jobs
 talentneuron	http_404
 talentus	http_404
 talentwerx	http_404

@@ -123,3 +123,5 @@ tpgsi
 truezerotech
 viseven
 zaimler
+alltrails
+tala
