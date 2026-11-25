@@ -1,10 +1,13 @@
 ## Jobs Feed (auto-updated)
 
 <!-- JOBS:START -->
-_Last updated: 2026-11-24 13:29 CST_
+_Last updated: 2026-11-24 21:31 CST_
 
 | Posted | Company | Title | Location | Source |
 |---|---|---|---|---|
+| 2026-11-25 | twitch | [Data Scientist, Discovery & Recommendations](https://job-boards.greenhouse.io/twitch/jobs/8953490002) | San Francisco, CA | greenhouse |
+| 2026-11-24 | ifm-us | [Research Scientist – Recursive Self-Improvement](https://jobs.lever.co/ifm-us/7afe03d9-a0ae-4d47-90c6-78faca1d8621) | Sunnyvale, CA | lever |
+| 2026-11-24 | twilio | [Principal, Machine Learning Engineer (L5)](https://job-boards.greenhouse.io/twilio/jobs/8258597) | Remote - India | greenhouse |
 | 2026-11-24 | twilio | [Staff Machine Learning Engineer (L4)](https://job-boards.greenhouse.io/twilio/jobs/8258593) | Remote - India | greenhouse |
 | 2026-11-24 | twilio | [Machine Learning Engineer (L3)](https://job-boards.greenhouse.io/twilio/jobs/8258587) | Remote - India | greenhouse |
 | 2026-11-24 | matillion | [Senior Pricing & Analytics Manager](https://jobs.lever.co/matillion/09858ab1-4a6e-4fe4-b4ee-c62db449124f) | United States | lever |
