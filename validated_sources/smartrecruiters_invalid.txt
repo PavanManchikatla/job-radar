@@ -735,7 +735,6 @@ zilliqa	no_postings
 filecoin	no_postings
 ocean protocol	http_400
 storj	no_postings
-sia	no_matching_jobs
 rarible	no_postings
 livepeer	no_postings
 arweave	no_postings

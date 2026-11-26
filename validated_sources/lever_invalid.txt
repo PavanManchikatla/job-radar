@@ -10135,7 +10135,6 @@ wealthsimple	no_jobs
 tsmg	no_matching_jobs
 wepclinical	no_matching_jobs
 walkme	no_matching_jobs
-pointclickcare	no_matching_jobs
 whoop	no_jobs
 wgsn	no_matching_jobs
 wilburlabs	no_matching_jobs
@@ -15557,7 +15556,6 @@ aldar	no_matching_jobs
 askfavor	no_matching_jobs
 asimov	http_404
 astera	http_404
-arrivelogistics	no_matching_jobs
 astra	http_404
 apolloagriculture	no_matching_jobs
 agatesoftware	no_matching_jobs
