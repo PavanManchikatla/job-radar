@@ -17042,7 +17042,6 @@ meshcapade	http_404
 merlinlabs	no_matching_jobs
 menta	no_matching_jobs
 meetingtomorrow	no_matching_jobs
-mendix	no_matching_jobs
 maxmind	no_jobs
 medchart	http_404
 meroxa	no_jobs
