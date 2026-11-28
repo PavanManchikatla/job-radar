@@ -16813,7 +16813,6 @@ kueski	http_404
 kumo	http_404
 kubecost	http_404
 joinroot	http_404
-kpler	no_matching_jobs
 kg	http_404
 kumospace	http_404
 kontakt	no_jobs
